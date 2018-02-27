@@ -1,0 +1,4403 @@
+[
+    {
+        "code_name": "49",
+        "group": "Tutorial",
+        "data": ".....T........T.."
+    },
+    {
+        "code_name": "50",
+        "data": "................."
+    },
+    {
+        "code_name": "51",
+        "data": "...T.....YY.C.YY."
+    },
+    {
+        "code_name": "52",
+        "data": "NNNNNNNNNNNNNNNNN"
+    },
+    {
+        "code_name": "53",
+        "data": ".T.......N..D...."
+    },
+    {
+        "code_name": "54",
+        "data": ".....T...N......."
+    },
+    {
+        "code_name": "55",
+        "data": "........CN....D.."
+    },
+    {
+        "code_name": "56",
+        "data": "......T.CN.D....."
+    },
+    {
+        "code_name": "57",
+        "data": "..T.....YN...D..."
+    },
+    {
+        "code_name": "58",
+        "data": ".........ND.....D"
+    },
+    {
+        "code_name": "59",
+        "data": ".....T..CN...D..."
+    },
+    {
+        "code_name": "60",
+        "data": ".........N.D....."
+    },
+    {
+        "code_name": "61",
+        "data": "..T....T.N.....D."
+    },
+    {
+        "code_name": "62",
+        "data": ".........N......."
+    },
+    {
+        "code_name": "63",
+        "data": "......T..N..RRR.."
+    },
+    {
+        "code_name": "64",
+        "data": "..T......N.RRRRR."
+    },
+    {
+        "code_name": "65",
+        "data": "....T....N.RRRRR."
+    },
+    {
+        "code_name": "66",
+        "data": ".T.....T.N.RRRRR."
+    },
+    {
+        "code_name": "67",
+        "data": "...T.....N.RRRRR."
+    },
+    {
+        "code_name": "68",
+        "data": ".....T...N.RRRRR."
+    },
+    {
+        "code_name": "69",
+        "data": "..T......N.RRRRR."
+    },
+    {
+        "code_name": "70",
+        "data": "......T..N..RRR.."
+    },
+    {
+        "code_name": "71",
+        "data": "...T.....N......."
+    },
+    {
+        "code_name": "72",
+        "data": "NNNNNNNNNNN..NNMM"
+    },
+    {
+        "code_name": "73",
+        "data": "YYC............MM"
+    },
+    {
+        "code_name": "74",
+        "data": "...............MM"
+    },
+    {
+        "code_name": "75",
+        "data": "..............CMM"
+    },
+    {
+        "code_name": "76",
+        "data": "CY............CMM"
+    },
+    {
+        "code_name": "77",
+        "data": "YCC.....YYC...YMM"
+    },
+    {
+        "code_name": "78",
+        "data": "MMM...MMMMMMMMMMM"
+    },
+    {
+        "code_name": "79",
+        "data": "MMM...MMMMMMMMMMM"
+    },
+    {
+        "code_name": "80",
+        "data": "MMM...MMMMMMMMMMM"
+    },
+    {
+        "code_name": "81",
+        "data": "MMM.1.MMMMMMMMMMM"
+    },
+    {
+        "code_name": "82",
+        "group": "Wanted_1",
+        "data": ".RR...2.2.2......"
+    },
+    {
+        "code_name": "83",
+        "data": ".RR...........RR."
+    },
+    {
+        "code_name": "84",
+        "data": "...........T..RR."
+    },
+    {
+        "code_name": "85",
+        "data": "...T............."
+    },
+    {
+        "code_name": "86",
+        "data": "................."
+    },
+    {
+        "code_name": "87",
+        "data": "....RR.....RR...."
+    },
+    {
+        "code_name": "88",
+        "data": "....MM.....MM...."
+    },
+    {
+        "code_name": "89",
+        "data": "..MMMM.....MMMM.."
+    },
+    {
+        "code_name": "90",
+        "data": "....RR.....RR...."
+    },
+    {
+        "code_name": "91",
+        "data": "R...............R"
+    },
+    {
+        "code_name": "92",
+        "data": "R...............R"
+    },
+    {
+        "code_name": "93",
+        "data": "R....XRRXXXXD...R"
+    },
+    {
+        "code_name": "94",
+        "data": "RR..BXRRR.B....RR"
+    },
+    {
+        "code_name": "95",
+        "data": "RR...X.....D...RR"
+    },
+    {
+        "code_name": "96",
+        "data": "RRM....D.......RR"
+    },
+    {
+        "code_name": "97",
+        "data": "RRMB..........MRR"
+    },
+    {
+        "code_name": "98",
+        "data": "RRM..D...D....MRR"
+    },
+    {
+        "code_name": "99",
+        "data": "RRM..........BMRR"
+    },
+    {
+        "code_name": "100",
+        "data": "RR....D......DMRR"
+    },
+    {
+        "code_name": "101",
+        "data": "RR.........X...RR"
+    },
+    {
+        "code_name": "102",
+        "data": "RR..D.B.RRRXB..RR"
+    },
+    {
+        "code_name": "103",
+        "data": "R....XXXXRRX....R"
+    },
+    {
+        "code_name": "104",
+        "data": "R...............R"
+    },
+    {
+        "code_name": "105",
+        "data": "R...............R"
+    },
+    {
+        "code_name": "106",
+        "data": "....RR.....RR...."
+    },
+    {
+        "code_name": "107",
+        "data": "..MMMM.....MMMM.."
+    },
+    {
+        "code_name": "108",
+        "data": "....MM.....MM...."
+    },
+    {
+        "code_name": "109",
+        "data": "....RR.....RR...."
+    },
+    {
+        "code_name": "110",
+        "data": "................."
+    },
+    {
+        "code_name": "111",
+        "data": ".............T..."
+    },
+    {
+        "code_name": "112",
+        "data": ".RR..T..........."
+    },
+    {
+        "code_name": "113",
+        "data": ".RR...........RR."
+    },
+    {
+        "code_name": "114",
+        "data": "......1.1.1...RR."
+    },
+    {
+        "code_name": "115",
+        "group": "Wanted_2",
+        "data": ".RR...2.2.2......"
+    },
+    {
+        "code_name": "116",
+        "data": ".RR...........RR."
+    },
+    {
+        "code_name": "117",
+        "data": "..........D...RR."
+    },
+    {
+        "code_name": "118",
+        "data": "B....D..........."
+    },
+    {
+        "code_name": "119",
+        "data": "...............D."
+    },
+    {
+        "code_name": "120",
+        "data": "....RRR...RRR...."
+    },
+    {
+        "code_name": "121",
+        "data": "RR..MMR...RMM..RR"
+    },
+    {
+        "code_name": "122",
+        "data": "MM..MMR...RMM..MM"
+    },
+    {
+        "code_name": "123",
+        "data": "RRRRRRRRRRRRRRRRR"
+    },
+    {
+        "code_name": "124",
+        "data": "R...........D...R"
+    },
+    {
+        "code_name": "125",
+        "data": "R.....D......B..R"
+    },
+    {
+        "code_name": "126",
+        "data": "R.CMMM...DMMMMY.R"
+    },
+    {
+        "code_name": "127",
+        "data": "R..MRRRRRRRRRM..R"
+    },
+    {
+        "code_name": "128",
+        "data": "R.BMRRRRRRRRR...R"
+    },
+    {
+        "code_name": "129",
+        "data": "R..MRRRRRXXRR.D.R"
+    },
+    {
+        "code_name": "130",
+        "data": "..DMRRRRRRRRR...."
+    },
+    {
+        "code_name": "131",
+        "data": "...MRRRRRRRRRM..."
+    },
+    {
+        "code_name": "132",
+        "data": "....RRRRRRRRRMB.."
+    },
+    {
+        "code_name": "133",
+        "data": "R...RRXXRRRRRM.DR"
+    },
+    {
+        "code_name": "134",
+        "data": "R.D.RRRRRRRRRM..R"
+    },
+    {
+        "code_name": "135",
+        "data": "R..MRRRRRRRRRM..R"
+    },
+    {
+        "code_name": "136",
+        "data": "R.YMMMM.D..MMMC.R"
+    },
+    {
+        "code_name": "137",
+        "data": "R....B.....D....R"
+    },
+    {
+        "code_name": "138",
+        "data": "R...D...........R"
+    },
+    {
+        "code_name": "139",
+        "data": "RRRRRRRRRRRRRRRRR"
+    },
+    {
+        "code_name": "140",
+        "data": "MM..MMR...RMM..MM"
+    },
+    {
+        "code_name": "141",
+        "data": "RR..MMR...RMM..RR"
+    },
+    {
+        "code_name": "142",
+        "data": "....RRR...RRR...."
+    },
+    {
+        "code_name": "143",
+        "data": ".D..............."
+    },
+    {
+        "code_name": "144",
+        "data": "..........D.....B"
+    },
+    {
+        "code_name": "145",
+        "data": ".RR.............."
+    },
+    {
+        "code_name": "146",
+        "data": ".RR...D.......RR."
+    },
+    {
+        "code_name": "147",
+        "data": "......1.1.1...RR."
+    },
+    {
+        "code_name": "148",
+        "group": "Wanted_3",
+        "data": ".RR...2.2.2......"
+    },
+    {
+        "code_name": "149",
+        "data": ".RR...........RR."
+    },
+    {
+        "code_name": "150",
+        "data": "....D.........RR."
+    },
+    {
+        "code_name": "151",
+        "data": "...T.......D....."
+    },
+    {
+        "code_name": "152",
+        "data": "................."
+    },
+    {
+        "code_name": "153",
+        "data": "....RR.....RR...."
+    },
+    {
+        "code_name": "154",
+        "data": "RR..CY.....CY..RR"
+    },
+    {
+        "code_name": "155",
+        "data": "RRMMMM.....MMMMRR"
+    },
+    {
+        "code_name": "156",
+        "data": "RRRRRR.....RRRRRR"
+    },
+    {
+        "code_name": "157",
+        "data": "R...............R"
+    },
+    {
+        "code_name": "158",
+        "data": "R...BD......B...R"
+    },
+    {
+        "code_name": "159",
+        "data": "R..MMMM...MMMM..R"
+    },
+    {
+        "code_name": "160",
+        "data": "R.BMRRR...RRRMB.R"
+    },
+    {
+        "code_name": "161",
+        "data": "R..MR.....D.RM..R"
+    },
+    {
+        "code_name": "162",
+        "data": "R..MR.D.....RM..R"
+    },
+    {
+        "code_name": "163",
+        "data": "R..RR....D..RR..R"
+    },
+    {
+        "code_name": "164",
+        "data": "R..RR.......RR..R"
+    },
+    {
+        "code_name": "165",
+        "data": "R..RR.D.....RR..R"
+    },
+    {
+        "code_name": "166",
+        "data": "R..MR......DRM..R"
+    },
+    {
+        "code_name": "167",
+        "data": "R..MR..D....RM..R"
+    },
+    {
+        "code_name": "168",
+        "data": "R.BMRRR...RRRMB.R"
+    },
+    {
+        "code_name": "169",
+        "data": "R..MMMM...MMMM..R"
+    },
+    {
+        "code_name": "170",
+        "data": "R...BD......B...R"
+    },
+    {
+        "code_name": "171",
+        "data": "R...............R"
+    },
+    {
+        "code_name": "172",
+        "data": "RRRRRR..D..RRRRRR"
+    },
+    {
+        "code_name": "173",
+        "data": "RRMMMM.....MMMMRR"
+    },
+    {
+        "code_name": "174",
+        "data": "RR..YC.....YC..RR"
+    },
+    {
+        "code_name": "175",
+        "data": "....RR.....RR...."
+    },
+    {
+        "code_name": "176",
+        "data": "................."
+    },
+    {
+        "code_name": "177",
+        "data": ".....D.......T..."
+    },
+    {
+        "code_name": "178",
+        "data": ".RR.....D........"
+    },
+    {
+        "code_name": "179",
+        "data": ".RR...........RR."
+    },
+    {
+        "code_name": "180",
+        "data": "......1.1.1...RR."
+    },
+    {
+        "code_name": "181",
+        "group": "Gemgrab_1",
+        "data": "CC....2.2.2....CC"
+    },
+    {
+        "code_name": "182",
+        "data": "CC.............CC"
+    },
+    {
+        "code_name": "183",
+        "data": "CC..............."
+    },
+    {
+        "code_name": "184",
+        "data": "................."
+    },
+    {
+        "code_name": "185",
+        "data": "................."
+    },
+    {
+        "code_name": "186",
+        "data": ".....YYY...YY.RRR"
+    },
+    {
+        "code_name": "187",
+        "data": "..............RRR"
+    },
+    {
+        "code_name": "188",
+        "data": "RRMX..........RRR"
+    },
+    {
+        "code_name": "189",
+        "data": "RRMM.........XMRR"
+    },
+    {
+        "code_name": "190",
+        "data": "RRRRRRRXMMRRRMMRR"
+    },
+    {
+        "code_name": "191",
+        "data": "RRRRRRRRRRRRRMXRR"
+    },
+    {
+        "code_name": "192",
+        "data": "RRMM...........RR"
+    },
+    {
+        "code_name": "193",
+        "data": "RRXM............R"
+    },
+    {
+        "code_name": "194",
+        "data": "RR.........RXM..R"
+    },
+    {
+        "code_name": "195",
+        "data": "R..........RRM..."
+    },
+    {
+        "code_name": "196",
+        "data": "R................"
+    },
+    {
+        "code_name": "197",
+        "data": "................."
+    },
+    {
+        "code_name": "198",
+        "data": "................R"
+    },
+    {
+        "code_name": "199",
+        "data": "...MRR..........R"
+    },
+    {
+        "code_name": "200",
+        "data": "R..MXR.........RR"
+    },
+    {
+        "code_name": "201",
+        "data": "R............MXRR"
+    },
+    {
+        "code_name": "202",
+        "data": "RR...........MMRR"
+    },
+    {
+        "code_name": "203",
+        "data": "RRXMRRRRRRRRRRRRR"
+    },
+    {
+        "code_name": "204",
+        "data": "RRMMRRRMMXRRRRRRR"
+    },
+    {
+        "code_name": "205",
+        "data": "RRMX.........MMRR"
+    },
+    {
+        "code_name": "206",
+        "data": "RRR..........XMRR"
+    },
+    {
+        "code_name": "207",
+        "data": "RRR.............."
+    },
+    {
+        "code_name": "208",
+        "data": "RRR.YY...YYY....."
+    },
+    {
+        "code_name": "209",
+        "data": "................."
+    },
+    {
+        "code_name": "210",
+        "data": "................."
+    },
+    {
+        "code_name": "211",
+        "data": "...............CC"
+    },
+    {
+        "code_name": "212",
+        "data": "CC.............CC"
+    },
+    {
+        "code_name": "213",
+        "data": "CC....1.1.1....CC"
+    },
+    {
+        "code_name": "214",
+        "group": "Gemgrab_2",
+        "data": "R.CYY.2.2.2.YY.RR"
+    },
+    {
+        "code_name": "215",
+        "data": "R...............R"
+    },
+    {
+        "code_name": "216",
+        "data": "RR..............R"
+    },
+    {
+        "code_name": "217",
+        "data": "RR..............."
+    },
+    {
+        "code_name": "218",
+        "data": "............D...."
+    },
+    {
+        "code_name": "219",
+        "data": "................."
+    },
+    {
+        "code_name": "220",
+        "data": "......D.....XMMMM"
+    },
+    {
+        "code_name": "221",
+        "data": "..XMM............"
+    },
+    {
+        "code_name": "222",
+        "data": "..MMX............"
+    },
+    {
+        "code_name": "223",
+        "data": "...........D....."
+    },
+    {
+        "code_name": "224",
+        "data": "................."
+    },
+    {
+        "code_name": "225",
+        "data": "....RRR...RRR...."
+    },
+    {
+        "code_name": "226",
+        "data": "....XMR.D.RMX...."
+    },
+    {
+        "code_name": "227",
+        "data": "RR..MMR...RMM..RR"
+    },
+    {
+        "code_name": "228",
+        "data": "RRR..D........RRR"
+    },
+    {
+        "code_name": "229",
+        "data": "MRR.......D...RRX"
+    },
+    {
+        "code_name": "230",
+        "data": "MRR...........RRM"
+    },
+    {
+        "code_name": "231",
+        "data": "XRR........D..RRM"
+    },
+    {
+        "code_name": "232",
+        "data": "RRR.D.........RRR"
+    },
+    {
+        "code_name": "233",
+        "data": "RR..MMR...RMM..RR"
+    },
+    {
+        "code_name": "234",
+        "data": "....XMR...RMX...."
+    },
+    {
+        "code_name": "235",
+        "data": "....RRR...RRR...."
+    },
+    {
+        "code_name": "236",
+        "data": "................."
+    },
+    {
+        "code_name": "237",
+        "data": ".........D......."
+    },
+    {
+        "code_name": "238",
+        "data": "....D.......XMM.."
+    },
+    {
+        "code_name": "239",
+        "data": "............MMX.."
+    },
+    {
+        "code_name": "240",
+        "data": "MMMMX............"
+    },
+    {
+        "code_name": "241",
+        "data": "................."
+    },
+    {
+        "code_name": "242",
+        "data": "...D............."
+    },
+    {
+        "code_name": "243",
+        "data": "........D......RR"
+    },
+    {
+        "code_name": "244",
+        "data": "R..............RR"
+    },
+    {
+        "code_name": "245",
+        "data": "R...............R"
+    },
+    {
+        "code_name": "246",
+        "data": "RR.YY.1.1.1.YYC.R"
+    },
+    {
+        "code_name": "247",
+        "group": "Gemgrab_3",
+        "data": "XR....2.2.2....RX"
+    },
+    {
+        "code_name": "248",
+        "data": "RR.............RR"
+    },
+    {
+        "code_name": "249",
+        "data": "RR..............."
+    },
+    {
+        "code_name": "250",
+        "data": "................."
+    },
+    {
+        "code_name": "251",
+        "data": "................."
+    },
+    {
+        "code_name": "252",
+        "data": "....RRR...CY....."
+    },
+    {
+        "code_name": "253",
+        "data": "Y...MMM..MMM...CY"
+    },
+    {
+        "code_name": "254",
+        "data": "MMR......RRR..TMM"
+    },
+    {
+        "code_name": "255",
+        "data": "RRR...........RRR"
+    },
+    {
+        "code_name": "256",
+        "data": "................R"
+    },
+    {
+        "code_name": "257",
+        "data": "....RRRRMD......."
+    },
+    {
+        "code_name": "258",
+        "data": ".D..RTMMM........"
+    },
+    {
+        "code_name": "259",
+        "data": "................."
+    },
+    {
+        "code_name": "260",
+        "data": "MMD....D...RTMMD."
+    },
+    {
+        "code_name": "261",
+        "data": "RR.........RRRM.."
+    },
+    {
+        "code_name": "262",
+        "data": "R.............D.."
+    },
+    {
+        "code_name": "263",
+        "data": "...D............."
+    },
+    {
+        "code_name": "264",
+        "data": "................R"
+    },
+    {
+        "code_name": "265",
+        "data": ".DMRRR....D....RR"
+    },
+    {
+        "code_name": "266",
+        "data": "..MMTR........DMM"
+    },
+    {
+        "code_name": "267",
+        "data": "................."
+    },
+    {
+        "code_name": "268",
+        "data": "..D....DMMMTR..D."
+    },
+    {
+        "code_name": "269",
+        "data": "........MRRRR...."
+    },
+    {
+        "code_name": "270",
+        "data": "R................"
+    },
+    {
+        "code_name": "271",
+        "data": "RRR...........RRR"
+    },
+    {
+        "code_name": "272",
+        "data": "MMM..RRR......RMM"
+    },
+    {
+        "code_name": "273",
+        "data": "YC...MMM..MMM...Y"
+    },
+    {
+        "code_name": "274",
+        "data": ".....YC...RRR...."
+    },
+    {
+        "code_name": "275",
+        "data": "................."
+    },
+    {
+        "code_name": "276",
+        "data": "................."
+    },
+    {
+        "code_name": "278",
+        "data": "...............RR"
+    },
+    {
+        "code_name": "279",
+        "data": "RR.............RR"
+    },
+    {
+        "code_name": "280",
+        "data": "XR....1.1.1....RX"
+    },
+    {
+        "code_name": "281",
+        "group": "Bankheist_1",
+        "data": "2.2.....8.....2.2"
+    },
+    {
+        "code_name": "282",
+        "data": "................."
+    },
+    {
+        "code_name": "283",
+        "data": "NNN...........NNN"
+    },
+    {
+        "code_name": "284",
+        "data": ".....NR...RN...RR"
+    },
+    {
+        "code_name": "285",
+        "data": "RR...NRRRRRN...RR"
+    },
+    {
+        "code_name": "286",
+        "data": "RR...NNNNNNN....."
+    },
+    {
+        "code_name": "287",
+        "data": "NNNR...YCC....NNN"
+    },
+    {
+        "code_name": "288",
+        "data": "..NR..........N.."
+    },
+    {
+        "code_name": "289",
+        "data": "..NRR........RNRR"
+    },
+    {
+        "code_name": "290",
+        "data": "..NRR.......RRNRR"
+    },
+    {
+        "code_name": "291",
+        "data": "RRN.........RRN.."
+    },
+    {
+        "code_name": "292",
+        "data": "RRN...WNNNW...N.."
+    },
+    {
+        "code_name": "293",
+        "data": "..WWWWW.4.WWWWW.."
+    },
+    {
+        "code_name": "294",
+        "data": "................."
+    },
+    {
+        "code_name": "295",
+        "data": "................."
+    },
+    {
+        "code_name": "296",
+        "data": "....Y.......Y...."
+    },
+    {
+        "code_name": "297",
+        "data": "....Y.......Y...."
+    },
+    {
+        "code_name": "298",
+        "data": "....C.......C...."
+    },
+    {
+        "code_name": "299",
+        "data": "................."
+    },
+    {
+        "code_name": "300",
+        "data": "................."
+    },
+    {
+        "code_name": "301",
+        "data": "...NNNNNNNNNNN..."
+    },
+    {
+        "code_name": "302",
+        "data": "...YYCYYYCCCYY..."
+    },
+    {
+        "code_name": "303",
+        "data": "................."
+    },
+    {
+        "code_name": "304",
+        "data": "................."
+    },
+    {
+        "code_name": "305",
+        "data": "....C............"
+    },
+    {
+        "code_name": "306",
+        "data": "................."
+    },
+    {
+        "code_name": "307",
+        "data": ".........C......."
+    },
+    {
+        "code_name": "308",
+        "data": "................."
+    },
+    {
+        "code_name": "309",
+        "data": "...C.........C..."
+    },
+    {
+        "code_name": "310",
+        "data": "................."
+    },
+    {
+        "code_name": "311",
+        "data": "C...............Y"
+    },
+    {
+        "code_name": "312",
+        "data": "YY.............CC"
+    },
+    {
+        "code_name": "313",
+        "data": "YYC...1.1.1...CCY"
+    },
+    {
+        "code_name": "314",
+        "group": "Bankheist_2",
+        "data": "2.2.....8.....2.2"
+    },
+    {
+        "code_name": "315",
+        "data": "................."
+    },
+    {
+        "code_name": "316",
+        "data": "NNN...........NNN"
+    },
+    {
+        "code_name": "317",
+        "data": ".....NR...RN....."
+    },
+    {
+        "code_name": "318",
+        "data": "....RNRRRRRNR...R"
+    },
+    {
+        "code_name": "319",
+        "data": "....RNNNNNNNR...R"
+    },
+    {
+        "code_name": "320",
+        "data": "RR.............RR"
+    },
+    {
+        "code_name": "321",
+        "data": "NN...RRRRRRR...NN"
+    },
+    {
+        "code_name": "322",
+        "data": "RR...RRRRRRR...RR"
+    },
+    {
+        "code_name": "323",
+        "data": "R....RRRRRRR....R"
+    },
+    {
+        "code_name": "324",
+        "data": ".....RRRRRRR....."
+    },
+    {
+        "code_name": "325",
+        "data": ".............RR.."
+    },
+    {
+        "code_name": "326",
+        "data": "Y..WWWWNNNWWWWR.Y"
+    },
+    {
+        "code_name": "327",
+        "data": "...RRR..........."
+    },
+    {
+        "code_name": "328",
+        "data": "................."
+    },
+    {
+        "code_name": "329",
+        "data": "................."
+    },
+    {
+        "code_name": "330",
+        "data": ".....RR........RR"
+    },
+    {
+        "code_name": "331",
+        "data": "WWW..RWWWWW...WWW"
+    },
+    {
+        "code_name": "332",
+        "data": "......YYYRR......"
+    },
+    {
+        "code_name": "333",
+        "data": "RR..............."
+    },
+    {
+        "code_name": "334",
+        "data": "RR..............R"
+    },
+    {
+        "code_name": "335",
+        "data": "................R"
+    },
+    {
+        "code_name": "336",
+        "data": "...WWWWWWWWWWW..."
+    },
+    {
+        "code_name": "337",
+        "data": "................."
+    },
+    {
+        "code_name": "338",
+        "data": "................."
+    },
+    {
+        "code_name": "339",
+        "data": "....YY...CCC....."
+    },
+    {
+        "code_name": "340",
+        "data": "....CY..........."
+    },
+    {
+        "code_name": "341",
+        "data": "................."
+    },
+    {
+        "code_name": "342",
+        "data": "..........CY....."
+    },
+    {
+        "code_name": "343",
+        "data": "................."
+    },
+    {
+        "code_name": "344",
+        "data": "C...............Y"
+    },
+    {
+        "code_name": "345",
+        "data": "YY.............CC"
+    },
+    {
+        "code_name": "346",
+        "data": "YYC...1.1.1...CCY"
+    },
+    {
+        "code_name": "347",
+        "group": "Bankheist_3",
+        "data": "2.2.....8.....2.2"
+    },
+    {
+        "code_name": "348",
+        "data": "................."
+    },
+    {
+        "code_name": "349",
+        "data": "MMM...........MMM"
+    },
+    {
+        "code_name": "350",
+        "data": "RR...M.....M...RR"
+    },
+    {
+        "code_name": "351",
+        "data": "....RM.....MR...."
+    },
+    {
+        "code_name": "352",
+        "data": "....RMMMMMMMR...."
+    },
+    {
+        "code_name": "353",
+        "data": "MM..RRRRRRRRR..MM"
+    },
+    {
+        "code_name": "354",
+        "data": ".....RRRRRRR....T"
+    },
+    {
+        "code_name": "355",
+        "data": "......MMMMM......"
+    },
+    {
+        "code_name": "356",
+        "data": "................."
+    },
+    {
+        "code_name": "357",
+        "data": "RR.............RR"
+    },
+    {
+        "code_name": "358",
+        "data": "MMWWWWW...WWWWWMM"
+    },
+    {
+        "code_name": "359",
+        "data": "....MR.....RM...R"
+    },
+    {
+        "code_name": "360",
+        "data": "...RMR.....RM...R"
+    },
+    {
+        "code_name": "361",
+        "data": "T..RM......RMR..."
+    },
+    {
+        "code_name": "362",
+        "data": "...RM.......MR..."
+    },
+    {
+        "code_name": "363",
+        "data": "............M...."
+    },
+    {
+        "code_name": "364",
+        "data": "....RR......M...T"
+    },
+    {
+        "code_name": "365",
+        "data": "....MR..........."
+    },
+    {
+        "code_name": "366",
+        "data": "....M...RR......."
+    },
+    {
+        "code_name": "367",
+        "data": "T...M..MMM..M..MM"
+    },
+    {
+        "code_name": "368",
+        "data": "....M.......M..RR"
+    },
+    {
+        "code_name": "369",
+        "data": "..MMM.......M...."
+    },
+    {
+        "code_name": "370",
+        "data": "..RRM......RM...."
+    },
+    {
+        "code_name": "371",
+        "data": "....M..T...RM...."
+    },
+    {
+        "code_name": "372",
+        "data": "....M.......M...."
+    },
+    {
+        "code_name": "373",
+        "data": "....M.......M...T"
+    },
+    {
+        "code_name": "374",
+        "data": "....M.......M...."
+    },
+    {
+        "code_name": "375",
+        "data": "................."
+    },
+    {
+        "code_name": "376",
+        "data": "................."
+    },
+    {
+        "code_name": "377",
+        "data": "C...............Y"
+    },
+    {
+        "code_name": "378",
+        "data": "YY.............CC"
+    },
+    {
+        "code_name": "379",
+        "data": "YYC...1.1.1...CCY"
+    },
+    {
+        "code_name": "380",
+        "group": "Survival_1",
+        "data": "........FF..F......1.FF..FFF..........1FF..........FFF......"
+    },
+    {
+        "code_name": "381",
+        "data": "FF...FF..........MMM..F..FF.....FF.....FF..........FFF......"
+    },
+    {
+        "code_name": "382",
+        "data": "F...FFFFFF........MM.....FF.....FFFFF...FF........FFF.....FF"
+    },
+    {
+        "code_name": "383",
+        "data": "F...FFFFF..........................FFF..F.........FF.....FF."
+    },
+    {
+        "code_name": "384",
+        "data": "....FFF.....FF.....FF.....FFF.........................F..FF."
+    },
+    {
+        "code_name": "385",
+        "data": ".....F.....FFF.....FF.....FFFFF.MMMMMM........M.FF...FFF...."
+    },
+    {
+        "code_name": "386",
+        "data": "...........FFFF....F..MMM.......MMMMMM.......MM.FFF..FF....."
+    },
+    {
+        "code_name": "387",
+        "data": ".......FF..FFFF.......MMM...MM...MMMM....FFF.MM..FF..F......"
+    },
+    {
+        "code_name": "388",
+        "data": "..F...FF...FFFF.FFFF..MMM...MM....MM...M.FFF.MM.FFF.......F."
+    },
+    {
+        "code_name": "389",
+        "data": ".FF...FF..FFFFF.FFFFF..MM...MM........MM.FFF.MM.FF..MM....F."
+    },
+    {
+        "code_name": "390",
+        "data": ".FF.....1.FFFFF.............MM........MM..F..M......MM...FF."
+    },
+    {
+        "code_name": "391",
+        "data": "..........FFFF.....B...FF...M......T..M........F......1..F.."
+    },
+    {
+        "code_name": "392",
+        "data": "...........FF..........FF......................F............"
+    },
+    {
+        "code_name": "393",
+        "data": ".......FF...F..........MF......FFFFFF.......T.FF............"
+    },
+    {
+        "code_name": "394",
+        "data": "FF....FFF.....MMM..MMMMM........FFFF....D.F...FF.T.........."
+    },
+    {
+        "code_name": "395",
+        "data": "FFF...FFF....MMMM..........F.4...F.....DBD....FF...FFF.T...."
+    },
+    {
+        "code_name": "396",
+        "data": ".......F....MM............4F....4..T....D.....F....FF......F"
+    },
+    {
+        "code_name": "397",
+        "data": ".........FF..........MMM.FFF................T.....FF.......F"
+    },
+    {
+        "code_name": "398",
+        "data": ".........FF............M.FF...T.................T...T..FF.FF"
+    },
+    {
+        "code_name": "399",
+        "data": "..........F............M.FF.....FF....M...............FFF..."
+    },
+    {
+        "code_name": "400",
+        "data": "...MM..........4FF.....M.F.....FF.....M....4...F......FF...."
+    },
+    {
+        "code_name": "401",
+        "data": "...MM...MMM.....FF.............FF...MMM.......FF.....FFFF..."
+    },
+    {
+        "code_name": "402",
+        "data": ".1.......MM....FFF..................M.......T.FF..T..FF....."
+    },
+    {
+        "code_name": "403",
+        "data": "......F.......FFF....M...M..MMMMMM..M....T....FF............"
+    },
+    {
+        "code_name": "404",
+        "data": "FFF...FF.............M...M......MM.............FF.....T....."
+    },
+    {
+        "code_name": "405",
+        "data": ".FF...FF....FF.......M...M...............................MM."
+    },
+    {
+        "code_name": "406",
+        "data": "..F.........FFF..MMMMM..FMMMF........MMMMM..MMM..MM......MM."
+    },
+    {
+        "code_name": "407",
+        "data": "............F...........FFFFFF..M....MM..M..MMM4.MM........."
+    },
+    {
+        "code_name": "408",
+        "data": "........FFFF.............FFFFFF.MMM......M..MM.............."
+    },
+    {
+        "code_name": "409",
+        "data": ".......FFFFF.....MM..44....F.44...M.....MM..M..4............"
+    },
+    {
+        "code_name": "410",
+        "data": ".FF.....FF.F..4..MM...............M.44..MM..M...MMM.......F."
+    },
+    {
+        "code_name": "411",
+        "data": "FF.........BB....M......M.........M.........MM.4MMM.......F1"
+    },
+    {
+        "code_name": "412",
+        "data": "FF..........F....M...M..MMM..MMMMMM.........MM..MM.......FF."
+    },
+    {
+        "code_name": "413",
+        "data": ".....FFFF...FFF..MMMMM................M.............F....FF."
+    },
+    {
+        "code_name": "414",
+        "data": ".....FFFFF...FF..............44.......M..M..........FF......"
+    },
+    {
+        "code_name": "415",
+        "data": "......F......FF...........M......M...MM..MM.......FFFF......"
+    },
+    {
+        "code_name": "416",
+        "data": "...........F.....FFFF..M..M......M...M...M.......FFFFF..FFF."
+    },
+    {
+        "code_name": "417",
+        "data": "....MMM...FFF...FFF....M..MMMMMMMM...........B...FFFFF.FF..."
+    },
+    {
+        "code_name": "418",
+        "data": "....MMM...FF.........MMM....................D.....FFFF......"
+    },
+    {
+        "code_name": "419",
+        "data": "..........FF...4..................................FF.......F"
+    },
+    {
+        "code_name": "420",
+        "data": ".1.........F..............D..BBBB.D.D...M..4......F........F"
+    },
+    {
+        "code_name": "421",
+        "data": "....FFF........F........BWWWWWWWWWWWWB..MMMMFFFF........F..F"
+    },
+    {
+        "code_name": "422",
+        "data": "F...FF..MM..MMFFMM..MM..WWWWWWWWWWWWWW..MMMMFFF........FF..F"
+    },
+    {
+        "code_name": "423",
+        "data": "F...F...MMF.MMFFMM..MM..BWWWWWWWWWWWWB.....MFFF..MM...FFF..."
+    },
+    {
+        "code_name": "424",
+        "data": "FF..F..FFFF...............D..D.D....D............MM...FFF..."
+    },
+    {
+        "code_name": "425",
+        "data": "FF....FFFF..............................T.....T.......FF...."
+    },
+    {
+        "code_name": "426",
+        "data": "........MM..MMFFMM..MM..MM..MMT.....T......................."
+    },
+    {
+        "code_name": "427",
+        "data": "........MM..MMFFMMFFMM..MM4.MM..4....FFFF...........T......."
+    },
+    {
+        "code_name": "428",
+        "data": ".....FF.....FFF....FFFFFF...F4FFF.T....FF.T......T........FF"
+    },
+    {
+        "code_name": "429",
+        "data": "FF...FF................FF.....FFF....T........T.......1..FFF"
+    },
+    {
+        "code_name": "430",
+        "data": "F....F..MM..MM..MM..MM.FMM..MM..FF.......................F.."
+    },
+    {
+        "code_name": "431",
+        "data": "F.......MM..MM..MM..MM..MM..MMT.FF......MMM...BB....FF...F.."
+    },
+    {
+        "code_name": "432",
+        "data": "....FFF..............FFFFF......FF.T....MMM........FFF......"
+    },
+    {
+        "code_name": "433",
+        "data": "....FFF......1......FFFF........FF......MM.........FFF......"
+    },
+    {
+        "code_name": "434",
+        "data": ".....FF.MM.FMM..MM..MM.FMM..MM...FF.....MM......MMMMMF..M..."
+    },
+    {
+        "code_name": "435",
+        "data": "....FFF.MM.FMM..MM..MM..MM..MM..T....T..MM......MMMMMF..M..."
+    },
+    {
+        "code_name": "436",
+        "data": "FF..FFF....FFFF............................................."
+    },
+    {
+        "code_name": "437",
+        "data": "FF...F......FFFF................F..T...........FFFFFF...F..."
+    },
+    {
+        "code_name": "438",
+        "data": "F.......MM..MMFFMM..MM..MM..MM.FFF......BB.........FFF.FF..."
+    },
+    {
+        "code_name": "439",
+        "data": "........MM..MMFFMM..MM..MM..MMFFF.1.............MM..FF.FF..."
+    },
+    {
+        "code_name": "440",
+        "group": "Survival_2",
+        "data": "...FFFFFFFFFFFFFF..1.FFFFFFFFFFFFFFF..1..FFFFFFFFFFFFFFFFFFF"
+    },
+    {
+        "code_name": "441",
+        "data": "..FFFFFFFFFFFFFFF....FFFFFFFFFFFFFFF.....FFFFFFFFFFFFFFFFFFF"
+    },
+    {
+        "code_name": "442",
+        "data": ".FFFFFFFFFFFFFFFF....FFFFFFFFFFFFFFF.....FFFFFFFFFFFFFFFFFFF"
+    },
+    {
+        "code_name": "443",
+        "data": "FFFFFFFFFFFFF........FFFFFFFFFFFFFFF............FFFFFFFFFFFF"
+    },
+    {
+        "code_name": "444",
+        "data": "FFFFFFFFFFFFF......B..........FF................FFFFFFFFFFFF"
+    },
+    {
+        "code_name": "445",
+        "data": "FFFFFFFFFFFFF.................FF......FF....B.........FFFFFF"
+    },
+    {
+        "code_name": "446",
+        "data": "FFFFFF......................44......B.FF..............FFFFFF"
+    },
+    {
+        "code_name": "447",
+        "data": "FFFFFF..1.......B.....................FF..............FFFFFF"
+    },
+    {
+        "code_name": "448",
+        "data": "FFFFFF.........BB.................................FFFFFFFFFF"
+    },
+    {
+        "code_name": "449",
+        "data": "FFFFFF............................................FFFFFFFFFF"
+    },
+    {
+        "code_name": "450",
+        "data": "FFFFFFFFFF..........MMMMMMMM..D.MMMMM...................FFFF"
+    },
+    {
+        "code_name": "451",
+        "data": "FFFFFFFFFF..........MMMMMMMM....M.4MM.................1.FFFF"
+    },
+    {
+        "code_name": "452",
+        "data": "FFFF.............D..M..MM44M....M..MM...MMMM............FFFF"
+    },
+    {
+        "code_name": "453",
+        "data": "FFFF.......MMMM..B..M..MM..M.....................B......FFFF"
+    },
+    {
+        "code_name": "454",
+        "data": "FFFF..................D.......FFF...D...D........B......FFFF"
+    },
+    {
+        "code_name": "455",
+        "data": "FFFF.4...D.......D..........D.FFF.D....MMMMM..............FF"
+    },
+    {
+        "code_name": "456",
+        "data": "FFFF.4.....MMMM....MMMMMMM..........B..MMMMM........B.....FF"
+    },
+    {
+        "code_name": "457",
+        "data": "FFFF.......MMMM....MM.4.MM....MMMM......4MMM..............FF"
+    },
+    {
+        "code_name": "458",
+        "data": "FFFF...B...MM4................MMMM..FF...MMM..MMMM........FF"
+    },
+    {
+        "code_name": "459",
+        "data": "FFFF.....D.MM..FFF...D....D....4MM..FFB.......MMMM........FF"
+    },
+    {
+        "code_name": "460",
+        "data": "..FF.......MM..FFF..........FF.........D.......4MM...B....FF"
+    },
+    {
+        "code_name": "461",
+        "data": "..FF...............MMMMMM...FF...........MM.....MM..BB..FFFF"
+    },
+    {
+        "code_name": "462",
+        "data": "..FF...B..FF.......MMMMMM.D.MM..FF..4M...MM...D.........FFFF"
+    },
+    {
+        "code_name": "463",
+        "data": "..........FF.MMM.D.MMM4.....MM..FF.MMM...............4..FFFF"
+    },
+    {
+        "code_name": "464",
+        "data": ".1...........MM4...MMM..........FF......D............4..FFFF"
+    },
+    {
+        "code_name": "465",
+        "data": "FF...........MM.........FF..........D.......MMMM.D....FFFFFF"
+    },
+    {
+        "code_name": "466",
+        "data": "FF.......M.D.MMM...D..D.FF..MMMM......MMM.FF..MM......FFFFFF"
+    },
+    {
+        "code_name": "467",
+        "data": "FF.....D.M..................MMMM.4M...MMM.FF.4MM............"
+    },
+    {
+        "code_name": "468",
+        "data": "FF.......M.....FF.MMMMM..FF.MMMMMMM....MM.FF..MM.......B...."
+    },
+    {
+        "code_name": "469",
+        "data": "FF.......M.....FF.MMMMM..FF.........D..4M...MMMM............"
+    },
+    {
+        "code_name": "470",
+        "data": "FFFFB.......MM....MM4....MM.....D......4M............B......"
+    },
+    {
+        "code_name": "471",
+        "data": "FFFFF.......MM4...MM4....MM..FFF.MMM..MMM.D......D.........1"
+    },
+    {
+        "code_name": "472",
+        "data": "FFFFF....D..MMMM..MMMMM..FF..FFF.MMM..MMM..BFFF............."
+    },
+    {
+        "code_name": "473",
+        "data": "FFFFF.......MMMM..MMMMM..FF......MMM.......BFFF..........FFF"
+    },
+    {
+        "code_name": "474",
+        "data": "FFF......FF.......MMMMM......MM..MMM..FFF................FFF"
+    },
+    {
+        "code_name": "475",
+        "data": "FFF......FF.............D...4MM.......FFF.D...MM....B....FFF"
+    },
+    {
+        "code_name": "476",
+        "data": "FFF...........MM..FF.......MMMM.FF............MM.........FFF"
+    },
+    {
+        "code_name": "477",
+        "data": "FFF...........MM..FF..MMM..MMMM.FF..MM..MM...4MM.D.......FF."
+    },
+    {
+        "code_name": "478",
+        "data": "FFF........B..........MMM........B..MM44MM..MMMM.........FF."
+    },
+    {
+        "code_name": "479",
+        "data": "......B...........MM..MMM...........MMMMMM..MMMM.........FF."
+    },
+    {
+        "code_name": "480",
+        "data": ".1.....B.......D..MM.....................................FF."
+    },
+    {
+        "code_name": "481",
+        "data": "..................MM4....D..MM44MM.D.......D...D...BB......."
+    },
+    {
+        "code_name": "482",
+        "data": "FFF..........B....MMMMM..B..MMMMMM...MMMM..........B.....FFF"
+    },
+    {
+        "code_name": "483",
+        "data": "FFF...............MMMMM.....MMMMMM.......................FFF"
+    },
+    {
+        "code_name": "484",
+        "data": "FFF......................................................FFF"
+    },
+    {
+        "code_name": "485",
+        "data": "FFF.......4..............B.........B.............B....FFFFFF"
+    },
+    {
+        "code_name": "486",
+        "data": "FFFFF.....4...B...D............................BB.....FFFFFF"
+    },
+    {
+        "code_name": "487",
+        "data": "FFFFF...FFF...........................................FFFFFF"
+    },
+    {
+        "code_name": "488",
+        "data": "FFFFF...FFF...............................4.............FFFF"
+    },
+    {
+        "code_name": "489",
+        "data": "FFFFF..........B..........................4....BB.....1.FFFF"
+    },
+    {
+        "code_name": "490",
+        "data": "FFFFF..........B.................B.......FF.............FFFF"
+    },
+    {
+        "code_name": "491",
+        "data": "FFFFF....................................FF..........FFFFFFF"
+    },
+    {
+        "code_name": "492",
+        "data": "FFFFF.....................FF.............FF..........FFFFFFF"
+    },
+    {
+        "code_name": "493",
+        "data": "FFFFFFFFFFFFFFFF.1.FFF....FF.....FFF.....FF..........FFFFFFF"
+    },
+    {
+        "code_name": "494",
+        "data": "FFFFFFFFFFFFFFFF...FFFFFFFFFFF...FFF.....FFFFFFFFFFFFFFFFFFF"
+    },
+    {
+        "code_name": "495",
+        "data": "FFFFFFFFFFFFFFFF...FFFFFFFFFFF.1.FFF.....FFFFFFFFFFFFFFFFFFF"
+    },
+    {
+        "code_name": "496",
+        "data": "FFFFFFFFFFFFFFFFFFFFFFFFFFFFFF...FFF.....FFFFFFFFFFFFFFFFFFF"
+    },
+    {
+        "code_name": "497",
+        "data": "FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF."
+    },
+    {
+        "code_name": "498",
+        "data": "FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF.."
+    },
+    {
+        "code_name": "499",
+        "data": "FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF..."
+    },
+    {
+        "code_name": "500",
+        "group": "Survival_3",
+        "data": "FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF"
+    },
+    {
+        "code_name": "501",
+        "data": "FFFFFFFFFFFFFFFFF...M..1..M.......M..1..M.......FFFFFFFFFFFF"
+    },
+    {
+        "code_name": "502",
+        "data": "FFFFFFFFFFFFFFFFF...M.....M..4.4..M.....M.......FFFFFFFFFFFF"
+    },
+    {
+        "code_name": "503",
+        "data": "FFFFFFFFFFFFFFFFF..MM.....M.......M.....MM...D..FFFFFFFFFFFF"
+    },
+    {
+        "code_name": "504",
+        "data": "FFFFFFFFFFFFF.....MMM.....M.......M.....MMM.....FFFFFFFFFFFF"
+    },
+    {
+        "code_name": "505",
+        "data": "FFFFFFFFFFFFF....MMMM.....MMMBBBMMM.....MMMM....FFFFFFFFFFFF"
+    },
+    {
+        "code_name": "506",
+        "data": "FFFFFFFFFFFFF.....MMM.....FFFBBBFFF.....MMM.....FFFFFFFFFFFF"
+    },
+    {
+        "code_name": "507",
+        "data": "FFFFFFF............MM..D..FFF...FFF..D..MM......FFFFFFFFFFFF"
+    },
+    {
+        "code_name": "508",
+        "data": "FFFFFFF.......MM....M...................M....MM.........FFFF"
+    },
+    {
+        "code_name": "509",
+        "data": "FFFFFFF.......M..D..M......M..4..M......M..D..M....FFF..FFFF"
+    },
+    {
+        "code_name": "510",
+        "data": "FFFFFFF....4..............MM.....MM................FFF..FFFF"
+    },
+    {
+        "code_name": "511",
+        "data": "FFFFFFF.............FFF..MMM..4..MMM..FFF........4.FFF..FFFF"
+    },
+    {
+        "code_name": "512",
+        "data": "FFFFFFF......D...M..FFF...MM.....MM...FFF..M...D........FFFF"
+    },
+    {
+        "code_name": "513",
+        "data": "F.......MM......MM.........M..4..M.........MM......M..D.FFFF"
+    },
+    {
+        "code_name": "514",
+        "data": "F........M.....MMM....MM.D...........MM....MMM.....M....FFFF"
+    },
+    {
+        "code_name": "515",
+        "data": "F............FFMMM..D..M.............M..D..MMMM.........FFFF"
+    },
+    {
+        "code_name": "516",
+        "data": "F....M.......FFMMM.....MM..MM.F.MM..MM.....MMM........M....F"
+    },
+    {
+        "code_name": "517",
+        "data": "F...MMM......FF.MM...MMMM...M.F.M...MMMM...MM.FFF....MMM...F"
+    },
+    {
+        "code_name": "518",
+        "data": "F..MMMMM..............MMM...M.F.M.D.MMM.......FFF...MMMMM..F"
+    },
+    {
+        "code_name": "519",
+        "data": "FMMMMMMMMM..........FFFMM...M.F.M...MMFFF.....FFF.MMMMMMMMMF"
+    },
+    {
+        "code_name": "520",
+        "data": "F.............MMMMM.FFFM...MM.F.MM...MFFF.MMMM.............F"
+    },
+    {
+        "code_name": "521",
+        "data": "F..............MMM....MM.............MM....MMM.............F"
+    },
+    {
+        "code_name": "522",
+        "data": "F1.......MM....MM.......................D...MM...MM..D....1F"
+    },
+    {
+        "code_name": "523",
+        "data": "F..............M..D....D..MM..4..MM..F.......M.............F"
+    },
+    {
+        "code_name": "524",
+        "data": "F...................MM...............F.MM.......D..........F"
+    },
+    {
+        "code_name": "525",
+        "data": "FMMMMM...M..FFF....BM.........D......FFFMB..D.....M...MMMMMF"
+    },
+    {
+        "code_name": "526",
+        "data": "F....M...MM.FFF.....M....MM.......MM.FFFM.....D..MM...M....F"
+    },
+    {
+        "code_name": "527",
+        "data": "F....M...........4..M....MM...4...MM.FFFM..4..........M....F"
+    },
+    {
+        "code_name": "528",
+        "data": "F.4..BB.............MM...M...FFF...M...MM............BB..4.F"
+    },
+    {
+        "code_name": "529",
+        "data": "F....BB..4...4.D...BMM.1.M..4FFF4..M.1.MMB....4...4..BB....F"
+    },
+    {
+        "code_name": "530",
+        "data": "F.4..BB.............MM...M...FFF...M...MM............BB..4.F"
+    },
+    {
+        "code_name": "531",
+        "data": "F....M...........4..MFFF.MM...4...MM....M..4..........M....F"
+    },
+    {
+        "code_name": "532",
+        "data": "F....M...MM.FFF.....MFFF.MM.......MM....M.....FF.MM...M....F"
+    },
+    {
+        "code_name": "533",
+        "data": "FMMMMM...M..FFF....BMFFF.....FFF........MB....FF..M...MMMMMF"
+    },
+    {
+        "code_name": "534",
+        "data": "F...................MM.F.....FFF.....D.MM.....FF...........F"
+    },
+    {
+        "code_name": "535",
+        "data": "F............D..M......F..M.......M.........M..............F"
+    },
+    {
+        "code_name": "536",
+        "data": "F1.......MM....MM..D......MM..4..MM........MM....MM..D....1F"
+    },
+    {
+        "code_name": "537",
+        "data": "F.............MMMM....MM.............MM....MMM.............F"
+    },
+    {
+        "code_name": "538",
+        "data": "F............MMMMMM..FFM...........D.MFF..MMMMM............F"
+    },
+    {
+        "code_name": "539",
+        "data": "FMMMMMMMMM...........FFM...MM.F.MM...MFF..........MMMMMMMMMF"
+    },
+    {
+        "code_name": "540",
+        "data": "F..MMMMM....FFF......FFMM...M.F.M...MMFF......D.....MMMMM..F"
+    },
+    {
+        "code_name": "541",
+        "data": "F...MMM.....FFF..M....MMM...M.F.M...MMM....M.........MMM...F"
+    },
+    {
+        "code_name": "542",
+        "data": "F....M....M.....MM...MMMM...M.F.M...MMMM...MM....M....M....F"
+    },
+    {
+        "code_name": "543",
+        "data": "F........MM....MMM.....M...MM.F.MM...M.....MMM...MM........F"
+    },
+    {
+        "code_name": "544",
+        "data": "FFFFFFFF.....FFMMM..D..M.D.........D.M...D.MMMM.....FFFFFFFF"
+    },
+    {
+        "code_name": "545",
+        "data": "FFFFFFFF.....FFMMM....MM.............MM....MMM......FFFFFFFF"
+    },
+    {
+        "code_name": "546",
+        "data": "FFFFFFFF.....FF.MM.........M..4..M.........MM..D....FFFFFFFF"
+    },
+    {
+        "code_name": "547",
+        "data": "FFFFFFFF..D.4....M..FFF...MM.....MM...FFF..M.....4..FFFFFFFF"
+    },
+    {
+        "code_name": "548",
+        "data": "FFFFFFFF............FFF..MMM..4..MMM..FFF...........FFFFFFFF"
+    },
+    {
+        "code_name": "549",
+        "data": "FFFFFFFF..................MM.....MM.................FFFFFFFF"
+    },
+    {
+        "code_name": "550",
+        "data": "FFFFFFFFFFFFF..MM.D.M......M..4..M..D...M....MM...D.FFFFFFFF"
+    },
+    {
+        "code_name": "551",
+        "data": "FFFFFFFFFFFFF..M....M...................M.....M.....FFFFFFFF"
+    },
+    {
+        "code_name": "552",
+        "data": "FFFFFFFFFFFFF......MM...D.FFF...FFF.....MM......FFFFFFFFFFFF"
+    },
+    {
+        "code_name": "553",
+        "data": "FFFFFFFFFFFFF.....MMM.....FFFBBBFFF.....MMM.....FFFFFFFFFFFF"
+    },
+    {
+        "code_name": "554",
+        "data": "FFFFFFFFFFFFF....MMMM.....MMMBBBMMM..D..MMMM....FFFFFFFFFFFF"
+    },
+    {
+        "code_name": "555",
+        "data": "FFFFFFFFFFFFF.....MMM.....M.......M.....MMM.....FFFFFFFFFFFF"
+    },
+    {
+        "code_name": "556",
+        "data": "FFFFFFFFFFFFFFFFF..MM.....M.......M.....MM..FFFFFFFFFFFFFFFF"
+    },
+    {
+        "code_name": "557",
+        "data": "FFFFFFFFFFFFFFFFF...M.....M..4.4..M.....M...FFFFFFFFFFFFFFFF"
+    },
+    {
+        "code_name": "558",
+        "data": "FFFFFFFFFFFFFFFFF...M..1..M.......M..1..M...FFFFFFFFFFFFFFFF"
+    },
+    {
+        "code_name": "559",
+        "data": "FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF"
+    },
+    {
+        "code_name": "560",
+        "group": "Wanted_4",
+        "data": "FFFFF.2.2.2.FFFFF"
+    },
+    {
+        "code_name": "561",
+        "data": "FFFFF.......FFFFF"
+    },
+    {
+        "code_name": "562",
+        "data": "FFFFFFFFFFFFFFFFF"
+    },
+    {
+        "code_name": "563",
+        "data": "FFFFFFFFFFFFFFFFF"
+    },
+    {
+        "code_name": "564",
+        "data": "FFFFFFFFFFFFMMMFF"
+    },
+    {
+        "code_name": "565",
+        "data": "FFFYMMFFFFFFMMMFF"
+    },
+    {
+        "code_name": "566",
+        "data": "FFFMMMFFFFFFFFFFF"
+    },
+    {
+        "code_name": "567",
+        "data": "FFFFFFFFFFFFFFFFF"
+    },
+    {
+        "code_name": "568",
+        "data": "FFFFFFFFFFFFFFFFF"
+    },
+    {
+        "code_name": "569",
+        "data": "FFFFFFFMMCFFFMMMM"
+    },
+    {
+        "code_name": "570",
+        "data": "FFFFFFFMMMFFFMMMM"
+    },
+    {
+        "code_name": "571",
+        "data": "FFYMFFFFFFFFFFFFF"
+    },
+    {
+        "code_name": "572",
+        "data": "FFMMFFFFFFFFFFFFF"
+    },
+    {
+        "code_name": "573",
+        "data": "FFMMF.......FFFFF"
+    },
+    {
+        "code_name": "574",
+        "data": "FFFFF.D.....FFFFF"
+    },
+    {
+        "code_name": "575",
+        "data": "FFFFF....D..FFFFF"
+    },
+    {
+        "code_name": "576",
+        "data": "FFFFF.......MMMFF"
+    },
+    {
+        "code_name": "577",
+        "data": "MMMFF......DYMMFF"
+    },
+    {
+        "code_name": "578",
+        "data": "MMCFF..D....FFFFF"
+    },
+    {
+        "code_name": "579",
+        "data": "FFFFF.......FFFFF"
+    },
+    {
+        "code_name": "580",
+        "data": "FFFFFFFFFFFFFFFFF"
+    },
+    {
+        "code_name": "581",
+        "data": "FFFFFFFFFFFFFFFMM"
+    },
+    {
+        "code_name": "582",
+        "data": "FFFFMMMFFFFMMFFMM"
+    },
+    {
+        "code_name": "583",
+        "data": "FFFFMMMFFFFMMFFFF"
+    },
+    {
+        "code_name": "584",
+        "data": "FFFFFFFFFFFMYFFFF"
+    },
+    {
+        "code_name": "585",
+        "data": "MMFFFFFFFFFFFFFFF"
+    },
+    {
+        "code_name": "586",
+        "data": "MMFFFFFFFFFFFFFFF"
+    },
+    {
+        "code_name": "587",
+        "data": "FFFFFMMFFFFFMMFFF"
+    },
+    {
+        "code_name": "588",
+        "data": "FFFFFMMFFFFFMMFFF"
+    },
+    {
+        "code_name": "589",
+        "data": "FFFFFMCFFFFFFFFFF"
+    },
+    {
+        "code_name": "590",
+        "data": "FFFFFFFFFFFFFFFFF"
+    },
+    {
+        "code_name": "591",
+        "data": "FFFFF.......FFFFF"
+    },
+    {
+        "code_name": "592",
+        "data": "FFFFF.1.1.1.FFFFF"
+    },
+    {
+        "code_name": "593",
+        "group": "Wanted_5",
+        "data": "......2.2.2......"
+    },
+    {
+        "code_name": "594",
+        "data": "................."
+    },
+    {
+        "code_name": "595",
+        "data": "...............RR"
+    },
+    {
+        "code_name": "596",
+        "data": "...............RR"
+    },
+    {
+        "code_name": "597",
+        "data": ".............MMMM"
+    },
+    {
+        "code_name": "598",
+        "data": "..BB...........BB"
+    },
+    {
+        "code_name": "599",
+        "data": "..MMRR..........."
+    },
+    {
+        "code_name": "600",
+        "data": "..MMRR..........."
+    },
+    {
+        "code_name": "601",
+        "data": "...........D....."
+    },
+    {
+        "code_name": "602",
+        "data": "................B"
+    },
+    {
+        "code_name": "603",
+        "data": "...D........RRMMM"
+    },
+    {
+        "code_name": "604",
+        "data": ".RRWWWRR....RRMMM"
+    },
+    {
+        "code_name": "605",
+        "data": ".RRWWWRR....D.BBB"
+    },
+    {
+        "code_name": "606",
+        "data": ".RRWWWRR........."
+    },
+    {
+        "code_name": "607",
+        "data": "....MMMM........."
+    },
+    {
+        "code_name": "608",
+        "data": "....D............"
+    },
+    {
+        "code_name": "609",
+        "data": "...........D....."
+    },
+    {
+        "code_name": "610",
+        "data": "................."
+    },
+    {
+        "code_name": "611",
+        "data": "...D.....MMMM...."
+    },
+    {
+        "code_name": "612",
+        "data": ".........RRWWWRR."
+    },
+    {
+        "code_name": "613",
+        "data": "BBB......RRWWWRR."
+    },
+    {
+        "code_name": "614",
+        "data": "MMMRR....RRWWWRR."
+    },
+    {
+        "code_name": "615",
+        "data": "MMMRR............"
+    },
+    {
+        "code_name": "616",
+        "data": "B..........D....."
+    },
+    {
+        "code_name": "617",
+        "data": "................."
+    },
+    {
+        "code_name": "618",
+        "data": "...........RRMM.."
+    },
+    {
+        "code_name": "619",
+        "data": "....D......RRMM.."
+    },
+    {
+        "code_name": "620",
+        "data": "BB...........BB.."
+    },
+    {
+        "code_name": "621",
+        "data": "MMMM............."
+    },
+    {
+        "code_name": "622",
+        "data": "RR..............."
+    },
+    {
+        "code_name": "623",
+        "data": "RR..............."
+    },
+    {
+        "code_name": "624",
+        "data": "................."
+    },
+    {
+        "code_name": "625",
+        "data": "......1.1.1......"
+    },
+    {
+        "code_name": "626",
+        "group": "Gemgrab_4",
+        "data": "......2.2.2......"
+    },
+    {
+        "code_name": "627",
+        "data": "................."
+    },
+    {
+        "code_name": "628",
+        "data": "...............RR"
+    },
+    {
+        "code_name": "629",
+        "data": "...............RR"
+    },
+    {
+        "code_name": "630",
+        "data": ".............MMMM"
+    },
+    {
+        "code_name": "631",
+        "data": "..BB...........BB"
+    },
+    {
+        "code_name": "632",
+        "data": "..MMRR..........."
+    },
+    {
+        "code_name": "633",
+        "data": "..MMRR..........."
+    },
+    {
+        "code_name": "634",
+        "data": "...........D....."
+    },
+    {
+        "code_name": "635",
+        "data": "................B"
+    },
+    {
+        "code_name": "636",
+        "data": "...D........RRMMM"
+    },
+    {
+        "code_name": "637",
+        "data": "......MMM...RRMMM"
+    },
+    {
+        "code_name": "638",
+        "data": "..MRRRRR....D.BBB"
+    },
+    {
+        "code_name": "639",
+        "data": "..MRRRRR........."
+    },
+    {
+        "code_name": "640",
+        "data": "................."
+    },
+    {
+        "code_name": "641",
+        "data": "....D.......MMM.."
+    },
+    {
+        "code_name": "642",
+        "data": "...........D....."
+    },
+    {
+        "code_name": "643",
+        "data": "..MMM............"
+    },
+    {
+        "code_name": "644",
+        "data": "...D............."
+    },
+    {
+        "code_name": "645",
+        "data": ".........RRRRRM.."
+    },
+    {
+        "code_name": "646",
+        "data": "BBB......RRRRRM.."
+    },
+    {
+        "code_name": "647",
+        "data": "MMMRR...MMM......"
+    },
+    {
+        "code_name": "648",
+        "data": "MMMRR............"
+    },
+    {
+        "code_name": "649",
+        "data": "B..........D....."
+    },
+    {
+        "code_name": "650",
+        "data": "................."
+    },
+    {
+        "code_name": "651",
+        "data": "...........RRMM.."
+    },
+    {
+        "code_name": "652",
+        "data": "....D......RRMM.."
+    },
+    {
+        "code_name": "653",
+        "data": "BB...........BB.."
+    },
+    {
+        "code_name": "654",
+        "data": "MMMM............."
+    },
+    {
+        "code_name": "655",
+        "data": "RR..............."
+    },
+    {
+        "code_name": "656",
+        "data": "RR..............."
+    },
+    {
+        "code_name": "657",
+        "data": "................."
+    },
+    {
+        "code_name": "658",
+        "data": "......1.1.1......"
+    },
+    {
+        "code_name": "659",
+        "group": "Gemgrab_5",
+        "data": ".RR...2.2.2......"
+    },
+    {
+        "code_name": "660",
+        "data": ".RR...........RR."
+    },
+    {
+        "code_name": "661",
+        "data": "...........T..RR."
+    },
+    {
+        "code_name": "662",
+        "data": "...T............."
+    },
+    {
+        "code_name": "663",
+        "data": "................."
+    },
+    {
+        "code_name": "664",
+        "data": "....RR.....RR...."
+    },
+    {
+        "code_name": "665",
+        "data": "RR..MM.....MM..RR"
+    },
+    {
+        "code_name": "666",
+        "data": "MMMMMM.....MMMMMM"
+    },
+    {
+        "code_name": "667",
+        "data": "R...RR.....RR...R"
+    },
+    {
+        "code_name": "668",
+        "data": "R...............R"
+    },
+    {
+        "code_name": "669",
+        "data": "R...............R"
+    },
+    {
+        "code_name": "670",
+        "data": "R....MRRMMMXD...R"
+    },
+    {
+        "code_name": "671",
+        "data": "RR...MRRR......RR"
+    },
+    {
+        "code_name": "672",
+        "data": "RR...X.....D...RR"
+    },
+    {
+        "code_name": "673",
+        "data": "RRX....D.......RR"
+    },
+    {
+        "code_name": "674",
+        "data": "RRM...........XRR"
+    },
+    {
+        "code_name": "675",
+        "data": "RRM..D...D....MRR"
+    },
+    {
+        "code_name": "676",
+        "data": "RRX...........MRR"
+    },
+    {
+        "code_name": "677",
+        "data": "RR....D......DXRR"
+    },
+    {
+        "code_name": "678",
+        "data": "RR.........X...RR"
+    },
+    {
+        "code_name": "679",
+        "data": "RR..D...RRRM...RR"
+    },
+    {
+        "code_name": "680",
+        "data": "R....XMMMRRM....R"
+    },
+    {
+        "code_name": "681",
+        "data": "R...............R"
+    },
+    {
+        "code_name": "682",
+        "data": "R...............R"
+    },
+    {
+        "code_name": "683",
+        "data": "R...RR.....RR...R"
+    },
+    {
+        "code_name": "684",
+        "data": "MMMMMM.....MMMMMM"
+    },
+    {
+        "code_name": "685",
+        "data": "RR..MM.....MM..RR"
+    },
+    {
+        "code_name": "686",
+        "data": "....RR.....RR...."
+    },
+    {
+        "code_name": "687",
+        "data": "................."
+    },
+    {
+        "code_name": "688",
+        "data": ".............T..."
+    },
+    {
+        "code_name": "689",
+        "data": ".RR..T..........."
+    },
+    {
+        "code_name": "690",
+        "data": ".RR...........RR."
+    },
+    {
+        "code_name": "691",
+        "data": "......1.1.1...RR."
+    },
+    {
+        "code_name": "692",
+        "group": "Survival_4",
+        "data": "FFFFFFFFF..................................................F"
+    },
+    {
+        "code_name": "693",
+        "data": "FFFFFFFFBF.WWWW.WWWWWWWWWWWWWWWWWWW.WWWW.WWWWWWWWF.WWWWWWWFF"
+    },
+    {
+        "code_name": "694",
+        "data": "FFFFFFFFFFBWWWW.FFFFFBWWWWWBFFFFFBF.WWWW.BFFWWWWWFBWWWWWWWFF"
+    },
+    {
+        "code_name": "695",
+        "data": "FFFFFFFFBF.WWWW.DFFFFFWWWWW.FFFFFFF.WWWW.FFFFWWWFF.WWWW.FFFF"
+    },
+    {
+        "code_name": "696",
+        "data": "FFFFFFFFB..............WWW......D.D..WW......WWW....WWW.FFFF"
+    },
+    {
+        "code_name": "697",
+        "data": "FFFFFFFF....D...D......DD..D..D...D....D...D...D..D.WW..D.FF"
+    },
+    {
+        "code_name": "698",
+        "data": "FFFFFFFF...DD.....D...DD............D.....D..D....DDD...D.FF"
+    },
+    {
+        "code_name": "699",
+        "data": "FFFFFFFF.......D................M.....M.............D.D...FF"
+    },
+    {
+        "code_name": "700",
+        "data": ".......BB..................MMMMMM..D..MMMMMM..D...........FF"
+    },
+    {
+        "code_name": "701",
+        "data": "FFFF.........D...FFFFF.......MMM........MMM......D.........."
+    },
+    {
+        "code_name": "702",
+        "data": "FFF........B.....FFFFF..D..........4.........D........MMM..."
+    },
+    {
+        "code_name": "703",
+        "data": "FFF......D.......FF...............F..F.............B....M.D."
+    },
+    {
+        "code_name": "704",
+        "data": "FFF..........D.......F...BB...BB...4.FFF..MM......FFFFF.M..."
+    },
+    {
+        "code_name": "705",
+        "data": "FFF..B...........D..4F...BBB..BBB.....FF..M...D......FF.M..."
+    },
+    {
+        "code_name": "706",
+        "data": "FFF.....FFF......D..F4.....B..BBB....BFF..M.......F..FF....."
+    },
+    {
+        "code_name": "707",
+        "data": "FFF.....FFF..D....................D..FFF..M..B..4....F......"
+    },
+    {
+        "code_name": "708",
+        "data": "FF...D...FF....BB....................FFF.MM.....F4......D.FF"
+    },
+    {
+        "code_name": "709",
+        "data": "FFD.........BWWWWWWWB....D....FF......B..M...D..........D.FF"
+    },
+    {
+        "code_name": "710",
+        "data": "FF...D..D...BWWWWWWWBD......1..MFF..................D.....FF"
+    },
+    {
+        "code_name": "711",
+        "data": "FF......FFF.BDWWWWWD..FMFF.....MFF..1...........D.........FF"
+    },
+    {
+        "code_name": "712",
+        "data": "FF......FFF...........FMMF..D.........FMMM...MMFFFFFFFF.D.FF"
+    },
+    {
+        "code_name": "713",
+        "data": "FF.....D.FF.D...........MF.........D..FM.....MM..FFFFFF...FF"
+    },
+    {
+        "code_name": "714",
+        "data": "F..DD....F...........1........MM...........D.FF..FFFF.....FF"
+    },
+    {
+        "code_name": "715",
+        "data": ".....MMM.F.4...MMF......D...FFMMFF...........FF...........FF"
+    },
+    {
+        "code_name": "716",
+        "data": "....DMMM....F..MMF........MMFFFFFFMMB....1...FB......MM...FF"
+    },
+    {
+        "code_name": "717",
+        "data": ".....MMM...4...FFF.MFF....MMFFFFFFMM.........FF..MM..MM....."
+    },
+    {
+        "code_name": "718",
+        "data": "...................MMF...FFFFFFFFFFFF.......FFF..MM.......D."
+    },
+    {
+        "code_name": "719",
+        "data": ".........................FFFFFFFFFFFF...FFM................."
+    },
+    {
+        "code_name": "720",
+        "data": ".D..B..MMM..MMM.........FFFFFM44MFFFFF...FM............D...."
+    },
+    {
+        "code_name": "721",
+        "data": ".......MMM..MMM...1.....MMFFF4..4FFFMM......D..MM........FFF"
+    },
+    {
+        "code_name": "722",
+        "data": ".......MMM..MMM.........MMFFF4..4FFFMM.........MM....4...FFF"
+    },
+    {
+        "code_name": "723",
+        "data": "..MMM.................D.FFFFFM44MFFFFF.....1........F.F..FFF"
+    },
+    {
+        "code_name": "724",
+        "data": "..MMM...........FFFMM....FFFFFFFFFFFF.........D...D..4...FFF"
+    },
+    {
+        "code_name": "725",
+        "data": "..MMM..B..MMM....FFMMF...FFFFFFFFFFFF...FFM..............FFF"
+    },
+    {
+        "code_name": "726",
+        "data": "F.........MMM......FF.....MMFFFFFFMM...FFMM....BB........FFF"
+    },
+    {
+        "code_name": "727",
+        "data": "F.........MMM.............MMFFFFFFMM..........BBBB.......FFF"
+    },
+    {
+        "code_name": "728",
+        "data": "FFF..................1......FFMMFF....B.....DWWWWWWW.....FFF"
+    },
+    {
+        "code_name": "729",
+        "data": "FFF...........T........F......MM............DWWWBBWWD..D...."
+    },
+    {
+        "code_name": "730",
+        "data": "FFF.B..T....F..........MM...........D...1.....BB.DDDD......."
+    },
+    {
+        "code_name": "731",
+        "data": "FFF.............D......MFF..DD......DMM....................."
+    },
+    {
+        "code_name": "732",
+        "data": "FFFFFF......4F......T................MMMF................FFF"
+    },
+    {
+        "code_name": "733",
+        "data": "FFFFFF.......4.........T..1..MF...1...FFF......T.D....D..FFF"
+    },
+    {
+        "code_name": "734",
+        "data": "FFFFFFB..T.F.....T...........MF.....D......T........T.....FF"
+    },
+    {
+        "code_name": "735",
+        "data": "FFFFFF..................B....MF.D............D............FF"
+    },
+    {
+        "code_name": "736",
+        "data": "FFFFFF..D..T........T............................T......T..F"
+    },
+    {
+        "code_name": "737",
+        "data": "FFFFFD...........T......FFFFF..MMM..MMM..M.FF.........D....F"
+    },
+    {
+        "code_name": "738",
+        "data": "FFFFFFD.......T..........FFFF....M..M....M..F4.............."
+    },
+    {
+        "code_name": "739",
+        "data": "FFFFFFF..T...........T.....FF.....BB...D.M..4F...D..T......."
+    },
+    {
+        "code_name": "740",
+        "data": "FFFFFFFDD.........T...........D..DBBD....M..............B..."
+    },
+    {
+        "code_name": "741",
+        "data": "FFFFFFFF....T............FFF.....M..M....M.......T.........."
+    },
+    {
+        "code_name": "742",
+        "data": "FFFFFFFF.......T........4.4....MMM..MMM..M...........T.....F"
+    },
+    {
+        "code_name": "743",
+        "data": "FFFFFFFF..D..D..............D...............T..............F"
+    },
+    {
+        "code_name": "744",
+        "data": "FFFFFFFD..........T..D.............................B...B..FF"
+    },
+    {
+        "code_name": "745",
+        "data": "FFFFFFFD.....T..........MM.MM..MMM..MMM..M....M...........FF"
+    },
+    {
+        "code_name": "746",
+        "data": "FFFFFFFFFB......B...........M....M..M....M....M..T.......FFF"
+    },
+    {
+        "code_name": "747",
+        "data": "FFFFFFFFF...........MM......M....M..M....M..MMM..........FFF"
+    },
+    {
+        "code_name": "748",
+        "data": "FFFFFFFFFFFDFFDD...................................FFFFFFFFF"
+    },
+    {
+        "code_name": "749",
+        "data": "FFFFFFFFFFFFFFDFFFDFD..FFFFFFF.............FFFFF...FFFFFFFFF"
+    },
+    {
+        "code_name": "750",
+        "data": "FFFFFFFFFFFFFFFFFFFFF..FFFFFFFFFFFF...FFFFFFFFFF...FFFFFFFFF"
+    },
+    {
+        "code_name": "751",
+        "data": "FFFFFFFFFFFFFFFFFFFFF..FFFFFFFFFFFF...FFFFFFFFFF...FFFFFFFFF"
+    },
+    {
+        "code_name": "752",
+        "group": "Wanted_8",
+        "data": "......2.2.2......"
+    },
+    {
+        "code_name": "753",
+        "data": "................."
+    },
+    {
+        "code_name": "754",
+        "data": "................."
+    },
+    {
+        "code_name": "755",
+        "data": "....NNNNY..Y....."
+    },
+    {
+        "code_name": "756",
+        "data": "....RRRRR..N.RR.."
+    },
+    {
+        "code_name": "757",
+        "data": "....RRRRR..N.RR.."
+    },
+    {
+        "code_name": "758",
+        "data": "...........N.RR.."
+    },
+    {
+        "code_name": "759",
+        "data": "...........N....."
+    },
+    {
+        "code_name": "760",
+        "data": "..YYYYYC...NNNN.R"
+    },
+    {
+        "code_name": "761",
+        "data": "............CCC.R"
+    },
+    {
+        "code_name": "762",
+        "data": "................R"
+    },
+    {
+        "code_name": "763",
+        "data": "...MMMM.........R"
+    },
+    {
+        "code_name": "764",
+        "data": "...RRRM.........."
+    },
+    {
+        "code_name": "765",
+        "data": "...RRRM.........."
+    },
+    {
+        "code_name": "766",
+        "data": "..BRRRM...MRRRR.."
+    },
+    {
+        "code_name": "767",
+        "data": ".........DMRRRR.."
+    },
+    {
+        "code_name": "768",
+        "data": "..........MRRRR.D"
+    },
+    {
+        "code_name": "769",
+        "data": "R.T..T...DMRRRR.."
+    },
+    {
+        "code_name": "770",
+        "data": "R..RR.....MMMMM.."
+    },
+    {
+        "code_name": "771",
+        "data": "R..RR....BBD....."
+    },
+    {
+        "code_name": "772",
+        "data": "R.T....D........."
+    },
+    {
+        "code_name": "773",
+        "data": "...........D.RXR."
+    },
+    {
+        "code_name": "774",
+        "data": ".......BB....RXR."
+    },
+    {
+        "code_name": "775",
+        "data": "..BB..XXXXR..RXR."
+    },
+    {
+        "code_name": "776",
+        "data": "......RRRRR..XXR."
+    },
+    {
+        "code_name": "777",
+        "data": "......RRRRR......"
+    },
+    {
+        "code_name": "778",
+        "data": "............D...."
+    },
+    {
+        "code_name": "779",
+        "data": "....X............"
+    },
+    {
+        "code_name": "780",
+        "data": "....XRRR...RRR..."
+    },
+    {
+        "code_name": "781",
+        "data": "....XXXX...XXX..."
+    },
+    {
+        "code_name": "782",
+        "data": ".B..............."
+    },
+    {
+        "code_name": "783",
+        "data": "................."
+    },
+    {
+        "code_name": "784",
+        "data": "......1.1.1......"
+    },
+    {
+        "code_name": "785",
+        "group": "Bankheist_4",
+        "data": "2.2N.........N2.2"
+    },
+    {
+        "code_name": "786",
+        "data": "FFFN.........NFFF"
+    },
+    {
+        "code_name": "787",
+        "data": "FFFN..Y...Y..NFFF"
+    },
+    {
+        "code_name": "788",
+        "data": "......Y.9.Y......"
+    },
+    {
+        "code_name": "789",
+        "data": "......Y...Y......"
+    },
+    {
+        "code_name": "790",
+        "data": "FFFFFFY...YFFFFFF"
+    },
+    {
+        "code_name": "791",
+        "data": "CFFCNNYYYYYFFCNNN"
+    },
+    {
+        "code_name": "792",
+        "data": "FFFFFFFFFFFFFFFFF"
+    },
+    {
+        "code_name": "793",
+        "data": "FFFFFFFFFFFFFFFFF"
+    },
+    {
+        "code_name": "794",
+        "data": ".....CNNNNNC....."
+    },
+    {
+        "code_name": "795",
+        "data": "................."
+    },
+    {
+        "code_name": "796",
+        "data": "................."
+    },
+    {
+        "code_name": "797",
+        "data": "YYY...YYYNNNNN..."
+    },
+    {
+        "code_name": "798",
+        "data": "..WWWWW.........."
+    },
+    {
+        "code_name": "799",
+        "data": "..WWWWW.........."
+    },
+    {
+        "code_name": "800",
+        "data": "................."
+    },
+    {
+        "code_name": "801",
+        "data": "..FFFFFF........."
+    },
+    {
+        "code_name": "802",
+        "data": "..FFFFFF........."
+    },
+    {
+        "code_name": "803",
+        "data": "..FFFFFF.N.FFFF.."
+    },
+    {
+        "code_name": "804",
+        "data": "..FFFFFF.N.FFFF.."
+    },
+    {
+        "code_name": "805",
+        "data": ".........N.FFFF.."
+    },
+    {
+        "code_name": "806",
+        "data": "...CNNNNNN.FFFF.."
+    },
+    {
+        "code_name": "807",
+        "data": "...........FFFF.."
+    },
+    {
+        "code_name": "808",
+        "data": "..FFFFFF...FFFF.."
+    },
+    {
+        "code_name": "809",
+        "data": "..FFFFFF.N.FFFF.N"
+    },
+    {
+        "code_name": "810",
+        "data": "..FFFFFF.N.FFFF.N"
+    },
+    {
+        "code_name": "811",
+        "data": "..FFFFFF.N......N"
+    },
+    {
+        "code_name": "812",
+        "data": "..FFFFFF.NNN..NNN"
+    },
+    {
+        "code_name": "813",
+        "data": "..FFFFFF........."
+    },
+    {
+        "code_name": "814",
+        "data": "..FNNNNF........."
+    },
+    {
+        "code_name": "815",
+        "data": "................."
+    },
+    {
+        "code_name": "816",
+        "data": "................."
+    },
+    {
+        "code_name": "817",
+        "data": "......1.1.1......"
+    },
+    {
+        "code_name": "818",
+        "group": "Gemgrab_6",
+        "data": "......2.2.2......"
+    },
+    {
+        "code_name": "819",
+        "data": "................."
+    },
+    {
+        "code_name": "820",
+        "data": "................."
+    },
+    {
+        "code_name": "821",
+        "data": "....MMMMM..M....."
+    },
+    {
+        "code_name": "822",
+        "data": "....RRRRR..M.RR.."
+    },
+    {
+        "code_name": "823",
+        "data": "....RRRRR..M.RR.."
+    },
+    {
+        "code_name": "824",
+        "data": "...........M.RR.."
+    },
+    {
+        "code_name": "825",
+        "data": "...........M....."
+    },
+    {
+        "code_name": "826",
+        "data": "..MMMMMM...MMMM.R"
+    },
+    {
+        "code_name": "827",
+        "data": "................R"
+    },
+    {
+        "code_name": "828",
+        "data": ".........RRRR...R"
+    },
+    {
+        "code_name": "829",
+        "data": "...MMMM..MMMM...R"
+    },
+    {
+        "code_name": "830",
+        "data": "...RRRM.........."
+    },
+    {
+        "code_name": "831",
+        "data": "...RRRM.........."
+    },
+    {
+        "code_name": "832",
+        "data": "..B........XRRR.."
+    },
+    {
+        "code_name": "833",
+        "data": "...........XRRR.."
+    },
+    {
+        "code_name": "834",
+        "data": "...........XRRR.D"
+    },
+    {
+        "code_name": "835",
+        "data": "R.T..T.....XXXX.."
+    },
+    {
+        "code_name": "836",
+        "data": "R..RR............"
+    },
+    {
+        "code_name": "837",
+        "data": "R..RR............"
+    },
+    {
+        "code_name": "838",
+        "data": "R.T..T.RXXXX....."
+    },
+    {
+        "code_name": "839",
+        "data": ".......RRRRR.RXR."
+    },
+    {
+        "code_name": "840",
+        "data": ".......RRRRR.RXR."
+    },
+    {
+        "code_name": "841",
+        "data": "..BB.........RXR."
+    },
+    {
+        "code_name": "842",
+        "data": "......XXX....XXR."
+    },
+    {
+        "code_name": "843",
+        "data": "......RRR........"
+    },
+    {
+        "code_name": "844",
+        "data": "............D...."
+    },
+    {
+        "code_name": "845",
+        "data": "....X............"
+    },
+    {
+        "code_name": "846",
+        "data": "....XRRR...RRR..."
+    },
+    {
+        "code_name": "847",
+        "data": "....XXXX...XXX..."
+    },
+    {
+        "code_name": "848",
+        "data": ".B..............."
+    },
+    {
+        "code_name": "849",
+        "data": "................."
+    },
+    {
+        "code_name": "850",
+        "data": "......1.1.1......"
+    },
+    {
+        "code_name": "851",
+        "group": "Laserball_1",
+        "data": "..7.I.......I.7.."
+    },
+    {
+        "code_name": "852",
+        "data": "....I.......I...."
+    },
+    {
+        "code_name": "853",
+        "data": "....IYY...YYI...."
+    },
+    {
+        "code_name": "854",
+        "data": "....RRR...RRR...."
+    },
+    {
+        "code_name": "855",
+        "data": "................."
+    },
+    {
+        "code_name": "856",
+        "data": "YY.............YY"
+    },
+    {
+        "code_name": "857",
+        "data": "...............RR"
+    },
+    {
+        "code_name": "858",
+        "data": "...RYYYYYYYYY...."
+    },
+    {
+        "code_name": "859",
+        "data": "...RRR2.2.2......"
+    },
+    {
+        "code_name": "860",
+        "data": "................."
+    },
+    {
+        "code_name": "861",
+        "data": "................."
+    },
+    {
+        "code_name": "862",
+        "data": "..YYYR.....RRR..."
+    },
+    {
+        "code_name": "863",
+        "data": "...RRR....YYYR..."
+    },
+    {
+        "code_name": "864",
+        "data": "................."
+    },
+    {
+        "code_name": "865",
+        "data": "................."
+    },
+    {
+        "code_name": "866",
+        "data": "................."
+    },
+    {
+        "code_name": "867",
+        "data": "Y...............Y"
+    },
+    {
+        "code_name": "868",
+        "data": "................."
+    },
+    {
+        "code_name": "869",
+        "data": "................."
+    },
+    {
+        "code_name": "870",
+        "data": "................."
+    },
+    {
+        "code_name": "871",
+        "data": "...RYYY....RRR..."
+    },
+    {
+        "code_name": "872",
+        "data": "...RRR.....RYYY.."
+    },
+    {
+        "code_name": "873",
+        "data": "................."
+    },
+    {
+        "code_name": "874",
+        "data": "................."
+    },
+    {
+        "code_name": "875",
+        "data": "......1.1.1RRR..."
+    },
+    {
+        "code_name": "876",
+        "data": "....YYYYYYYYYR..."
+    },
+    {
+        "code_name": "877",
+        "data": "RR..............."
+    },
+    {
+        "code_name": "878",
+        "data": "YY.............YY"
+    },
+    {
+        "code_name": "879",
+        "data": "................."
+    },
+    {
+        "code_name": "880",
+        "data": "....RRR...RRR...."
+    },
+    {
+        "code_name": "881",
+        "data": "....IYY...YYI...."
+    },
+    {
+        "code_name": "882",
+        "data": "....I.......I...."
+    },
+    {
+        "code_name": "883",
+        "data": "..6.I.......I.6.."
+    },
+    {
+        "code_name": "884",
+        "group": "BossFight_1",
+        "data": "RR.............RR"
+    },
+    {
+        "code_name": "885",
+        "data": "RR.............RR"
+    },
+    {
+        "code_name": "886",
+        "data": "MMM.....2.....MMM"
+    },
+    {
+        "code_name": "887",
+        "data": ".....MRRRRRM....."
+    },
+    {
+        "code_name": "888",
+        "data": ".....MRRRRRM....R"
+    },
+    {
+        "code_name": "889",
+        "data": ".....MMMMMMM....R"
+    },
+    {
+        "code_name": "890",
+        "data": "RR.............RR"
+    },
+    {
+        "code_name": "891",
+        "data": "RR...RRRRRRR...RR"
+    },
+    {
+        "code_name": "892",
+        "data": "MMM..RRRMRRR..MMM"
+    },
+    {
+        "code_name": "893",
+        "data": ".....RRRMRRR....."
+    },
+    {
+        "code_name": "894",
+        "data": ".....RRRMRRR....."
+    },
+    {
+        "code_name": "895",
+        "data": "........M....RR.."
+    },
+    {
+        "code_name": "896",
+        "data": "M..WWWWMMMWWWWR.M"
+    },
+    {
+        "code_name": "897",
+        "data": "...RRR..........."
+    },
+    {
+        "code_name": "898",
+        "data": "................."
+    },
+    {
+        "code_name": "899",
+        "data": "................."
+    },
+    {
+        "code_name": "900",
+        "data": ".....RR........RR"
+    },
+    {
+        "code_name": "901",
+        "data": "WWW..RWWWWW...WWW"
+    },
+    {
+        "code_name": "902",
+        "data": "......MMMRR......"
+    },
+    {
+        "code_name": "903",
+        "data": "RR..............."
+    },
+    {
+        "code_name": "904",
+        "data": "RR..............R"
+    },
+    {
+        "code_name": "905",
+        "data": "................R"
+    },
+    {
+        "code_name": "906",
+        "data": "...WWWWWWWWWWW..."
+    },
+    {
+        "code_name": "907",
+        "data": "................."
+    },
+    {
+        "code_name": "908",
+        "data": "................."
+    },
+    {
+        "code_name": "909",
+        "data": "....YY...CCC....."
+    },
+    {
+        "code_name": "910",
+        "data": "....CY..........."
+    },
+    {
+        "code_name": "911",
+        "data": "................."
+    },
+    {
+        "code_name": "912",
+        "data": "..........CY....."
+    },
+    {
+        "code_name": "913",
+        "data": "................."
+    },
+    {
+        "code_name": "914",
+        "data": "C...............Y"
+    },
+    {
+        "code_name": "915",
+        "data": "YY.............CC"
+    },
+    {
+        "code_name": "916",
+        "data": "YYC.1.1.1.1.1.CCY"
+    },
+    {
+        "code_name": "917",
+        "group": "Laserball_2",
+        "data": "RR7RI.......IR7RR"
+    },
+    {
+        "code_name": "918",
+        "data": "RRRRI.......IRRRR"
+    },
+    {
+        "code_name": "919",
+        "data": "RRRRIYY...YYIRRRR"
+    },
+    {
+        "code_name": "920",
+        "data": "RRRR.........RRRR"
+    },
+    {
+        "code_name": "921",
+        "data": "................."
+    },
+    {
+        "code_name": "922",
+        "data": "..YYY.......YYY.."
+    },
+    {
+        "code_name": "923",
+        "data": "................."
+    },
+    {
+        "code_name": "924",
+        "data": ".......CCC......."
+    },
+    {
+        "code_name": "925",
+        "data": "CC..Y.......Y..CC"
+    },
+    {
+        "code_name": "926",
+        "data": "CC..Y.......Y..CC"
+    },
+    {
+        "code_name": "927",
+        "data": "....YYY...YYY...."
+    },
+    {
+        "code_name": "928",
+        "data": "....RR2.2.2RR...."
+    },
+    {
+        "code_name": "929",
+        "data": "....RR.....RR...."
+    },
+    {
+        "code_name": "930",
+        "data": ".............YY.."
+    },
+    {
+        "code_name": "931",
+        "data": "..Y..YYY..RR.YY.."
+    },
+    {
+        "code_name": "932",
+        "data": "..Y.......RR....."
+    },
+    {
+        "code_name": "933",
+        "data": "..Y.RR..........."
+    },
+    {
+        "code_name": "934",
+        "data": "..Y.RR..........."
+    },
+    {
+        "code_name": "935",
+        "data": "..Y.....YYY..YY.."
+    },
+    {
+        "code_name": "936",
+        "data": ".............YY.."
+    },
+    {
+        "code_name": "937",
+        "data": "....RR.....RR...."
+    },
+    {
+        "code_name": "938",
+        "data": "....RR1.1.1RR...."
+    },
+    {
+        "code_name": "939",
+        "data": "....YYY...YYY...."
+    },
+    {
+        "code_name": "940",
+        "data": "CC..Y.......Y..CC"
+    },
+    {
+        "code_name": "941",
+        "data": "CC..Y.......Y..CC"
+    },
+    {
+        "code_name": "942",
+        "data": ".......CCC......."
+    },
+    {
+        "code_name": "943",
+        "data": "................."
+    },
+    {
+        "code_name": "944",
+        "data": "..YYY.......YYY.."
+    },
+    {
+        "code_name": "945",
+        "data": "................."
+    },
+    {
+        "code_name": "946",
+        "data": "RRRR.........RRRR"
+    },
+    {
+        "code_name": "947",
+        "data": "RRRRIYY...YYIRRRR"
+    },
+    {
+        "code_name": "948",
+        "data": "RRRRI.......IRRRR"
+    },
+    {
+        "code_name": "949",
+        "data": "RR6RI.......IR6RR"
+    },
+    {
+        "code_name": "950",
+        "group": "Laserball_3",
+        "data": ".7.RI.......IR.7."
+    },
+    {
+        "code_name": "951",
+        "data": "...RI.......IR..."
+    },
+    {
+        "code_name": "952",
+        "data": "...RIYY..YYYIR..."
+    },
+    {
+        "code_name": "953",
+        "data": "...RRRR..RRRRR..."
+    },
+    {
+        "code_name": "954",
+        "data": "................."
+    },
+    {
+        "code_name": "955",
+        "data": "......YYYYY......"
+    },
+    {
+        "code_name": "956",
+        "data": "..YY.........YY.."
+    },
+    {
+        "code_name": "957",
+        "data": "..RR.........RR.."
+    },
+    {
+        "code_name": "958",
+        "data": "..RR.2..2..2.RR.."
+    },
+    {
+        "code_name": "959",
+        "data": "..RR.........RR.."
+    },
+    {
+        "code_name": "960",
+        "data": "..YY.........YY.."
+    },
+    {
+        "code_name": "961",
+        "data": ".......YYY......."
+    },
+    {
+        "code_name": "962",
+        "data": "................."
+    },
+    {
+        "code_name": "963",
+        "data": ".....RRRRRRR....."
+    },
+    {
+        "code_name": "964",
+        "data": "..YY.RRRRRRR.YY.."
+    },
+    {
+        "code_name": "965",
+        "data": "..RR.RR...RR.RR.."
+    },
+    {
+        "code_name": "966",
+        "data": "..RR.RR...RR.RR.."
+    },
+    {
+        "code_name": "967",
+        "data": "..RR.RR...RR.RR.."
+    },
+    {
+        "code_name": "968",
+        "data": "..YY.RRRRRRR.YY.."
+    },
+    {
+        "code_name": "969",
+        "data": ".....RRRRRRR....."
+    },
+    {
+        "code_name": "970",
+        "data": "................."
+    },
+    {
+        "code_name": "971",
+        "data": ".......YYY......."
+    },
+    {
+        "code_name": "972",
+        "data": "..YY.........YY.."
+    },
+    {
+        "code_name": "973",
+        "data": "..RR.........RR.."
+    },
+    {
+        "code_name": "974",
+        "data": "..RR.1..1..1.RR.."
+    },
+    {
+        "code_name": "975",
+        "data": "..RR.........RR.."
+    },
+    {
+        "code_name": "976",
+        "data": "..YY.........YY.."
+    },
+    {
+        "code_name": "977",
+        "data": "......YYYYY......"
+    },
+    {
+        "code_name": "978",
+        "data": "................."
+    },
+    {
+        "code_name": "979",
+        "data": "...RRRRR..RRRR..."
+    },
+    {
+        "code_name": "980",
+        "data": "...RIYYY..YYIR..."
+    },
+    {
+        "code_name": "981",
+        "data": "...RI.......IR..."
+    },
+    {
+        "code_name": "982",
+        "data": ".6.RI.......IR.6."
+    },
+    {
+        "code_name": "983",
+        "group": "Coop_1",
+        "data": "................."
+    },
+    {
+        "code_name": "984",
+        "data": ".........T......."
+    },
+    {
+        "code_name": "985",
+        "data": "....T............"
+    },
+    {
+        "code_name": "986",
+        "data": "...........T....."
+    },
+    {
+        "code_name": "987",
+        "data": "................."
+    },
+    {
+        "code_name": "988",
+        "data": "...T............T"
+    },
+    {
+        "code_name": "989",
+        "data": ".......III..T...."
+    },
+    {
+        "code_name": "990",
+        "data": ".....IIIII......."
+    },
+    {
+        "code_name": "991",
+        "data": "................."
+    },
+    {
+        "code_name": "992",
+        "data": "..T...........I.."
+    },
+    {
+        "code_name": "993",
+        "data": ".......WWW...II.."
+    },
+    {
+        "code_name": "994",
+        "data": ".......WWW...II.."
+    },
+    {
+        "code_name": "995",
+        "data": "..T.............."
+    },
+    {
+        "code_name": "996",
+        "data": "................."
+    },
+    {
+        "code_name": "997",
+        "data": "....III.........."
+    },
+    {
+        "code_name": "998",
+        "data": "....IIII...IIII.."
+    },
+    {
+        "code_name": "999",
+        "data": "............III.."
+    },
+    {
+        "code_name": "1000",
+        "data": "T...D............"
+    },
+    {
+        "code_name": "1001",
+        "data": "...............D."
+    },
+    {
+        "code_name": "1002",
+        "data": ".D.....II........"
+    },
+    {
+        "code_name": "1003",
+        "data": "......IIII...IIII"
+    },
+    {
+        "code_name": "1004",
+        "data": "..II..........III"
+    },
+    {
+        "code_name": "1005",
+        "data": ".....D..........."
+    },
+    {
+        "code_name": "1006",
+        "data": "..........II..D.."
+    },
+    {
+        "code_name": "1007",
+        "data": "........IIII....."
+    },
+    {
+        "code_name": "1008",
+        "data": "...D............."
+    },
+    {
+        "code_name": "1009",
+        "data": "III...........III"
+    },
+    {
+        "code_name": "1010",
+        "data": "III........D..III"
+    },
+    {
+        "code_name": "1011",
+        "data": "III...........III"
+    },
+    {
+        "code_name": "1012",
+        "data": "III.....1.....III"
+    },
+    {
+        "code_name": "1013",
+        "data": "III.....5.....III"
+    },
+    {
+        "code_name": "1014",
+        "data": "III....1.1....III"
+    },
+    {
+        "code_name": "1015",
+        "data": "III...........III"
+    },
+    {
+        "code_name": "1016",
+        "group": "SurvivalTeam_1",
+        "data": "........FF..F........FF..FFF...........FF..........FFF......"
+    },
+    {
+        "code_name": "1017",
+        "data": "FF...FF..........MMM..F..FF.....FF.1.1.FF..........FFF......"
+    },
+    {
+        "code_name": "1018",
+        "data": "F...FFFFFF........MM.....FF.....FFFFF...FF........FFF.....FF"
+    },
+    {
+        "code_name": "1019",
+        "data": "F...FFFFF..........................FFF..F.........FF.....FF."
+    },
+    {
+        "code_name": "1020",
+        "data": "....FFF.....FF.....FF.....FFF.........................F..FF."
+    },
+    {
+        "code_name": "1021",
+        "data": ".....F.....FFF.....FF.....FFFFF.MMMMMM........M.FF...FFF...."
+    },
+    {
+        "code_name": "1022",
+        "data": "...........FFFF....F..MMM.......MMMMMM.......MM.FFF..FF....."
+    },
+    {
+        "code_name": "1023",
+        "data": ".......FF..FFFF.......MMM...MM...MMMM....FFF.MM..FF..F......"
+    },
+    {
+        "code_name": "1024",
+        "data": "......FF...FFFF.FFFF..MMM...MM....MM...M.FFF.MM.FFF.......F."
+    },
+    {
+        "code_name": "1025",
+        "data": ".1.1..FF..FFFFF.FFFFF..MM...MM........MM.FFF.MM.FF..MM....F."
+    },
+    {
+        "code_name": "1026",
+        "data": "..........FFFFF.............MM........MM..F..M......MM...FF."
+    },
+    {
+        "code_name": "1027",
+        "data": ".FF.......FFFF.....B...FF...M......T..M........F.........F.."
+    },
+    {
+        "code_name": "1028",
+        "data": "...........FF..........FF......................F............"
+    },
+    {
+        "code_name": "1029",
+        "data": ".......FF...F..........MF......FFFFFF.......T.FF............"
+    },
+    {
+        "code_name": "1030",
+        "data": "FF....FFF.....MMM..MMMMM........FFFF....D.F...FF.T.........."
+    },
+    {
+        "code_name": "1031",
+        "data": "FFF...FFF....MMMM..........F.....F.....DBD....FF...FFF.T...."
+    },
+    {
+        "code_name": "1032",
+        "data": ".......F....MM.............F.......T....D.....F....FF......F"
+    },
+    {
+        "code_name": "1033",
+        "data": ".........FF..........MMM.FFF................T.....FF.......F"
+    },
+    {
+        "code_name": "1034",
+        "data": ".........FF............M.FF...T.................T...T..FF.FF"
+    },
+    {
+        "code_name": "1035",
+        "data": "..........F............M.FF.....FF....M.44............FFF..."
+    },
+    {
+        "code_name": "1036",
+        "data": "...MM...........FF.....M.F.....FF.....M........F......FF...."
+    },
+    {
+        "code_name": "1037",
+        "data": "...MM...MMM...44FF.............FF...MMM.......FF.....FFFF..."
+    },
+    {
+        "code_name": "1038",
+        "data": ".........MM....FFF............44....M.......T.FF..T..FF....."
+    },
+    {
+        "code_name": "1039",
+        "data": "......F.......FFF....M...M..MMMMMM..M....T....FF............"
+    },
+    {
+        "code_name": "1040",
+        "data": "FFF...FF.............M...M......MM.............FF.....T....."
+    },
+    {
+        "code_name": "1041",
+        "data": ".FF...FF....FF.......M...M.4...........4.................MM."
+    },
+    {
+        "code_name": "1042",
+        "data": "..F.........FFF..MMMMM..FMMMF........MMMMM..MMM..MM......MM."
+    },
+    {
+        "code_name": "1043",
+        "data": "............F......4....FFFFFF..M....MM..M..MMM..MM........."
+    },
+    {
+        "code_name": "1044",
+        "data": "........FFFF.............FFFFFF.MMM......M..MM..........1.1."
+    },
+    {
+        "code_name": "1045",
+        "data": ".......FFFFF.....MM........F.44...M.....MM..M..............."
+    },
+    {
+        "code_name": "1046",
+        "data": ".FF.....FF.F.....MM.44............M.....MM..M...MMM.......F."
+    },
+    {
+        "code_name": "1047",
+        "data": "FF.........BB....M......M.....44..M.....4...MM..MMM.......F."
+    },
+    {
+        "code_name": "1048",
+        "data": "FF..........F....M...M..MMM..MMMMMM.........MM..MM.......FF."
+    },
+    {
+        "code_name": "1049",
+        "data": ".....FFFF...FFF..MMMMM................M.............F....FF."
+    },
+    {
+        "code_name": "1050",
+        "data": ".....FFFFF...FF.......................M..M..........FF......"
+    },
+    {
+        "code_name": "1051",
+        "data": "......F......FF....4......M..44..M...MM..MM.......FFFF......"
+    },
+    {
+        "code_name": "1052",
+        "data": "...........F.....FFFF..M..M......M...M...M.......FFFFF..FFF."
+    },
+    {
+        "code_name": "1053",
+        "data": "....MMM...FFF...FFF....M..MMMMMMMM...........B...FFFFF.FF..."
+    },
+    {
+        "code_name": "1054",
+        "data": "....MMM...FF.........MMM....................D.....FFFF......"
+    },
+    {
+        "code_name": "1055",
+        "data": "..........FF..44...............4..................FF.......F"
+    },
+    {
+        "code_name": "1056",
+        "data": "...........F..............D..BBBB.D.D...M...44....F........F"
+    },
+    {
+        "code_name": "1057",
+        "data": "....FFF........F........BWWWWWWWWWWWWB..MMMMFFFF........F..F"
+    },
+    {
+        "code_name": "1058",
+        "data": "F...FF..MM..MMFFMM..MM..WWWWWWWWWWWWWW..MMMMFFF........FF..F"
+    },
+    {
+        "code_name": "1059",
+        "data": "F...F...MMF.MMFFMM..MM..BWWWWWWWWWWWWB.....MFFF..MM...FFF..."
+    },
+    {
+        "code_name": "1060",
+        "data": "FF..F..FFFF...............D..D.D....D............MM...FFF..."
+    },
+    {
+        "code_name": "1061",
+        "data": "FF....FFFF..............................T.....T.......FF...."
+    },
+    {
+        "code_name": "1062",
+        "data": ".1.1....MM..MMFFMM..MM..MM..MMT.....T......................."
+    },
+    {
+        "code_name": "1063",
+        "data": "........MM..MMFFMMFFMM..MM..MM.......FFFF...........T......."
+    },
+    {
+        "code_name": "1064",
+        "data": ".....FF.....FFF....FFFFFF...F.FFF.T....FF.T.....T.........FF"
+    },
+    {
+        "code_name": "1065",
+        "data": "FF...FF................FF.....FFF....T........T..........FFF"
+    },
+    {
+        "code_name": "1066",
+        "data": "F....F..MM..MM..MM..MM.FMM..MM..FF.......................F.."
+    },
+    {
+        "code_name": "1067",
+        "data": "F.......MM..MM..MM..MM..MM..MMT.FF......MMM...BB....FF...F.."
+    },
+    {
+        "code_name": "1068",
+        "data": "....FFF..............FFFFF......FF.T....MMM........FFF......"
+    },
+    {
+        "code_name": "1069",
+        "data": "....FFF.............FFFF........FF......MM.........FFF......"
+    },
+    {
+        "code_name": "1070",
+        "data": ".....FF.MM.FMM..MM..MM.FMM..MM...FF.....MM......MMMMMF..M..."
+    },
+    {
+        "code_name": "1071",
+        "data": "....FFF.MM.FMM..MM..MM..MM..MM..T....T..MM......MMMMMF..M..."
+    },
+    {
+        "code_name": "1072",
+        "data": "FF..FFF....FFFF............................................."
+    },
+    {
+        "code_name": "1073",
+        "data": "FF...F......FFFF................F..T...........FFFFFF...F..."
+    },
+    {
+        "code_name": "1074",
+        "data": "F.......MM..MMFFMM..MM..MM..MM.FFF.1.1..BB.........FFF.FF..."
+    },
+    {
+        "code_name": "1075",
+        "data": "........MM..MMFFMM..MM..MM..MMFFF...............MM..FF.FF..."
+    },
+    {
+        "code_name": "1076",
+        "group": "Coop_2",
+        "data": "................."
+    },
+    {
+        "code_name": "1077",
+        "data": "................."
+    },
+    {
+        "code_name": "1078",
+        "data": "................."
+    },
+    {
+        "code_name": "1079",
+        "data": "............T...."
+    },
+    {
+        "code_name": "1080",
+        "data": "................."
+    },
+    {
+        "code_name": "1081",
+        "data": ".......III......."
+    },
+    {
+        "code_name": "1082",
+        "data": "...T...III......."
+    },
+    {
+        "code_name": "1083",
+        "data": ".......III....T.."
+    },
+    {
+        "code_name": "1084",
+        "data": ".......III......."
+    },
+    {
+        "code_name": "1085",
+        "data": ".....T.III......."
+    },
+    {
+        "code_name": "1086",
+        "data": ".......III..WW..."
+    },
+    {
+        "code_name": "1087",
+        "data": ".......III..WW..."
+    },
+    {
+        "code_name": "1088",
+        "data": ".......III..WW..."
+    },
+    {
+        "code_name": "1089",
+        "data": ".......III......."
+    },
+    {
+        "code_name": "1090",
+        "data": "...IIIIIII......."
+    },
+    {
+        "code_name": "1091",
+        "data": ".......III......."
+    },
+    {
+        "code_name": "1092",
+        "data": "T......III..D.III"
+    },
+    {
+        "code_name": "1093",
+        "data": ".....D.III......."
+    },
+    {
+        "code_name": "1094",
+        "data": ".......III......T"
+    },
+    {
+        "code_name": "1095",
+        "data": "..D....IIIIII...."
+    },
+    {
+        "code_name": "1096",
+        "data": ".......III....D.."
+    },
+    {
+        "code_name": "1097",
+        "data": "III....III......."
+    },
+    {
+        "code_name": "1098",
+        "data": "T.......D........"
+    },
+    {
+        "code_name": "1099",
+        "data": "..............III"
+    },
+    {
+        "code_name": "1100",
+        "data": "...............D."
+    },
+    {
+        "code_name": "1101",
+        "data": "....D............"
+    },
+    {
+        "code_name": "1102",
+        "data": ".............D..."
+    },
+    {
+        "code_name": "1103",
+        "data": "III...D.......III"
+    },
+    {
+        "code_name": "1104",
+        "data": "III...........III"
+    },
+    {
+        "code_name": "1105",
+        "data": "III.....1..D..III"
+    },
+    {
+        "code_name": "1106",
+        "data": "III.....5.....III"
+    },
+    {
+        "code_name": "1107",
+        "data": "III....1.1....III"
+    },
+    {
+        "code_name": "1108",
+        "data": "III...........III"
+    },
+    {
+        "code_name": "1109",
+        "group": "BossFight_2",
+        "data": "................."
+    },
+    {
+        "code_name": "1110",
+        "data": "................."
+    },
+    {
+        "code_name": "1111",
+        "data": "................."
+    },
+    {
+        "code_name": "1112",
+        "data": "...MM....MMMRRR.."
+    },
+    {
+        "code_name": "1113",
+        "data": "...MRRRRRRRRRRR.."
+    },
+    {
+        "code_name": "1114",
+        "data": "...MRRRRRRRRRMM.."
+    },
+    {
+        "code_name": "1115",
+        "data": "..RRRRMMMRRRRMM.."
+    },
+    {
+        "code_name": "1116",
+        "data": "..RRRRM...RRRM..."
+    },
+    {
+        "code_name": "1117",
+        "data": "..RRRRM.2.RRRM..."
+    },
+    {
+        "code_name": "1118",
+        "data": "...MRRR...RRRRRR."
+    },
+    {
+        "code_name": "1119",
+        "data": "...MRRRRRRRRRRRR."
+    },
+    {
+        "code_name": "1120",
+        "data": "...MRRRRRRRRRRRR."
+    },
+    {
+        "code_name": "1121",
+        "data": "....RRRRRRRRRM..."
+    },
+    {
+        "code_name": "1122",
+        "data": "....RRRR...RRM..."
+    },
+    {
+        "code_name": "1123",
+        "data": "...MRRRR...RRRR.."
+    },
+    {
+        "code_name": "1124",
+        "data": "...MRRRM...RRRR.."
+    },
+    {
+        "code_name": "1125",
+        "data": "..MMRRRMMMRRRRR.."
+    },
+    {
+        "code_name": "1126",
+        "data": "..MMRRRRRRRRRM..."
+    },
+    {
+        "code_name": "1127",
+        "data": ".RRRRRRRRRRRRM..."
+    },
+    {
+        "code_name": "1128",
+        "data": ".RRRRR...RRRRM..."
+    },
+    {
+        "code_name": "1129",
+        "data": ".RRRRR...MRRR...."
+    },
+    {
+        "code_name": "1130",
+        "data": "..MMRR...MRRR...."
+    },
+    {
+        "code_name": "1131",
+        "data": "..MMRRRMMMRRR...."
+    },
+    {
+        "code_name": "1132",
+        "data": "..MRRRRRRRRRRMM.."
+    },
+    {
+        "code_name": "1133",
+        "data": "..MRRRRRRRRRRMM.."
+    },
+    {
+        "code_name": "1134",
+        "data": "..RRRRRMMMMRRRR.."
+    },
+    {
+        "code_name": "1135",
+        "data": "..RR.......RRRR.."
+    },
+    {
+        "code_name": "1136",
+        "data": "................."
+    },
+    {
+        "code_name": "1137",
+        "data": "................."
+    },
+    {
+        "code_name": "1138",
+        "data": "................."
+    },
+    {
+        "code_name": "1139",
+        "data": "C...............Y"
+    },
+    {
+        "code_name": "1140",
+        "data": "YY.............CC"
+    },
+    {
+        "code_name": "1141",
+        "data": "YYC.1.1.1.1.1.CCY"
+    },
+    {
+        "code_name": "1142",
+        "group": "end"
+    }
+]

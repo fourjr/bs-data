@@ -1,3 +1,11 @@
+# bs-api-data
+
+These scripts were initally created by `smlbiobot` in the https://github.com/cr-api/cr-api-data repository.
+
+I have simply modified it for brawl stars.
+
+Below is the unmodified README from the original repository.
+
 # cr-api-data
 
 The Python scripts inside `/cr` combines columns inside several csv files to generate a collection of JSON files to be used for Clash Royale application development.

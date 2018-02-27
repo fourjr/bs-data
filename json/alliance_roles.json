@@ -1,0 +1,61 @@
+[
+    {
+        "name": "NonMember",
+        "level": 0,
+        "can_invite": false,
+        "can_send_mail": false,
+        "can_change_alliance_settings": false,
+        "can_accept_join_request": false,
+        "can_kick": false,
+        "can_be_promoted_to_leader": false,
+        "promote_skill": 0
+    },
+    {
+        "name": "Member",
+        "level": 1,
+        "can_invite": false,
+        "can_send_mail": false,
+        "can_change_alliance_settings": false,
+        "can_accept_join_request": false,
+        "can_kick": false,
+        "can_be_promoted_to_leader": false,
+        "promote_skill": 0,
+        "name_en": "Member"
+    },
+    {
+        "name": "Leader",
+        "level": 20,
+        "can_invite": true,
+        "can_send_mail": true,
+        "can_change_alliance_settings": true,
+        "can_accept_join_request": true,
+        "can_kick": true,
+        "can_be_promoted_to_leader": true,
+        "promote_skill": 2,
+        "name_en": "Leader"
+    },
+    {
+        "name": "Elder",
+        "level": 5,
+        "can_invite": true,
+        "can_send_mail": false,
+        "can_change_alliance_settings": false,
+        "can_accept_join_request": true,
+        "can_kick": true,
+        "can_be_promoted_to_leader": false,
+        "promote_skill": 0,
+        "name_en": "Elder"
+    },
+    {
+        "name": "Co-leader",
+        "level": 10,
+        "can_invite": true,
+        "can_send_mail": true,
+        "can_change_alliance_settings": true,
+        "can_accept_join_request": true,
+        "can_kick": true,
+        "can_be_promoted_to_leader": true,
+        "promote_skill": 2,
+        "name_en": "Co-leader"
+    }
+]

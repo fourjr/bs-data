@@ -1,0 +1,201 @@
+[
+    {
+        "name": "ALLIANCE_CREATE_RESOURCE",
+        "boolean_value": false,
+        "text_value": "Gold"
+    },
+    {
+        "name": "ALLIANCE_CREATE_COST",
+        "number_value": 0,
+        "boolean_value": false
+    },
+    {
+        "name": "STARTING_DIAMONDS",
+        "number_value": 0,
+        "boolean_value": false
+    },
+    {
+        "name": "MAX_MESSAGE_LENGTH",
+        "number_value": 128,
+        "boolean_value": false
+    },
+    {
+        "name": "MAX_ALLIANCE_MAIL_LENGTH",
+        "number_value": 256,
+        "boolean_value": false
+    },
+    {
+        "name": "SPEED_UP_DIAMOND_COST_1_MIN",
+        "number_value": 1,
+        "boolean_value": false
+    },
+    {
+        "name": "SPEED_UP_DIAMOND_COST_1_HOUR",
+        "number_value": 4,
+        "boolean_value": false
+    },
+    {
+        "name": "SPEED_UP_DIAMOND_COST_24_HOURS",
+        "number_value": 96,
+        "boolean_value": false
+    },
+    {
+        "name": "SPEED_UP_DIAMOND_COST_1_WEEK",
+        "number_value": 672,
+        "boolean_value": false
+    },
+    {
+        "name": "SPEED_UP_FREE_SECONDS",
+        "number_value": 0,
+        "boolean_value": false
+    },
+    {
+        "name": "RESOURCE_DIAMOND_COST_1",
+        "number_value": 1,
+        "boolean_value": false
+    },
+    {
+        "name": "RESOURCE_DIAMOND_COST_10",
+        "number_value": 2,
+        "boolean_value": false
+    },
+    {
+        "name": "RESOURCE_DIAMOND_COST_100",
+        "number_value": 20,
+        "boolean_value": false
+    },
+    {
+        "name": "RESOURCE_DIAMOND_COST_1000",
+        "number_value": 200,
+        "boolean_value": false
+    },
+    {
+        "name": "RESOURCE_DIAMOND_COST_10000",
+        "number_value": 2000,
+        "boolean_value": false
+    },
+    {
+        "name": "RESOURCE_DIAMOND_COST_100000",
+        "number_value": 20000,
+        "boolean_value": false
+    },
+    {
+        "name": "RESOURCE_DIAMOND_COST_1000000",
+        "number_value": 200000,
+        "boolean_value": false
+    },
+    {
+        "name": "RESOURCE_DIAMOND_COST_10000000",
+        "number_value": 2000000,
+        "boolean_value": false
+    },
+    {
+        "name": "ALLIANCE_SCORE_CONTRIBUTION_PERCENTAGE",
+        "boolean_value": false,
+        "number_array": 50
+    },
+    {
+        "boolean_value": false,
+        "number_array": 25
+    },
+    {
+        "boolean_value": false,
+        "number_array": 12
+    },
+    {
+        "boolean_value": false,
+        "number_array": 10
+    },
+    {
+        "boolean_value": false,
+        "number_array": 3
+    },
+    {
+        "name": "STARTING_GOLD",
+        "number_value": 92,
+        "boolean_value": false
+    },
+    {
+        "name": "BATTLE_PING_SAMPLE_SECONDS",
+        "number_value": 15,
+        "boolean_value": false
+    },
+    {
+        "name": "ALLIANCE_UNLOCK_EXP_LEVEL",
+        "number_value": 1,
+        "boolean_value": false
+    },
+    {
+        "name": "AFK_TIMER_SECONDS",
+        "number_value": 15,
+        "boolean_value": false
+    },
+    {
+        "name": "BOSS_DAMAGE_PERCENT_INCREASE",
+        "number_value": 50,
+        "boolean_value": false
+    },
+    {
+        "name": "BOSS_HEALTH_INCREASE",
+        "number_value": 50000,
+        "boolean_value": false
+    },
+    {
+        "name": "BOSS_SPEED_INCREASE",
+        "number_value": 100,
+        "boolean_value": false
+    },
+    {
+        "name": "BOSS_RELOAD_TIME_DIV",
+        "number_value": 20,
+        "boolean_value": false
+    },
+    {
+        "name": "BOSS_PET_HEALTH_BONUS_DIV",
+        "number_value": 15,
+        "boolean_value": false
+    },
+    {
+        "name": "BOSS_ULTI_CHARGE_MUL",
+        "number_value": 60,
+        "boolean_value": false
+    },
+    {
+        "name": "BOSS_ULTI_CHARGE_DIV",
+        "number_value": 100,
+        "boolean_value": false
+    },
+    {
+        "name": "BOSS_HEAL_MUL",
+        "number_value": 25,
+        "boolean_value": false
+    },
+    {
+        "name": "BOSS_HEAL_DIV",
+        "number_value": 100,
+        "boolean_value": false
+    },
+    {
+        "name": "COOP_ULTI_CHARGE_MUL",
+        "number_value": 30,
+        "boolean_value": false
+    },
+    {
+        "name": "COOP_ULTI_CHARGE_DIV",
+        "number_value": 100,
+        "boolean_value": false
+    },
+    {
+        "name": "MAX_CORPSES_PER_TEAM",
+        "number_value": 10,
+        "boolean_value": false
+    },
+    {
+        "name": "USE_MASK",
+        "boolean_value": false
+    },
+    {
+        "name": "DISPLAY_JOYSTICK_AREA",
+        "boolean_value": true
+    }
+]

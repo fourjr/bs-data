@@ -1,0 +1,86 @@
+[
+    {
+        "name": "boss1",
+        "player_count": 3,
+        "required_campaign_progress_to_unlock": 6,
+        "location": "Planet1",
+        "allowed_heroes": "Trooper,Techie,Vanguard,Sniper,PoisonDude,Healer",
+        "reward": "Diamonds:10:",
+        "map": "Pvp4",
+        "boss": "Boss2",
+        "boss_level": 1,
+        "name_en": "Calamity Canyon"
+    },
+    {
+        "name": "boss2",
+        "player_count": 3,
+        "required_campaign_progress_to_unlock": 12,
+        "location": "Planet2",
+        "allowed_heroes": "Trooper,Techie,Vanguard,Sniper,PoisonDude,Healer",
+        "reward": "Diamonds:10:",
+        "map": "Pvp4",
+        "boss": "Boss1",
+        "boss_level": 5,
+        "name_en": "Hall of the Mole King"
+    },
+    {
+        "name": "boss3",
+        "player_count": 3,
+        "required_campaign_progress_to_unlock": 18,
+        "location": "Planet3",
+        "allowed_heroes": "Trooper,Techie,Vanguard,Sniper,PoisonDude,Healer",
+        "reward": "Diamonds:10:",
+        "map": "Pvp4",
+        "boss": "Boss2",
+        "boss_level": 9,
+        "name_en": null
+    },
+    {
+        "name": "boss4",
+        "player_count": 3,
+        "required_campaign_progress_to_unlock": 24,
+        "location": "Planet4",
+        "allowed_heroes": "Trooper,Techie,Vanguard,Sniper,PoisonDude,Healer",
+        "reward": "Diamonds:10:",
+        "map": "Pvp4",
+        "boss": "Boss1",
+        "boss_level": 12,
+        "name_en": null
+    },
+    {
+        "name": "boss5",
+        "player_count": 3,
+        "required_campaign_progress_to_unlock": 30,
+        "location": "Planet5",
+        "allowed_heroes": "Trooper,Techie,Vanguard,Sniper,PoisonDude,Healer",
+        "reward": "Diamonds:10:",
+        "map": "Pvp4",
+        "boss": "Boss2",
+        "boss_level": 15,
+        "name_en": null
+    },
+    {
+        "name": "boss6",
+        "player_count": 3,
+        "required_campaign_progress_to_unlock": 36,
+        "location": "Planet6",
+        "allowed_heroes": "Trooper,Techie,Vanguard,Sniper,PoisonDude,Healer",
+        "reward": "Diamonds:10:",
+        "map": "Pvp4",
+        "boss": "Boss1",
+        "boss_level": 18,
+        "name_en": null
+    },
+    {
+        "name": "boss7",
+        "player_count": 3,
+        "required_campaign_progress_to_unlock": 54,
+        "location": "Planet7",
+        "allowed_heroes": "Trooper,Techie,Vanguard,Sniper,PoisonDude,Healer",
+        "reward": "Diamonds:10:",
+        "map": "Pvp4",
+        "boss": "Boss2",
+        "boss_level": 20,
+        "name_en": null
+    }
+]

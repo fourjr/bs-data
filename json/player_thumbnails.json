@@ -1,0 +1,352 @@
+[
+    {
+        "name": "base1",
+        "required_exp_level": 1,
+        "required_total_trophies": 0,
+        "required_season_points": 0,
+        "required_hero": null,
+        "icon_export_name": "player_icon_00",
+        "sort_order": 0,
+        "id": 28000000
+    },
+    {
+        "name": "base2",
+        "required_exp_level": 10,
+        "required_total_trophies": 0,
+        "required_season_points": 0,
+        "required_hero": null,
+        "icon_export_name": "player_icon_01",
+        "sort_order": 1,
+        "id": 28000001
+    },
+    {
+        "name": "base3",
+        "required_exp_level": 20,
+        "required_total_trophies": 0,
+        "required_season_points": 0,
+        "required_hero": null,
+        "icon_export_name": "player_icon_02",
+        "sort_order": 2,
+        "id": 28000002
+    },
+    {
+        "name": "hero1",
+        "required_exp_level": 0,
+        "required_total_trophies": 0,
+        "required_season_points": 0,
+        "required_hero": "ShotgunGirl",
+        "icon_export_name": "player_icon_shelly",
+        "sort_order": 16,
+        "id": 28000016
+    },
+    {
+        "name": "hero2",
+        "required_exp_level": 0,
+        "required_total_trophies": 0,
+        "required_season_points": 0,
+        "required_hero": "Gunslinger",
+        "icon_export_name": "player_icon_colt",
+        "sort_order": 17,
+        "id": 28000017
+    },
+    {
+        "name": "hero3",
+        "required_exp_level": 0,
+        "required_total_trophies": 0,
+        "required_season_points": 0,
+        "required_hero": "RocketGirl",
+        "icon_export_name": "player_icon_brock",
+        "sort_order": 22,
+        "id": 28000022
+    },
+    {
+        "name": "hero4",
+        "required_exp_level": 0,
+        "required_total_trophies": 0,
+        "required_season_points": 0,
+        "required_hero": "Mechanic",
+        "icon_export_name": "player_icon_jess",
+        "sort_order": 24,
+        "id": 28000024
+    },
+    {
+        "name": "hero5",
+        "required_exp_level": 0,
+        "required_total_trophies": 0,
+        "required_season_points": 0,
+        "required_hero": "Shaman",
+        "icon_export_name": "player_icon_nita",
+        "sort_order": 18,
+        "id": 28000018
+    },
+    {
+        "name": "hero6",
+        "required_exp_level": 0,
+        "required_total_trophies": 0,
+        "required_season_points": 0,
+        "required_hero": "TntDude",
+        "icon_export_name": "player_icon_mike",
+        "sort_order": 19,
+        "id": 28000019
+    },
+    {
+        "name": "hero7",
+        "required_exp_level": 0,
+        "required_total_trophies": 0,
+        "required_season_points": 0,
+        "required_hero": "Luchador",
+        "icon_export_name": "player_icon_primo",
+        "sort_order": 20,
+        "id": 28000020
+    },
+    {
+        "name": "hero8",
+        "required_exp_level": 0,
+        "required_total_trophies": 0,
+        "required_season_points": 0,
+        "required_hero": "BullDude",
+        "icon_export_name": "player_icon_bull",
+        "sort_order": 21,
+        "id": 28000021
+    },
+    {
+        "name": "hero9",
+        "required_exp_level": 0,
+        "required_total_trophies": 0,
+        "required_season_points": 0,
+        "required_hero": "TrickshotDude",
+        "icon_export_name": "player_icon_rick",
+        "sort_order": 25,
+        "id": 28000025
+    },
+    {
+        "name": "hero10",
+        "required_exp_level": 0,
+        "required_total_trophies": 0,
+        "required_season_points": 0,
+        "required_hero": "Barkeep",
+        "icon_export_name": "player_icon_barley",
+        "sort_order": 23,
+        "id": 28000023
+    },
+    {
+        "name": "hero11",
+        "required_exp_level": 0,
+        "required_total_trophies": 0,
+        "required_season_points": 0,
+        "required_hero": "DeadMariachi",
+        "icon_export_name": "player_icon_poco",
+        "sort_order": 26,
+        "id": 28000026
+    },
+    {
+        "name": "hero12",
+        "required_exp_level": 0,
+        "required_total_trophies": 0,
+        "required_season_points": 0,
+        "required_hero": "Undertaker",
+        "icon_export_name": "player_icon_mortis",
+        "sort_order": 31,
+        "id": 28000031
+    },
+    {
+        "name": "hero13",
+        "required_exp_level": 0,
+        "required_total_trophies": 0,
+        "required_season_points": 0,
+        "required_hero": "BowDude",
+        "icon_export_name": "player_icon_bo",
+        "sort_order": 27,
+        "id": 28000027
+    },
+    {
+        "name": "hero14",
+        "required_exp_level": 0,
+        "required_total_trophies": 0,
+        "required_season_points": 0,
+        "required_hero": "Cactus",
+        "icon_export_name": "player_icon_spike",
+        "sort_order": 33,
+        "id": 28000033
+    },
+    {
+        "name": "hero15",
+        "required_exp_level": 0,
+        "required_total_trophies": 0,
+        "required_season_points": 0,
+        "required_hero": "Crow",
+        "icon_export_name": "player_icon_crow",
+        "sort_order": 34,
+        "id": 28000034
+    },
+    {
+        "name": "hero16",
+        "required_exp_level": 0,
+        "required_total_trophies": 0,
+        "required_season_points": 0,
+        "required_hero": "Sniper",
+        "icon_export_name": "player_icon_piper",
+        "sort_order": 29,
+        "id": 28000029
+    },
+    {
+        "name": "base4",
+        "required_exp_level": 40,
+        "required_total_trophies": 0,
+        "required_season_points": 0,
+        "required_hero": null,
+        "icon_export_name": "player_icon_03",
+        "sort_order": 3,
+        "id": 28000003
+    },
+    {
+        "name": "base5",
+        "required_exp_level": 60,
+        "required_total_trophies": 0,
+        "required_season_points": 0,
+        "required_hero": null,
+        "icon_export_name": "player_icon_04",
+        "sort_order": 4,
+        "id": 28000004
+    },
+    {
+        "name": "base6",
+        "required_exp_level": 80,
+        "required_total_trophies": 0,
+        "required_season_points": 0,
+        "required_hero": null,
+        "icon_export_name": "player_icon_05",
+        "sort_order": 5,
+        "id": 28000005
+    },
+    {
+        "name": "base7",
+        "required_exp_level": 100,
+        "required_total_trophies": 0,
+        "required_season_points": 0,
+        "required_hero": null,
+        "icon_export_name": "player_icon_06",
+        "sort_order": 6,
+        "id": 28000006
+    },
+    {
+        "name": "base8",
+        "required_exp_level": 120,
+        "required_total_trophies": 0,
+        "required_season_points": 0,
+        "required_hero": null,
+        "icon_export_name": "player_icon_07",
+        "sort_order": 7,
+        "id": 28000007
+    },
+    {
+        "name": "trophy1",
+        "required_exp_level": 0,
+        "required_total_trophies": 500,
+        "required_season_points": 0,
+        "required_hero": null,
+        "icon_export_name": "player_icon_trophy_00",
+        "sort_order": 8,
+        "id": 28000008
+    },
+    {
+        "name": "trophy2",
+        "required_exp_level": 0,
+        "required_total_trophies": 1000,
+        "required_season_points": 0,
+        "required_hero": null,
+        "icon_export_name": "player_icon_trophy_01",
+        "sort_order": 9,
+        "id": 28000009
+    },
+    {
+        "name": "trophy3",
+        "required_exp_level": 0,
+        "required_total_trophies": 2000,
+        "required_season_points": 0,
+        "required_hero": null,
+        "icon_export_name": "player_icon_trophy_02",
+        "sort_order": 10,
+        "id": 28000010
+    },
+    {
+        "name": "trophy4",
+        "required_exp_level": 0,
+        "required_total_trophies": 3000,
+        "required_season_points": 0,
+        "required_hero": null,
+        "icon_export_name": "player_icon_trophy_03",
+        "sort_order": 11,
+        "id": 28000011
+    },
+    {
+        "name": "hero17",
+        "required_exp_level": 0,
+        "required_total_trophies": 0,
+        "required_season_points": 0,
+        "required_hero": "MinigunDude",
+        "icon_export_name": "player_icon_mj",
+        "sort_order": 30,
+        "id": 28000030
+    },
+    {
+        "name": "hero18",
+        "required_exp_level": 0,
+        "required_total_trophies": 0,
+        "required_season_points": 0,
+        "required_hero": "BlackHole",
+        "icon_export_name": "player_icon_taro",
+        "sort_order": 32,
+        "id": 28000032
+    },
+    {
+        "name": "trophy5",
+        "required_exp_level": 0,
+        "required_total_trophies": 5000,
+        "required_season_points": 0,
+        "required_hero": null,
+        "icon_export_name": "player_icon_elite_00",
+        "sort_order": 12,
+        "id": 28000012
+    },
+    {
+        "name": "trophy6",
+        "required_exp_level": 0,
+        "required_total_trophies": 7000,
+        "required_season_points": 0,
+        "required_hero": null,
+        "icon_export_name": "player_icon_elite_01",
+        "sort_order": 13,
+        "id": 28000013
+    },
+    {
+        "name": "trophy7",
+        "required_exp_level": 0,
+        "required_total_trophies": 10000,
+        "required_season_points": 0,
+        "required_hero": null,
+        "icon_export_name": "player_icon_elite_02",
+        "sort_order": 14,
+        "id": 28000014
+    },
+    {
+        "name": "trophy8",
+        "required_exp_level": 0,
+        "required_total_trophies": 13000,
+        "required_season_points": 0,
+        "required_hero": null,
+        "icon_export_name": "player_icon_elite_03",
+        "sort_order": 15,
+        "id": 28000015
+    },
+    {
+        "name": "hero19",
+        "required_exp_level": 0,
+        "required_total_trophies": 0,
+        "required_season_points": 0,
+        "required_hero": "BarrelBot",
+        "icon_export_name": "player_icon_barrelbot",
+        "sort_order": 28,
+        "id": 28000028
+    }
+]

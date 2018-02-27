@@ -1,1568 +1,1333 @@
 [
     {
-        "id": 57000000,
-        "key": "_EU",
-        "name": "Europe",
-        "isCountry": false
+        "name": "_EU",
+        "display_name": "Europe",
+        "is_country": false
     },
     {
-        "id": 57000001,
-        "key": "_NA",
-        "name": "North America",
-        "isCountry": false
+        "name": "_NA",
+        "display_name": "North America",
+        "is_country": false
     },
     {
-        "id": 57000002,
-        "key": "_SA",
-        "name": "South America",
-        "isCountry": false
+        "name": "_SA",
+        "display_name": "South America",
+        "is_country": false
     },
     {
-        "id": 57000003,
-        "key": "_AS",
-        "name": "Asia",
-        "isCountry": false
+        "name": "_AS",
+        "display_name": "Asia",
+        "is_country": false
     },
     {
-        "id": 57000004,
-        "key": "_AU",
-        "name": "Australia",
-        "isCountry": false
+        "name": "_AU",
+        "display_name": "Australia",
+        "is_country": false
     },
     {
-        "id": 57000005,
-        "key": "_AF",
-        "name": "Africa",
-        "isCountry": false
+        "name": "_AF",
+        "display_name": "Africa",
+        "is_country": false
     },
     {
-        "id": 57000006,
-        "key": "_INT",
-        "name": "International",
-        "isCountry": false
+        "name": "_INT",
+        "display_name": "International",
+        "is_country": false,
+        "name_en": null
     },
     {
-        "id": 57000007,
-        "key": "AF",
-        "name": "Afghanistan",
-        "isCountry": true
+        "name": "AF",
+        "display_name": "Afghanistan",
+        "is_country": true
     },
     {
-        "id": 57000008,
-        "key": "AX",
-        "name": "Åland Islands",
-        "isCountry": true
+        "name": "AX",
+        "display_name": "Åland Islands",
+        "is_country": true
     },
     {
-        "id": 57000009,
-        "key": "AL",
-        "name": "Albania",
-        "isCountry": true
+        "name": "AL",
+        "display_name": "Albania",
+        "is_country": true
     },
     {
-        "id": 57000010,
-        "key": "DZ",
-        "name": "Algeria",
-        "isCountry": true
+        "name": "DZ",
+        "display_name": "Algeria",
+        "is_country": true
     },
     {
-        "id": 57000011,
-        "key": "AS",
-        "name": "American Samoa",
-        "isCountry": true
+        "name": "AS",
+        "display_name": "American Samoa",
+        "is_country": true
     },
     {
-        "id": 57000012,
-        "key": "AD",
-        "name": "Andorra",
-        "isCountry": true
+        "name": "AD",
+        "display_name": "Andorra",
+        "is_country": true
     },
     {
-        "id": 57000013,
-        "key": "AO",
-        "name": "Angola",
-        "isCountry": true
+        "name": "AO",
+        "display_name": "Angola",
+        "is_country": true
     },
     {
-        "id": 57000014,
-        "key": "AI",
-        "name": "Anguilla",
-        "isCountry": true
+        "name": "AI",
+        "display_name": "Anguilla",
+        "is_country": true
     },
     {
-        "id": 57000015,
-        "key": "AQ",
-        "name": "Antarctica",
-        "isCountry": true
+        "name": "AQ",
+        "display_name": "Antarctica",
+        "is_country": true
     },
     {
-        "id": 57000016,
-        "key": "AG",
-        "name": "Antigua and Barbuda",
-        "isCountry": true
+        "name": "AG",
+        "display_name": "Antigua and Barbuda",
+        "is_country": true
     },
     {
-        "id": 57000017,
-        "key": "AR",
-        "name": "Argentina",
-        "isCountry": true
+        "name": "AR",
+        "display_name": "Argentina",
+        "is_country": true
     },
     {
-        "id": 57000018,
-        "key": "AM",
-        "name": "Armenia",
-        "isCountry": true
+        "name": "AM",
+        "display_name": "Armenia",
+        "is_country": true
     },
     {
-        "id": 57000019,
-        "key": "AW",
-        "name": "Aruba",
-        "isCountry": true
+        "name": "AW",
+        "display_name": "Aruba",
+        "is_country": true
     },
     {
-        "id": 57000020,
-        "key": "AC",
-        "name": "Ascension Island",
-        "isCountry": true
+        "name": "AC",
+        "display_name": "Ascension Island",
+        "is_country": true
     },
     {
-        "id": 57000021,
-        "key": "AU",
-        "name": "Australia",
-        "isCountry": true
+        "name": "AU",
+        "display_name": "Australia",
+        "is_country": true
     },
     {
-        "id": 57000022,
-        "key": "AT",
-        "name": "Austria",
-        "isCountry": true
+        "name": "AT",
+        "display_name": "Austria",
+        "is_country": true
     },
     {
-        "id": 57000023,
-        "key": "AZ",
-        "name": "Azerbaijan",
-        "isCountry": true
+        "name": "AZ",
+        "display_name": "Azerbaijan",
+        "is_country": true
     },
     {
-        "id": 57000024,
-        "key": "BS",
-        "name": "Bahamas",
-        "isCountry": true
+        "name": "BS",
+        "display_name": "Bahamas",
+        "is_country": true
     },
     {
-        "id": 57000025,
-        "key": "BH",
-        "name": "Bahrain",
-        "isCountry": true
+        "name": "BH",
+        "display_name": "Bahrain",
+        "is_country": true
     },
     {
-        "id": 57000026,
-        "key": "BD",
-        "name": "Bangladesh",
-        "isCountry": true
+        "name": "BD",
+        "display_name": "Bangladesh",
+        "is_country": true
     },
     {
-        "id": 57000027,
-        "key": "BB",
-        "name": "Barbados",
-        "isCountry": true
+        "name": "BB",
+        "display_name": "Barbados",
+        "is_country": true
     },
     {
-        "id": 57000028,
-        "key": "BY",
-        "name": "Belarus",
-        "isCountry": true
+        "name": "BY",
+        "display_name": "Belarus",
+        "is_country": true
     },
     {
-        "id": 57000029,
-        "key": "BE",
-        "name": "Belgium",
-        "isCountry": true
+        "name": "BE",
+        "display_name": "Belgium",
+        "is_country": true
     },
     {
-        "id": 57000030,
-        "key": "BZ",
-        "name": "Belize",
-        "isCountry": true
+        "name": "BZ",
+        "display_name": "Belize",
+        "is_country": true
     },
     {
-        "id": 57000031,
-        "key": "BJ",
-        "name": "Benin",
-        "isCountry": true
+        "name": "BJ",
+        "display_name": "Benin",
+        "is_country": true
     },
     {
-        "id": 57000032,
-        "key": "BM",
-        "name": "Bermuda",
-        "isCountry": true
+        "name": "BM",
+        "display_name": "Bermuda",
+        "is_country": true
     },
     {
-        "id": 57000033,
-        "key": "BT",
-        "name": "Bhutan",
-        "isCountry": true
+        "name": "BT",
+        "display_name": "Bhutan",
+        "is_country": true
     },
     {
-        "id": 57000034,
-        "key": "BO",
-        "name": "Bolivia",
-        "isCountry": true
+        "name": "BO",
+        "display_name": "Bolivia",
+        "is_country": true
     },
     {
-        "id": 57000035,
-        "key": "BA",
-        "name": "Bosnia and Herzegovina",
-        "isCountry": true
+        "name": "BA",
+        "display_name": "Bosnia and Herzegovina",
+        "is_country": true
     },
     {
-        "id": 57000036,
-        "key": "BW",
-        "name": "Botswana",
-        "isCountry": true
+        "name": "BW",
+        "display_name": "Botswana",
+        "is_country": true
     },
     {
-        "id": 57000037,
-        "key": "BV",
-        "name": "Bouvet Island",
-        "isCountry": true
+        "name": "BV",
+        "display_name": "Bouvet Island",
+        "is_country": true
     },
     {
-        "id": 57000038,
-        "key": "BR",
-        "name": "Brazil",
-        "isCountry": true
+        "name": "BR",
+        "display_name": "Brazil",
+        "is_country": true
     },
     {
-        "id": 57000039,
-        "key": "IO",
-        "name": "British Indian Ocean Territory",
-        "isCountry": true
+        "name": "IO",
+        "display_name": "British Indian Ocean Territory",
+        "is_country": true
     },
     {
-        "id": 57000040,
-        "key": "VG",
-        "name": "British Virgin Islands",
-        "isCountry": true
+        "name": "VG",
+        "display_name": "British Virgin Islands",
+        "is_country": true
     },
     {
-        "id": 57000041,
-        "key": "BN",
-        "name": "Brunei",
-        "isCountry": true
+        "name": "BN",
+        "display_name": "Brunei",
+        "is_country": true
     },
     {
-        "id": 57000042,
-        "key": "BG",
-        "name": "Bulgaria",
-        "isCountry": true
+        "name": "BG",
+        "display_name": "Bulgaria",
+        "is_country": true
     },
     {
-        "id": 57000043,
-        "key": "BF",
-        "name": "Burkina Faso",
-        "isCountry": true
+        "name": "BF",
+        "display_name": "Burkina Faso",
+        "is_country": true
     },
     {
-        "id": 57000044,
-        "key": "BI",
-        "name": "Burundi",
-        "isCountry": true
+        "name": "BI",
+        "display_name": "Burundi",
+        "is_country": true
     },
     {
-        "id": 57000045,
-        "key": "KH",
-        "name": "Cambodia",
-        "isCountry": true
+        "name": "KH",
+        "display_name": "Cambodia",
+        "is_country": true
     },
     {
-        "id": 57000046,
-        "key": "CM",
-        "name": "Cameroon",
-        "isCountry": true
+        "name": "CM",
+        "display_name": "Cameroon",
+        "is_country": true
     },
     {
-        "id": 57000047,
-        "key": "CA",
-        "name": "Canada",
-        "isCountry": true
+        "name": "CA",
+        "display_name": "Canada",
+        "is_country": true
     },
     {
-        "id": 57000048,
-        "key": "IC",
-        "name": "Canary Islands",
-        "isCountry": true
+        "name": "IC",
+        "display_name": "Canary Islands",
+        "is_country": true
     },
     {
-        "id": 57000049,
-        "key": "CV",
-        "name": "Cape Verde",
-        "isCountry": true
+        "name": "CV",
+        "display_name": "Cape Verde",
+        "is_country": true
     },
     {
-        "id": 57000050,
-        "key": "BQ",
-        "name": "Caribbean Netherlands",
-        "isCountry": true
+        "name": "BQ",
+        "display_name": "Caribbean Netherlands",
+        "is_country": true
     },
     {
-        "id": 57000051,
-        "key": "KY",
-        "name": "Cayman Islands",
-        "isCountry": true
+        "name": "KY",
+        "display_name": "Cayman Islands",
+        "is_country": true
     },
     {
-        "id": 57000052,
-        "key": "CF",
-        "name": "Central African Republic",
-        "isCountry": true
+        "name": "CF",
+        "display_name": "Central African Republic",
+        "is_country": true
     },
     {
-        "id": 57000053,
-        "key": "EA",
-        "name": "Ceuta and Melilla",
-        "isCountry": true
+        "name": "EA",
+        "display_name": "Ceuta and Melilla",
+        "is_country": true
     },
     {
-        "id": 57000054,
-        "key": "TD",
-        "name": "Chad",
-        "isCountry": true
+        "name": "TD",
+        "display_name": "Chad",
+        "is_country": true
     },
     {
-        "id": 57000055,
-        "key": "CL",
-        "name": "Chile",
-        "isCountry": true
+        "name": "CL",
+        "display_name": "Chile",
+        "is_country": true
     },
     {
-        "id": 57000056,
-        "key": "CN",
-        "name": "China",
-        "isCountry": true
+        "name": "CN",
+        "display_name": "China",
+        "is_country": true
     },
     {
-        "id": 57000057,
-        "key": "CX",
-        "name": "Christmas Island",
-        "isCountry": true
+        "name": "CX",
+        "display_name": "Christmas Island",
+        "is_country": true
     },
     {
-        "id": 57000058,
-        "key": "CC",
-        "name": "Cocos (Keeling) Islands",
-        "isCountry": true
+        "name": "CC",
+        "display_name": "Cocos (Keeling) Islands",
+        "is_country": true
     },
     {
-        "id": 57000059,
-        "key": "CO",
-        "name": "Colombia",
-        "isCountry": true
+        "name": "CO",
+        "display_name": "Colombia",
+        "is_country": true
     },
     {
-        "id": 57000060,
-        "key": "KM",
-        "name": "Comoros",
-        "isCountry": true
+        "name": "KM",
+        "display_name": "Comoros",
+        "is_country": true
     },
     {
-        "id": 57000061,
-        "key": "CG",
-        "name": "Congo (DRC)",
-        "isCountry": true
+        "name": "CG",
+        "display_name": "Congo (DRC)",
+        "is_country": true
     },
     {
-        "id": 57000062,
-        "key": "CD",
-        "name": "Congo (Republic)",
-        "isCountry": true
+        "name": "CD",
+        "display_name": "Congo (Republic)",
+        "is_country": true
     },
     {
-        "id": 57000063,
-        "key": "CK",
-        "name": "Cook Islands",
-        "isCountry": true
+        "name": "CK",
+        "display_name": "Cook Islands",
+        "is_country": true
     },
     {
-        "id": 57000064,
-        "key": "CR",
-        "name": "Costa Rica",
-        "isCountry": true
+        "name": "CR",
+        "display_name": "Costa Rica",
+        "is_country": true
     },
     {
-        "id": 57000065,
-        "key": "CI",
-        "name": "Côte d’Ivoire",
-        "isCountry": true
+        "name": "CI",
+        "display_name": "Côte d’Ivoire",
+        "is_country": true
     },
     {
-        "id": 57000066,
-        "key": "HR",
-        "name": "Croatia",
-        "isCountry": true
+        "name": "HR",
+        "display_name": "Croatia",
+        "is_country": true
     },
     {
-        "id": 57000067,
-        "key": "CU",
-        "name": "Cuba",
-        "isCountry": true
+        "name": "CU",
+        "display_name": "Cuba",
+        "is_country": true
     },
     {
-        "id": 57000068,
-        "key": "CW",
-        "name": "Curaçao",
-        "isCountry": true
+        "name": "CW",
+        "display_name": "Curaçao",
+        "is_country": true
     },
     {
-        "id": 57000069,
-        "key": "CY",
-        "name": "Cyprus",
-        "isCountry": true
+        "name": "CY",
+        "display_name": "Cyprus",
+        "is_country": true
     },
     {
-        "id": 57000070,
-        "key": "CZ",
-        "name": "Czech Republic",
-        "isCountry": true
+        "name": "CZ",
+        "display_name": "Czech Republic",
+        "is_country": true
     },
     {
-        "id": 57000071,
-        "key": "DK",
-        "name": "Denmark",
-        "isCountry": true
+        "name": "DK",
+        "display_name": "Denmark",
+        "is_country": true
     },
     {
-        "id": 57000072,
-        "key": "DG",
-        "name": "Diego Garcia",
-        "isCountry": true
+        "name": "DG",
+        "display_name": "Diego Garcia",
+        "is_country": true
     },
     {
-        "id": 57000073,
-        "key": "DJ",
-        "name": "Djibouti",
-        "isCountry": true
+        "name": "DJ",
+        "display_name": "Djibouti",
+        "is_country": true
     },
     {
-        "id": 57000074,
-        "key": "DM",
-        "name": "Dominica",
-        "isCountry": true
+        "name": "DM",
+        "display_name": "Dominica",
+        "is_country": true
     },
     {
-        "id": 57000075,
-        "key": "DO",
-        "name": "Dominican Republic",
-        "isCountry": true
+        "name": "DO",
+        "display_name": "Dominican Republic",
+        "is_country": true
     },
     {
-        "id": 57000076,
-        "key": "EC",
-        "name": "Ecuador",
-        "isCountry": true
+        "name": "EC",
+        "display_name": "Ecuador",
+        "is_country": true
     },
     {
-        "id": 57000077,
-        "key": "EG",
-        "name": "Egypt",
-        "isCountry": true
+        "name": "EG",
+        "display_name": "Egypt",
+        "is_country": true
     },
     {
-        "id": 57000078,
-        "key": "SV",
-        "name": "El Salvador",
-        "isCountry": true
+        "name": "SV",
+        "display_name": "El Salvador",
+        "is_country": true
     },
     {
-        "id": 57000079,
-        "key": "GQ",
-        "name": "Equatorial Guinea",
-        "isCountry": true
+        "name": "GQ",
+        "display_name": "Equatorial Guinea",
+        "is_country": true
     },
     {
-        "id": 57000080,
-        "key": "ER",
-        "name": "Eritrea",
-        "isCountry": true
+        "name": "ER",
+        "display_name": "Eritrea",
+        "is_country": true
     },
     {
-        "id": 57000081,
-        "key": "EE",
-        "name": "Estonia",
-        "isCountry": true
+        "name": "EE",
+        "display_name": "Estonia",
+        "is_country": true
     },
     {
-        "id": 57000082,
-        "key": "ET",
-        "name": "Ethiopia",
-        "isCountry": true
+        "name": "ET",
+        "display_name": "Ethiopia",
+        "is_country": true
     },
     {
-        "id": 57000083,
-        "key": "FK",
-        "name": "Falkland Islands",
-        "isCountry": true
+        "name": "FK",
+        "display_name": "Falkland Islands",
+        "is_country": true
     },
     {
-        "id": 57000084,
-        "key": "FO",
-        "name": "Faroe Islands",
-        "isCountry": true
+        "name": "FO",
+        "display_name": "Faroe Islands",
+        "is_country": true
     },
     {
-        "id": 57000085,
-        "key": "FJ",
-        "name": "Fiji",
-        "isCountry": true
+        "name": "FJ",
+        "display_name": "Fiji",
+        "is_country": true
     },
     {
-        "id": 57000086,
-        "key": "FI",
-        "name": "Finland",
-        "isCountry": true
+        "name": "FI",
+        "display_name": "Finland",
+        "is_country": true
     },
     {
-        "id": 57000087,
-        "key": "FR",
-        "name": "France",
-        "isCountry": true
+        "name": "FR",
+        "display_name": "France",
+        "is_country": true
     },
     {
-        "id": 57000088,
-        "key": "GF",
-        "name": "French Guiana",
-        "isCountry": true
+        "name": "GF",
+        "display_name": "French Guiana",
+        "is_country": true
     },
     {
-        "id": 57000089,
-        "key": "PF",
-        "name": "French Polynesia",
-        "isCountry": true
+        "name": "PF",
+        "display_name": "French Polynesia",
+        "is_country": true
     },
     {
-        "id": 57000090,
-        "key": "TF",
-        "name": "French Southern Territories",
-        "isCountry": true
+        "name": "TF",
+        "display_name": "French Southern Territories",
+        "is_country": true
     },
     {
-        "id": 57000091,
-        "key": "GA",
-        "name": "Gabon",
-        "isCountry": true
+        "name": "GA",
+        "display_name": "Gabon",
+        "is_country": true
     },
     {
-        "id": 57000092,
-        "key": "GM",
-        "name": "Gambia",
-        "isCountry": true
+        "name": "GM",
+        "display_name": "Gambia",
+        "is_country": true
     },
     {
-        "id": 57000093,
-        "key": "GE",
-        "name": "Georgia",
-        "isCountry": true
+        "name": "GE",
+        "display_name": "Georgia",
+        "is_country": true
     },
     {
-        "id": 57000094,
-        "key": "DE",
-        "name": "Germany",
-        "isCountry": true
+        "name": "DE",
+        "display_name": "Germany",
+        "is_country": true
     },
     {
-        "id": 57000095,
-        "key": "GH",
-        "name": "Ghana",
-        "isCountry": true
+        "name": "GH",
+        "display_name": "Ghana",
+        "is_country": true
     },
     {
-        "id": 57000096,
-        "key": "GI",
-        "name": "Gibraltar",
-        "isCountry": true
+        "name": "GI",
+        "display_name": "Gibraltar",
+        "is_country": true
     },
     {
-        "id": 57000097,
-        "key": "GR",
-        "name": "Greece",
-        "isCountry": true
+        "name": "GR",
+        "display_name": "Greece",
+        "is_country": true
     },
     {
-        "id": 57000098,
-        "key": "GL",
-        "name": "Greenland",
-        "isCountry": true
+        "name": "GL",
+        "display_name": "Greenland",
+        "is_country": true
     },
     {
-        "id": 57000099,
-        "key": "GD",
-        "name": "Grenada",
-        "isCountry": true
+        "name": "GD",
+        "display_name": "Grenada",
+        "is_country": true
     },
     {
-        "id": 57000100,
-        "key": "GP",
-        "name": "Guadeloupe",
-        "isCountry": true
+        "name": "GP",
+        "display_name": "Guadeloupe",
+        "is_country": true
     },
     {
-        "id": 57000101,
-        "key": "GU",
-        "name": "Guam",
-        "isCountry": true
+        "name": "GU",
+        "display_name": "Guam",
+        "is_country": true
     },
     {
-        "id": 57000102,
-        "key": "GT",
-        "name": "Guatemala",
-        "isCountry": true
+        "name": "GT",
+        "display_name": "Guatemala",
+        "is_country": true
     },
     {
-        "id": 57000103,
-        "key": "GG",
-        "name": "Guernsey",
-        "isCountry": true
+        "name": "GG",
+        "display_name": "Guernsey",
+        "is_country": true
     },
     {
-        "id": 57000104,
-        "key": "GN",
-        "name": "Guinea",
-        "isCountry": true
+        "name": "GN",
+        "display_name": "Guinea",
+        "is_country": true
     },
     {
-        "id": 57000105,
-        "key": "GW",
-        "name": "Guinea-Bissau",
-        "isCountry": true
+        "name": "GW",
+        "display_name": "Guinea-Bissau",
+        "is_country": true
     },
     {
-        "id": 57000106,
-        "key": "GY",
-        "name": "Guyana",
-        "isCountry": true
+        "name": "GY",
+        "display_name": "Guyana",
+        "is_country": true
     },
     {
-        "id": 57000107,
-        "key": "HT",
-        "name": "Haiti",
-        "isCountry": true
+        "name": "HT",
+        "display_name": "Haiti",
+        "is_country": true
     },
     {
-        "id": 57000108,
-        "key": "HM",
-        "name": "Heard & McDonald Islands",
-        "isCountry": true
+        "name": "HM",
+        "display_name": "Heard & McDonald Islands",
+        "is_country": true
     },
     {
-        "id": 57000109,
-        "key": "HN",
-        "name": "Honduras",
-        "isCountry": true
+        "name": "HN",
+        "display_name": "Honduras",
+        "is_country": true
     },
     {
-        "id": 57000110,
-        "key": "HK",
-        "name": "Hong Kong",
-        "isCountry": true
+        "name": "HK",
+        "display_name": "Hong Kong",
+        "is_country": true
     },
     {
-        "id": 57000111,
-        "key": "HU",
-        "name": "Hungary",
-        "isCountry": true
+        "name": "HU",
+        "display_name": "Hungary",
+        "is_country": true
     },
     {
-        "id": 57000112,
-        "key": "IS",
-        "name": "Iceland",
-        "isCountry": true
+        "name": "IS",
+        "display_name": "Iceland",
+        "is_country": true
     },
     {
-        "id": 57000113,
-        "key": "IN",
-        "name": "India",
-        "isCountry": true
+        "name": "IN",
+        "display_name": "India",
+        "is_country": true
     },
     {
-        "id": 57000114,
-        "key": "ID",
-        "name": "Indonesia",
-        "isCountry": true
+        "name": "ID",
+        "display_name": "Indonesia",
+        "is_country": true
     },
     {
-        "id": 57000115,
-        "key": "IR",
-        "name": "Iran",
-        "isCountry": true
+        "name": "IR",
+        "display_name": "Iran",
+        "is_country": true
     },
     {
-        "id": 57000116,
-        "key": "IQ",
-        "name": "Iraq",
-        "isCountry": true
+        "name": "IQ",
+        "display_name": "Iraq",
+        "is_country": true
     },
     {
-        "id": 57000117,
-        "key": "IE",
-        "name": "Ireland",
-        "isCountry": true
+        "name": "IE",
+        "display_name": "Ireland",
+        "is_country": true
     },
     {
-        "id": 57000118,
-        "key": "IM",
-        "name": "Isle of Man",
-        "isCountry": true
+        "name": "IM",
+        "display_name": "Isle of Man",
+        "is_country": true
     },
     {
-        "id": 57000119,
-        "key": "IL",
-        "name": "Israel",
-        "isCountry": true
+        "name": "IL",
+        "display_name": "Israel",
+        "is_country": true
     },
     {
-        "id": 57000120,
-        "key": "IT",
-        "name": "Italy",
-        "isCountry": true
+        "name": "IT",
+        "display_name": "Italy",
+        "is_country": true
     },
     {
-        "id": 57000121,
-        "key": "JM",
-        "name": "Jamaica",
-        "isCountry": true
+        "name": "JM",
+        "display_name": "Jamaica",
+        "is_country": true
     },
     {
-        "id": 57000122,
-        "key": "JP",
-        "name": "Japan",
-        "isCountry": true
+        "name": "JP",
+        "display_name": "Japan",
+        "is_country": true
     },
     {
-        "id": 57000123,
-        "key": "JE",
-        "name": "Jersey",
-        "isCountry": true
+        "name": "JE",
+        "display_name": "Jersey",
+        "is_country": true
     },
     {
-        "id": 57000124,
-        "key": "JO",
-        "name": "Jordan",
-        "isCountry": true
+        "name": "JO",
+        "display_name": "Jordan",
+        "is_country": true
     },
     {
-        "id": 57000125,
-        "key": "KZ",
-        "name": "Kazakhstan",
-        "isCountry": true
+        "name": "KZ",
+        "display_name": "Kazakhstan",
+        "is_country": true
     },
     {
-        "id": 57000126,
-        "key": "KE",
-        "name": "Kenya",
-        "isCountry": true
+        "name": "KE",
+        "display_name": "Kenya",
+        "is_country": true
     },
     {
-        "id": 57000127,
-        "key": "KI",
-        "name": "Kiribati",
-        "isCountry": true
+        "name": "KI",
+        "display_name": "Kiribati",
+        "is_country": true
     },
     {
-        "id": 57000128,
-        "key": "XK",
-        "name": "Kosovo",
-        "isCountry": true
+        "name": "XK",
+        "display_name": "Kosovo",
+        "is_country": true
     },
     {
-        "id": 57000129,
-        "key": "KW",
-        "name": "Kuwait",
-        "isCountry": true
+        "name": "KW",
+        "display_name": "Kuwait",
+        "is_country": true
     },
     {
-        "id": 57000130,
-        "key": "KG",
-        "name": "Kyrgyzstan",
-        "isCountry": true
+        "name": "KG",
+        "display_name": "Kyrgyzstan",
+        "is_country": true
     },
     {
-        "id": 57000131,
-        "key": "LA",
-        "name": "Laos",
-        "isCountry": true
+        "name": "LA",
+        "display_name": "Laos",
+        "is_country": true
     },
     {
-        "id": 57000132,
-        "key": "LV",
-        "name": "Latvia",
-        "isCountry": true
+        "name": "LV",
+        "display_name": "Latvia",
+        "is_country": true
     },
     {
-        "id": 57000133,
-        "key": "LB",
-        "name": "Lebanon",
-        "isCountry": true
+        "name": "LB",
+        "display_name": "Lebanon",
+        "is_country": true
     },
     {
-        "id": 57000134,
-        "key": "LS",
-        "name": "Lesotho",
-        "isCountry": true
+        "name": "LS",
+        "display_name": "Lesotho",
+        "is_country": true
     },
     {
-        "id": 57000135,
-        "key": "LR",
-        "name": "Liberia",
-        "isCountry": true
+        "name": "LR",
+        "display_name": "Liberia",
+        "is_country": true
     },
     {
-        "id": 57000136,
-        "key": "LY",
-        "name": "Libya",
-        "isCountry": true
+        "name": "LY",
+        "display_name": "Libya",
+        "is_country": true
     },
     {
-        "id": 57000137,
-        "key": "LI",
-        "name": "Liechtenstein",
-        "isCountry": true
+        "name": "LI",
+        "display_name": "Liechtenstein",
+        "is_country": true
     },
     {
-        "id": 57000138,
-        "key": "LT",
-        "name": "Lithuania",
-        "isCountry": true
+        "name": "LT",
+        "display_name": "Lithuania",
+        "is_country": true
     },
     {
-        "id": 57000139,
-        "key": "LU",
-        "name": "Luxembourg",
-        "isCountry": true
+        "name": "LU",
+        "display_name": "Luxembourg",
+        "is_country": true
     },
     {
-        "id": 57000140,
-        "key": "MO",
-        "name": "Macau",
-        "isCountry": true
+        "name": "MO",
+        "display_name": "Macau",
+        "is_country": true
     },
     {
-        "id": 57000141,
-        "key": "MK",
-        "name": "Macedonia (FYROM)",
-        "isCountry": true
+        "name": "MK",
+        "display_name": "Macedonia (FYROM)",
+        "is_country": true
     },
     {
-        "id": 57000142,
-        "key": "MG",
-        "name": "Madagascar",
-        "isCountry": true
+        "name": "MG",
+        "display_name": "Madagascar",
+        "is_country": true
     },
     {
-        "id": 57000143,
-        "key": "MW",
-        "name": "Malawi",
-        "isCountry": true
+        "name": "MW",
+        "display_name": "Malawi",
+        "is_country": true
     },
     {
-        "id": 57000144,
-        "key": "MY",
-        "name": "Malaysia",
-        "isCountry": true
+        "name": "MY",
+        "display_name": "Malaysia",
+        "is_country": true
     },
     {
-        "id": 57000145,
-        "key": "MV",
-        "name": "Maldives",
-        "isCountry": true
+        "name": "MV",
+        "display_name": "Maldives",
+        "is_country": true
     },
     {
-        "id": 57000146,
-        "key": "ML",
-        "name": "Mali",
-        "isCountry": true
+        "name": "ML",
+        "display_name": "Mali",
+        "is_country": true
     },
     {
-        "id": 57000147,
-        "key": "MT",
-        "name": "Malta",
-        "isCountry": true
+        "name": "MT",
+        "display_name": "Malta",
+        "is_country": true
     },
     {
-        "id": 57000148,
-        "key": "MH",
-        "name": "Marshall Islands",
-        "isCountry": true
+        "name": "MH",
+        "display_name": "Marshall Islands",
+        "is_country": true
     },
     {
-        "id": 57000149,
-        "key": "MQ",
-        "name": "Martinique",
-        "isCountry": true
+        "name": "MQ",
+        "display_name": "Martinique",
+        "is_country": true
     },
     {
-        "id": 57000150,
-        "key": "MR",
-        "name": "Mauritania",
-        "isCountry": true
+        "name": "MR",
+        "display_name": "Mauritania",
+        "is_country": true
     },
     {
-        "id": 57000151,
-        "key": "MU",
-        "name": "Mauritius",
-        "isCountry": true
+        "name": "MU",
+        "display_name": "Mauritius",
+        "is_country": true
     },
     {
-        "id": 57000152,
-        "key": "YT",
-        "name": "Mayotte",
-        "isCountry": true
+        "name": "YT",
+        "display_name": "Mayotte",
+        "is_country": true
     },
     {
-        "id": 57000153,
-        "key": "MX",
-        "name": "Mexico",
-        "isCountry": true
+        "name": "MX",
+        "display_name": "Mexico",
+        "is_country": true
     },
     {
-        "id": 57000154,
-        "key": "FM",
-        "name": "Micronesia",
-        "isCountry": true
+        "name": "FM",
+        "display_name": "Micronesia",
+        "is_country": true
     },
     {
-        "id": 57000155,
-        "key": "MD",
-        "name": "Moldova",
-        "isCountry": true
+        "name": "MD",
+        "display_name": "Moldova",
+        "is_country": true
     },
     {
-        "id": 57000156,
-        "key": "MC",
-        "name": "Monaco",
-        "isCountry": true
+        "name": "MC",
+        "display_name": "Monaco",
+        "is_country": true
     },
     {
-        "id": 57000157,
-        "key": "MN",
-        "name": "Mongolia",
-        "isCountry": true
+        "name": "MN",
+        "display_name": "Mongolia",
+        "is_country": true
     },
     {
-        "id": 57000158,
-        "key": "ME",
-        "name": "Montenegro",
-        "isCountry": true
+        "name": "ME",
+        "display_name": "Montenegro",
+        "is_country": true
     },
     {
-        "id": 57000159,
-        "key": "MS",
-        "name": "Montserrat",
-        "isCountry": true
+        "name": "MS",
+        "display_name": "Montserrat",
+        "is_country": true
     },
     {
-        "id": 57000160,
-        "key": "MA",
-        "name": "Morocco",
-        "isCountry": true
+        "name": "MA",
+        "display_name": "Morocco",
+        "is_country": true
     },
     {
-        "id": 57000161,
-        "key": "MZ",
-        "name": "Mozambique",
-        "isCountry": true
+        "name": "MZ",
+        "display_name": "Mozambique",
+        "is_country": true
     },
     {
-        "id": 57000162,
-        "key": "MM",
-        "name": "Myanmar (Burma)",
-        "isCountry": true
+        "name": "MM",
+        "display_name": "Myanmar (Burma)",
+        "is_country": true
     },
     {
-        "id": 57000163,
-        "key": "NA",
-        "name": "Namibia",
-        "isCountry": true
+        "name": "NA",
+        "display_name": "Namibia",
+        "is_country": true
     },
     {
-        "id": 57000164,
-        "key": "NR",
-        "name": "Nauru",
-        "isCountry": true
+        "name": "NR",
+        "display_name": "Nauru",
+        "is_country": true
     },
     {
-        "id": 57000165,
-        "key": "NP",
-        "name": "Nepal",
-        "isCountry": true
+        "name": "NP",
+        "display_name": "Nepal",
+        "is_country": true
     },
     {
-        "id": 57000166,
-        "key": "NL",
-        "name": "Netherlands",
-        "isCountry": true
+        "name": "NL",
+        "display_name": "Netherlands",
+        "is_country": true
     },
     {
-        "id": 57000167,
-        "key": "NC",
-        "name": "New Caledonia",
-        "isCountry": true
+        "name": "NC",
+        "display_name": "New Caledonia",
+        "is_country": true
     },
     {
-        "id": 57000168,
-        "key": "NZ",
-        "name": "New Zealand",
-        "isCountry": true
+        "name": "NZ",
+        "display_name": "New Zealand",
+        "is_country": true
     },
     {
-        "id": 57000169,
-        "key": "NI",
-        "name": "Nicaragua",
-        "isCountry": true
+        "name": "NI",
+        "display_name": "Nicaragua",
+        "is_country": true
     },
     {
-        "id": 57000170,
-        "key": "NE",
-        "name": "Niger",
-        "isCountry": true
+        "name": "NE",
+        "display_name": "Niger",
+        "is_country": true
     },
     {
-        "id": 57000171,
-        "key": "NG",
-        "name": "Nigeria",
-        "isCountry": true
+        "name": "NG",
+        "display_name": "Nigeria",
+        "is_country": true
     },
     {
-        "id": 57000172,
-        "key": "NU",
-        "name": "Niue",
-        "isCountry": true
+        "name": "NU",
+        "display_name": "Niue",
+        "is_country": true
     },
     {
-        "id": 57000173,
-        "key": "NF",
-        "name": "Norfolk Island",
-        "isCountry": true
+        "name": "NF",
+        "display_name": "Norfolk Island",
+        "is_country": true
     },
     {
-        "id": 57000174,
-        "key": "KP",
-        "name": "North Korea",
-        "isCountry": true
+        "name": "KP",
+        "display_name": "North Korea",
+        "is_country": true
     },
     {
-        "id": 57000175,
-        "key": "MP",
-        "name": "Northern Mariana Islands",
-        "isCountry": true
+        "name": "MP",
+        "display_name": "Northern Mariana Islands",
+        "is_country": true
     },
     {
-        "id": 57000176,
-        "key": "NO",
-        "name": "Norway",
-        "isCountry": true
+        "name": "NO",
+        "display_name": "Norway",
+        "is_country": true
     },
     {
-        "id": 57000177,
-        "key": "OM",
-        "name": "Oman",
-        "isCountry": true
+        "name": "OM",
+        "display_name": "Oman",
+        "is_country": true
     },
     {
-        "id": 57000178,
-        "key": "PK",
-        "name": "Pakistan",
-        "isCountry": true
+        "name": "PK",
+        "display_name": "Pakistan",
+        "is_country": true
     },
     {
-        "id": 57000179,
-        "key": "PW",
-        "name": "Palau",
-        "isCountry": true
+        "name": "PW",
+        "display_name": "Palau",
+        "is_country": true
     },
     {
-        "id": 57000180,
-        "key": "PS",
-        "name": "Palestine",
-        "isCountry": true
+        "name": "PS",
+        "display_name": "Palestine",
+        "is_country": true
     },
     {
-        "id": 57000181,
-        "key": "PA",
-        "name": "Panama",
-        "isCountry": true
+        "name": "PA",
+        "display_name": "Panama",
+        "is_country": true
     },
     {
-        "id": 57000182,
-        "key": "PG",
-        "name": "Papua New Guinea",
-        "isCountry": true
+        "name": "PG",
+        "display_name": "Papua New Guinea",
+        "is_country": true
     },
     {
-        "id": 57000183,
-        "key": "PY",
-        "name": "Paraguay",
-        "isCountry": true
+        "name": "PY",
+        "display_name": "Paraguay",
+        "is_country": true
     },
     {
-        "id": 57000184,
-        "key": "PE",
-        "name": "Peru",
-        "isCountry": true
+        "name": "PE",
+        "display_name": "Peru",
+        "is_country": true
     },
     {
-        "id": 57000185,
-        "key": "PH",
-        "name": "Philippines",
-        "isCountry": true
+        "name": "PH",
+        "display_name": "Philippines",
+        "is_country": true
     },
     {
-        "id": 57000186,
-        "key": "PN",
-        "name": "Pitcairn Islands",
-        "isCountry": true
+        "name": "PN",
+        "display_name": "Pitcairn Islands",
+        "is_country": true
     },
     {
-        "id": 57000187,
-        "key": "PL",
-        "name": "Poland",
-        "isCountry": true
+        "name": "PL",
+        "display_name": "Poland",
+        "is_country": true
     },
     {
-        "id": 57000188,
-        "key": "PT",
-        "name": "Portugal",
-        "isCountry": true
+        "name": "PT",
+        "display_name": "Portugal",
+        "is_country": true
     },
     {
-        "id": 57000189,
-        "key": "PR",
-        "name": "Puerto Rico",
-        "isCountry": true
+        "name": "PR",
+        "display_name": "Puerto Rico",
+        "is_country": true
     },
     {
-        "id": 57000190,
-        "key": "QA",
-        "name": "Qatar",
-        "isCountry": true
+        "name": "QA",
+        "display_name": "Qatar",
+        "is_country": true
     },
     {
-        "id": 57000191,
-        "key": "RE",
-        "name": "Réunion",
-        "isCountry": true
+        "name": "RE",
+        "display_name": "Réunion",
+        "is_country": true
     },
     {
-        "id": 57000192,
-        "key": "RO",
-        "name": "Romania",
-        "isCountry": true
+        "name": "RO",
+        "display_name": "Romania",
+        "is_country": true
     },
     {
-        "id": 57000193,
-        "key": "RU",
-        "name": "Russia",
-        "isCountry": true
+        "name": "RU",
+        "display_name": "Russia",
+        "is_country": true
     },
     {
-        "id": 57000194,
-        "key": "RW",
-        "name": "Rwanda",
-        "isCountry": true
+        "name": "RW",
+        "display_name": "Rwanda",
+        "is_country": true
     },
     {
-        "id": 57000195,
-        "key": "BL",
-        "name": "Saint Barthélemy",
-        "isCountry": true
+        "name": "BL",
+        "display_name": "Saint Barthélemy",
+        "is_country": true
     },
     {
-        "id": 57000196,
-        "key": "SH",
-        "name": "Saint Helena",
-        "isCountry": true
+        "name": "SH",
+        "display_name": "Saint Helena",
+        "is_country": true
     },
     {
-        "id": 57000197,
-        "key": "KN",
-        "name": "Saint Kitts and Nevis",
-        "isCountry": true
+        "name": "KN",
+        "display_name": "Saint Kitts and Nevis",
+        "is_country": true
     },
     {
-        "id": 57000198,
-        "key": "LC",
-        "name": "Saint Lucia",
-        "isCountry": true
+        "name": "LC",
+        "display_name": "Saint Lucia",
+        "is_country": true
     },
     {
-        "id": 57000199,
-        "key": "MF",
-        "name": "Saint Martin",
-        "isCountry": true
+        "name": "MF",
+        "display_name": "Saint Martin",
+        "is_country": true
     },
     {
-        "id": 57000200,
-        "key": "PM",
-        "name": "Saint Pierre and Miquelon",
-        "isCountry": true
+        "name": "PM",
+        "display_name": "Saint Pierre and Miquelon",
+        "is_country": true
     },
     {
-        "id": 57000201,
-        "key": "WS",
-        "name": "Samoa",
-        "isCountry": true
+        "name": "WS",
+        "display_name": "Samoa",
+        "is_country": true
     },
     {
-        "id": 57000202,
-        "key": "SM",
-        "name": "San Marino",
-        "isCountry": true
+        "name": "SM",
+        "display_name": "San Marino",
+        "is_country": true
     },
     {
-        "id": 57000203,
-        "key": "ST",
-        "name": "São Tomé and Príncipe",
-        "isCountry": true
+        "name": "ST",
+        "display_name": "São Tomé and Príncipe",
+        "is_country": true
     },
     {
-        "id": 57000204,
-        "key": "SA",
-        "name": "Saudi Arabia",
-        "isCountry": true
+        "name": "SA",
+        "display_name": "Saudi Arabia",
+        "is_country": true
     },
     {
-        "id": 57000205,
-        "key": "SN",
-        "name": "Senegal",
-        "isCountry": true
+        "name": "SN",
+        "display_name": "Senegal",
+        "is_country": true
     },
     {
-        "id": 57000206,
-        "key": "RS",
-        "name": "Serbia",
-        "isCountry": true
+        "name": "RS",
+        "display_name": "Serbia",
+        "is_country": true
     },
     {
-        "id": 57000207,
-        "key": "SC",
-        "name": "Seychelles",
-        "isCountry": true
+        "name": "SC",
+        "display_name": "Seychelles",
+        "is_country": true
     },
     {
-        "id": 57000208,
-        "key": "SL",
-        "name": "Sierra Leone",
-        "isCountry": true
+        "name": "SL",
+        "display_name": "Sierra Leone",
+        "is_country": true
     },
     {
-        "id": 57000209,
-        "key": "SG",
-        "name": "Singapore",
-        "isCountry": true
+        "name": "SG",
+        "display_name": "Singapore",
+        "is_country": true
     },
     {
-        "id": 57000210,
-        "key": "SX",
-        "name": "Sint Maarten",
-        "isCountry": true
+        "name": "SX",
+        "display_name": "Sint Maarten",
+        "is_country": true
     },
     {
-        "id": 57000211,
-        "key": "SK",
-        "name": "Slovakia",
-        "isCountry": true
+        "name": "SK",
+        "display_name": "Slovakia",
+        "is_country": true
     },
     {
-        "id": 57000212,
-        "key": "SI",
-        "name": "Slovenia",
-        "isCountry": true
+        "name": "SI",
+        "display_name": "Slovenia",
+        "is_country": true
     },
     {
-        "id": 57000213,
-        "key": "SB",
-        "name": "Solomon Islands",
-        "isCountry": true
+        "name": "SB",
+        "display_name": "Solomon Islands",
+        "is_country": true
     },
     {
-        "id": 57000214,
-        "key": "SO",
-        "name": "Somalia",
-        "isCountry": true
+        "name": "SO",
+        "display_name": "Somalia",
+        "is_country": true
     },
     {
-        "id": 57000215,
-        "key": "ZA",
-        "name": "South Africa",
-        "isCountry": true
+        "name": "ZA",
+        "display_name": "South Africa",
+        "is_country": true
     },
     {
-        "id": 57000216,
-        "key": "KR",
-        "name": "South Korea",
-        "isCountry": true
+        "name": "KR",
+        "display_name": "South Korea",
+        "is_country": true
     },
     {
-        "id": 57000217,
-        "key": "SS",
-        "name": "South Sudan",
-        "isCountry": true
+        "name": "SS",
+        "display_name": "South Sudan",
+        "is_country": true
     },
     {
-        "id": 57000218,
-        "key": "ES",
-        "name": "Spain",
-        "isCountry": true
+        "name": "ES",
+        "display_name": "Spain",
+        "is_country": true
     },
     {
-        "id": 57000219,
-        "key": "LK",
-        "name": "Sri Lanka",
-        "isCountry": true
+        "name": "LK",
+        "display_name": "Sri Lanka",
+        "is_country": true
     },
     {
-        "id": 57000220,
-        "key": "VC",
-        "name": "St. Vincent & Grenadines",
-        "isCountry": true
+        "name": "VC",
+        "display_name": "St. Vincent & Grenadines",
+        "is_country": true
     },
     {
-        "id": 57000221,
-        "key": "SD",
-        "name": "Sudan",
-        "isCountry": true
+        "name": "SD",
+        "display_name": "Sudan",
+        "is_country": true
     },
     {
-        "id": 57000222,
-        "key": "SR",
-        "name": "Suriname",
-        "isCountry": true
+        "name": "SR",
+        "display_name": "Suriname",
+        "is_country": true
     },
     {
-        "id": 57000223,
-        "key": "SJ",
-        "name": "Svalbard and Jan Mayen",
-        "isCountry": true
+        "name": "SJ",
+        "display_name": "Svalbard and Jan Mayen",
+        "is_country": true
     },
     {
-        "id": 57000224,
-        "key": "SZ",
-        "name": "Swaziland",
-        "isCountry": true
+        "name": "SZ",
+        "display_name": "Swaziland",
+        "is_country": true
     },
     {
-        "id": 57000225,
-        "key": "SE",
-        "name": "Sweden",
-        "isCountry": true
+        "name": "SE",
+        "display_name": "Sweden",
+        "is_country": true
     },
     {
-        "id": 57000226,
-        "key": "CH",
-        "name": "Switzerland",
-        "isCountry": true
+        "name": "CH",
+        "display_name": "Switzerland",
+        "is_country": true
     },
     {
-        "id": 57000227,
-        "key": "SY",
-        "name": "Syria",
-        "isCountry": true
+        "name": "SY",
+        "display_name": "Syria",
+        "is_country": true
     },
     {
-        "id": 57000228,
-        "key": "TW",
-        "name": "Taiwan",
-        "isCountry": true
+        "name": "TW",
+        "display_name": "Taiwan",
+        "is_country": true
     },
     {
-        "id": 57000229,
-        "key": "TJ",
-        "name": "Tajikistan",
-        "isCountry": true
+        "name": "TJ",
+        "display_name": "Tajikistan",
+        "is_country": true
     },
     {
-        "id": 57000230,
-        "key": "TZ",
-        "name": "Tanzania",
-        "isCountry": true
+        "name": "TZ",
+        "display_name": "Tanzania",
+        "is_country": true
     },
     {
-        "id": 57000231,
-        "key": "TH",
-        "name": "Thailand",
-        "isCountry": true
+        "name": "TH",
+        "display_name": "Thailand",
+        "is_country": true
     },
     {
-        "id": 57000232,
-        "key": "TL",
-        "name": "Timor-Leste",
-        "isCountry": true
+        "name": "TL",
+        "display_name": "Timor-Leste",
+        "is_country": true
     },
     {
-        "id": 57000233,
-        "key": "TG",
-        "name": "Togo",
-        "isCountry": true
+        "name": "TG",
+        "display_name": "Togo",
+        "is_country": true
     },
     {
-        "id": 57000234,
-        "key": "TK",
-        "name": "Tokelau",
-        "isCountry": true
+        "name": "TK",
+        "display_name": "Tokelau",
+        "is_country": true
     },
     {
-        "id": 57000235,
-        "key": "TO",
-        "name": "Tonga",
-        "isCountry": true
+        "name": "TO",
+        "display_name": "Tonga",
+        "is_country": true
     },
     {
-        "id": 57000236,
-        "key": "TT",
-        "name": "Trinidad and Tobago",
-        "isCountry": true
+        "name": "TT",
+        "display_name": "Trinidad and Tobago",
+        "is_country": true
     },
     {
-        "id": 57000237,
-        "key": "TA",
-        "name": "Tristan da Cunha",
-        "isCountry": true
+        "name": "TA",
+        "display_name": "Tristan da Cunha",
+        "is_country": true
     },
     {
-        "id": 57000238,
-        "key": "TN",
-        "name": "Tunisia",
-        "isCountry": true
+        "name": "TN",
+        "display_name": "Tunisia",
+        "is_country": true
     },
     {
-        "id": 57000239,
-        "key": "TR",
-        "name": "Turkey",
-        "isCountry": true
+        "name": "TR",
+        "display_name": "Turkey",
+        "is_country": true
     },
     {
-        "id": 57000240,
-        "key": "TM",
-        "name": "Turkmenistan",
-        "isCountry": true
+        "name": "TM",
+        "display_name": "Turkmenistan",
+        "is_country": true
     },
     {
-        "id": 57000241,
-        "key": "TC",
-        "name": "Turks and Caicos Islands",
-        "isCountry": true
+        "name": "TC",
+        "display_name": "Turks and Caicos Islands",
+        "is_country": true
     },
     {
-        "id": 57000242,
-        "key": "TV",
-        "name": "Tuvalu",
-        "isCountry": true
+        "name": "TV",
+        "display_name": "Tuvalu",
+        "is_country": true
     },
     {
-        "id": 57000243,
-        "key": "UM",
-        "name": "U.S. Outlying Islands",
-        "isCountry": true
+        "name": "UM",
+        "display_name": "U.S. Outlying Islands",
+        "is_country": true
     },
     {
-        "id": 57000244,
-        "key": "VI",
-        "name": "U.S. Virgin Islands",
-        "isCountry": true
+        "name": "VI",
+        "display_name": "U.S. Virgin Islands",
+        "is_country": true
     },
     {
-        "id": 57000245,
-        "key": "UG",
-        "name": "Uganda",
-        "isCountry": true
+        "name": "UG",
+        "display_name": "Uganda",
+        "is_country": true
     },
     {
-        "id": 57000246,
-        "key": "UA",
-        "name": "Ukraine",
-        "isCountry": true
+        "name": "UA",
+        "display_name": "Ukraine",
+        "is_country": true
     },
     {
-        "id": 57000247,
-        "key": "AE",
-        "name": "United Arab Emirates",
-        "isCountry": true
+        "name": "AE",
+        "display_name": "United Arab Emirates",
+        "is_country": true
     },
     {
-        "id": 57000248,
-        "key": "GB",
-        "name": "United Kingdom",
-        "isCountry": true
+        "name": "GB",
+        "display_name": "United Kingdom",
+        "is_country": true
     },
     {
-        "id": 57000249,
-        "key": "US",
-        "name": "United States",
-        "isCountry": true
+        "name": "US",
+        "display_name": "United States",
+        "is_country": true
     },
     {
-        "id": 57000250,
-        "key": "UY",
-        "name": "Uruguay",
-        "isCountry": true
+        "name": "UY",
+        "display_name": "Uruguay",
+        "is_country": true
     },
     {
-        "id": 57000251,
-        "key": "UZ",
-        "name": "Uzbekistan",
-        "isCountry": true
+        "name": "UZ",
+        "display_name": "Uzbekistan",
+        "is_country": true
     },
     {
-        "id": 57000252,
-        "key": "VU",
-        "name": "Vanuatu",
-        "isCountry": true
+        "name": "VU",
+        "display_name": "Vanuatu",
+        "is_country": true
     },
     {
-        "id": 57000253,
-        "key": "VA",
-        "name": "Vatican City",
-        "isCountry": true
+        "name": "VA",
+        "display_name": "Vatican City",
+        "is_country": true
     },
     {
-        "id": 57000254,
-        "key": "VE",
-        "name": "Venezuela",
-        "isCountry": true
+        "name": "VE",
+        "display_name": "Venezuela",
+        "is_country": true
     },
     {
-        "id": 57000255,
-        "key": "VN",
-        "name": "Vietnam",
-        "isCountry": true
+        "name": "VN",
+        "display_name": "Vietnam",
+        "is_country": true
     },
     {
-        "id": 57000256,
-        "key": "WF",
-        "name": "Wallis and Futuna",
-        "isCountry": true
+        "name": "WF",
+        "display_name": "Wallis and Futuna",
+        "is_country": true
     },
     {
-        "id": 57000257,
-        "key": "EH",
-        "name": "Western Sahara",
-        "isCountry": true
+        "name": "EH",
+        "display_name": "Western Sahara",
+        "is_country": true
     },
     {
-        "id": 57000258,
-        "key": "YE",
-        "name": "Yemen",
-        "isCountry": true
+        "name": "YE",
+        "display_name": "Yemen",
+        "is_country": true
     },
     {
-        "id": 57000259,
-        "key": "ZM",
-        "name": "Zambia",
-        "isCountry": true
+        "name": "ZM",
+        "display_name": "Zambia",
+        "is_country": true
     },
     {
-        "id": 57000260,
-        "key": "ZW",
-        "name": "Zimbabwe",
-        "isCountry": true
+        "name": "ZW",
+        "display_name": "Zimbabwe",
+        "is_country": true
+    },
+    {
+        "name": "CUSTOM1",
+        "is_country": false,
+        "name_en": null
+    },
+    {
+        "name": "CUSTOM2",
+        "is_country": false,
+        "name_en": null
+    },
+    {
+        "name": "CUSTOM3",
+        "is_country": false,
+        "name_en": null
+    },
+    {
+        "name": "CUSTOM4",
+        "is_country": false,
+        "name_en": null
+    },
+    {
+        "name": "CUSTOM5",
+        "is_country": false,
+        "name_en": null
     }
 ]

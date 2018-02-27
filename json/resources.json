@@ -1,0 +1,54 @@
+[
+    {
+        "name": "Diamonds",
+        "icon_export_name": "genicon_gem",
+        "premium_currency": true,
+        "text_green": 255,
+        "text_blue": 92,
+        "name_en": null
+    },
+    {
+        "name": "Gold",
+        "icon_export_name": "genicon_coin",
+        "premium_currency": false,
+        "text_red": 192,
+        "text_blue": 192,
+        "name_en": null
+    },
+    {
+        "name": "owcAny",
+        "icon_export_name": "icon_owcAny",
+        "premium_currency": false,
+        "name_en": null
+    },
+    {
+        "name": "owcRareOrBetter",
+        "icon_export_name": "icon_owcRareOrBetter",
+        "premium_currency": false,
+        "name_en": null
+    },
+    {
+        "name": "owcEpicOrBetter",
+        "icon_export_name": "icon_owcEpicOrBetter",
+        "premium_currency": false,
+        "name_en": null
+    },
+    {
+        "name": "Dust",
+        "icon_export_name": "genicon_dust",
+        "premium_currency": false,
+        "name_en": null
+    },
+    {
+        "name": "Upgradium",
+        "icon_export_name": "genicon_upgradium",
+        "premium_currency": false,
+        "name_en": null
+    },
+    {
+        "name": "Bolts",
+        "icon_export_name": "genicon_upgradium",
+        "premium_currency": false,
+        "name_en": null
+    }
+]

@@ -6,7 +6,7 @@ Generate data JSON from APK CSV source.
 import yaml
 from box import Box
 
-from cr import *
+from bs import *
 
 if __name__ == '__main__':
     config_path = './config.yml'
@@ -14,7 +14,8 @@ if __name__ == '__main__':
     with open(config_path) as f:
         config = Box(yaml.load(f))
 
-    for cls in [AllianceBadges, Cards, Rarities, ChestOrder, ClanChest, GameModes, Regions, Arenas, TreasureChests,
-                CardStats, Tournaments, Challenges]:
+    for cls in [AllianceBadges, AllianceRoles, AreaEffects, Bosses, Campaign, Cards, 
+            Characters, Globals, Items, Locations, Maps, PlayerThumbnails, Projectiles, 
+            Regions, Resources, Skills, Skins, Tiles]:
         app = cls(config=config)
         app.run()

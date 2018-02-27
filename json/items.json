@@ -1,0 +1,132 @@
+[
+    {
+        "name": "Health",
+        "export_name": "red_pickup",
+        "export_name_enemy": "red_pickup",
+        "ground_glow_export_name": "pickup_glow_green",
+        "value": 200,
+        "trigger_range_sub_tiles": 3,
+        "can_be_picked_up": true
+    },
+    {
+        "name": "Speed",
+        "export_name": "red_pickup",
+        "export_name_enemy": "red_pickup",
+        "ground_glow_export_name": "pickup_glow_green",
+        "value": 300,
+        "trigger_range_sub_tiles": 3,
+        "can_be_picked_up": true
+    },
+    {
+        "name": "Damage",
+        "export_name": "red_pickup",
+        "export_name_enemy": "red_pickup",
+        "ground_glow_export_name": "pickup_glow_green",
+        "value": 100,
+        "trigger_range_sub_tiles": 3,
+        "can_be_picked_up": true
+    },
+    {
+        "name": "Point",
+        "export_name": "blob_pickup",
+        "export_name_enemy": "blob_pickup",
+        "ground_glow_export_name": "pickup_glow",
+        "trigger_range_sub_tiles": 3,
+        "can_be_picked_up": true
+    },
+    {
+        "name": "Corpse",
+        "export_name": "soul",
+        "export_name_enemy": "soul",
+        "ground_glow_export_name": "pickup_glow_green",
+        "value": 800,
+        "trigger_range_sub_tiles": 3,
+        "can_be_picked_up": true
+    },
+    {
+        "name": "OrbSpawner",
+        "export_name": "spawn_hole",
+        "export_name_enemy": "spawn_hole",
+        "can_be_picked_up": false
+    },
+    {
+        "name": "Mine",
+        "export_name": "mine",
+        "export_name_enemy": "mine_red",
+        "value": 800,
+        "value2": 1300,
+        "trigger_range_sub_tiles": 3,
+        "can_be_picked_up": true
+    },
+    {
+        "name": "SupplyCrate",
+        "export_name": "red_pickup",
+        "export_name_enemy": "red_pickup",
+        "ground_glow_export_name": "pickup_glow_green",
+        "can_be_picked_up": false
+    },
+    {
+        "name": "BoxOfMines",
+        "export_name": "red_pickup",
+        "export_name_enemy": "red_pickup",
+        "ground_glow_export_name": "pickup_glow_green",
+        "value": 3,
+        "value2": 8,
+        "can_be_picked_up": false
+    },
+    {
+        "name": "BattleRoyaleBuff",
+        "export_name": "red_pickup",
+        "export_name_enemy": "red_pickup",
+        "ground_glow_export_name": "pickup_glow_green",
+        "value": 10,
+        "value2": 400,
+        "trigger_range_sub_tiles": 3,
+        "can_be_picked_up": true
+    },
+    {
+        "name": "Money",
+        "export_name": "wanted_star_pickup",
+        "export_name_enemy": "wanted_star_pickup",
+        "ground_glow_export_name": "pickup_glow_gold",
+        "value": 1,
+        "trigger_range_sub_tiles": 3,
+        "can_be_picked_up": true
+    },
+    {
+        "name": "BoxOfBombs",
+        "export_name": "red_pickup",
+        "export_name_enemy": "red_pickup",
+        "ground_glow_export_name": "pickup_glow_green",
+        "value": 3,
+        "value2": 9,
+        "can_be_picked_up": false
+    },
+    {
+        "name": "Bomb",
+        "export_name": "grenade_01",
+        "export_name_enemy": "grenade_01_red",
+        "value": 800,
+        "value2": 300,
+        "trigger_range_sub_tiles": 200,
+        "can_be_picked_up": true
+    },
+    {
+        "name": "BoxOfSelfDestructBombs",
+        "export_name": "red_pickup",
+        "export_name_enemy": "red_pickup",
+        "ground_glow_export_name": "pickup_glow_green",
+        "value": 6,
+        "value2": 17,
+        "can_be_picked_up": false
+    },
+    {
+        "name": "SelfDestructBomb",
+        "export_name": "basic_grenade_projectile",
+        "export_name_enemy": "dynamite_projectile_red",
+        "value": 800,
+        "value2": 300,
+        "trigger_range_sub_tiles": 200,
+        "can_be_picked_up": true
+    }
+]
