@@ -2751,7 +2751,7 @@
     },
     {
         "code_name": "733",
-        "data": "FFFFFF.......4.........T..1..MF...1...FFF......T.D....D..FFF"
+        "data": "FFFFFF.......4............1..MF...1...FFF......T.D....D..FFF"
     },
     {
         "code_name": "734",
@@ -2965,7 +2965,7 @@
     },
     {
         "code_name": "786",
-        "data": "FFFN.........NFFF"
+        "data": "FFFN....9....NFFF"
     },
     {
         "code_name": "787",
@@ -2973,19 +2973,19 @@
     },
     {
         "code_name": "788",
-        "data": "......Y.9.Y......"
-    },
-    {
-        "code_name": "789",
         "data": "......Y...Y......"
     },
     {
+        "code_name": "789",
+        "data": "......YYYYY......"
+    },
+    {
         "code_name": "790",
-        "data": "FFFFFFY...YFFFFFF"
+        "data": "FFFFFFFFFFFFFFFFF"
     },
     {
         "code_name": "791",
-        "data": "CFFCNNYYYYYFFCNNN"
+        "data": "NNNCFFFFFFFFFCNNN"
     },
     {
         "code_name": "792",
@@ -3759,27 +3759,27 @@
     {
         "code_name": "983",
         "group": "Coop_1",
-        "data": "................."
+        "data": "........I........"
     },
     {
         "code_name": "984",
-        "data": ".........T......."
+        "data": "........I........"
     },
     {
         "code_name": "985",
-        "data": "....T............"
+        "data": "....T...I........"
     },
     {
         "code_name": "986",
-        "data": "...........T....."
+        "data": "........I..T....."
     },
     {
         "code_name": "987",
-        "data": "................."
+        "data": "........I........"
     },
     {
         "code_name": "988",
-        "data": "...T............T"
+        "data": "...T....I.......T"
     },
     {
         "code_name": "989",
@@ -3791,47 +3791,47 @@
     },
     {
         "code_name": "991",
-        "data": "................."
+        "data": "........I........"
     },
     {
         "code_name": "992",
-        "data": "..T...........I.."
+        "data": "........I.....I.."
     },
     {
         "code_name": "993",
-        "data": ".......WWW...II.."
+        "data": "........I....II.."
     },
     {
         "code_name": "994",
-        "data": ".......WWW...II.."
+        "data": "........I....II.."
     },
     {
         "code_name": "995",
-        "data": "..T.............."
+        "data": "..T.....I........"
     },
     {
         "code_name": "996",
-        "data": "................."
+        "data": "........I........"
     },
     {
         "code_name": "997",
-        "data": "....III.........."
+        "data": "....IIIII........"
     },
     {
         "code_name": "998",
-        "data": "....IIII...IIII.."
+        "data": "....IIIII..IIII.."
     },
     {
         "code_name": "999",
-        "data": "............III.."
+        "data": "........I...III.."
     },
     {
         "code_name": "1000",
-        "data": "T...D............"
+        "data": "T...D...I........"
     },
     {
         "code_name": "1001",
-        "data": "...............D."
+        "data": "........I......D."
     },
     {
         "code_name": "1002",
@@ -3839,23 +3839,23 @@
     },
     {
         "code_name": "1003",
-        "data": "......IIII...IIII"
+        "data": "......IIII...II.."
     },
     {
         "code_name": "1004",
-        "data": "..II..........III"
+        "data": "..II.....I....I.."
     },
     {
         "code_name": "1005",
-        "data": ".....D..........."
+        "data": ".....D...I......."
     },
     {
         "code_name": "1006",
-        "data": "..........II..D.."
+        "data": ".........III..D.."
     },
     {
         "code_name": "1007",
-        "data": "........IIII....."
+        "data": ".........III....."
     },
     {
         "code_name": "1008",
@@ -3863,11 +3863,11 @@
     },
     {
         "code_name": "1009",
-        "data": "III...........III"
+        "data": "III.............."
     },
     {
         "code_name": "1010",
-        "data": "III........D..III"
+        "data": "III........D....."
     },
     {
         "code_name": "1011",
@@ -4133,107 +4133,107 @@
     {
         "code_name": "1076",
         "group": "Coop_2",
-        "data": "................."
+        "data": "...I.........I..."
     },
     {
         "code_name": "1077",
-        "data": "................."
+        "data": "...I.........I..."
     },
     {
         "code_name": "1078",
-        "data": "................."
+        "data": "...I.........I..."
     },
     {
         "code_name": "1079",
-        "data": "............T...."
+        "data": "...IIII...IIII..."
     },
     {
         "code_name": "1080",
-        "data": "................."
+        "data": "......I...I......"
     },
     {
         "code_name": "1081",
-        "data": ".......III......."
+        "data": "......I...I......"
     },
     {
         "code_name": "1082",
-        "data": "...T...III......."
+        "data": "...T..I...I......"
     },
     {
         "code_name": "1083",
-        "data": ".......III....T.."
+        "data": "......I...I...T.."
     },
     {
         "code_name": "1084",
-        "data": ".......III......."
+        "data": "......I...I......"
     },
     {
         "code_name": "1085",
-        "data": ".....T.III......."
+        "data": ".....TI...I......"
     },
     {
         "code_name": "1086",
-        "data": ".......III..WW..."
+        "data": "......I...I..WW.."
     },
     {
         "code_name": "1087",
-        "data": ".......III..WW..."
+        "data": "......I...I..WW.."
     },
     {
         "code_name": "1088",
-        "data": ".......III..WW..."
+        "data": "......I...I..WW.."
     },
     {
         "code_name": "1089",
-        "data": ".......III......."
+        "data": "......I...I......"
     },
     {
         "code_name": "1090",
-        "data": "...IIIIIII......."
+        "data": "..IIIII...I......"
     },
     {
         "code_name": "1091",
-        "data": ".......III......."
+        "data": "......I...I.DIIII"
     },
     {
         "code_name": "1092",
-        "data": "T......III..D.III"
+        "data": "T.....I...I......"
     },
     {
         "code_name": "1093",
-        "data": ".....D.III......."
+        "data": ".....DI...I......"
     },
     {
         "code_name": "1094",
-        "data": ".......III......T"
+        "data": "......I...I.....T"
     },
     {
         "code_name": "1095",
-        "data": "..D....IIIIII...."
+        "data": "..D...I...IIII..."
     },
     {
         "code_name": "1096",
-        "data": ".......III....D.."
+        "data": "......I...I...D.."
     },
     {
         "code_name": "1097",
-        "data": "III....III......."
+        "data": "IIII..I...I......"
     },
     {
         "code_name": "1098",
-        "data": "T.......D........"
+        "data": "T.....ID........."
     },
     {
         "code_name": "1099",
-        "data": "..............III"
+        "data": "......I.......III"
     },
     {
         "code_name": "1100",
-        "data": "...............D."
+        "data": "......I........D."
     },
     {
         "code_name": "1101",
-        "data": "....D............"
+        "data": "....III.........."
     },
     {
         "code_name": "1102",
@@ -4241,11 +4241,11 @@
     },
     {
         "code_name": "1103",
-        "data": "III...D.......III"
+        "data": "I.....D.........I"
     },
     {
         "code_name": "1104",
-        "data": "III...........III"
+        "data": "II.............II"
     },
     {
         "code_name": "1105",
@@ -4398,6 +4398,139 @@
     },
     {
         "code_name": "1142",
+        "group": "Gemgrab_8",
+        "data": "FFFFF.2.2.2.FFFFF"
+    },
+    {
+        "code_name": "1143",
+        "data": "FFFFF.......FFFFF"
+    },
+    {
+        "code_name": "1144",
+        "data": "FFFFFFFFFFFFFFFFF"
+    },
+    {
+        "code_name": "1145",
+        "data": "FFFFFFFFFFFFFFFFF"
+    },
+    {
+        "code_name": "1146",
+        "data": "FFFFFFFFFFFFMMMFF"
+    },
+    {
+        "code_name": "1147",
+        "data": "FFFYMMFFFFFFMMMFF"
+    },
+    {
+        "code_name": "1148",
+        "data": "FFFMMMFFFFFFFFFFF"
+    },
+    {
+        "code_name": "1149",
+        "data": "FFFFFFFFFFFFFFFFF"
+    },
+    {
+        "code_name": "1150",
+        "data": "FFFFFFFFMMCFFFFFF"
+    },
+    {
+        "code_name": "1151",
+        "data": "FFFFFFFFMMMFFMMMM"
+    },
+    {
+        "code_name": "1152",
+        "data": "FFYMFFFFFFFFFMMMM"
+    },
+    {
+        "code_name": "1153",
+        "data": "FFMMFFFFFFFFFFFFF"
+    },
+    {
+        "code_name": "1154",
+        "data": "FFMMMMMFFFFFFFFFF"
+    },
+    {
+        "code_name": "1155",
+        "data": "FFFFF.......FFFFF"
+    },
+    {
+        "code_name": "1156",
+        "data": "FFFFF.D.....FFFFF"
+    },
+    {
+        "code_name": "1157",
+        "data": "FFFFF....D..FFFFF"
+    },
+    {
+        "code_name": "1158",
+        "data": "FFFFF.......MMMFF"
+    },
+    {
+        "code_name": "1159",
+        "data": "MMMFF......DYMMFF"
+    },
+    {
+        "code_name": "1160",
+        "data": "MMCFF..D....FFFFF"
+    },
+    {
+        "code_name": "1161",
+        "data": "FFFFF.......FFFFF"
+    },
+    {
+        "code_name": "1162",
+        "data": "FFFFFFFFFMMMFFFFF"
+    },
+    {
+        "code_name": "1163",
+        "data": "FFFFFFFFFFFMFFFMM"
+    },
+    {
+        "code_name": "1164",
+        "data": "FFFFMMMFFFFMMFFMM"
+    },
+    {
+        "code_name": "1165",
+        "data": "FFFFMMMFFFFMMFFFF"
+    },
+    {
+        "code_name": "1166",
+        "data": "FFFFFFFFFFFMYFFFF"
+    },
+    {
+        "code_name": "1167",
+        "data": "MMFFFFFFFFFFFFFFF"
+    },
+    {
+        "code_name": "1168",
+        "data": "MMFFFFFFFFFFFFFFF"
+    },
+    {
+        "code_name": "1169",
+        "data": "FFFFFMMFFFFFMMFFF"
+    },
+    {
+        "code_name": "1170",
+        "data": "FFFFFMMFFFFFMMFFF"
+    },
+    {
+        "code_name": "1171",
+        "data": "FFFFFMCFFFFFFFFFF"
+    },
+    {
+        "code_name": "1172",
+        "data": "FFFFFFFFFFFFFFFFF"
+    },
+    {
+        "code_name": "1173",
+        "data": "FFFFF.......FFFFF"
+    },
+    {
+        "code_name": "1174",
+        "data": "FFFFF.1.1.1.FFFFF"
+    },
+    {
+        "code_name": "1175",
         "group": "end"
     }
 ]

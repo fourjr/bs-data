@@ -14,30 +14,13 @@ csv:
     maps: ./csv_logic/maps.csv
     player_thumbnails: ./csv_logic/player_thumbnails.csv
     projectiles: ./csv_logic/projectiles.csv
+    pins: ./csv_logic/pins.csv
     regions: ./csv_logic/regions.csv
     resources: ./csv_logic/resources.csv
     skills: ./csv_logic/skills.csv
     skins: ./csv_logic/skins.csv
-    texts: ./csv_client/texts.csv
+    texts: ./texts.csv
     tiles: ./csv_logic/tiles.csv
 
 json:
   base: ./json/
-  alliance_badges: ./alliance_badges.json
-  alliance_roles: ./alliance_roles.json
-  area_effects: ./area_effects.json
-  bosses: ./bosses.json
-  campaign: ./campaign.json
-  cards: ./cards.json
-  characters: ./characters.json
-  globals: ./globals.json
-  items: ./items.json
-  locations: ./locations.json
-  maps: ./maps.json
-  player_thumbnails: ./player_thumbnails.json
-  projectiles: ./projectiles.json
-  regions: ./regions.json
-  resources: ./resources.json
-  skills: ./skills.json
-  skins: ./skins.json
-  tiles: ./tiles.json

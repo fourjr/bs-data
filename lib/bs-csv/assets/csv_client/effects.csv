@@ -551,3 +551,5 @@
 ,,,,,,,,"ParticleEmitter",,,"shooting_spark_emitter",,"Object",,,,,,,,
 ,,,,,,,,"ParticleEmitter",,,"gen_small_smoke_emitter",,"Object",,,,,,,,
 "boss_extra_death_effect",,,,200,200,,"Sound_Gen_explosion","Effect",,,,"hammer_ulti_explosion","Object",,230,,,,,,
+"robo_spawn","true",,,,,,,"ParticleEmitter",,,"magic_spark_exlposion",,"Above",,100,,,,,,
+,,,,,,,,"ParticleEmitter",,,"Gen_dust_emitter_big",,"Above",,100,,,,,,

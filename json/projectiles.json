@@ -447,7 +447,7 @@
     },
     {
         "name": "BarkeepProjectile",
-        "speed": 1400,
+        "speed": 1200,
         "blue_export_name": "bottle_blue",
         "red_export_name": "bottle_red",
         "hit_effect_env": "Gen_hit",
@@ -455,7 +455,7 @@
         "radius": 0,
         "indirect": true,
         "constant_fly_time": false,
-        "gravity": 145,
+        "gravity": 130,
         "early_ticks": 1,
         "hide_time": 0,
         "scale": 100,

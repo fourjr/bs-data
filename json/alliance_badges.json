@@ -98,5 +98,55 @@
         "name": "clan_badge_05_04",
         "icon_export_name": "clan_badge_05_04",
         "id": 16000019
+    },
+    {
+        "name": "clan_badge_01_05",
+        "icon_export_name": "clan_badge_01_05",
+        "id": 16000020
+    },
+    {
+        "name": "clan_badge_01_06",
+        "icon_export_name": "clan_badge_01_06",
+        "id": 16000021
+    },
+    {
+        "name": "clan_badge_02_05",
+        "icon_export_name": "clan_badge_02_05",
+        "id": 16000022
+    },
+    {
+        "name": "clan_badge_02_06",
+        "icon_export_name": "clan_badge_02_06",
+        "id": 16000023
+    },
+    {
+        "name": "clan_badge_03_05",
+        "icon_export_name": "clan_badge_03_05",
+        "id": 16000024
+    },
+    {
+        "name": "clan_badge_03_06",
+        "icon_export_name": "clan_badge_03_06",
+        "id": 16000025
+    },
+    {
+        "name": "clan_badge_04_05",
+        "icon_export_name": "clan_badge_04_05",
+        "id": 16000026
+    },
+    {
+        "name": "clan_badge_04_06",
+        "icon_export_name": "clan_badge_04_06",
+        "id": 16000027
+    },
+    {
+        "name": "clan_badge_05_05",
+        "icon_export_name": "clan_badge_05_05",
+        "id": 16000028
+    },
+    {
+        "name": "clan_badge_05_06",
+        "icon_export_name": "clan_badge_05_06",
+        "id": 16000029
     }
 ]

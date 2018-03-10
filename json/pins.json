@@ -1,0 +1,178 @@
+[
+    {
+        "name": "pinHp0",
+        "pin_type": 1,
+        "rarity": 0,
+        "index": 0,
+        "bonus": 1,
+        "craft_cost": 20
+    },
+    {
+        "name": "pinHp1",
+        "pin_type": 1,
+        "rarity": 0,
+        "index": 1,
+        "bonus": 1,
+        "craft_cost": 20
+    },
+    {
+        "name": "pinHp2",
+        "pin_type": 1,
+        "rarity": 0,
+        "index": 2,
+        "bonus": 1,
+        "craft_cost": 20
+    },
+    {
+        "name": "pinAtt0",
+        "pin_type": 2,
+        "rarity": 0,
+        "index": 0,
+        "bonus": 1,
+        "craft_cost": 20
+    },
+    {
+        "name": "pinAtt1",
+        "pin_type": 2,
+        "rarity": 0,
+        "index": 1,
+        "bonus": 1,
+        "craft_cost": 20
+    },
+    {
+        "name": "pinAtt2",
+        "pin_type": 2,
+        "rarity": 0,
+        "index": 2,
+        "bonus": 1,
+        "craft_cost": 20
+    },
+    {
+        "name": "pinUlti0",
+        "pin_type": 3,
+        "rarity": 0,
+        "index": 0,
+        "bonus": 1,
+        "craft_cost": 20
+    },
+    {
+        "name": "pinUlti1",
+        "pin_type": 3,
+        "rarity": 0,
+        "index": 1,
+        "bonus": 1,
+        "craft_cost": 20
+    },
+    {
+        "name": "pinUlti2",
+        "pin_type": 3,
+        "rarity": 0,
+        "index": 2,
+        "bonus": 1,
+        "craft_cost": 20
+    },
+    {
+        "name": "badgeHp0",
+        "pin_type": 1,
+        "rarity": 1,
+        "index": 0,
+        "bonus": 2,
+        "craft_cost": 50
+    },
+    {
+        "name": "badgeHp1",
+        "pin_type": 1,
+        "rarity": 1,
+        "index": 1,
+        "bonus": 2,
+        "craft_cost": 50
+    },
+    {
+        "name": "badgeAtt0",
+        "pin_type": 2,
+        "rarity": 1,
+        "index": 0,
+        "bonus": 2,
+        "craft_cost": 50
+    },
+    {
+        "name": "bargeAtt1",
+        "pin_type": 2,
+        "rarity": 1,
+        "index": 1,
+        "bonus": 2,
+        "craft_cost": 50
+    },
+    {
+        "name": "badgeUlti0",
+        "pin_type": 3,
+        "rarity": 1,
+        "index": 0,
+        "bonus": 2,
+        "craft_cost": 50
+    },
+    {
+        "name": "badgeUlti1",
+        "pin_type": 3,
+        "rarity": 1,
+        "index": 1,
+        "bonus": 2,
+        "craft_cost": 50
+    },
+    {
+        "name": "medalHp",
+        "pin_type": 1,
+        "rarity": 2,
+        "index": 0,
+        "bonus": 3,
+        "craft_cost": 120
+    },
+    {
+        "name": "medalAtt",
+        "pin_type": 2,
+        "rarity": 2,
+        "index": 0,
+        "bonus": 3,
+        "craft_cost": 120
+    },
+    {
+        "name": "medalUlti",
+        "pin_type": 3,
+        "rarity": 2,
+        "index": 0,
+        "bonus": 3,
+        "craft_cost": 120
+    },
+    {
+        "name": "crest0",
+        "pin_type": 4,
+        "rarity": 3,
+        "index": 0,
+        "bonus": 4,
+        "craft_cost": 300
+    },
+    {
+        "name": "crest1",
+        "pin_type": 4,
+        "rarity": 3,
+        "index": 1,
+        "bonus": 4,
+        "craft_cost": 300
+    },
+    {
+        "name": "crest2",
+        "pin_type": 4,
+        "rarity": 3,
+        "index": 2,
+        "bonus": 4,
+        "craft_cost": 300
+    },
+    {
+        "name": "brawlstar",
+        "pin_type": 5,
+        "rarity": 4,
+        "index": 0,
+        "bonus": 8,
+        "craft_cost": 1000
+    }
+]

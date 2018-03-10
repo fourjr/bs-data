@@ -50,5 +50,11 @@
         "icon_export_name": "genicon_upgradium",
         "premium_currency": false,
         "name_en": null
+    },
+    {
+        "name": "HeroLvlUpMaterial",
+        "icon_export_name": "genicon_upgradium",
+        "premium_currency": false,
+        "name_en": null
     }
 ]

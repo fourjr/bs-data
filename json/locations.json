@@ -321,7 +321,8 @@
         "tile_set_red_mul": 255,
         "tile_set_green_mul": 255,
         "tile_set_blue_mul": 255,
-        "game_mode": "CoinRush",
+        "icon_export_name": "event_welcome",
+        "game_mode": "Tutorial",
         "large_map": false
     },
     {
@@ -333,7 +334,7 @@
         "tile_set_red_mul": 255,
         "tile_set_green_mul": 230,
         "tile_set_blue_mul": 230,
-        "icon_export_name": "event_canyon",
+        "icon_export_name": "event_boss",
         "game_mode": "BossFight",
         "allowed_maps": "BossFight_1",
         "large_map": false,
@@ -427,7 +428,7 @@
         "tile_set_red_mul": 210,
         "tile_set_green_mul": 210,
         "tile_set_blue_mul": 255,
-        "icon_export_name": "event_canyon",
+        "icon_export_name": "event_coop",
         "game_mode": "Survival",
         "allowed_maps": "Coop_1",
         "large_map": false,
@@ -458,7 +459,7 @@
         "tile_set_red_mul": 210,
         "tile_set_green_mul": 210,
         "tile_set_blue_mul": 255,
-        "icon_export_name": "event_canyon",
+        "icon_export_name": "event_coop",
         "game_mode": "Survival",
         "allowed_maps": "Coop_2",
         "large_map": false,
@@ -474,10 +475,25 @@
         "tile_set_red_mul": 255,
         "tile_set_green_mul": 230,
         "tile_set_blue_mul": 230,
-        "icon_export_name": "event_gemmine",
+        "icon_export_name": "event_boss",
         "game_mode": "BossFight",
         "allowed_maps": "BossFight_2",
         "large_map": false,
         "name_en": "Hall of the Mole King"
+    },
+    {
+        "name": "Gemgrab7",
+        "disabled": false,
+        "tile_set_red_add": 0,
+        "tile_set_green_add": 0,
+        "tile_set_blue_add": 0,
+        "tile_set_red_mul": 255,
+        "tile_set_green_mul": 255,
+        "tile_set_blue_mul": 255,
+        "icon_export_name": "event_canyon",
+        "game_mode": "CoinRush",
+        "allowed_maps": "Gemgrab_8",
+        "large_map": false,
+        "name_en": "Sapphire Plains"
     }
 ]

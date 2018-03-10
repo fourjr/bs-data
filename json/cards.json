@@ -165,7 +165,7 @@
         "rarity": "common",
         "power_number_tid": "TID_STAT_MISSILE_DAMAGE",
         "power_icon1_export_name": "genicon_damage",
-        "name_en": "Rocket Rain"
+        "name_en": "ROCKET RAIN"
     },
     {
         "name": "TrickshotDude_unlock",
@@ -809,7 +809,7 @@
         "target": "ShotgunGirl",
         "meta_type": 4,
         "type": "freeze",
-        "value": 60,
+        "value": 50,
         "value2": 350,
         "rarity": "common",
         "power_icon1_export_name": "genicon_health",
@@ -821,7 +821,7 @@
         "target": "Gunslinger",
         "meta_type": 4,
         "type": "speed",
-        "value": 100,
+        "value": 50,
         "rarity": "common",
         "power_icon1_export_name": "genicon_health",
         "name_en": "Slick Boots"
@@ -832,7 +832,7 @@
         "target": "BullDude",
         "meta_type": 4,
         "type": "berserker",
-        "value": 50,
+        "value": 40,
         "rarity": "common",
         "power_icon1_export_name": "genicon_health",
         "name_en": "Berserker"
@@ -876,7 +876,7 @@
         "target": "Barkeep",
         "meta_type": 4,
         "type": "heal_self_main_attack",
-        "value": 100,
+        "value": 200,
         "rarity": "common",
         "power_icon1_export_name": "genicon_health",
         "name_en": "Medical Use"
@@ -887,7 +887,7 @@
         "target": "Mechanic",
         "meta_type": 4,
         "type": "repair_turret",
-        "value": 600,
+        "value": 800,
         "rarity": "common",
         "power_icon1_export_name": "genicon_health",
         "name_en": "Energize"
@@ -898,8 +898,8 @@
         "target": "Shaman",
         "meta_type": 4,
         "type": "pet_lifesteal",
-        "value": 200,
-        "value2": 200,
+        "value": 300,
+        "value2": 300,
         "rarity": "common",
         "power_icon1_export_name": "genicon_health",
         "name_en": "Bear With Me"
@@ -954,7 +954,7 @@
         "target": "DeadMariachi",
         "meta_type": 4,
         "type": "heal_main_attack",
-        "value": 200,
+        "value": 300,
         "rarity": "common",
         "power_icon1_export_name": "genicon_health",
         "name_en": "Da Capo!"

@@ -13,7 +13,7 @@
 "TntDudeUltiExplosion","sc/effects.sc","range450_blue","range450_red","Ground","explosion_tnt_dude_ulti",,165,700,800,,,"Damage",,,"true",150,250,
 "BowDudeExplosion","sc/effects.sc","range400_blue","range400_red","Ground","explosion_bow_dude",,70,700,300,,,"Damage",,,,,,
 "CrowUltiKnifes","sc/effects.sc",,,"Ground",,,100,700,300,,14,"BulletExplosion","CrowUltiProjectile",22,,,,
-"HealingStationHeal","sc/effects.sc","heal_area_effect_blue","heal_area_effect_red","Ground",,"heal_area_fx",125,600000,1000,-360,,"Hot",,,,,,
+"HealingStationHeal","sc/effects.sc","heal_area_effect_blue","heal_area_effect_red","Ground",,"heal_area_fx",125,600000,1000,-320,,"Hot",,,,,,
 "Heal","sc/effects.sc","heal_area_effect_blue","heal_area_effect_red","Ground",,,100,700,800,-560,,"Heal",,,,,,
 "MineExplosion","sc/effects.sc","range450_blue","range450_red","Ground","explosion_600",,133,700,600,99,,"Damage",,,"true",70,,
 "SniperBombExplosion","sc/effects.sc","range450_blue","range450_red","Ground","explosion_600",,133,700,600,99,,"Damage",,,"true",70,,

@@ -49,9 +49,7 @@ class BaseGen:
         return os.path.join(self.config.csv.base, self.config.csv.path[id])
 
     def json_path_by_id(self, id):
-        if id in self.config.json:
-            return os.path.join(self.config.json.base, self.config.json[id])
-        return None
+        return os.path.join(self.config.json.base, id) + '.json'
 
     @property
     def field_types(self):
@@ -195,7 +193,7 @@ class BaseGen:
         """Save path to json."""
         if json_path is None:
             json_path = self.json_path
-        with open(json_path, encoding='utf-8', mode='w') as f:
+        with open(json_path, encoding='utf-8', mode='w+') as f:
             json.dump(data, f, indent=4, ensure_ascii=False)
 
         print(json_path)

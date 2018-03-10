@@ -112,7 +112,7 @@
     },
     {
         "name": "STARTING_GOLD",
-        "number_value": 92,
+        "number_value": 97,
         "boolean_value": false
     },
     {
@@ -137,7 +137,7 @@
     },
     {
         "name": "BOSS_HEALTH_INCREASE",
-        "number_value": 50000,
+        "number_value": 110000,
         "boolean_value": false
     },
     {
@@ -197,5 +197,10 @@
     {
         "name": "DISPLAY_JOYSTICK_AREA",
         "boolean_value": true
+    },
+    {
+        "name": "BOSS_HEALTH_LOSS_DIV",
+        "number_value": 300,
+        "boolean_value": false
     }
 ]

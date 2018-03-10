@@ -15,7 +15,7 @@ if __name__ == '__main__':
         config = Box(yaml.load(f))
 
     for cls in [AllianceBadges, AllianceRoles, AreaEffects, Bosses, Campaign, Cards, 
-            Characters, Globals, Items, Locations, Maps, PlayerThumbnails, Projectiles, 
+            Characters, Globals, Items, Locations, Maps, Pins, PlayerThumbnails, Projectiles, 
             Regions, Resources, Skills, Skins, Tiles]:
         app = cls(config=config)
         app.run()

@@ -9,6 +9,7 @@ from .globals import Globals
 from .items import Items
 from .locations import Locations
 from .maps import Maps
+from .pins import Pins
 from .player_thumbnails import PlayerThumbnails
 from .projectiles import Projectiles
 from .regions import Regions

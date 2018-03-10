@@ -131,7 +131,6 @@
         "is_destructible": true,
         "is_destructible_normal_weapon": false,
         "hides_hero": false,
-        "respawn_seconds": 35,
         "base_export_name": "respawningwall",
         "sort_offset": -1,
         "has_hit_anim": true,

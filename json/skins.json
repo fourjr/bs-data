@@ -35,7 +35,7 @@
     {
         "name": "GunSlingerDefault",
         "character": "Gunslinger",
-        "model": "gunslinger_geo.scw:male_eyebrows003+male_gunslingerbody1+male_guns1+male_gunslingerhead1",
+        "model": "gunslinger_geo.scw:male_eyebrows003+male_gunslingerbody1+male_guns1+male_gunslingerhead1+male_gunslingerbelt1",
         "blue_texture": "gunslinger_color.pvr",
         "red_texture": "gunslinger_color.pvr",
         "blue_specular": "gunslinger_color.pvr",
@@ -71,7 +71,7 @@
         "name": "GunSlingerRockstar",
         "character": "Gunslinger",
         "cost_gems": 20,
-        "model": "gunslinger_geo.scw:male_eyebrows003+male_gunslingerbody1+male_guns1+male_gunslingerhead1",
+        "model": "gunslinger_geo.scw:male_eyebrows003+male_gunslingerbody1+male_guns1+male_gunslingerhead1+male_gunslingerbelt1",
         "blue_texture": "gunslingerRockstar_d_01.pvr",
         "red_texture": "gunslingerRockstar_d_01.pvr",
         "blue_specular": "gunslingerRockstar_d_01.pvr",
@@ -522,7 +522,7 @@
     {
         "name": "UndertakerDefault",
         "character": "Undertaker",
-        "model": "basic_tall_geo.scw:body+legs+shovel",
+        "model": "basic_tall_geo.scw:body+legs+shovel+hat",
         "blue_texture": "undertaker_tex.pvr",
         "red_texture": "undertaker_tex.pvr",
         "blue_specular": "undertaker_tex.pvr",

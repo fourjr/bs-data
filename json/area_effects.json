@@ -160,7 +160,7 @@
         "scale": 125,
         "time_ms": 600000,
         "radius": 1000,
-        "damage": -360,
+        "damage": -320,
         "type": "Hot",
         "destroys_environment": false
     },
