@@ -1,0 +1,82 @@
+[
+    {
+        "name": "BullGuyIdle",
+        "fileName": "ui.sc",
+        "exportName": "hero_portrait"
+    },
+    {
+        "name": "BullGuyWalk",
+        "fileName": "ui.sc",
+        "exportName": "hero_portrait"
+    },
+    {
+        "name": "BullGuyHappy",
+        "fileName": "ui.sc",
+        "exportName": "hero_portrait"
+    },
+    {
+        "name": "BullGuySad",
+        "fileName": "ui.sc",
+        "exportName": "hero_portrait"
+    },
+    {
+        "name": "BullGuySignature",
+        "fileName": "ui.sc",
+        "exportName": "hero_portrait"
+    },
+    {
+        "name": "ShellyFace",
+        "fileName": "characters.sc",
+        "exportName": "shelly_face"
+    },
+    {
+        "name": "ShellyBanditFace",
+        "fileName": "characters.sc",
+        "exportName": "shelly_bandit_face"
+    },
+    {
+        "name": "JunkerFace",
+        "fileName": "characters.sc",
+        "exportName": "jessie_face"
+    },
+    {
+        "name": "JunkerDreamyFace",
+        "fileName": "characters.sc",
+        "exportName": "jessie_dreamy_face"
+    },
+    {
+        "name": "ColtFace",
+        "fileName": "characters.sc",
+        "exportName": "colt_face"
+    },
+    {
+        "name": "BullFace",
+        "fileName": "characters.sc",
+        "exportName": "bull_face"
+    },
+    {
+        "name": "PamFace",
+        "fileName": "characters.sc",
+        "exportName": "pam_face"
+    },
+    {
+        "name": "CrowFace",
+        "fileName": "characters.sc",
+        "exportName": "crow_face"
+    },
+    {
+        "name": "TaraFace",
+        "fileName": "characters.sc",
+        "exportName": "tara_face"
+    },
+    {
+        "name": "MortisFace",
+        "fileName": "characters.sc",
+        "exportName": "mortis_face"
+    },
+    {
+        "name": "PennyFace",
+        "fileName": "characters.sc",
+        "exportName": "penny_face"
+    }
+]

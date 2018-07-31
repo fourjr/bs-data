@@ -1,0 +1,93 @@
+[
+    {
+        "name": "boss1",
+        "tID": "Calamity Canyon",
+        "playerCount": "3",
+        "requiredCampaignProgressToUnlock": "6",
+        "location": "Planet1",
+        "allowedHeroes": "Trooper,Techie,Vanguard,Sniper,PoisonDude,Healer",
+        "reward": "Diamonds:10:",
+        "levelGenerationSeed": null,
+        "map": "Pvp4",
+        "boss": "Boss2",
+        "bossLevel": "1"
+    },
+    {
+        "name": "boss2",
+        "tID": "Hall of the Mole King",
+        "playerCount": "3",
+        "requiredCampaignProgressToUnlock": "12",
+        "location": "Planet2",
+        "allowedHeroes": "Trooper,Techie,Vanguard,Sniper,PoisonDude,Healer",
+        "reward": "Diamonds:10:",
+        "levelGenerationSeed": null,
+        "map": "Pvp4",
+        "boss": "Boss1",
+        "bossLevel": "5"
+    },
+    {
+        "name": "boss3",
+        "tID": "TID_BOSS_3",
+        "playerCount": "3",
+        "requiredCampaignProgressToUnlock": "18",
+        "location": "Planet3",
+        "allowedHeroes": "Trooper,Techie,Vanguard,Sniper,PoisonDude,Healer",
+        "reward": "Diamonds:10:",
+        "levelGenerationSeed": null,
+        "map": "Pvp4",
+        "boss": "Boss2",
+        "bossLevel": "9"
+    },
+    {
+        "name": "boss4",
+        "tID": "TID_BOSS_4",
+        "playerCount": "3",
+        "requiredCampaignProgressToUnlock": "24",
+        "location": "Planet4",
+        "allowedHeroes": "Trooper,Techie,Vanguard,Sniper,PoisonDude,Healer",
+        "reward": "Diamonds:10:",
+        "levelGenerationSeed": null,
+        "map": "Pvp4",
+        "boss": "Boss1",
+        "bossLevel": "12"
+    },
+    {
+        "name": "boss5",
+        "tID": "TID_BOSS_5",
+        "playerCount": "3",
+        "requiredCampaignProgressToUnlock": "30",
+        "location": "Planet5",
+        "allowedHeroes": "Trooper,Techie,Vanguard,Sniper,PoisonDude,Healer",
+        "reward": "Diamonds:10:",
+        "levelGenerationSeed": null,
+        "map": "Pvp4",
+        "boss": "Boss2",
+        "bossLevel": "15"
+    },
+    {
+        "name": "boss6",
+        "tID": "TID_BOSS_6",
+        "playerCount": "3",
+        "requiredCampaignProgressToUnlock": "36",
+        "location": "Planet6",
+        "allowedHeroes": "Trooper,Techie,Vanguard,Sniper,PoisonDude,Healer",
+        "reward": "Diamonds:10:",
+        "levelGenerationSeed": null,
+        "map": "Pvp4",
+        "boss": "Boss1",
+        "bossLevel": "18"
+    },
+    {
+        "name": "boss7",
+        "tID": "TID_BOSS_7",
+        "playerCount": "3",
+        "requiredCampaignProgressToUnlock": "54",
+        "location": "Planet7",
+        "allowedHeroes": "Trooper,Techie,Vanguard,Sniper,PoisonDude,Healer",
+        "reward": "Diamonds:10:",
+        "levelGenerationSeed": null,
+        "map": "Pvp4",
+        "boss": "Boss2",
+        "bossLevel": "20"
+    }
+]

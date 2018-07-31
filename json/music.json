@@ -1,0 +1,218 @@
+[
+    {
+        "name": "BattleMusic",
+        "fileName": "music/Slugfest_ingame_02.ogg",
+        "volume": "70",
+        "loop": "true",
+        "playCount": null,
+        "fadeOutTimeSec": null,
+        "durationSec": "60"
+    },
+    {
+        "name": null,
+        "fileName": "music/Slugfest_ingame_03.ogg",
+        "volume": "70",
+        "loop": "true",
+        "playCount": null,
+        "fadeOutTimeSec": null,
+        "durationSec": "90"
+    },
+    {
+        "name": null,
+        "fileName": "music/Slugfest_ingame_04.ogg",
+        "volume": "70",
+        "loop": "true",
+        "playCount": null,
+        "fadeOutTimeSec": null,
+        "durationSec": "57"
+    },
+    {
+        "name": null,
+        "fileName": "music/Slugfest_ingame_05.ogg",
+        "volume": "70",
+        "loop": "true",
+        "playCount": null,
+        "fadeOutTimeSec": null,
+        "durationSec": "53"
+    },
+    {
+        "name": null,
+        "fileName": "music/Slugfest_ingame_06.ogg",
+        "volume": "70",
+        "loop": "true",
+        "playCount": null,
+        "fadeOutTimeSec": null,
+        "durationSec": "75"
+    },
+    {
+        "name": null,
+        "fileName": "music/Slugfest_ingame_01.ogg",
+        "volume": "70",
+        "loop": "true",
+        "playCount": null,
+        "fadeOutTimeSec": null,
+        "durationSec": "60"
+    },
+    {
+        "name": null,
+        "fileName": "music/Slugfest_ingame_07.ogg",
+        "volume": "70",
+        "loop": "true",
+        "playCount": null,
+        "fadeOutTimeSec": null,
+        "durationSec": "71"
+    },
+    {
+        "name": "SingleplayerBattlemusic",
+        "fileName": "music/Slugfest_ingame_02.ogg",
+        "volume": "70",
+        "loop": "true",
+        "playCount": null,
+        "fadeOutTimeSec": null,
+        "durationSec": "60"
+    },
+    {
+        "name": null,
+        "fileName": "music/Slugfest_ingame_03.ogg",
+        "volume": "70",
+        "loop": "true",
+        "playCount": null,
+        "fadeOutTimeSec": null,
+        "durationSec": "90"
+    },
+    {
+        "name": null,
+        "fileName": "music/Slugfest_ingame_04.ogg",
+        "volume": "70",
+        "loop": "true",
+        "playCount": null,
+        "fadeOutTimeSec": null,
+        "durationSec": "57"
+    },
+    {
+        "name": null,
+        "fileName": "music/Slugfest_ingame_05.ogg",
+        "volume": "70",
+        "loop": "true",
+        "playCount": null,
+        "fadeOutTimeSec": null,
+        "durationSec": "60"
+    },
+    {
+        "name": null,
+        "fileName": "music/Slugfest_ingame_06.ogg",
+        "volume": "70",
+        "loop": "true",
+        "playCount": null,
+        "fadeOutTimeSec": null,
+        "durationSec": "75"
+    },
+    {
+        "name": null,
+        "fileName": "music/Slugfest_ingame_01.ogg",
+        "volume": "70",
+        "loop": "true",
+        "playCount": null,
+        "fadeOutTimeSec": null,
+        "durationSec": "60"
+    },
+    {
+        "name": null,
+        "fileName": "music/Slugfest_ingame_07.ogg",
+        "volume": "70",
+        "loop": "true",
+        "playCount": null,
+        "fadeOutTimeSec": null,
+        "durationSec": "71"
+    },
+    {
+        "name": "MenuMusic",
+        "fileName": "music/brawl_stars_menu_01.ogg",
+        "volume": "60",
+        "loop": "true",
+        "playCount": null,
+        "fadeOutTimeSec": null,
+        "durationSec": "153"
+    },
+    {
+        "name": "WinJingle",
+        "fileName": "music/slugfest_game_won_01.ogg",
+        "volume": "80",
+        "loop": null,
+        "playCount": "1",
+        "fadeOutTimeSec": null,
+        "durationSec": null
+    },
+    {
+        "name": "LoseJingle",
+        "fileName": "music/slugfest_game_lost_01.ogg",
+        "volume": "70",
+        "loop": null,
+        "playCount": "1",
+        "fadeOutTimeSec": null,
+        "durationSec": null
+    },
+    {
+        "name": "DrawJingle",
+        "fileName": "music/laser_game_draw_01.ogg",
+        "volume": "70",
+        "loop": null,
+        "playCount": "1",
+        "fadeOutTimeSec": null,
+        "durationSec": null
+    },
+    {
+        "name": "Win_loop",
+        "fileName": "music/win_screen_loop_4x_01.ogg",
+        "volume": "60",
+        "loop": "true",
+        "playCount": null,
+        "fadeOutTimeSec": null,
+        "durationSec": "30"
+    },
+    {
+        "name": "Draw_loop",
+        "fileName": "music/draw_screen_loop_4x_01.ogg",
+        "volume": "60",
+        "loop": "true",
+        "playCount": null,
+        "fadeOutTimeSec": null,
+        "durationSec": "34"
+    },
+    {
+        "name": "Lose_loop",
+        "fileName": "music/lose_screen_loop_4x_01.ogg",
+        "volume": "60",
+        "loop": "true",
+        "playCount": null,
+        "fadeOutTimeSec": null,
+        "durationSec": "28"
+    },
+    {
+        "name": "Brawlbawl_goal",
+        "fileName": "music/brawl_goal_02.ogg",
+        "volume": "80",
+        "loop": null,
+        "playCount": "1",
+        "fadeOutTimeSec": null,
+        "durationSec": null
+    },
+    {
+        "name": "Brawlbawl_other_goal",
+        "fileName": "music/brawl_other_goal_01.ogg",
+        "volume": "80",
+        "loop": null,
+        "playCount": "1",
+        "fadeOutTimeSec": null,
+        "durationSec": null
+    },
+    {
+        "name": "30_sec_panic",
+        "fileName": "music/brawl_panic_time_01.ogg",
+        "volume": "75",
+        "loop": "true",
+        "playCount": null,
+        "fadeOutTimeSec": null,
+        "durationSec": "30"
+    }
+]
