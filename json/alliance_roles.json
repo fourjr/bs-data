@@ -1,0 +1,67 @@
+[
+    {
+        "name": "NonMember",
+        "level": "0",
+        "tID": null,
+        "canInvite": "false",
+        "canSendMail": "false",
+        "canChangeAllianceSettings": "false",
+        "canAcceptJoinRequest": "false",
+        "canKick": null,
+        "canBePromotedToLeader": null,
+        "promoteSkill": "0",
+        "id": 25
+    },
+    {
+        "name": "Member",
+        "level": "1",
+        "tID": "Member",
+        "canInvite": "false",
+        "canSendMail": "false",
+        "canChangeAllianceSettings": "false",
+        "canAcceptJoinRequest": "false",
+        "canKick": "false",
+        "canBePromotedToLeader": null,
+        "promoteSkill": "0",
+        "id": 26
+    },
+    {
+        "name": "Leader",
+        "level": "20",
+        "tID": "Leader",
+        "canInvite": "true",
+        "canSendMail": "true",
+        "canChangeAllianceSettings": "true",
+        "canAcceptJoinRequest": "true",
+        "canKick": "true",
+        "canBePromotedToLeader": "true",
+        "promoteSkill": "2",
+        "id": 27
+    },
+    {
+        "name": "Elder",
+        "level": "5",
+        "tID": "Elder",
+        "canInvite": "true",
+        "canSendMail": "false",
+        "canChangeAllianceSettings": "false",
+        "canAcceptJoinRequest": "true",
+        "canKick": "true",
+        "canBePromotedToLeader": null,
+        "promoteSkill": "0",
+        "id": 28
+    },
+    {
+        "name": "Co-leader",
+        "level": "10",
+        "tID": "Co-leader",
+        "canInvite": "true",
+        "canSendMail": "true",
+        "canChangeAllianceSettings": "true",
+        "canAcceptJoinRequest": "true",
+        "canKick": "true",
+        "canBePromotedToLeader": "true",
+        "promoteSkill": "2",
+        "id": 29
+    }
+]

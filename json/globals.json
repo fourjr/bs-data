@@ -1,0 +1,452 @@
+[
+    {
+        "name": "ALLIANCE_CREATE_RESOURCE",
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": "Gold",
+        "stringArray": null,
+        "numberArray": null,
+        "id": 3
+    },
+    {
+        "name": "ALLIANCE_CREATE_COST",
+        "numberValue": "0",
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": null,
+        "id": 4
+    },
+    {
+        "name": "STARTING_DIAMONDS",
+        "numberValue": "0",
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": null,
+        "id": 5
+    },
+    {
+        "name": "MAX_MESSAGE_LENGTH",
+        "numberValue": "128",
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": null,
+        "id": 6
+    },
+    {
+        "name": "MAX_ALLIANCE_MAIL_LENGTH",
+        "numberValue": "256",
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": null,
+        "id": 7
+    },
+    {
+        "name": "SPEED_UP_DIAMOND_COST_1_MIN",
+        "numberValue": "1",
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": null,
+        "id": 8
+    },
+    {
+        "name": "SPEED_UP_DIAMOND_COST_1_HOUR",
+        "numberValue": "4",
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": null,
+        "id": 9
+    },
+    {
+        "name": "SPEED_UP_DIAMOND_COST_24_HOURS",
+        "numberValue": "96",
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": null,
+        "id": 10
+    },
+    {
+        "name": "SPEED_UP_DIAMOND_COST_1_WEEK",
+        "numberValue": "672",
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": null,
+        "id": 11
+    },
+    {
+        "name": "SPEED_UP_FREE_SECONDS",
+        "numberValue": "0",
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": null,
+        "id": 12
+    },
+    {
+        "name": "RESOURCE_DIAMOND_COST_1",
+        "numberValue": "1",
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": null,
+        "id": 13
+    },
+    {
+        "name": "RESOURCE_DIAMOND_COST_10",
+        "numberValue": "2",
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": null,
+        "id": 14
+    },
+    {
+        "name": "RESOURCE_DIAMOND_COST_100",
+        "numberValue": "20",
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": null,
+        "id": 15
+    },
+    {
+        "name": "RESOURCE_DIAMOND_COST_1000",
+        "numberValue": "200",
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": null,
+        "id": 16
+    },
+    {
+        "name": "RESOURCE_DIAMOND_COST_10000",
+        "numberValue": "2000",
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": null,
+        "id": 17
+    },
+    {
+        "name": "RESOURCE_DIAMOND_COST_100000",
+        "numberValue": "20000",
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": null,
+        "id": 18
+    },
+    {
+        "name": "RESOURCE_DIAMOND_COST_1000000",
+        "numberValue": "200000",
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": null,
+        "id": 19
+    },
+    {
+        "name": "RESOURCE_DIAMOND_COST_10000000",
+        "numberValue": "2000000",
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": null,
+        "id": 20
+    },
+    {
+        "name": "ALLIANCE_SCORE_CONTRIBUTION_PERCENTAGE",
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": "50",
+        "id": 21
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": "25",
+        "id": 22
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": "12",
+        "id": 23
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": "10",
+        "id": 24
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": "3",
+        "id": 25
+    },
+    {
+        "name": "STARTING_GOLD",
+        "numberValue": "0",
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": null,
+        "id": 26
+    },
+    {
+        "name": "BATTLE_PING_SAMPLE_SECONDS",
+        "numberValue": "15",
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": null,
+        "id": 27
+    },
+    {
+        "name": "ALLIANCE_UNLOCK_EXP_LEVEL",
+        "numberValue": "1",
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": null,
+        "id": 28
+    },
+    {
+        "name": "AFK_TIMER_SECONDS",
+        "numberValue": "15",
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": null,
+        "id": 29
+    },
+    {
+        "name": "BOSS_DAMAGE_PERCENT_INCREASE",
+        "numberValue": "50",
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": null,
+        "id": 30
+    },
+    {
+        "name": "BOSS_HEALTH_INCREASE",
+        "numberValue": "110000",
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": null,
+        "id": 31
+    },
+    {
+        "name": "BOSS_SPEED_INCREASE",
+        "numberValue": "100",
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": null,
+        "id": 32
+    },
+    {
+        "name": "BOSS_RELOAD_TIME_DIV",
+        "numberValue": "20",
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": null,
+        "id": 33
+    },
+    {
+        "name": "BOSS_PET_HEALTH_BONUS_DIV",
+        "numberValue": "15",
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": null,
+        "id": 34
+    },
+    {
+        "name": "BOSS_ULTI_CHARGE_MUL",
+        "numberValue": "60",
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": null,
+        "id": 35
+    },
+    {
+        "name": "BOSS_ULTI_CHARGE_DIV",
+        "numberValue": "100",
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": null,
+        "id": 36
+    },
+    {
+        "name": "BOSS_HEAL_MUL",
+        "numberValue": "25",
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": null,
+        "id": 37
+    },
+    {
+        "name": "BOSS_HEAL_DIV",
+        "numberValue": "100",
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": null,
+        "id": 38
+    },
+    {
+        "name": "COOP_ULTI_CHARGE_MUL",
+        "numberValue": "30",
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": null,
+        "id": 39
+    },
+    {
+        "name": "COOP_ULTI_CHARGE_DIV",
+        "numberValue": "100",
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": null,
+        "id": 40
+    },
+    {
+        "name": "MAX_CORPSES_PER_TEAM",
+        "numberValue": "10",
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": null,
+        "id": 41
+    },
+    {
+        "name": "USE_MASK",
+        "numberValue": null,
+        "booleanValue": "false",
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": null,
+        "id": 42
+    },
+    {
+        "name": "DISPLAY_JOYSTICK_AREA",
+        "numberValue": null,
+        "booleanValue": "true",
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": null,
+        "id": 43
+    },
+    {
+        "name": "BOSS_HEALTH_LOSS_DIV",
+        "numberValue": "300",
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": null,
+        "id": 44
+    },
+    {
+        "name": "VISIBILITY_X",
+        "numberValue": "38",
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": null,
+        "id": 45
+    },
+    {
+        "name": "VISIBILITY_UP",
+        "numberValue": "33",
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": null,
+        "id": 46
+    },
+    {
+        "name": "VISIBILITY_DOWN",
+        "numberValue": "28",
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": null,
+        "id": 47
+    },
+    {
+        "name": "CAMERA_SCALE",
+        "numberValue": "88",
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": null,
+        "id": 48
+    },
+    {
+        "name": "VISIBILITY_HORIZONTAL_MARGIN",
+        "numberValue": "6",
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": null,
+        "id": 49
+    },
+    {
+        "name": "VISIBILITY_VERTICAL_MARGIN_1",
+        "numberValue": "18",
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": null,
+        "id": 50
+    },
+    {
+        "name": "VISIBILITY_VERTICAL_MARGIN_2",
+        "numberValue": "26",
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": null,
+        "id": 51
+    },
+    {
+        "name": "STARTING_HERO_LVL_UP_MATERIAL",
+        "numberValue": "100",
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": null,
+        "id": 52
+    }
+]
