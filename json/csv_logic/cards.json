@@ -16,7 +16,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": null,
         "powerIcon2ExportName": null,
-        "sortOrder": "0"
+        "sortOrder": "0",
+        "id": 23
     },
     {
         "name": "ShotgunGirl_hp",
@@ -35,7 +36,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 24
     },
     {
         "name": "ShotgunGirl_abi",
@@ -54,7 +56,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 25
     },
     {
         "name": "ShotgunGirl_ulti",
@@ -73,7 +76,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 26
     },
     {
         "name": "Gunslinger_unlock",
@@ -92,7 +96,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": null,
         "powerIcon2ExportName": null,
-        "sortOrder": "2"
+        "sortOrder": "2",
+        "id": 27
     },
     {
         "name": "Gunslinger_hp",
@@ -111,7 +116,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 28
     },
     {
         "name": "Gunslinger_abi",
@@ -130,7 +136,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 29
     },
     {
         "name": "Gunslinger_ulti",
@@ -149,7 +156,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 30
     },
     {
         "name": "BullDude_unlock",
@@ -168,7 +176,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": null,
         "powerIcon2ExportName": null,
-        "sortOrder": "3"
+        "sortOrder": "3",
+        "id": 31
     },
     {
         "name": "BullDude_hp",
@@ -187,7 +196,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 32
     },
     {
         "name": "BullDude_abi",
@@ -206,7 +216,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 33
     },
     {
         "name": "BullDude_ulti",
@@ -225,7 +236,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 34
     },
     {
         "name": "RocketGirl_unlock",
@@ -244,7 +256,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": null,
         "powerIcon2ExportName": null,
-        "sortOrder": "5"
+        "sortOrder": "5",
+        "id": 35
     },
     {
         "name": "RocketGirl_hp",
@@ -263,7 +276,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 36
     },
     {
         "name": "RocketGirl_abi",
@@ -282,7 +296,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 37
     },
     {
         "name": "RocketGirl_ulti",
@@ -301,7 +316,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 38
     },
     {
         "name": "TrickshotDude_unlock",
@@ -320,7 +336,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": null,
         "powerIcon2ExportName": null,
-        "sortOrder": "11"
+        "sortOrder": "11",
+        "id": 39
     },
     {
         "name": "TrickshotDude_hp",
@@ -339,7 +356,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 40
     },
     {
         "name": "TrickshotDude_abi",
@@ -358,7 +376,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 41
     },
     {
         "name": "TrickshotDude_ulti",
@@ -377,7 +396,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 42
     },
     {
         "name": "Cactus_unlock",
@@ -396,7 +416,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": null,
         "powerIcon2ExportName": null,
-        "sortOrder": "19"
+        "sortOrder": "19",
+        "id": 43
     },
     {
         "name": "Cactus_hp",
@@ -415,7 +436,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 44
     },
     {
         "name": "Cactus_abi",
@@ -434,7 +456,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 45
     },
     {
         "name": "Cactus_ulti",
@@ -453,7 +476,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 46
     },
     {
         "name": "Barkeep_unlock",
@@ -472,7 +496,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": null,
         "powerIcon2ExportName": null,
-        "sortOrder": "9"
+        "sortOrder": "9",
+        "id": 47
     },
     {
         "name": "Barkeep_hp",
@@ -491,7 +516,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 48
     },
     {
         "name": "Barkeep_abi",
@@ -510,7 +536,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 49
     },
     {
         "name": "Barkeep_ulti",
@@ -529,7 +556,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 50
     },
     {
         "name": "Mechanic_unlock",
@@ -548,7 +576,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": null,
         "powerIcon2ExportName": null,
-        "sortOrder": "4"
+        "sortOrder": "4",
+        "id": 51
     },
     {
         "name": "Mechanic_hp",
@@ -567,7 +596,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 52
     },
     {
         "name": "Mechanic_abi",
@@ -586,7 +616,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 53
     },
     {
         "name": "Mechanic_ulti",
@@ -605,7 +636,8 @@
         "powerNumber2TID": "Turret Health",
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": "genicon_health",
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 54
     },
     {
         "name": "Shaman_unlock",
@@ -624,7 +656,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": null,
         "powerIcon2ExportName": null,
-        "sortOrder": "1"
+        "sortOrder": "1",
+        "id": 55
     },
     {
         "name": "Shaman_hp",
@@ -643,7 +676,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 56
     },
     {
         "name": "Shaman_abi",
@@ -662,7 +696,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 57
     },
     {
         "name": "Shaman_ulti",
@@ -681,7 +716,8 @@
         "powerNumber2TID": "Bear Health",
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": "genicon_health",
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 58
     },
     {
         "name": "TntDude_unlock",
@@ -700,7 +736,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": null,
         "powerIcon2ExportName": null,
-        "sortOrder": "6"
+        "sortOrder": "6",
+        "id": 59
     },
     {
         "name": "TntDude_hp",
@@ -719,7 +756,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 60
     },
     {
         "name": "TntDude_abi",
@@ -738,7 +776,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 61
     },
     {
         "name": "TntDude_ulti",
@@ -757,7 +796,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 62
     },
     {
         "name": "Luchador_unlock",
@@ -776,7 +816,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": null,
         "powerIcon2ExportName": null,
-        "sortOrder": "8"
+        "sortOrder": "8",
+        "id": 63
     },
     {
         "name": "Luchador_hp",
@@ -795,7 +836,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 64
     },
     {
         "name": "Luchador_abi",
@@ -814,7 +856,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 65
     },
     {
         "name": "Luchador_ulti",
@@ -833,7 +876,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 66
     },
     {
         "name": "Undertaker_unlock",
@@ -852,7 +896,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": null,
         "powerIcon2ExportName": null,
-        "sortOrder": "17"
+        "sortOrder": "17",
+        "id": 67
     },
     {
         "name": "Undertaker_hp",
@@ -871,7 +916,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 68
     },
     {
         "name": "Undertaker_abi",
@@ -890,7 +936,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 69
     },
     {
         "name": "Undertaker_ulti",
@@ -909,7 +956,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 70
     },
     {
         "name": "Crow_unlock",
@@ -928,7 +976,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": null,
         "powerIcon2ExportName": null,
-        "sortOrder": "20"
+        "sortOrder": "20",
+        "id": 71
     },
     {
         "name": "Crow_hp",
@@ -947,7 +996,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 72
     },
     {
         "name": "Crow_abi",
@@ -966,7 +1016,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 73
     },
     {
         "name": "Crow_ulti",
@@ -985,7 +1036,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 74
     },
     {
         "name": "DeadMariachi_unlock",
@@ -1004,7 +1056,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": null,
         "powerIcon2ExportName": null,
-        "sortOrder": "10"
+        "sortOrder": "10",
+        "id": 75
     },
     {
         "name": "DeadMariachi_hp",
@@ -1023,7 +1076,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 76
     },
     {
         "name": "DeadMariachi_abi",
@@ -1042,7 +1096,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 77
     },
     {
         "name": "DeadMariachi_ulti",
@@ -1061,7 +1116,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 78
     },
     {
         "name": "BowDude_unlock",
@@ -1080,7 +1136,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": null,
         "powerIcon2ExportName": null,
-        "sortOrder": "7"
+        "sortOrder": "7",
+        "id": 79
     },
     {
         "name": "BowDude_hp",
@@ -1099,7 +1156,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 80
     },
     {
         "name": "BowDude_abi",
@@ -1118,7 +1176,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 81
     },
     {
         "name": "BowDude_ulti",
@@ -1137,7 +1196,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 82
     },
     {
         "name": "Sniper_unlock",
@@ -1156,7 +1216,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": null,
         "powerIcon2ExportName": null,
-        "sortOrder": "14"
+        "sortOrder": "14",
+        "id": 83
     },
     {
         "name": "Sniper_hp",
@@ -1175,7 +1236,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 84
     },
     {
         "name": "Sniper_abi",
@@ -1194,7 +1256,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 85
     },
     {
         "name": "Sniper_ulti",
@@ -1213,7 +1276,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 86
     },
     {
         "name": "MinigunDude_unlock",
@@ -1232,7 +1296,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": null,
         "powerIcon2ExportName": null,
-        "sortOrder": "15"
+        "sortOrder": "15",
+        "id": 87
     },
     {
         "name": "MinigunDude_hp",
@@ -1251,7 +1316,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 88
     },
     {
         "name": "MinigunDude_abi",
@@ -1270,7 +1336,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 89
     },
     {
         "name": "MinigunDude_ulti",
@@ -1289,7 +1356,8 @@
         "powerNumber2TID": "Turret Health",
         "powerIcon1ExportName": "genicon_heal",
         "powerIcon2ExportName": "genicon_health",
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 90
     },
     {
         "name": "BlackHole_unlock",
@@ -1308,7 +1376,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": null,
         "powerIcon2ExportName": null,
-        "sortOrder": "18"
+        "sortOrder": "18",
+        "id": 91
     },
     {
         "name": "BlackHole_hp",
@@ -1327,7 +1396,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 92
     },
     {
         "name": "BlackHole_abi",
@@ -1346,7 +1416,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 93
     },
     {
         "name": "BlackHole_ulti",
@@ -1365,7 +1436,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 94
     },
     {
         "name": "BarrelBot_unlock",
@@ -1384,7 +1456,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": null,
         "powerIcon2ExportName": null,
-        "sortOrder": "12"
+        "sortOrder": "12",
+        "id": 95
     },
     {
         "name": "BarrelBot_hp",
@@ -1403,7 +1476,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 96
     },
     {
         "name": "BarrelBot_abi",
@@ -1422,7 +1496,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 97
     },
     {
         "name": "BarrelBot_ulti",
@@ -1441,7 +1516,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 98
     },
     {
         "name": "ShotgunGirl_unique",
@@ -1460,7 +1536,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 99
     },
     {
         "name": "Gunslinger_unique",
@@ -1479,7 +1556,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 100
     },
     {
         "name": "BullDude_unique",
@@ -1498,7 +1576,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 101
     },
     {
         "name": "RocketGirl_unique",
@@ -1517,7 +1596,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 102
     },
     {
         "name": "TrickshotDude_unique",
@@ -1536,7 +1616,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 103
     },
     {
         "name": "Cactus_unique",
@@ -1555,7 +1636,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 104
     },
     {
         "name": "Barkeep_unique",
@@ -1574,7 +1656,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 105
     },
     {
         "name": "Mechanic_unique",
@@ -1593,7 +1676,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 106
     },
     {
         "name": "Shaman_unique",
@@ -1612,7 +1696,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 107
     },
     {
         "name": "TntDude_unique",
@@ -1631,7 +1716,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 108
     },
     {
         "name": "Luchador_unique",
@@ -1650,7 +1736,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 109
     },
     {
         "name": "Undertaker_unique",
@@ -1669,7 +1756,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 110
     },
     {
         "name": "Crow_unique",
@@ -1688,7 +1776,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 111
     },
     {
         "name": "DeadMariachi_unique",
@@ -1707,7 +1796,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 112
     },
     {
         "name": "BowDude_unique",
@@ -1726,7 +1816,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 113
     },
     {
         "name": "Sniper_unique",
@@ -1745,7 +1836,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 114
     },
     {
         "name": "MinigunDude_unique",
@@ -1764,7 +1856,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 115
     },
     {
         "name": "BlackHole_unique",
@@ -1783,7 +1876,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 116
     },
     {
         "name": "BarrelBot_unique",
@@ -1802,7 +1896,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 117
     },
     {
         "name": "ArtilleryDude_unlock",
@@ -1821,7 +1916,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": null,
         "powerIcon2ExportName": null,
-        "sortOrder": "13"
+        "sortOrder": "13",
+        "id": 118
     },
     {
         "name": "ArtilleryDude_hp",
@@ -1840,7 +1936,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 119
     },
     {
         "name": "ArtilleryDude_abi",
@@ -1859,7 +1956,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 120
     },
     {
         "name": "ArtilleryDude_ulti",
@@ -1878,7 +1976,8 @@
         "powerNumber2TID": "Cannon Health",
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": "genicon_health",
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 121
     },
     {
         "name": "ArtilleryDude_unique",
@@ -1897,7 +1996,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 122
     },
     {
         "name": "HammerDude_unlock",
@@ -1916,7 +2016,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": null,
         "powerIcon2ExportName": null,
-        "sortOrder": "16"
+        "sortOrder": "16",
+        "id": 123
     },
     {
         "name": "HammerDude_hp",
@@ -1935,7 +2036,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 124
     },
     {
         "name": "HammerDude_abi",
@@ -1954,7 +2056,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 125
     },
     {
         "name": "HammerDude_ulti",
@@ -1973,7 +2076,8 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": "genicon_health",
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 126
     },
     {
         "name": "HammerDude_unique",
@@ -1992,6 +2096,7 @@
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
-        "sortOrder": null
+        "sortOrder": null,
+        "id": 127
     }
 ]

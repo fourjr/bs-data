@@ -40,7 +40,8 @@
         "useEffect": null,
         "endEffect": null,
         "loopEffect": null,
-        "chargeMoveSound": null
+        "chargeMoveSound": null,
+        "id": 20
     },
     {
         "name": "ShotgunGirlUlti",
@@ -83,7 +84,8 @@
         "useEffect": null,
         "endEffect": null,
         "loopEffect": null,
-        "chargeMoveSound": null
+        "chargeMoveSound": null,
+        "id": 21
     },
     {
         "name": "GunslingerWeapon",
@@ -126,7 +128,8 @@
         "useEffect": null,
         "endEffect": null,
         "loopEffect": null,
-        "chargeMoveSound": null
+        "chargeMoveSound": null,
+        "id": 22
     },
     {
         "name": "GunslingerUlti",
@@ -169,7 +172,8 @@
         "useEffect": null,
         "endEffect": null,
         "loopEffect": null,
-        "chargeMoveSound": null
+        "chargeMoveSound": null,
+        "id": 23
     },
     {
         "name": "BullDudeWeapon",
@@ -212,7 +216,8 @@
         "useEffect": null,
         "endEffect": null,
         "loopEffect": null,
-        "chargeMoveSound": null
+        "chargeMoveSound": null,
+        "id": 24
     },
     {
         "name": "BullDudeUlti",
@@ -255,7 +260,8 @@
         "useEffect": "bull_dude_ulti",
         "endEffect": null,
         "loopEffect": "bull_dude_ulti_loop",
-        "chargeMoveSound": "Rhinostep"
+        "chargeMoveSound": "Rhinostep",
+        "id": 25
     },
     {
         "name": "RocketGirlWeapon",
@@ -298,7 +304,8 @@
         "useEffect": null,
         "endEffect": null,
         "loopEffect": null,
-        "chargeMoveSound": null
+        "chargeMoveSound": null,
+        "id": 26
     },
     {
         "name": "RocketGirlUlti",
@@ -341,7 +348,8 @@
         "useEffect": null,
         "endEffect": null,
         "loopEffect": null,
-        "chargeMoveSound": null
+        "chargeMoveSound": null,
+        "id": 27
     },
     {
         "name": "TrickshotDudeWeapon",
@@ -384,7 +392,8 @@
         "useEffect": null,
         "endEffect": null,
         "loopEffect": null,
-        "chargeMoveSound": null
+        "chargeMoveSound": null,
+        "id": 28
     },
     {
         "name": "TrickshotDudeUlti",
@@ -427,7 +436,8 @@
         "useEffect": null,
         "endEffect": null,
         "loopEffect": null,
-        "chargeMoveSound": null
+        "chargeMoveSound": null,
+        "id": 29
     },
     {
         "name": "CactusWeapon",
@@ -470,7 +480,8 @@
         "useEffect": null,
         "endEffect": null,
         "loopEffect": null,
-        "chargeMoveSound": null
+        "chargeMoveSound": null,
+        "id": 30
     },
     {
         "name": "CactusUlti",
@@ -513,7 +524,8 @@
         "useEffect": null,
         "endEffect": null,
         "loopEffect": null,
-        "chargeMoveSound": null
+        "chargeMoveSound": null,
+        "id": 31
     },
     {
         "name": "BarkeepWeapon",
@@ -556,7 +568,8 @@
         "useEffect": null,
         "endEffect": null,
         "loopEffect": null,
-        "chargeMoveSound": null
+        "chargeMoveSound": null,
+        "id": 32
     },
     {
         "name": "BarkeepUlti",
@@ -599,7 +612,8 @@
         "useEffect": null,
         "endEffect": null,
         "loopEffect": null,
-        "chargeMoveSound": null
+        "chargeMoveSound": null,
+        "id": 33
     },
     {
         "name": "MechanicWeapon",
@@ -642,7 +656,8 @@
         "useEffect": null,
         "endEffect": null,
         "loopEffect": null,
-        "chargeMoveSound": null
+        "chargeMoveSound": null,
+        "id": 34
     },
     {
         "name": "MechanicUlti",
@@ -685,7 +700,8 @@
         "useEffect": null,
         "endEffect": null,
         "loopEffect": null,
-        "chargeMoveSound": null
+        "chargeMoveSound": null,
+        "id": 35
     },
     {
         "name": "ShamanWeapon",
@@ -728,7 +744,8 @@
         "useEffect": null,
         "endEffect": null,
         "loopEffect": null,
-        "chargeMoveSound": null
+        "chargeMoveSound": null,
+        "id": 36
     },
     {
         "name": "ShamanUlti",
@@ -771,7 +788,8 @@
         "useEffect": null,
         "endEffect": null,
         "loopEffect": null,
-        "chargeMoveSound": null
+        "chargeMoveSound": null,
+        "id": 37
     },
     {
         "name": "TntDudeWeapon",
@@ -814,7 +832,8 @@
         "useEffect": null,
         "endEffect": null,
         "loopEffect": null,
-        "chargeMoveSound": null
+        "chargeMoveSound": null,
+        "id": 38
     },
     {
         "name": "TntDudeUlti",
@@ -857,7 +876,8 @@
         "useEffect": null,
         "endEffect": null,
         "loopEffect": null,
-        "chargeMoveSound": null
+        "chargeMoveSound": null,
+        "id": 39
     },
     {
         "name": "LuchadorWeapon",
@@ -900,7 +920,8 @@
         "useEffect": null,
         "endEffect": null,
         "loopEffect": null,
-        "chargeMoveSound": null
+        "chargeMoveSound": null,
+        "id": 40
     },
     {
         "name": "LuchadorUlti",
@@ -943,7 +964,8 @@
         "useEffect": "luchador_ulti",
         "endEffect": "luchador_ulti_ground_hit",
         "loopEffect": null,
-        "chargeMoveSound": null
+        "chargeMoveSound": null,
+        "id": 41
     },
     {
         "name": "UndertakerWeapon",
@@ -986,7 +1008,8 @@
         "useEffect": "undertaker_attack",
         "endEffect": null,
         "loopEffect": null,
-        "chargeMoveSound": null
+        "chargeMoveSound": null,
+        "id": 42
     },
     {
         "name": "UndertakerUlti",
@@ -1029,7 +1052,8 @@
         "useEffect": null,
         "endEffect": null,
         "loopEffect": null,
-        "chargeMoveSound": null
+        "chargeMoveSound": null,
+        "id": 43
     },
     {
         "name": "CrowWeapon",
@@ -1072,7 +1096,8 @@
         "useEffect": null,
         "endEffect": null,
         "loopEffect": null,
-        "chargeMoveSound": null
+        "chargeMoveSound": null,
+        "id": 44
     },
     {
         "name": "CrowUlti",
@@ -1115,7 +1140,8 @@
         "useEffect": "crow_ulti",
         "endEffect": null,
         "loopEffect": null,
-        "chargeMoveSound": null
+        "chargeMoveSound": null,
+        "id": 45
     },
     {
         "name": "DeadMariachiWeapon",
@@ -1158,7 +1184,8 @@
         "useEffect": null,
         "endEffect": null,
         "loopEffect": null,
-        "chargeMoveSound": null
+        "chargeMoveSound": null,
+        "id": 46
     },
     {
         "name": "DeadMariachiUlti",
@@ -1201,7 +1228,8 @@
         "useEffect": null,
         "endEffect": null,
         "loopEffect": null,
-        "chargeMoveSound": null
+        "chargeMoveSound": null,
+        "id": 47
     },
     {
         "name": "BowDudeWeapon",
@@ -1244,7 +1272,8 @@
         "useEffect": null,
         "endEffect": null,
         "loopEffect": null,
-        "chargeMoveSound": null
+        "chargeMoveSound": null,
+        "id": 48
     },
     {
         "name": "BowDudeUlti",
@@ -1287,7 +1316,8 @@
         "useEffect": null,
         "endEffect": null,
         "loopEffect": null,
-        "chargeMoveSound": null
+        "chargeMoveSound": null,
+        "id": 49
     },
     {
         "name": "SniperWeapon",
@@ -1330,7 +1360,8 @@
         "useEffect": null,
         "endEffect": null,
         "loopEffect": null,
-        "chargeMoveSound": null
+        "chargeMoveSound": null,
+        "id": 50
     },
     {
         "name": "SniperUlti",
@@ -1373,7 +1404,8 @@
         "useEffect": "sniper_ulti",
         "endEffect": "sniper_landing_smoke_ring",
         "loopEffect": null,
-        "chargeMoveSound": null
+        "chargeMoveSound": null,
+        "id": 51
     },
     {
         "name": "MinigunDudeWeapon",
@@ -1416,7 +1448,8 @@
         "useEffect": null,
         "endEffect": null,
         "loopEffect": null,
-        "chargeMoveSound": null
+        "chargeMoveSound": null,
+        "id": 52
     },
     {
         "name": "MinigunDudeUlti",
@@ -1459,7 +1492,8 @@
         "useEffect": null,
         "endEffect": null,
         "loopEffect": null,
-        "chargeMoveSound": null
+        "chargeMoveSound": null,
+        "id": 53
     },
     {
         "name": "BlackHoleWeapon",
@@ -1502,7 +1536,8 @@
         "useEffect": null,
         "endEffect": null,
         "loopEffect": null,
-        "chargeMoveSound": null
+        "chargeMoveSound": null,
+        "id": 54
     },
     {
         "name": "BlackHoleUlti",
@@ -1545,7 +1580,8 @@
         "useEffect": null,
         "endEffect": null,
         "loopEffect": null,
-        "chargeMoveSound": null
+        "chargeMoveSound": null,
+        "id": 55
     },
     {
         "name": "BarrelBotWeapon",
@@ -1588,7 +1624,8 @@
         "useEffect": null,
         "endEffect": null,
         "loopEffect": null,
-        "chargeMoveSound": null
+        "chargeMoveSound": null,
+        "id": 56
     },
     {
         "name": "BarrelBotUlti",
@@ -1631,7 +1668,8 @@
         "useEffect": "barrel_bot_ulti",
         "endEffect": null,
         "loopEffect": "barrel_bot_ulti_loop",
-        "chargeMoveSound": "Barrelbot_step"
+        "chargeMoveSound": "Barrelbot_step",
+        "id": 57
     },
     {
         "name": "ArtilleryDudeWeapon",
@@ -1674,7 +1712,8 @@
         "useEffect": null,
         "endEffect": null,
         "loopEffect": null,
-        "chargeMoveSound": null
+        "chargeMoveSound": null,
+        "id": 58
     },
     {
         "name": "ArtilleryDudeUlti",
@@ -1717,7 +1756,8 @@
         "useEffect": null,
         "endEffect": null,
         "loopEffect": null,
-        "chargeMoveSound": null
+        "chargeMoveSound": null,
+        "id": 59
     },
     {
         "name": "Warp",
@@ -1760,7 +1800,8 @@
         "useEffect": null,
         "endEffect": null,
         "loopEffect": null,
-        "chargeMoveSound": null
+        "chargeMoveSound": null,
+        "id": 60
     },
     {
         "name": "Invisibility",
@@ -1803,7 +1844,8 @@
         "useEffect": null,
         "endEffect": null,
         "loopEffect": null,
-        "chargeMoveSound": null
+        "chargeMoveSound": null,
+        "id": 61
     },
     {
         "name": "SupplyCrate",
@@ -1846,7 +1888,8 @@
         "useEffect": null,
         "endEffect": null,
         "loopEffect": null,
-        "chargeMoveSound": null
+        "chargeMoveSound": null,
+        "id": 62
     },
     {
         "name": "Bow",
@@ -1889,7 +1932,8 @@
         "useEffect": null,
         "endEffect": null,
         "loopEffect": null,
-        "chargeMoveSound": null
+        "chargeMoveSound": null,
+        "id": 63
     },
     {
         "name": "BouncingForceBall",
@@ -1932,7 +1976,8 @@
         "useEffect": null,
         "endEffect": null,
         "loopEffect": null,
-        "chargeMoveSound": null
+        "chargeMoveSound": null,
+        "id": 64
     },
     {
         "name": "DummySkillForLaserBall",
@@ -1975,7 +2020,8 @@
         "useEffect": null,
         "endEffect": null,
         "loopEffect": null,
-        "chargeMoveSound": null
+        "chargeMoveSound": null,
+        "id": 65
     },
     {
         "name": "DummyUltiSkillForLaserBall",
@@ -2018,7 +2064,8 @@
         "useEffect": null,
         "endEffect": null,
         "loopEffect": null,
-        "chargeMoveSound": null
+        "chargeMoveSound": null,
+        "id": 66
     },
     {
         "name": "BossRapidFire",
@@ -2061,7 +2108,8 @@
         "useEffect": null,
         "endEffect": null,
         "loopEffect": null,
-        "chargeMoveSound": null
+        "chargeMoveSound": null,
+        "id": 67
     },
     {
         "name": "BossCharge",
@@ -2104,7 +2152,8 @@
         "useEffect": null,
         "endEffect": null,
         "loopEffect": "bull_dude_ulti_loop",
-        "chargeMoveSound": null
+        "chargeMoveSound": null,
+        "id": 68
     },
     {
         "name": "MeleeEnemyCharge",
@@ -2147,7 +2196,8 @@
         "useEffect": null,
         "endEffect": null,
         "loopEffect": "bull_dude_ulti_loop",
-        "chargeMoveSound": "Rhinostep"
+        "chargeMoveSound": "Rhinostep",
+        "id": 69
     },
     {
         "name": "HammerDudeWeapon",
@@ -2190,7 +2240,8 @@
         "useEffect": "hammer_dude_start_attack",
         "endEffect": null,
         "loopEffect": null,
-        "chargeMoveSound": null
+        "chargeMoveSound": null,
+        "id": 70
     },
     {
         "name": "HammerDudeUlti",
@@ -2233,6 +2284,7 @@
         "useEffect": "hammer_dude_start_ulti",
         "endEffect": null,
         "loopEffect": null,
-        "chargeMoveSound": null
+        "chargeMoveSound": null,
+        "id": 71
     }
 ]

@@ -24,7 +24,8 @@
         "shadowScaleY": "60",
         "shadowX": "-10",
         "shadowY": "60",
-        "shadowSkew": "25"
+        "shadowSkew": "25",
+        "id": 27
     },
     {
         "name": "Blocking1",
@@ -51,7 +52,8 @@
         "shadowScaleY": "60",
         "shadowX": "-10",
         "shadowY": "60",
-        "shadowSkew": "25"
+        "shadowSkew": "25",
+        "id": 28
     },
     {
         "name": "Blocking2",
@@ -78,7 +80,8 @@
         "shadowScaleY": "60",
         "shadowX": "-10",
         "shadowY": "60",
-        "shadowSkew": "25"
+        "shadowSkew": "25",
+        "id": 29
     },
     {
         "name": "Blocking3",
@@ -105,7 +108,8 @@
         "shadowScaleY": "60",
         "shadowX": "-10",
         "shadowY": "60",
-        "shadowSkew": "25"
+        "shadowSkew": "25",
+        "id": 30
     },
     {
         "name": "Blocking4",
@@ -132,7 +136,8 @@
         "shadowScaleY": "60",
         "shadowX": "-10",
         "shadowY": "60",
-        "shadowSkew": "25"
+        "shadowSkew": "25",
+        "id": 31
     },
     {
         "name": "DecoDestructible",
@@ -159,7 +164,8 @@
         "shadowScaleY": "60",
         "shadowX": "-10",
         "shadowY": "60",
-        "shadowSkew": "25"
+        "shadowSkew": "25",
+        "id": 32
     },
     {
         "name": "Indestructible",
@@ -186,7 +192,8 @@
         "shadowScaleY": "60",
         "shadowX": "-10",
         "shadowY": "60",
-        "shadowSkew": "25"
+        "shadowSkew": "25",
+        "id": 33
     },
     {
         "name": "Forest",
@@ -213,7 +220,8 @@
         "shadowScaleY": "60",
         "shadowX": "-10",
         "shadowY": "60",
-        "shadowSkew": "25"
+        "shadowSkew": "25",
+        "id": 34
     },
     {
         "name": "RespawningForest",
@@ -240,7 +248,8 @@
         "shadowScaleY": "60",
         "shadowX": "-10",
         "shadowY": "60",
-        "shadowSkew": "25"
+        "shadowSkew": "25",
+        "id": 35
     },
     {
         "name": "Water",
@@ -267,7 +276,8 @@
         "shadowScaleY": "60",
         "shadowX": "-10",
         "shadowY": "60",
-        "shadowSkew": "25"
+        "shadowSkew": "25",
+        "id": 36
     },
     {
         "name": "RespawningWall",
@@ -294,7 +304,8 @@
         "shadowScaleY": "60",
         "shadowX": "-10",
         "shadowY": "60",
-        "shadowSkew": "25"
+        "shadowSkew": "25",
+        "id": 37
     },
     {
         "name": "InvisibleWater",
@@ -321,7 +332,8 @@
         "shadowScaleY": "60",
         "shadowX": "-10",
         "shadowY": "60",
-        "shadowSkew": "25"
+        "shadowSkew": "25",
+        "id": 38
     },
     {
         "name": "BlockingDestroyableWithWeapon",
@@ -348,7 +360,8 @@
         "shadowScaleY": "60",
         "shadowX": "-10",
         "shadowY": "60",
-        "shadowSkew": "25"
+        "shadowSkew": "25",
+        "id": 39
     },
     {
         "name": "Fence",
@@ -375,6 +388,7 @@
         "shadowScaleY": "60",
         "shadowX": "-10",
         "shadowY": "30",
-        "shadowSkew": "25"
+        "shadowSkew": "25",
+        "id": 40
     }
 ]

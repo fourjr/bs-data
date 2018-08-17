@@ -7,6 +7,8 @@ import os
 import csv
 import json
 
+import yaml
+
 if __name__ == '__main__':
     with open('csv/texts.csv', encoding='utf-8') as f:
         reader = csv.DictReader(f)
@@ -17,6 +19,9 @@ if __name__ == '__main__':
             if n == 0:
                 continue
             TID[row['TID']] = row['EN']
+
+    with open('config.yml', encoding='utf-8') as f:
+        config = yaml.load(f)
 
     csv_files = ['csv/csv_client/' + i for i in os.listdir('csv/csv_client') if i.endswith('.csv')] + \
                 ['csv/csv_logic/' + i for i in os.listdir('csv/csv_logic') if i.endswith('.csv')]
@@ -33,13 +38,16 @@ if __name__ == '__main__':
                     continue
                 data.append({title[i][:1].lower() + title[i][1:]: row[title[i]] for i in range(len(title))})
 
-            for i in data:
+            for n, i in enumerate(data):
+                if file in config['id']:
+                    i['id'] = config['id'][file] + n
                 for j in i:
-                    if i[j].startswith('TID_'):
-                        try:
-                            i[j] = TID[i[j]]
-                        except KeyError:
-                            pass
+                    if isinstance(i[j], str):
+                        if i[j].startswith('TID_'):
+                            try:
+                                i[j] = TID[i[j]]
+                            except KeyError:
+                                pass
                     if i[j] == '':
                         i[j] = None
 

@@ -12,7 +12,8 @@
         "starterPackNumber": null,
         "gatchaBox": null,
         "xpLevelReq": null,
-        "valueFactor": null
+        "valueFactor": null,
+        "id": 2
     },
     {
         "name": "com.supercell.laser.gempack1",
@@ -27,7 +28,8 @@
         "starterPackNumber": null,
         "gatchaBox": null,
         "xpLevelReq": null,
-        "valueFactor": null
+        "valueFactor": null,
+        "id": 3
     },
     {
         "name": "com.supercell.laser.gempack2",
@@ -42,7 +44,8 @@
         "starterPackNumber": null,
         "gatchaBox": null,
         "xpLevelReq": null,
-        "valueFactor": null
+        "valueFactor": null,
+        "id": 4
     },
     {
         "name": "com.supercell.laser.gempack3",
@@ -57,7 +60,8 @@
         "starterPackNumber": null,
         "gatchaBox": null,
         "xpLevelReq": null,
-        "valueFactor": null
+        "valueFactor": null,
+        "id": 5
     },
     {
         "name": "com.supercell.laser.gempack4",
@@ -72,7 +76,8 @@
         "starterPackNumber": null,
         "gatchaBox": null,
         "xpLevelReq": null,
-        "valueFactor": null
+        "valueFactor": null,
+        "id": 6
     },
     {
         "name": "com.supercell.laser.gempack5",
@@ -87,7 +92,8 @@
         "starterPackNumber": null,
         "gatchaBox": null,
         "xpLevelReq": null,
-        "valueFactor": null
+        "valueFactor": null,
+        "id": 7
     },
     {
         "name": "com.supercell.laser.starterpack1",
@@ -102,7 +108,8 @@
         "starterPackNumber": "1",
         "gatchaBox": "3",
         "xpLevelReq": "5",
-        "valueFactor": "5"
+        "valueFactor": "5",
+        "id": 8
     },
     {
         "name": "com.supercell.laser.starterpack2",
@@ -117,7 +124,8 @@
         "starterPackNumber": "2",
         "gatchaBox": "3",
         "xpLevelReq": "15",
-        "valueFactor": "3"
+        "valueFactor": "3",
+        "id": 9
     },
     {
         "name": "com.supercell.laser.starterpack3",
@@ -132,7 +140,8 @@
         "starterPackNumber": "3",
         "gatchaBox": "3",
         "xpLevelReq": "25",
-        "valueFactor": "2"
+        "valueFactor": "2",
+        "id": 10
     },
     {
         "name": "com.supercell.laser.starterpack4",
@@ -147,6 +156,7 @@
         "starterPackNumber": "4",
         "gatchaBox": "3",
         "xpLevelReq": "35",
-        "valueFactor": "2"
+        "valueFactor": "2",
+        "id": 11
     }
 ]

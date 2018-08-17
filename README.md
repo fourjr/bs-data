@@ -1,3 +1,3 @@
-# Brawl Stars Data
+# Constants
 
-This data is retrieved from csv files in the game's APK.
+This is where CSV files get converted to JSONs

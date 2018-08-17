@@ -5,6 +5,7 @@
         "iconExportName": "flag_gb",
         "localizedName": "English",
         "enabled": "true",
-        "fileName": "localization/texts.csv"
+        "fileName": "localization/texts.csv",
+        "id": 1
     }
 ]

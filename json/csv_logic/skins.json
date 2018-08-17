@@ -47,7 +47,8 @@
         "hatScaleIngame": "100",
         "petInSameSprite": null,
         "mainAttackProjectile": null,
-        "ultiProjectile": null
+        "ultiProjectile": null,
+        "id": 29
     },
     {
         "name": "GunSlingerDefault",
@@ -97,7 +98,8 @@
         "hatScaleIngame": "100",
         "petInSameSprite": null,
         "mainAttackProjectile": null,
-        "ultiProjectile": null
+        "ultiProjectile": null,
+        "id": 30
     },
     {
         "name": "GunSlingerRockstar",
@@ -147,7 +149,8 @@
         "hatScaleIngame": "100",
         "petInSameSprite": null,
         "mainAttackProjectile": null,
-        "ultiProjectile": null
+        "ultiProjectile": null,
+        "id": 31
     },
     {
         "name": "BullGuyDefault",
@@ -197,7 +200,8 @@
         "hatScaleIngame": "100",
         "petInSameSprite": null,
         "mainAttackProjectile": null,
-        "ultiProjectile": null
+        "ultiProjectile": null,
+        "id": 32
     },
     {
         "name": "RocketGirlDefault",
@@ -247,7 +251,8 @@
         "hatScaleIngame": "100",
         "petInSameSprite": null,
         "mainAttackProjectile": null,
-        "ultiProjectile": null
+        "ultiProjectile": null,
+        "id": 33
     },
     {
         "name": "RocketGirlBeach",
@@ -297,7 +302,8 @@
         "hatScaleIngame": "100",
         "petInSameSprite": null,
         "mainAttackProjectile": null,
-        "ultiProjectile": null
+        "ultiProjectile": null,
+        "id": 34
     },
     {
         "name": "TntGuyDefault",
@@ -347,7 +353,8 @@
         "hatScaleIngame": "100",
         "petInSameSprite": null,
         "mainAttackProjectile": null,
-        "ultiProjectile": null
+        "ultiProjectile": null,
+        "id": 35
     },
     {
         "name": "LuchadorDefault",
@@ -397,7 +404,8 @@
         "hatScaleIngame": "100",
         "petInSameSprite": null,
         "mainAttackProjectile": null,
-        "ultiProjectile": null
+        "ultiProjectile": null,
+        "id": 36
     },
     {
         "name": "TurretDefault",
@@ -447,7 +455,8 @@
         "hatScaleIngame": "100",
         "petInSameSprite": null,
         "mainAttackProjectile": null,
-        "ultiProjectile": null
+        "ultiProjectile": null,
+        "id": 37
     },
     {
         "name": "TrickshotDefault",
@@ -497,7 +506,8 @@
         "hatScaleIngame": "100",
         "petInSameSprite": null,
         "mainAttackProjectile": null,
-        "ultiProjectile": null
+        "ultiProjectile": null,
+        "id": 38
     },
     {
         "name": "CactusDefault",
@@ -547,7 +557,8 @@
         "hatScaleIngame": "100",
         "petInSameSprite": null,
         "mainAttackProjectile": null,
-        "ultiProjectile": null
+        "ultiProjectile": null,
+        "id": 39
     },
     {
         "name": "CactusPink",
@@ -597,7 +608,8 @@
         "hatScaleIngame": "100",
         "petInSameSprite": null,
         "mainAttackProjectile": null,
-        "ultiProjectile": null
+        "ultiProjectile": null,
+        "id": 40
     },
     {
         "name": "BarkeepDefault",
@@ -647,7 +659,8 @@
         "hatScaleIngame": "100",
         "petInSameSprite": null,
         "mainAttackProjectile": null,
-        "ultiProjectile": null
+        "ultiProjectile": null,
+        "id": 41
     },
     {
         "name": "MechanicDefault",
@@ -697,7 +710,8 @@
         "hatScaleIngame": "100",
         "petInSameSprite": null,
         "mainAttackProjectile": null,
-        "ultiProjectile": null
+        "ultiProjectile": null,
+        "id": 42
     },
     {
         "name": "ShamanDefault",
@@ -747,7 +761,8 @@
         "hatScaleIngame": "100",
         "petInSameSprite": null,
         "mainAttackProjectile": null,
-        "ultiProjectile": null
+        "ultiProjectile": null,
+        "id": 43
     },
     {
         "name": "ShamanPanda",
@@ -797,7 +812,8 @@
         "hatScaleIngame": "100",
         "petInSameSprite": null,
         "mainAttackProjectile": null,
-        "ultiProjectile": null
+        "ultiProjectile": null,
+        "id": 44
     },
     {
         "name": "ShamanBearDefault",
@@ -847,7 +863,8 @@
         "hatScaleIngame": "100",
         "petInSameSprite": null,
         "mainAttackProjectile": null,
-        "ultiProjectile": null
+        "ultiProjectile": null,
+        "id": 45
     },
     {
         "name": "ShamanBearPanda",
@@ -897,7 +914,8 @@
         "hatScaleIngame": "100",
         "petInSameSprite": null,
         "mainAttackProjectile": null,
-        "ultiProjectile": null
+        "ultiProjectile": null,
+        "id": 46
     },
     {
         "name": "UndertakerDefault",
@@ -947,7 +965,8 @@
         "hatScaleIngame": "100",
         "petInSameSprite": null,
         "mainAttackProjectile": null,
-        "ultiProjectile": null
+        "ultiProjectile": null,
+        "id": 47
     },
     {
         "name": "CrowDefault",
@@ -997,7 +1016,8 @@
         "hatScaleIngame": "100",
         "petInSameSprite": null,
         "mainAttackProjectile": null,
-        "ultiProjectile": null
+        "ultiProjectile": null,
+        "id": 48
     },
     {
         "name": "CrowWhite",
@@ -1047,7 +1067,8 @@
         "hatScaleIngame": "100",
         "petInSameSprite": null,
         "mainAttackProjectile": null,
-        "ultiProjectile": null
+        "ultiProjectile": null,
+        "id": 49
     },
     {
         "name": "DeadMariachiDefault",
@@ -1097,7 +1118,8 @@
         "hatScaleIngame": "100",
         "petInSameSprite": null,
         "mainAttackProjectile": null,
-        "ultiProjectile": null
+        "ultiProjectile": null,
+        "id": 50
     },
     {
         "name": "BowDudeDefault",
@@ -1147,7 +1169,8 @@
         "hatScaleIngame": "100",
         "petInSameSprite": null,
         "mainAttackProjectile": null,
-        "ultiProjectile": null
+        "ultiProjectile": null,
+        "id": 51
     },
     {
         "name": "SniperDefault",
@@ -1197,7 +1220,8 @@
         "hatScaleIngame": "100",
         "petInSameSprite": null,
         "mainAttackProjectile": null,
-        "ultiProjectile": null
+        "ultiProjectile": null,
+        "id": 52
     },
     {
         "name": "MinigunDudeDefault",
@@ -1247,7 +1271,8 @@
         "hatScaleIngame": "100",
         "petInSameSprite": null,
         "mainAttackProjectile": null,
-        "ultiProjectile": null
+        "ultiProjectile": null,
+        "id": 53
     },
     {
         "name": "BullGuyHair",
@@ -1297,7 +1322,8 @@
         "hatScaleIngame": "100",
         "petInSameSprite": null,
         "mainAttackProjectile": null,
-        "ultiProjectile": null
+        "ultiProjectile": null,
+        "id": 54
     },
     {
         "name": "TrickshotGold",
@@ -1347,7 +1373,8 @@
         "hatScaleIngame": "100",
         "petInSameSprite": null,
         "mainAttackProjectile": null,
-        "ultiProjectile": null
+        "ultiProjectile": null,
+        "id": 55
     },
     {
         "name": "BarkeepGold",
@@ -1397,7 +1424,8 @@
         "hatScaleIngame": "100",
         "petInSameSprite": null,
         "mainAttackProjectile": null,
-        "ultiProjectile": null
+        "ultiProjectile": null,
+        "id": 56
     },
     {
         "name": "LuchadorRudo",
@@ -1447,7 +1475,8 @@
         "hatScaleIngame": "100",
         "petInSameSprite": null,
         "mainAttackProjectile": null,
-        "ultiProjectile": null
+        "ultiProjectile": null,
+        "id": 57
     },
     {
         "name": "BanditGirlBandita",
@@ -1497,7 +1526,8 @@
         "hatScaleIngame": "100",
         "petInSameSprite": null,
         "mainAttackProjectile": null,
-        "ultiProjectile": null
+        "ultiProjectile": null,
+        "id": 58
     },
     {
         "name": "LuchadorRey",
@@ -1547,7 +1577,8 @@
         "hatScaleIngame": "100",
         "petInSameSprite": null,
         "mainAttackProjectile": null,
-        "ultiProjectile": null
+        "ultiProjectile": null,
+        "id": 59
     },
     {
         "name": "BallDefault",
@@ -1597,7 +1628,8 @@
         "hatScaleIngame": "100",
         "petInSameSprite": null,
         "mainAttackProjectile": null,
-        "ultiProjectile": null
+        "ultiProjectile": null,
+        "id": 60
     },
     {
         "name": "BlackholeDefault",
@@ -1647,7 +1679,8 @@
         "hatScaleIngame": "100",
         "petInSameSprite": null,
         "mainAttackProjectile": null,
-        "ultiProjectile": null
+        "ultiProjectile": null,
+        "id": 61
     },
     {
         "name": "HealstationDefault",
@@ -1697,7 +1730,8 @@
         "hatScaleIngame": "100",
         "petInSameSprite": null,
         "mainAttackProjectile": null,
-        "ultiProjectile": null
+        "ultiProjectile": null,
+        "id": 62
     },
     {
         "name": "BarrelbotDefault",
@@ -1747,7 +1781,8 @@
         "hatScaleIngame": "100",
         "petInSameSprite": null,
         "mainAttackProjectile": null,
-        "ultiProjectile": null
+        "ultiProjectile": null,
+        "id": 63
     },
     {
         "name": "BlackholePetDefault",
@@ -1797,7 +1832,8 @@
         "hatScaleIngame": "100",
         "petInSameSprite": null,
         "mainAttackProjectile": null,
-        "ultiProjectile": null
+        "ultiProjectile": null,
+        "id": 64
     },
     {
         "name": "ShellyPetDefault",
@@ -1847,7 +1883,8 @@
         "hatScaleIngame": "100",
         "petInSameSprite": null,
         "mainAttackProjectile": null,
-        "ultiProjectile": null
+        "ultiProjectile": null,
+        "id": 65
     },
     {
         "name": "RangedBotDefault",
@@ -1897,7 +1934,8 @@
         "hatScaleIngame": "100",
         "petInSameSprite": null,
         "mainAttackProjectile": null,
-        "ultiProjectile": null
+        "ultiProjectile": null,
+        "id": 66
     },
     {
         "name": "MeleeFastBotDefault",
@@ -1947,7 +1985,8 @@
         "hatScaleIngame": "100",
         "petInSameSprite": null,
         "mainAttackProjectile": null,
-        "ultiProjectile": null
+        "ultiProjectile": null,
+        "id": 67
     },
     {
         "name": "MeleeBotDefault",
@@ -1997,7 +2036,8 @@
         "hatScaleIngame": "100",
         "petInSameSprite": null,
         "mainAttackProjectile": null,
-        "ultiProjectile": null
+        "ultiProjectile": null,
+        "id": 68
     },
     {
         "name": "BossBotDefault",
@@ -2047,7 +2087,8 @@
         "hatScaleIngame": "100",
         "petInSameSprite": null,
         "mainAttackProjectile": null,
-        "ultiProjectile": null
+        "ultiProjectile": null,
+        "id": 69
     },
     {
         "name": "ArtilleryGalDefault",
@@ -2097,7 +2138,8 @@
         "hatScaleIngame": "100",
         "petInSameSprite": null,
         "mainAttackProjectile": null,
-        "ultiProjectile": null
+        "ultiProjectile": null,
+        "id": 70
     },
     {
         "name": "FrankDefault",
@@ -2147,7 +2189,8 @@
         "hatScaleIngame": "100",
         "petInSameSprite": null,
         "mainAttackProjectile": null,
-        "ultiProjectile": null
+        "ultiProjectile": null,
+        "id": 71
     },
     {
         "name": "ArtilleryTurretDefault",
@@ -2197,7 +2240,8 @@
         "hatScaleIngame": "100",
         "petInSameSprite": null,
         "mainAttackProjectile": null,
-        "ultiProjectile": null
+        "ultiProjectile": null,
+        "id": 72
     },
     {
         "name": "MechanicKnight",
@@ -2247,7 +2291,8 @@
         "hatScaleIngame": "100",
         "petInSameSprite": "true",
         "mainAttackProjectile": null,
-        "ultiProjectile": null
+        "ultiProjectile": null,
+        "id": 73
     },
     {
         "name": "FrankCaveman",
@@ -2297,7 +2342,8 @@
         "hatScaleIngame": "100",
         "petInSameSprite": null,
         "mainAttackProjectile": null,
-        "ultiProjectile": null
+        "ultiProjectile": null,
+        "id": 74
     },
     {
         "name": "TurretDragon",
@@ -2347,7 +2393,8 @@
         "hatScaleIngame": "100",
         "petInSameSprite": null,
         "mainAttackProjectile": null,
-        "ultiProjectile": null
+        "ultiProjectile": null,
+        "id": 75
     },
     {
         "name": "MechanicSummer",
@@ -2397,7 +2444,8 @@
         "hatScaleIngame": "100",
         "petInSameSprite": null,
         "mainAttackProjectile": null,
-        "ultiProjectile": null
+        "ultiProjectile": null,
+        "id": 76
     },
     {
         "name": "TurretSummertime",
@@ -2447,7 +2495,8 @@
         "hatScaleIngame": "100",
         "petInSameSprite": null,
         "mainAttackProjectile": null,
-        "ultiProjectile": null
+        "ultiProjectile": null,
+        "id": 77
     },
     {
         "name": "CrowPheonix",
@@ -2497,6 +2546,7 @@
         "hatScaleIngame": "100",
         "petInSameSprite": null,
         "mainAttackProjectile": "CrowProjectileFlame",
-        "ultiProjectile": "CrowUltiProjectileFlame"
+        "ultiProjectile": "CrowUltiProjectileFlame",
+        "id": 78
     }
 ]

@@ -6,7 +6,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 9
     },
     {
         "name": "FEEDBACK_EMAIL_ANDROID",
@@ -15,7 +16,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 10
     },
     {
         "name": "GAME_FACEBOOK_URL",
@@ -24,7 +26,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 11
     },
     {
         "name": "GAME_WEIBO_URL",
@@ -33,7 +36,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 12
     },
     {
         "name": "GAME_APPBANK_URL",
@@ -42,7 +46,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 13
     },
     {
         "name": "GAME_EXTERNAL_URL",
@@ -51,7 +56,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 14
     },
     {
         "name": "GAME_TWITTER_URL",
@@ -60,7 +66,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 15
     },
     {
         "name": "GAME_TWITTER_URL_JP",
@@ -69,7 +76,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 16
     },
     {
         "name": "TOS_URL",
@@ -78,7 +86,8 @@
         "textValue": "http://www.supercell.net/terms-of-service",
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 17
     },
     {
         "name": "PRIVACY_POLICY_URL_JP",
@@ -87,7 +96,8 @@
         "textValue": "http://supercell.co.jp/privacy-policy.html",
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 18
     },
     {
         "name": "TOS_URL_JP",
@@ -96,7 +106,8 @@
         "textValue": "http://supercell.co.jp/terms-of-service.html",
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 19
     },
     {
         "name": "PRIVACY_POLICY_URL_KR",
@@ -105,7 +116,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 20
     },
     {
         "name": "TOS_URL_KR",
@@ -114,7 +126,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 21
     },
     {
         "name": "HELP_CENTER_LANGUAGES",
@@ -123,7 +136,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": "EN",
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 22
     },
     {
         "name": null,
@@ -132,7 +146,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": "DE",
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 23
     },
     {
         "name": null,
@@ -141,7 +156,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": "IT",
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 24
     },
     {
         "name": null,
@@ -150,7 +166,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": "FR",
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 25
     },
     {
         "name": null,
@@ -159,7 +176,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": "ES",
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 26
     },
     {
         "name": null,
@@ -168,7 +186,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": "PT",
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 27
     },
     {
         "name": null,
@@ -177,7 +196,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": "NL",
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 28
     },
     {
         "name": null,
@@ -186,7 +206,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": "CN",
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 29
     },
     {
         "name": null,
@@ -195,7 +216,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": "JP",
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 30
     },
     {
         "name": null,
@@ -204,7 +226,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": "KR",
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 31
     },
     {
         "name": null,
@@ -213,7 +236,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": "TR",
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 32
     },
     {
         "name": null,
@@ -222,7 +246,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": "NO",
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 33
     },
     {
         "name": null,
@@ -231,7 +256,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": "RU",
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 34
     },
     {
         "name": "FAQ_URL",
@@ -240,7 +266,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 35
     },
     {
         "name": "FORUMS_URL",
@@ -249,7 +276,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 36
     },
     {
         "name": "PRIVACY_POLICY_URL",
@@ -258,7 +286,8 @@
         "textValue": "http://www.supercell.net/privacy-policy",
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 37
     },
     {
         "name": "FEEDBACK_CATEGORIES",
@@ -267,7 +296,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": "Purchasing Issue",
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 38
     },
     {
         "name": null,
@@ -276,7 +306,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": "Connection Issue",
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 39
     },
     {
         "name": null,
@@ -285,7 +316,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": "Report Problem",
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 40
     },
     {
         "name": null,
@@ -294,7 +326,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": "Feedback",
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 41
     },
     {
         "name": null,
@@ -303,7 +336,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": "Lost Village",
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 42
     },
     {
         "name": null,
@@ -312,7 +346,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": "Account Locked",
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 43
     },
     {
         "name": "FEEDBACK_CATEGORY_BANNED",
@@ -321,7 +356,8 @@
         "textValue": "Banned",
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 44
     },
     {
         "name": "APP_RATE_XP_LEVEL",
@@ -330,7 +366,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 45
     },
     {
         "name": "COME_BACK_NOTIFICATION_DELAY_HOURS_SMALL",
@@ -339,7 +376,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 46
     },
     {
         "name": "COME_BACK_NOTIFICATION_DELAY_HOURS_MEDIUM",
@@ -348,7 +386,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 47
     },
     {
         "name": "COME_BACK_NOTIFICATION_DELAY_HOURS_LARGE",
@@ -357,7 +396,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 48
     },
     {
         "name": "GAMECENTER_REAUTHORIZE",
@@ -366,7 +406,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 49
     },
     {
         "name": "BILLING_PACK_NAMES_FROM_CSV",
@@ -375,7 +416,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 50
     },
     {
         "name": "LOW_MEM_DEVICES",
@@ -384,7 +426,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": "iPod1",
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 51
     },
     {
         "name": null,
@@ -393,7 +436,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": "iPod2",
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 52
     },
     {
         "name": null,
@@ -402,7 +446,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": "iPod3",
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 53
     },
     {
         "name": null,
@@ -411,7 +456,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": "iPod4",
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 54
     },
     {
         "name": null,
@@ -420,7 +466,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": "iPad1",
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 55
     },
     {
         "name": null,
@@ -429,7 +476,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": "iPhone2",
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 56
     },
     {
         "name": null,
@@ -438,7 +486,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": "st25i",
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 57
     },
     {
         "name": "MEDIUM_GFX_DEVICES",
@@ -447,7 +496,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": "iPad2,1",
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 58
     },
     {
         "name": null,
@@ -456,7 +506,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": "iPad2,2",
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 59
     },
     {
         "name": null,
@@ -465,7 +516,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": "iPad2,3",
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 60
     },
     {
         "name": null,
@@ -474,7 +526,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": "iPad2,4",
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 61
     },
     {
         "name": null,
@@ -483,7 +536,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": "iPod5",
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 62
     },
     {
         "name": "LOW_GFX_DEVICES",
@@ -492,7 +546,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": "iPod1",
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 63
     },
     {
         "name": null,
@@ -501,7 +556,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": "iPod2",
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 64
     },
     {
         "name": null,
@@ -510,7 +566,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": "iPod3",
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 65
     },
     {
         "name": null,
@@ -519,7 +576,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": "iPod4",
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 66
     },
     {
         "name": null,
@@ -528,7 +586,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": "iPad1",
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 67
     },
     {
         "name": null,
@@ -537,7 +596,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": "iPhone2",
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 68
     },
     {
         "name": null,
@@ -546,7 +606,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": "iPhone3",
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 69
     },
     {
         "name": null,
@@ -555,7 +616,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": "iPhone4",
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 70
     },
     {
         "name": null,
@@ -564,7 +626,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": "iPad2,5",
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 71
     },
     {
         "name": null,
@@ -573,7 +636,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": "iPad2,6",
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 72
     },
     {
         "name": null,
@@ -582,7 +646,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": "iPad2,7",
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 73
     },
     {
         "name": "DROID_SANS_FALLBACK_ON_LOW_MEM_DEVICES",
@@ -591,7 +656,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 74
     },
     {
         "name": "GOOGLE_SERVICE_ACHIEVEMENTS_BUTTON",
@@ -600,7 +666,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 75
     },
     {
         "name": "ASH_CNT",
@@ -609,7 +676,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 76
     },
     {
         "name": "ASH_CNT_LOW",
@@ -618,7 +686,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 77
     },
     {
         "name": "ASH_CNT_COMBAT",
@@ -627,7 +696,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 78
     },
     {
         "name": "ASH_CNT_COMBAT_LOW",
@@ -636,7 +706,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 79
     },
     {
         "name": "SNOWFLAKE_CNT",
@@ -645,7 +716,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 80
     },
     {
         "name": "SNOWFLAKE_CNT_LOW",
@@ -654,7 +726,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 81
     },
     {
         "name": "SNOWFLAKE_CNT_COMBAT",
@@ -663,7 +736,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 82
     },
     {
         "name": "SNOWFLAKE_CNT_COMBAT_LOW",
@@ -672,7 +746,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 83
     },
     {
         "name": "PARTNER_AFTER_LOGIN",
@@ -681,7 +756,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 84
     },
     {
         "name": "LOAD_DROID_SANS_FALLBACK_MANUALLY",
@@ -690,7 +766,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 85
     },
     {
         "name": "LOAD_DROID_SANS_FALLBACK_MANUALLY_ANDROID",
@@ -699,7 +776,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 86
     },
     {
         "name": "ANDROID_LOW_GFX_DEVICES",
@@ -708,7 +786,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": "GT-N7000",
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 87
     },
     {
         "name": null,
@@ -717,7 +796,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": "GT-i8190N",
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 88
     },
     {
         "name": null,
@@ -726,7 +806,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": "U8950",
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 89
     },
     {
         "name": null,
@@ -735,7 +816,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": "SM-T211",
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 90
     },
     {
         "name": "ANDROID_HIGH_MEMORY_LIMIT",
@@ -744,7 +826,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 91
     },
     {
         "name": "ANDROID_MEDIUM_MEMORY_LIMIT",
@@ -753,7 +836,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 92
     },
     {
         "name": "SEND_EVENTS_TO_FB",
@@ -762,7 +846,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 93
     },
     {
         "name": "SEND_EVENTS_TO_TAPJOY",
@@ -771,7 +856,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 94
     },
     {
         "name": "SEND_EVENTS_TO_ADCOLONY",
@@ -780,7 +866,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 95
     },
     {
         "name": "SEND_EVENTS_TO_INMOBI",
@@ -789,7 +876,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 96
     },
     {
         "name": "SEND_EVENTS_TO_MOBILE_APP_TRACKER",
@@ -798,7 +886,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 97
     },
     {
         "name": "LIVE_REPLAY_PRESIMULATE_MAX_SUBTICKS_PER_FRAME",
@@ -807,7 +896,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 98
     },
     {
         "name": "LIVE_REPLAY_PRESIMULATE_MAX_SUBTICKS_TOTAL",
@@ -816,7 +906,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 99
     },
     {
         "name": "WAR_COOLDOWN_MAX_DISPLAY_TIME",
@@ -825,7 +916,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 100
     },
     {
         "name": "INITIAL_ZOOM_TABLET",
@@ -834,7 +926,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 101
     },
     {
         "name": "INITIAL_ZOOM_PHONE_WIDESCREEN",
@@ -843,7 +936,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 102
     },
     {
         "name": "INITIAL_ZOOM_PHONE",
@@ -852,7 +946,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 103
     },
     {
         "name": "MAX_WAR_TROOP_MESSAGE_LENGTH",
@@ -861,7 +956,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 104
     },
     {
         "name": "DISCONNECT_IF_NETWORK_UNREACHABLE",
@@ -870,7 +966,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 105
     },
     {
         "name": "NETWORK_UNREACHABLE_TIMEOUT",
@@ -879,7 +976,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 106
     },
     {
         "name": "CLOSE_EXIT_CONFIRMATION_ON_BACK_KEY",
@@ -888,7 +986,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 107
     },
     {
         "name": "LOADING_ANIM_DISPLAY_DELAY",
@@ -897,7 +996,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 108
     },
     {
         "name": "SHOW_GEM_BALANCE_IN_JP",
@@ -906,7 +1006,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 109
     },
     {
         "name": "LIVE_REPLAY_SPEEDUP_TO_CATCHUP_TO_LIVE_FEED",
@@ -915,7 +1016,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 110
     },
     {
         "name": "POWER_SAVE_MODE_LESS_ENDTURN_MESSAGES",
@@ -924,7 +1026,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 111
     },
     {
         "name": "WALL_ANIMATE_CYCLE",
@@ -933,7 +1036,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 112
     },
     {
         "name": "WALL_ANIMATE_CYCLE_LOW_END",
@@ -942,7 +1046,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 113
     },
     {
         "name": "USE_CLOUDS_FOR_WAR_TRANSITION",
@@ -951,7 +1056,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 114
     },
     {
         "name": "WAR_MAP_SHOW_STARS_IN_REAL_TIME",
@@ -960,7 +1066,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 115
     },
     {
         "name": "ENABLE_KR_CALL_CENTER",
@@ -969,7 +1076,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 116
     },
     {
         "name": "ENABLE_ALLIANCE_WARS",
@@ -978,7 +1086,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 117
     },
     {
         "name": "ENABLE_OLD_WARS",
@@ -987,7 +1096,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 118
     },
     {
         "name": "ENABLE_WAR_HISTORY_MENU",
@@ -996,7 +1106,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 119
     },
     {
         "name": "ENABLE_WAR_STREAM",
@@ -1005,7 +1116,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 120
     },
     {
         "name": "GOOGLE_SERVICE_ACHIEVEMENTS",
@@ -1014,7 +1126,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 121
     },
     {
         "name": "GOOGLE_SERVICE_REAUTHORIZE",
@@ -1023,7 +1136,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 122
     },
     {
         "name": "GOOGLE_SERVICE_POPUP_AFTER_FIRST_PURCHASE",
@@ -1032,7 +1146,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 123
     },
     {
         "name": "GOOGLE_SERVICE_POPUP_AFTER_TOWN_HALL_LEVEL",
@@ -1041,7 +1156,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 124
     },
     {
         "name": "GOOGLE_SERVICE_POPUP_SHOW_AFTER_EACH_TOWNHALL",
@@ -1050,7 +1166,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 125
     },
     {
         "name": "ENABLE_CHAT_IN_VISIT",
@@ -1059,7 +1176,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 126
     },
     {
         "name": "ENABLE_CHAT_IN_CLOUDS",
@@ -1068,7 +1186,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 127
     },
     {
         "name": "ENABLE_CHAT_IN_REPLAY",
@@ -1077,7 +1196,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 128
     },
     {
         "name": "CLOUD_CHAT_TIME_LIMIT_SECONDS",
@@ -1086,7 +1206,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 129
     },
     {
         "name": "CLOUD_CHAT_TROPHY_LIMIT",
@@ -1095,7 +1216,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 130
     },
     {
         "name": "CLOUD_CHAT_TROPHY_LIMIT_V2",
@@ -1104,7 +1226,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 131
     },
     {
         "name": "USE_LOWRES_INGAME_ASSETS_IN_MEDIUM",
@@ -1113,7 +1236,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 132
     },
     {
         "name": "CLOSE_TROOP_TRAINING_IN_TUTORIAL",
@@ -1122,7 +1246,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 133
     },
     {
         "name": "RECOVER_EDIT_MODE_SESSION",
@@ -1131,7 +1256,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 134
     },
     {
         "name": "IN_APP_RETRY_LIMIT",
@@ -1140,7 +1266,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 135
     },
     {
         "name": "SHOW_BUBBLE_ICON_ON_BROKEN_TRAPS",
@@ -1149,7 +1276,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 136
     },
     {
         "name": "DISCONNECT_IN_APPS",
@@ -1158,7 +1286,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 137
     },
     {
         "name": "RETRY_PURCHASES_IN_SHOP",
@@ -1167,7 +1296,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 138
     },
     {
         "name": "RECONNECT_AFTER_SLEEPING_SECONDS",
@@ -1176,7 +1306,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 139
     },
     {
         "name": "SHOW_GEMS_PURCHASE_BUTTON_DURING_TUTORIAL",
@@ -1185,7 +1316,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 140
     },
     {
         "name": "VILLAGE_EDIT_MODE_MINIMUM_TH_LEVEL",
@@ -1194,7 +1326,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 141
     },
     {
         "name": "CONTENT_UPDATE_HASH_CHECK",
@@ -1203,7 +1336,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 142
     },
     {
         "name": "SEND_PERFORMANCE_EVENTS",
@@ -1212,7 +1346,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 143
     },
     {
         "name": "SEND_PERFORMANCE_EVENTS_ANDROID",
@@ -1221,7 +1356,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 144
     },
     {
         "name": "PERFORMANCE_EVENTS_INTERVAL_SECONDS",
@@ -1230,7 +1366,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 145
     },
     {
         "name": "PERFORMANCE_EVENTS_INTERVAL_SECONDS_ANDROID",
@@ -1239,7 +1376,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 146
     },
     {
         "name": "HARD_BIND_TOWN_HALL_LEVEL",
@@ -1248,7 +1386,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 147
     },
     {
         "name": "SCALE_UNIT_UI_IN_BATTLE",
@@ -1257,7 +1396,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 148
     },
     {
         "name": "USE_DEVICE_LINK",
@@ -1266,7 +1406,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 149
     },
     {
         "name": "DISABLE_MASK_FROM_EMPTY_INPUT_FIELD",
@@ -1275,7 +1416,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 150
     },
     {
         "name": "HIDE_ISO_ENGINE_IN_BIG_POPUPS",
@@ -1284,7 +1426,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 151
     },
     {
         "name": "HIGE_ISO_ENGINE_UNDER_CHAT",
@@ -1293,7 +1436,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 152
     },
     {
         "name": "HIDE_ISO_ENGINE_IN_SHOP",
@@ -1302,7 +1446,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 153
     },
     {
         "name": "ONLY_INSTALLED_FACEBOOK_FRIENDS",
@@ -1311,7 +1456,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 154
     },
     {
         "name": "CONFIRM_WORD_MAX_LENGTH",
@@ -1320,7 +1466,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 155
     },
     {
         "name": "HUD_PRINT_TIME",
@@ -1329,7 +1476,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 156
     },
     {
         "name": "HUD_PRINT_TIME_LONG",
@@ -1338,7 +1486,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 157
     },
     {
         "name": "PAYMENT_LIMIT_CONFIRMATION_ENABLED",
@@ -1347,7 +1496,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 158
     },
     {
         "name": "PAYMENT_LIMIT_CONFIRMATION_USD",
@@ -1356,7 +1506,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 159
     },
     {
         "name": "PAYMENT_LIMIT_CONFIRMATION_TIME",
@@ -1365,7 +1516,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 160
     },
     {
         "name": "SHOW_DONATION_STATS_FOR_ALL_CLANS",
@@ -1374,7 +1526,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 161
     },
     {
         "name": "USE_NEW_LOADING_BAR_LOGIC",
@@ -1383,7 +1536,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 162
     },
     {
         "name": "HIGH_SCORE_EMPTY_LINES",
@@ -1392,7 +1546,8 @@
         "textValue": null,
         "numberArray": "10",
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 163
     },
     {
         "name": null,
@@ -1401,7 +1556,8 @@
         "textValue": null,
         "numberArray": "50",
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 164
     },
     {
         "name": null,
@@ -1410,7 +1566,8 @@
         "textValue": null,
         "numberArray": "100",
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 165
     },
     {
         "name": null,
@@ -1419,7 +1576,8 @@
         "textValue": null,
         "numberArray": "150",
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 166
     },
     {
         "name": null,
@@ -1428,7 +1586,8 @@
         "textValue": null,
         "numberArray": "200",
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 167
     },
     {
         "name": "SHOW_IAP_NOTIFICATION_POPUP",
@@ -1437,7 +1596,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 168
     },
     {
         "name": "SEND_ONLY_INSTALL_EVENTS_TO_APP_TRACKER",
@@ -1446,7 +1606,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 169
     },
     {
         "name": "DEFAULT_TO_LOCAL_HIGHSCORES",
@@ -1455,7 +1616,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 170
     },
     {
         "name": "ENABLE_LOCAL_RANKINGS",
@@ -1464,7 +1626,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 171
     },
     {
         "name": "DEFAULT_TO_LOCAL_CLAN_HIGHSCORES",
@@ -1473,7 +1636,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 172
     },
     {
         "name": "ENABLE_LOCAL_CLAN_RANKINGS",
@@ -1482,7 +1646,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 173
     },
     {
         "name": "USE_ARMY_READY_NOTIFICATION",
@@ -1491,7 +1656,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 174
     },
     {
         "name": "USE_SPELLS_READY_NOTIFICATION",
@@ -1500,7 +1666,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 175
     },
     {
         "name": "USE_LABORATORY_UPGRADE_READY_NOTIFICATION",
@@ -1509,7 +1676,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 176
     },
     {
         "name": "USE_WALL_MOVE_TOOL",
@@ -1518,7 +1686,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 177
     },
     {
         "name": "USE_HERO_HEALTH_FULL_NOTIFICATION",
@@ -1527,7 +1696,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 178
     },
     {
         "name": "LOW_END_WALL_CORNERS",
@@ -1536,7 +1706,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 179
     },
     {
         "name": "REPEAT_ATTACK_INSTRUCTION_TIME",
@@ -1545,7 +1716,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 180
     },
     {
         "name": "SWITCH_CONFIRMATION_XP_LEVEL",
@@ -1554,7 +1726,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 181
     },
     {
         "name": "DISABLE_ANIMATOR_RESET",
@@ -1563,7 +1736,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 182
     },
     {
         "name": "BUFFER_SERVER_COMMANDS",
@@ -1572,7 +1746,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 183
     },
     {
         "name": "NO_MONEY_COLOR_RED",
@@ -1581,7 +1756,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 184
     },
     {
         "name": "NO_MONEY_COLOR_GREEN",
@@ -1590,7 +1766,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 185
     },
     {
         "name": "NO_MONEY_COLOR_BLUE",
@@ -1599,7 +1776,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 186
     },
     {
         "name": "ACHIEVEMENTS_ENABLED",
@@ -1608,7 +1786,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 187
     },
     {
         "name": "GAME_CENTER_ACHIEVEMENTS_ENABLED",
@@ -1617,7 +1796,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 188
     },
     {
         "name": "GAME_CENTER_CHALLENGES_ENABLED",
@@ -1626,7 +1806,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 189
     },
     {
         "name": "MAX_ALLIANCE_SEARCH_TROPHIES",
@@ -1635,7 +1816,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 190
     },
     {
         "name": "RED_CAMPAIGN_ENABLED",
@@ -1644,7 +1826,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 191
     },
     {
         "name": "SHOW_NEWS_INDICATOR_XP_LIMIT",
@@ -1653,7 +1836,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 192
     },
     {
         "name": "SEND_GC_ACHIEVEMENT_0_PROGRESS",
@@ -1662,7 +1846,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 193
     },
     {
         "name": "USE_GC_SEND_ALL_ACHIEVEMENTS",
@@ -1671,7 +1856,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 194
     },
     {
         "name": "SEND_GC_ACHIEVEMENT_PROGRESS_ONCE",
@@ -1680,7 +1866,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 195
     },
     {
         "name": "HELPSHIFT_ENABLED",
@@ -1689,7 +1876,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 196
     },
     {
         "name": "DISABLE_HELPSHIFT_CONTACT_US_FROM_NON_PAYING",
@@ -1698,7 +1886,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 197
     },
     {
         "name": "DISABLE_STARTUP_CONSTANT_CONNECTION_FIX",
@@ -1707,7 +1896,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 198
     },
     {
         "name": "HERO_HEALTH_WARNING_LEVEL",
@@ -1716,7 +1906,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 199
     },
     {
         "name": "KEEPALIVE_INTERVAL_SECONDS",
@@ -1725,7 +1916,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 200
     },
     {
         "name": "DISCONNECT_IF_KEEPALIVE_IS_BEHIND",
@@ -1734,7 +1926,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 201
     },
     {
         "name": "KEEPALIVE_TIMEOUT",
@@ -1743,7 +1936,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 202
     },
     {
         "name": "KEEPALIVE_SHOW_WARNING_AFTER_SECONDS",
@@ -1752,7 +1946,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 203
     },
     {
         "name": "USE_RTT_FOR_THUMBNAILS",
@@ -1761,7 +1956,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 204
     },
     {
         "name": "USE_DEFAULT_USER_NAME",
@@ -1770,7 +1966,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 205
     },
     {
         "name": "PARENTS_GUIDE_URL",
@@ -1779,7 +1976,8 @@
         "textValue": "http://www.supercell.net/parents",
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 206
     },
     {
         "name": "FORGET_WAR_PARTICIPANTS_WHEN_WAR_MAP_CLOSES",
@@ -1788,7 +1986,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 207
     },
     {
         "name": "SHOW_VILLAGE_THUMBNAIL_ON_PROFILE",
@@ -1797,7 +1996,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 208
     },
     {
         "name": "ALWAYS_FORCE_VALID_WAR_SIZE_IN_WAR_PARTICIPANTS_SCREEN",
@@ -1806,7 +2006,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 209
     },
     {
         "name": "ONLY_SHOW_WAR_PREFERENCE_IN_CLAN_LIST",
@@ -1815,7 +2016,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 210
     },
     {
         "name": "CLAN_BADGE_SCROLLER_SNAP_AGRESSIVENESS",
@@ -1824,7 +2026,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 211
     },
     {
         "name": "SHOW_SUPPORT_TARGETING_ICON",
@@ -1833,7 +2036,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 212
     },
     {
         "name": "MAX_INSTRUCTOR_TH_LEVEL",
@@ -1842,7 +2046,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 213
     },
     {
         "name": "ENABLE_SC_CACHING",
@@ -1851,7 +2056,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 214
     },
     {
         "name": "ENABLE_SC_CACHE_LOADING",
@@ -1860,7 +2066,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 215
     },
     {
         "name": "SC_CACHE_FREE_SPACE_LIMIT",
@@ -1869,7 +2076,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 216
     },
     {
         "name": "SC_CACHE_FREE_SPACE_LIMIT_ANDROID",
@@ -1878,7 +2086,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 217
     },
     {
         "name": "SC_CACHE_USE_MODULO",
@@ -1887,7 +2096,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 218
     },
     {
         "name": "INSTRUCTOR_RECOMMENDS_PVP",
@@ -1896,7 +2106,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 219
     },
     {
         "name": "REMOVE_INSTRUCTOR_AFTER_CLAN_CASTLE_REPAIR",
@@ -1905,7 +2116,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 220
     },
     {
         "name": "INSTRUCTOR_MIN_IDLE_TIME_SEC",
@@ -1914,7 +2126,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 221
     },
     {
         "name": "INSTRUCTOR_MAX_IDLE_TIME_SEC",
@@ -1923,7 +2136,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 222
     },
     {
         "name": "INSTRUCTOR_MIN_GOLD_PERCENT_FOR_RECOMMENDING_RAID",
@@ -1932,7 +2146,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 223
     },
     {
         "name": "INSTRUCTOR_MIN_ELIXIR_PERCENT_FOR_RECOMMENDING_RAID",
@@ -1941,7 +2156,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 224
     },
     {
         "name": "INSTRUCTOR_TIME_TO_HIDE_BUBBLE_AFTER_TAP_IN_SECONDS",
@@ -1950,7 +2166,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 225
     },
     {
         "name": "SHOW_SAFE_ZONE_WHEN_BUILDING_SELECTED",
@@ -1959,7 +2176,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 226
     },
     {
         "name": "CONNECT_IOS_TO_KUNLUN",
@@ -1968,7 +2186,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 227
     },
     {
         "name": "KUNLUN_SPLASH_MESSAGE",
@@ -1977,7 +2196,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 228
     },
     {
         "name": "RENDER_TEXT_OUTLINES_FIRST",
@@ -1986,7 +2206,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 229
     },
     {
         "name": "FALLBACK_ARABIC_FONT",
@@ -1995,7 +2216,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 230
     },
     {
         "name": "USE_HELPSHIFT_SDK_LANGUAGE",
@@ -2004,7 +2226,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 231
     },
     {
         "name": "EXTRA_HELPSHIFT_LANGUAGES",
@@ -2013,7 +2236,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": "fi",
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 232
     },
     {
         "name": "TRACK_GC_SPEND_MODULO",
@@ -2022,7 +2246,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 233
     },
     {
         "name": "LEGEND_TROPHY_LIMIT",
@@ -2031,7 +2256,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 234
     },
     {
         "name": "TEXTFIELD_SCALE_FONT_SIZE_MAX_TESTS",
@@ -2040,7 +2266,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 235
     },
     {
         "name": "LANGUAGE_SETTINGS_SCROLL_MS",
@@ -2049,7 +2276,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 236
     },
     {
         "name": "LANGUAGE_SETTINGS_SCROLL_ENABLED",
@@ -2058,7 +2286,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 237
     },
     {
         "name": "USE_REAL_WORLD_THRESHOLDS",
@@ -2067,7 +2296,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 238
     },
     {
         "name": "PAN_THRESHOLD",
@@ -2076,7 +2306,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 239
     },
     {
         "name": "PINCH_THRESHOLD",
@@ -2085,7 +2316,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 240
     },
     {
         "name": "UNIT_BAR_SENSITIVITY",
@@ -2094,7 +2326,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 241
     },
     {
         "name": "CAMERA_EXTRA_BOUNDS_HOME",
@@ -2103,7 +2336,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 242
     },
     {
         "name": "CAMERA_EXTRA_BOUNDS_WAR",
@@ -2112,7 +2346,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 243
     },
     {
         "name": "CAMERA_EXTRA_BOUNDS_NPC",
@@ -2121,7 +2356,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 244
     },
     {
         "name": "CAMERA_EXTRA_BOUNDS_VILLAGE2",
@@ -2130,7 +2366,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 245
     },
     {
         "name": "CAMERA_EXTRA_BOUNDS_BOTTOM_HOME",
@@ -2139,7 +2376,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 246
     },
     {
         "name": "CAMERA_EXTRA_BOUNDS_BOTTOM_WAR",
@@ -2148,7 +2386,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 247
     },
     {
         "name": "CAMERA_EXTRA_BOUNDS_BOTTOM_NPC",
@@ -2157,7 +2396,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 248
     },
     {
         "name": "CAMERA_EXTRA_BOUNDS_BOTTOM_VILLAGE2",
@@ -2166,7 +2406,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 249
     },
     {
         "name": "CAMERA_EXTRA_BOUNDS_TOP_HOME",
@@ -2175,7 +2416,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 250
     },
     {
         "name": "CAMERA_EXTRA_BOUNDS_TOP_WAR",
@@ -2184,7 +2426,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 251
     },
     {
         "name": "CAMERA_EXTRA_BOUNDS_TOP_NPC",
@@ -2193,7 +2436,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 252
     },
     {
         "name": "CAMERA_EXTRA_BOUNDS_TOP_VILLAGE2",
@@ -2202,7 +2446,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 253
     },
     {
         "name": "CLOUD_CHAT_NOTIFICATION_SOUND_TIME_LIMIT",
@@ -2211,7 +2456,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 254
     },
     {
         "name": "CANCEL_GAME_INPUT_ON_PAN_AND_PINCH",
@@ -2220,7 +2466,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 255
     },
     {
         "name": "ALWAYS_SEND_DEVICE_TOKEN_MESSAGE_AFTER_SECONDS",
@@ -2229,7 +2476,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 256
     },
     {
         "name": "GOOGLE_PLAY_KUNLUN_TUTORIAL_VIDEO_URL",
@@ -2238,7 +2486,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 257
     },
     {
         "name": "GOOGLE_PLAY_KUNLUN_TUTORIAL_VIDEO_URL_ANDROID",
@@ -2247,7 +2496,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 258
     },
     {
         "name": "GOOGLE_KUNLUN_TRANSFER_COUNTRIES",
@@ -2256,7 +2506,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": "CN",
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 259
     },
     {
         "name": "GENERATE_CODE_TH_LEVEL_REQUIREMENT",
@@ -2265,7 +2516,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 260
     },
     {
         "name": "DEVICE_LINK_CHECK_BOUND_TO_KUNLUN",
@@ -2274,7 +2526,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 261
     },
     {
         "name": "SHOW_CONTEXT_MENU_FOR_PLAYER",
@@ -2283,7 +2536,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 262
     },
     {
         "name": "SHOW_IAP_INFO_IN_KOREA",
@@ -2292,7 +2546,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 263
     },
     {
         "name": "USE_HELPSHIFT_LINKS",
@@ -2301,7 +2556,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 264
     },
     {
         "name": "USE_TOS_AND_PP_FIRST_POPUP",
@@ -2310,7 +2566,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 265
     },
     {
         "name": "TERMS_AND_CONDITIONS_HELPSHIFT_URL",
@@ -2319,7 +2576,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 266
     },
     {
         "name": "USE_PEPPER_CRYPTO",
@@ -2328,7 +2586,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 267
     },
     {
         "name": "IAP_INFO_KOREA_URL",
@@ -2337,7 +2596,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 268
     },
     {
         "name": "HUD_PRINT_TIME_PERSONAL_BREAK",
@@ -2346,7 +2606,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 269
     },
     {
         "name": "GUARD_NOTIFICATION_TIME",
@@ -2355,7 +2616,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 270
     },
     {
         "name": "SHIELD_NOTIFICATION_TIME",
@@ -2364,7 +2626,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 271
     },
     {
         "name": "SHOW_SHIELD_BREAKING_POPUP_ONCE",
@@ -2373,7 +2636,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 272
     },
     {
         "name": "ANIMATE_WAR_BUTTON_ON_ACTIVITY",
@@ -2382,7 +2646,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 273
     },
     {
         "name": "HELPSHIFT_MIN_IOS_VERSION",
@@ -2391,7 +2656,8 @@
         "textValue": "7",
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 274
     },
     {
         "name": "USE_TREASURY_WINDOW",
@@ -2400,7 +2666,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 275
     },
     {
         "name": "APPLY_REPLAY_COMPATIBILITY_IF_CONTENT_VERSION",
@@ -2409,7 +2676,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 276
     },
     {
         "name": "MIN_COMPATIBLE_CONTENT_VERSION_FOR_REPLAY",
@@ -2418,7 +2686,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 277
     },
     {
         "name": "ENABLE_SCREENRECORDING",
@@ -2427,7 +2696,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 278
     },
     {
         "name": "DISABLE_SCREENSHAKE_WHILE_RECORDING",
@@ -2436,7 +2706,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 279
     },
     {
         "name": "SEND_CONNECTION_TYPE_INFO",
@@ -2445,7 +2716,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 280
     },
     {
         "name": "HELPSHIFT_AFTER_LOGIN",
@@ -2454,7 +2726,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 281
     },
     {
         "name": "SHOW_HELPSHIFT_CONTACT_IN_TH",
@@ -2463,7 +2736,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 282
     },
     {
         "name": "REMOVE_SHADOWS_FROM_DESTROYED_BUILDINGS",
@@ -2472,7 +2746,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 283
     },
     {
         "name": "FINISH_DEFERRED_TRANSACTION_IN_HOURS",
@@ -2481,7 +2756,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 284
     },
     {
         "name": "RESET_PENDING_TRANSACTION_WHEN_FINISHING_DEFERRED_PURCHASE",
@@ -2490,7 +2766,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 285
     },
     {
         "name": "LOAD_ADDITIONAL_SC_FILES",
@@ -2499,7 +2776,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 286
     },
     {
         "name": "DO_GOOGLE_LOGIN_AT_STARTUP",
@@ -2508,7 +2786,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 287
     },
     {
         "name": "USE_FIXED_TIME_STEP_EMITTERS",
@@ -2517,7 +2796,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 288
     },
     {
         "name": "BUILDER_CONTEXT_MENU_ENABLED",
@@ -2526,7 +2806,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 289
     },
     {
         "name": "LOOTCART_CONTEXT_MENU_ENABLED",
@@ -2535,7 +2816,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 290
     },
     {
         "name": "EMITTER_MAX_DELTA_TIME_MS",
@@ -2544,7 +2826,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 291
     },
     {
         "name": "SHOW_INGAME_MAINTENANCE_SCREEN",
@@ -2553,7 +2836,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 292
     },
     {
         "name": "USE_DEEP_LINKING",
@@ -2562,7 +2846,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 293
     },
     {
         "name": "USE_GAMEOBJECT_SELECTION_IN_REPLAYS",
@@ -2571,7 +2856,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 294
     },
     {
         "name": "SHOW_AOE_IN_REPLAYS",
@@ -2580,7 +2866,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 295
     },
     {
         "name": "SHOW_FORGOT_ARMY_NOTIF",
@@ -2589,7 +2876,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 296
     },
     {
         "name": "SHOW_FORGOT_SPELLS_NOTIF",
@@ -2598,7 +2886,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 297
     },
     {
         "name": "SHOW_COMBINED_ARMY_READY_NOTIF",
@@ -2607,7 +2896,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 298
     },
     {
         "name": "USE_COPY_PASTE_MENU",
@@ -2616,7 +2906,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 299
     },
     {
         "name": "USE_STAR_BONUS_NOTIFICATION",
@@ -2625,7 +2916,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 300
     },
     {
         "name": "SHOW_SHORT_NOTIFICATIONS",
@@ -2634,7 +2926,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 301
     },
     {
         "name": "NEWS_DEFAULT_ITEM",
@@ -2643,7 +2936,8 @@
         "textValue": "news_entry_dynamic",
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 302
     },
     {
         "name": "NEWS_DEFAULT_ICON",
@@ -2652,7 +2946,8 @@
         "textValue": "news_tutor_icon",
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 303
     },
     {
         "name": "ENABLE_WATCH_LIVE_IN_SCOUTING",
@@ -2661,7 +2956,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 304
     },
     {
         "name": "ENABLE_CHALLENGE_SCOUT",
@@ -2670,7 +2966,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 305
     },
     {
         "name": "DEFAULT_LANGUAGE_FOR_CAFEBAZAAR",
@@ -2679,7 +2976,8 @@
         "textValue": "FA",
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 306
     },
     {
         "name": "FORGOT_ARMY_NOTIF_MINUTES",
@@ -2688,7 +2986,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 307
     },
     {
         "name": "FORGOT_SPELLS_NOTIF_MINUTES",
@@ -2697,7 +2996,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 308
     },
     {
         "name": "FORGOT_SPELLS_NOTIF_SLOT_COUNT",
@@ -2706,7 +3006,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 309
     },
     {
         "name": "ALLIANCE_DATA_MESSAGE_OWN_ALLIANCE_FIX",
@@ -2715,7 +3016,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 310
     },
     {
         "name": "ALLIANCE_WAR_ATTACK_HID_OBJ_NULL_CHECK",
@@ -2724,7 +3026,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 311
     },
     {
         "name": "TRACK_MODULO",
@@ -2733,7 +3036,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 312
     },
     {
         "name": "TRACK_CURRENCY_BALANCE",
@@ -2742,7 +3046,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 313
     },
     {
         "name": "ALLIANCE_VIEW_CLOSE_CONTEXT_ON_CLICK",
@@ -2751,7 +3056,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 314
     },
     {
         "name": "USE_EMPTY_ANIM_FOR_BUILDINGS_UNDER_UPGRADE",
@@ -2760,7 +3066,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 315
     },
     {
         "name": "ARMY_READY_NOTIF_ADDITIONAL_SECONDS",
@@ -2769,7 +3076,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 316
     },
     {
         "name": "CHALLENGE_FRIENDS_FROM_LIST",
@@ -2778,7 +3086,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 317
     },
     {
         "name": "CANCEL_KUNLUN_PURCHASES_ON_WINDOW_CLOSED",
@@ -2787,7 +3096,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 318
     },
     {
         "name": "TRAINING_SHOW_MAX_CAPACITY_WITH_OVERTRAINING",
@@ -2796,7 +3106,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 319
     },
     {
         "name": "MINIMUM_LIVE_CHAT",
@@ -2805,7 +3116,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 320
     },
     {
         "name": "DARK_COLOR_RED",
@@ -2814,7 +3126,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 321
     },
     {
         "name": "DARK_COLOR_GREEN",
@@ -2823,7 +3136,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 322
     },
     {
         "name": "DARK_COLOR_BLUE",
@@ -2832,7 +3146,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 323
     },
     {
         "name": "DARK_COLOR_ALPHA",
@@ -2841,7 +3156,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 324
     },
     {
         "name": "FOREGROUND_BUFFER_W",
@@ -2850,7 +3166,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 325
     },
     {
         "name": "FOREGROUND_BUFFER_H",
@@ -2859,7 +3176,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 326
     },
     {
         "name": "BACKGROUND_BUFFER_W_LOW_MEM",
@@ -2868,7 +3186,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 327
     },
     {
         "name": "BACKGROUND_BUFFER_H_LOW_MEM",
@@ -2877,7 +3196,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 328
     },
     {
         "name": "BACKGROUND_BUFFER_W",
@@ -2886,7 +3206,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 329
     },
     {
         "name": "BACKGROUND_BUFFER_H",
@@ -2895,7 +3216,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 330
     },
     {
         "name": "USE_ALLIANCE_CHAT_REPORTING",
@@ -2904,7 +3226,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 331
     },
     {
         "name": "EVENT_LOCAL_NOTIF_TH_MIN_LIMIT",
@@ -2913,7 +3236,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 332
     },
     {
         "name": "SPECIAL_URLS",
@@ -2922,7 +3246,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": "EN",
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 333
     },
     {
         "name": null,
@@ -2931,7 +3256,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": "CN",
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 334
     },
     {
         "name": "USE_SHIP_SCREEN_URL",
@@ -2940,7 +3266,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 335
     },
     {
         "name": "SHOW_VILLAGE_OBJECTS",
@@ -2949,7 +3276,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 336
     },
     {
         "name": "PRELOAD_SOUNDS",
@@ -2958,7 +3286,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 337
     },
     {
         "name": "SHARE_TAGS_ENABLED",
@@ -2967,7 +3296,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 338
     },
     {
         "name": "SHARED_DEEPLINK_URL",
@@ -2976,7 +3306,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 339
     },
     {
         "name": "DEFERRED_FILE_DOWNLOAD_ENABLED",
@@ -2985,7 +3316,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 340
     },
     {
         "name": "SHOW_V2_COLLECTORS_FULL_NOTIF",
@@ -2994,7 +3326,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 341
     },
     {
         "name": "SHOW_V2_DAILY_LIMIT_RESET_NOTIF",
@@ -3003,7 +3336,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 342
     },
     {
         "name": "GC_TENCENT_CONFIRMATION_TH_LEVEL",
@@ -3012,7 +3346,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 343
     },
     {
         "name": "GIFT_PACK_LOCAL_EXTENSION",
@@ -3021,7 +3356,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 344
     },
     {
         "name": "TENCENT_IOS_CHECK_LANGUAGE_CODE",
@@ -3030,7 +3366,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 345
     },
     {
         "name": "ENABLE_TENCENT",
@@ -3039,7 +3376,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 346
     },
     {
         "name": "ENABLE_TENCENT_FRIENDS",
@@ -3048,7 +3386,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 347
     },
     {
         "name": "ENABLE_TUNE",
@@ -3057,7 +3396,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 348
     },
     {
         "name": "LASER_BOX_URL_WHITE_LIST",
@@ -3066,7 +3406,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": "https://www.youtube.com/embed/",
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 349
     },
     {
         "name": null,
@@ -3075,7 +3416,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": "about:blank",
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 350
     },
     {
         "name": "LASER_BOX_DOMAIN_WHITE_LIST",
@@ -3084,7 +3426,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": "kunlun-cdn.com",
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 351
     },
     {
         "name": null,
@@ -3093,7 +3436,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": "accounts.google.com",
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 352
     },
     {
         "name": null,
@@ -3102,7 +3446,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": "video.qq.com",
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 353
     },
     {
         "name": null,
@@ -3111,7 +3456,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": "v.qq.com",
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 354
     },
     {
         "name": null,
@@ -3120,7 +3466,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": "qualtrics.com",
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 355
     },
     {
         "name": "JOYSTICK_AREA_WIDTH",
@@ -3129,7 +3476,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 356
     },
     {
         "name": "ENABLE_CHAT_REPORTING",
@@ -3138,7 +3486,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 357
     },
     {
         "name": "ENABLE_BAD_TEXT_CHECK",
@@ -3147,7 +3496,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 358
     },
     {
         "name": "CLAN_INVITE_TOKEN_ENABLED",
@@ -3156,7 +3506,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 359
     },
     {
         "name": "CLAN_INVITE_TOKEN_EXPIRE_TIME_SECONDS",
@@ -3165,7 +3516,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 360
     },
     {
         "name": "FRIEND_INVITE_TOKEN_ENABLED",
@@ -3174,7 +3526,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 361
     },
     {
         "name": "FRIEND_INVITE_TOKEN_EXPIRE_TIME_SECONDS",
@@ -3183,7 +3536,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 362
     },
     {
         "name": "TEAM_INVITE_DEEPLINK_ENABLED",
@@ -3192,7 +3546,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 363
     },
     {
         "name": "CN_STARTUP_WARNING",
@@ -3201,7 +3556,8 @@
         "textValue": "\u62b5\u5236\u4e0d\u826f\u6e38\u620f\uff0c\u62d2\u7edd\u76d7\u7248\u6e38\u620f\u3002\u6ce8\u610f\u81ea\u6211\u4fdd\u62a4\uff0c\u8c28\u9632\u53d7\u9a97\u4e0a\u5f53\u3002\u9002\u5ea6\u6e38\u620f\u76ca\u8111\uff0c\u6c89\u8ff7\u6e38\u620f\u4f24\u8eab\u3002\u5408\u7406\u5b89\u6392\u65f6\u95f4\uff0c\u4eab\u53d7\u5065\u5eb7\u751f\u6d3b\u3002",
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 364
     },
     {
         "name": "CHINA_REGULATIONS_ENABLED",
@@ -3210,7 +3566,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 365
     },
     {
         "name": "RARE_CHANCE",
@@ -3219,7 +3576,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 366
     },
     {
         "name": "SUPER_RARE_CHANCE",
@@ -3228,7 +3586,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 367
     },
     {
         "name": "EPIC_CHANCE",
@@ -3237,7 +3596,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 368
     },
     {
         "name": "MYTHIC_CHANCE",
@@ -3246,7 +3606,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 369
     },
     {
         "name": "LEGENDARY_CHANCE",
@@ -3255,7 +3616,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 370
     },
     {
         "name": "STAR_POWER_CHANCE",
@@ -3264,7 +3626,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 371
     },
     {
         "name": "PP_CHANCE",
@@ -3273,7 +3636,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 372
     },
     {
         "name": "SPECTATE_ENABLED",
@@ -3282,7 +3646,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 373
     },
     {
         "name": "NEW_HERO_CHANCE",
@@ -3291,7 +3656,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 374
     },
     {
         "name": "ONLINE_MENU_WAIT_BEFORE_UPDATE_SECS",
@@ -3300,7 +3666,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 375
     },
     {
         "name": "ONLINE_MENU_AUTO_CLOSE_TIME_SECS",
@@ -3309,7 +3676,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 376
     },
     {
         "name": "ONLINE_MENU_NEW_ITEM_THROTTLE_SECS",
@@ -3318,7 +3686,8 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 377
     },
     {
         "name": "AUTO_OPEN_TEAM_LOOT_BAR",
@@ -3327,6 +3696,7 @@
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
-        "altStringArray": null
+        "altStringArray": null,
+        "id": 378
     }
 ]

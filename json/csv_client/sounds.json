@@ -17,7 +17,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 4
     },
     {
         "name": "ButtonClick2",
@@ -37,7 +38,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 5
     },
     {
         "name": "Menu_goback",
@@ -57,7 +59,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 6
     },
     {
         "name": "Menu_dismiss",
@@ -77,7 +80,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 7
     },
     {
         "name": "LaserShot01",
@@ -97,7 +101,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 8
     },
     {
         "name": "Orb_spawn",
@@ -117,7 +122,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 9
     },
     {
         "name": "Orb_land",
@@ -137,7 +143,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 10
     },
     {
         "name": "Orb_get",
@@ -157,7 +164,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 11
     },
     {
         "name": "Orb_glow_loop",
@@ -177,7 +185,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 12
     },
     {
         "name": "Squiddy_fire",
@@ -197,7 +206,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 13
     },
     {
         "name": "Squiddy_die",
@@ -217,7 +227,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 14
     },
     {
         "name": "Alien_melee_atk",
@@ -237,7 +248,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 15
     },
     {
         "name": "Tap_direction",
@@ -257,7 +269,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 16
     },
     {
         "name": "Sound_Gen_explosion",
@@ -277,7 +290,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 17
     },
     {
         "name": "Sound_TNT_explosion",
@@ -297,7 +311,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 18
     },
     {
         "name": "Sound_Gen_small_explosion",
@@ -317,7 +332,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 19
     },
     {
         "name": "TNT_reload",
@@ -337,7 +353,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 20
     },
     {
         "name": "Skill_select",
@@ -357,7 +374,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 21
     },
     {
         "name": "Skill_deselect",
@@ -377,7 +395,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 22
     },
     {
         "name": "Metal_swipe",
@@ -397,7 +416,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 23
     },
     {
         "name": "Hazzard_atk",
@@ -417,7 +437,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 24
     },
     {
         "name": "Sound_Deadeye_atk",
@@ -437,7 +458,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 25
     },
     {
         "name": "Sound_poison_bomb",
@@ -457,7 +479,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 26
     },
     {
         "name": "Sound_Blink",
@@ -477,7 +500,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 27
     },
     {
         "name": "Sound_Armor",
@@ -497,7 +521,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 28
     },
     {
         "name": "Sound_Heal",
@@ -517,7 +542,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 29
     },
     {
         "name": "Sound_Grenade",
@@ -537,7 +563,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 30
     },
     {
         "name": "Skill_activated",
@@ -557,7 +584,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 31
     },
     {
         "name": "Ulti_gain",
@@ -577,7 +605,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 32
     },
     {
         "name": "Ulti_ready",
@@ -597,7 +626,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 33
     },
     {
         "name": "10_sec_panic",
@@ -617,7 +647,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 34
     },
     {
         "name": "Laser_Count_15",
@@ -637,7 +668,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 35
     },
     {
         "name": "Laser_Count_14",
@@ -657,7 +689,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 36
     },
     {
         "name": "Laser_Count_13",
@@ -677,7 +710,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 37
     },
     {
         "name": "Laser_Count_12",
@@ -697,7 +731,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 38
     },
     {
         "name": "Laser_Count_11",
@@ -717,7 +752,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 39
     },
     {
         "name": "Laser_Count_10",
@@ -737,7 +773,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 40
     },
     {
         "name": "Laser_Count_9",
@@ -757,7 +794,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 41
     },
     {
         "name": "Laser_Count_8",
@@ -777,7 +815,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 42
     },
     {
         "name": "Laser_Count_7",
@@ -797,7 +836,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 43
     },
     {
         "name": "Laser_Count_6",
@@ -817,7 +857,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 44
     },
     {
         "name": "Laser_Count_5",
@@ -837,7 +878,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 45
     },
     {
         "name": "Laser_Count_4",
@@ -857,7 +899,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 46
     },
     {
         "name": "Laser_Count_3",
@@ -877,7 +920,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 47
     },
     {
         "name": "Laser_Count_2",
@@ -897,7 +941,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 48
     },
     {
         "name": "Laser_Count_1",
@@ -917,7 +962,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 49
     },
     {
         "name": "Laser_Count_0",
@@ -937,7 +983,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 50
     },
     {
         "name": "Low_health_1_loop",
@@ -957,7 +1004,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 51
     },
     {
         "name": "Low_health_2_loop",
@@ -977,7 +1025,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 52
     },
     {
         "name": "bandit_reload",
@@ -997,7 +1046,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 53
     },
     {
         "name": "gunslinger_fire",
@@ -1017,7 +1067,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 54
     },
     {
         "name": "gunslinger_fire_ulti",
@@ -1037,7 +1088,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 55
     },
     {
         "name": "explosion_rocket_rose",
@@ -1057,7 +1109,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 56
     },
     {
         "name": "explosion_rocket_rose_ulti",
@@ -1077,7 +1130,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 57
     },
     {
         "name": "tnt_attack",
@@ -1097,7 +1151,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 58
     },
     {
         "name": "tnt_attack_ulti",
@@ -1117,7 +1172,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 59
     },
     {
         "name": "No_ammo_shotgungirl",
@@ -1137,7 +1193,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 60
     },
     {
         "name": "Dry_fire_shotgungirl",
@@ -1157,7 +1214,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 61
     },
     {
         "name": "Rhinocharge",
@@ -1177,7 +1235,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 62
     },
     {
         "name": "Rhinofire",
@@ -1197,7 +1256,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 63
     },
     {
         "name": "Rhinostep",
@@ -1217,7 +1277,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 64
     },
     {
         "name": "Robotfire",
@@ -1237,7 +1298,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 65
     },
     {
         "name": "Rocketgirlspecial",
@@ -1257,7 +1319,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 66
     },
     {
         "name": "Roboturret",
@@ -1277,7 +1340,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 67
     },
     {
         "name": "Robocon",
@@ -1297,7 +1361,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 68
     },
     {
         "name": "Timedgrenade",
@@ -1317,7 +1382,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 69
     },
     {
         "name": "Shotgun",
@@ -1337,7 +1403,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 70
     },
     {
         "name": "Utilshotgun",
@@ -1357,7 +1424,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 71
     },
     {
         "name": "Utilshotgun_Vo",
@@ -1377,7 +1445,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 72
     },
     {
         "name": null,
@@ -1397,7 +1466,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 73
     },
     {
         "name": null,
@@ -1417,7 +1487,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 74
     },
     {
         "name": null,
@@ -1437,7 +1508,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 75
     },
     {
         "name": "ShellyTakedamge_Vo",
@@ -1457,7 +1529,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 76
     },
     {
         "name": null,
@@ -1477,7 +1550,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 77
     },
     {
         "name": null,
@@ -1497,7 +1571,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 78
     },
     {
         "name": null,
@@ -1517,7 +1592,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 79
     },
     {
         "name": null,
@@ -1537,7 +1613,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 80
     },
     {
         "name": "Shelly_Die",
@@ -1557,7 +1634,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 81
     },
     {
         "name": null,
@@ -1577,7 +1655,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 82
     },
     {
         "name": null,
@@ -1597,7 +1676,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 83
     },
     {
         "name": null,
@@ -1617,7 +1697,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 84
     },
     {
         "name": "Shelly_Kill",
@@ -1637,7 +1718,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 85
     },
     {
         "name": null,
@@ -1657,7 +1739,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 86
     },
     {
         "name": null,
@@ -1677,7 +1760,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 87
     },
     {
         "name": null,
@@ -1697,7 +1781,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 88
     },
     {
         "name": null,
@@ -1717,7 +1802,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 89
     },
     {
         "name": "Shelly_Lead",
@@ -1737,7 +1823,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 90
     },
     {
         "name": null,
@@ -1757,7 +1844,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 91
     },
     {
         "name": null,
@@ -1777,7 +1865,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 92
     },
     {
         "name": null,
@@ -1797,7 +1886,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 93
     },
     {
         "name": "Shelly_Start",
@@ -1817,7 +1907,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 94
     },
     {
         "name": null,
@@ -1837,7 +1928,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 95
     },
     {
         "name": null,
@@ -1857,7 +1949,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 96
     },
     {
         "name": null,
@@ -1877,7 +1970,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 97
     },
     {
         "name": "Jess_ulti",
@@ -1897,7 +1991,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 98
     },
     {
         "name": null,
@@ -1917,7 +2012,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 99
     },
     {
         "name": null,
@@ -1937,7 +2033,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 100
     },
     {
         "name": null,
@@ -1957,7 +2054,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 101
     },
     {
         "name": null,
@@ -1977,7 +2075,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 102
     },
     {
         "name": null,
@@ -1997,7 +2096,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 103
     },
     {
         "name": "Bull_takedamage_vo",
@@ -2017,7 +2117,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 104
     },
     {
         "name": null,
@@ -2037,7 +2138,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 105
     },
     {
         "name": null,
@@ -2057,7 +2159,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 106
     },
     {
         "name": null,
@@ -2077,7 +2180,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 107
     },
     {
         "name": null,
@@ -2097,7 +2201,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 108
     },
     {
         "name": "Bull_die",
@@ -2117,7 +2222,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 109
     },
     {
         "name": null,
@@ -2137,7 +2243,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 110
     },
     {
         "name": null,
@@ -2157,7 +2264,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 111
     },
     {
         "name": null,
@@ -2177,7 +2285,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 112
     },
     {
         "name": "Bull_kill",
@@ -2197,7 +2306,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 113
     },
     {
         "name": null,
@@ -2217,7 +2327,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 114
     },
     {
         "name": null,
@@ -2237,7 +2348,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 115
     },
     {
         "name": null,
@@ -2257,7 +2369,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 116
     },
     {
         "name": "Bull_lead",
@@ -2277,7 +2390,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 117
     },
     {
         "name": null,
@@ -2297,7 +2411,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 118
     },
     {
         "name": null,
@@ -2317,7 +2432,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 119
     },
     {
         "name": null,
@@ -2337,7 +2453,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 120
     },
     {
         "name": "Bull_start",
@@ -2357,7 +2474,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 121
     },
     {
         "name": null,
@@ -2377,7 +2495,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 122
     },
     {
         "name": null,
@@ -2397,7 +2516,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 123
     },
     {
         "name": "Bull_ulti",
@@ -2417,7 +2537,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 124
     },
     {
         "name": null,
@@ -2437,7 +2558,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 125
     },
     {
         "name": null,
@@ -2457,7 +2579,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 126
     },
     {
         "name": null,
@@ -2477,7 +2600,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 127
     },
     {
         "name": "Jess_takedamage",
@@ -2497,7 +2621,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 128
     },
     {
         "name": null,
@@ -2517,7 +2642,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 129
     },
     {
         "name": null,
@@ -2537,7 +2663,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 130
     },
     {
         "name": null,
@@ -2557,7 +2684,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 131
     },
     {
         "name": null,
@@ -2577,7 +2705,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 132
     },
     {
         "name": null,
@@ -2597,7 +2726,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 133
     },
     {
         "name": "Jess_die",
@@ -2617,7 +2747,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 134
     },
     {
         "name": null,
@@ -2637,7 +2768,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 135
     },
     {
         "name": null,
@@ -2657,7 +2789,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 136
     },
     {
         "name": null,
@@ -2677,7 +2810,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 137
     },
     {
         "name": "Jess_kill",
@@ -2697,7 +2831,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 138
     },
     {
         "name": null,
@@ -2717,7 +2852,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 139
     },
     {
         "name": null,
@@ -2737,7 +2873,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 140
     },
     {
         "name": null,
@@ -2757,7 +2894,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 141
     },
     {
         "name": null,
@@ -2777,7 +2915,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 142
     },
     {
         "name": null,
@@ -2797,7 +2936,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 143
     },
     {
         "name": null,
@@ -2817,7 +2957,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 144
     },
     {
         "name": "Jess_lead",
@@ -2837,7 +2978,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 145
     },
     {
         "name": null,
@@ -2857,7 +2999,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 146
     },
     {
         "name": null,
@@ -2877,7 +3020,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 147
     },
     {
         "name": null,
@@ -2897,7 +3041,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 148
     },
     {
         "name": null,
@@ -2917,7 +3062,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 149
     },
     {
         "name": "Jess_start",
@@ -2937,7 +3083,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 150
     },
     {
         "name": null,
@@ -2957,7 +3104,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 151
     },
     {
         "name": null,
@@ -2977,7 +3125,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 152
     },
     {
         "name": null,
@@ -2997,7 +3146,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 153
     },
     {
         "name": null,
@@ -3017,7 +3167,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 154
     },
     {
         "name": "Hotshot_Takedamge_Vo",
@@ -3037,7 +3188,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 155
     },
     {
         "name": null,
@@ -3057,7 +3209,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 156
     },
     {
         "name": null,
@@ -3077,7 +3230,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 157
     },
     {
         "name": null,
@@ -3097,7 +3251,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 158
     },
     {
         "name": null,
@@ -3117,7 +3272,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 159
     },
     {
         "name": null,
@@ -3137,7 +3293,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 160
     },
     {
         "name": null,
@@ -3157,7 +3314,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 161
     },
     {
         "name": null,
@@ -3177,7 +3335,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 162
     },
     {
         "name": "Hotshot_Die",
@@ -3197,7 +3356,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 163
     },
     {
         "name": null,
@@ -3217,7 +3377,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 164
     },
     {
         "name": null,
@@ -3237,7 +3398,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 165
     },
     {
         "name": null,
@@ -3257,7 +3419,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 166
     },
     {
         "name": "Hotshot_Kill",
@@ -3277,7 +3440,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 167
     },
     {
         "name": null,
@@ -3297,7 +3461,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 168
     },
     {
         "name": null,
@@ -3317,7 +3482,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 169
     },
     {
         "name": null,
@@ -3337,7 +3503,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 170
     },
     {
         "name": null,
@@ -3357,7 +3524,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 171
     },
     {
         "name": null,
@@ -3377,7 +3545,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 172
     },
     {
         "name": null,
@@ -3397,7 +3566,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 173
     },
     {
         "name": "Hotshot_Lead",
@@ -3417,7 +3587,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 174
     },
     {
         "name": null,
@@ -3437,7 +3608,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 175
     },
     {
         "name": null,
@@ -3457,7 +3629,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 176
     },
     {
         "name": null,
@@ -3477,7 +3650,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 177
     },
     {
         "name": null,
@@ -3497,7 +3671,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 178
     },
     {
         "name": "Hotshot_Start",
@@ -3517,7 +3692,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 179
     },
     {
         "name": null,
@@ -3537,7 +3713,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 180
     },
     {
         "name": null,
@@ -3557,7 +3734,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 181
     },
     {
         "name": null,
@@ -3577,7 +3755,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 182
     },
     {
         "name": "Hotshot_Ulti",
@@ -3597,7 +3776,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 183
     },
     {
         "name": null,
@@ -3617,7 +3797,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 184
     },
     {
         "name": null,
@@ -3637,7 +3818,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 185
     },
     {
         "name": null,
@@ -3657,7 +3839,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 186
     },
     {
         "name": "Piper_Takedamage",
@@ -3677,7 +3860,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 187
     },
     {
         "name": null,
@@ -3697,7 +3881,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 188
     },
     {
         "name": null,
@@ -3717,7 +3902,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 189
     },
     {
         "name": null,
@@ -3737,7 +3923,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 190
     },
     {
         "name": null,
@@ -3757,7 +3944,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 191
     },
     {
         "name": null,
@@ -3777,7 +3965,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 192
     },
     {
         "name": "Piper_Die",
@@ -3797,7 +3986,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 193
     },
     {
         "name": null,
@@ -3817,7 +4007,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 194
     },
     {
         "name": null,
@@ -3837,7 +4028,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 195
     },
     {
         "name": "Piper_Kill",
@@ -3857,7 +4049,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 196
     },
     {
         "name": null,
@@ -3877,7 +4070,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 197
     },
     {
         "name": null,
@@ -3897,7 +4091,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 198
     },
     {
         "name": null,
@@ -3917,7 +4112,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 199
     },
     {
         "name": "Piper_Lead",
@@ -3937,7 +4133,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 200
     },
     {
         "name": null,
@@ -3957,7 +4154,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 201
     },
     {
         "name": null,
@@ -3977,7 +4175,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 202
     },
     {
         "name": "Piper_Start",
@@ -3997,7 +4196,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 203
     },
     {
         "name": null,
@@ -4017,7 +4217,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 204
     },
     {
         "name": null,
@@ -4037,7 +4238,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 205
     },
     {
         "name": null,
@@ -4057,7 +4259,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 206
     },
     {
         "name": "Piper_Ulti",
@@ -4077,7 +4280,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 207
     },
     {
         "name": null,
@@ -4097,7 +4301,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 208
     },
     {
         "name": "Barley_Hurt",
@@ -4117,7 +4322,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 209
     },
     {
         "name": null,
@@ -4137,7 +4343,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 210
     },
     {
         "name": null,
@@ -4157,7 +4364,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 211
     },
     {
         "name": null,
@@ -4177,7 +4385,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 212
     },
     {
         "name": "Barley_Die",
@@ -4197,7 +4406,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 213
     },
     {
         "name": null,
@@ -4217,7 +4427,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 214
     },
     {
         "name": "Barley_Kill",
@@ -4237,7 +4448,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 215
     },
     {
         "name": null,
@@ -4257,7 +4469,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 216
     },
     {
         "name": null,
@@ -4277,7 +4490,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 217
     },
     {
         "name": null,
@@ -4297,7 +4511,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 218
     },
     {
         "name": "Barley_Lead",
@@ -4317,7 +4532,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 219
     },
     {
         "name": "Barley_Start",
@@ -4337,7 +4553,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 220
     },
     {
         "name": null,
@@ -4357,7 +4574,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 221
     },
     {
         "name": null,
@@ -4377,7 +4595,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 222
     },
     {
         "name": null,
@@ -4397,7 +4616,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 223
     },
     {
         "name": "Barley_Ulti",
@@ -4417,7 +4637,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 224
     },
     {
         "name": null,
@@ -4437,7 +4658,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 225
     },
     {
         "name": "Barley_throw",
@@ -4457,7 +4679,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 226
     },
     {
         "name": null,
@@ -4477,7 +4700,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 227
     },
     {
         "name": "Rick_start",
@@ -4497,7 +4721,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 228
     },
     {
         "name": null,
@@ -4517,7 +4742,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 229
     },
     {
         "name": null,
@@ -4537,7 +4763,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 230
     },
     {
         "name": null,
@@ -4557,7 +4784,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 231
     },
     {
         "name": null,
@@ -4577,7 +4805,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 232
     },
     {
         "name": null,
@@ -4597,7 +4826,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 233
     },
     {
         "name": "Rick_kill",
@@ -4617,7 +4847,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 234
     },
     {
         "name": null,
@@ -4637,7 +4868,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 235
     },
     {
         "name": null,
@@ -4657,7 +4889,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 236
     },
     {
         "name": null,
@@ -4677,7 +4910,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 237
     },
     {
         "name": null,
@@ -4697,7 +4931,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 238
     },
     {
         "name": null,
@@ -4717,7 +4952,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 239
     },
     {
         "name": null,
@@ -4737,7 +4973,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 240
     },
     {
         "name": "Rick_hurt",
@@ -4757,7 +4994,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 241
     },
     {
         "name": null,
@@ -4777,7 +5015,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 242
     },
     {
         "name": null,
@@ -4797,7 +5036,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 243
     },
     {
         "name": null,
@@ -4817,7 +5057,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 244
     },
     {
         "name": null,
@@ -4837,7 +5078,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 245
     },
     {
         "name": "Rick_ulti",
@@ -4857,7 +5099,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 246
     },
     {
         "name": null,
@@ -4877,7 +5120,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 247
     },
     {
         "name": null,
@@ -4897,7 +5141,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 248
     },
     {
         "name": null,
@@ -4917,7 +5162,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 249
     },
     {
         "name": null,
@@ -4937,7 +5183,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 250
     },
     {
         "name": null,
@@ -4957,7 +5204,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 251
     },
     {
         "name": "Rick_lead",
@@ -4977,7 +5225,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 252
     },
     {
         "name": null,
@@ -4997,7 +5246,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 253
     },
     {
         "name": null,
@@ -5017,7 +5267,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 254
     },
     {
         "name": null,
@@ -5037,7 +5288,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 255
     },
     {
         "name": null,
@@ -5057,7 +5309,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 256
     },
     {
         "name": "Rick_die",
@@ -5077,7 +5330,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 257
     },
     {
         "name": null,
@@ -5097,7 +5351,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 258
     },
     {
         "name": null,
@@ -5117,7 +5372,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 259
     },
     {
         "name": null,
@@ -5137,7 +5393,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 260
     },
     {
         "name": null,
@@ -5157,7 +5414,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 261
     },
     {
         "name": "El_primo_start",
@@ -5177,7 +5435,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 262
     },
     {
         "name": null,
@@ -5197,7 +5456,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 263
     },
     {
         "name": null,
@@ -5217,7 +5477,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 264
     },
     {
         "name": null,
@@ -5237,7 +5498,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 265
     },
     {
         "name": null,
@@ -5257,7 +5519,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 266
     },
     {
         "name": null,
@@ -5277,7 +5540,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 267
     },
     {
         "name": null,
@@ -5297,7 +5561,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 268
     },
     {
         "name": "El_primo_kill",
@@ -5317,7 +5582,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 269
     },
     {
         "name": null,
@@ -5337,7 +5603,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 270
     },
     {
         "name": null,
@@ -5357,7 +5624,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 271
     },
     {
         "name": "El_primo_hurt",
@@ -5377,7 +5645,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 272
     },
     {
         "name": null,
@@ -5397,7 +5666,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 273
     },
     {
         "name": null,
@@ -5417,7 +5687,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 274
     },
     {
         "name": null,
@@ -5437,7 +5708,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 275
     },
     {
         "name": "El_primo_lead",
@@ -5457,7 +5729,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 276
     },
     {
         "name": null,
@@ -5477,7 +5750,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 277
     },
     {
         "name": null,
@@ -5497,7 +5771,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 278
     },
     {
         "name": "El_primo_die",
@@ -5517,7 +5792,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 279
     },
     {
         "name": null,
@@ -5537,7 +5813,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 280
     },
     {
         "name": null,
@@ -5557,7 +5834,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 281
     },
     {
         "name": null,
@@ -5577,7 +5855,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 282
     },
     {
         "name": "El_primo_ulti",
@@ -5597,7 +5876,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 283
     },
     {
         "name": "El_primo_ulti_land",
@@ -5617,7 +5897,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 284
     },
     {
         "name": "El_primo_atk",
@@ -5637,7 +5918,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 285
     },
     {
         "name": null,
@@ -5657,7 +5939,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 286
     },
     {
         "name": null,
@@ -5677,7 +5960,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 287
     },
     {
         "name": null,
@@ -5697,7 +5981,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 288
     },
     {
         "name": null,
@@ -5717,7 +6002,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 289
     },
     {
         "name": "Crow_Takedamage",
@@ -5737,7 +6023,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 290
     },
     {
         "name": null,
@@ -5757,7 +6044,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 291
     },
     {
         "name": null,
@@ -5777,7 +6065,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 292
     },
     {
         "name": null,
@@ -5797,7 +6086,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 293
     },
     {
         "name": null,
@@ -5817,7 +6107,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 294
     },
     {
         "name": null,
@@ -5837,7 +6128,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 295
     },
     {
         "name": "Crow_Die",
@@ -5857,7 +6149,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 296
     },
     {
         "name": "Crow_Kill",
@@ -5877,7 +6170,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 297
     },
     {
         "name": null,
@@ -5897,7 +6191,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 298
     },
     {
         "name": null,
@@ -5917,7 +6212,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 299
     },
     {
         "name": "Crow_Lead",
@@ -5937,7 +6233,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 300
     },
     {
         "name": null,
@@ -5957,7 +6254,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 301
     },
     {
         "name": "Crow_Start",
@@ -5977,7 +6275,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 302
     },
     {
         "name": null,
@@ -5997,7 +6296,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 303
     },
     {
         "name": null,
@@ -6017,7 +6317,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 304
     },
     {
         "name": "Crow_Ulti",
@@ -6037,7 +6338,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 305
     },
     {
         "name": "Roll",
@@ -6057,7 +6359,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 306
     },
     {
         "name": "Reveal",
@@ -6077,7 +6380,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 307
     },
     {
         "name": "Upgrade",
@@ -6097,7 +6401,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 308
     },
     {
         "name": "Male_1_death",
@@ -6117,7 +6422,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 309
     },
     {
         "name": null,
@@ -6137,7 +6443,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 310
     },
     {
         "name": "Male_2_death",
@@ -6157,7 +6464,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 311
     },
     {
         "name": null,
@@ -6177,7 +6485,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 312
     },
     {
         "name": "Female_1_death",
@@ -6197,7 +6506,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 313
     },
     {
         "name": null,
@@ -6217,7 +6527,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 314
     },
     {
         "name": "Rhino_death",
@@ -6237,7 +6548,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 315
     },
     {
         "name": null,
@@ -6257,7 +6569,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 316
     },
     {
         "name": "Robo_death",
@@ -6277,7 +6590,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 317
     },
     {
         "name": null,
@@ -6297,7 +6611,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 318
     },
     {
         "name": "laser_panic_jingle",
@@ -6317,7 +6632,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 319
     },
     {
         "name": "laser_panic_bad_jingle",
@@ -6337,7 +6653,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 320
     },
     {
         "name": "ui_coin_gain",
@@ -6357,7 +6674,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 321
     },
     {
         "name": "ui_firstcoin",
@@ -6377,7 +6695,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 322
     },
     {
         "name": "ui_collect_coins",
@@ -6397,7 +6716,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 323
     },
     {
         "name": "ui_tapbottomitem",
@@ -6417,7 +6737,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 324
     },
     {
         "name": "ui_tapbottomguns",
@@ -6437,7 +6758,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 325
     },
     {
         "name": "ui_upgradium_gain",
@@ -6457,7 +6779,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 326
     },
     {
         "name": "ui_dust_gain",
@@ -6477,7 +6800,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 327
     },
     {
         "name": "ui_battle_end_xp_gain",
@@ -6497,7 +6821,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 328
     },
     {
         "name": "ui_battle_end_trophy_gain",
@@ -6517,7 +6842,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 329
     },
     {
         "name": "ui_battle_end_trophy_loss",
@@ -6537,7 +6863,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 330
     },
     {
         "name": "ui_battle_end_rank_up",
@@ -6557,7 +6884,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 331
     },
     {
         "name": "ui_battle_end_level_up",
@@ -6577,7 +6905,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 332
     },
     {
         "name": "ui_battle_end_element_slide",
@@ -6597,7 +6926,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 333
     },
     {
         "name": "ui_battle_end_victory",
@@ -6617,7 +6947,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 334
     },
     {
         "name": "ui_battle_end_defeat",
@@ -6637,7 +6968,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 335
     },
     {
         "name": "ui_battle_end_draw",
@@ -6657,7 +6989,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 336
     },
     {
         "name": "ui_battle_end_transition",
@@ -6677,7 +7010,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 337
     },
     {
         "name": "ui_battle_end_mvp_you",
@@ -6697,7 +7031,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 338
     },
     {
         "name": "ui_battle_end_mvp_enemy",
@@ -6717,7 +7052,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 339
     },
     {
         "name": "ui_battle_end_mvp_other_friendly",
@@ -6737,7 +7073,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 340
     },
     {
         "name": "ui_battle_end_score_decrease_appear",
@@ -6757,7 +7094,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 341
     },
     {
         "name": "ui_battle_end_score_increase_appear",
@@ -6777,7 +7115,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 342
     },
     {
         "name": "ui_battle_end_coin_element_appear",
@@ -6797,7 +7136,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 343
     },
     {
         "name": "can_not_cast_ulti_tutorial",
@@ -6817,7 +7157,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 344
     },
     {
         "name": "Bullet_rico_metal",
@@ -6837,7 +7178,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 345
     },
     {
         "name": "Bullet_rico_rock",
@@ -6857,7 +7199,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 346
     },
     {
         "name": "Bullet_rico_wood",
@@ -6877,7 +7220,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 347
     },
     {
         "name": "Bullet_rico_grass",
@@ -6897,7 +7241,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 348
     },
     {
         "name": "Chest_loop",
@@ -6917,7 +7262,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 349
     },
     {
         "name": "Ulti_button_press",
@@ -6937,7 +7283,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 350
     },
     {
         "name": "Ulti_button_cancel",
@@ -6957,7 +7304,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 351
     },
     {
         "name": "Slugfest_go",
@@ -6977,7 +7325,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 352
     },
     {
         "name": "Tick_tock",
@@ -6997,7 +7346,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 353
     },
     {
         "name": "Bad_kill",
@@ -7017,7 +7367,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 354
     },
     {
         "name": "Good_kill",
@@ -7037,7 +7388,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 355
     },
     {
         "name": "Select_char",
@@ -7057,7 +7409,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 356
     },
     {
         "name": "Wind_gust",
@@ -7077,7 +7430,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 357
     },
     {
         "name": "Jess_shoot",
@@ -7097,7 +7451,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 358
     },
     {
         "name": "Jess_hit",
@@ -7117,7 +7472,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 359
     },
     {
         "name": "Jess_throw",
@@ -7137,7 +7493,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 360
     },
     {
         "name": "Jess_dryfire",
@@ -7157,7 +7514,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 361
     },
     {
         "name": "Jess_reload",
@@ -7177,7 +7535,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 362
     },
     {
         "name": "Brock_dryfire",
@@ -7197,7 +7556,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 363
     },
     {
         "name": "Brock_reload",
@@ -7217,7 +7577,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 364
     },
     {
         "name": "Lucha_punch",
@@ -7237,7 +7598,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 365
     },
     {
         "name": "Lucha_ulti",
@@ -7257,7 +7619,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 366
     },
     {
         "name": "Punch_impact",
@@ -7277,7 +7640,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 367
     },
     {
         "name": null,
@@ -7297,7 +7661,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 368
     },
     {
         "name": "Trickshot_fire",
@@ -7317,7 +7682,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 369
     },
     {
         "name": "Trickshot_bullet",
@@ -7337,7 +7703,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 370
     },
     {
         "name": "Trickshot_fire_ulti",
@@ -7357,7 +7724,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 371
     },
     {
         "name": "Bow_fire",
@@ -7377,7 +7745,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 372
     },
     {
         "name": "Bow_reload",
@@ -7397,7 +7766,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 373
     },
     {
         "name": "Bow_dryfire",
@@ -7417,7 +7787,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 374
     },
     {
         "name": "Earth_atk",
@@ -7437,7 +7808,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 375
     },
     {
         "name": "Crow_throw",
@@ -7457,7 +7829,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 376
     },
     {
         "name": "crow_reload",
@@ -7477,7 +7850,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 377
     },
     {
         "name": "crow_dryfire",
@@ -7497,7 +7871,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 378
     },
     {
         "name": "spike_atk",
@@ -7517,7 +7892,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 379
     },
     {
         "name": "Spike_reload",
@@ -7537,7 +7913,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 380
     },
     {
         "name": "Cactus_explo",
@@ -7557,7 +7934,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 381
     },
     {
         "name": "Mortis_atk",
@@ -7577,7 +7955,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 382
     },
     {
         "name": "Mortis_ulti",
@@ -7597,7 +7976,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 383
     },
     {
         "name": "Mortis_reload",
@@ -7617,7 +7997,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 384
     },
     {
         "name": "Barkeep_atk",
@@ -7637,7 +8018,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 385
     },
     {
         "name": "Barkeep_bottle_hit",
@@ -7657,7 +8039,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 386
     },
     {
         "name": "Barkeep_reload",
@@ -7677,7 +8060,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 387
     },
     {
         "name": "Barkeep_ulti_throw",
@@ -7697,7 +8081,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 388
     },
     {
         "name": "Barkeep_ulti_hit",
@@ -7717,7 +8102,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 389
     },
     {
         "name": "Barkeep_dryfire",
@@ -7737,7 +8123,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 390
     },
     {
         "name": "Poco_reload",
@@ -7757,7 +8144,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 391
     },
     {
         "name": "Poco_atk",
@@ -7777,7 +8165,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 392
     },
     {
         "name": null,
@@ -7797,7 +8186,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 393
     },
     {
         "name": null,
@@ -7817,7 +8207,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 394
     },
     {
         "name": "Poco_ulti",
@@ -7837,7 +8228,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 395
     },
     {
         "name": "Tnt_guy_start_vo",
@@ -7857,7 +8249,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 396
     },
     {
         "name": null,
@@ -7877,7 +8270,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 397
     },
     {
         "name": null,
@@ -7897,7 +8291,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 398
     },
     {
         "name": null,
@@ -7917,7 +8312,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 399
     },
     {
         "name": "Tnt_guy_lead_vo",
@@ -7937,7 +8333,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 400
     },
     {
         "name": null,
@@ -7957,7 +8354,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 401
     },
     {
         "name": "Tnt_guy_kill_vo",
@@ -7977,7 +8375,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 402
     },
     {
         "name": null,
@@ -7997,7 +8396,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 403
     },
     {
         "name": null,
@@ -8017,7 +8417,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 404
     },
     {
         "name": null,
@@ -8037,7 +8438,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 405
     },
     {
         "name": "Tnt_guy_hurt_vo",
@@ -8057,7 +8459,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 406
     },
     {
         "name": null,
@@ -8077,7 +8480,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 407
     },
     {
         "name": null,
@@ -8097,7 +8501,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 408
     },
     {
         "name": null,
@@ -8117,7 +8522,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 409
     },
     {
         "name": null,
@@ -8137,7 +8543,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 410
     },
     {
         "name": "Tnt_guy_ulti_vo",
@@ -8157,7 +8564,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 411
     },
     {
         "name": null,
@@ -8177,7 +8585,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 412
     },
     {
         "name": "Tnt_guy_die_vo",
@@ -8197,7 +8606,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 413
     },
     {
         "name": null,
@@ -8217,7 +8627,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 414
     },
     {
         "name": null,
@@ -8237,7 +8648,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 415
     },
     {
         "name": null,
@@ -8257,7 +8669,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 416
     },
     {
         "name": null,
@@ -8277,7 +8690,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 417
     },
     {
         "name": "Nita_ulti_throw",
@@ -8297,7 +8711,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 418
     },
     {
         "name": "Nita_ulti_bear",
@@ -8317,7 +8732,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 419
     },
     {
         "name": "Nita_kill",
@@ -8337,7 +8753,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 420
     },
     {
         "name": null,
@@ -8357,7 +8774,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 421
     },
     {
         "name": null,
@@ -8377,7 +8795,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 422
     },
     {
         "name": "Nita_lead",
@@ -8397,7 +8816,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 423
     },
     {
         "name": null,
@@ -8417,7 +8837,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 424
     },
     {
         "name": null,
@@ -8437,7 +8858,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 425
     },
     {
         "name": "Nita_start",
@@ -8457,7 +8879,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 426
     },
     {
         "name": null,
@@ -8477,7 +8900,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 427
     },
     {
         "name": null,
@@ -8497,7 +8921,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 428
     },
     {
         "name": "Nita_ulti",
@@ -8517,7 +8942,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 429
     },
     {
         "name": null,
@@ -8537,7 +8963,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 430
     },
     {
         "name": null,
@@ -8557,7 +8984,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 431
     },
     {
         "name": "Nita_hurt",
@@ -8577,7 +9005,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 432
     },
     {
         "name": null,
@@ -8597,7 +9026,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 433
     },
     {
         "name": null,
@@ -8617,7 +9047,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 434
     },
     {
         "name": null,
@@ -8637,7 +9068,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 435
     },
     {
         "name": null,
@@ -8657,7 +9089,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 436
     },
     {
         "name": "Nita_death",
@@ -8677,7 +9110,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 437
     },
     {
         "name": null,
@@ -8697,7 +9131,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 438
     },
     {
         "name": "Nita_atk_vo",
@@ -8717,7 +9152,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 439
     },
     {
         "name": null,
@@ -8737,7 +9173,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 440
     },
     {
         "name": null,
@@ -8757,7 +9194,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 441
     },
     {
         "name": null,
@@ -8777,7 +9215,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 442
     },
     {
         "name": null,
@@ -8797,7 +9236,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 443
     },
     {
         "name": "Bomb_bleeps",
@@ -8817,7 +9257,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 444
     },
     {
         "name": "Bomb_bleeps_friend",
@@ -8837,7 +9278,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 445
     },
     {
         "name": "Tutorial_circle",
@@ -8857,7 +9299,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 446
     },
     {
         "name": "Reveal_common",
@@ -8877,7 +9320,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 447
     },
     {
         "name": "Reveal_rare",
@@ -8897,7 +9341,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 448
     },
     {
         "name": "Reveal_epic",
@@ -8917,7 +9362,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 449
     },
     {
         "name": "Reveal_legendary",
@@ -8937,7 +9383,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 450
     },
     {
         "name": "Reveal_loop",
@@ -8957,7 +9404,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 451
     },
     {
         "name": "Bo_mine_spawn",
@@ -8977,7 +9425,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 452
     },
     {
         "name": "Buy_gems",
@@ -8997,7 +9446,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 453
     },
     {
         "name": "Become_chips",
@@ -9017,7 +9467,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 454
     },
     {
         "name": "Safe_open_elixir",
@@ -9037,7 +9488,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 455
     },
     {
         "name": "Safe_open_char",
@@ -9057,7 +9509,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 456
     },
     {
         "name": "Getting_healed",
@@ -9077,7 +9530,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 457
     },
     {
         "name": "Sniper_atk",
@@ -9097,7 +9551,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 458
     },
     {
         "name": "Sniper_trail",
@@ -9117,7 +9572,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 459
     },
     {
         "name": "Sniper_reload",
@@ -9137,7 +9593,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 460
     },
     {
         "name": "Sniper_ulti",
@@ -9157,7 +9614,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 461
     },
     {
         "name": "Piper_mine_drop",
@@ -9177,7 +9635,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 462
     },
     {
         "name": "Sniper_land",
@@ -9197,7 +9656,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 463
     },
     {
         "name": "Throw_bawl",
@@ -9217,7 +9677,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 464
     },
     {
         "name": "Throw_bawl_ulti",
@@ -9237,7 +9698,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 465
     },
     {
         "name": "Catch_bawl",
@@ -9257,7 +9719,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 466
     },
     {
         "name": "Mystic_atk",
@@ -9277,7 +9740,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 467
     },
     {
         "name": "Black_hole",
@@ -9297,7 +9761,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 468
     },
     {
         "name": "Mystic_reload",
@@ -9317,7 +9782,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 469
     },
     {
         "name": "Mystic_ulti_deploy",
@@ -9337,7 +9803,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 470
     },
     {
         "name": "Mystic_dryfire",
@@ -9357,7 +9824,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 471
     },
     {
         "name": "Overtime",
@@ -9377,7 +9845,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 472
     },
     {
         "name": "MiniG_fire",
@@ -9397,7 +9866,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 473
     },
     {
         "name": "MiniG_reload",
@@ -9417,7 +9887,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 474
     },
     {
         "name": "Minig_dryfire",
@@ -9437,7 +9908,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 475
     },
     {
         "name": "MiniG_ulti",
@@ -9457,7 +9929,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 476
     },
     {
         "name": "Pve_wave_01",
@@ -9477,7 +9950,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 477
     },
     {
         "name": "Pve_boss_01",
@@ -9497,7 +9971,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 478
     },
     {
         "name": "Barrel_bot_ulti",
@@ -9517,7 +9992,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 479
     },
     {
         "name": "Get_100coins",
@@ -9537,7 +10013,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 480
     },
     {
         "name": "Trophy_rank_up",
@@ -9557,7 +10034,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 481
     },
     {
         "name": "Craft_rarity_01",
@@ -9577,7 +10055,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 482
     },
     {
         "name": "Craft_rarity_02",
@@ -9597,7 +10076,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 483
     },
     {
         "name": "Craft_rarity_03",
@@ -9617,7 +10097,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 484
     },
     {
         "name": "Craft_rarity_04",
@@ -9637,7 +10118,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 485
     },
     {
         "name": "Craft_rarity_05",
@@ -9657,7 +10139,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 486
     },
     {
         "name": "Brawl_button",
@@ -9677,7 +10160,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 487
     },
     {
         "name": "Select_brawler",
@@ -9697,7 +10181,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 488
     },
     {
         "name": "Barrelbot_step",
@@ -9717,7 +10202,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 489
     },
     {
         "name": "Char_rollout",
@@ -9737,7 +10223,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 490
     },
     {
         "name": "Brawler_intro",
@@ -9757,7 +10244,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 491
     },
     {
         "name": "Brawl_intro",
@@ -9777,7 +10265,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 492
     },
     {
         "name": "Upgrade_count",
@@ -9797,7 +10286,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 493
     },
     {
         "name": "Count_powerpoints",
@@ -9817,7 +10307,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 494
     },
     {
         "name": "Emit_powerpoints",
@@ -9837,7 +10328,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 495
     },
     {
         "name": "Gatcha_end_screen",
@@ -9857,7 +10349,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 496
     },
     {
         "name": "Gatcha_star_power",
@@ -9877,7 +10370,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 497
     },
     {
         "name": "Buy_from_shop",
@@ -9897,7 +10391,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 498
     },
     {
         "name": "Shop_item_appear",
@@ -9917,7 +10412,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 499
     },
     {
         "name": "Coins_gatcha",
@@ -9937,7 +10433,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 500
     },
     {
         "name": "Upgrade_unlocked",
@@ -9957,7 +10454,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 501
     },
     {
         "name": "2x_gatcha",
@@ -9977,7 +10475,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 502
     },
     {
         "name": "Get_powerpoints_small",
@@ -9997,7 +10496,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 503
     },
     {
         "name": "Get_powerpoints_medium",
@@ -10017,7 +10517,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 504
     },
     {
         "name": "Get_powerpoints_big",
@@ -10037,7 +10538,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 505
     },
     {
         "name": "Get_powerpoints_accent",
@@ -10057,7 +10559,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 506
     },
     {
         "name": "Get_powerpoints_accent_2",
@@ -10077,7 +10580,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 507
     },
     {
         "name": "Friend_online",
@@ -10097,7 +10601,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 508
     },
     {
         "name": "Ticket_gatcha",
@@ -10117,7 +10622,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 509
     },
     {
         "name": "Bad_brawler",
@@ -10137,7 +10643,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 510
     },
     {
         "name": "Tut_speech",
@@ -10157,7 +10664,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 511
     },
     {
         "name": "Marig_nohit",
@@ -10177,7 +10685,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 512
     },
     {
         "name": "Marig_hit",
@@ -10197,7 +10706,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 513
     },
     {
         "name": "Marig_fire",
@@ -10217,7 +10727,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 514
     },
     {
         "name": "Marig_ulti",
@@ -10237,7 +10748,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 515
     },
     {
         "name": "Hammer_atk",
@@ -10257,7 +10769,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 516
     },
     {
         "name": "Hammer_hit",
@@ -10277,7 +10790,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 517
     },
     {
         "name": "Hammer_u_atk",
@@ -10297,7 +10811,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 518
     },
     {
         "name": "Hammer_u_hit",
@@ -10317,7 +10832,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 519
     },
     {
         "name": "New_reward_home",
@@ -10337,7 +10853,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 520
     },
     {
         "name": "Trophy_rank_up_home",
@@ -10357,7 +10874,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 521
     },
     {
         "name": "Unlock_event_slot",
@@ -10377,7 +10895,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 522
     },
     {
         "name": "Frank_vo",
@@ -10397,7 +10916,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 523
     },
     {
         "name": null,
@@ -10417,7 +10937,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 524
     },
     {
         "name": null,
@@ -10437,7 +10958,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 525
     },
     {
         "name": null,
@@ -10457,7 +10979,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 526
     },
     {
         "name": null,
@@ -10477,7 +11000,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 527
     },
     {
         "name": null,
@@ -10497,7 +11021,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 528
     },
     {
         "name": "Emit_coins",
@@ -10517,7 +11042,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 529
     },
     {
         "name": "Emit_gems",
@@ -10537,7 +11063,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 530
     },
     {
         "name": "ui_gem_gain",
@@ -10557,7 +11084,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 531
     },
     {
         "name": "Emit_tickets",
@@ -10577,7 +11105,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 532
     },
     {
         "name": "ui_ticket_gain",
@@ -10597,7 +11126,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 533
     },
     {
         "name": "Emit_keys",
@@ -10617,7 +11147,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 534
     },
     {
         "name": "ui_key_gain",
@@ -10637,7 +11168,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 535
     },
     {
         "name": "Emit_star_keys",
@@ -10657,7 +11189,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 536
     },
     {
         "name": "ui_star_key_gain",
@@ -10677,7 +11210,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 537
     },
     {
         "name": "Emit_trophies",
@@ -10697,7 +11231,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 538
     },
     {
         "name": "ui_trophy_gain",
@@ -10717,7 +11252,8 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 539
     },
     {
         "name": "Gems_gatcha",
@@ -10737,6 +11273,7 @@
         "playOnlyWhenInView": null,
         "maxVolumeScaleLimit": null,
         "noSoundScaleLimit": null,
-        "padEmpyToEndMs": null
+        "padEmpyToEndMs": null,
+        "id": 540
     }
 ]

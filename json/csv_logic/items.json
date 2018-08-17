@@ -12,7 +12,8 @@
         "triggerRangeSubTiles": "3",
         "triggerAreaEffect": null,
         "canBePickedUp": "true",
-        "spawnEffect": "Spawn_plasmoid"
+        "spawnEffect": "Spawn_plasmoid",
+        "id": 18
     },
     {
         "name": "Speed",
@@ -27,7 +28,8 @@
         "triggerRangeSubTiles": "3",
         "triggerAreaEffect": null,
         "canBePickedUp": "true",
-        "spawnEffect": "Spawn_plasmoid"
+        "spawnEffect": "Spawn_plasmoid",
+        "id": 19
     },
     {
         "name": "Damage",
@@ -42,7 +44,8 @@
         "triggerRangeSubTiles": "3",
         "triggerAreaEffect": null,
         "canBePickedUp": "true",
-        "spawnEffect": "Spawn_plasmoid"
+        "spawnEffect": "Spawn_plasmoid",
+        "id": 20
     },
     {
         "name": "Point",
@@ -57,7 +60,8 @@
         "triggerRangeSubTiles": "3",
         "triggerAreaEffect": null,
         "canBePickedUp": "true",
-        "spawnEffect": "Spawn_plasmoid"
+        "spawnEffect": "Spawn_plasmoid",
+        "id": 21
     },
     {
         "name": "Corpse",
@@ -72,7 +76,8 @@
         "triggerRangeSubTiles": "3",
         "triggerAreaEffect": null,
         "canBePickedUp": "true",
-        "spawnEffect": "Spawn_plasmoid"
+        "spawnEffect": "Spawn_plasmoid",
+        "id": 22
     },
     {
         "name": "OrbSpawner",
@@ -87,7 +92,8 @@
         "triggerRangeSubTiles": null,
         "triggerAreaEffect": null,
         "canBePickedUp": null,
-        "spawnEffect": "Spawn_plasmoid"
+        "spawnEffect": "Spawn_plasmoid",
+        "id": 23
     },
     {
         "name": "Mine",
@@ -102,7 +108,8 @@
         "triggerRangeSubTiles": "3",
         "triggerAreaEffect": "MineExplosion",
         "canBePickedUp": "true",
-        "spawnEffect": "Spawn_mine"
+        "spawnEffect": "Spawn_mine",
+        "id": 24
     },
     {
         "name": "SupplyCrate",
@@ -117,7 +124,8 @@
         "triggerRangeSubTiles": null,
         "triggerAreaEffect": null,
         "canBePickedUp": null,
-        "spawnEffect": "Spawn_plasmoid"
+        "spawnEffect": "Spawn_plasmoid",
+        "id": 25
     },
     {
         "name": "BoxOfMines",
@@ -132,7 +140,8 @@
         "triggerRangeSubTiles": null,
         "triggerAreaEffect": null,
         "canBePickedUp": null,
-        "spawnEffect": "Spawn_plasmoid"
+        "spawnEffect": "Spawn_plasmoid",
+        "id": 26
     },
     {
         "name": "BattleRoyaleBuff",
@@ -147,7 +156,8 @@
         "triggerRangeSubTiles": "3",
         "triggerAreaEffect": null,
         "canBePickedUp": "true",
-        "spawnEffect": "Spawn_plasmoid"
+        "spawnEffect": "Spawn_plasmoid",
+        "id": 27
     },
     {
         "name": "Money",
@@ -162,7 +172,8 @@
         "triggerRangeSubTiles": "3",
         "triggerAreaEffect": null,
         "canBePickedUp": "true",
-        "spawnEffect": "Spawn_plasmoid"
+        "spawnEffect": "Spawn_plasmoid",
+        "id": 28
     },
     {
         "name": "BoxOfBombs",
@@ -177,7 +188,8 @@
         "triggerRangeSubTiles": null,
         "triggerAreaEffect": null,
         "canBePickedUp": null,
-        "spawnEffect": "Spawn_plasmoid"
+        "spawnEffect": "Spawn_plasmoid",
+        "id": 29
     },
     {
         "name": "Bomb",
@@ -192,7 +204,8 @@
         "triggerRangeSubTiles": "200",
         "triggerAreaEffect": "SniperBombExplosion",
         "canBePickedUp": "true",
-        "spawnEffect": "Spawn_sniper_bomb"
+        "spawnEffect": "Spawn_sniper_bomb",
+        "id": 30
     },
     {
         "name": "BoxOfSelfDestructBombs",
@@ -207,7 +220,8 @@
         "triggerRangeSubTiles": null,
         "triggerAreaEffect": null,
         "canBePickedUp": null,
-        "spawnEffect": "Spawn_plasmoid"
+        "spawnEffect": "Spawn_plasmoid",
+        "id": 31
     },
     {
         "name": "SelfDestructBomb",
@@ -222,6 +236,7 @@
         "triggerRangeSubTiles": "200",
         "triggerAreaEffect": "SelfDestructExplosion",
         "canBePickedUp": "true",
-        "spawnEffect": "artillery_dude_turret_attack"
+        "spawnEffect": "artillery_dude_turret_attack",
+        "id": 32
     }
 ]

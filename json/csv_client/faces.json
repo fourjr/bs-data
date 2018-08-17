@@ -2,81 +2,97 @@
     {
         "name": "BullGuyIdle",
         "fileName": "ui.sc",
-        "exportName": "hero_portrait"
+        "exportName": "hero_portrait",
+        "id": 30
     },
     {
         "name": "BullGuyWalk",
         "fileName": "ui.sc",
-        "exportName": "hero_portrait"
+        "exportName": "hero_portrait",
+        "id": 31
     },
     {
         "name": "BullGuyHappy",
         "fileName": "ui.sc",
-        "exportName": "hero_portrait"
+        "exportName": "hero_portrait",
+        "id": 32
     },
     {
         "name": "BullGuySad",
         "fileName": "ui.sc",
-        "exportName": "hero_portrait"
+        "exportName": "hero_portrait",
+        "id": 33
     },
     {
         "name": "BullGuySignature",
         "fileName": "ui.sc",
-        "exportName": "hero_portrait"
+        "exportName": "hero_portrait",
+        "id": 34
     },
     {
         "name": "ShellyFace",
         "fileName": "characters.sc",
-        "exportName": "shelly_face"
+        "exportName": "shelly_face",
+        "id": 35
     },
     {
         "name": "ShellyBanditFace",
         "fileName": "characters.sc",
-        "exportName": "shelly_bandit_face"
+        "exportName": "shelly_bandit_face",
+        "id": 36
     },
     {
         "name": "JunkerFace",
         "fileName": "characters.sc",
-        "exportName": "jessie_face"
+        "exportName": "jessie_face",
+        "id": 37
     },
     {
         "name": "JunkerDreamyFace",
         "fileName": "characters.sc",
-        "exportName": "jessie_dreamy_face"
+        "exportName": "jessie_dreamy_face",
+        "id": 38
     },
     {
         "name": "ColtFace",
         "fileName": "characters.sc",
-        "exportName": "colt_face"
+        "exportName": "colt_face",
+        "id": 39
     },
     {
         "name": "BullFace",
         "fileName": "characters.sc",
-        "exportName": "bull_face"
+        "exportName": "bull_face",
+        "id": 40
     },
     {
         "name": "PamFace",
         "fileName": "characters.sc",
-        "exportName": "pam_face"
+        "exportName": "pam_face",
+        "id": 41
     },
     {
         "name": "CrowFace",
         "fileName": "characters.sc",
-        "exportName": "crow_face"
+        "exportName": "crow_face",
+        "id": 42
     },
     {
         "name": "TaraFace",
         "fileName": "characters.sc",
-        "exportName": "tara_face"
+        "exportName": "tara_face",
+        "id": 43
     },
     {
         "name": "MortisFace",
         "fileName": "characters.sc",
-        "exportName": "mortis_face"
+        "exportName": "mortis_face",
+        "id": 44
     },
     {
         "name": "PennyFace",
         "fileName": "characters.sc",
-        "exportName": "penny_face"
+        "exportName": "penny_face",
+        "id": 45
     }
 ]

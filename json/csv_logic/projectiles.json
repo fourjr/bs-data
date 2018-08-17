@@ -57,7 +57,8 @@
         "sameProjectileCanNotDamageMS": null,
         "healOwnPercent": null,
         "canGrowStronger": null,
-        "hideFaster": null
+        "hideFaster": null,
+        "id": 6
     },
     {
         "name": "ShotgunGirlUltiProjectile",
@@ -117,7 +118,8 @@
         "sameProjectileCanNotDamageMS": null,
         "healOwnPercent": null,
         "canGrowStronger": null,
-        "hideFaster": null
+        "hideFaster": null,
+        "id": 7
     },
     {
         "name": "GunslingerProjectile",
@@ -177,7 +179,8 @@
         "sameProjectileCanNotDamageMS": null,
         "healOwnPercent": null,
         "canGrowStronger": null,
-        "hideFaster": null
+        "hideFaster": null,
+        "id": 8
     },
     {
         "name": "GunslingerUltiProjectile",
@@ -237,7 +240,8 @@
         "sameProjectileCanNotDamageMS": null,
         "healOwnPercent": null,
         "canGrowStronger": null,
-        "hideFaster": null
+        "hideFaster": null,
+        "id": 9
     },
     {
         "name": "BullDudeProjectile",
@@ -297,7 +301,8 @@
         "sameProjectileCanNotDamageMS": null,
         "healOwnPercent": null,
         "canGrowStronger": null,
-        "hideFaster": null
+        "hideFaster": null,
+        "id": 10
     },
     {
         "name": "RocketGirlProjectile",
@@ -357,7 +362,8 @@
         "sameProjectileCanNotDamageMS": null,
         "healOwnPercent": null,
         "canGrowStronger": null,
-        "hideFaster": null
+        "hideFaster": null,
+        "id": 11
     },
     {
         "name": "RocketGirlUltiProjectile",
@@ -417,7 +423,8 @@
         "sameProjectileCanNotDamageMS": null,
         "healOwnPercent": null,
         "canGrowStronger": null,
-        "hideFaster": null
+        "hideFaster": null,
+        "id": 12
     },
     {
         "name": "TrickshotDudeProjectile",
@@ -477,7 +484,8 @@
         "sameProjectileCanNotDamageMS": null,
         "healOwnPercent": null,
         "canGrowStronger": "true",
-        "hideFaster": null
+        "hideFaster": null,
+        "id": 13
     },
     {
         "name": "TrickshotDudeUltiProjectile",
@@ -537,7 +545,8 @@
         "sameProjectileCanNotDamageMS": null,
         "healOwnPercent": null,
         "canGrowStronger": "true",
-        "hideFaster": null
+        "hideFaster": null,
+        "id": 14
     },
     {
         "name": "CactusProjectile",
@@ -597,7 +606,8 @@
         "sameProjectileCanNotDamageMS": null,
         "healOwnPercent": null,
         "canGrowStronger": null,
-        "hideFaster": null
+        "hideFaster": null,
+        "id": 15
     },
     {
         "name": "CactusUltiProjectile",
@@ -657,7 +667,8 @@
         "sameProjectileCanNotDamageMS": null,
         "healOwnPercent": null,
         "canGrowStronger": null,
-        "hideFaster": null
+        "hideFaster": null,
+        "id": 16
     },
     {
         "name": "CactusSpike",
@@ -717,7 +728,8 @@
         "sameProjectileCanNotDamageMS": null,
         "healOwnPercent": null,
         "canGrowStronger": null,
-        "hideFaster": null
+        "hideFaster": null,
+        "id": 17
     },
     {
         "name": "MechanicProjectile1",
@@ -777,7 +789,8 @@
         "sameProjectileCanNotDamageMS": null,
         "healOwnPercent": null,
         "canGrowStronger": null,
-        "hideFaster": null
+        "hideFaster": null,
+        "id": 18
     },
     {
         "name": "MechanicProjectile2",
@@ -837,7 +850,8 @@
         "sameProjectileCanNotDamageMS": null,
         "healOwnPercent": null,
         "canGrowStronger": null,
-        "hideFaster": null
+        "hideFaster": null,
+        "id": 19
     },
     {
         "name": "MechanicProjectile3",
@@ -897,7 +911,8 @@
         "sameProjectileCanNotDamageMS": null,
         "healOwnPercent": null,
         "canGrowStronger": null,
-        "hideFaster": null
+        "hideFaster": null,
+        "id": 20
     },
     {
         "name": "MechanicUltiProjectile",
@@ -957,7 +972,8 @@
         "sameProjectileCanNotDamageMS": null,
         "healOwnPercent": null,
         "canGrowStronger": null,
-        "hideFaster": null
+        "hideFaster": null,
+        "id": 21
     },
     {
         "name": "ShamanUltiProjectile",
@@ -1017,7 +1033,8 @@
         "sameProjectileCanNotDamageMS": null,
         "healOwnPercent": null,
         "canGrowStronger": null,
-        "hideFaster": null
+        "hideFaster": null,
+        "id": 22
     },
     {
         "name": "BarkeepProjectile",
@@ -1077,7 +1094,8 @@
         "sameProjectileCanNotDamageMS": null,
         "healOwnPercent": null,
         "canGrowStronger": null,
-        "hideFaster": null
+        "hideFaster": null,
+        "id": 23
     },
     {
         "name": "BarkeepUltiProjectile",
@@ -1137,7 +1155,8 @@
         "sameProjectileCanNotDamageMS": null,
         "healOwnPercent": null,
         "canGrowStronger": null,
-        "hideFaster": null
+        "hideFaster": null,
+        "id": 24
     },
     {
         "name": "TntDudeProjectile",
@@ -1197,7 +1216,8 @@
         "sameProjectileCanNotDamageMS": null,
         "healOwnPercent": null,
         "canGrowStronger": null,
-        "hideFaster": null
+        "hideFaster": null,
+        "id": 25
     },
     {
         "name": "TntDudeUltiProjectile",
@@ -1257,7 +1277,8 @@
         "sameProjectileCanNotDamageMS": null,
         "healOwnPercent": null,
         "canGrowStronger": null,
-        "hideFaster": null
+        "hideFaster": null,
+        "id": 26
     },
     {
         "name": "BoneThrowerProjectile",
@@ -1317,7 +1338,8 @@
         "sameProjectileCanNotDamageMS": null,
         "healOwnPercent": null,
         "canGrowStronger": null,
-        "hideFaster": null
+        "hideFaster": null,
+        "id": 27
     },
     {
         "name": "BoneThrowerUltiProjectile",
@@ -1377,7 +1399,8 @@
         "sameProjectileCanNotDamageMS": null,
         "healOwnPercent": null,
         "canGrowStronger": null,
-        "hideFaster": null
+        "hideFaster": null,
+        "id": 28
     },
     {
         "name": "ShamanProjectile",
@@ -1437,7 +1460,8 @@
         "sameProjectileCanNotDamageMS": null,
         "healOwnPercent": null,
         "canGrowStronger": null,
-        "hideFaster": null
+        "hideFaster": null,
+        "id": 29
     },
     {
         "name": "DummyProjectileForLaserBall",
@@ -1497,7 +1521,8 @@
         "sameProjectileCanNotDamageMS": null,
         "healOwnPercent": null,
         "canGrowStronger": null,
-        "hideFaster": null
+        "hideFaster": null,
+        "id": 30
     },
     {
         "name": "MechanicTurretProjectile",
@@ -1557,7 +1582,8 @@
         "sameProjectileCanNotDamageMS": null,
         "healOwnPercent": null,
         "canGrowStronger": null,
-        "hideFaster": null
+        "hideFaster": null,
+        "id": 31
     },
     {
         "name": "UndertakerUltiProjectile",
@@ -1617,7 +1643,8 @@
         "sameProjectileCanNotDamageMS": null,
         "healOwnPercent": null,
         "canGrowStronger": null,
-        "hideFaster": null
+        "hideFaster": null,
+        "id": 32
     },
     {
         "name": "CrowProjectile",
@@ -1677,7 +1704,8 @@
         "sameProjectileCanNotDamageMS": null,
         "healOwnPercent": null,
         "canGrowStronger": null,
-        "hideFaster": null
+        "hideFaster": null,
+        "id": 33
     },
     {
         "name": "CrowUltiProjectile",
@@ -1737,7 +1765,8 @@
         "sameProjectileCanNotDamageMS": null,
         "healOwnPercent": null,
         "canGrowStronger": null,
-        "hideFaster": null
+        "hideFaster": null,
+        "id": 34
     },
     {
         "name": "DeadMariachiProjectile",
@@ -1797,7 +1826,8 @@
         "sameProjectileCanNotDamageMS": "250",
         "healOwnPercent": null,
         "canGrowStronger": null,
-        "hideFaster": null
+        "hideFaster": null,
+        "id": 35
     },
     {
         "name": "DeadMariachiUltiProjectile",
@@ -1857,7 +1887,8 @@
         "sameProjectileCanNotDamageMS": "400",
         "healOwnPercent": "100",
         "canGrowStronger": null,
-        "hideFaster": null
+        "hideFaster": null,
+        "id": 36
     },
     {
         "name": "BowDudeSpawnMineProjectile",
@@ -1917,7 +1948,8 @@
         "sameProjectileCanNotDamageMS": null,
         "healOwnPercent": null,
         "canGrowStronger": null,
-        "hideFaster": null
+        "hideFaster": null,
+        "id": 37
     },
     {
         "name": "BowDudeProjectile",
@@ -1977,7 +2009,8 @@
         "sameProjectileCanNotDamageMS": null,
         "healOwnPercent": null,
         "canGrowStronger": null,
-        "hideFaster": "true"
+        "hideFaster": "true",
+        "id": 38
     },
     {
         "name": "SniperProjectile",
@@ -2037,7 +2070,8 @@
         "sameProjectileCanNotDamageMS": null,
         "healOwnPercent": null,
         "canGrowStronger": "true",
-        "hideFaster": null
+        "hideFaster": null,
+        "id": 39
     },
     {
         "name": "MinigunDudeProjectile",
@@ -2097,7 +2131,8 @@
         "sameProjectileCanNotDamageMS": null,
         "healOwnPercent": null,
         "canGrowStronger": null,
-        "hideFaster": null
+        "hideFaster": null,
+        "id": 40
     },
     {
         "name": "MinigunDudeUltiProjectile",
@@ -2157,7 +2192,8 @@
         "sameProjectileCanNotDamageMS": null,
         "healOwnPercent": null,
         "canGrowStronger": null,
-        "hideFaster": null
+        "hideFaster": null,
+        "id": 41
     },
     {
         "name": "LuchadorProjectile",
@@ -2217,7 +2253,8 @@
         "sameProjectileCanNotDamageMS": null,
         "healOwnPercent": null,
         "canGrowStronger": null,
-        "hideFaster": "true"
+        "hideFaster": "true",
+        "id": 42
     },
     {
         "name": "BlackHoleProjectile",
@@ -2277,7 +2314,8 @@
         "sameProjectileCanNotDamageMS": null,
         "healOwnPercent": null,
         "canGrowStronger": null,
-        "hideFaster": null
+        "hideFaster": null,
+        "id": 43
     },
     {
         "name": "BlackHoleUltiProjectile",
@@ -2337,7 +2375,8 @@
         "sameProjectileCanNotDamageMS": null,
         "healOwnPercent": null,
         "canGrowStronger": null,
-        "hideFaster": null
+        "hideFaster": null,
+        "id": 44
     },
     {
         "name": "BarrelBotProjectile",
@@ -2397,7 +2436,8 @@
         "sameProjectileCanNotDamageMS": null,
         "healOwnPercent": null,
         "canGrowStronger": null,
-        "hideFaster": null
+        "hideFaster": null,
+        "id": 45
     },
     {
         "name": "ArtilleryDudeProjectile",
@@ -2457,7 +2497,8 @@
         "sameProjectileCanNotDamageMS": null,
         "healOwnPercent": null,
         "canGrowStronger": null,
-        "hideFaster": null
+        "hideFaster": null,
+        "id": 46
     },
     {
         "name": "ArtilleryDudeProjectile2",
@@ -2517,7 +2558,8 @@
         "sameProjectileCanNotDamageMS": null,
         "healOwnPercent": null,
         "canGrowStronger": null,
-        "hideFaster": null
+        "hideFaster": null,
+        "id": 47
     },
     {
         "name": "ArtilleryDudeUltiProjectile",
@@ -2577,7 +2619,8 @@
         "sameProjectileCanNotDamageMS": null,
         "healOwnPercent": null,
         "canGrowStronger": null,
-        "hideFaster": null
+        "hideFaster": null,
+        "id": 48
     },
     {
         "name": "ArtilleryDudeTurretProjectile",
@@ -2637,7 +2680,8 @@
         "sameProjectileCanNotDamageMS": null,
         "healOwnPercent": null,
         "canGrowStronger": null,
-        "hideFaster": null
+        "hideFaster": null,
+        "id": 49
     },
     {
         "name": "ShotgunGirlPetProjectile",
@@ -2697,7 +2741,8 @@
         "sameProjectileCanNotDamageMS": null,
         "healOwnPercent": null,
         "canGrowStronger": null,
-        "hideFaster": null
+        "hideFaster": null,
+        "id": 50
     },
     {
         "name": "BlackHolePetProjectile",
@@ -2757,7 +2802,8 @@
         "sameProjectileCanNotDamageMS": null,
         "healOwnPercent": null,
         "canGrowStronger": null,
-        "hideFaster": null
+        "hideFaster": null,
+        "id": 51
     },
     {
         "name": "CoopRangedEnemyProjectile",
@@ -2817,7 +2863,8 @@
         "sameProjectileCanNotDamageMS": null,
         "healOwnPercent": null,
         "canGrowStronger": null,
-        "hideFaster": null
+        "hideFaster": null,
+        "id": 52
     },
     {
         "name": "BossProjectile",
@@ -2877,7 +2924,8 @@
         "sameProjectileCanNotDamageMS": null,
         "healOwnPercent": null,
         "canGrowStronger": null,
-        "hideFaster": null
+        "hideFaster": null,
+        "id": 53
     },
     {
         "name": "HammerDudeProjectile",
@@ -2937,7 +2985,8 @@
         "sameProjectileCanNotDamageMS": "250",
         "healOwnPercent": null,
         "canGrowStronger": null,
-        "hideFaster": null
+        "hideFaster": null,
+        "id": 54
     },
     {
         "name": "HammerDudeUltiProjectile",
@@ -2997,7 +3046,8 @@
         "sameProjectileCanNotDamageMS": "250",
         "healOwnPercent": null,
         "canGrowStronger": null,
-        "hideFaster": null
+        "hideFaster": null,
+        "id": 55
     },
     {
         "name": "CrowProjectileFlame",
@@ -3057,7 +3107,8 @@
         "sameProjectileCanNotDamageMS": null,
         "healOwnPercent": null,
         "canGrowStronger": null,
-        "hideFaster": null
+        "hideFaster": null,
+        "id": 56
     },
     {
         "name": "CrowUltiProjectileFlame",
@@ -3117,6 +3168,7 @@
         "sameProjectileCanNotDamageMS": null,
         "healOwnPercent": null,
         "canGrowStronger": null,
-        "hideFaster": null
+        "hideFaster": null,
+        "id": 57
     }
 ]

@@ -35,7 +35,8 @@
         "blockingSpeechBubble": null,
         "showUlti": null,
         "showShootStick": null,
-        "leftSpeechBubble": null
+        "leftSpeechBubble": null,
+        "id": 26
     },
     {
         "name": "2",
@@ -73,7 +74,8 @@
         "blockingSpeechBubble": null,
         "showUlti": null,
         "showShootStick": null,
-        "leftSpeechBubble": null
+        "leftSpeechBubble": null,
+        "id": 27
     },
     {
         "name": "3",
@@ -111,7 +113,8 @@
         "blockingSpeechBubble": null,
         "showUlti": null,
         "showShootStick": null,
-        "leftSpeechBubble": null
+        "leftSpeechBubble": null,
+        "id": 28
     },
     {
         "name": "4",
@@ -149,7 +152,8 @@
         "blockingSpeechBubble": null,
         "showUlti": null,
         "showShootStick": null,
-        "leftSpeechBubble": null
+        "leftSpeechBubble": null,
+        "id": 29
     },
     {
         "name": "5",
@@ -187,7 +191,8 @@
         "blockingSpeechBubble": null,
         "showUlti": null,
         "showShootStick": null,
-        "leftSpeechBubble": null
+        "leftSpeechBubble": null,
+        "id": 30
     },
     {
         "name": "6",
@@ -225,7 +230,8 @@
         "blockingSpeechBubble": null,
         "showUlti": null,
         "showShootStick": null,
-        "leftSpeechBubble": null
+        "leftSpeechBubble": null,
+        "id": 31
     },
     {
         "name": "7",
@@ -263,7 +269,8 @@
         "blockingSpeechBubble": null,
         "showUlti": null,
         "showShootStick": null,
-        "leftSpeechBubble": null
+        "leftSpeechBubble": null,
+        "id": 32
     },
     {
         "name": "8",
@@ -301,7 +308,8 @@
         "blockingSpeechBubble": null,
         "showUlti": null,
         "showShootStick": "true",
-        "leftSpeechBubble": null
+        "leftSpeechBubble": null,
+        "id": 33
     },
     {
         "name": "9",
@@ -339,7 +347,8 @@
         "blockingSpeechBubble": null,
         "showUlti": null,
         "showShootStick": null,
-        "leftSpeechBubble": null
+        "leftSpeechBubble": null,
+        "id": 34
     },
     {
         "name": "10",
@@ -377,7 +386,8 @@
         "blockingSpeechBubble": null,
         "showUlti": null,
         "showShootStick": null,
-        "leftSpeechBubble": null
+        "leftSpeechBubble": null,
+        "id": 35
     },
     {
         "name": "11",
@@ -415,7 +425,8 @@
         "blockingSpeechBubble": null,
         "showUlti": null,
         "showShootStick": null,
-        "leftSpeechBubble": null
+        "leftSpeechBubble": null,
+        "id": 36
     },
     {
         "name": "12",
@@ -453,7 +464,8 @@
         "blockingSpeechBubble": null,
         "showUlti": null,
         "showShootStick": null,
-        "leftSpeechBubble": null
+        "leftSpeechBubble": null,
+        "id": 37
     },
     {
         "name": "13",
@@ -491,7 +503,8 @@
         "blockingSpeechBubble": null,
         "showUlti": null,
         "showShootStick": null,
-        "leftSpeechBubble": null
+        "leftSpeechBubble": null,
+        "id": 38
     },
     {
         "name": "14",
@@ -529,7 +542,8 @@
         "blockingSpeechBubble": null,
         "showUlti": null,
         "showShootStick": null,
-        "leftSpeechBubble": null
+        "leftSpeechBubble": null,
+        "id": 39
     },
     {
         "name": "15",
@@ -567,7 +581,8 @@
         "blockingSpeechBubble": null,
         "showUlti": null,
         "showShootStick": null,
-        "leftSpeechBubble": null
+        "leftSpeechBubble": null,
+        "id": 40
     },
     {
         "name": "16",
@@ -605,7 +620,8 @@
         "blockingSpeechBubble": null,
         "showUlti": null,
         "showShootStick": null,
-        "leftSpeechBubble": null
+        "leftSpeechBubble": null,
+        "id": 41
     },
     {
         "name": "17",
@@ -643,7 +659,8 @@
         "blockingSpeechBubble": null,
         "showUlti": "true",
         "showShootStick": null,
-        "leftSpeechBubble": null
+        "leftSpeechBubble": null,
+        "id": 42
     },
     {
         "name": "18",
@@ -681,6 +698,7 @@
         "blockingSpeechBubble": "true",
         "showUlti": null,
         "showShootStick": null,
-        "leftSpeechBubble": null
+        "leftSpeechBubble": null,
+        "id": 43
     }
 ]

@@ -86,7 +86,8 @@
         "showEnemyInMenus": null,
         "commonSetUpgradeBonus": "1",
         "rareSetUpgradeBonus": "3",
-        "superRareSetUpgradeBonus": "2"
+        "superRareSetUpgradeBonus": "2",
+        "id": 16
     },
     {
         "name": "Gunslinger",
@@ -175,7 +176,8 @@
         "showEnemyInMenus": null,
         "commonSetUpgradeBonus": "2",
         "rareSetUpgradeBonus": "3",
-        "superRareSetUpgradeBonus": "1"
+        "superRareSetUpgradeBonus": "1",
+        "id": 17
     },
     {
         "name": "BullDude",
@@ -264,7 +266,8 @@
         "showEnemyInMenus": null,
         "commonSetUpgradeBonus": "1",
         "rareSetUpgradeBonus": "2",
-        "superRareSetUpgradeBonus": "3"
+        "superRareSetUpgradeBonus": "3",
+        "id": 18
     },
     {
         "name": "RocketGirl",
@@ -353,7 +356,8 @@
         "showEnemyInMenus": "true",
         "commonSetUpgradeBonus": "2",
         "rareSetUpgradeBonus": "3",
-        "superRareSetUpgradeBonus": "1"
+        "superRareSetUpgradeBonus": "1",
+        "id": 19
     },
     {
         "name": "TrickshotDude",
@@ -442,7 +446,8 @@
         "showEnemyInMenus": null,
         "commonSetUpgradeBonus": "2",
         "rareSetUpgradeBonus": "3",
-        "superRareSetUpgradeBonus": "1"
+        "superRareSetUpgradeBonus": "1",
+        "id": 20
     },
     {
         "name": "Cactus",
@@ -531,7 +536,8 @@
         "showEnemyInMenus": null,
         "commonSetUpgradeBonus": "2",
         "rareSetUpgradeBonus": "1",
-        "superRareSetUpgradeBonus": "3"
+        "superRareSetUpgradeBonus": "3",
+        "id": 21
     },
     {
         "name": "Barkeep",
@@ -620,7 +626,8 @@
         "showEnemyInMenus": null,
         "commonSetUpgradeBonus": "2",
         "rareSetUpgradeBonus": "3",
-        "superRareSetUpgradeBonus": "1"
+        "superRareSetUpgradeBonus": "1",
+        "id": 22
     },
     {
         "name": "Mechanic",
@@ -709,7 +716,8 @@
         "showEnemyInMenus": null,
         "commonSetUpgradeBonus": "3",
         "rareSetUpgradeBonus": "2",
-        "superRareSetUpgradeBonus": "1"
+        "superRareSetUpgradeBonus": "1",
+        "id": 23
     },
     {
         "name": "Shaman",
@@ -798,7 +806,8 @@
         "showEnemyInMenus": null,
         "commonSetUpgradeBonus": "3",
         "rareSetUpgradeBonus": "1",
-        "superRareSetUpgradeBonus": "2"
+        "superRareSetUpgradeBonus": "2",
+        "id": 24
     },
     {
         "name": "TntDude",
@@ -887,7 +896,8 @@
         "showEnemyInMenus": "true",
         "commonSetUpgradeBonus": "2",
         "rareSetUpgradeBonus": "1",
-        "superRareSetUpgradeBonus": "3"
+        "superRareSetUpgradeBonus": "3",
+        "id": 25
     },
     {
         "name": "Luchador",
@@ -976,7 +986,8 @@
         "showEnemyInMenus": null,
         "commonSetUpgradeBonus": "1",
         "rareSetUpgradeBonus": "3",
-        "superRareSetUpgradeBonus": "2"
+        "superRareSetUpgradeBonus": "2",
+        "id": 26
     },
     {
         "name": "Undertaker",
@@ -1065,7 +1076,8 @@
         "showEnemyInMenus": null,
         "commonSetUpgradeBonus": "1",
         "rareSetUpgradeBonus": "2",
-        "superRareSetUpgradeBonus": "3"
+        "superRareSetUpgradeBonus": "3",
+        "id": 27
     },
     {
         "name": "Crow",
@@ -1154,7 +1166,8 @@
         "showEnemyInMenus": null,
         "commonSetUpgradeBonus": "2",
         "rareSetUpgradeBonus": "1",
-        "superRareSetUpgradeBonus": "3"
+        "superRareSetUpgradeBonus": "3",
+        "id": 28
     },
     {
         "name": "DeadMariachi",
@@ -1243,7 +1256,8 @@
         "showEnemyInMenus": null,
         "commonSetUpgradeBonus": "1",
         "rareSetUpgradeBonus": "3",
-        "superRareSetUpgradeBonus": "2"
+        "superRareSetUpgradeBonus": "2",
+        "id": 29
     },
     {
         "name": "BowDude",
@@ -1332,7 +1346,8 @@
         "showEnemyInMenus": null,
         "commonSetUpgradeBonus": "1",
         "rareSetUpgradeBonus": "2",
-        "superRareSetUpgradeBonus": "3"
+        "superRareSetUpgradeBonus": "3",
+        "id": 30
     },
     {
         "name": "Sniper",
@@ -1421,7 +1436,8 @@
         "showEnemyInMenus": null,
         "commonSetUpgradeBonus": "2",
         "rareSetUpgradeBonus": "3",
-        "superRareSetUpgradeBonus": "1"
+        "superRareSetUpgradeBonus": "1",
+        "id": 31
     },
     {
         "name": "MinigunDude",
@@ -1510,7 +1526,8 @@
         "showEnemyInMenus": null,
         "commonSetUpgradeBonus": "1",
         "rareSetUpgradeBonus": "3",
-        "superRareSetUpgradeBonus": "2"
+        "superRareSetUpgradeBonus": "2",
+        "id": 32
     },
     {
         "name": "BlackHole",
@@ -1599,7 +1616,8 @@
         "showEnemyInMenus": null,
         "commonSetUpgradeBonus": "1",
         "rareSetUpgradeBonus": "2",
-        "superRareSetUpgradeBonus": "3"
+        "superRareSetUpgradeBonus": "3",
+        "id": 33
     },
     {
         "name": "BarrelBot",
@@ -1688,7 +1706,8 @@
         "showEnemyInMenus": null,
         "commonSetUpgradeBonus": "1",
         "rareSetUpgradeBonus": "2",
-        "superRareSetUpgradeBonus": "3"
+        "superRareSetUpgradeBonus": "3",
+        "id": 34
     },
     {
         "name": "ArtilleryDude",
@@ -1777,7 +1796,8 @@
         "showEnemyInMenus": null,
         "commonSetUpgradeBonus": "3",
         "rareSetUpgradeBonus": "2",
-        "superRareSetUpgradeBonus": "1"
+        "superRareSetUpgradeBonus": "1",
+        "id": 35
     },
     {
         "name": "HammerDude",
@@ -1866,7 +1886,8 @@
         "showEnemyInMenus": null,
         "commonSetUpgradeBonus": "1",
         "rareSetUpgradeBonus": "3",
-        "superRareSetUpgradeBonus": "2"
+        "superRareSetUpgradeBonus": "2",
+        "id": 36
     },
     {
         "name": "TutorialDummy",
@@ -1955,7 +1976,8 @@
         "showEnemyInMenus": null,
         "commonSetUpgradeBonus": null,
         "rareSetUpgradeBonus": null,
-        "superRareSetUpgradeBonus": null
+        "superRareSetUpgradeBonus": null,
+        "id": 37
     },
     {
         "name": "TutorialDummy2",
@@ -2044,7 +2066,8 @@
         "showEnemyInMenus": null,
         "commonSetUpgradeBonus": null,
         "rareSetUpgradeBonus": null,
-        "superRareSetUpgradeBonus": null
+        "superRareSetUpgradeBonus": null,
+        "id": 38
     },
     {
         "name": "MechanicTurret",
@@ -2133,7 +2156,8 @@
         "showEnemyInMenus": null,
         "commonSetUpgradeBonus": null,
         "rareSetUpgradeBonus": null,
-        "superRareSetUpgradeBonus": null
+        "superRareSetUpgradeBonus": null,
+        "id": 39
     },
     {
         "name": "HealingStation",
@@ -2222,7 +2246,8 @@
         "showEnemyInMenus": null,
         "commonSetUpgradeBonus": null,
         "rareSetUpgradeBonus": null,
-        "superRareSetUpgradeBonus": null
+        "superRareSetUpgradeBonus": null,
+        "id": 40
     },
     {
         "name": "Safe1",
@@ -2311,7 +2336,8 @@
         "showEnemyInMenus": null,
         "commonSetUpgradeBonus": null,
         "rareSetUpgradeBonus": null,
-        "superRareSetUpgradeBonus": null
+        "superRareSetUpgradeBonus": null,
+        "id": 41
     },
     {
         "name": "Safe2",
@@ -2400,7 +2426,8 @@
         "showEnemyInMenus": null,
         "commonSetUpgradeBonus": null,
         "rareSetUpgradeBonus": null,
-        "superRareSetUpgradeBonus": null
+        "superRareSetUpgradeBonus": null,
+        "id": 42
     },
     {
         "name": "Safe3",
@@ -2489,7 +2516,8 @@
         "showEnemyInMenus": null,
         "commonSetUpgradeBonus": null,
         "rareSetUpgradeBonus": null,
-        "superRareSetUpgradeBonus": null
+        "superRareSetUpgradeBonus": null,
+        "id": 43
     },
     {
         "name": "Safe4",
@@ -2578,7 +2606,8 @@
         "showEnemyInMenus": null,
         "commonSetUpgradeBonus": null,
         "rareSetUpgradeBonus": null,
-        "superRareSetUpgradeBonus": null
+        "superRareSetUpgradeBonus": null,
+        "id": 44
     },
     {
         "name": "ExplodingBarrel",
@@ -2667,7 +2696,8 @@
         "showEnemyInMenus": null,
         "commonSetUpgradeBonus": null,
         "rareSetUpgradeBonus": null,
-        "superRareSetUpgradeBonus": null
+        "superRareSetUpgradeBonus": null,
+        "id": 45
     },
     {
         "name": "PoisonBarrel",
@@ -2756,7 +2786,8 @@
         "showEnemyInMenus": null,
         "commonSetUpgradeBonus": null,
         "rareSetUpgradeBonus": null,
-        "superRareSetUpgradeBonus": null
+        "superRareSetUpgradeBonus": null,
+        "id": 46
     },
     {
         "name": "ShamanPet",
@@ -2845,7 +2876,8 @@
         "showEnemyInMenus": null,
         "commonSetUpgradeBonus": null,
         "rareSetUpgradeBonus": null,
-        "superRareSetUpgradeBonus": null
+        "superRareSetUpgradeBonus": null,
+        "id": 47
     },
     {
         "name": "BoneThrowerPet",
@@ -2934,7 +2966,8 @@
         "showEnemyInMenus": null,
         "commonSetUpgradeBonus": null,
         "rareSetUpgradeBonus": null,
-        "superRareSetUpgradeBonus": null
+        "superRareSetUpgradeBonus": null,
+        "id": 48
     },
     {
         "name": "LaserBall",
@@ -3023,7 +3056,8 @@
         "showEnemyInMenus": null,
         "commonSetUpgradeBonus": null,
         "rareSetUpgradeBonus": null,
-        "superRareSetUpgradeBonus": null
+        "superRareSetUpgradeBonus": null,
+        "id": 49
     },
     {
         "name": "LootBox",
@@ -3112,7 +3146,8 @@
         "showEnemyInMenus": null,
         "commonSetUpgradeBonus": null,
         "rareSetUpgradeBonus": null,
-        "superRareSetUpgradeBonus": null
+        "superRareSetUpgradeBonus": null,
+        "id": 50
     },
     {
         "name": "TutorialDummy3",
@@ -3201,7 +3236,8 @@
         "showEnemyInMenus": null,
         "commonSetUpgradeBonus": null,
         "rareSetUpgradeBonus": null,
-        "superRareSetUpgradeBonus": null
+        "superRareSetUpgradeBonus": null,
+        "id": 51
     },
     {
         "name": "ArtilleryDudeTurret",
@@ -3290,7 +3326,8 @@
         "showEnemyInMenus": null,
         "commonSetUpgradeBonus": null,
         "rareSetUpgradeBonus": null,
-        "superRareSetUpgradeBonus": null
+        "superRareSetUpgradeBonus": null,
+        "id": 52
     },
     {
         "name": "CoopMeleeEnemy1",
@@ -3379,7 +3416,8 @@
         "showEnemyInMenus": null,
         "commonSetUpgradeBonus": null,
         "rareSetUpgradeBonus": null,
-        "superRareSetUpgradeBonus": null
+        "superRareSetUpgradeBonus": null,
+        "id": 53
     },
     {
         "name": "CoopMeleeEnemy2",
@@ -3468,7 +3506,8 @@
         "showEnemyInMenus": null,
         "commonSetUpgradeBonus": null,
         "rareSetUpgradeBonus": null,
-        "superRareSetUpgradeBonus": null
+        "superRareSetUpgradeBonus": null,
+        "id": 54
     },
     {
         "name": "CoopMeleeEnemy3",
@@ -3557,7 +3596,8 @@
         "showEnemyInMenus": null,
         "commonSetUpgradeBonus": null,
         "rareSetUpgradeBonus": null,
-        "superRareSetUpgradeBonus": null
+        "superRareSetUpgradeBonus": null,
+        "id": 55
     },
     {
         "name": "CoopMeleeEnemy4",
@@ -3646,7 +3686,8 @@
         "showEnemyInMenus": null,
         "commonSetUpgradeBonus": null,
         "rareSetUpgradeBonus": null,
-        "superRareSetUpgradeBonus": null
+        "superRareSetUpgradeBonus": null,
+        "id": 56
     },
     {
         "name": "CoopFastMeleeEnemy1",
@@ -3735,7 +3776,8 @@
         "showEnemyInMenus": null,
         "commonSetUpgradeBonus": null,
         "rareSetUpgradeBonus": null,
-        "superRareSetUpgradeBonus": null
+        "superRareSetUpgradeBonus": null,
+        "id": 57
     },
     {
         "name": "CoopFastMeleeEnemy2",
@@ -3824,7 +3866,8 @@
         "showEnemyInMenus": null,
         "commonSetUpgradeBonus": null,
         "rareSetUpgradeBonus": null,
-        "superRareSetUpgradeBonus": null
+        "superRareSetUpgradeBonus": null,
+        "id": 58
     },
     {
         "name": "CoopFastMeleeEnemy3",
@@ -3913,7 +3956,8 @@
         "showEnemyInMenus": null,
         "commonSetUpgradeBonus": null,
         "rareSetUpgradeBonus": null,
-        "superRareSetUpgradeBonus": null
+        "superRareSetUpgradeBonus": null,
+        "id": 59
     },
     {
         "name": "CoopFastMeleeEnemy4",
@@ -4002,7 +4046,8 @@
         "showEnemyInMenus": null,
         "commonSetUpgradeBonus": null,
         "rareSetUpgradeBonus": null,
-        "superRareSetUpgradeBonus": null
+        "superRareSetUpgradeBonus": null,
+        "id": 60
     },
     {
         "name": "CoopRangedEnemy1",
@@ -4091,7 +4136,8 @@
         "showEnemyInMenus": null,
         "commonSetUpgradeBonus": null,
         "rareSetUpgradeBonus": null,
-        "superRareSetUpgradeBonus": null
+        "superRareSetUpgradeBonus": null,
+        "id": 61
     },
     {
         "name": "CoopRangedEnemy2",
@@ -4180,7 +4226,8 @@
         "showEnemyInMenus": null,
         "commonSetUpgradeBonus": null,
         "rareSetUpgradeBonus": null,
-        "superRareSetUpgradeBonus": null
+        "superRareSetUpgradeBonus": null,
+        "id": 62
     },
     {
         "name": "CoopRangedEnemy3",
@@ -4269,7 +4316,8 @@
         "showEnemyInMenus": null,
         "commonSetUpgradeBonus": null,
         "rareSetUpgradeBonus": null,
-        "superRareSetUpgradeBonus": null
+        "superRareSetUpgradeBonus": null,
+        "id": 63
     },
     {
         "name": "CoopRangedEnemy4",
@@ -4358,7 +4406,8 @@
         "showEnemyInMenus": null,
         "commonSetUpgradeBonus": null,
         "rareSetUpgradeBonus": null,
-        "superRareSetUpgradeBonus": null
+        "superRareSetUpgradeBonus": null,
+        "id": 64
     },
     {
         "name": "ShotgunGirlPet",
@@ -4447,7 +4496,8 @@
         "showEnemyInMenus": null,
         "commonSetUpgradeBonus": null,
         "rareSetUpgradeBonus": null,
-        "superRareSetUpgradeBonus": null
+        "superRareSetUpgradeBonus": null,
+        "id": 65
     },
     {
         "name": "BlackHolePet",
@@ -4536,7 +4586,8 @@
         "showEnemyInMenus": null,
         "commonSetUpgradeBonus": null,
         "rareSetUpgradeBonus": null,
-        "superRareSetUpgradeBonus": null
+        "superRareSetUpgradeBonus": null,
+        "id": 66
     },
     {
         "name": "CoopBoss1",
@@ -4625,7 +4676,8 @@
         "showEnemyInMenus": null,
         "commonSetUpgradeBonus": null,
         "rareSetUpgradeBonus": null,
-        "superRareSetUpgradeBonus": null
+        "superRareSetUpgradeBonus": null,
+        "id": 67
     },
     {
         "name": "CoopBoss2",
@@ -4714,7 +4766,8 @@
         "showEnemyInMenus": null,
         "commonSetUpgradeBonus": null,
         "rareSetUpgradeBonus": null,
-        "superRareSetUpgradeBonus": null
+        "superRareSetUpgradeBonus": null,
+        "id": 68
     },
     {
         "name": "CoopBoss3",
@@ -4803,7 +4856,8 @@
         "showEnemyInMenus": null,
         "commonSetUpgradeBonus": null,
         "rareSetUpgradeBonus": null,
-        "superRareSetUpgradeBonus": null
+        "superRareSetUpgradeBonus": null,
+        "id": 69
     },
     {
         "name": "TutorialExplodingBarrel",
@@ -4892,6 +4946,7 @@
         "showEnemyInMenus": null,
         "commonSetUpgradeBonus": null,
         "rareSetUpgradeBonus": null,
-        "superRareSetUpgradeBonus": null
+        "superRareSetUpgradeBonus": null,
+        "id": 70
     }
 ]

@@ -17,7 +17,8 @@
         "tower": "CampaignCannon",
         "numTowers": "0",
         "towerLevel": "1",
-        "requiredStars": "3"
+        "requiredStars": "3",
+        "id": 21
     },
     {
         "name": "Campaign_tutorial_2",
@@ -37,7 +38,8 @@
         "tower": "CampaignCannon",
         "numTowers": "0",
         "towerLevel": "1",
-        "requiredStars": "4"
+        "requiredStars": "4",
+        "id": 22
     },
     {
         "name": "Campaign_tutorial_3",
@@ -57,7 +59,8 @@
         "tower": "CampaignCannon",
         "numTowers": "0",
         "towerLevel": "1",
-        "requiredStars": "5"
+        "requiredStars": "5",
+        "id": 23
     },
     {
         "name": "Campaign_1",
@@ -77,7 +80,8 @@
         "tower": "CampaignCannon",
         "numTowers": "2",
         "towerLevel": "4",
-        "requiredStars": "10"
+        "requiredStars": "10",
+        "id": 24
     },
     {
         "name": "Campaign_2",
@@ -97,7 +101,8 @@
         "tower": "CampaignCannon",
         "numTowers": "3",
         "towerLevel": "3",
-        "requiredStars": "9"
+        "requiredStars": "9",
+        "id": 25
     },
     {
         "name": "Campaign_3",
@@ -117,7 +122,8 @@
         "tower": "CampaignCannon",
         "numTowers": "0",
         "towerLevel": "5",
-        "requiredStars": "7"
+        "requiredStars": "7",
+        "id": 26
     },
     {
         "name": "Campaign_4",
@@ -137,7 +143,8 @@
         "tower": "CampaignCannon",
         "numTowers": "0",
         "towerLevel": "1",
-        "requiredStars": "6"
+        "requiredStars": "6",
+        "id": 27
     },
     {
         "name": "Campaign_4_1",
@@ -157,7 +164,8 @@
         "tower": "CampaignCannon",
         "numTowers": "2",
         "towerLevel": "6",
-        "requiredStars": "12"
+        "requiredStars": "12",
+        "id": 28
     },
     {
         "name": "Campaign_5",
@@ -177,7 +185,8 @@
         "tower": "CampaignCannon",
         "numTowers": "3",
         "towerLevel": "6",
-        "requiredStars": "12"
+        "requiredStars": "12",
+        "id": 29
     },
     {
         "name": "Campaign_6",
@@ -197,7 +206,8 @@
         "tower": "CampaignCannon",
         "numTowers": "0",
         "towerLevel": "8",
-        "requiredStars": "10"
+        "requiredStars": "10",
+        "id": 30
     },
     {
         "name": "Campaign_7",
@@ -217,7 +227,8 @@
         "tower": "CampaignCannon",
         "numTowers": "0",
         "towerLevel": "3",
-        "requiredStars": "9"
+        "requiredStars": "9",
+        "id": 31
     },
     {
         "name": "Campaign_8",
@@ -237,7 +248,8 @@
         "tower": "CampaignCannon",
         "numTowers": "2",
         "towerLevel": "8",
-        "requiredStars": "14"
+        "requiredStars": "14",
+        "id": 32
     },
     {
         "name": "Campaign_9",
@@ -257,7 +269,8 @@
         "tower": "CampaignCannon",
         "numTowers": "3",
         "towerLevel": "8",
-        "requiredStars": "14"
+        "requiredStars": "14",
+        "id": 33
     },
     {
         "name": "Campaign_10",
@@ -277,7 +290,8 @@
         "tower": "CampaignCannon",
         "numTowers": "0",
         "towerLevel": "9",
-        "requiredStars": "11"
+        "requiredStars": "11",
+        "id": 34
     },
     {
         "name": "Campaign_11",
@@ -297,7 +311,8 @@
         "tower": "CampaignCannon",
         "numTowers": "0",
         "towerLevel": "4",
-        "requiredStars": "10"
+        "requiredStars": "10",
+        "id": 35
     },
     {
         "name": "Campaign_12",
@@ -317,7 +332,8 @@
         "tower": "CampaignCannon",
         "numTowers": "2",
         "towerLevel": "10",
-        "requiredStars": "16"
+        "requiredStars": "16",
+        "id": 36
     },
     {
         "name": "Campaign_13",
@@ -337,7 +353,8 @@
         "tower": "CampaignCannon",
         "numTowers": "3",
         "towerLevel": "9",
-        "requiredStars": "15"
+        "requiredStars": "15",
+        "id": 37
     },
     {
         "name": "Campaign_14",
@@ -357,7 +374,8 @@
         "tower": "CampaignCannon",
         "numTowers": "0",
         "towerLevel": "10",
-        "requiredStars": "12"
+        "requiredStars": "12",
+        "id": 38
     },
     {
         "name": "Campaign_15",
@@ -377,7 +395,8 @@
         "tower": "CampaignCannon",
         "numTowers": "0",
         "towerLevel": "6",
-        "requiredStars": "12"
+        "requiredStars": "12",
+        "id": 39
     },
     {
         "name": "Campaign_16",
@@ -397,7 +416,8 @@
         "tower": "CampaignCannon",
         "numTowers": "2",
         "towerLevel": "11",
-        "requiredStars": "17"
+        "requiredStars": "17",
+        "id": 40
     },
     {
         "name": "Campaign_17",
@@ -417,7 +437,8 @@
         "tower": "CampaignCannon",
         "numTowers": "3",
         "towerLevel": "10",
-        "requiredStars": "16"
+        "requiredStars": "16",
+        "id": 41
     },
     {
         "name": "Campaign_18",
@@ -437,7 +458,8 @@
         "tower": "CampaignCannon",
         "numTowers": "0",
         "towerLevel": "12",
-        "requiredStars": "14"
+        "requiredStars": "14",
+        "id": 42
     },
     {
         "name": "Campaign_19",
@@ -457,7 +479,8 @@
         "tower": "CampaignCannon",
         "numTowers": "0",
         "towerLevel": "6",
-        "requiredStars": "12"
+        "requiredStars": "12",
+        "id": 43
     },
     {
         "name": "Campaign_20",
@@ -477,7 +500,8 @@
         "tower": "CampaignCannon",
         "numTowers": "2",
         "towerLevel": "12",
-        "requiredStars": "18"
+        "requiredStars": "18",
+        "id": 44
     },
     {
         "name": "Campaign_21",
@@ -497,7 +521,8 @@
         "tower": "CampaignCannon",
         "numTowers": "3",
         "towerLevel": "11",
-        "requiredStars": "17"
+        "requiredStars": "17",
+        "id": 45
     },
     {
         "name": "Campaign_22",
@@ -517,7 +542,8 @@
         "tower": "CampaignCannon",
         "numTowers": "0",
         "towerLevel": "12",
-        "requiredStars": "14"
+        "requiredStars": "14",
+        "id": 46
     },
     {
         "name": "Campaign_23",
@@ -537,7 +563,8 @@
         "tower": "CampaignCannon",
         "numTowers": "0",
         "towerLevel": "8",
-        "requiredStars": "14"
+        "requiredStars": "14",
+        "id": 47
     },
     {
         "name": "Campaign_24",
@@ -557,7 +584,8 @@
         "tower": "CampaignCannon",
         "numTowers": "2",
         "towerLevel": "13",
-        "requiredStars": "19"
+        "requiredStars": "19",
+        "id": 48
     },
     {
         "name": "Campaign_25",
@@ -577,7 +605,8 @@
         "tower": "CampaignCannon",
         "numTowers": "3",
         "towerLevel": "12",
-        "requiredStars": "18"
+        "requiredStars": "18",
+        "id": 49
     },
     {
         "name": "Campaign_26",
@@ -597,7 +626,8 @@
         "tower": "CampaignCannon",
         "numTowers": "0",
         "towerLevel": "14",
-        "requiredStars": "16"
+        "requiredStars": "16",
+        "id": 50
     },
     {
         "name": "Campaign_27",
@@ -617,7 +647,8 @@
         "tower": "CampaignCannon",
         "numTowers": "0",
         "towerLevel": "8",
-        "requiredStars": "14"
+        "requiredStars": "14",
+        "id": 51
     },
     {
         "name": "Campaign_28",
@@ -637,7 +668,8 @@
         "tower": "CampaignCannon",
         "numTowers": "2",
         "towerLevel": "14",
-        "requiredStars": "20"
+        "requiredStars": "20",
+        "id": 52
     },
     {
         "name": "Campaign_29",
@@ -657,7 +689,8 @@
         "tower": "CampaignCannon",
         "numTowers": "3",
         "towerLevel": "13",
-        "requiredStars": "19"
+        "requiredStars": "19",
+        "id": 53
     },
     {
         "name": "Campaign_30",
@@ -677,7 +710,8 @@
         "tower": "CampaignCannon",
         "numTowers": "0",
         "towerLevel": "14",
-        "requiredStars": "16"
+        "requiredStars": "16",
+        "id": 54
     },
     {
         "name": "Campaign_31",
@@ -697,7 +731,8 @@
         "tower": "CampaignCannon",
         "numTowers": "0",
         "towerLevel": "9",
-        "requiredStars": "15"
+        "requiredStars": "15",
+        "id": 55
     },
     {
         "name": "Campaign_32",
@@ -717,7 +752,8 @@
         "tower": "CampaignCannon",
         "numTowers": "2",
         "towerLevel": "15",
-        "requiredStars": "21"
+        "requiredStars": "21",
+        "id": 56
     },
     {
         "name": "Campaign_33",
@@ -737,7 +773,8 @@
         "tower": "CampaignCannon",
         "numTowers": "3",
         "towerLevel": "14",
-        "requiredStars": "20"
+        "requiredStars": "20",
+        "id": 57
     },
     {
         "name": "Campaign_34",
@@ -757,7 +794,8 @@
         "tower": "CampaignCannon",
         "numTowers": "0",
         "towerLevel": "15",
-        "requiredStars": "17"
+        "requiredStars": "17",
+        "id": 58
     },
     {
         "name": "Campaign_35",
@@ -777,7 +815,8 @@
         "tower": "CampaignCannon",
         "numTowers": "0",
         "towerLevel": "10",
-        "requiredStars": "16"
+        "requiredStars": "16",
+        "id": 59
     },
     {
         "name": "Campaign_36",
@@ -797,7 +836,8 @@
         "tower": "CampaignCannon",
         "numTowers": "2",
         "towerLevel": "16",
-        "requiredStars": "22"
+        "requiredStars": "22",
+        "id": 60
     },
     {
         "name": "Campaign_37",
@@ -817,7 +857,8 @@
         "tower": "CampaignCannon",
         "numTowers": "3",
         "towerLevel": "14",
-        "requiredStars": "20"
+        "requiredStars": "20",
+        "id": 61
     },
     {
         "name": "Campaign_38",
@@ -837,7 +878,8 @@
         "tower": "CampaignCannon",
         "numTowers": "0",
         "towerLevel": "16",
-        "requiredStars": "18"
+        "requiredStars": "18",
+        "id": 62
     },
     {
         "name": "Campaign_39",
@@ -857,7 +899,8 @@
         "tower": "CampaignCannon",
         "numTowers": "0",
         "towerLevel": "11",
-        "requiredStars": "17"
+        "requiredStars": "17",
+        "id": 63
     },
     {
         "name": "Campaign_40",
@@ -877,7 +920,8 @@
         "tower": "CampaignCannon",
         "numTowers": "4",
         "towerLevel": "15",
-        "requiredStars": "21"
+        "requiredStars": "21",
+        "id": 64
     },
     {
         "name": "Campaign_41",
@@ -897,7 +941,8 @@
         "tower": "CampaignCannon",
         "numTowers": "4",
         "towerLevel": "15",
-        "requiredStars": "22"
+        "requiredStars": "22",
+        "id": 65
     },
     {
         "name": "Campaign_42",
@@ -917,7 +962,8 @@
         "tower": "CampaignCannon",
         "numTowers": "4",
         "towerLevel": "15",
-        "requiredStars": "23"
+        "requiredStars": "23",
+        "id": 66
     },
     {
         "name": "Campaign_43",
@@ -937,7 +983,8 @@
         "tower": "CampaignCannon",
         "numTowers": "4",
         "towerLevel": "15",
-        "requiredStars": "24"
+        "requiredStars": "24",
+        "id": 67
     },
     {
         "name": "Campaign_44",
@@ -957,7 +1004,8 @@
         "tower": "CampaignCannon",
         "numTowers": "4",
         "towerLevel": "15",
-        "requiredStars": "25"
+        "requiredStars": "25",
+        "id": 68
     },
     {
         "name": "Campaign_45",
@@ -977,7 +1025,8 @@
         "tower": "CampaignCannon",
         "numTowers": "4",
         "towerLevel": "15",
-        "requiredStars": "26"
+        "requiredStars": "26",
+        "id": 69
     },
     {
         "name": "Campaign_46",
@@ -997,7 +1046,8 @@
         "tower": "CampaignCannon",
         "numTowers": "4",
         "towerLevel": "15",
-        "requiredStars": "27"
+        "requiredStars": "27",
+        "id": 70
     },
     {
         "name": "Campaign_47",
@@ -1017,7 +1067,8 @@
         "tower": "CampaignCannon",
         "numTowers": "4",
         "towerLevel": "15",
-        "requiredStars": "27"
+        "requiredStars": "27",
+        "id": 71
     },
     {
         "name": "Campaign_48",
@@ -1037,7 +1088,8 @@
         "tower": "CampaignCannon",
         "numTowers": "4",
         "towerLevel": "15",
-        "requiredStars": "27"
+        "requiredStars": "27",
+        "id": 72
     },
     {
         "name": "Campaign_49",
@@ -1057,7 +1109,8 @@
         "tower": "CampaignCannon",
         "numTowers": "4",
         "towerLevel": "15",
-        "requiredStars": "27"
+        "requiredStars": "27",
+        "id": 73
     },
     {
         "name": "Campaign_50",
@@ -1077,6 +1130,7 @@
         "tower": "CampaignCannon",
         "numTowers": "4",
         "towerLevel": "15",
-        "requiredStars": "27"
+        "requiredStars": "27",
+        "id": 74
     }
 ]
