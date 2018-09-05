@@ -9,8 +9,8 @@
         "rarity": null,
         "premiumCurrency": "TRUE",
         "textRed": null,
-        "textGreen": "255",
-        "textBlue": "92",
+        "textGreen": 255,
+        "textBlue": 92,
         "cap": null,
         "id": 5
     },
@@ -23,9 +23,9 @@
         "type": null,
         "rarity": null,
         "premiumCurrency": null,
-        "textRed": "192",
+        "textRed": 192,
         "textGreen": null,
-        "textBlue": "192",
+        "textBlue": 192,
         "cap": null,
         "id": 6
     },

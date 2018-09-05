@@ -361,7 +361,7 @@
     },
     {
         "name": "APP_RATE_XP_LEVEL",
-        "numberValue": "11",
+        "numberValue": 11,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -371,7 +371,7 @@
     },
     {
         "name": "COME_BACK_NOTIFICATION_DELAY_HOURS_SMALL",
-        "numberValue": "48",
+        "numberValue": 48,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -381,7 +381,7 @@
     },
     {
         "name": "COME_BACK_NOTIFICATION_DELAY_HOURS_MEDIUM",
-        "numberValue": "120",
+        "numberValue": 120,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -391,7 +391,7 @@
     },
     {
         "name": "COME_BACK_NOTIFICATION_DELAY_HOURS_LARGE",
-        "numberValue": "336",
+        "numberValue": 336,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -671,7 +671,7 @@
     },
     {
         "name": "ASH_CNT",
-        "numberValue": "250",
+        "numberValue": 250,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -681,7 +681,7 @@
     },
     {
         "name": "ASH_CNT_LOW",
-        "numberValue": "120",
+        "numberValue": 120,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -691,7 +691,7 @@
     },
     {
         "name": "ASH_CNT_COMBAT",
-        "numberValue": "40",
+        "numberValue": 40,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -701,7 +701,7 @@
     },
     {
         "name": "ASH_CNT_COMBAT_LOW",
-        "numberValue": "0",
+        "numberValue": 0,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -711,7 +711,7 @@
     },
     {
         "name": "SNOWFLAKE_CNT",
-        "numberValue": "0",
+        "numberValue": 0,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -721,7 +721,7 @@
     },
     {
         "name": "SNOWFLAKE_CNT_LOW",
-        "numberValue": "0",
+        "numberValue": 0,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -731,7 +731,7 @@
     },
     {
         "name": "SNOWFLAKE_CNT_COMBAT",
-        "numberValue": "0",
+        "numberValue": 0,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -741,7 +741,7 @@
     },
     {
         "name": "SNOWFLAKE_CNT_COMBAT_LOW",
-        "numberValue": "0",
+        "numberValue": 0,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -821,7 +821,7 @@
     },
     {
         "name": "ANDROID_HIGH_MEMORY_LIMIT",
-        "numberValue": "900",
+        "numberValue": 900,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -831,7 +831,7 @@
     },
     {
         "name": "ANDROID_MEDIUM_MEMORY_LIMIT",
-        "numberValue": "600",
+        "numberValue": 600,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -891,7 +891,7 @@
     },
     {
         "name": "LIVE_REPLAY_PRESIMULATE_MAX_SUBTICKS_PER_FRAME",
-        "numberValue": "120",
+        "numberValue": 120,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -901,7 +901,7 @@
     },
     {
         "name": "LIVE_REPLAY_PRESIMULATE_MAX_SUBTICKS_TOTAL",
-        "numberValue": "14400",
+        "numberValue": 14400,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -911,7 +911,7 @@
     },
     {
         "name": "WAR_COOLDOWN_MAX_DISPLAY_TIME",
-        "numberValue": "86400",
+        "numberValue": 86400,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -921,7 +921,7 @@
     },
     {
         "name": "INITIAL_ZOOM_TABLET",
-        "numberValue": "90",
+        "numberValue": 90,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -931,7 +931,7 @@
     },
     {
         "name": "INITIAL_ZOOM_PHONE_WIDESCREEN",
-        "numberValue": "100",
+        "numberValue": 100,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -941,7 +941,7 @@
     },
     {
         "name": "INITIAL_ZOOM_PHONE",
-        "numberValue": "100",
+        "numberValue": 100,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -951,7 +951,7 @@
     },
     {
         "name": "MAX_WAR_TROOP_MESSAGE_LENGTH",
-        "numberValue": "40",
+        "numberValue": 40,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -971,7 +971,7 @@
     },
     {
         "name": "NETWORK_UNREACHABLE_TIMEOUT",
-        "numberValue": "30",
+        "numberValue": 30,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -991,7 +991,7 @@
     },
     {
         "name": "LOADING_ANIM_DISPLAY_DELAY",
-        "numberValue": "1000",
+        "numberValue": 1000,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -1031,7 +1031,7 @@
     },
     {
         "name": "WALL_ANIMATE_CYCLE",
-        "numberValue": "45",
+        "numberValue": 45,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -1041,7 +1041,7 @@
     },
     {
         "name": "WALL_ANIMATE_CYCLE_LOW_END",
-        "numberValue": "90",
+        "numberValue": 90,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -1151,7 +1151,7 @@
     },
     {
         "name": "GOOGLE_SERVICE_POPUP_AFTER_TOWN_HALL_LEVEL",
-        "numberValue": "3",
+        "numberValue": 3,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -1201,7 +1201,7 @@
     },
     {
         "name": "CLOUD_CHAT_TIME_LIMIT_SECONDS",
-        "numberValue": "4",
+        "numberValue": 4,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -1211,7 +1211,7 @@
     },
     {
         "name": "CLOUD_CHAT_TROPHY_LIMIT",
-        "numberValue": "3600",
+        "numberValue": 3600,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -1221,7 +1221,7 @@
     },
     {
         "name": "CLOUD_CHAT_TROPHY_LIMIT_V2",
-        "numberValue": "2000",
+        "numberValue": 2000,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -1261,7 +1261,7 @@
     },
     {
         "name": "IN_APP_RETRY_LIMIT",
-        "numberValue": "4",
+        "numberValue": 4,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -1301,7 +1301,7 @@
     },
     {
         "name": "RECONNECT_AFTER_SLEEPING_SECONDS",
-        "numberValue": "180",
+        "numberValue": 180,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -1321,7 +1321,7 @@
     },
     {
         "name": "VILLAGE_EDIT_MODE_MINIMUM_TH_LEVEL",
-        "numberValue": "2",
+        "numberValue": 2,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -1361,7 +1361,7 @@
     },
     {
         "name": "PERFORMANCE_EVENTS_INTERVAL_SECONDS",
-        "numberValue": "99999",
+        "numberValue": 99999,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -1371,7 +1371,7 @@
     },
     {
         "name": "PERFORMANCE_EVENTS_INTERVAL_SECONDS_ANDROID",
-        "numberValue": "60",
+        "numberValue": 60,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -1381,7 +1381,7 @@
     },
     {
         "name": "HARD_BIND_TOWN_HALL_LEVEL",
-        "numberValue": "4",
+        "numberValue": 4,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -1461,7 +1461,7 @@
     },
     {
         "name": "CONFIRM_WORD_MAX_LENGTH",
-        "numberValue": "15",
+        "numberValue": 15,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -1471,7 +1471,7 @@
     },
     {
         "name": "HUD_PRINT_TIME",
-        "numberValue": "6",
+        "numberValue": 6,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -1481,7 +1481,7 @@
     },
     {
         "name": "HUD_PRINT_TIME_LONG",
-        "numberValue": "30",
+        "numberValue": 30,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -1501,7 +1501,7 @@
     },
     {
         "name": "PAYMENT_LIMIT_CONFIRMATION_USD",
-        "numberValue": "15000",
+        "numberValue": 15000,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -1511,7 +1511,7 @@
     },
     {
         "name": "PAYMENT_LIMIT_CONFIRMATION_TIME",
-        "numberValue": "15",
+        "numberValue": 15,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -1544,7 +1544,7 @@
         "numberValue": null,
         "booleanValue": null,
         "textValue": null,
-        "numberArray": "10",
+        "numberArray": 10,
         "stringArray": null,
         "altStringArray": null,
         "id": 163
@@ -1554,7 +1554,7 @@
         "numberValue": null,
         "booleanValue": null,
         "textValue": null,
-        "numberArray": "50",
+        "numberArray": 50,
         "stringArray": null,
         "altStringArray": null,
         "id": 164
@@ -1564,7 +1564,7 @@
         "numberValue": null,
         "booleanValue": null,
         "textValue": null,
-        "numberArray": "100",
+        "numberArray": 100,
         "stringArray": null,
         "altStringArray": null,
         "id": 165
@@ -1574,7 +1574,7 @@
         "numberValue": null,
         "booleanValue": null,
         "textValue": null,
-        "numberArray": "150",
+        "numberArray": 150,
         "stringArray": null,
         "altStringArray": null,
         "id": 166
@@ -1584,7 +1584,7 @@
         "numberValue": null,
         "booleanValue": null,
         "textValue": null,
-        "numberArray": "200",
+        "numberArray": 200,
         "stringArray": null,
         "altStringArray": null,
         "id": 167
@@ -1711,7 +1711,7 @@
     },
     {
         "name": "REPEAT_ATTACK_INSTRUCTION_TIME",
-        "numberValue": "5",
+        "numberValue": 5,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -1721,7 +1721,7 @@
     },
     {
         "name": "SWITCH_CONFIRMATION_XP_LEVEL",
-        "numberValue": "7",
+        "numberValue": 7,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -1751,7 +1751,7 @@
     },
     {
         "name": "NO_MONEY_COLOR_RED",
-        "numberValue": "255",
+        "numberValue": 255,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -1761,7 +1761,7 @@
     },
     {
         "name": "NO_MONEY_COLOR_GREEN",
-        "numberValue": "123",
+        "numberValue": 123,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -1771,7 +1771,7 @@
     },
     {
         "name": "NO_MONEY_COLOR_BLUE",
-        "numberValue": "114",
+        "numberValue": 114,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -1811,7 +1811,7 @@
     },
     {
         "name": "MAX_ALLIANCE_SEARCH_TROPHIES",
-        "numberValue": "50000",
+        "numberValue": 50000,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -1831,7 +1831,7 @@
     },
     {
         "name": "SHOW_NEWS_INDICATOR_XP_LIMIT",
-        "numberValue": "10",
+        "numberValue": 10,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -1901,7 +1901,7 @@
     },
     {
         "name": "HERO_HEALTH_WARNING_LEVEL",
-        "numberValue": "40",
+        "numberValue": 40,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -1911,7 +1911,7 @@
     },
     {
         "name": "KEEPALIVE_INTERVAL_SECONDS",
-        "numberValue": "5",
+        "numberValue": 5,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -1931,7 +1931,7 @@
     },
     {
         "name": "KEEPALIVE_TIMEOUT",
-        "numberValue": "30",
+        "numberValue": 30,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -1941,7 +1941,7 @@
     },
     {
         "name": "KEEPALIVE_SHOW_WARNING_AFTER_SECONDS",
-        "numberValue": "10",
+        "numberValue": 10,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -2021,7 +2021,7 @@
     },
     {
         "name": "CLAN_BADGE_SCROLLER_SNAP_AGRESSIVENESS",
-        "numberValue": "200",
+        "numberValue": 200,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -2041,7 +2041,7 @@
     },
     {
         "name": "MAX_INSTRUCTOR_TH_LEVEL",
-        "numberValue": "0",
+        "numberValue": 0,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -2071,7 +2071,7 @@
     },
     {
         "name": "SC_CACHE_FREE_SPACE_LIMIT",
-        "numberValue": "200",
+        "numberValue": 200,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -2081,7 +2081,7 @@
     },
     {
         "name": "SC_CACHE_FREE_SPACE_LIMIT_ANDROID",
-        "numberValue": "400",
+        "numberValue": 400,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -2121,7 +2121,7 @@
     },
     {
         "name": "INSTRUCTOR_MIN_IDLE_TIME_SEC",
-        "numberValue": "5",
+        "numberValue": 5,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -2131,7 +2131,7 @@
     },
     {
         "name": "INSTRUCTOR_MAX_IDLE_TIME_SEC",
-        "numberValue": "10",
+        "numberValue": 10,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -2141,7 +2141,7 @@
     },
     {
         "name": "INSTRUCTOR_MIN_GOLD_PERCENT_FOR_RECOMMENDING_RAID",
-        "numberValue": "25",
+        "numberValue": 25,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -2151,7 +2151,7 @@
     },
     {
         "name": "INSTRUCTOR_MIN_ELIXIR_PERCENT_FOR_RECOMMENDING_RAID",
-        "numberValue": "25",
+        "numberValue": 25,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -2161,7 +2161,7 @@
     },
     {
         "name": "INSTRUCTOR_TIME_TO_HIDE_BUBBLE_AFTER_TAP_IN_SECONDS",
-        "numberValue": "10",
+        "numberValue": 10,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -2241,7 +2241,7 @@
     },
     {
         "name": "TRACK_GC_SPEND_MODULO",
-        "numberValue": "199",
+        "numberValue": 199,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -2251,7 +2251,7 @@
     },
     {
         "name": "LEGEND_TROPHY_LIMIT",
-        "numberValue": "5000",
+        "numberValue": 5000,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -2261,7 +2261,7 @@
     },
     {
         "name": "TEXTFIELD_SCALE_FONT_SIZE_MAX_TESTS",
-        "numberValue": "3",
+        "numberValue": 3,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -2271,7 +2271,7 @@
     },
     {
         "name": "LANGUAGE_SETTINGS_SCROLL_MS",
-        "numberValue": "300",
+        "numberValue": 300,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -2301,7 +2301,7 @@
     },
     {
         "name": "PAN_THRESHOLD",
-        "numberValue": "16",
+        "numberValue": 16,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -2311,7 +2311,7 @@
     },
     {
         "name": "PINCH_THRESHOLD",
-        "numberValue": "13",
+        "numberValue": 13,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -2321,7 +2321,7 @@
     },
     {
         "name": "UNIT_BAR_SENSITIVITY",
-        "numberValue": "30",
+        "numberValue": 30,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -2331,7 +2331,7 @@
     },
     {
         "name": "CAMERA_EXTRA_BOUNDS_HOME",
-        "numberValue": "200",
+        "numberValue": 200,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -2341,7 +2341,7 @@
     },
     {
         "name": "CAMERA_EXTRA_BOUNDS_WAR",
-        "numberValue": "200",
+        "numberValue": 200,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -2351,7 +2351,7 @@
     },
     {
         "name": "CAMERA_EXTRA_BOUNDS_NPC",
-        "numberValue": "0",
+        "numberValue": 0,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -2361,7 +2361,7 @@
     },
     {
         "name": "CAMERA_EXTRA_BOUNDS_VILLAGE2",
-        "numberValue": "500",
+        "numberValue": 500,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -2371,7 +2371,7 @@
     },
     {
         "name": "CAMERA_EXTRA_BOUNDS_BOTTOM_HOME",
-        "numberValue": "400",
+        "numberValue": 400,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -2381,7 +2381,7 @@
     },
     {
         "name": "CAMERA_EXTRA_BOUNDS_BOTTOM_WAR",
-        "numberValue": "400",
+        "numberValue": 400,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -2391,7 +2391,7 @@
     },
     {
         "name": "CAMERA_EXTRA_BOUNDS_BOTTOM_NPC",
-        "numberValue": "-55",
+        "numberValue": -55,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -2401,7 +2401,7 @@
     },
     {
         "name": "CAMERA_EXTRA_BOUNDS_BOTTOM_VILLAGE2",
-        "numberValue": "800",
+        "numberValue": 800,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -2411,7 +2411,7 @@
     },
     {
         "name": "CAMERA_EXTRA_BOUNDS_TOP_HOME",
-        "numberValue": "100",
+        "numberValue": 100,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -2421,7 +2421,7 @@
     },
     {
         "name": "CAMERA_EXTRA_BOUNDS_TOP_WAR",
-        "numberValue": "100",
+        "numberValue": 100,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -2431,7 +2431,7 @@
     },
     {
         "name": "CAMERA_EXTRA_BOUNDS_TOP_NPC",
-        "numberValue": "0",
+        "numberValue": 0,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -2441,7 +2441,7 @@
     },
     {
         "name": "CAMERA_EXTRA_BOUNDS_TOP_VILLAGE2",
-        "numberValue": "600",
+        "numberValue": 600,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -2451,7 +2451,7 @@
     },
     {
         "name": "CLOUD_CHAT_NOTIFICATION_SOUND_TIME_LIMIT",
-        "numberValue": "10",
+        "numberValue": 10,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -2471,7 +2471,7 @@
     },
     {
         "name": "ALWAYS_SEND_DEVICE_TOKEN_MESSAGE_AFTER_SECONDS",
-        "numberValue": "15",
+        "numberValue": 15,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -2511,7 +2511,7 @@
     },
     {
         "name": "GENERATE_CODE_TH_LEVEL_REQUIREMENT",
-        "numberValue": "3",
+        "numberValue": 3,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -2601,7 +2601,7 @@
     },
     {
         "name": "HUD_PRINT_TIME_PERSONAL_BREAK",
-        "numberValue": "300",
+        "numberValue": 300,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -2611,7 +2611,7 @@
     },
     {
         "name": "GUARD_NOTIFICATION_TIME",
-        "numberValue": "900",
+        "numberValue": 900,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -2621,7 +2621,7 @@
     },
     {
         "name": "SHIELD_NOTIFICATION_TIME",
-        "numberValue": "0",
+        "numberValue": 0,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -2653,7 +2653,7 @@
         "name": "HELPSHIFT_MIN_IOS_VERSION",
         "numberValue": null,
         "booleanValue": null,
-        "textValue": "7",
+        "textValue": 7,
         "numberArray": null,
         "stringArray": null,
         "altStringArray": null,
@@ -2671,7 +2671,7 @@
     },
     {
         "name": "APPLY_REPLAY_COMPATIBILITY_IF_CONTENT_VERSION",
-        "numberValue": "0",
+        "numberValue": 0,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -2681,7 +2681,7 @@
     },
     {
         "name": "MIN_COMPATIBLE_CONTENT_VERSION_FOR_REPLAY",
-        "numberValue": "0",
+        "numberValue": 0,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -2731,7 +2731,7 @@
     },
     {
         "name": "SHOW_HELPSHIFT_CONTACT_IN_TH",
-        "numberValue": "4",
+        "numberValue": 4,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -2751,7 +2751,7 @@
     },
     {
         "name": "FINISH_DEFERRED_TRANSACTION_IN_HOURS",
-        "numberValue": "24",
+        "numberValue": 24,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -2821,7 +2821,7 @@
     },
     {
         "name": "EMITTER_MAX_DELTA_TIME_MS",
-        "numberValue": "0",
+        "numberValue": 0,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -2981,7 +2981,7 @@
     },
     {
         "name": "FORGOT_ARMY_NOTIF_MINUTES",
-        "numberValue": "720",
+        "numberValue": 720,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -2991,7 +2991,7 @@
     },
     {
         "name": "FORGOT_SPELLS_NOTIF_MINUTES",
-        "numberValue": "720",
+        "numberValue": 720,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -3001,7 +3001,7 @@
     },
     {
         "name": "FORGOT_SPELLS_NOTIF_SLOT_COUNT",
-        "numberValue": "2",
+        "numberValue": 2,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -3031,7 +3031,7 @@
     },
     {
         "name": "TRACK_MODULO",
-        "numberValue": "13",
+        "numberValue": 13,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -3071,7 +3071,7 @@
     },
     {
         "name": "ARMY_READY_NOTIF_ADDITIONAL_SECONDS",
-        "numberValue": "30",
+        "numberValue": 30,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -3111,7 +3111,7 @@
     },
     {
         "name": "MINIMUM_LIVE_CHAT",
-        "numberValue": "-1",
+        "numberValue": -1,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -3121,7 +3121,7 @@
     },
     {
         "name": "DARK_COLOR_RED",
-        "numberValue": "0",
+        "numberValue": 0,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -3131,7 +3131,7 @@
     },
     {
         "name": "DARK_COLOR_GREEN",
-        "numberValue": "0",
+        "numberValue": 0,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -3141,7 +3141,7 @@
     },
     {
         "name": "DARK_COLOR_BLUE",
-        "numberValue": "35",
+        "numberValue": 35,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -3151,7 +3151,7 @@
     },
     {
         "name": "DARK_COLOR_ALPHA",
-        "numberValue": "95",
+        "numberValue": 95,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -3161,7 +3161,7 @@
     },
     {
         "name": "FOREGROUND_BUFFER_W",
-        "numberValue": "256",
+        "numberValue": 256,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -3171,7 +3171,7 @@
     },
     {
         "name": "FOREGROUND_BUFFER_H",
-        "numberValue": "256",
+        "numberValue": 256,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -3181,7 +3181,7 @@
     },
     {
         "name": "BACKGROUND_BUFFER_W_LOW_MEM",
-        "numberValue": "512",
+        "numberValue": 512,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -3191,7 +3191,7 @@
     },
     {
         "name": "BACKGROUND_BUFFER_H_LOW_MEM",
-        "numberValue": "512",
+        "numberValue": 512,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -3201,7 +3201,7 @@
     },
     {
         "name": "BACKGROUND_BUFFER_W",
-        "numberValue": "2048",
+        "numberValue": 2048,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -3211,7 +3211,7 @@
     },
     {
         "name": "BACKGROUND_BUFFER_H",
-        "numberValue": "1024",
+        "numberValue": 1024,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -3231,7 +3231,7 @@
     },
     {
         "name": "EVENT_LOCAL_NOTIF_TH_MIN_LIMIT",
-        "numberValue": "3",
+        "numberValue": 3,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -3341,7 +3341,7 @@
     },
     {
         "name": "GC_TENCENT_CONFIRMATION_TH_LEVEL",
-        "numberValue": "3",
+        "numberValue": 3,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -3471,7 +3471,7 @@
     },
     {
         "name": "JOYSTICK_AREA_WIDTH",
-        "numberValue": "350",
+        "numberValue": 350,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -3511,7 +3511,7 @@
     },
     {
         "name": "CLAN_INVITE_TOKEN_EXPIRE_TIME_SECONDS",
-        "numberValue": "600",
+        "numberValue": 600,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -3531,7 +3531,7 @@
     },
     {
         "name": "FRIEND_INVITE_TOKEN_EXPIRE_TIME_SECONDS",
-        "numberValue": "600",
+        "numberValue": 600,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -3571,7 +3571,7 @@
     },
     {
         "name": "RARE_CHANCE",
-        "numberValue": "559",
+        "numberValue": 559,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -3581,7 +3581,7 @@
     },
     {
         "name": "SUPER_RARE_CHANCE",
-        "numberValue": "252",
+        "numberValue": 252,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -3591,7 +3591,7 @@
     },
     {
         "name": "EPIC_CHANCE",
-        "numberValue": "114",
+        "numberValue": 114,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -3601,7 +3601,7 @@
     },
     {
         "name": "MYTHIC_CHANCE",
-        "numberValue": "52",
+        "numberValue": 52,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -3611,7 +3611,7 @@
     },
     {
         "name": "LEGENDARY_CHANCE",
-        "numberValue": "23",
+        "numberValue": 23,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -3621,7 +3621,7 @@
     },
     {
         "name": "STAR_POWER_CHANCE",
-        "numberValue": "10",
+        "numberValue": 10,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -3631,7 +3631,7 @@
     },
     {
         "name": "PP_CHANCE",
-        "numberValue": "942",
+        "numberValue": 942,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -3651,7 +3651,7 @@
     },
     {
         "name": "NEW_HERO_CHANCE",
-        "numberValue": "48",
+        "numberValue": 48,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -3661,7 +3661,7 @@
     },
     {
         "name": "ONLINE_MENU_WAIT_BEFORE_UPDATE_SECS",
-        "numberValue": "5",
+        "numberValue": 5,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -3671,7 +3671,7 @@
     },
     {
         "name": "ONLINE_MENU_AUTO_CLOSE_TIME_SECS",
-        "numberValue": "-1",
+        "numberValue": -1,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -3681,7 +3681,7 @@
     },
     {
         "name": "ONLINE_MENU_NEW_ITEM_THROTTLE_SECS",
-        "numberValue": "60",
+        "numberValue": 60,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,

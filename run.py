@@ -20,14 +20,17 @@ if __name__ == '__main__':
                 continue
             TID[row['TID']] = row['EN']
 
-    with open('config.yml', encoding='utf-8') as f:
-        config = yaml.load(f)
+    try:
+        with open('config.yml', encoding='utf-8') as f:
+            config = yaml.load(f)
+    except FileNotFoundError:
+        config = {'id': []}
 
-    csv_files = ['csv/csv_client/' + i for i in os.listdir('csv/csv_client') if i.endswith('.csv')] + \
-                ['csv/csv_logic/' + i for i in os.listdir('csv/csv_logic') if i.endswith('.csv')]
+    csv_files = [('csv/csv_client/' + i, i) for i in os.listdir('csv/csv_client') if i.endswith('.csv')] + \
+                [('csv/csv_logic/' + i, i) for i in os.listdir('csv/csv_logic') if i.endswith('.csv')]
 
-    for file in csv_files:
-        with open(file, encoding='utf-8') as f:
+    for fp, fn in csv_files:
+        with open(fp, encoding='utf-8') as f:
             reader = csv.DictReader(f)
 
             title = reader.fieldnames
@@ -39,8 +42,8 @@ if __name__ == '__main__':
                 data.append({title[i][:1].lower() + title[i][1:]: row[title[i]] for i in range(len(title))})
 
             for n, i in enumerate(data):
-                if file in config['id']:
-                    i['id'] = config['id'][file] + n
+                if fn in config['id']:
+                    i['id'] = config['id'][fn] + n
                 for j in i:
                     if isinstance(i[j], str):
                         if i[j].startswith('TID_'):
@@ -48,11 +51,25 @@ if __name__ == '__main__':
                                 i[j] = TID[i[j]]
                             except KeyError:
                                 pass
+                        elif '.' in i[j]:
+                            try:
+                                i[j] = float(i[j])
+                            except ValueError:
+                                pass
+                        else:
+                            try:
+                                i[j] = int(i[j])
+                            except ValueError:
+                                pass
+                        if i[j] == 'true':
+                            i[j] = True
+                        elif i[j] == 'false':
+                            i[j] = False
+
                     if i[j] == '':
                         i[j] = None
 
-            json_fp = 'json/' + file.replace('csv/', '').replace('.csv', '') + '.json'
-            with open(json_fp, 'w+') as f:
+            with open('json/' + fn.replace('.csv', '.json'), 'w+') as f:
                 json.dump(data, f, indent=4)
 
-        print(file)
+        print(fp)

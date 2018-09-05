@@ -10,7 +10,7 @@
     },
     {
         "name": "ALLIANCE_CREATE_COST",
-        "numberValue": "0",
+        "numberValue": 0,
         "booleanValue": null,
         "textValue": null,
         "stringArray": null,
@@ -19,7 +19,7 @@
     },
     {
         "name": "STARTING_DIAMONDS",
-        "numberValue": "0",
+        "numberValue": 0,
         "booleanValue": null,
         "textValue": null,
         "stringArray": null,
@@ -28,7 +28,7 @@
     },
     {
         "name": "MAX_MESSAGE_LENGTH",
-        "numberValue": "128",
+        "numberValue": 128,
         "booleanValue": null,
         "textValue": null,
         "stringArray": null,
@@ -37,7 +37,7 @@
     },
     {
         "name": "MAX_ALLIANCE_MAIL_LENGTH",
-        "numberValue": "256",
+        "numberValue": 256,
         "booleanValue": null,
         "textValue": null,
         "stringArray": null,
@@ -46,7 +46,7 @@
     },
     {
         "name": "SPEED_UP_DIAMOND_COST_1_MIN",
-        "numberValue": "1",
+        "numberValue": 1,
         "booleanValue": null,
         "textValue": null,
         "stringArray": null,
@@ -55,7 +55,7 @@
     },
     {
         "name": "SPEED_UP_DIAMOND_COST_1_HOUR",
-        "numberValue": "4",
+        "numberValue": 4,
         "booleanValue": null,
         "textValue": null,
         "stringArray": null,
@@ -64,7 +64,7 @@
     },
     {
         "name": "SPEED_UP_DIAMOND_COST_24_HOURS",
-        "numberValue": "96",
+        "numberValue": 96,
         "booleanValue": null,
         "textValue": null,
         "stringArray": null,
@@ -73,7 +73,7 @@
     },
     {
         "name": "SPEED_UP_DIAMOND_COST_1_WEEK",
-        "numberValue": "672",
+        "numberValue": 672,
         "booleanValue": null,
         "textValue": null,
         "stringArray": null,
@@ -82,7 +82,7 @@
     },
     {
         "name": "SPEED_UP_FREE_SECONDS",
-        "numberValue": "0",
+        "numberValue": 0,
         "booleanValue": null,
         "textValue": null,
         "stringArray": null,
@@ -91,7 +91,7 @@
     },
     {
         "name": "RESOURCE_DIAMOND_COST_1",
-        "numberValue": "1",
+        "numberValue": 1,
         "booleanValue": null,
         "textValue": null,
         "stringArray": null,
@@ -100,7 +100,7 @@
     },
     {
         "name": "RESOURCE_DIAMOND_COST_10",
-        "numberValue": "2",
+        "numberValue": 2,
         "booleanValue": null,
         "textValue": null,
         "stringArray": null,
@@ -109,7 +109,7 @@
     },
     {
         "name": "RESOURCE_DIAMOND_COST_100",
-        "numberValue": "20",
+        "numberValue": 20,
         "booleanValue": null,
         "textValue": null,
         "stringArray": null,
@@ -118,7 +118,7 @@
     },
     {
         "name": "RESOURCE_DIAMOND_COST_1000",
-        "numberValue": "200",
+        "numberValue": 200,
         "booleanValue": null,
         "textValue": null,
         "stringArray": null,
@@ -127,7 +127,7 @@
     },
     {
         "name": "RESOURCE_DIAMOND_COST_10000",
-        "numberValue": "2000",
+        "numberValue": 2000,
         "booleanValue": null,
         "textValue": null,
         "stringArray": null,
@@ -136,7 +136,7 @@
     },
     {
         "name": "RESOURCE_DIAMOND_COST_100000",
-        "numberValue": "20000",
+        "numberValue": 20000,
         "booleanValue": null,
         "textValue": null,
         "stringArray": null,
@@ -145,7 +145,7 @@
     },
     {
         "name": "RESOURCE_DIAMOND_COST_1000000",
-        "numberValue": "200000",
+        "numberValue": 200000,
         "booleanValue": null,
         "textValue": null,
         "stringArray": null,
@@ -154,7 +154,7 @@
     },
     {
         "name": "RESOURCE_DIAMOND_COST_10000000",
-        "numberValue": "2000000",
+        "numberValue": 2000000,
         "booleanValue": null,
         "textValue": null,
         "stringArray": null,
@@ -167,7 +167,7 @@
         "booleanValue": null,
         "textValue": null,
         "stringArray": null,
-        "numberArray": "50",
+        "numberArray": 50,
         "id": 21
     },
     {
@@ -176,7 +176,7 @@
         "booleanValue": null,
         "textValue": null,
         "stringArray": null,
-        "numberArray": "25",
+        "numberArray": 25,
         "id": 22
     },
     {
@@ -185,7 +185,7 @@
         "booleanValue": null,
         "textValue": null,
         "stringArray": null,
-        "numberArray": "12",
+        "numberArray": 12,
         "id": 23
     },
     {
@@ -194,7 +194,7 @@
         "booleanValue": null,
         "textValue": null,
         "stringArray": null,
-        "numberArray": "10",
+        "numberArray": 10,
         "id": 24
     },
     {
@@ -203,12 +203,12 @@
         "booleanValue": null,
         "textValue": null,
         "stringArray": null,
-        "numberArray": "3",
+        "numberArray": 3,
         "id": 25
     },
     {
         "name": "STARTING_GOLD",
-        "numberValue": "0",
+        "numberValue": 0,
         "booleanValue": null,
         "textValue": null,
         "stringArray": null,
@@ -217,7 +217,7 @@
     },
     {
         "name": "BATTLE_PING_SAMPLE_SECONDS",
-        "numberValue": "15",
+        "numberValue": 15,
         "booleanValue": null,
         "textValue": null,
         "stringArray": null,
@@ -226,7 +226,7 @@
     },
     {
         "name": "ALLIANCE_UNLOCK_EXP_LEVEL",
-        "numberValue": "1",
+        "numberValue": 1,
         "booleanValue": null,
         "textValue": null,
         "stringArray": null,
@@ -235,7 +235,7 @@
     },
     {
         "name": "AFK_TIMER_SECONDS",
-        "numberValue": "15",
+        "numberValue": 15,
         "booleanValue": null,
         "textValue": null,
         "stringArray": null,
@@ -244,7 +244,7 @@
     },
     {
         "name": "BOSS_DAMAGE_PERCENT_INCREASE",
-        "numberValue": "50",
+        "numberValue": 50,
         "booleanValue": null,
         "textValue": null,
         "stringArray": null,
@@ -253,7 +253,7 @@
     },
     {
         "name": "BOSS_HEALTH_INCREASE",
-        "numberValue": "110000",
+        "numberValue": 110000,
         "booleanValue": null,
         "textValue": null,
         "stringArray": null,
@@ -262,7 +262,7 @@
     },
     {
         "name": "BOSS_SPEED_INCREASE",
-        "numberValue": "100",
+        "numberValue": 100,
         "booleanValue": null,
         "textValue": null,
         "stringArray": null,
@@ -271,7 +271,7 @@
     },
     {
         "name": "BOSS_RELOAD_TIME_DIV",
-        "numberValue": "20",
+        "numberValue": 20,
         "booleanValue": null,
         "textValue": null,
         "stringArray": null,
@@ -280,7 +280,7 @@
     },
     {
         "name": "BOSS_PET_HEALTH_BONUS_DIV",
-        "numberValue": "15",
+        "numberValue": 15,
         "booleanValue": null,
         "textValue": null,
         "stringArray": null,
@@ -289,7 +289,7 @@
     },
     {
         "name": "BOSS_ULTI_CHARGE_MUL",
-        "numberValue": "60",
+        "numberValue": 60,
         "booleanValue": null,
         "textValue": null,
         "stringArray": null,
@@ -298,7 +298,7 @@
     },
     {
         "name": "BOSS_ULTI_CHARGE_DIV",
-        "numberValue": "100",
+        "numberValue": 100,
         "booleanValue": null,
         "textValue": null,
         "stringArray": null,
@@ -307,7 +307,7 @@
     },
     {
         "name": "BOSS_HEAL_MUL",
-        "numberValue": "25",
+        "numberValue": 25,
         "booleanValue": null,
         "textValue": null,
         "stringArray": null,
@@ -316,7 +316,7 @@
     },
     {
         "name": "BOSS_HEAL_DIV",
-        "numberValue": "100",
+        "numberValue": 100,
         "booleanValue": null,
         "textValue": null,
         "stringArray": null,
@@ -325,7 +325,7 @@
     },
     {
         "name": "COOP_ULTI_CHARGE_MUL",
-        "numberValue": "30",
+        "numberValue": 30,
         "booleanValue": null,
         "textValue": null,
         "stringArray": null,
@@ -334,7 +334,7 @@
     },
     {
         "name": "COOP_ULTI_CHARGE_DIV",
-        "numberValue": "100",
+        "numberValue": 100,
         "booleanValue": null,
         "textValue": null,
         "stringArray": null,
@@ -343,7 +343,7 @@
     },
     {
         "name": "MAX_CORPSES_PER_TEAM",
-        "numberValue": "10",
+        "numberValue": 10,
         "booleanValue": null,
         "textValue": null,
         "stringArray": null,
@@ -353,7 +353,7 @@
     {
         "name": "USE_MASK",
         "numberValue": null,
-        "booleanValue": "false",
+        "booleanValue": false,
         "textValue": null,
         "stringArray": null,
         "numberArray": null,
@@ -362,7 +362,7 @@
     {
         "name": "DISPLAY_JOYSTICK_AREA",
         "numberValue": null,
-        "booleanValue": "true",
+        "booleanValue": true,
         "textValue": null,
         "stringArray": null,
         "numberArray": null,
@@ -370,7 +370,7 @@
     },
     {
         "name": "BOSS_HEALTH_LOSS_DIV",
-        "numberValue": "300",
+        "numberValue": 300,
         "booleanValue": null,
         "textValue": null,
         "stringArray": null,
@@ -379,7 +379,7 @@
     },
     {
         "name": "VISIBILITY_X",
-        "numberValue": "38",
+        "numberValue": 38,
         "booleanValue": null,
         "textValue": null,
         "stringArray": null,
@@ -388,7 +388,7 @@
     },
     {
         "name": "VISIBILITY_UP",
-        "numberValue": "33",
+        "numberValue": 33,
         "booleanValue": null,
         "textValue": null,
         "stringArray": null,
@@ -397,7 +397,7 @@
     },
     {
         "name": "VISIBILITY_DOWN",
-        "numberValue": "28",
+        "numberValue": 28,
         "booleanValue": null,
         "textValue": null,
         "stringArray": null,
@@ -406,7 +406,7 @@
     },
     {
         "name": "CAMERA_SCALE",
-        "numberValue": "88",
+        "numberValue": 88,
         "booleanValue": null,
         "textValue": null,
         "stringArray": null,
@@ -415,7 +415,7 @@
     },
     {
         "name": "VISIBILITY_HORIZONTAL_MARGIN",
-        "numberValue": "6",
+        "numberValue": 6,
         "booleanValue": null,
         "textValue": null,
         "stringArray": null,
@@ -424,7 +424,7 @@
     },
     {
         "name": "VISIBILITY_VERTICAL_MARGIN_1",
-        "numberValue": "18",
+        "numberValue": 18,
         "booleanValue": null,
         "textValue": null,
         "stringArray": null,
@@ -433,7 +433,7 @@
     },
     {
         "name": "VISIBILITY_VERTICAL_MARGIN_2",
-        "numberValue": "26",
+        "numberValue": 26,
         "booleanValue": null,
         "textValue": null,
         "stringArray": null,
@@ -442,7 +442,7 @@
     },
     {
         "name": "STARTING_HERO_LVL_UP_MATERIAL",
-        "numberValue": "100",
+        "numberValue": 100,
         "booleanValue": null,
         "textValue": null,
         "stringArray": null,

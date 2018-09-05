@@ -4,7 +4,7 @@
         "iconSWF": "sc/ui.sc",
         "iconExportName": "flag_gb",
         "localizedName": "English",
-        "enabled": "true",
+        "enabled": true,
         "fileName": "localization/texts.csv",
         "id": 1
     }
