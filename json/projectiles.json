@@ -58,6 +58,7 @@
         "healOwnPercent": null,
         "canGrowStronger": null,
         "hideFaster": null,
+        "grapplesEnemy": null,
         "id": 6
     },
     {
@@ -119,6 +120,7 @@
         "healOwnPercent": null,
         "canGrowStronger": null,
         "hideFaster": null,
+        "grapplesEnemy": null,
         "id": 7
     },
     {
@@ -180,6 +182,7 @@
         "healOwnPercent": null,
         "canGrowStronger": null,
         "hideFaster": null,
+        "grapplesEnemy": null,
         "id": 8
     },
     {
@@ -241,6 +244,7 @@
         "healOwnPercent": null,
         "canGrowStronger": null,
         "hideFaster": null,
+        "grapplesEnemy": null,
         "id": 9
     },
     {
@@ -302,6 +306,7 @@
         "healOwnPercent": null,
         "canGrowStronger": null,
         "hideFaster": null,
+        "grapplesEnemy": null,
         "id": 10
     },
     {
@@ -363,6 +368,7 @@
         "healOwnPercent": null,
         "canGrowStronger": null,
         "hideFaster": null,
+        "grapplesEnemy": null,
         "id": 11
     },
     {
@@ -424,6 +430,7 @@
         "healOwnPercent": null,
         "canGrowStronger": null,
         "hideFaster": null,
+        "grapplesEnemy": null,
         "id": 12
     },
     {
@@ -485,6 +492,7 @@
         "healOwnPercent": null,
         "canGrowStronger": true,
         "hideFaster": null,
+        "grapplesEnemy": null,
         "id": 13
     },
     {
@@ -546,6 +554,7 @@
         "healOwnPercent": null,
         "canGrowStronger": true,
         "hideFaster": null,
+        "grapplesEnemy": null,
         "id": 14
     },
     {
@@ -607,6 +616,7 @@
         "healOwnPercent": null,
         "canGrowStronger": null,
         "hideFaster": null,
+        "grapplesEnemy": null,
         "id": 15
     },
     {
@@ -668,6 +678,7 @@
         "healOwnPercent": null,
         "canGrowStronger": null,
         "hideFaster": null,
+        "grapplesEnemy": null,
         "id": 16
     },
     {
@@ -729,6 +740,7 @@
         "healOwnPercent": null,
         "canGrowStronger": null,
         "hideFaster": null,
+        "grapplesEnemy": null,
         "id": 17
     },
     {
@@ -790,6 +802,7 @@
         "healOwnPercent": null,
         "canGrowStronger": null,
         "hideFaster": null,
+        "grapplesEnemy": null,
         "id": 18
     },
     {
@@ -851,6 +864,7 @@
         "healOwnPercent": null,
         "canGrowStronger": null,
         "hideFaster": null,
+        "grapplesEnemy": null,
         "id": 19
     },
     {
@@ -912,6 +926,7 @@
         "healOwnPercent": null,
         "canGrowStronger": null,
         "hideFaster": null,
+        "grapplesEnemy": null,
         "id": 20
     },
     {
@@ -973,6 +988,7 @@
         "healOwnPercent": null,
         "canGrowStronger": null,
         "hideFaster": null,
+        "grapplesEnemy": null,
         "id": 21
     },
     {
@@ -1034,6 +1050,7 @@
         "healOwnPercent": null,
         "canGrowStronger": null,
         "hideFaster": null,
+        "grapplesEnemy": null,
         "id": 22
     },
     {
@@ -1095,6 +1112,7 @@
         "healOwnPercent": null,
         "canGrowStronger": null,
         "hideFaster": null,
+        "grapplesEnemy": null,
         "id": 23
     },
     {
@@ -1156,6 +1174,7 @@
         "healOwnPercent": null,
         "canGrowStronger": null,
         "hideFaster": null,
+        "grapplesEnemy": null,
         "id": 24
     },
     {
@@ -1217,11 +1236,12 @@
         "healOwnPercent": null,
         "canGrowStronger": null,
         "hideFaster": null,
+        "grapplesEnemy": null,
         "id": 25
     },
     {
         "name": "TntDudeUltiProjectile",
-        "speed": 1900,
+        "speed": 1600,
         "fileName": "sc/effects.sc",
         "blueExportName": "grenadeer_ulti",
         "redExportName": "dynamite_bundle_ulti_red",
@@ -1237,9 +1257,9 @@
         "radius": 0,
         "indirect": true,
         "constantFlyTime": null,
-        "triggerWithDelayMs": 1100,
+        "triggerWithDelayMs": 1300,
         "bouncePercent": 35,
-        "gravity": 430,
+        "gravity": 330,
         "earlyTicks": 1,
         "hideTime": 0,
         "scale": 100,
@@ -1278,6 +1298,7 @@
         "healOwnPercent": null,
         "canGrowStronger": null,
         "hideFaster": null,
+        "grapplesEnemy": null,
         "id": 26
     },
     {
@@ -1339,6 +1360,7 @@
         "healOwnPercent": null,
         "canGrowStronger": null,
         "hideFaster": null,
+        "grapplesEnemy": null,
         "id": 27
     },
     {
@@ -1400,6 +1422,7 @@
         "healOwnPercent": null,
         "canGrowStronger": null,
         "hideFaster": null,
+        "grapplesEnemy": null,
         "id": 28
     },
     {
@@ -1461,6 +1484,7 @@
         "healOwnPercent": null,
         "canGrowStronger": null,
         "hideFaster": null,
+        "grapplesEnemy": null,
         "id": 29
     },
     {
@@ -1522,6 +1546,7 @@
         "healOwnPercent": null,
         "canGrowStronger": null,
         "hideFaster": null,
+        "grapplesEnemy": null,
         "id": 30
     },
     {
@@ -1583,6 +1608,7 @@
         "healOwnPercent": null,
         "canGrowStronger": null,
         "hideFaster": null,
+        "grapplesEnemy": null,
         "id": 31
     },
     {
@@ -1644,6 +1670,7 @@
         "healOwnPercent": null,
         "canGrowStronger": null,
         "hideFaster": null,
+        "grapplesEnemy": null,
         "id": 32
     },
     {
@@ -1705,6 +1732,7 @@
         "healOwnPercent": null,
         "canGrowStronger": null,
         "hideFaster": null,
+        "grapplesEnemy": null,
         "id": 33
     },
     {
@@ -1766,6 +1794,7 @@
         "healOwnPercent": null,
         "canGrowStronger": null,
         "hideFaster": null,
+        "grapplesEnemy": null,
         "id": 34
     },
     {
@@ -1827,6 +1856,7 @@
         "healOwnPercent": null,
         "canGrowStronger": null,
         "hideFaster": null,
+        "grapplesEnemy": null,
         "id": 35
     },
     {
@@ -1888,6 +1918,7 @@
         "healOwnPercent": 100,
         "canGrowStronger": null,
         "hideFaster": null,
+        "grapplesEnemy": null,
         "id": 36
     },
     {
@@ -1949,6 +1980,7 @@
         "healOwnPercent": null,
         "canGrowStronger": null,
         "hideFaster": null,
+        "grapplesEnemy": null,
         "id": 37
     },
     {
@@ -2010,6 +2042,7 @@
         "healOwnPercent": null,
         "canGrowStronger": null,
         "hideFaster": true,
+        "grapplesEnemy": null,
         "id": 38
     },
     {
@@ -2071,6 +2104,7 @@
         "healOwnPercent": null,
         "canGrowStronger": true,
         "hideFaster": null,
+        "grapplesEnemy": null,
         "id": 39
     },
     {
@@ -2132,6 +2166,7 @@
         "healOwnPercent": null,
         "canGrowStronger": null,
         "hideFaster": null,
+        "grapplesEnemy": null,
         "id": 40
     },
     {
@@ -2193,6 +2228,7 @@
         "healOwnPercent": null,
         "canGrowStronger": null,
         "hideFaster": null,
+        "grapplesEnemy": null,
         "id": 41
     },
     {
@@ -2254,6 +2290,7 @@
         "healOwnPercent": null,
         "canGrowStronger": null,
         "hideFaster": true,
+        "grapplesEnemy": null,
         "id": 42
     },
     {
@@ -2315,6 +2352,7 @@
         "healOwnPercent": null,
         "canGrowStronger": null,
         "hideFaster": null,
+        "grapplesEnemy": null,
         "id": 43
     },
     {
@@ -2376,6 +2414,7 @@
         "healOwnPercent": null,
         "canGrowStronger": null,
         "hideFaster": null,
+        "grapplesEnemy": null,
         "id": 44
     },
     {
@@ -2437,6 +2476,7 @@
         "healOwnPercent": null,
         "canGrowStronger": null,
         "hideFaster": null,
+        "grapplesEnemy": null,
         "id": 45
     },
     {
@@ -2454,7 +2494,7 @@
         "hitEffectEnv": "gold_no_hit",
         "hitEffectChar": "gold_hit",
         "maxRangeReachedEffect": "gold_no_hit",
-        "radius": 101,
+        "radius": 150,
         "indirect": null,
         "constantFlyTime": null,
         "triggerWithDelayMs": null,
@@ -2462,7 +2502,7 @@
         "gravity": 0,
         "earlyTicks": 2,
         "hideTime": 0,
-        "scale": 100,
+        "scale": 120,
         "randomStartFrame": null,
         "spawnAreaEffectObject": null,
         "spawnAreaEffectObject2": null,
@@ -2498,6 +2538,7 @@
         "healOwnPercent": null,
         "canGrowStronger": null,
         "hideFaster": null,
+        "grapplesEnemy": null,
         "id": 46
     },
     {
@@ -2535,7 +2576,7 @@
         "isBouncing": null,
         "distanceAddFromBounce": null,
         "rendering": null,
-        "piercesCharacters": null,
+        "piercesCharacters": true,
         "piercesEnvironment": null,
         "piercesEnvironmentLikeButter": null,
         "pushbackStrength": null,
@@ -2559,6 +2600,7 @@
         "healOwnPercent": null,
         "canGrowStronger": null,
         "hideFaster": null,
+        "grapplesEnemy": null,
         "id": 47
     },
     {
@@ -2620,6 +2662,7 @@
         "healOwnPercent": null,
         "canGrowStronger": null,
         "hideFaster": null,
+        "grapplesEnemy": null,
         "id": 48
     },
     {
@@ -2681,6 +2724,7 @@
         "healOwnPercent": null,
         "canGrowStronger": null,
         "hideFaster": null,
+        "grapplesEnemy": null,
         "id": 49
     },
     {
@@ -2742,6 +2786,7 @@
         "healOwnPercent": null,
         "canGrowStronger": null,
         "hideFaster": null,
+        "grapplesEnemy": null,
         "id": 50
     },
     {
@@ -2803,6 +2848,7 @@
         "healOwnPercent": null,
         "canGrowStronger": null,
         "hideFaster": null,
+        "grapplesEnemy": null,
         "id": 51
     },
     {
@@ -2864,6 +2910,7 @@
         "healOwnPercent": null,
         "canGrowStronger": null,
         "hideFaster": null,
+        "grapplesEnemy": null,
         "id": 52
     },
     {
@@ -2925,6 +2972,7 @@
         "healOwnPercent": null,
         "canGrowStronger": null,
         "hideFaster": null,
+        "grapplesEnemy": null,
         "id": 53
     },
     {
@@ -2986,6 +3034,7 @@
         "healOwnPercent": null,
         "canGrowStronger": null,
         "hideFaster": null,
+        "grapplesEnemy": null,
         "id": 54
     },
     {
@@ -3047,6 +3096,7 @@
         "healOwnPercent": null,
         "canGrowStronger": null,
         "hideFaster": null,
+        "grapplesEnemy": null,
         "id": 55
     },
     {
@@ -3108,6 +3158,7 @@
         "healOwnPercent": null,
         "canGrowStronger": null,
         "hideFaster": null,
+        "grapplesEnemy": null,
         "id": 56
     },
     {
@@ -3169,6 +3220,379 @@
         "healOwnPercent": null,
         "canGrowStronger": null,
         "hideFaster": null,
+        "grapplesEnemy": null,
         "id": 57
+    },
+    {
+        "name": "HookUltiProjectile",
+        "speed": 3600,
+        "fileName": "sc/effects.sc",
+        "blueExportName": "primo_fist_blue",
+        "redExportName": "Primo_fist_red",
+        "shadowExportName": "projectile_shadow",
+        "blueGroundGlowExportName": null,
+        "redGroundGlowExportName": null,
+        "preExplosionBlueExportName": null,
+        "preExplosionRedExportName": null,
+        "preExplosionTimeMs": null,
+        "hitEffectEnv": "Gen_hit",
+        "hitEffectChar": "Gen_hit",
+        "maxRangeReachedEffect": "no_hit",
+        "radius": 150,
+        "indirect": null,
+        "constantFlyTime": null,
+        "triggerWithDelayMs": null,
+        "bouncePercent": null,
+        "gravity": 0,
+        "earlyTicks": 2,
+        "hideTime": 0,
+        "scale": 60,
+        "randomStartFrame": null,
+        "spawnAreaEffectObject": null,
+        "spawnAreaEffectObject2": null,
+        "spawnCharacter": null,
+        "spawnItem": null,
+        "trailEffect": "Gen_Trail_small",
+        "shotByHero": true,
+        "isBeam": null,
+        "isBouncing": null,
+        "distanceAddFromBounce": null,
+        "rendering": "Use360Frames",
+        "piercesCharacters": null,
+        "piercesEnvironment": null,
+        "piercesEnvironmentLikeButter": null,
+        "pushbackStrength": null,
+        "chainsToEnemies": null,
+        "chainBullets": null,
+        "chainSpread": null,
+        "chainTravelDistance": null,
+        "chainBullet": "HookUltiProjectile2",
+        "damagePercentStart": null,
+        "damagePercentEnd": null,
+        "damagesConstantly": null,
+        "freezeStrength": null,
+        "stunLengthMS": null,
+        "scaleStart": null,
+        "scaleEnd": null,
+        "attractsPet": null,
+        "lifeStealPercent": null,
+        "passesEnvironment": null,
+        "poisonDamagePercent": null,
+        "sameProjectileCanNotDamageMS": null,
+        "healOwnPercent": null,
+        "canGrowStronger": null,
+        "hideFaster": null,
+        "grapplesEnemy": true,
+        "id": 58
+    },
+    {
+        "name": "HookUltiProjectile2",
+        "speed": 3600,
+        "fileName": "sc/effects.sc",
+        "blueExportName": "primo_fist_blue",
+        "redExportName": "Primo_fist_red",
+        "shadowExportName": "projectile_shadow",
+        "blueGroundGlowExportName": null,
+        "redGroundGlowExportName": null,
+        "preExplosionBlueExportName": null,
+        "preExplosionRedExportName": null,
+        "preExplosionTimeMs": null,
+        "hitEffectEnv": "Gen_hit",
+        "hitEffectChar": "Gen_hit",
+        "maxRangeReachedEffect": "no_hit",
+        "radius": 150,
+        "indirect": null,
+        "constantFlyTime": null,
+        "triggerWithDelayMs": null,
+        "bouncePercent": null,
+        "gravity": 0,
+        "earlyTicks": 2,
+        "hideTime": 0,
+        "scale": 60,
+        "randomStartFrame": null,
+        "spawnAreaEffectObject": null,
+        "spawnAreaEffectObject2": null,
+        "spawnCharacter": null,
+        "spawnItem": null,
+        "trailEffect": "Gen_Trail_small",
+        "shotByHero": true,
+        "isBeam": null,
+        "isBouncing": null,
+        "distanceAddFromBounce": null,
+        "rendering": "Use360Frames",
+        "piercesCharacters": null,
+        "piercesEnvironment": null,
+        "piercesEnvironmentLikeButter": null,
+        "pushbackStrength": null,
+        "chainsToEnemies": null,
+        "chainBullets": null,
+        "chainSpread": null,
+        "chainTravelDistance": null,
+        "chainBullet": null,
+        "damagePercentStart": null,
+        "damagePercentEnd": null,
+        "damagesConstantly": null,
+        "freezeStrength": null,
+        "stunLengthMS": null,
+        "scaleStart": null,
+        "scaleEnd": null,
+        "attractsPet": null,
+        "lifeStealPercent": null,
+        "passesEnvironment": true,
+        "poisonDamagePercent": null,
+        "sameProjectileCanNotDamageMS": null,
+        "healOwnPercent": null,
+        "canGrowStronger": null,
+        "hideFaster": null,
+        "grapplesEnemy": true,
+        "id": 59
+    },
+    {
+        "name": "HookProjectile",
+        "speed": 2935,
+        "fileName": "sc/effects.sc",
+        "blueExportName": "shotgun_shell_blue",
+        "redExportName": "shotgun_shell_red",
+        "shadowExportName": "projectile_shadow",
+        "blueGroundGlowExportName": null,
+        "redGroundGlowExportName": null,
+        "preExplosionBlueExportName": null,
+        "preExplosionRedExportName": null,
+        "preExplosionTimeMs": null,
+        "hitEffectEnv": "Gen_hit",
+        "hitEffectChar": "Gen_hit",
+        "maxRangeReachedEffect": "no_hit",
+        "radius": 0,
+        "indirect": null,
+        "constantFlyTime": null,
+        "triggerWithDelayMs": null,
+        "bouncePercent": null,
+        "gravity": 0,
+        "earlyTicks": 2,
+        "hideTime": 0,
+        "scale": 100,
+        "randomStartFrame": null,
+        "spawnAreaEffectObject": null,
+        "spawnAreaEffectObject2": null,
+        "spawnCharacter": null,
+        "spawnItem": null,
+        "trailEffect": "shotgun_trail_small",
+        "shotByHero": true,
+        "isBeam": null,
+        "isBouncing": null,
+        "distanceAddFromBounce": null,
+        "rendering": null,
+        "piercesCharacters": null,
+        "piercesEnvironment": null,
+        "piercesEnvironmentLikeButter": null,
+        "pushbackStrength": null,
+        "chainsToEnemies": null,
+        "chainBullets": null,
+        "chainSpread": null,
+        "chainTravelDistance": null,
+        "chainBullet": null,
+        "damagePercentStart": null,
+        "damagePercentEnd": null,
+        "damagesConstantly": null,
+        "freezeStrength": null,
+        "stunLengthMS": null,
+        "scaleStart": null,
+        "scaleEnd": null,
+        "attractsPet": null,
+        "lifeStealPercent": null,
+        "passesEnvironment": null,
+        "poisonDamagePercent": null,
+        "sameProjectileCanNotDamageMS": null,
+        "healOwnPercent": null,
+        "canGrowStronger": null,
+        "hideFaster": null,
+        "grapplesEnemy": null,
+        "id": 60
+    },
+    {
+        "name": "ClusterBombProjectile",
+        "speed": 300,
+        "fileName": "sc/effects.sc",
+        "blueExportName": "cactus_projectile",
+        "redExportName": "cactus_projectile_red",
+        "shadowExportName": "projectile_shadow",
+        "blueGroundGlowExportName": null,
+        "redGroundGlowExportName": null,
+        "preExplosionBlueExportName": null,
+        "preExplosionRedExportName": null,
+        "preExplosionTimeMs": null,
+        "hitEffectEnv": "Gen_hit",
+        "hitEffectChar": "Gen_hit",
+        "maxRangeReachedEffect": null,
+        "radius": 0,
+        "indirect": true,
+        "constantFlyTime": true,
+        "triggerWithDelayMs": 1800,
+        "bouncePercent": null,
+        "gravity": 17,
+        "earlyTicks": 2,
+        "hideTime": 0,
+        "scale": 100,
+        "randomStartFrame": null,
+        "spawnAreaEffectObject": "ClusterBombExplosion",
+        "spawnAreaEffectObject2": null,
+        "spawnCharacter": null,
+        "spawnItem": null,
+        "trailEffect": "Gen_Trail_dust",
+        "shotByHero": true,
+        "isBeam": null,
+        "isBouncing": null,
+        "distanceAddFromBounce": null,
+        "rendering": "DoNotRotateClip",
+        "piercesCharacters": null,
+        "piercesEnvironment": null,
+        "piercesEnvironmentLikeButter": null,
+        "pushbackStrength": null,
+        "chainsToEnemies": null,
+        "chainBullets": null,
+        "chainSpread": null,
+        "chainTravelDistance": null,
+        "chainBullet": null,
+        "damagePercentStart": null,
+        "damagePercentEnd": null,
+        "damagesConstantly": null,
+        "freezeStrength": null,
+        "stunLengthMS": null,
+        "scaleStart": null,
+        "scaleEnd": null,
+        "attractsPet": null,
+        "lifeStealPercent": null,
+        "passesEnvironment": null,
+        "poisonDamagePercent": null,
+        "sameProjectileCanNotDamageMS": null,
+        "healOwnPercent": null,
+        "canGrowStronger": null,
+        "hideFaster": null,
+        "grapplesEnemy": null,
+        "id": 61
+    },
+    {
+        "name": "ClusterBombProjectile2",
+        "speed": 2000,
+        "fileName": "sc/effects.sc",
+        "blueExportName": "cactus_ulti_projectile",
+        "redExportName": "cactus_ulti_projectile_red",
+        "shadowExportName": "projectile_shadow",
+        "blueGroundGlowExportName": null,
+        "redGroundGlowExportName": null,
+        "preExplosionBlueExportName": null,
+        "preExplosionRedExportName": null,
+        "preExplosionTimeMs": null,
+        "hitEffectEnv": "Gen_hit",
+        "hitEffectChar": "Gen_hit",
+        "maxRangeReachedEffect": null,
+        "radius": 0,
+        "indirect": true,
+        "constantFlyTime": true,
+        "triggerWithDelayMs": null,
+        "bouncePercent": null,
+        "gravity": 200,
+        "earlyTicks": 1,
+        "hideTime": 0,
+        "scale": 100,
+        "randomStartFrame": null,
+        "spawnAreaEffectObject": "ClusterBombExplosion2",
+        "spawnAreaEffectObject2": null,
+        "spawnCharacter": null,
+        "spawnItem": null,
+        "trailEffect": "Gen_Trail_dust",
+        "shotByHero": true,
+        "isBeam": null,
+        "isBouncing": null,
+        "distanceAddFromBounce": null,
+        "rendering": null,
+        "piercesCharacters": null,
+        "piercesEnvironment": null,
+        "piercesEnvironmentLikeButter": null,
+        "pushbackStrength": null,
+        "chainsToEnemies": null,
+        "chainBullets": null,
+        "chainSpread": null,
+        "chainTravelDistance": null,
+        "chainBullet": null,
+        "damagePercentStart": null,
+        "damagePercentEnd": null,
+        "damagesConstantly": null,
+        "freezeStrength": null,
+        "stunLengthMS": null,
+        "scaleStart": null,
+        "scaleEnd": null,
+        "attractsPet": null,
+        "lifeStealPercent": null,
+        "passesEnvironment": null,
+        "poisonDamagePercent": null,
+        "sameProjectileCanNotDamageMS": null,
+        "healOwnPercent": null,
+        "canGrowStronger": null,
+        "hideFaster": null,
+        "grapplesEnemy": null,
+        "id": 62
+    },
+    {
+        "name": "AutorifleProjectile",
+        "speed": 3800,
+        "fileName": "sc/effects.sc",
+        "blueExportName": "Bullet_blue",
+        "redExportName": "Bullet_red",
+        "shadowExportName": "projectile_shadow",
+        "blueGroundGlowExportName": null,
+        "redGroundGlowExportName": null,
+        "preExplosionBlueExportName": null,
+        "preExplosionRedExportName": null,
+        "preExplosionTimeMs": null,
+        "hitEffectEnv": "Gen_hit",
+        "hitEffectChar": "Gen_hit",
+        "maxRangeReachedEffect": "no_hit",
+        "radius": 0,
+        "indirect": null,
+        "constantFlyTime": null,
+        "triggerWithDelayMs": null,
+        "bouncePercent": null,
+        "gravity": 0,
+        "earlyTicks": 2,
+        "hideTime": 0,
+        "scale": 100,
+        "randomStartFrame": null,
+        "spawnAreaEffectObject": null,
+        "spawnAreaEffectObject2": null,
+        "spawnCharacter": null,
+        "spawnItem": null,
+        "trailEffect": "Gen_Trail_small",
+        "shotByHero": true,
+        "isBeam": null,
+        "isBouncing": null,
+        "distanceAddFromBounce": null,
+        "rendering": null,
+        "piercesCharacters": null,
+        "piercesEnvironment": null,
+        "piercesEnvironmentLikeButter": null,
+        "pushbackStrength": null,
+        "chainsToEnemies": null,
+        "chainBullets": null,
+        "chainSpread": null,
+        "chainTravelDistance": null,
+        "chainBullet": null,
+        "damagePercentStart": null,
+        "damagePercentEnd": null,
+        "damagesConstantly": null,
+        "freezeStrength": null,
+        "stunLengthMS": null,
+        "scaleStart": null,
+        "scaleEnd": null,
+        "attractsPet": null,
+        "lifeStealPercent": null,
+        "passesEnvironment": null,
+        "poisonDamagePercent": null,
+        "sameProjectileCanNotDamageMS": null,
+        "healOwnPercent": null,
+        "canGrowStronger": null,
+        "hideFaster": null,
+        "grapplesEnemy": null,
+        "id": 63
     }
 ]

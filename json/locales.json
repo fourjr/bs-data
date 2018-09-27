@@ -6,6 +6,7 @@
         "localizedName": "English",
         "enabled": true,
         "fileName": "localization/texts.csv",
+        "testLanguage": null,
         "id": 1
     }
 ]

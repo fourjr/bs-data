@@ -5,6 +5,7 @@
         "blueExportName": "range400_blue",
         "redExportName": "range400_red",
         "layer": "Ground",
+        "exportNameTop": null,
         "effect": "explosion_rocket_rose",
         "loopingEffect": null,
         "scale": 70,
@@ -19,6 +20,7 @@
         "pushbackStrength": null,
         "pushbackStrengthSelf": null,
         "freezeStrength": null,
+        "syncAnimWithServer": null,
         "id": 17
     },
     {
@@ -27,6 +29,7 @@
         "blueExportName": "range450_blue",
         "redExportName": "range450_red",
         "layer": "Ground",
+        "exportNameTop": null,
         "effect": "explosion_rocket_rose_ulti",
         "loopingEffect": null,
         "scale": 100,
@@ -41,6 +44,7 @@
         "pushbackStrength": null,
         "pushbackStrengthSelf": null,
         "freezeStrength": null,
+        "syncAnimWithServer": null,
         "id": 18
     },
     {
@@ -49,6 +53,7 @@
         "blueExportName": "range400_blue",
         "redExportName": "range400_red",
         "layer": "Ground",
+        "exportNameTop": null,
         "effect": "explosion_cactus",
         "loopingEffect": null,
         "scale": 70,
@@ -63,6 +68,7 @@
         "pushbackStrength": null,
         "pushbackStrengthSelf": null,
         "freezeStrength": null,
+        "syncAnimWithServer": null,
         "id": 19
     },
     {
@@ -71,6 +77,7 @@
         "blueExportName": null,
         "redExportName": null,
         "layer": "Ground",
+        "exportNameTop": null,
         "effect": null,
         "loopingEffect": null,
         "scale": 100,
@@ -85,6 +92,7 @@
         "pushbackStrength": null,
         "pushbackStrengthSelf": null,
         "freezeStrength": null,
+        "syncAnimWithServer": null,
         "id": 20
     },
     {
@@ -93,6 +101,7 @@
         "blueExportName": "range400_blue",
         "redExportName": "range400_red",
         "layer": "Ground",
+        "exportNameTop": null,
         "effect": "explosion_cactus_ulti",
         "loopingEffect": null,
         "scale": 170,
@@ -107,6 +116,7 @@
         "pushbackStrength": null,
         "pushbackStrengthSelf": null,
         "freezeStrength": 350,
+        "syncAnimWithServer": null,
         "id": 21
     },
     {
@@ -115,6 +125,7 @@
         "blueExportName": "toxic_area_effect_blue",
         "redExportName": "toxic_area_effect_red",
         "layer": "Ground",
+        "exportNameTop": null,
         "effect": "explosion_barkeep",
         "loopingEffect": null,
         "scale": 55,
@@ -129,6 +140,7 @@
         "pushbackStrength": null,
         "pushbackStrengthSelf": null,
         "freezeStrength": null,
+        "syncAnimWithServer": null,
         "id": 22
     },
     {
@@ -137,6 +149,7 @@
         "blueExportName": "toxic_area_effect_ulti_blue",
         "redExportName": "toxic_area_effect_red",
         "layer": "Ground",
+        "exportNameTop": null,
         "effect": "explosion_barkeep_ulti",
         "loopingEffect": null,
         "scale": 55,
@@ -151,6 +164,7 @@
         "pushbackStrength": null,
         "pushbackStrengthSelf": null,
         "freezeStrength": null,
+        "syncAnimWithServer": null,
         "id": 23
     },
     {
@@ -159,6 +173,7 @@
         "blueExportName": "gen_explosion_ring1_area",
         "redExportName": "gen_explosion_ring1_area",
         "layer": "Ground",
+        "exportNameTop": null,
         "effect": "explosion_600",
         "loopingEffect": null,
         "scale": 100,
@@ -173,6 +188,7 @@
         "pushbackStrength": 120,
         "pushbackStrengthSelf": null,
         "freezeStrength": null,
+        "syncAnimWithServer": null,
         "id": 24
     },
     {
@@ -181,6 +197,7 @@
         "blueExportName": "toxic_area_effect_blue",
         "redExportName": "toxic_area_effect_red",
         "layer": "Ground",
+        "exportNameTop": null,
         "effect": "explosion_800",
         "loopingEffect": null,
         "scale": 100,
@@ -195,6 +212,7 @@
         "pushbackStrength": null,
         "pushbackStrengthSelf": null,
         "freezeStrength": null,
+        "syncAnimWithServer": null,
         "id": 25
     },
     {
@@ -203,6 +221,7 @@
         "blueExportName": "range450_blue",
         "redExportName": "range450_red",
         "layer": "Ground",
+        "exportNameTop": null,
         "effect": "explosion_tnt_dude",
         "loopingEffect": null,
         "scale": 100,
@@ -217,6 +236,7 @@
         "pushbackStrength": null,
         "pushbackStrengthSelf": 150,
         "freezeStrength": null,
+        "syncAnimWithServer": null,
         "id": 26
     },
     {
@@ -225,6 +245,7 @@
         "blueExportName": "range450_blue",
         "redExportName": "range450_red",
         "layer": "Ground",
+        "exportNameTop": null,
         "effect": "explosion_tnt_dude_ulti",
         "loopingEffect": null,
         "scale": 165,
@@ -239,6 +260,7 @@
         "pushbackStrength": 150,
         "pushbackStrengthSelf": 250,
         "freezeStrength": null,
+        "syncAnimWithServer": null,
         "id": 27
     },
     {
@@ -247,6 +269,7 @@
         "blueExportName": "range400_blue",
         "redExportName": "range400_red",
         "layer": "Ground",
+        "exportNameTop": null,
         "effect": "explosion_bow_dude",
         "loopingEffect": null,
         "scale": 70,
@@ -261,6 +284,7 @@
         "pushbackStrength": null,
         "pushbackStrengthSelf": null,
         "freezeStrength": null,
+        "syncAnimWithServer": null,
         "id": 28
     },
     {
@@ -269,6 +293,7 @@
         "blueExportName": null,
         "redExportName": null,
         "layer": "Ground",
+        "exportNameTop": null,
         "effect": null,
         "loopingEffect": null,
         "scale": 100,
@@ -283,6 +308,7 @@
         "pushbackStrength": null,
         "pushbackStrengthSelf": null,
         "freezeStrength": null,
+        "syncAnimWithServer": null,
         "id": 29
     },
     {
@@ -291,6 +317,7 @@
         "blueExportName": "heal_area_effect_blue",
         "redExportName": "heal_area_effect_red",
         "layer": "Ground",
+        "exportNameTop": null,
         "effect": null,
         "loopingEffect": "heal_area_fx",
         "scale": 125,
@@ -305,6 +332,7 @@
         "pushbackStrength": null,
         "pushbackStrengthSelf": null,
         "freezeStrength": null,
+        "syncAnimWithServer": null,
         "id": 30
     },
     {
@@ -313,6 +341,7 @@
         "blueExportName": "heal_area_effect_blue",
         "redExportName": "heal_area_effect_red",
         "layer": "Ground",
+        "exportNameTop": null,
         "effect": null,
         "loopingEffect": null,
         "scale": 100,
@@ -327,6 +356,7 @@
         "pushbackStrength": null,
         "pushbackStrengthSelf": null,
         "freezeStrength": null,
+        "syncAnimWithServer": null,
         "id": 31
     },
     {
@@ -335,6 +365,7 @@
         "blueExportName": "range450_blue",
         "redExportName": "range450_red",
         "layer": "Ground",
+        "exportNameTop": null,
         "effect": "explosion_600",
         "loopingEffect": null,
         "scale": 133,
@@ -349,6 +380,7 @@
         "pushbackStrength": 70,
         "pushbackStrengthSelf": null,
         "freezeStrength": null,
+        "syncAnimWithServer": null,
         "id": 32
     },
     {
@@ -357,6 +389,7 @@
         "blueExportName": "range450_blue",
         "redExportName": "range450_red",
         "layer": "Ground",
+        "exportNameTop": null,
         "effect": "explosion_600",
         "loopingEffect": null,
         "scale": 133,
@@ -371,6 +404,7 @@
         "pushbackStrength": 70,
         "pushbackStrengthSelf": null,
         "freezeStrength": null,
+        "syncAnimWithServer": null,
         "id": 33
     },
     {
@@ -379,6 +413,7 @@
         "blueExportName": "range450_blue",
         "redExportName": "range450_red",
         "layer": "Ground",
+        "exportNameTop": null,
         "effect": "blackhole_ulti_damage",
         "loopingEffect": null,
         "scale": 100,
@@ -393,6 +428,7 @@
         "pushbackStrength": 50,
         "pushbackStrengthSelf": null,
         "freezeStrength": null,
+        "syncAnimWithServer": null,
         "id": 34
     },
     {
@@ -401,6 +437,7 @@
         "blueExportName": "range450_blue",
         "redExportName": "range450_red",
         "layer": "Ground",
+        "exportNameTop": null,
         "effect": "blackhole_ulti_suck",
         "loopingEffect": null,
         "scale": 235,
@@ -415,6 +452,7 @@
         "pushbackStrength": -150,
         "pushbackStrengthSelf": null,
         "freezeStrength": null,
+        "syncAnimWithServer": null,
         "id": 35
     },
     {
@@ -423,6 +461,7 @@
         "blueExportName": "range450_blue",
         "redExportName": "range450_red",
         "layer": "Ground",
+        "exportNameTop": null,
         "effect": "explosion_artillery_dude_turret",
         "loopingEffect": null,
         "scale": 100,
@@ -437,6 +476,7 @@
         "pushbackStrength": null,
         "pushbackStrengthSelf": null,
         "freezeStrength": null,
+        "syncAnimWithServer": null,
         "id": 36
     },
     {
@@ -445,6 +485,7 @@
         "blueExportName": "range450_blue",
         "redExportName": "range450_red",
         "layer": "Ground",
+        "exportNameTop": null,
         "effect": "explosion_artillery_dude_turret",
         "loopingEffect": null,
         "scale": 100,
@@ -459,6 +500,7 @@
         "pushbackStrength": null,
         "pushbackStrengthSelf": null,
         "freezeStrength": null,
+        "syncAnimWithServer": null,
         "id": 37
     },
     {
@@ -467,6 +509,7 @@
         "blueExportName": "heal_area_effect_blue",
         "redExportName": "heal_area_effect_red",
         "layer": "Ground",
+        "exportNameTop": null,
         "effect": null,
         "loopingEffect": "heal_area_fx",
         "scale": 125,
@@ -481,6 +524,7 @@
         "pushbackStrength": null,
         "pushbackStrengthSelf": null,
         "freezeStrength": null,
+        "syncAnimWithServer": null,
         "id": 38
     },
     {
@@ -489,6 +533,7 @@
         "blueExportName": "brock_ground_fire",
         "redExportName": "brock_ground_fire_red",
         "layer": "Ground",
+        "exportNameTop": null,
         "effect": "burning_ground_brock",
         "loopingEffect": null,
         "scale": 28,
@@ -503,6 +548,151 @@
         "pushbackStrength": null,
         "pushbackStrengthSelf": null,
         "freezeStrength": null,
+        "syncAnimWithServer": null,
         "id": 39
+    },
+    {
+        "name": "PowerupSpawn",
+        "fileName": "sc/effects.sc",
+        "blueExportName": "power_area_effect_blue",
+        "redExportName": "power_area_effect_blue",
+        "layer": "Ground",
+        "exportNameTop": null,
+        "effect": "powerup_indicator",
+        "loopingEffect": null,
+        "scale": 40,
+        "timeMs": 5000,
+        "radius": 300,
+        "damage": null,
+        "customValue": null,
+        "type": "Effect",
+        "bulletExplosionBullet": null,
+        "bulletExplosionBulletDistance": null,
+        "destroysEnvironment": null,
+        "pushbackStrength": null,
+        "pushbackStrengthSelf": null,
+        "freezeStrength": null,
+        "syncAnimWithServer": true,
+        "id": 40
+    },
+    {
+        "name": "BossSpawn",
+        "fileName": "sc/effects.sc",
+        "blueExportName": "meteor_area_effect",
+        "redExportName": "meteor_area_effect",
+        "layer": "Ground",
+        "exportNameTop": null,
+        "effect": "boss_warning",
+        "loopingEffect": null,
+        "scale": 40,
+        "timeMs": 5000,
+        "radius": 300,
+        "damage": null,
+        "customValue": null,
+        "type": "Effect",
+        "bulletExplosionBullet": null,
+        "bulletExplosionBulletDistance": null,
+        "destroysEnvironment": null,
+        "pushbackStrength": null,
+        "pushbackStrengthSelf": null,
+        "freezeStrength": null,
+        "syncAnimWithServer": true,
+        "id": 41
+    },
+    {
+        "name": "EventExplosion",
+        "fileName": "sc/effects.sc",
+        "blueExportName": "range450_blue",
+        "redExportName": "range450_red",
+        "layer": "Ground",
+        "exportNameTop": null,
+        "effect": "meteor_area_explosion",
+        "loopingEffect": null,
+        "scale": 165,
+        "timeMs": 700,
+        "radius": 800,
+        "damage": 2000,
+        "customValue": null,
+        "type": "Damage",
+        "bulletExplosionBullet": null,
+        "bulletExplosionBulletDistance": null,
+        "destroysEnvironment": true,
+        "pushbackStrength": 150,
+        "pushbackStrengthSelf": 250,
+        "freezeStrength": null,
+        "syncAnimWithServer": null,
+        "id": 42
+    },
+    {
+        "name": "ExplosionSpawn",
+        "fileName": "sc/effects.sc",
+        "blueExportName": "meteor_area_effect",
+        "redExportName": "meteor_area_effect",
+        "layer": "Above",
+        "exportNameTop": "meteor_ball_animation",
+        "effect": "meteor_warning",
+        "loopingEffect": null,
+        "scale": 95,
+        "timeMs": 2500,
+        "radius": 800,
+        "damage": null,
+        "customValue": null,
+        "type": "Effect",
+        "bulletExplosionBullet": null,
+        "bulletExplosionBulletDistance": null,
+        "destroysEnvironment": null,
+        "pushbackStrength": null,
+        "pushbackStrengthSelf": null,
+        "freezeStrength": null,
+        "syncAnimWithServer": true,
+        "id": 43
+    },
+    {
+        "name": "ClusterBombExplosion",
+        "fileName": "sc/effects.sc",
+        "blueExportName": null,
+        "redExportName": null,
+        "layer": "Ground",
+        "exportNameTop": null,
+        "effect": "explosion_cluster_bomb_air",
+        "loopingEffect": null,
+        "scale": 100,
+        "timeMs": 700,
+        "radius": 300,
+        "damage": null,
+        "customValue": 6,
+        "type": "BulletExplosion",
+        "bulletExplosionBullet": "ClusterBombProjectile2",
+        "bulletExplosionBulletDistance": 12,
+        "destroysEnvironment": null,
+        "pushbackStrength": null,
+        "pushbackStrengthSelf": null,
+        "freezeStrength": null,
+        "syncAnimWithServer": null,
+        "id": 44
+    },
+    {
+        "name": "ClusterBombExplosion2",
+        "fileName": "sc/effects.sc",
+        "blueExportName": "range450_blue",
+        "redExportName": "range450_red",
+        "layer": "Ground",
+        "exportNameTop": null,
+        "effect": "explosion_tnt_dude",
+        "loopingEffect": null,
+        "scale": 100,
+        "timeMs": 700,
+        "radius": 450,
+        "damage": null,
+        "customValue": null,
+        "type": "Damage",
+        "bulletExplosionBullet": null,
+        "bulletExplosionBulletDistance": null,
+        "destroysEnvironment": true,
+        "pushbackStrength": null,
+        "pushbackStrengthSelf": null,
+        "freezeStrength": null,
+        "syncAnimWithServer": null,
+        "id": 45
     }
 ]

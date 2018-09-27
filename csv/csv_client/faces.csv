@@ -15,4 +15,6 @@
 "CrowFace","characters.sc","crow_face"
 "TaraFace","characters.sc","tara_face"
 "MortisFace","characters.sc","mortis_face"
+"MortisWin","characters.sc","mortis_win"
+"MortisWinloop","characters.sc","mortis_winloop"
 "PennyFace","characters.sc","penny_face"

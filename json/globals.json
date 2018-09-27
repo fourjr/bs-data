@@ -448,5 +448,14 @@
         "stringArray": null,
         "numberArray": null,
         "id": 52
+    },
+    {
+        "name": "TRANSFORM_FREE_BOX_TO_AD_BOX",
+        "numberValue": null,
+        "booleanValue": true,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": null,
+        "id": 53
     }
 ]

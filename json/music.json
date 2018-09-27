@@ -70,6 +70,16 @@
         "id": 18
     },
     {
+        "name": null,
+        "fileName": "music/Slugfest_ingame_08.ogg",
+        "volume": 70,
+        "loop": true,
+        "playCount": null,
+        "fadeOutTimeSec": null,
+        "durationSec": 57,
+        "id": 19
+    },
+    {
         "name": "SingleplayerBattlemusic",
         "fileName": "music/Slugfest_ingame_02.ogg",
         "volume": 70,
@@ -77,7 +87,7 @@
         "playCount": null,
         "fadeOutTimeSec": null,
         "durationSec": 60,
-        "id": 19
+        "id": 20
     },
     {
         "name": null,
@@ -87,7 +97,7 @@
         "playCount": null,
         "fadeOutTimeSec": null,
         "durationSec": 90,
-        "id": 20
+        "id": 21
     },
     {
         "name": null,
@@ -97,7 +107,7 @@
         "playCount": null,
         "fadeOutTimeSec": null,
         "durationSec": 57,
-        "id": 21
+        "id": 22
     },
     {
         "name": null,
@@ -107,7 +117,7 @@
         "playCount": null,
         "fadeOutTimeSec": null,
         "durationSec": 60,
-        "id": 22
+        "id": 23
     },
     {
         "name": null,
@@ -117,7 +127,7 @@
         "playCount": null,
         "fadeOutTimeSec": null,
         "durationSec": 75,
-        "id": 23
+        "id": 24
     },
     {
         "name": null,
@@ -127,7 +137,7 @@
         "playCount": null,
         "fadeOutTimeSec": null,
         "durationSec": 60,
-        "id": 24
+        "id": 25
     },
     {
         "name": null,
@@ -137,7 +147,17 @@
         "playCount": null,
         "fadeOutTimeSec": null,
         "durationSec": 71,
-        "id": 25
+        "id": 26
+    },
+    {
+        "name": null,
+        "fileName": "music/Slugfest_ingame_08.ogg",
+        "volume": 70,
+        "loop": true,
+        "playCount": null,
+        "fadeOutTimeSec": null,
+        "durationSec": 57,
+        "id": 27
     },
     {
         "name": "MenuMusic",
@@ -147,7 +167,7 @@
         "playCount": null,
         "fadeOutTimeSec": null,
         "durationSec": 153,
-        "id": 26
+        "id": 28
     },
     {
         "name": "WinJingle",
@@ -157,7 +177,7 @@
         "playCount": 1,
         "fadeOutTimeSec": null,
         "durationSec": null,
-        "id": 27
+        "id": 29
     },
     {
         "name": "LoseJingle",
@@ -167,7 +187,7 @@
         "playCount": 1,
         "fadeOutTimeSec": null,
         "durationSec": null,
-        "id": 28
+        "id": 30
     },
     {
         "name": "DrawJingle",
@@ -177,7 +197,7 @@
         "playCount": 1,
         "fadeOutTimeSec": null,
         "durationSec": null,
-        "id": 29
+        "id": 31
     },
     {
         "name": "Win_loop",
@@ -187,7 +207,7 @@
         "playCount": null,
         "fadeOutTimeSec": null,
         "durationSec": 30,
-        "id": 30
+        "id": 32
     },
     {
         "name": "Draw_loop",
@@ -197,7 +217,7 @@
         "playCount": null,
         "fadeOutTimeSec": null,
         "durationSec": 34,
-        "id": 31
+        "id": 33
     },
     {
         "name": "Lose_loop",
@@ -207,7 +227,7 @@
         "playCount": null,
         "fadeOutTimeSec": null,
         "durationSec": 28,
-        "id": 32
+        "id": 34
     },
     {
         "name": "Brawlbawl_goal",
@@ -217,7 +237,7 @@
         "playCount": 1,
         "fadeOutTimeSec": null,
         "durationSec": null,
-        "id": 33
+        "id": 35
     },
     {
         "name": "Brawlbawl_other_goal",
@@ -227,7 +247,7 @@
         "playCount": 1,
         "fadeOutTimeSec": null,
         "durationSec": null,
-        "id": 34
+        "id": 36
     },
     {
         "name": "30_sec_panic",
@@ -237,6 +257,6 @@
         "playCount": null,
         "fadeOutTimeSec": null,
         "durationSec": 30,
-        "id": 35
+        "id": 37
     }
 ]

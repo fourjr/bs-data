@@ -90,9 +90,21 @@
         "id": 44
     },
     {
+        "name": "MortisWin",
+        "fileName": "characters.sc",
+        "exportName": "mortis_win",
+        "id": 45
+    },
+    {
+        "name": "MortisWinloop",
+        "fileName": "characters.sc",
+        "exportName": "mortis_winloop",
+        "id": 46
+    },
+    {
         "name": "PennyFace",
         "fileName": "characters.sc",
         "exportName": "penny_face",
-        "id": 45
+        "id": 47
     }
 ]

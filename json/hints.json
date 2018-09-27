@@ -185,7 +185,7 @@
     },
     {
         "name": 24,
-        "tID": "Some Brawlers are better on some maps and modes than others.",
+        "tID": "Some Brawlers are better on some maps and events than others.",
         "minXPLevel": 3,
         "maxXPLevel": 999,
         "fileName": null,
@@ -241,7 +241,7 @@
     },
     {
         "name": 31,
-        "tID": "Friendly games let you pick any mode and map. Brawlers will also be fully upgraded!",
+        "tID": "Friendly games let you pick any event and map. Brawlers will also be fully upgraded!",
         "minXPLevel": 3,
         "maxXPLevel": 999,
         "fileName": null,
@@ -257,7 +257,7 @@
     },
     {
         "name": 33,
-        "tID": "Boss Fight and Robo Rumble modes don't use up the Key Bar, instead they require tickets to play. ",
+        "tID": "Boss Fight and Robo Rumble events don't use up the Key Bar, instead they require tickets to play.",
         "minXPLevel": 3,
         "maxXPLevel": 999,
         "fileName": null,
@@ -289,7 +289,7 @@
     },
     {
         "name": 37,
-        "tID": "When creating a game room you can directly invite online friends to play with you.",
+        "tID": "When creating a game room you can directly invite online friends and Band mates to play with you.",
         "minXPLevel": 3,
         "maxXPLevel": 999,
         "fileName": null,
@@ -298,6 +298,30 @@
     {
         "name": 38,
         "tID": "You can use the advertise button to advertise your game room to your friends and Band mates.",
+        "minXPLevel": 3,
+        "maxXPLevel": 999,
+        "fileName": null,
+        "exportName": null
+    },
+    {
+        "name": 39,
+        "tID": "A rotating blue circle under a Brawler means their Super is ready!",
+        "minXPLevel": 6,
+        "maxXPLevel": 999,
+        "fileName": null,
+        "exportName": null
+    },
+    {
+        "name": 40,
+        "tID": "A rotating yellow circle under a Brawler means they are currently targeting their Super!",
+        "minXPLevel": 6,
+        "maxXPLevel": 999,
+        "fileName": null,
+        "exportName": null
+    },
+    {
+        "name": 41,
+        "tID": "Connect to Supercell ID from the settings screen to keep your account safe and play with multiple devices.",
         "minXPLevel": 3,
         "maxXPLevel": 999,
         "fileName": null,

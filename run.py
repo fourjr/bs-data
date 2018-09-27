@@ -51,6 +51,8 @@ if __name__ == '__main__':
                                 i[j] = TID[i[j]]
                             except KeyError:
                                 pass
+
+                        # Typing
                         elif '.' in i[j]:
                             try:
                                 i[j] = float(i[j])
