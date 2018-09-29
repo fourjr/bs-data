@@ -75,3 +75,17 @@ if __name__ == '__main__':
                 json.dump(data, f, indent=4)
 
         print(fp)
+
+    # texts.csv
+    with open('csv/texts.csv') as fp:
+        reader = csv.DictReader(fp)
+        data = {}
+        for n, row in enumerate(reader):
+            if n == 0:
+                continue
+            data[row['TID'].replace('TID_', '')] = row['EN']
+
+        print('csv/texts.csv')
+
+        with open('json/texts.json', 'w+') as f:
+            json.dump(data, f, indent=4)
