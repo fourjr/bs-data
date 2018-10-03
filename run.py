@@ -71,6 +71,16 @@ if __name__ == '__main__':
                     if i[j] == '':
                         i[j] = None
 
+            if fn == 'maps.csv':
+                rp_data = {}
+                for i in data:
+                    if i['group']:
+                        latest_grp = i['group']
+                        rp_data[i['group']] = [i['data']]
+                    else:
+                        rp_data[latest_grp].append(i['data'])
+                data = rp_data
+
             with open('json/' + fn.replace('.csv', '.json'), 'w+') as f:
                 json.dump(data, f, indent=4)
 
