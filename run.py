@@ -44,6 +44,8 @@ if __name__ == '__main__':
             for n, i in enumerate(data):
                 if fn in config['id']:
                     i['id'] = config['id'][fn] + n
+                if fn in config['scId']:
+                    i['scId'] = config['scId'][fn] + n
                 for j in i:
                     if isinstance(i[j], str):
                         if i[j].startswith('TID_'):

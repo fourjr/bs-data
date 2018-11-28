@@ -23,7 +23,8 @@
         "music": null,
         "largeMap": null,
         "communityCredit": null,
-        "id": 15
+        "id": 15,
+        "scId": 1500000
     },
     {
         "name": "Wanted2",
@@ -49,7 +50,8 @@
         "music": null,
         "largeMap": null,
         "communityCredit": null,
-        "id": 16
+        "id": 16,
+        "scId": 1500001
     },
     {
         "name": "Wanted3",
@@ -75,7 +77,8 @@
         "music": null,
         "largeMap": null,
         "communityCredit": null,
-        "id": 17
+        "id": 17,
+        "scId": 1500002
     },
     {
         "name": "Wanted4",
@@ -101,7 +104,8 @@
         "music": null,
         "largeMap": null,
         "communityCredit": null,
-        "id": 18
+        "id": 18,
+        "scId": 1500003
     },
     {
         "name": "Wanted5",
@@ -127,7 +131,8 @@
         "music": null,
         "largeMap": null,
         "communityCredit": null,
-        "id": 19
+        "id": 19,
+        "scId": 1500004
     },
     {
         "name": "Wanted6",
@@ -153,7 +158,8 @@
         "music": null,
         "largeMap": null,
         "communityCredit": null,
-        "id": 20
+        "id": 20,
+        "scId": 1500005
     },
     {
         "name": "Wanted7",
@@ -179,7 +185,8 @@
         "music": null,
         "largeMap": null,
         "communityCredit": null,
-        "id": 21
+        "id": 21,
+        "scId": 1500006
     },
     {
         "name": "Gemgrab1",
@@ -205,7 +212,8 @@
         "music": null,
         "largeMap": null,
         "communityCredit": null,
-        "id": 22
+        "id": 22,
+        "scId": 1500007
     },
     {
         "name": "Gemgrab2",
@@ -231,7 +239,8 @@
         "music": null,
         "largeMap": null,
         "communityCredit": null,
-        "id": 23
+        "id": 23,
+        "scId": 1500008
     },
     {
         "name": "Gemgrab3",
@@ -257,7 +266,8 @@
         "music": null,
         "largeMap": null,
         "communityCredit": null,
-        "id": 24
+        "id": 24,
+        "scId": 1500009
     },
     {
         "name": "Gemgrab4",
@@ -283,7 +293,8 @@
         "music": null,
         "largeMap": null,
         "communityCredit": null,
-        "id": 25
+        "id": 25,
+        "scId": 1500010
     },
     {
         "name": "Gemgrab5",
@@ -309,7 +320,8 @@
         "music": null,
         "largeMap": null,
         "communityCredit": null,
-        "id": 26
+        "id": 26,
+        "scId": 1500011
     },
     {
         "name": "Gemgrab6",
@@ -335,7 +347,8 @@
         "music": null,
         "largeMap": null,
         "communityCredit": null,
-        "id": 27
+        "id": 27,
+        "scId": 1500012
     },
     {
         "name": "Survival1",
@@ -361,7 +374,8 @@
         "music": null,
         "largeMap": null,
         "communityCredit": null,
-        "id": 28
+        "id": 28,
+        "scId": 1500013
     },
     {
         "name": "Survival2",
@@ -387,7 +401,8 @@
         "music": null,
         "largeMap": null,
         "communityCredit": "OwenReds",
-        "id": 29
+        "id": 29,
+        "scId": 1500014
     },
     {
         "name": "Survival3",
@@ -413,7 +428,8 @@
         "music": null,
         "largeMap": null,
         "communityCredit": null,
-        "id": 30
+        "id": 30,
+        "scId": 1500015
     },
     {
         "name": "Survival4",
@@ -439,7 +455,8 @@
         "music": null,
         "largeMap": null,
         "communityCredit": null,
-        "id": 31
+        "id": 31,
+        "scId": 1500016
     },
     {
         "name": "Heist1",
@@ -465,7 +482,8 @@
         "music": null,
         "largeMap": null,
         "communityCredit": null,
-        "id": 32
+        "id": 32,
+        "scId": 1500017
     },
     {
         "name": "Heist2",
@@ -491,7 +509,8 @@
         "music": null,
         "largeMap": null,
         "communityCredit": null,
-        "id": 33
+        "id": 33,
+        "scId": 1500018
     },
     {
         "name": "Heist3",
@@ -517,7 +536,8 @@
         "music": null,
         "largeMap": null,
         "communityCredit": null,
-        "id": 34
+        "id": 34,
+        "scId": 1500019
     },
     {
         "name": "Tutorial",
@@ -543,7 +563,8 @@
         "music": null,
         "largeMap": null,
         "communityCredit": null,
-        "id": 35
+        "id": 35,
+        "scId": 1500020
     },
     {
         "name": "BossFight1",
@@ -569,7 +590,8 @@
         "music": null,
         "largeMap": null,
         "communityCredit": null,
-        "id": 36
+        "id": 36,
+        "scId": 1500021
     },
     {
         "name": "Wanted8",
@@ -595,7 +617,8 @@
         "music": null,
         "largeMap": null,
         "communityCredit": null,
-        "id": 37
+        "id": 37,
+        "scId": 1500022
     },
     {
         "name": "Heist4",
@@ -621,7 +644,8 @@
         "music": null,
         "largeMap": null,
         "communityCredit": null,
-        "id": 38
+        "id": 38,
+        "scId": 1500023
     },
     {
         "name": "Ball1",
@@ -647,7 +671,8 @@
         "music": null,
         "largeMap": null,
         "communityCredit": null,
-        "id": 39
+        "id": 39,
+        "scId": 1500024
     },
     {
         "name": "Ball2",
@@ -673,7 +698,8 @@
         "music": null,
         "largeMap": null,
         "communityCredit": null,
-        "id": 40
+        "id": 40,
+        "scId": 1500025
     },
     {
         "name": "Ball3",
@@ -699,7 +725,8 @@
         "music": null,
         "largeMap": null,
         "communityCredit": null,
-        "id": 41
+        "id": 41,
+        "scId": 1500026
     },
     {
         "name": "Coop1",
@@ -725,7 +752,8 @@
         "music": null,
         "largeMap": null,
         "communityCredit": null,
-        "id": 42
+        "id": 42,
+        "scId": 1500027
     },
     {
         "name": "SurvivalTeam1",
@@ -751,7 +779,8 @@
         "music": null,
         "largeMap": null,
         "communityCredit": null,
-        "id": 43
+        "id": 43,
+        "scId": 1500028
     },
     {
         "name": "Coop2",
@@ -777,7 +806,8 @@
         "music": null,
         "largeMap": null,
         "communityCredit": null,
-        "id": 44
+        "id": 44,
+        "scId": 1500029
     },
     {
         "name": "BossFight2",
@@ -803,7 +833,8 @@
         "music": null,
         "largeMap": null,
         "communityCredit": null,
-        "id": 45
+        "id": 45,
+        "scId": 1500030
     },
     {
         "name": "Gemgrab8",
@@ -829,7 +860,8 @@
         "music": null,
         "largeMap": null,
         "communityCredit": null,
-        "id": 46
+        "id": 46,
+        "scId": 1500031
     },
     {
         "name": "Survival5",
@@ -855,7 +887,8 @@
         "music": null,
         "largeMap": null,
         "communityCredit": "Mordeus",
-        "id": 47
+        "id": 47,
+        "scId": 1500032
     },
     {
         "name": "Survival6",
@@ -881,7 +914,8 @@
         "music": null,
         "largeMap": null,
         "communityCredit": null,
-        "id": 48
+        "id": 48,
+        "scId": 1500033
     },
     {
         "name": "SurvivalTeam2",
@@ -907,7 +941,8 @@
         "music": null,
         "largeMap": null,
         "communityCredit": null,
-        "id": 49
+        "id": 49,
+        "scId": 1500034
     },
     {
         "name": "SurvivalTeam3",
@@ -933,7 +968,8 @@
         "music": null,
         "largeMap": null,
         "communityCredit": "OwenReds",
-        "id": 50
+        "id": 50,
+        "scId": 1500035
     },
     {
         "name": "SurvivalTeam4",
@@ -959,7 +995,8 @@
         "music": null,
         "largeMap": null,
         "communityCredit": null,
-        "id": 51
+        "id": 51,
+        "scId": 1500036
     },
     {
         "name": "SurvivalTeam5",
@@ -985,7 +1022,8 @@
         "music": null,
         "largeMap": null,
         "communityCredit": null,
-        "id": 52
+        "id": 52,
+        "scId": 1500037
     },
     {
         "name": "SurvivalTeam6",
@@ -1011,7 +1049,8 @@
         "music": null,
         "largeMap": null,
         "communityCredit": "Mordeus",
-        "id": 53
+        "id": 53,
+        "scId": 1500038
     },
     {
         "name": "GeneratedRobo",
@@ -1037,7 +1076,8 @@
         "music": null,
         "largeMap": null,
         "communityCredit": null,
-        "id": 54
+        "id": 54,
+        "scId": 1500039
     },
     {
         "name": "Gemgrab7",
@@ -1063,7 +1103,8 @@
         "music": null,
         "largeMap": null,
         "communityCredit": "Elatrock & Dragonhoff (pixelcrux.com admin)",
-        "id": 55
+        "id": 55,
+        "scId": 1500040
     },
     {
         "name": "Gemgrab10",
@@ -1089,7 +1130,8 @@
         "music": null,
         "largeMap": null,
         "communityCredit": "Lewinham",
-        "id": 56
+        "id": 56,
+        "scId": 1500041
     },
     {
         "name": "Heist5",
@@ -1115,7 +1157,8 @@
         "music": null,
         "largeMap": null,
         "communityCredit": "Rushalisk",
-        "id": 57
+        "id": 57,
+        "scId": 1500042
     },
     {
         "name": "Survival7",
@@ -1141,7 +1184,8 @@
         "music": null,
         "largeMap": null,
         "communityCredit": null,
-        "id": 58
+        "id": 58,
+        "scId": 1500043
     },
     {
         "name": "SurvivalTeam7",
@@ -1167,7 +1211,8 @@
         "music": null,
         "largeMap": null,
         "communityCredit": null,
-        "id": 59
+        "id": 59,
+        "scId": 1500044
     },
     {
         "name": "Survival8",
@@ -1193,7 +1238,8 @@
         "music": null,
         "largeMap": null,
         "communityCredit": "Rushalisk",
-        "id": 60
+        "id": 60,
+        "scId": 1500045
     },
     {
         "name": "SurvivalTeam8",
@@ -1219,7 +1265,8 @@
         "music": null,
         "largeMap": null,
         "communityCredit": "Rushalisk",
-        "id": 61
+        "id": 61,
+        "scId": 1500046
     },
     {
         "name": "Heist6",
@@ -1245,7 +1292,8 @@
         "music": null,
         "largeMap": null,
         "communityCredit": "Mordeus",
-        "id": 62
+        "id": 62,
+        "scId": 1500047
     },
     {
         "name": "Gemgrab11",
@@ -1271,7 +1319,8 @@
         "music": null,
         "largeMap": null,
         "communityCredit": "Narcariel ",
-        "id": 63
+        "id": 63,
+        "scId": 1500048
     },
     {
         "name": "Heist7",
@@ -1297,7 +1346,8 @@
         "music": null,
         "largeMap": null,
         "communityCredit": "Schmedricks",
-        "id": 64
+        "id": 64,
+        "scId": 1500049
     },
     {
         "name": "Ball4",
@@ -1323,7 +1373,8 @@
         "music": null,
         "largeMap": null,
         "communityCredit": "Lex",
-        "id": 65
+        "id": 65,
+        "scId": 1500050
     },
     {
         "name": "Ball6",
@@ -1349,7 +1400,8 @@
         "music": null,
         "largeMap": null,
         "communityCredit": "Mordeus",
-        "id": 66
+        "id": 66,
+        "scId": 1500051
     },
     {
         "name": "Ball7",
@@ -1375,7 +1427,8 @@
         "music": null,
         "largeMap": null,
         "communityCredit": "Lewinham",
-        "id": 67
+        "id": 67,
+        "scId": 1500052
     },
     {
         "name": "Heist8",
@@ -1401,7 +1454,8 @@
         "music": null,
         "largeMap": null,
         "communityCredit": "AlexEsteAdevarat ",
-        "id": 68
+        "id": 68,
+        "scId": 1500053
     },
     {
         "name": "Wanted9",
@@ -1427,7 +1481,8 @@
         "music": null,
         "largeMap": null,
         "communityCredit": "thelucas2000 ",
-        "id": 69
+        "id": 69,
+        "scId": 1500054
     },
     {
         "name": "Survival12",
@@ -1453,7 +1508,8 @@
         "music": null,
         "largeMap": null,
         "communityCredit": "Tony_A9",
-        "id": 70
+        "id": 70,
+        "scId": 1500055
     },
     {
         "name": "SurvivalTeam12",
@@ -1479,6 +1535,7 @@
         "music": null,
         "largeMap": null,
         "communityCredit": "Tony_A9",
-        "id": 71
+        "id": 71,
+        "scId": 1500056
     }
 ]
