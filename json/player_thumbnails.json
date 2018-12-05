@@ -8,7 +8,8 @@
         "iconSWF": "sc/ui.sc",
         "iconExportName": "player_icon_00",
         "sortOrder": 0,
-        "id": 28
+        "id": 28,
+        "scId": 28000000
     },
     {
         "name": "base2",
@@ -19,7 +20,8 @@
         "iconSWF": "sc/ui.sc",
         "iconExportName": "player_icon_01",
         "sortOrder": 1,
-        "id": 29
+        "id": 29,
+        "scId": 28000001
     },
     {
         "name": "base3",
@@ -30,7 +32,8 @@
         "iconSWF": "sc/ui.sc",
         "iconExportName": "player_icon_02",
         "sortOrder": 2,
-        "id": 30
+        "id": 30,
+        "scId": 28000002
     },
     {
         "name": "hero1",
@@ -41,7 +44,8 @@
         "iconSWF": "sc/ui.sc",
         "iconExportName": "player_icon_shelly",
         "sortOrder": 16,
-        "id": 31
+        "id": 31,
+        "scId": 28000003
     },
     {
         "name": "hero2",
@@ -52,7 +56,8 @@
         "iconSWF": "sc/ui.sc",
         "iconExportName": "player_icon_colt",
         "sortOrder": 18,
-        "id": 32
+        "id": 32,
+        "scId": 28000004
     },
     {
         "name": "hero3",
@@ -63,7 +68,8 @@
         "iconSWF": "sc/ui.sc",
         "iconExportName": "player_icon_brock",
         "sortOrder": 21,
-        "id": 33
+        "id": 33,
+        "scId": 28000005
     },
     {
         "name": "hero4",
@@ -74,7 +80,8 @@
         "iconSWF": "sc/ui.sc",
         "iconExportName": "player_icon_jess",
         "sortOrder": 20,
-        "id": 34
+        "id": 34,
+        "scId": 28000006
     },
     {
         "name": "hero5",
@@ -85,7 +92,8 @@
         "iconSWF": "sc/ui.sc",
         "iconExportName": "player_icon_nita",
         "sortOrder": 17,
-        "id": 35
+        "id": 35,
+        "scId": 28000007
     },
     {
         "name": "hero6",
@@ -96,7 +104,8 @@
         "iconSWF": "sc/ui.sc",
         "iconExportName": "player_icon_mike",
         "sortOrder": 22,
-        "id": 36
+        "id": 36,
+        "scId": 28000008
     },
     {
         "name": "hero7",
@@ -107,7 +116,8 @@
         "iconSWF": "sc/ui.sc",
         "iconExportName": "player_icon_primo",
         "sortOrder": 24,
-        "id": 37
+        "id": 37,
+        "scId": 28000009
     },
     {
         "name": "hero8",
@@ -118,7 +128,8 @@
         "iconSWF": "sc/ui.sc",
         "iconExportName": "player_icon_bull",
         "sortOrder": 19,
-        "id": 38
+        "id": 38,
+        "scId": 28000010
     },
     {
         "name": "hero9",
@@ -129,7 +140,8 @@
         "iconSWF": "sc/ui.sc",
         "iconExportName": "player_icon_rick",
         "sortOrder": 27,
-        "id": 39
+        "id": 39,
+        "scId": 28000011
     },
     {
         "name": "hero10",
@@ -140,7 +152,8 @@
         "iconSWF": "sc/ui.sc",
         "iconExportName": "player_icon_barley",
         "sortOrder": 25,
-        "id": 40
+        "id": 40,
+        "scId": 28000012
     },
     {
         "name": "hero11",
@@ -151,7 +164,8 @@
         "iconSWF": "sc/ui.sc",
         "iconExportName": "player_icon_poco",
         "sortOrder": 26,
-        "id": 41
+        "id": 41,
+        "scId": 28000013
     },
     {
         "name": "hero12",
@@ -162,7 +176,8 @@
         "iconSWF": "sc/ui.sc",
         "iconExportName": "player_icon_mortis",
         "sortOrder": 33,
-        "id": 42
+        "id": 42,
+        "scId": 28000014
     },
     {
         "name": "hero13",
@@ -173,7 +188,8 @@
         "iconSWF": "sc/ui.sc",
         "iconExportName": "player_icon_bo",
         "sortOrder": 23,
-        "id": 43
+        "id": 43,
+        "scId": 28000015
     },
     {
         "name": "hero14",
@@ -184,7 +200,8 @@
         "iconSWF": "sc/ui.sc",
         "iconExportName": "player_icon_spike",
         "sortOrder": 35,
-        "id": 44
+        "id": 44,
+        "scId": 28000016
     },
     {
         "name": "hero15",
@@ -195,7 +212,8 @@
         "iconSWF": "sc/ui.sc",
         "iconExportName": "player_icon_crow",
         "sortOrder": 36,
-        "id": 45
+        "id": 45,
+        "scId": 28000017
     },
     {
         "name": "hero16",
@@ -206,7 +224,8 @@
         "iconSWF": "sc/ui.sc",
         "iconExportName": "player_icon_piper",
         "sortOrder": 30,
-        "id": 46
+        "id": 46,
+        "scId": 28000018
     },
     {
         "name": "base4",
@@ -217,7 +236,8 @@
         "iconSWF": "sc/ui.sc",
         "iconExportName": "player_icon_03",
         "sortOrder": 3,
-        "id": 47
+        "id": 47,
+        "scId": 28000019
     },
     {
         "name": "base5",
@@ -228,7 +248,8 @@
         "iconSWF": "sc/ui.sc",
         "iconExportName": "player_icon_04",
         "sortOrder": 4,
-        "id": 48
+        "id": 48,
+        "scId": 28000020
     },
     {
         "name": "base6",
@@ -239,7 +260,8 @@
         "iconSWF": "sc/ui.sc",
         "iconExportName": "player_icon_05",
         "sortOrder": 5,
-        "id": 49
+        "id": 49,
+        "scId": 28000021
     },
     {
         "name": "base7",
@@ -250,7 +272,8 @@
         "iconSWF": "sc/ui.sc",
         "iconExportName": "player_icon_06",
         "sortOrder": 6,
-        "id": 50
+        "id": 50,
+        "scId": 28000022
     },
     {
         "name": "base8",
@@ -261,7 +284,8 @@
         "iconSWF": "sc/ui.sc",
         "iconExportName": "player_icon_07",
         "sortOrder": 7,
-        "id": 51
+        "id": 51,
+        "scId": 28000023
     },
     {
         "name": "trophy1",
@@ -272,7 +296,8 @@
         "iconSWF": "sc/ui.sc",
         "iconExportName": "player_icon_trophy_00",
         "sortOrder": 8,
-        "id": 52
+        "id": 52,
+        "scId": 28000024
     },
     {
         "name": "trophy2",
@@ -283,7 +308,8 @@
         "iconSWF": "sc/ui.sc",
         "iconExportName": "player_icon_trophy_01",
         "sortOrder": 9,
-        "id": 53
+        "id": 53,
+        "scId": 28000025
     },
     {
         "name": "trophy3",
@@ -294,7 +320,8 @@
         "iconSWF": "sc/ui.sc",
         "iconExportName": "player_icon_trophy_02",
         "sortOrder": 10,
-        "id": 54
+        "id": 54,
+        "scId": 28000026
     },
     {
         "name": "trophy4",
@@ -305,7 +332,8 @@
         "iconSWF": "sc/ui.sc",
         "iconExportName": "player_icon_trophy_03",
         "sortOrder": 11,
-        "id": 55
+        "id": 55,
+        "scId": 28000027
     },
     {
         "name": "hero17",
@@ -316,7 +344,8 @@
         "iconSWF": "sc/ui.sc",
         "iconExportName": "player_icon_mj",
         "sortOrder": 31,
-        "id": 56
+        "id": 56,
+        "scId": 28000028
     },
     {
         "name": "hero18",
@@ -327,7 +356,8 @@
         "iconSWF": "sc/ui.sc",
         "iconExportName": "player_icon_taro",
         "sortOrder": 34,
-        "id": 57
+        "id": 57,
+        "scId": 28000029
     },
     {
         "name": "trophy5",
@@ -338,7 +368,8 @@
         "iconSWF": "sc/ui.sc",
         "iconExportName": "player_icon_elite_00",
         "sortOrder": 12,
-        "id": 58
+        "id": 58,
+        "scId": 28000030
     },
     {
         "name": "trophy6",
@@ -349,7 +380,8 @@
         "iconSWF": "sc/ui.sc",
         "iconExportName": "player_icon_elite_01",
         "sortOrder": 13,
-        "id": 59
+        "id": 59,
+        "scId": 28000031
     },
     {
         "name": "trophy7",
@@ -360,7 +392,8 @@
         "iconSWF": "sc/ui.sc",
         "iconExportName": "player_icon_elite_02",
         "sortOrder": 14,
-        "id": 60
+        "id": 60,
+        "scId": 28000032
     },
     {
         "name": "trophy8",
@@ -371,7 +404,8 @@
         "iconSWF": "sc/ui.sc",
         "iconExportName": "player_icon_elite_03",
         "sortOrder": 15,
-        "id": 61
+        "id": 61,
+        "scId": 28000033
     },
     {
         "name": "hero19",
@@ -382,7 +416,8 @@
         "iconSWF": "sc/ui.sc",
         "iconExportName": "player_icon_barrelbot",
         "sortOrder": 28,
-        "id": 62
+        "id": 62,
+        "scId": 28000034
     },
     {
         "name": "hero20",
@@ -393,7 +428,8 @@
         "iconSWF": "sc/ui.sc",
         "iconExportName": "player_icon_penny",
         "sortOrder": 29,
-        "id": 63
+        "id": 63,
+        "scId": 28000035
     },
     {
         "name": "hero21",
@@ -404,7 +440,8 @@
         "iconSWF": "sc/ui.sc",
         "iconExportName": "player_icon_frank",
         "sortOrder": 32,
-        "id": 64
+        "id": 64,
+        "scId": 28000036
     },
     {
         "name": "hero22",
@@ -415,6 +452,7 @@
         "iconSWF": "sc/ui.sc",
         "iconExportName": "player_icon_leon",
         "sortOrder": 37,
-        "id": 65
+        "id": 65,
+        "scId": 28000037
     }
 ]
