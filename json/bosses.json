@@ -29,7 +29,7 @@
     },
     {
         "name": "boss3",
-        "tID": "TID_BOSS_3",
+        "tID": "Chew Out",
         "playerCount": 3,
         "requiredCampaignProgressToUnlock": 18,
         "location": "Planet3",
@@ -43,7 +43,7 @@
     },
     {
         "name": "boss4",
-        "tID": "TID_BOSS_4",
+        "tID": "Team Day",
         "playerCount": 3,
         "requiredCampaignProgressToUnlock": 24,
         "location": "Planet4",
@@ -57,7 +57,7 @@
     },
     {
         "name": "boss5",
-        "tID": "TID_BOSS_5",
+        "tID": "Table Flip",
         "playerCount": 3,
         "requiredCampaignProgressToUnlock": 30,
         "location": "Planet5",
@@ -71,7 +71,7 @@
     },
     {
         "name": "boss6",
-        "tID": "TID_BOSS_6",
+        "tID": "Hunting Party",
         "playerCount": 3,
         "requiredCampaignProgressToUnlock": 36,
         "location": "Planet6",

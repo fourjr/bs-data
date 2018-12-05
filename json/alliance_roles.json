@@ -28,7 +28,7 @@
     {
         "name": "Leader",
         "level": 20,
-        "tID": "Leader",
+        "tID": "President",
         "canInvite": true,
         "canSendMail": true,
         "canChangeAllianceSettings": true,
@@ -41,7 +41,7 @@
     {
         "name": "Elder",
         "level": 5,
-        "tID": "Elder",
+        "tID": "Senior",
         "canInvite": true,
         "canSendMail": false,
         "canChangeAllianceSettings": false,
@@ -54,7 +54,7 @@
     {
         "name": "Co-leader",
         "level": 10,
-        "tID": "Co-leader",
+        "tID": "Vice President",
         "canInvite": true,
         "canSendMail": true,
         "canChangeAllianceSettings": true,

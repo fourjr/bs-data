@@ -18,3 +18,8 @@
 "MortisWin","characters.sc","mortis_win"
 "MortisWinloop","characters.sc","mortis_winloop"
 "PennyFace","characters.sc","penny_face"
+"LeonIdle","characters.sc","leon_idle"
+"LeonWin","characters.sc","leon_win"
+"LeonWinLoop","characters.sc","leon_winloop"
+"LeonLose","characters.sc","leon_lose"
+"LeonLoseLoop","characters.sc","leon_loseloop"

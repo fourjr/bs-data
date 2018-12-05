@@ -218,34 +218,34 @@
         "speed": null,
         "transitionInMs": null,
         "transitionOutMs": null,
-        "autoFadeMs": null,
+        "autoFadeMs": 200,
         "looping": true,
         "priority": null,
         "id": 39
     },
     {
         "name": "TntguyIdle",
-        "fileName": "tntguy_idle1.scw",
+        "fileName": "dynamike_idle.scw",
         "startFrame": -1,
         "endFrame": -1,
         "runningTimeMs": -1,
         "speed": null,
-        "transitionInMs": 500,
-        "transitionOutMs": 500,
+        "transitionInMs": 100,
+        "transitionOutMs": 100,
         "autoFadeMs": null,
         "looping": true,
-        "priority": null,
+        "priority": 0,
         "id": 40
     },
     {
         "name": "TntguyWalk",
-        "fileName": "tntguy_walk1.scw",
-        "startFrame": -1,
-        "endFrame": -1,
+        "fileName": "dynamike_walk.scw",
+        "startFrame": 1,
+        "endFrame": 29,
         "runningTimeMs": -1,
-        "speed": 250,
-        "transitionInMs": 500,
-        "transitionOutMs": 500,
+        "speed": 150,
+        "transitionInMs": 100,
+        "transitionOutMs": 100,
         "autoFadeMs": null,
         "looping": true,
         "priority": 1,
@@ -253,109 +253,109 @@
     },
     {
         "name": "TntguyPrimary",
-        "fileName": "tntguy_attack1.scw",
-        "startFrame": -1,
-        "endFrame": -1,
+        "fileName": "dynamike_attack.scw",
+        "startFrame": 1,
+        "endFrame": 5,
         "runningTimeMs": -1,
         "speed": null,
-        "transitionInMs": 1,
-        "transitionOutMs": 1,
-        "autoFadeMs": 50,
+        "transitionInMs": null,
+        "transitionOutMs": null,
+        "autoFadeMs": 10,
         "looping": false,
-        "priority": "ChestBone#4",
+        "priority": "hips_s#3",
         "id": 42
     },
     {
         "name": "TntguySecondary",
-        "fileName": "tntguy_attack1.scw",
-        "startFrame": -1,
-        "endFrame": -1,
+        "fileName": "dynamike_super.scw",
+        "startFrame": 1,
+        "endFrame": 5,
         "runningTimeMs": -1,
         "speed": null,
-        "transitionInMs": 100,
-        "transitionOutMs": 200,
-        "autoFadeMs": 200,
+        "transitionInMs": null,
+        "transitionOutMs": null,
+        "autoFadeMs": 10,
         "looping": false,
-        "priority": "ChestBone#3",
+        "priority": "hips_s#3",
         "id": 43
     },
     {
         "name": "TntguyRecoil",
-        "fileName": "tntguy_recoil1.scw",
-        "startFrame": -1,
-        "endFrame": -1,
+        "fileName": "dynamike_attack.scw",
+        "startFrame": 5,
+        "endFrame": 20,
         "runningTimeMs": -1,
         "speed": null,
-        "transitionInMs": 1,
-        "transitionOutMs": 1,
-        "autoFadeMs": 50,
+        "transitionInMs": null,
+        "transitionOutMs": null,
+        "autoFadeMs": 100,
         "looping": false,
-        "priority": "ChestBone#4",
+        "priority": "hips_s#3",
         "id": 44
     },
     {
         "name": "TntguyReload",
-        "fileName": "tntguy_idle1.scw",
-        "startFrame": -1,
-        "endFrame": -1,
+        "fileName": "dynamike_walk.scw",
+        "startFrame": 1,
+        "endFrame": 5,
         "runningTimeMs": -1,
-        "speed": null,
-        "transitionInMs": 200,
-        "transitionOutMs": 300,
-        "autoFadeMs": 400,
+        "speed": 150,
+        "transitionInMs": 100,
+        "transitionOutMs": 100,
+        "autoFadeMs": 10,
         "looping": false,
-        "priority": "ChestBone#2",
+        "priority": "spine_lower_s#0",
         "id": 45
     },
     {
         "name": "TntguyUlti",
-        "fileName": "tntguy_ulti1.scw",
-        "startFrame": -1,
-        "endFrame": -1,
+        "fileName": "dynamike_super.scw",
+        "startFrame": 5,
+        "endFrame": 20,
         "runningTimeMs": -1,
         "speed": null,
-        "transitionInMs": 10,
-        "transitionOutMs": 10,
-        "autoFadeMs": 3,
+        "transitionInMs": null,
+        "transitionOutMs": null,
+        "autoFadeMs": 100,
         "looping": false,
-        "priority": 5,
+        "priority": "hips_s#3",
         "id": 46
     },
     {
         "name": "TntguyPushback",
-        "fileName": "tntguy_idle1.scw",
+        "fileName": "dynamike_pushback.scw",
         "startFrame": -1,
         "endFrame": -1,
         "runningTimeMs": -1,
         "speed": null,
         "transitionInMs": 100,
-        "transitionOutMs": 200,
-        "autoFadeMs": 400,
+        "transitionOutMs": 100,
+        "autoFadeMs": 100,
         "looping": false,
         "priority": 5,
         "id": 47
     },
     {
         "name": "TntguyWin",
-        "fileName": "tntguy_win1.scw",
-        "startFrame": -1,
-        "endFrame": -1,
+        "fileName": "dynamike_win.scw",
+        "startFrame": 1,
+        "endFrame": 62,
         "runningTimeMs": -1,
         "speed": null,
         "transitionInMs": null,
         "transitionOutMs": null,
-        "autoFadeMs": 200,
+        "autoFadeMs": null,
         "looping": false,
         "priority": null,
         "id": 48
     },
     {
         "name": "TntguyWinloop",
-        "fileName": "tntguy_winloop1.scw",
-        "startFrame": -1,
-        "endFrame": -1,
+        "fileName": "dynamike_win.scw",
+        "startFrame": 62,
+        "endFrame": 89,
         "runningTimeMs": -1,
-        "speed": null,
+        "speed": 80,
         "transitionInMs": null,
         "transitionOutMs": null,
         "autoFadeMs": null,
@@ -365,23 +365,23 @@
     },
     {
         "name": "TntguyLose",
-        "fileName": "tntguy_lose1.scw",
-        "startFrame": -1,
-        "endFrame": -1,
+        "fileName": "dynamike_lose.scw",
+        "startFrame": 0,
+        "endFrame": 41,
         "runningTimeMs": -1,
         "speed": null,
         "transitionInMs": null,
         "transitionOutMs": null,
-        "autoFadeMs": 200,
+        "autoFadeMs": null,
         "looping": false,
         "priority": null,
         "id": 50
     },
     {
         "name": "TntguyLoseloop",
-        "fileName": "tntguy_loseloop1.scw",
-        "startFrame": -1,
-        "endFrame": -1,
+        "fileName": "dynamike_lose.scw",
+        "startFrame": 41,
+        "endFrame": 50,
         "runningTimeMs": -1,
         "speed": null,
         "transitionInMs": null,
@@ -476,6 +476,20 @@
         "id": 57
     },
     {
+        "name": "UndertakerPushback",
+        "fileName": "mortis_pushback.scw",
+        "startFrame": -1,
+        "endFrame": -1,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": 100,
+        "transitionOutMs": 100,
+        "autoFadeMs": 100,
+        "looping": false,
+        "priority": 5,
+        "id": 58
+    },
+    {
         "name": "UndertakerWin",
         "fileName": "mortis_win.scw",
         "startFrame": 1,
@@ -487,7 +501,7 @@
         "autoFadeMs": null,
         "looping": false,
         "priority": 1,
-        "id": 58
+        "id": 59
     },
     {
         "name": "UndertakerWinloop",
@@ -501,7 +515,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": 1,
-        "id": 59
+        "id": 60
     },
     {
         "name": "UndertakerLose",
@@ -515,7 +529,7 @@
         "autoFadeMs": null,
         "looping": false,
         "priority": 1,
-        "id": 60
+        "id": 61
     },
     {
         "name": "UndertakerLoseloop",
@@ -529,7 +543,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": 1,
-        "id": 61
+        "id": 62
     },
     {
         "name": "MariachiIdle",
@@ -543,7 +557,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": null,
-        "id": 62
+        "id": 63
     },
     {
         "name": "MariachiWalk",
@@ -557,7 +571,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": 1,
-        "id": 63
+        "id": 64
     },
     {
         "name": "MariachiAttack",
@@ -571,7 +585,7 @@
         "autoFadeMs": 300,
         "looping": false,
         "priority": "ChestBone#3",
-        "id": 64
+        "id": 65
     },
     {
         "name": "MariachiSecondary",
@@ -585,7 +599,7 @@
         "autoFadeMs": 200,
         "looping": false,
         "priority": "ChestBone#3",
-        "id": 65
+        "id": 66
     },
     {
         "name": "MariachiRecoil",
@@ -599,7 +613,7 @@
         "autoFadeMs": 150,
         "looping": false,
         "priority": "ChestBone#4",
-        "id": 66
+        "id": 67
     },
     {
         "name": "MariachiReload",
@@ -613,7 +627,7 @@
         "autoFadeMs": 200,
         "looping": false,
         "priority": "ChestBone#2",
-        "id": 67
+        "id": 68
     },
     {
         "name": "MariachiPushback",
@@ -627,7 +641,7 @@
         "autoFadeMs": 500,
         "looping": false,
         "priority": 5,
-        "id": 68
+        "id": 69
     },
     {
         "name": "MariachiWin",
@@ -641,7 +655,7 @@
         "autoFadeMs": 50,
         "looping": false,
         "priority": null,
-        "id": 69
+        "id": 70
     },
     {
         "name": "MariachiWinloop",
@@ -655,7 +669,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": null,
-        "id": 70
+        "id": 71
     },
     {
         "name": "MariachiLose",
@@ -669,7 +683,7 @@
         "autoFadeMs": 50,
         "looping": false,
         "priority": null,
-        "id": 71
+        "id": 72
     },
     {
         "name": "MariachiLoseloop",
@@ -683,7 +697,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": null,
-        "id": 72
+        "id": 73
     },
     {
         "name": "CrowIdle",
@@ -697,7 +711,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": null,
-        "id": 73
+        "id": 74
     },
     {
         "name": "CrowWalk",
@@ -711,7 +725,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": 1,
-        "id": 74
+        "id": 75
     },
     {
         "name": "CrowPrimary",
@@ -725,7 +739,7 @@
         "autoFadeMs": 600,
         "looping": false,
         "priority": "ChestBone#3",
-        "id": 75
+        "id": 76
     },
     {
         "name": "CrowSecondary",
@@ -739,7 +753,7 @@
         "autoFadeMs": 10,
         "looping": false,
         "priority": 5,
-        "id": 76
+        "id": 77
     },
     {
         "name": "CrowRecoil",
@@ -753,7 +767,7 @@
         "autoFadeMs": 200,
         "looping": false,
         "priority": "ChestBone#4",
-        "id": 77
+        "id": 78
     },
     {
         "name": "CrowReload",
@@ -767,7 +781,7 @@
         "autoFadeMs": 200,
         "looping": false,
         "priority": "ChestBone#2",
-        "id": 78
+        "id": 79
     },
     {
         "name": "CrowPushback",
@@ -781,7 +795,7 @@
         "autoFadeMs": 200,
         "looping": false,
         "priority": 5,
-        "id": 79
+        "id": 80
     },
     {
         "name": "CrowWin",
@@ -795,7 +809,7 @@
         "autoFadeMs": 200,
         "looping": false,
         "priority": null,
-        "id": 80
+        "id": 81
     },
     {
         "name": "CrowWinloop",
@@ -809,7 +823,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": null,
-        "id": 81
+        "id": 82
     },
     {
         "name": "CrowLose",
@@ -823,7 +837,7 @@
         "autoFadeMs": 200,
         "looping": false,
         "priority": null,
-        "id": 82
+        "id": 83
     },
     {
         "name": "CrowLoseloop",
@@ -837,7 +851,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": null,
-        "id": 83
+        "id": 84
     },
     {
         "name": "BowGuyIdle",
@@ -851,7 +865,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": null,
-        "id": 84
+        "id": 85
     },
     {
         "name": "BowGuyWalk",
@@ -865,7 +879,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": 1,
-        "id": 85
+        "id": 86
     },
     {
         "name": "BowGuyAttack",
@@ -879,7 +893,7 @@
         "autoFadeMs": 100,
         "looping": false,
         "priority": "PelvisBone#4+RLegBone#0+LLegBone#0",
-        "id": 86
+        "id": 87
     },
     {
         "name": "BowGuySecondary",
@@ -893,7 +907,7 @@
         "autoFadeMs": 100,
         "looping": false,
         "priority": "PelvisBone#4+RLegBone#0+LLegBone#0",
-        "id": 87
+        "id": 88
     },
     {
         "name": "BowGuyRecoil",
@@ -907,7 +921,7 @@
         "autoFadeMs": 100,
         "looping": false,
         "priority": "PelvisBone#4+RLegBone#0+LLegBone#0",
-        "id": 88
+        "id": 89
     },
     {
         "name": "BowGuyRecoil2",
@@ -921,7 +935,7 @@
         "autoFadeMs": 100,
         "looping": false,
         "priority": "PelvisBone#4+RLegBone#0+LLegBone#0",
-        "id": 89
+        "id": 90
     },
     {
         "name": "BowGuyWin",
@@ -935,7 +949,7 @@
         "autoFadeMs": 200,
         "looping": false,
         "priority": null,
-        "id": 90
+        "id": 91
     },
     {
         "name": "BowGuyWinloop",
@@ -949,7 +963,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": null,
-        "id": 91
+        "id": 92
     },
     {
         "name": "BowGuyLose",
@@ -963,7 +977,7 @@
         "autoFadeMs": 200,
         "looping": false,
         "priority": null,
-        "id": 92
+        "id": 93
     },
     {
         "name": "BowGuyLoseloop",
@@ -977,7 +991,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": null,
-        "id": 93
+        "id": 94
     },
     {
         "name": "RickosheaIdle",
@@ -991,7 +1005,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": null,
-        "id": 94
+        "id": 95
     },
     {
         "name": "RickosheaWalk",
@@ -1005,7 +1019,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": 1,
-        "id": 95
+        "id": 96
     },
     {
         "name": "RickosheaPrimary",
@@ -1019,7 +1033,7 @@
         "autoFadeMs": 600,
         "looping": false,
         "priority": "ChestBone#3",
-        "id": 96
+        "id": 97
     },
     {
         "name": "RickosheaSecondary",
@@ -1033,7 +1047,7 @@
         "autoFadeMs": 600,
         "looping": false,
         "priority": "ChestBone#3",
-        "id": 97
+        "id": 98
     },
     {
         "name": "RickosheaRecoil",
@@ -1047,7 +1061,7 @@
         "autoFadeMs": 400,
         "looping": false,
         "priority": "ChestBone#4",
-        "id": 98
+        "id": 99
     },
     {
         "name": "RickosheaReload",
@@ -1061,7 +1075,7 @@
         "autoFadeMs": 200,
         "looping": false,
         "priority": "ChestBone#2",
-        "id": 99
+        "id": 100
     },
     {
         "name": "RickosheaPushback",
@@ -1075,7 +1089,7 @@
         "autoFadeMs": 200,
         "looping": false,
         "priority": 5,
-        "id": 100
+        "id": 101
     },
     {
         "name": "RickosheaWin",
@@ -1089,7 +1103,7 @@
         "autoFadeMs": 200,
         "looping": false,
         "priority": null,
-        "id": 101
+        "id": 102
     },
     {
         "name": "RickosheaWinloop",
@@ -1103,7 +1117,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": null,
-        "id": 102
+        "id": 103
     },
     {
         "name": "RickosheaLose",
@@ -1117,7 +1131,7 @@
         "autoFadeMs": 200,
         "looping": false,
         "priority": null,
-        "id": 103
+        "id": 104
     },
     {
         "name": "RickosheaLoseloop",
@@ -1131,7 +1145,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": null,
-        "id": 104
+        "id": 105
     },
     {
         "name": "JunkerIdle",
@@ -1145,7 +1159,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": null,
-        "id": 105
+        "id": 106
     },
     {
         "name": "JunkerWalk",
@@ -1159,7 +1173,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": 1,
-        "id": 106
+        "id": 107
     },
     {
         "name": "JunkerPrimary",
@@ -1173,7 +1187,7 @@
         "autoFadeMs": 1,
         "looping": false,
         "priority": "spine_lower_s#3",
-        "id": 107
+        "id": 108
     },
     {
         "name": "JunkerUltiAttack",
@@ -1187,7 +1201,7 @@
         "autoFadeMs": 10,
         "looping": false,
         "priority": 5,
-        "id": 108
+        "id": 109
     },
     {
         "name": "JunkerRecoil",
@@ -1200,8 +1214,8 @@
         "transitionOutMs": null,
         "autoFadeMs": 100,
         "looping": false,
-        "priority": "spine_lower_s#4",
-        "id": 109
+        "priority": "spine_lower_s#3",
+        "id": 110
     },
     {
         "name": "JunkerUltiRecoil",
@@ -1215,7 +1229,7 @@
         "autoFadeMs": 100,
         "looping": false,
         "priority": 5,
-        "id": 110
+        "id": 111
     },
     {
         "name": "JunkerReload",
@@ -1229,21 +1243,21 @@
         "autoFadeMs": 200,
         "looping": false,
         "priority": "ChestBone#2",
-        "id": 111
+        "id": 112
     },
     {
         "name": "JunkerPushback",
-        "fileName": "jessie_idle.scw",
+        "fileName": "jessie_pushback.scw",
         "startFrame": -1,
         "endFrame": -1,
         "runningTimeMs": -1,
         "speed": null,
-        "transitionInMs": 200,
+        "transitionInMs": 100,
         "transitionOutMs": 100,
-        "autoFadeMs": 200,
+        "autoFadeMs": 100,
         "looping": false,
         "priority": 5,
-        "id": 112
+        "id": 113
     },
     {
         "name": "JunkerWin",
@@ -1257,7 +1271,7 @@
         "autoFadeMs": null,
         "looping": false,
         "priority": null,
-        "id": 113
+        "id": 114
     },
     {
         "name": "JunkerWinloop",
@@ -1271,7 +1285,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": null,
-        "id": 114
+        "id": 115
     },
     {
         "name": "JunkerLose",
@@ -1285,7 +1299,7 @@
         "autoFadeMs": null,
         "looping": false,
         "priority": null,
-        "id": 115
+        "id": 116
     },
     {
         "name": "JunkerLoseloop",
@@ -1299,7 +1313,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": null,
-        "id": 116
+        "id": 117
     },
     {
         "name": "BarkeepIdle",
@@ -1310,16 +1324,16 @@
         "speed": null,
         "transitionInMs": 100,
         "transitionOutMs": 100,
-        "autoFadeMs": null,
+        "autoFadeMs": 250,
         "looping": true,
         "priority": null,
-        "id": 117
+        "id": 118
     },
     {
         "name": "BarkeepWalk",
         "fileName": "barkeep_walk.scw",
-        "startFrame": -1,
-        "endFrame": -1,
+        "startFrame": 0,
+        "endFrame": 19,
         "runningTimeMs": -1,
         "speed": 120,
         "transitionInMs": 100,
@@ -1327,21 +1341,21 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": 1,
-        "id": 118
+        "id": 119
     },
     {
         "name": "BarkeepPrimary",
         "fileName": "barkeep_attack1.scw",
-        "startFrame": -1,
-        "endFrame": -1,
+        "startFrame": 3,
+        "endFrame": 12,
         "runningTimeMs": -1,
         "speed": null,
-        "transitionInMs": 100,
-        "transitionOutMs": 200,
-        "autoFadeMs": 200,
+        "transitionInMs": 0,
+        "transitionOutMs": 0,
+        "autoFadeMs": 0,
         "looping": false,
         "priority": "ChestBone#3",
-        "id": 119
+        "id": 120
     },
     {
         "name": "BarkeepSecondary",
@@ -1355,25 +1369,25 @@
         "autoFadeMs": 200,
         "looping": false,
         "priority": "ChestBone#3",
-        "id": 120
-    },
-    {
-        "name": "BarkeepRecoil",
-        "fileName": "barkeep_recoil.scw",
-        "startFrame": -1,
-        "endFrame": -1,
-        "runningTimeMs": -1,
-        "speed": null,
-        "transitionInMs": 100,
-        "transitionOutMs": 100,
-        "autoFadeMs": 200,
-        "looping": false,
-        "priority": "ChestBone#4",
         "id": 121
     },
     {
+        "name": "BarkeepRecoil",
+        "fileName": "barkeep_attack1.scw",
+        "startFrame": 3,
+        "endFrame": 12,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": 10,
+        "transitionOutMs": 10,
+        "autoFadeMs": 10,
+        "looping": false,
+        "priority": "ChestBone#4",
+        "id": 122
+    },
+    {
         "name": "BarkeepReload",
-        "fileName": "barkeep_reload.scw",
+        "fileName": "barkeep_idle.scw",
         "startFrame": -1,
         "endFrame": -1,
         "runningTimeMs": -1,
@@ -1383,49 +1397,49 @@
         "autoFadeMs": 200,
         "looping": false,
         "priority": "ChestBone#2",
-        "id": 122
+        "id": 123
     },
     {
         "name": "BarkeepPushback",
-        "fileName": "barkeep_idle.scw",
+        "fileName": "barley_pushback.scw",
         "startFrame": -1,
         "endFrame": -1,
         "runningTimeMs": -1,
         "speed": null,
-        "transitionInMs": 200,
+        "transitionInMs": 100,
         "transitionOutMs": 100,
-        "autoFadeMs": 200,
+        "autoFadeMs": 100,
         "looping": false,
         "priority": 5,
-        "id": 123
+        "id": 124
     },
     {
         "name": "BarkeepWin",
         "fileName": "barkeep_win1.scw",
-        "startFrame": -1,
-        "endFrame": -1,
+        "startFrame": 0,
+        "endFrame": 30,
         "runningTimeMs": -1,
         "speed": null,
-        "transitionInMs": null,
-        "transitionOutMs": null,
-        "autoFadeMs": 200,
+        "transitionInMs": 50,
+        "transitionOutMs": 250,
+        "autoFadeMs": 250,
         "looping": false,
         "priority": null,
-        "id": 124
+        "id": 125
     },
     {
         "name": "BarkeepWinloop",
-        "fileName": "barkeep_winloop1.scw",
-        "startFrame": -1,
-        "endFrame": -1,
+        "fileName": "barkeep_win1.scw",
+        "startFrame": 30,
+        "endFrame": 80,
         "runningTimeMs": -1,
         "speed": null,
-        "transitionInMs": null,
+        "transitionInMs": 25,
         "transitionOutMs": null,
         "autoFadeMs": null,
         "looping": true,
         "priority": null,
-        "id": 125
+        "id": 126
     },
     {
         "name": "BarkeepLose",
@@ -1433,13 +1447,13 @@
         "startFrame": -1,
         "endFrame": -1,
         "runningTimeMs": -1,
-        "speed": null,
+        "speed": 130,
         "transitionInMs": null,
         "transitionOutMs": null,
-        "autoFadeMs": 200,
+        "autoFadeMs": 50,
         "looping": false,
         "priority": null,
-        "id": 126
+        "id": 127
     },
     {
         "name": "BarkeepLoseloop",
@@ -1447,13 +1461,13 @@
         "startFrame": -1,
         "endFrame": -1,
         "runningTimeMs": -1,
-        "speed": null,
+        "speed": 120,
         "transitionInMs": null,
         "transitionOutMs": null,
         "autoFadeMs": null,
         "looping": true,
         "priority": null,
-        "id": 127
+        "id": 128
     },
     {
         "name": "CactusIdle",
@@ -1467,7 +1481,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": null,
-        "id": 128
+        "id": 129
     },
     {
         "name": "CactusWalk",
@@ -1481,7 +1495,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": 1,
-        "id": 129
+        "id": 130
     },
     {
         "name": "CactusPrimary",
@@ -1495,7 +1509,7 @@
         "autoFadeMs": 200,
         "looping": false,
         "priority": "ChestBone#4",
-        "id": 130
+        "id": 131
     },
     {
         "name": "CactusSecondary",
@@ -1509,7 +1523,7 @@
         "autoFadeMs": 200,
         "looping": false,
         "priority": 5,
-        "id": 131
+        "id": 132
     },
     {
         "name": "CactusRecoil",
@@ -1523,7 +1537,7 @@
         "autoFadeMs": 200,
         "looping": false,
         "priority": "ChestBone#4",
-        "id": 132
+        "id": 133
     },
     {
         "name": "CactusRecoil2",
@@ -1537,7 +1551,7 @@
         "autoFadeMs": 200,
         "looping": false,
         "priority": 5,
-        "id": 133
+        "id": 134
     },
     {
         "name": "CactusReload",
@@ -1551,7 +1565,7 @@
         "autoFadeMs": 200,
         "looping": false,
         "priority": 5,
-        "id": 134
+        "id": 135
     },
     {
         "name": "CactusWin",
@@ -1565,7 +1579,7 @@
         "autoFadeMs": 200,
         "looping": false,
         "priority": null,
-        "id": 135
+        "id": 136
     },
     {
         "name": "CactusWinloop",
@@ -1579,7 +1593,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": null,
-        "id": 136
+        "id": 137
     },
     {
         "name": "CactusLose",
@@ -1593,7 +1607,7 @@
         "autoFadeMs": 200,
         "looping": false,
         "priority": null,
-        "id": 137
+        "id": 138
     },
     {
         "name": "CactusLoseloop",
@@ -1607,7 +1621,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": null,
-        "id": 138
+        "id": 139
     },
     {
         "name": "LouchadorIdle",
@@ -1621,7 +1635,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": null,
-        "id": 139
+        "id": 140
     },
     {
         "name": "LouchadorWalk",
@@ -1635,7 +1649,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": 1,
-        "id": 140
+        "id": 141
     },
     {
         "name": "LouchadorPrimary",
@@ -1649,7 +1663,7 @@
         "autoFadeMs": 50,
         "looping": false,
         "priority": "ChestBone#3",
-        "id": 141
+        "id": 142
     },
     {
         "name": "LouchadorSecondary",
@@ -1663,7 +1677,7 @@
         "autoFadeMs": null,
         "looping": false,
         "priority": "ChestBone#3",
-        "id": 142
+        "id": 143
     },
     {
         "name": "LouchadorRecoil",
@@ -1677,7 +1691,7 @@
         "autoFadeMs": 200,
         "looping": false,
         "priority": "PelvisBone#4+RLegBone#0+LLegBone#0",
-        "id": 143
+        "id": 144
     },
     {
         "name": "LouchadorPushback",
@@ -1691,7 +1705,7 @@
         "autoFadeMs": 400,
         "looping": false,
         "priority": 5,
-        "id": 144
+        "id": 145
     },
     {
         "name": "LouchadorRecoil2",
@@ -1705,7 +1719,7 @@
         "autoFadeMs": 200,
         "looping": false,
         "priority": "PelvisBone#4+RLegBone#0+LLegBone#0",
-        "id": 145
+        "id": 146
     },
     {
         "name": "LouchadorWin",
@@ -1719,7 +1733,7 @@
         "autoFadeMs": 200,
         "looping": false,
         "priority": 5,
-        "id": 146
+        "id": 147
     },
     {
         "name": "LouchadorWinloop",
@@ -1733,7 +1747,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": 1,
-        "id": 147
+        "id": 148
     },
     {
         "name": "LouchadorLose",
@@ -1747,7 +1761,7 @@
         "autoFadeMs": 200,
         "looping": false,
         "priority": 5,
-        "id": 148
+        "id": 149
     },
     {
         "name": "LouchadorLoseloop",
@@ -1761,13 +1775,13 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": 1,
-        "id": 149
+        "id": 150
     },
     {
         "name": "ShamanIdle",
-        "fileName": "shaman_idle1.scw",
-        "startFrame": -1,
-        "endFrame": -1,
+        "fileName": "nita_idle.scw",
+        "startFrame": 1,
+        "endFrame": 34,
         "runningTimeMs": -1,
         "speed": null,
         "transitionInMs": 100,
@@ -1775,53 +1789,81 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": null,
-        "id": 150
+        "id": 151
     },
     {
         "name": "ShamanWalk",
-        "fileName": "shaman_walk1.scw",
-        "startFrame": -1,
-        "endFrame": -1,
+        "fileName": "nita_walk.scw",
+        "startFrame": 1,
+        "endFrame": 29,
         "runningTimeMs": -1,
-        "speed": 200,
+        "speed": 170,
         "transitionInMs": 100,
         "transitionOutMs": 100,
         "autoFadeMs": null,
         "looping": true,
         "priority": 1,
-        "id": 151
-    },
-    {
-        "name": "ShamanAttack",
-        "fileName": "shaman_attack1.scw",
-        "startFrame": -1,
-        "endFrame": -1,
-        "runningTimeMs": -1,
-        "speed": null,
-        "transitionInMs": 100,
-        "transitionOutMs": 100,
-        "autoFadeMs": 300,
-        "looping": false,
-        "priority": "ChestBone#3",
         "id": 152
     },
     {
+        "name": "ShamanAttack",
+        "fileName": "nita_attack.scw",
+        "startFrame": 1,
+        "endFrame": 20,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": null,
+        "transitionOutMs": null,
+        "autoFadeMs": 10,
+        "looping": false,
+        "priority": "spine_lower_s#4",
+        "id": 153
+    },
+    {
         "name": "ShamanSecondary",
-        "fileName": "shaman_attack1.scw",
+        "fileName": "nita_attack.scw",
+        "startFrame": 1,
+        "endFrame": 20,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": null,
+        "transitionOutMs": null,
+        "autoFadeMs": 10,
+        "looping": false,
+        "priority": "spine_lower_s#4",
+        "id": 154
+    },
+    {
+        "name": "ShamanRecoil",
+        "fileName": "nita_attack.scw",
+        "startFrame": 1,
+        "endFrame": 20,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": null,
+        "transitionOutMs": null,
+        "autoFadeMs": 100,
+        "looping": false,
+        "priority": "spine_lower_s#4",
+        "id": 155
+    },
+    {
+        "name": "ShamanReload",
+        "fileName": "nita_idle.scw",
         "startFrame": -1,
         "endFrame": -1,
         "runningTimeMs": -1,
         "speed": null,
-        "transitionInMs": 100,
-        "transitionOutMs": 100,
-        "autoFadeMs": 200,
+        "transitionInMs": null,
+        "transitionOutMs": null,
+        "autoFadeMs": 100,
         "looping": false,
-        "priority": "ChestBone#3",
-        "id": 153
+        "priority": "ChestBone#2",
+        "id": 156
     },
     {
-        "name": "ShamanRecoil",
-        "fileName": "shaman_recoil1.scw",
+        "name": "ShamanPushback",
+        "fileName": "nita_pushback.scw",
         "startFrame": -1,
         "endFrame": -1,
         "runningTimeMs": -1,
@@ -1830,84 +1872,28 @@
         "transitionOutMs": 100,
         "autoFadeMs": 100,
         "looping": false,
-        "priority": "PelvisBone#4+RLegBone#0+LLegBone#0",
-        "id": 154
-    },
-    {
-        "name": "ShamanReload",
-        "fileName": "shaman_idle1.scw",
-        "startFrame": -1,
-        "endFrame": -1,
-        "runningTimeMs": -1,
-        "speed": null,
-        "transitionInMs": 100,
-        "transitionOutMs": 200,
-        "autoFadeMs": 500,
-        "looping": false,
-        "priority": "ChestBone#2",
-        "id": 155
-    },
-    {
-        "name": "ShamanPushback",
-        "fileName": "shaman_idle1.scw",
-        "startFrame": -1,
-        "endFrame": -1,
-        "runningTimeMs": -1,
-        "speed": null,
-        "transitionInMs": 200,
-        "transitionOutMs": 300,
-        "autoFadeMs": 500,
-        "looping": false,
-        "priority": 5,
-        "id": 156
-    },
-    {
-        "name": "ShamanWin",
-        "fileName": "shaman_win1.scw",
-        "startFrame": -1,
-        "endFrame": -1,
-        "runningTimeMs": -1,
-        "speed": null,
-        "transitionInMs": null,
-        "transitionOutMs": null,
-        "autoFadeMs": 200,
-        "looping": false,
         "priority": 5,
         "id": 157
     },
     {
-        "name": "ShamanWinloop",
-        "fileName": "shaman_winloop1.scw",
-        "startFrame": -1,
-        "endFrame": -1,
+        "name": "ShamanWin",
+        "fileName": "nita_win.scw",
+        "startFrame": 1,
+        "endFrame": 79,
         "runningTimeMs": -1,
         "speed": null,
         "transitionInMs": null,
         "transitionOutMs": null,
         "autoFadeMs": null,
-        "looping": true,
-        "priority": 1,
+        "looping": false,
+        "priority": 5,
         "id": 158
     },
     {
-        "name": "ShamanLose",
-        "fileName": "shaman_lose1.scw",
-        "startFrame": -1,
-        "endFrame": -1,
-        "runningTimeMs": -1,
-        "speed": null,
-        "transitionInMs": null,
-        "transitionOutMs": null,
-        "autoFadeMs": 200,
-        "looping": false,
-        "priority": 5,
-        "id": 159
-    },
-    {
-        "name": "ShamanLoseloop",
-        "fileName": "shaman_loseloop1.scw",
-        "startFrame": -1,
-        "endFrame": -1,
+        "name": "ShamanWinloop",
+        "fileName": "nita_win.scw",
+        "startFrame": 80,
+        "endFrame": 113,
         "runningTimeMs": -1,
         "speed": null,
         "transitionInMs": null,
@@ -1915,7 +1901,35 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": 1,
+        "id": 159
+    },
+    {
+        "name": "ShamanLose",
+        "fileName": "nita_lose.scw",
+        "startFrame": 1,
+        "endFrame": 30,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": null,
+        "transitionOutMs": null,
+        "autoFadeMs": null,
+        "looping": false,
+        "priority": 5,
         "id": 160
+    },
+    {
+        "name": "ShamanLoseloop",
+        "fileName": "nita_lose.scw",
+        "startFrame": 30,
+        "endFrame": 35,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": null,
+        "transitionOutMs": null,
+        "autoFadeMs": null,
+        "looping": true,
+        "priority": 1,
+        "id": 161
     },
     {
         "name": "ShellyIdle",
@@ -1929,67 +1943,67 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": null,
-        "id": 161
+        "id": 162
     },
     {
         "name": "ShellyWalk",
         "fileName": "shelly_walk.scw",
-        "startFrame": -1,
-        "endFrame": -1,
+        "startFrame": 1,
+        "endFrame": 30,
         "runningTimeMs": -1,
-        "speed": null,
+        "speed": 140,
         "transitionInMs": 100,
         "transitionOutMs": 100,
         "autoFadeMs": null,
         "looping": true,
         "priority": 1,
-        "id": 162
-    },
-    {
-        "name": "ShellyPrimary",
-        "fileName": "shelly_attack1.scw",
-        "startFrame": -1,
-        "endFrame": -1,
-        "runningTimeMs": -1,
-        "speed": null,
-        "transitionInMs": 100,
-        "transitionOutMs": 100,
-        "autoFadeMs": 300,
-        "looping": false,
-        "priority": "ChestBone#3",
         "id": 163
     },
     {
-        "name": "ShellySecondary",
-        "fileName": "shelly_attack1.scw",
-        "startFrame": -1,
-        "endFrame": -1,
+        "name": "ShellyPrimary",
+        "fileName": "shelly_attack.scw",
+        "startFrame": 1,
+        "endFrame": 5,
         "runningTimeMs": -1,
         "speed": null,
-        "transitionInMs": 100,
-        "transitionOutMs": 100,
-        "autoFadeMs": 200,
+        "transitionInMs": null,
+        "transitionOutMs": null,
+        "autoFadeMs": 10,
         "looping": false,
-        "priority": "ChestBone#3",
+        "priority": "spine_lower_s#4",
         "id": 164
     },
     {
-        "name": "ShellyRecoil",
-        "fileName": "shelly_recoil1.scw",
-        "startFrame": -1,
-        "endFrame": -1,
+        "name": "ShellySecondary",
+        "fileName": "shelly_attack.scw",
+        "startFrame": 1,
+        "endFrame": 5,
         "runningTimeMs": -1,
         "speed": null,
-        "transitionInMs": 100,
-        "transitionOutMs": 200,
-        "autoFadeMs": 150,
+        "transitionInMs": null,
+        "transitionOutMs": null,
+        "autoFadeMs": 10,
         "looping": false,
-        "priority": "ChestBone#4",
+        "priority": "spine_lower_s#4",
         "id": 165
     },
     {
+        "name": "ShellyRecoil",
+        "fileName": "shelly_attack.scw",
+        "startFrame": 5,
+        "endFrame": 20,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": 25,
+        "transitionOutMs": null,
+        "autoFadeMs": 100,
+        "looping": false,
+        "priority": "spine_lower_s#4",
+        "id": 166
+    },
+    {
         "name": "ShellyReload",
-        "fileName": "shelly_reload.scw",
+        "fileName": "shelly_idle.scw",
         "startFrame": -1,
         "endFrame": -1,
         "runningTimeMs": -1,
@@ -1999,7 +2013,7 @@
         "autoFadeMs": 100,
         "looping": false,
         "priority": "ChestBone#2",
-        "id": 166
+        "id": 167
     },
     {
         "name": "ShellyPushback",
@@ -2010,58 +2024,30 @@
         "speed": null,
         "transitionInMs": 100,
         "transitionOutMs": 100,
-        "autoFadeMs": 200,
-        "looping": false,
-        "priority": 5,
-        "id": 167
-    },
-    {
-        "name": "ShellyWin",
-        "fileName": "shelly_win1.scw",
-        "startFrame": -1,
-        "endFrame": -1,
-        "runningTimeMs": -1,
-        "speed": null,
-        "transitionInMs": null,
-        "transitionOutMs": null,
-        "autoFadeMs": 200,
+        "autoFadeMs": 100,
         "looping": false,
         "priority": 5,
         "id": 168
     },
     {
-        "name": "ShellyWinloop",
-        "fileName": "shelly_winloop1.scw",
-        "startFrame": -1,
-        "endFrame": -1,
+        "name": "ShellyWin",
+        "fileName": "shelly_win.scw",
+        "startFrame": 1,
+        "endFrame": 85,
         "runningTimeMs": -1,
         "speed": null,
         "transitionInMs": null,
         "transitionOutMs": null,
         "autoFadeMs": null,
-        "looping": true,
-        "priority": 1,
+        "looping": false,
+        "priority": 5,
         "id": 169
     },
     {
-        "name": "ShellyLose",
-        "fileName": "shelly_lose1.scw",
-        "startFrame": -1,
-        "endFrame": -1,
-        "runningTimeMs": -1,
-        "speed": null,
-        "transitionInMs": null,
-        "transitionOutMs": null,
-        "autoFadeMs": 200,
-        "looping": false,
-        "priority": 5,
-        "id": 170
-    },
-    {
-        "name": "ShellyLoseloop",
-        "fileName": "shelly_loseloop1.scw",
-        "startFrame": -1,
-        "endFrame": -1,
+        "name": "ShellyWinloop",
+        "fileName": "shelly_win.scw",
+        "startFrame": 85,
+        "endFrame": 124,
         "runningTimeMs": -1,
         "speed": null,
         "transitionInMs": null,
@@ -2069,11 +2055,39 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": 1,
+        "id": 170
+    },
+    {
+        "name": "ShellyLose",
+        "fileName": "shelly_lose.scw",
+        "startFrame": 1,
+        "endFrame": 60,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": null,
+        "transitionOutMs": null,
+        "autoFadeMs": null,
+        "looping": false,
+        "priority": 5,
         "id": 171
     },
     {
+        "name": "ShellyLoseloop",
+        "fileName": "shelly_lose.scw",
+        "startFrame": 60,
+        "endFrame": 60,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": null,
+        "transitionOutMs": null,
+        "autoFadeMs": null,
+        "looping": true,
+        "priority": 1,
+        "id": 172
+    },
+    {
         "name": "BearIdle",
-        "fileName": "bear_idle1.scw",
+        "fileName": "nita_bear_idle.scw",
         "startFrame": -1,
         "endFrame": -1,
         "runningTimeMs": -1,
@@ -2083,25 +2097,25 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": null,
-        "id": 172
+        "id": 173
     },
     {
         "name": "BearWalk",
-        "fileName": "bear_walk1.scw",
-        "startFrame": -1,
-        "endFrame": -1,
+        "fileName": "nita_bear_walk.scw",
+        "startFrame": 1,
+        "endFrame": 40,
         "runningTimeMs": -1,
-        "speed": 100,
+        "speed": 170,
         "transitionInMs": 100,
         "transitionOutMs": 100,
         "autoFadeMs": null,
         "looping": true,
         "priority": 1,
-        "id": 173
+        "id": 174
     },
     {
         "name": "BearAttack",
-        "fileName": "bear_attack1.scw",
+        "fileName": "nita_bear_attack.scw",
         "startFrame": -1,
         "endFrame": -1,
         "runningTimeMs": -1,
@@ -2110,12 +2124,12 @@
         "transitionOutMs": 200,
         "autoFadeMs": 150,
         "looping": false,
-        "priority": "ChestBone#4",
-        "id": 174
+        "priority": "spine_lower_s#4",
+        "id": 175
     },
     {
         "name": "BearRecoil",
-        "fileName": "bear_recoil1.scw",
+        "fileName": "nita_bear_attack.scw",
         "startFrame": -1,
         "endFrame": -1,
         "runningTimeMs": -1,
@@ -2124,12 +2138,12 @@
         "transitionOutMs": 1,
         "autoFadeMs": 50,
         "looping": false,
-        "priority": "ChestBone#4",
-        "id": 175
+        "priority": "spine_lower_s#4",
+        "id": 176
     },
     {
         "name": "BearPushback",
-        "fileName": "bear_idle1.scw",
+        "fileName": "nita_bear_idle.scw",
         "startFrame": -1,
         "endFrame": -1,
         "runningTimeMs": -1,
@@ -2139,7 +2153,21 @@
         "autoFadeMs": 500,
         "looping": false,
         "priority": 5,
-        "id": 176
+        "id": 177
+    },
+    {
+        "name": "BearWin",
+        "fileName": "nita_bear_win.scw",
+        "startFrame": -1,
+        "endFrame": -1,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": 200,
+        "transitionOutMs": 300,
+        "autoFadeMs": 500,
+        "looping": false,
+        "priority": 5,
+        "id": 178
     },
     {
         "name": "BrockIdle",
@@ -2147,13 +2175,13 @@
         "startFrame": -1,
         "endFrame": -1,
         "runningTimeMs": -1,
-        "speed": null,
+        "speed": 135,
         "transitionInMs": 100,
         "transitionOutMs": 100,
         "autoFadeMs": null,
         "looping": true,
         "priority": null,
-        "id": 177
+        "id": 179
     },
     {
         "name": "BrockWalk",
@@ -2167,223 +2195,433 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": 1,
-        "id": 178
-    },
-    {
-        "name": "BrockSecondary",
-        "fileName": "brock_ultiattack1.scw",
-        "startFrame": -1,
-        "endFrame": -1,
-        "runningTimeMs": -1,
-        "speed": null,
-        "transitionInMs": 1,
-        "transitionOutMs": 100,
-        "autoFadeMs": 100,
-        "looping": false,
-        "priority": "PelvisBone#4",
-        "id": 179
-    },
-    {
-        "name": "BrockRecoil",
-        "fileName": "brock_recoil1.scw",
-        "startFrame": -1,
-        "endFrame": -1,
-        "runningTimeMs": -1,
-        "speed": null,
-        "transitionInMs": 1,
-        "transitionOutMs": 100,
-        "autoFadeMs": 100,
-        "looping": false,
-        "priority": "PelvisBone#4",
         "id": 180
     },
     {
-        "name": "BrockRecoil2",
-        "fileName": "brock_ultirecoil1.scw",
+        "name": "BrockPrimary",
+        "fileName": "brock_attack1.scw",
         "startFrame": -1,
         "endFrame": -1,
         "runningTimeMs": -1,
         "speed": null,
         "transitionInMs": 1,
-        "transitionOutMs": 100,
-        "autoFadeMs": 100,
+        "transitionOutMs": 50,
+        "autoFadeMs": 50,
         "looping": false,
         "priority": "PelvisBone#4",
         "id": 181
     },
     {
-        "name": "BrockWin",
-        "fileName": "brock_win1.scw",
+        "name": "BrockSecondary",
+        "fileName": "brock_attack1.scw",
         "startFrame": -1,
         "endFrame": -1,
         "runningTimeMs": -1,
         "speed": null,
-        "transitionInMs": null,
-        "transitionOutMs": null,
-        "autoFadeMs": 200,
+        "transitionInMs": 1,
+        "transitionOutMs": 100,
+        "autoFadeMs": 100,
         "looping": false,
-        "priority": 5,
+        "priority": "PelvisBone#4",
         "id": 182
     },
     {
-        "name": "BrockWinloop",
-        "fileName": "brock_winloop1.scw",
+        "name": "BrockRecoil",
+        "fileName": "brock_attack1.scw",
         "startFrame": -1,
         "endFrame": -1,
         "runningTimeMs": -1,
         "speed": null,
-        "transitionInMs": null,
-        "transitionOutMs": null,
-        "autoFadeMs": null,
-        "looping": true,
-        "priority": 5,
+        "transitionInMs": 1,
+        "transitionOutMs": 100,
+        "autoFadeMs": 100,
+        "looping": false,
+        "priority": "PelvisBone#4",
         "id": 183
     },
     {
-        "name": "BrockLose",
-        "fileName": "brock_lose1.scw",
+        "name": "BrockRecoil2",
+        "fileName": "brock_attack1.scw",
         "startFrame": -1,
         "endFrame": -1,
         "runningTimeMs": -1,
         "speed": null,
-        "transitionInMs": null,
-        "transitionOutMs": null,
-        "autoFadeMs": 200,
+        "transitionInMs": 1,
+        "transitionOutMs": 100,
+        "autoFadeMs": 100,
         "looping": false,
-        "priority": 5,
+        "priority": "PelvisBone#4",
         "id": 184
     },
     {
-        "name": "BrockLoseloop",
-        "fileName": "brock_loseloop1.scw",
+        "name": "BrockPushback",
+        "fileName": "brock_pushback1.scw",
         "startFrame": -1,
         "endFrame": -1,
         "runningTimeMs": -1,
         "speed": null,
-        "transitionInMs": null,
-        "transitionOutMs": null,
-        "autoFadeMs": null,
-        "looping": true,
+        "transitionInMs": 100,
+        "transitionOutMs": 100,
+        "autoFadeMs": 100,
+        "looping": false,
         "priority": 5,
         "id": 185
     },
     {
-        "name": "BullRockIdle",
-        "fileName": "bull_rock_idle.scw",
-        "startFrame": -1,
-        "endFrame": -1,
+        "name": "BrockWin",
+        "fileName": "brock_win1.scw",
+        "startFrame": 0,
+        "endFrame": 49,
         "runningTimeMs": -1,
         "speed": null,
-        "transitionInMs": 500,
-        "transitionOutMs": 500,
+        "transitionInMs": null,
+        "transitionOutMs": null,
         "autoFadeMs": null,
-        "looping": true,
-        "priority": null,
+        "looping": false,
+        "priority": 5,
         "id": 186
     },
     {
-        "name": "BullRockWalk",
-        "fileName": "bull_rock_run.scw",
-        "startFrame": -1,
-        "endFrame": -1,
+        "name": "BrockWinloop",
+        "fileName": "brock_win1.scw",
+        "startFrame": 50,
+        "endFrame": 88,
         "runningTimeMs": -1,
-        "speed": 140,
-        "transitionInMs": 500,
-        "transitionOutMs": 500,
+        "speed": null,
+        "transitionInMs": null,
+        "transitionOutMs": null,
         "autoFadeMs": null,
         "looping": true,
-        "priority": 1,
+        "priority": 5,
         "id": 187
     },
     {
-        "name": "BullRockPrimary",
-        "fileName": "bull_rock_attack.scw",
-        "startFrame": -1,
-        "endFrame": -1,
+        "name": "BrockLose",
+        "fileName": "brock_lose1.scw",
+        "startFrame": 1,
+        "endFrame": 50,
         "runningTimeMs": -1,
         "speed": null,
-        "transitionInMs": 100,
-        "transitionOutMs": 200,
-        "autoFadeMs": 200,
+        "transitionInMs": null,
+        "transitionOutMs": null,
+        "autoFadeMs": null,
         "looping": false,
-        "priority": "ChestBone#3",
+        "priority": 5,
         "id": 188
     },
     {
-        "name": "BullRockSecondary",
-        "fileName": "bull_rock_charge.scw",
-        "startFrame": -1,
-        "endFrame": -1,
+        "name": "BrockLoseloop",
+        "fileName": "brock_lose1.scw",
+        "startFrame": 50,
+        "endFrame": 89,
         "runningTimeMs": -1,
         "speed": null,
-        "transitionInMs": 100,
-        "transitionOutMs": 200,
-        "autoFadeMs": 200,
+        "transitionInMs": null,
+        "transitionOutMs": null,
+        "autoFadeMs": null,
         "looping": true,
-        "priority": "ChestBone#4",
+        "priority": 5,
         "id": 189
     },
     {
-        "name": "BullRockRecoil",
-        "fileName": "bull_rock_recoil.scw",
-        "startFrame": -1,
-        "endFrame": -1,
+        "name": "BrockHero",
+        "fileName": "brock_win1.scw",
+        "startFrame": 0,
+        "endFrame": 35,
         "runningTimeMs": -1,
         "speed": null,
-        "transitionInMs": 100,
-        "transitionOutMs": 100,
+        "transitionInMs": null,
+        "transitionOutMs": 200,
         "autoFadeMs": 200,
         "looping": false,
-        "priority": "ChestBone#4",
+        "priority": 5,
         "id": 190
     },
     {
+        "name": "BrockBoomboxWin",
+        "fileName": "brock_boombox_win.scw",
+        "startFrame": 0,
+        "endFrame": 39,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": null,
+        "transitionOutMs": 100,
+        "autoFadeMs": 150,
+        "looping": false,
+        "priority": 5,
+        "id": 191
+    },
+    {
+        "name": "BullRockIdle",
+        "fileName": "bull_idle.scw",
+        "startFrame": -1,
+        "endFrame": -1,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": 150,
+        "transitionOutMs": 150,
+        "autoFadeMs": 150,
+        "looping": true,
+        "priority": null,
+        "id": 192
+    },
+    {
+        "name": "BullRockWalk",
+        "fileName": "bull_walk.scw",
+        "startFrame": 0,
+        "endFrame": 30,
+        "runningTimeMs": -1,
+        "speed": 120,
+        "transitionInMs": 100,
+        "transitionOutMs": 100,
+        "autoFadeMs": null,
+        "looping": true,
+        "priority": 1,
+        "id": 193
+    },
+    {
+        "name": "BullRockPrimary",
+        "fileName": "bull_attack.scw",
+        "startFrame": 1,
+        "endFrame": 5,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": null,
+        "transitionOutMs": null,
+        "autoFadeMs": 10,
+        "looping": false,
+        "priority": "spine_lower_s#4",
+        "id": 194
+    },
+    {
+        "name": "BullRockSecondary",
+        "fileName": "bull_super.scw",
+        "startFrame": 1,
+        "endFrame": 5,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": null,
+        "transitionOutMs": null,
+        "autoFadeMs": 200,
+        "looping": true,
+        "priority": "spine_lower_s#4",
+        "id": 195
+    },
+    {
+        "name": "BullRockRecoil",
+        "fileName": "bull_attack.scw",
+        "startFrame": 5,
+        "endFrame": 20,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": 25,
+        "transitionOutMs": null,
+        "autoFadeMs": 100,
+        "looping": false,
+        "priority": "spine_lower_s#4",
+        "id": 196
+    },
+    {
         "name": "BullRockReload",
-        "fileName": "bull_rock_idle.scw",
+        "fileName": "bull_idle.scw",
+        "startFrame": 1,
+        "endFrame": 10,
+        "runningTimeMs": -1,
+        "speed": 200,
+        "transitionInMs": 500,
+        "transitionOutMs": 500,
+        "autoFadeMs": 500,
+        "looping": false,
+        "priority": "ChestBone#2",
+        "id": 197
+    },
+    {
+        "name": "BullRockPushback",
+        "fileName": "bull_rock_pushback.scw",
         "startFrame": -1,
         "endFrame": -1,
         "runningTimeMs": -1,
         "speed": null,
         "transitionInMs": 100,
         "transitionOutMs": 100,
-        "autoFadeMs": 600,
+        "autoFadeMs": 100,
         "looping": false,
-        "priority": "ChestBone#2",
-        "id": 191
+        "priority": 5,
+        "id": 198
     },
     {
-        "name": "BullRockPushback",
-        "fileName": "bull_rock_idle.scw",
+        "name": "BullRockWin",
+        "fileName": "bull_win.scw",
+        "startFrame": 0,
+        "endFrame": 24,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": null,
+        "transitionOutMs": 200,
+        "autoFadeMs": 200,
+        "looping": false,
+        "priority": 5,
+        "id": 199
+    },
+    {
+        "name": "BullRockWinloop",
+        "fileName": "bull_win.scw",
+        "startFrame": 24,
+        "endFrame": 60,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": null,
+        "transitionOutMs": null,
+        "autoFadeMs": null,
+        "looping": true,
+        "priority": 5,
+        "id": 200
+    },
+    {
+        "name": "BullRockLose",
+        "fileName": "bull_lose.scw",
+        "startFrame": 0,
+        "endFrame": 25,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": null,
+        "transitionOutMs": null,
+        "autoFadeMs": null,
+        "looping": false,
+        "priority": 5,
+        "id": 201
+    },
+    {
+        "name": "BullRockLoseloop",
+        "fileName": "bull_lose.scw",
+        "startFrame": 25,
+        "endFrame": 36,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": null,
+        "transitionOutMs": null,
+        "autoFadeMs": null,
+        "looping": true,
+        "priority": 5,
+        "id": 202
+    },
+    {
+        "name": "BullVikingIdle",
+        "fileName": "bull_viking_idle.scw",
+        "startFrame": -1,
+        "endFrame": -1,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": 150,
+        "transitionOutMs": 150,
+        "autoFadeMs": 150,
+        "looping": true,
+        "priority": null,
+        "id": 203
+    },
+    {
+        "name": "BullVikingWalk",
+        "fileName": "bull_viking_walk.scw",
+        "startFrame": 0,
+        "endFrame": 30,
+        "runningTimeMs": -1,
+        "speed": 120,
+        "transitionInMs": 100,
+        "transitionOutMs": 100,
+        "autoFadeMs": null,
+        "looping": true,
+        "priority": 1,
+        "id": 204
+    },
+    {
+        "name": "BullVikingPrimary",
+        "fileName": "bull_viking_attack.scw",
+        "startFrame": 1,
+        "endFrame": 5,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": null,
+        "transitionOutMs": null,
+        "autoFadeMs": 10,
+        "looping": false,
+        "priority": "spine_lower_s#4",
+        "id": 205
+    },
+    {
+        "name": "BullVikingSecondary",
+        "fileName": "bull_viking_super.scw",
+        "startFrame": 1,
+        "endFrame": 5,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": null,
+        "transitionOutMs": null,
+        "autoFadeMs": 200,
+        "looping": true,
+        "priority": "spine_lower_s#4",
+        "id": 206
+    },
+    {
+        "name": "BullVikingRecoil",
+        "fileName": "bull_viking_attack.scw",
+        "startFrame": 5,
+        "endFrame": 20,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": 25,
+        "transitionOutMs": null,
+        "autoFadeMs": 100,
+        "looping": false,
+        "priority": "spine_lower_s#4",
+        "id": 207
+    },
+    {
+        "name": "BullVikingReload",
+        "fileName": "bull_viking_attack.scw",
+        "startFrame": 1,
+        "endFrame": 10,
+        "runningTimeMs": -1,
+        "speed": 200,
+        "transitionInMs": 500,
+        "transitionOutMs": 500,
+        "autoFadeMs": 500,
+        "looping": false,
+        "priority": "ChestBone#2",
+        "id": 208
+    },
+    {
+        "name": "BullVikingPushback",
+        "fileName": "bull_viking_pushback.scw",
         "startFrame": -1,
         "endFrame": -1,
         "runningTimeMs": -1,
         "speed": null,
         "transitionInMs": 100,
+        "transitionOutMs": 100,
+        "autoFadeMs": 100,
+        "looping": false,
+        "priority": 5,
+        "id": 209
+    },
+    {
+        "name": "BullVikingWin",
+        "fileName": "bull_viking_win.scw",
+        "startFrame": 0,
+        "endFrame": 24,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": null,
         "transitionOutMs": 200,
-        "autoFadeMs": 400,
-        "looping": false,
-        "priority": 5,
-        "id": 192
-    },
-    {
-        "name": "BullRockWin",
-        "fileName": "bull_rock_win1.scw",
-        "startFrame": -1,
-        "endFrame": -1,
-        "runningTimeMs": -1,
-        "speed": null,
-        "transitionInMs": null,
-        "transitionOutMs": null,
         "autoFadeMs": 200,
         "looping": false,
         "priority": 5,
-        "id": 193
+        "id": 210
     },
     {
-        "name": "BullRockWinloop",
-        "fileName": "bull_rock_winloop1.scw",
-        "startFrame": -1,
-        "endFrame": -1,
+        "name": "BullVikingWinloop",
+        "fileName": "bull_viking_win.scw",
+        "startFrame": 24,
+        "endFrame": 60,
         "runningTimeMs": -1,
         "speed": null,
         "transitionInMs": null,
@@ -2391,27 +2629,27 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": 5,
-        "id": 194
+        "id": 211
     },
     {
-        "name": "BullRockLose",
-        "fileName": "bull_rock_lose1.scw",
-        "startFrame": -1,
-        "endFrame": -1,
+        "name": "BullVikingLose",
+        "fileName": "bull_viking_lose.scw",
+        "startFrame": 0,
+        "endFrame": 25,
         "runningTimeMs": -1,
         "speed": null,
         "transitionInMs": null,
         "transitionOutMs": null,
-        "autoFadeMs": 200,
+        "autoFadeMs": null,
         "looping": false,
         "priority": 5,
-        "id": 195
+        "id": 212
     },
     {
-        "name": "BullRockLoseloop",
-        "fileName": "bull_rock_loseloop1.scw",
-        "startFrame": -1,
-        "endFrame": -1,
+        "name": "BullVikingLoseloop",
+        "fileName": "bull_viking_lose.scw",
+        "startFrame": 25,
+        "endFrame": 36,
         "runningTimeMs": -1,
         "speed": null,
         "transitionInMs": null,
@@ -2419,7 +2657,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": 5,
-        "id": 196
+        "id": 213
     },
     {
         "name": "SniperIdle",
@@ -2433,7 +2671,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": null,
-        "id": 197
+        "id": 214
     },
     {
         "name": "SniperWalk",
@@ -2447,7 +2685,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": 1,
-        "id": 198
+        "id": 215
     },
     {
         "name": "SniperAttack",
@@ -2461,7 +2699,7 @@
         "autoFadeMs": 200,
         "looping": false,
         "priority": 5,
-        "id": 199
+        "id": 216
     },
     {
         "name": "SniperSecondary",
@@ -2475,7 +2713,7 @@
         "autoFadeMs": 200,
         "looping": false,
         "priority": 5,
-        "id": 200
+        "id": 217
     },
     {
         "name": "SniperRecoil",
@@ -2489,7 +2727,7 @@
         "autoFadeMs": 200,
         "looping": false,
         "priority": 5,
-        "id": 201
+        "id": 218
     },
     {
         "name": "SniperReload",
@@ -2503,7 +2741,7 @@
         "autoFadeMs": 500,
         "looping": false,
         "priority": "ChestBone#2",
-        "id": 202
+        "id": 219
     },
     {
         "name": "SniperPushback",
@@ -2517,7 +2755,7 @@
         "autoFadeMs": 500,
         "looping": false,
         "priority": 5,
-        "id": 203
+        "id": 220
     },
     {
         "name": "SniperWin",
@@ -2531,7 +2769,7 @@
         "autoFadeMs": null,
         "looping": false,
         "priority": 5,
-        "id": 204
+        "id": 221
     },
     {
         "name": "SniperWinloop",
@@ -2545,7 +2783,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": 1,
-        "id": 205
+        "id": 222
     },
     {
         "name": "SniperLose",
@@ -2559,7 +2797,7 @@
         "autoFadeMs": null,
         "looping": false,
         "priority": 5,
-        "id": 206
+        "id": 223
     },
     {
         "name": "SniperLoseloop",
@@ -2573,21 +2811,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": 1,
-        "id": 207
-    },
-    {
-        "name": "Ball",
-        "fileName": "ball_geo.scw",
-        "startFrame": -1,
-        "endFrame": -1,
-        "runningTimeMs": -1,
-        "speed": null,
-        "transitionInMs": null,
-        "transitionOutMs": null,
-        "autoFadeMs": null,
-        "looping": true,
-        "priority": null,
-        "id": 208
+        "id": 224
     },
     {
         "name": "NinjaIdle",
@@ -2601,7 +2825,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": null,
-        "id": 209
+        "id": 225
     },
     {
         "name": "NinjaWalk",
@@ -2615,7 +2839,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": 1,
-        "id": 210
+        "id": 226
     },
     {
         "name": "NinjaPrimary",
@@ -2629,7 +2853,7 @@
         "autoFadeMs": 300,
         "looping": false,
         "priority": "PelvisBone#4+RLegBone#0+LLegBone#0",
-        "id": 211
+        "id": 227
     },
     {
         "name": "NinjaSecondary",
@@ -2643,7 +2867,7 @@
         "autoFadeMs": 200,
         "looping": false,
         "priority": "PelvisBone#4+RLegBone#0+LLegBone#0",
-        "id": 212
+        "id": 228
     },
     {
         "name": "NinjaRecoil",
@@ -2657,7 +2881,7 @@
         "autoFadeMs": 150,
         "looping": false,
         "priority": "PelvisBone#4+RLegBone#0+LLegBone#0",
-        "id": 213
+        "id": 229
     },
     {
         "name": "NinjaRecoil2",
@@ -2671,7 +2895,7 @@
         "autoFadeMs": 100,
         "looping": false,
         "priority": "PelvisBone#4+RLegBone#0+LLegBone#0",
-        "id": 214
+        "id": 230
     },
     {
         "name": "NinjaReload",
@@ -2685,7 +2909,7 @@
         "autoFadeMs": 100,
         "looping": false,
         "priority": "ChestBone#2",
-        "id": 215
+        "id": 231
     },
     {
         "name": "NinjaPushback",
@@ -2699,7 +2923,7 @@
         "autoFadeMs": 200,
         "looping": false,
         "priority": 5,
-        "id": 216
+        "id": 232
     },
     {
         "name": "NinjaWin",
@@ -2713,7 +2937,7 @@
         "autoFadeMs": 200,
         "looping": false,
         "priority": 5,
-        "id": 217
+        "id": 233
     },
     {
         "name": "NinjaWinloop",
@@ -2727,7 +2951,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": 1,
-        "id": 218
+        "id": 234
     },
     {
         "name": "NinjaLose",
@@ -2741,7 +2965,7 @@
         "autoFadeMs": 200,
         "looping": false,
         "priority": 5,
-        "id": 219
+        "id": 235
     },
     {
         "name": "NinjaLoseloop",
@@ -2755,7 +2979,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": 1,
-        "id": 220
+        "id": 236
     },
     {
         "name": "MinigunnerIdle",
@@ -2769,7 +2993,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": "PelvisBone#4",
-        "id": 221
+        "id": 237
     },
     {
         "name": "MinigunnerWalk",
@@ -2783,7 +3007,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": 1,
-        "id": 222
+        "id": 238
     },
     {
         "name": "MinigunnerPrimary",
@@ -2797,7 +3021,7 @@
         "autoFadeMs": 200,
         "looping": false,
         "priority": "ChestBone#3",
-        "id": 223
+        "id": 239
     },
     {
         "name": "MinigunnerSecondary",
@@ -2811,7 +3035,7 @@
         "autoFadeMs": 200,
         "looping": true,
         "priority": "ChestBone#4",
-        "id": 224
+        "id": 240
     },
     {
         "name": "MinigunnerRecoil",
@@ -2825,7 +3049,7 @@
         "autoFadeMs": 200,
         "looping": false,
         "priority": "ChestBone#4",
-        "id": 225
+        "id": 241
     },
     {
         "name": "MinigunnerRecoil2",
@@ -2839,7 +3063,7 @@
         "autoFadeMs": 200,
         "looping": false,
         "priority": "ChestBone#4",
-        "id": 226
+        "id": 242
     },
     {
         "name": "MinigunnerReload",
@@ -2853,7 +3077,7 @@
         "autoFadeMs": 600,
         "looping": false,
         "priority": "ChestBone#2",
-        "id": 227
+        "id": 243
     },
     {
         "name": "MinigunnerPushback",
@@ -2867,7 +3091,7 @@
         "autoFadeMs": 400,
         "looping": false,
         "priority": 5,
-        "id": 228
+        "id": 244
     },
     {
         "name": "MinigunnerWin",
@@ -2881,7 +3105,7 @@
         "autoFadeMs": 200,
         "looping": false,
         "priority": 5,
-        "id": 229
+        "id": 245
     },
     {
         "name": "MinigunnerWinloop",
@@ -2895,7 +3119,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": 5,
-        "id": 230
+        "id": 246
     },
     {
         "name": "MinigunnerLose",
@@ -2909,7 +3133,7 @@
         "autoFadeMs": 200,
         "looping": false,
         "priority": 5,
-        "id": 231
+        "id": 247
     },
     {
         "name": "MinigunnerLoseloop",
@@ -2923,7 +3147,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": 5,
-        "id": 232
+        "id": 248
     },
     {
         "name": "HealingStation",
@@ -2937,7 +3161,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": null,
-        "id": 233
+        "id": 249
     },
     {
         "name": "BarrelbotIdle",
@@ -2951,7 +3175,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": null,
-        "id": 234
+        "id": 250
     },
     {
         "name": "BarrelbotWalk",
@@ -2965,7 +3189,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": 1,
-        "id": 235
+        "id": 251
     },
     {
         "name": "BarrelbotPrimary",
@@ -2979,7 +3203,7 @@
         "autoFadeMs": 100,
         "looping": false,
         "priority": "ChestBone#3",
-        "id": 236
+        "id": 252
     },
     {
         "name": "BarrelbotSecondary",
@@ -2993,7 +3217,7 @@
         "autoFadeMs": 1,
         "looping": true,
         "priority": 5,
-        "id": 237
+        "id": 253
     },
     {
         "name": "BarrelbotRecoil",
@@ -3007,7 +3231,7 @@
         "autoFadeMs": 100,
         "looping": false,
         "priority": "ChestBone#4",
-        "id": 238
+        "id": 254
     },
     {
         "name": "BarrelbotRecoil2",
@@ -3021,7 +3245,7 @@
         "autoFadeMs": 100,
         "looping": false,
         "priority": "ChestBone#4",
-        "id": 239
+        "id": 255
     },
     {
         "name": "BarrelbotReload",
@@ -3035,7 +3259,7 @@
         "autoFadeMs": 800,
         "looping": false,
         "priority": "ChestBone#2",
-        "id": 240
+        "id": 256
     },
     {
         "name": "BarrelbotPushback",
@@ -3049,7 +3273,7 @@
         "autoFadeMs": 200,
         "looping": false,
         "priority": 5,
-        "id": 241
+        "id": 257
     },
     {
         "name": "BarrelbotWin",
@@ -3063,7 +3287,7 @@
         "autoFadeMs": 200,
         "looping": false,
         "priority": null,
-        "id": 242
+        "id": 258
     },
     {
         "name": "BarrelbotWinloop",
@@ -3077,7 +3301,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": null,
-        "id": 243
+        "id": 259
     },
     {
         "name": "BarrelbotLose",
@@ -3091,7 +3315,7 @@
         "autoFadeMs": 200,
         "looping": false,
         "priority": null,
-        "id": 244
+        "id": 260
     },
     {
         "name": "BarrelbotHide",
@@ -3105,7 +3329,7 @@
         "autoFadeMs": 100,
         "looping": true,
         "priority": null,
-        "id": 245
+        "id": 261
     },
     {
         "name": "BarrelbotLoseloop",
@@ -3119,7 +3343,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": null,
-        "id": 246
+        "id": 262
     },
     {
         "name": "RangedBotIdle",
@@ -3133,7 +3357,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": null,
-        "id": 247
+        "id": 263
     },
     {
         "name": "RangedBotWalk",
@@ -3147,7 +3371,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": 1,
-        "id": 248
+        "id": 264
     },
     {
         "name": "RangedBotPrimary",
@@ -3161,7 +3385,7 @@
         "autoFadeMs": 600,
         "looping": false,
         "priority": "ChestBone#3",
-        "id": 249
+        "id": 265
     },
     {
         "name": "RangedBotSecondary",
@@ -3175,7 +3399,7 @@
         "autoFadeMs": 600,
         "looping": false,
         "priority": "ChestBone#3",
-        "id": 250
+        "id": 266
     },
     {
         "name": "RangedBotRecoil",
@@ -3189,7 +3413,7 @@
         "autoFadeMs": 400,
         "looping": false,
         "priority": "ChestBone#4",
-        "id": 251
+        "id": 267
     },
     {
         "name": "RangedBotReload",
@@ -3203,7 +3427,7 @@
         "autoFadeMs": 200,
         "looping": false,
         "priority": "ChestBone#2",
-        "id": 252
+        "id": 268
     },
     {
         "name": "RangedBotPushback",
@@ -3217,7 +3441,7 @@
         "autoFadeMs": 200,
         "looping": false,
         "priority": 5,
-        "id": 253
+        "id": 269
     },
     {
         "name": "RangedBotWin",
@@ -3231,7 +3455,7 @@
         "autoFadeMs": 200,
         "looping": false,
         "priority": null,
-        "id": 254
+        "id": 270
     },
     {
         "name": "RangedBotWinloop",
@@ -3245,7 +3469,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": null,
-        "id": 255
+        "id": 271
     },
     {
         "name": "RangedBotLose",
@@ -3259,7 +3483,7 @@
         "autoFadeMs": 200,
         "looping": false,
         "priority": null,
-        "id": 256
+        "id": 272
     },
     {
         "name": "RangedBotLoseloop",
@@ -3273,7 +3497,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": null,
-        "id": 257
+        "id": 273
     },
     {
         "name": "FastMeleeBotIdle",
@@ -3287,7 +3511,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": null,
-        "id": 258
+        "id": 274
     },
     {
         "name": "FastMeleeBotWalk",
@@ -3301,7 +3525,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": 1,
-        "id": 259
+        "id": 275
     },
     {
         "name": "FastMeleeBotRecoil",
@@ -3315,7 +3539,7 @@
         "autoFadeMs": 200,
         "looping": false,
         "priority": "PelvisBone#4+RLegBone#0+LLegBone#0",
-        "id": 260
+        "id": 276
     },
     {
         "name": "FastMeleeBotPushback",
@@ -3329,7 +3553,7 @@
         "autoFadeMs": 400,
         "looping": false,
         "priority": 5,
-        "id": 261
+        "id": 277
     },
     {
         "name": "FastMeleeBotWin",
@@ -3343,7 +3567,7 @@
         "autoFadeMs": 200,
         "looping": false,
         "priority": 5,
-        "id": 262
+        "id": 278
     },
     {
         "name": "FastMeleeBotWinloop",
@@ -3357,7 +3581,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": 1,
-        "id": 263
+        "id": 279
     },
     {
         "name": "FastMeleeBotLose",
@@ -3371,7 +3595,7 @@
         "autoFadeMs": 200,
         "looping": false,
         "priority": 5,
-        "id": 264
+        "id": 280
     },
     {
         "name": "FastMeleeBotLoseloop",
@@ -3385,7 +3609,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": 1,
-        "id": 265
+        "id": 281
     },
     {
         "name": "MeleeBotIdle",
@@ -3399,7 +3623,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": null,
-        "id": 266
+        "id": 282
     },
     {
         "name": "MeleeBotWalk",
@@ -3413,7 +3637,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": 1,
-        "id": 267
+        "id": 283
     },
     {
         "name": "MeleeBotRecoil",
@@ -3427,7 +3651,7 @@
         "autoFadeMs": 200,
         "looping": false,
         "priority": "PelvisBone#4+RLegBone#0+LLegBone#0",
-        "id": 268
+        "id": 284
     },
     {
         "name": "MeleeBotPushback",
@@ -3441,7 +3665,7 @@
         "autoFadeMs": 400,
         "looping": false,
         "priority": 5,
-        "id": 269
+        "id": 285
     },
     {
         "name": "MeleeBotRecoil2",
@@ -3455,7 +3679,7 @@
         "autoFadeMs": 200,
         "looping": false,
         "priority": "PelvisBone#4+RLegBone#0+LLegBone#0",
-        "id": 270
+        "id": 286
     },
     {
         "name": "MeleeBotWin",
@@ -3469,7 +3693,7 @@
         "autoFadeMs": 200,
         "looping": false,
         "priority": 5,
-        "id": 271
+        "id": 287
     },
     {
         "name": "MeleeBotWinloop",
@@ -3483,7 +3707,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": 1,
-        "id": 272
+        "id": 288
     },
     {
         "name": "MeleeBotLose",
@@ -3497,7 +3721,7 @@
         "autoFadeMs": 200,
         "looping": false,
         "priority": 5,
-        "id": 273
+        "id": 289
     },
     {
         "name": "MeleeBotLoseloop",
@@ -3511,7 +3735,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": 1,
-        "id": 274
+        "id": 290
     },
     {
         "name": "BossBotIdle",
@@ -3525,7 +3749,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": null,
-        "id": 275
+        "id": 291
     },
     {
         "name": "BossBotWalk",
@@ -3539,7 +3763,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": 1,
-        "id": 276
+        "id": 292
     },
     {
         "name": "BossBotPrimary",
@@ -3553,7 +3777,7 @@
         "autoFadeMs": 200,
         "looping": false,
         "priority": "ChestBone#3",
-        "id": 277
+        "id": 293
     },
     {
         "name": "BossBotRecoil",
@@ -3567,7 +3791,7 @@
         "autoFadeMs": 200,
         "looping": false,
         "priority": "PelvisBone#4+RLegBone#0+LLegBone#0",
-        "id": 278
+        "id": 294
     },
     {
         "name": "BossBotPushback",
@@ -3581,7 +3805,7 @@
         "autoFadeMs": 400,
         "looping": false,
         "priority": 5,
-        "id": 279
+        "id": 295
     },
     {
         "name": "BossBotRecoil2",
@@ -3595,7 +3819,7 @@
         "autoFadeMs": 200,
         "looping": false,
         "priority": "PelvisBone#4+RLegBone#0+LLegBone#0",
-        "id": 280
+        "id": 296
     },
     {
         "name": "BossBotWin",
@@ -3609,7 +3833,7 @@
         "autoFadeMs": 200,
         "looping": false,
         "priority": 5,
-        "id": 281
+        "id": 297
     },
     {
         "name": "BossBotWinloop",
@@ -3623,7 +3847,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": 1,
-        "id": 282
+        "id": 298
     },
     {
         "name": "BossBotLose",
@@ -3637,7 +3861,7 @@
         "autoFadeMs": 200,
         "looping": false,
         "priority": 5,
-        "id": 283
+        "id": 299
     },
     {
         "name": "BossBotLoseloop",
@@ -3651,7 +3875,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": 1,
-        "id": 284
+        "id": 300
     },
     {
         "name": "ArtilleryGalIdle",
@@ -3665,7 +3889,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": null,
-        "id": 285
+        "id": 301
     },
     {
         "name": "ArtilleryGalWalk",
@@ -3679,7 +3903,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": 1,
-        "id": 286
+        "id": 302
     },
     {
         "name": "ArtilleryGalPrimary",
@@ -3693,7 +3917,7 @@
         "autoFadeMs": 1,
         "looping": false,
         "priority": "spine_lower_s#5",
-        "id": 287
+        "id": 303
     },
     {
         "name": "ArtilleryGalUltiAttack",
@@ -3707,7 +3931,7 @@
         "autoFadeMs": 10,
         "looping": false,
         "priority": 5,
-        "id": 288
+        "id": 304
     },
     {
         "name": "ArtilleryGalRecoil",
@@ -3721,7 +3945,7 @@
         "autoFadeMs": 200,
         "looping": false,
         "priority": "spine_lower_s#5",
-        "id": 289
+        "id": 305
     },
     {
         "name": "ArtilleryGalUltiRecoil",
@@ -3735,7 +3959,7 @@
         "autoFadeMs": 100,
         "looping": false,
         "priority": 5,
-        "id": 290
+        "id": 306
     },
     {
         "name": "ArtilleryGalReload",
@@ -3749,27 +3973,27 @@
         "autoFadeMs": 200,
         "looping": false,
         "priority": "ChestBone#2",
-        "id": 291
+        "id": 307
     },
     {
         "name": "ArtilleryGalPushback",
-        "fileName": "mari_idle.scw",
+        "fileName": "mari_pushback.scw",
         "startFrame": -1,
         "endFrame": -1,
         "runningTimeMs": -1,
         "speed": null,
-        "transitionInMs": 200,
+        "transitionInMs": 100,
         "transitionOutMs": 100,
         "autoFadeMs": 200,
         "looping": false,
         "priority": 5,
-        "id": 292
+        "id": 308
     },
     {
         "name": "ArtilleryGalWin",
         "fileName": "mari_win.scw",
         "startFrame": 1,
-        "endFrame": 50,
+        "endFrame": 31,
         "runningTimeMs": -1,
         "speed": null,
         "transitionInMs": null,
@@ -3777,13 +4001,13 @@
         "autoFadeMs": null,
         "looping": false,
         "priority": null,
-        "id": 293
+        "id": 309
     },
     {
         "name": "ArtilleryGalWinloop",
         "fileName": "mari_win.scw",
-        "startFrame": 40,
-        "endFrame": 50,
+        "startFrame": 31,
+        "endFrame": 69,
         "runningTimeMs": -1,
         "speed": null,
         "transitionInMs": null,
@@ -3791,7 +4015,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": null,
-        "id": 294
+        "id": 310
     },
     {
         "name": "ArtilleryGalLose",
@@ -3805,7 +4029,7 @@
         "autoFadeMs": null,
         "looping": false,
         "priority": null,
-        "id": 295
+        "id": 311
     },
     {
         "name": "ArtilleryGalLoseloop",
@@ -3819,7 +4043,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": null,
-        "id": 296
+        "id": 312
     },
     {
         "name": "FrankIdle",
@@ -3833,7 +4057,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": null,
-        "id": 297
+        "id": 313
     },
     {
         "name": "FrankWalk",
@@ -3847,7 +4071,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": 5,
-        "id": 298
+        "id": 314
     },
     {
         "name": "FrankPrimary",
@@ -3861,7 +4085,7 @@
         "autoFadeMs": 1,
         "looping": false,
         "priority": 5,
-        "id": 299
+        "id": 315
     },
     {
         "name": "FrankSecondary",
@@ -3875,7 +4099,7 @@
         "autoFadeMs": null,
         "looping": false,
         "priority": 5,
-        "id": 300
+        "id": 316
     },
     {
         "name": "FrankRecoil",
@@ -3889,21 +4113,21 @@
         "autoFadeMs": 100,
         "looping": false,
         "priority": 5,
-        "id": 301
+        "id": 317
     },
     {
         "name": "FrankPushback",
-        "fileName": "frank_idle.scw",
+        "fileName": "frank_pushback.scw",
         "startFrame": -1,
         "endFrame": -1,
         "runningTimeMs": -1,
         "speed": null,
-        "transitionInMs": 100,
-        "transitionOutMs": 100,
+        "transitionInMs": 120,
+        "transitionOutMs": 120,
         "autoFadeMs": 400,
         "looping": false,
         "priority": 5,
-        "id": 302
+        "id": 318
     },
     {
         "name": "FrankRecoil2",
@@ -3917,7 +4141,7 @@
         "autoFadeMs": 100,
         "looping": false,
         "priority": 5,
-        "id": 303
+        "id": 319
     },
     {
         "name": "FrankWin",
@@ -3931,7 +4155,7 @@
         "autoFadeMs": null,
         "looping": false,
         "priority": 5,
-        "id": 304
+        "id": 320
     },
     {
         "name": "FrankWinloop",
@@ -3945,7 +4169,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": 1,
-        "id": 305
+        "id": 321
     },
     {
         "name": "FrankLose",
@@ -3959,7 +4183,7 @@
         "autoFadeMs": null,
         "looping": false,
         "priority": 5,
-        "id": 306
+        "id": 322
     },
     {
         "name": "FrankLoseloop",
@@ -3973,7 +4197,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": 1,
-        "id": 307
+        "id": 323
     },
     {
         "name": "ArtillerySpawn",
@@ -3987,7 +4211,7 @@
         "autoFadeMs": 1,
         "looping": false,
         "priority": 3,
-        "id": 308
+        "id": 324
     },
     {
         "name": "ArtilleryIdle",
@@ -4001,7 +4225,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": null,
-        "id": 309
+        "id": 325
     },
     {
         "name": "ArtilleryAttack",
@@ -4015,7 +4239,7 @@
         "autoFadeMs": 1,
         "looping": false,
         "priority": 4,
-        "id": 310
+        "id": 326
     },
     {
         "name": "JunkerKnightWalk",
@@ -4029,7 +4253,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": 1,
-        "id": 311
+        "id": 327
     },
     {
         "name": "JunkerKnightIdle",
@@ -4043,7 +4267,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": null,
-        "id": 312
+        "id": 328
     },
     {
         "name": "JunkerKnightPrimary",
@@ -4057,7 +4281,7 @@
         "autoFadeMs": 1,
         "looping": false,
         "priority": "spine_lower_s#3",
-        "id": 313
+        "id": 329
     },
     {
         "name": "JunkerKnightUltiAttack",
@@ -4071,7 +4295,7 @@
         "autoFadeMs": 10,
         "looping": false,
         "priority": 5,
-        "id": 314
+        "id": 330
     },
     {
         "name": "JunkerKnightRecoil",
@@ -4085,7 +4309,7 @@
         "autoFadeMs": 100,
         "looping": false,
         "priority": "spine_lower_s#4",
-        "id": 315
+        "id": 331
     },
     {
         "name": "JunkerKnightUltiRecoil",
@@ -4099,7 +4323,7 @@
         "autoFadeMs": 100,
         "looping": false,
         "priority": 5,
-        "id": 316
+        "id": 332
     },
     {
         "name": "JunkerKnightReload",
@@ -4113,21 +4337,21 @@
         "autoFadeMs": 200,
         "looping": false,
         "priority": "ChestBone#2",
-        "id": 317
+        "id": 333
     },
     {
         "name": "JunkerKnightPushback",
-        "fileName": "jessie_knight_idle.scw",
-        "startFrame": 1,
-        "endFrame": 29,
+        "fileName": "jessie_knight_pushback.scw",
+        "startFrame": -1,
+        "endFrame": -1,
         "runningTimeMs": -1,
         "speed": null,
-        "transitionInMs": 200,
+        "transitionInMs": 100,
         "transitionOutMs": 100,
-        "autoFadeMs": 200,
+        "autoFadeMs": 100,
         "looping": false,
         "priority": 5,
-        "id": 318
+        "id": 334
     },
     {
         "name": "JunkerKnightWin",
@@ -4141,7 +4365,7 @@
         "autoFadeMs": null,
         "looping": false,
         "priority": null,
-        "id": 319
+        "id": 335
     },
     {
         "name": "JunkerKnightWinloop",
@@ -4155,7 +4379,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": null,
-        "id": 320
+        "id": 336
     },
     {
         "name": "JunkerKnightBattleWin",
@@ -4169,7 +4393,7 @@
         "autoFadeMs": null,
         "looping": false,
         "priority": null,
-        "id": 321
+        "id": 337
     },
     {
         "name": "JunkerKnightBattleWinloop",
@@ -4183,7 +4407,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": null,
-        "id": 322
+        "id": 338
     },
     {
         "name": "JunkerKnightLose",
@@ -4197,7 +4421,7 @@
         "autoFadeMs": null,
         "looping": false,
         "priority": null,
-        "id": 323
+        "id": 339
     },
     {
         "name": "JunkerKnightLoseloop",
@@ -4211,7 +4435,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": null,
-        "id": 324
+        "id": 340
     },
     {
         "name": "JunkerSummertimeWalk",
@@ -4225,7 +4449,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": 1,
-        "id": 325
+        "id": 341
     },
     {
         "name": "CrowPheonixIdle",
@@ -4239,7 +4463,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": null,
-        "id": 326
+        "id": 342
     },
     {
         "name": "CrowPheonixWalk",
@@ -4253,7 +4477,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": 1,
-        "id": 327
+        "id": 343
     },
     {
         "name": "CrowPheonixPrimary",
@@ -4267,7 +4491,7 @@
         "autoFadeMs": 600,
         "looping": false,
         "priority": "spine_lower_s#4",
-        "id": 328
+        "id": 344
     },
     {
         "name": "CrowPheonixUltiAttack",
@@ -4281,7 +4505,7 @@
         "autoFadeMs": 10,
         "looping": false,
         "priority": 5,
-        "id": 329
+        "id": 345
     },
     {
         "name": "CrowPheonixRecoil",
@@ -4295,7 +4519,7 @@
         "autoFadeMs": 100,
         "looping": false,
         "priority": "spine_lower_s#4",
-        "id": 330
+        "id": 346
     },
     {
         "name": "CrowPheonixReload",
@@ -4309,7 +4533,7 @@
         "autoFadeMs": 200,
         "looping": false,
         "priority": "ChestBone#2",
-        "id": 331
+        "id": 347
     },
     {
         "name": "CrowPheonixPushback",
@@ -4323,7 +4547,7 @@
         "autoFadeMs": 200,
         "looping": false,
         "priority": 5,
-        "id": 332
+        "id": 348
     },
     {
         "name": "CrowPheonixWin",
@@ -4337,7 +4561,7 @@
         "autoFadeMs": 0,
         "looping": false,
         "priority": null,
-        "id": 333
+        "id": 349
     },
     {
         "name": "CrowPheonixWinloop",
@@ -4351,7 +4575,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": null,
-        "id": 334
+        "id": 350
     },
     {
         "name": "CrowPheonixLose",
@@ -4365,7 +4589,7 @@
         "autoFadeMs": 200,
         "looping": false,
         "priority": null,
-        "id": 335
+        "id": 351
     },
     {
         "name": "CrowPheonixLoseloop",
@@ -4379,7 +4603,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": null,
-        "id": 336
+        "id": 352
     },
     {
         "name": "TurretWin",
@@ -4393,7 +4617,7 @@
         "autoFadeMs": null,
         "looping": false,
         "priority": null,
-        "id": 337
+        "id": 353
     },
     {
         "name": "TurretWinloop",
@@ -4407,7 +4631,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": null,
-        "id": 338
+        "id": 354
     },
     {
         "name": "UndertakerGreaserWin",
@@ -4421,7 +4645,7 @@
         "autoFadeMs": null,
         "looping": false,
         "priority": 1,
-        "id": 339
+        "id": 355
     },
     {
         "name": "UndertakerGreaserWinloop",
@@ -4435,7 +4659,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": 1,
-        "id": 340
+        "id": 356
     },
     {
         "name": "UndertakerGreaserLose",
@@ -4449,7 +4673,7 @@
         "autoFadeMs": null,
         "looping": false,
         "priority": 1,
-        "id": 341
+        "id": 357
     },
     {
         "name": "UndertakerGreaserLoseloop",
@@ -4463,7 +4687,7 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": 1,
-        "id": 342
+        "id": 358
     },
     {
         "name": "UndertakerGreaserIdle",
@@ -4477,6 +4701,888 @@
         "autoFadeMs": null,
         "looping": true,
         "priority": null,
-        "id": 343
+        "id": 359
+    },
+    {
+        "name": "ShellyPreregIdle",
+        "fileName": "shelly_prereg_idle.scw",
+        "startFrame": -1,
+        "endFrame": -1,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": 100,
+        "transitionOutMs": 100,
+        "autoFadeMs": null,
+        "looping": true,
+        "priority": null,
+        "id": 360
+    },
+    {
+        "name": "ShellyPreregWalk",
+        "fileName": "shelly_prereg_walk.scw",
+        "startFrame": 1,
+        "endFrame": 30,
+        "runningTimeMs": -1,
+        "speed": 140,
+        "transitionInMs": 100,
+        "transitionOutMs": 100,
+        "autoFadeMs": null,
+        "looping": true,
+        "priority": 1,
+        "id": 361
+    },
+    {
+        "name": "ShellyPreregPrimary",
+        "fileName": "shelly_prereg_attack.scw",
+        "startFrame": 1,
+        "endFrame": 5,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": null,
+        "transitionOutMs": null,
+        "autoFadeMs": 10,
+        "looping": false,
+        "priority": "spine_lower_s#4",
+        "id": 362
+    },
+    {
+        "name": "ShellyPreregSecondary",
+        "fileName": "shelly_prereg_attack.scw",
+        "startFrame": 1,
+        "endFrame": 5,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": null,
+        "transitionOutMs": null,
+        "autoFadeMs": 10,
+        "looping": false,
+        "priority": "spine_lower_s#4",
+        "id": 363
+    },
+    {
+        "name": "ShellyPreregRecoil",
+        "fileName": "shelly_prereg_attack.scw",
+        "startFrame": 5,
+        "endFrame": 20,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": 25,
+        "transitionOutMs": null,
+        "autoFadeMs": 100,
+        "looping": false,
+        "priority": "spine_lower_s#4",
+        "id": 364
+    },
+    {
+        "name": "ShellyPreregReload",
+        "fileName": "shelly_prereg_idle.scw",
+        "startFrame": -1,
+        "endFrame": -1,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": 200,
+        "transitionOutMs": 10,
+        "autoFadeMs": 100,
+        "looping": false,
+        "priority": "ChestBone#2",
+        "id": 365
+    },
+    {
+        "name": "ShellyPreregPushback",
+        "fileName": "shelly_prereg_pushback.scw",
+        "startFrame": -1,
+        "endFrame": -1,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": 100,
+        "transitionOutMs": 100,
+        "autoFadeMs": 100,
+        "looping": false,
+        "priority": 5,
+        "id": 366
+    },
+    {
+        "name": "ShellyPreregWin",
+        "fileName": "shelly_prereg_win.scw",
+        "startFrame": 1,
+        "endFrame": 85,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": null,
+        "transitionOutMs": null,
+        "autoFadeMs": null,
+        "looping": false,
+        "priority": 5,
+        "id": 367
+    },
+    {
+        "name": "ShellyPreregWinloop",
+        "fileName": "shelly_prereg_win.scw",
+        "startFrame": 85,
+        "endFrame": 124,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": null,
+        "transitionOutMs": null,
+        "autoFadeMs": null,
+        "looping": true,
+        "priority": 1,
+        "id": 368
+    },
+    {
+        "name": "ShellyPreregLose",
+        "fileName": "shelly_prereg_lose.scw",
+        "startFrame": 1,
+        "endFrame": 60,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": null,
+        "transitionOutMs": null,
+        "autoFadeMs": null,
+        "looping": false,
+        "priority": 5,
+        "id": 369
+    },
+    {
+        "name": "ShellyPreregLoseloop",
+        "fileName": "shelly_prereg_lose.scw",
+        "startFrame": 60,
+        "endFrame": 60,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": null,
+        "transitionOutMs": null,
+        "autoFadeMs": null,
+        "looping": true,
+        "priority": 1,
+        "id": 370
+    },
+    {
+        "name": "BarkeepBankerIdle",
+        "fileName": "barley_banker_idle.scw",
+        "startFrame": -1,
+        "endFrame": -1,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": 100,
+        "transitionOutMs": 100,
+        "autoFadeMs": null,
+        "looping": true,
+        "priority": null,
+        "id": 371
+    },
+    {
+        "name": "BarkeepBankerWalk",
+        "fileName": "barley_banker_walk.scw",
+        "startFrame": 0,
+        "endFrame": 19,
+        "runningTimeMs": -1,
+        "speed": 120,
+        "transitionInMs": 100,
+        "transitionOutMs": 100,
+        "autoFadeMs": null,
+        "looping": true,
+        "priority": 1,
+        "id": 372
+    },
+    {
+        "name": "BarkeepBankerPrimary",
+        "fileName": "barley_banker_attack1.scw",
+        "startFrame": 3,
+        "endFrame": 12,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": 0,
+        "transitionOutMs": 0,
+        "autoFadeMs": 0,
+        "looping": false,
+        "priority": "ChestBone#3",
+        "id": 373
+    },
+    {
+        "name": "BarkeepBankerSecondary",
+        "fileName": "barley_banker_attack1.scw",
+        "startFrame": -1,
+        "endFrame": -1,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": 100,
+        "transitionOutMs": 50,
+        "autoFadeMs": 200,
+        "looping": false,
+        "priority": "ChestBone#3",
+        "id": 374
+    },
+    {
+        "name": "BarkeepBankerRecoil",
+        "fileName": "barley_banker_attack1.scw",
+        "startFrame": 3,
+        "endFrame": 12,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": 10,
+        "transitionOutMs": 10,
+        "autoFadeMs": 10,
+        "looping": false,
+        "priority": "ChestBone#4",
+        "id": 375
+    },
+    {
+        "name": "BarkeepBankerReload",
+        "fileName": "barley_banker_idle.scw",
+        "startFrame": -1,
+        "endFrame": -1,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": 200,
+        "transitionOutMs": 200,
+        "autoFadeMs": 200,
+        "looping": false,
+        "priority": "ChestBone#2",
+        "id": 376
+    },
+    {
+        "name": "BarkeepBankerPushback",
+        "fileName": "barley_banker_knockback.scw",
+        "startFrame": -1,
+        "endFrame": -1,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": 100,
+        "transitionOutMs": 100,
+        "autoFadeMs": 100,
+        "looping": false,
+        "priority": 5,
+        "id": 377
+    },
+    {
+        "name": "BarkeepBankerWin",
+        "fileName": "barley_banker_win1.scw",
+        "startFrame": 0,
+        "endFrame": 30,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": 50,
+        "transitionOutMs": null,
+        "autoFadeMs": null,
+        "looping": false,
+        "priority": null,
+        "id": 378
+    },
+    {
+        "name": "BarkeepBankerWinloop",
+        "fileName": "barley_banker_win1.scw",
+        "startFrame": 30,
+        "endFrame": 80,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": 25,
+        "transitionOutMs": null,
+        "autoFadeMs": null,
+        "looping": true,
+        "priority": null,
+        "id": 379
+    },
+    {
+        "name": "BarkeepBankerLose",
+        "fileName": "barley_banker_lose1.scw",
+        "startFrame": -1,
+        "endFrame": -1,
+        "runningTimeMs": -1,
+        "speed": 130,
+        "transitionInMs": null,
+        "transitionOutMs": null,
+        "autoFadeMs": 50,
+        "looping": false,
+        "priority": null,
+        "id": 380
+    },
+    {
+        "name": "BarkeepBankerLoseloop",
+        "fileName": "barley_banker_lose1.scw",
+        "startFrame": 60,
+        "endFrame": 150,
+        "runningTimeMs": -1,
+        "speed": 120,
+        "transitionInMs": null,
+        "transitionOutMs": null,
+        "autoFadeMs": null,
+        "looping": true,
+        "priority": null,
+        "id": 381
+    },
+    {
+        "name": "BarkeepBankerWinidleloop",
+        "fileName": "barley_banker_winidleloop.scw",
+        "startFrame": -1,
+        "endFrame": -1,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": null,
+        "transitionOutMs": null,
+        "autoFadeMs": null,
+        "looping": true,
+        "priority": null,
+        "id": 382
+    },
+    {
+        "name": "ShellyBanditaIdle",
+        "fileName": "shelly_bandita_idle.scw",
+        "startFrame": -1,
+        "endFrame": -1,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": 100,
+        "transitionOutMs": 100,
+        "autoFadeMs": null,
+        "looping": true,
+        "priority": null,
+        "id": 383
+    },
+    {
+        "name": "ShellyBanditaWalk",
+        "fileName": "shelly_bandita_walk.scw",
+        "startFrame": 1,
+        "endFrame": 30,
+        "runningTimeMs": -1,
+        "speed": 140,
+        "transitionInMs": 100,
+        "transitionOutMs": 100,
+        "autoFadeMs": null,
+        "looping": true,
+        "priority": 1,
+        "id": 384
+    },
+    {
+        "name": "ShellyBanditaPrimary",
+        "fileName": "shelly_bandita_attack.scw",
+        "startFrame": 1,
+        "endFrame": 5,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": null,
+        "transitionOutMs": null,
+        "autoFadeMs": 10,
+        "looping": false,
+        "priority": "spine_lower_s#4",
+        "id": 385
+    },
+    {
+        "name": "ShellyBanditaSecondary",
+        "fileName": "shelly_bandita_attack.scw",
+        "startFrame": 1,
+        "endFrame": 5,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": null,
+        "transitionOutMs": null,
+        "autoFadeMs": 10,
+        "looping": false,
+        "priority": "spine_lower_s#4",
+        "id": 386
+    },
+    {
+        "name": "ShellyBanditaRecoil",
+        "fileName": "shelly_bandita_attack.scw",
+        "startFrame": 5,
+        "endFrame": 20,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": 25,
+        "transitionOutMs": null,
+        "autoFadeMs": 100,
+        "looping": false,
+        "priority": "spine_lower_s#4",
+        "id": 387
+    },
+    {
+        "name": "ShellyBanditaReload",
+        "fileName": "shelly_bandita_idle.scw",
+        "startFrame": -1,
+        "endFrame": -1,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": 200,
+        "transitionOutMs": 10,
+        "autoFadeMs": 100,
+        "looping": false,
+        "priority": "ChestBone#2",
+        "id": 388
+    },
+    {
+        "name": "ShellyBanditaPushback",
+        "fileName": "shelly_pushback.scw",
+        "startFrame": -1,
+        "endFrame": -1,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": 100,
+        "transitionOutMs": 100,
+        "autoFadeMs": 100,
+        "looping": false,
+        "priority": 5,
+        "id": 389
+    },
+    {
+        "name": "ShellyBanditaWin",
+        "fileName": "shelly_bandita_win.scw",
+        "startFrame": 1,
+        "endFrame": 85,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": null,
+        "transitionOutMs": null,
+        "autoFadeMs": null,
+        "looping": false,
+        "priority": 5,
+        "id": 390
+    },
+    {
+        "name": "ShellyBanditaWinloop",
+        "fileName": "shelly_bandita_win.scw",
+        "startFrame": 85,
+        "endFrame": 124,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": null,
+        "transitionOutMs": null,
+        "autoFadeMs": null,
+        "looping": true,
+        "priority": 1,
+        "id": 391
+    },
+    {
+        "name": "ShellyBanditaLose",
+        "fileName": "shelly_bandita_lose.scw",
+        "startFrame": 1,
+        "endFrame": 60,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": null,
+        "transitionOutMs": null,
+        "autoFadeMs": null,
+        "looping": false,
+        "priority": 5,
+        "id": 392
+    },
+    {
+        "name": "ShellyBanditaLoseloop",
+        "fileName": "shelly_bandita_lose.scw",
+        "startFrame": 60,
+        "endFrame": 60,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": null,
+        "transitionOutMs": null,
+        "autoFadeMs": null,
+        "looping": true,
+        "priority": 1,
+        "id": 393
+    },
+    {
+        "name": "LeonIdle",
+        "fileName": "leon_idle.scw",
+        "startFrame": 1,
+        "endFrame": 28,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": 100,
+        "transitionOutMs": 100,
+        "autoFadeMs": null,
+        "looping": true,
+        "priority": null,
+        "id": 394
+    },
+    {
+        "name": "LeonWalk",
+        "fileName": "leon_walk.scw",
+        "startFrame": 1,
+        "endFrame": 29,
+        "runningTimeMs": -1,
+        "speed": 170,
+        "transitionInMs": 100,
+        "transitionOutMs": 100,
+        "autoFadeMs": null,
+        "looping": true,
+        "priority": 1,
+        "id": 395
+    },
+    {
+        "name": "LeonAttack",
+        "fileName": "leon_attack.scw",
+        "startFrame": 1,
+        "endFrame": 3,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": null,
+        "transitionOutMs": null,
+        "autoFadeMs": 10,
+        "looping": false,
+        "priority": "spine_lower_s#4",
+        "id": 396
+    },
+    {
+        "name": "LeonSecondary",
+        "fileName": "leon_idle.scw",
+        "startFrame": 1,
+        "endFrame": 20,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": null,
+        "transitionOutMs": null,
+        "autoFadeMs": 10,
+        "looping": false,
+        "priority": "spine_lower_s#4",
+        "id": 397
+    },
+    {
+        "name": "LeonRecoil",
+        "fileName": "leon_attack.scw",
+        "startFrame": 3,
+        "endFrame": 7,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": null,
+        "transitionOutMs": null,
+        "autoFadeMs": 10,
+        "looping": false,
+        "priority": "spine_lower_s#4",
+        "id": 398
+    },
+    {
+        "name": "LeonRecoil2",
+        "fileName": "leon_attack.scw",
+        "startFrame": 7,
+        "endFrame": 11,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": null,
+        "transitionOutMs": null,
+        "autoFadeMs": 10,
+        "looping": false,
+        "priority": "spine_lower_s#4",
+        "id": 399
+    },
+    {
+        "name": "LeonReload",
+        "fileName": "leon_idle.scw",
+        "startFrame": -1,
+        "endFrame": -1,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": null,
+        "transitionOutMs": null,
+        "autoFadeMs": 100,
+        "looping": false,
+        "priority": "ChestBone#2",
+        "id": 400
+    },
+    {
+        "name": "LeonPushback",
+        "fileName": "leon_pushback.scw",
+        "startFrame": 1,
+        "endFrame": 34,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": 100,
+        "transitionOutMs": 100,
+        "autoFadeMs": 100,
+        "looping": false,
+        "priority": 5,
+        "id": 401
+    },
+    {
+        "name": "LeonWin",
+        "fileName": "leon_win.scw",
+        "startFrame": 1,
+        "endFrame": 56,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": null,
+        "transitionOutMs": null,
+        "autoFadeMs": null,
+        "looping": false,
+        "priority": 5,
+        "id": 402
+    },
+    {
+        "name": "LeonWinloop",
+        "fileName": "leon_win.scw",
+        "startFrame": 56,
+        "endFrame": 83,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": null,
+        "transitionOutMs": null,
+        "autoFadeMs": null,
+        "looping": true,
+        "priority": 1,
+        "id": 403
+    },
+    {
+        "name": "LeonLose",
+        "fileName": "leon_lose.scw",
+        "startFrame": 1,
+        "endFrame": 45,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": null,
+        "transitionOutMs": null,
+        "autoFadeMs": null,
+        "looping": false,
+        "priority": 5,
+        "id": 404
+    },
+    {
+        "name": "LeonLoseloop",
+        "fileName": "leon_lose.scw",
+        "startFrame": 45,
+        "endFrame": 50,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": null,
+        "transitionOutMs": null,
+        "autoFadeMs": null,
+        "looping": true,
+        "priority": 1,
+        "id": 405
+    },
+    {
+        "name": "BarkeepWizardIdle",
+        "fileName": "barley_wizard_idle.scw",
+        "startFrame": -1,
+        "endFrame": -1,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": 100,
+        "transitionOutMs": 100,
+        "autoFadeMs": null,
+        "looping": true,
+        "priority": null,
+        "id": 406
+    },
+    {
+        "name": "BarkeepWizardWalk",
+        "fileName": "barley_wizard_walk.scw",
+        "startFrame": 0,
+        "endFrame": 19,
+        "runningTimeMs": -1,
+        "speed": 120,
+        "transitionInMs": 100,
+        "transitionOutMs": 100,
+        "autoFadeMs": null,
+        "looping": true,
+        "priority": 1,
+        "id": 407
+    },
+    {
+        "name": "BarkeepWizardPrimary",
+        "fileName": "barley_wizard_attack.scw",
+        "startFrame": 5,
+        "endFrame": 20,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": null,
+        "transitionOutMs": null,
+        "autoFadeMs": 10,
+        "looping": false,
+        "priority": "spine_lower_s#4",
+        "id": 408
+    },
+    {
+        "name": "BarkeepWizardSecondary",
+        "fileName": "barley_wizard_attack.scw",
+        "startFrame": 5,
+        "endFrame": 20,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": null,
+        "transitionOutMs": null,
+        "autoFadeMs": 10,
+        "looping": false,
+        "priority": "spine_lower_s#4",
+        "id": 409
+    },
+    {
+        "name": "BarkeepWizardRecoil",
+        "fileName": "barley_wizard_attack.scw",
+        "startFrame": 5,
+        "endFrame": 20,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": null,
+        "transitionOutMs": null,
+        "autoFadeMs": 50,
+        "looping": false,
+        "priority": "spine_lower_s#4",
+        "id": 410
+    },
+    {
+        "name": "BarkeepWizardReload",
+        "fileName": "barley_wizard_idle.scw",
+        "startFrame": -1,
+        "endFrame": -1,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": null,
+        "transitionOutMs": null,
+        "autoFadeMs": 50,
+        "looping": false,
+        "priority": "ChestBone#2",
+        "id": 411
+    },
+    {
+        "name": "BarkeepWizardPushback",
+        "fileName": "barley_wizard_pushback.scw",
+        "startFrame": -1,
+        "endFrame": -1,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": 100,
+        "transitionOutMs": 100,
+        "autoFadeMs": 100,
+        "looping": false,
+        "priority": 5,
+        "id": 412
+    },
+    {
+        "name": "BarkeepWizardWin",
+        "fileName": "barley_wizard_win.scw",
+        "startFrame": 0,
+        "endFrame": 40,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": null,
+        "transitionOutMs": null,
+        "autoFadeMs": null,
+        "looping": false,
+        "priority": null,
+        "id": 413
+    },
+    {
+        "name": "BarkeepWizardWinloop",
+        "fileName": "barley_wizard_win.scw",
+        "startFrame": 40,
+        "endFrame": 120,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": null,
+        "transitionOutMs": null,
+        "autoFadeMs": null,
+        "looping": true,
+        "priority": null,
+        "id": 414
+    },
+    {
+        "name": "BarkeepWizardLose",
+        "fileName": "barley_wizard_lose.scw",
+        "startFrame": -1,
+        "endFrame": -1,
+        "runningTimeMs": -1,
+        "speed": 130,
+        "transitionInMs": null,
+        "transitionOutMs": null,
+        "autoFadeMs": 50,
+        "looping": false,
+        "priority": null,
+        "id": 415
+    },
+    {
+        "name": "BarkeepWizardLoseloop",
+        "fileName": "barley_wizard_lose.scw",
+        "startFrame": 60,
+        "endFrame": 150,
+        "runningTimeMs": -1,
+        "speed": 120,
+        "transitionInMs": null,
+        "transitionOutMs": null,
+        "autoFadeMs": null,
+        "looping": true,
+        "priority": null,
+        "id": 416
+    },
+    {
+        "name": "BearReindeerIdle",
+        "fileName": "bear_reindeer_idle.scw",
+        "startFrame": -1,
+        "endFrame": -1,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": 100,
+        "transitionOutMs": 100,
+        "autoFadeMs": null,
+        "looping": true,
+        "priority": null,
+        "id": 417
+    },
+    {
+        "name": "BearReindeerWalk",
+        "fileName": "bear_reindeer_walk.scw",
+        "startFrame": 1,
+        "endFrame": 40,
+        "runningTimeMs": -1,
+        "speed": 170,
+        "transitionInMs": 100,
+        "transitionOutMs": 100,
+        "autoFadeMs": null,
+        "looping": true,
+        "priority": 1,
+        "id": 418
+    },
+    {
+        "name": "BearReindeerAttack",
+        "fileName": "bear_reindeer_attack.scw",
+        "startFrame": -1,
+        "endFrame": -1,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": 100,
+        "transitionOutMs": 200,
+        "autoFadeMs": 150,
+        "looping": false,
+        "priority": "spine_lower_s#4",
+        "id": 419
+    },
+    {
+        "name": "BearReindeerRecoil",
+        "fileName": "bear_reindeer_attack.scw",
+        "startFrame": -1,
+        "endFrame": -1,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": 1,
+        "transitionOutMs": 1,
+        "autoFadeMs": 50,
+        "looping": false,
+        "priority": "spine_lower_s#4",
+        "id": 420
+    },
+    {
+        "name": "BearReindeerPushback",
+        "fileName": "bear_reindeer_idle.scw",
+        "startFrame": -1,
+        "endFrame": -1,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": 200,
+        "transitionOutMs": 300,
+        "autoFadeMs": 500,
+        "looping": false,
+        "priority": 5,
+        "id": 421
+    },
+    {
+        "name": "BearReindeerWin",
+        "fileName": "bear_reindeer_idle.scw",
+        "startFrame": -1,
+        "endFrame": -1,
+        "runningTimeMs": -1,
+        "speed": null,
+        "transitionInMs": 200,
+        "transitionOutMs": 300,
+        "autoFadeMs": 500,
+        "looping": false,
+        "priority": 5,
+        "id": 422
     }
 ]

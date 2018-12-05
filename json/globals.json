@@ -379,7 +379,7 @@
     },
     {
         "name": "VISIBILITY_X",
-        "numberValue": 38,
+        "numberValue": 43,
         "booleanValue": null,
         "textValue": null,
         "stringArray": null,
@@ -405,22 +405,13 @@
         "id": 47
     },
     {
-        "name": "CAMERA_SCALE",
-        "numberValue": 88,
-        "booleanValue": null,
-        "textValue": null,
-        "stringArray": null,
-        "numberArray": null,
-        "id": 48
-    },
-    {
         "name": "VISIBILITY_HORIZONTAL_MARGIN",
         "numberValue": 6,
         "booleanValue": null,
         "textValue": null,
         "stringArray": null,
         "numberArray": null,
-        "id": 49
+        "id": 48
     },
     {
         "name": "VISIBILITY_VERTICAL_MARGIN_1",
@@ -429,7 +420,7 @@
         "textValue": null,
         "stringArray": null,
         "numberArray": null,
-        "id": 50
+        "id": 49
     },
     {
         "name": "VISIBILITY_VERTICAL_MARGIN_2",
@@ -438,7 +429,7 @@
         "textValue": null,
         "stringArray": null,
         "numberArray": null,
-        "id": 51
+        "id": 50
     },
     {
         "name": "STARTING_HERO_LVL_UP_MATERIAL",
@@ -447,15 +438,33 @@
         "textValue": null,
         "stringArray": null,
         "numberArray": null,
-        "id": 52
+        "id": 51
     },
     {
         "name": "TRANSFORM_FREE_BOX_TO_AD_BOX",
         "numberValue": null,
-        "booleanValue": true,
+        "booleanValue": false,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": null,
+        "id": 52
+    },
+    {
+        "name": "VAMPIRES_HEAL_MUL",
+        "numberValue": 25,
+        "booleanValue": null,
         "textValue": null,
         "stringArray": null,
         "numberArray": null,
         "id": 53
+    },
+    {
+        "name": "VAMPIRES_HEAL_DIV",
+        "numberValue": 100,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": null,
+        "id": 54
     }
 ]

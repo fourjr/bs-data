@@ -13,6 +13,9 @@
         "triggerAreaEffect": null,
         "canBePickedUp": true,
         "spawnEffect": "Spawn_plasmoid",
+        "sCW": null,
+        "sCWEnemy": null,
+        "layer": "Above",
         "id": 18
     },
     {
@@ -29,13 +32,16 @@
         "triggerAreaEffect": null,
         "canBePickedUp": true,
         "spawnEffect": "Spawn_plasmoid",
+        "sCW": null,
+        "sCWEnemy": null,
+        "layer": "Above",
         "id": 19
     },
     {
         "name": "DamageAndSpeed",
         "fileName": "sc/effects.sc",
-        "exportName": "power_up_bottle_pickup",
-        "exportNameEnemy": "power_up_bottle_pickup",
+        "exportName": null,
+        "exportNameEnemy": null,
         "shadowExportName": null,
         "groundGlowExportName": "pickup_glow_green",
         "loopingEffect": "power_up_bottle_sparkle",
@@ -45,6 +51,9 @@
         "triggerAreaEffect": null,
         "canBePickedUp": true,
         "spawnEffect": "Spawn_buff",
+        "sCW": "sc3d/item_power_up_bottle.scw",
+        "sCWEnemy": "sc3d/item_power_up_bottle.scw",
+        "layer": "Above",
         "id": 20
     },
     {
@@ -61,6 +70,9 @@
         "triggerAreaEffect": null,
         "canBePickedUp": true,
         "spawnEffect": "Spawn_plasmoid",
+        "sCW": null,
+        "sCWEnemy": null,
+        "layer": "Above",
         "id": 21
     },
     {
@@ -77,14 +89,17 @@
         "triggerAreaEffect": null,
         "canBePickedUp": true,
         "spawnEffect": "Spawn_plasmoid",
+        "sCW": null,
+        "sCWEnemy": null,
+        "layer": "Above",
         "id": 22
     },
     {
         "name": "OrbSpawner",
-        "fileName": "sc/level.sc",
-        "exportName": "spawn_hole",
-        "exportNameEnemy": "spawn_hole",
-        "shadowExportName": "spawn_hole_shadow",
+        "fileName": null,
+        "exportName": null,
+        "exportNameEnemy": null,
+        "shadowExportName": null,
         "groundGlowExportName": null,
         "loopingEffect": null,
         "value": null,
@@ -93,6 +108,9 @@
         "triggerAreaEffect": null,
         "canBePickedUp": null,
         "spawnEffect": "Spawn_plasmoid",
+        "sCW": "sc3d/mine_gem_spawn.scw",
+        "sCWEnemy": "sc3d/mine_gem_spawn.scw",
+        "layer": "Ground",
         "id": 23
     },
     {
@@ -109,6 +127,9 @@
         "triggerAreaEffect": "MineExplosion",
         "canBePickedUp": true,
         "spawnEffect": "Spawn_mine",
+        "sCW": null,
+        "sCWEnemy": null,
+        "layer": "Above",
         "id": 24
     },
     {
@@ -125,6 +146,9 @@
         "triggerAreaEffect": null,
         "canBePickedUp": null,
         "spawnEffect": "Spawn_plasmoid",
+        "sCW": null,
+        "sCWEnemy": null,
+        "layer": "Above",
         "id": 25
     },
     {
@@ -141,13 +165,16 @@
         "triggerAreaEffect": null,
         "canBePickedUp": null,
         "spawnEffect": "Spawn_plasmoid",
+        "sCW": null,
+        "sCWEnemy": null,
+        "layer": "Above",
         "id": 26
     },
     {
         "name": "BattleRoyaleBuff",
         "fileName": "sc/effects.sc",
-        "exportName": "showdown_boost_pickup",
-        "exportNameEnemy": "showdown_boost_pickup",
+        "exportName": null,
+        "exportNameEnemy": null,
         "shadowExportName": null,
         "groundGlowExportName": "pickup_glow_green",
         "loopingEffect": "Health_fx",
@@ -157,6 +184,9 @@
         "triggerAreaEffect": null,
         "canBePickedUp": true,
         "spawnEffect": "Spawn_plasmoid",
+        "sCW": "sc3d/item_showdown_boost.scw",
+        "sCWEnemy": "sc3d/item_showdown_boost.scw",
+        "layer": "Above",
         "id": 27
     },
     {
@@ -173,6 +203,9 @@
         "triggerAreaEffect": null,
         "canBePickedUp": true,
         "spawnEffect": "Spawn_plasmoid",
+        "sCW": null,
+        "sCWEnemy": null,
+        "layer": "Above",
         "id": 28
     },
     {
@@ -189,6 +222,9 @@
         "triggerAreaEffect": null,
         "canBePickedUp": null,
         "spawnEffect": "Spawn_plasmoid",
+        "sCW": null,
+        "sCWEnemy": null,
+        "layer": "Above",
         "id": 29
     },
     {
@@ -205,6 +241,9 @@
         "triggerAreaEffect": "SniperBombExplosion",
         "canBePickedUp": true,
         "spawnEffect": "Spawn_sniper_bomb",
+        "sCW": null,
+        "sCWEnemy": null,
+        "layer": "Above",
         "id": 30
     },
     {
@@ -221,6 +260,9 @@
         "triggerAreaEffect": null,
         "canBePickedUp": null,
         "spawnEffect": "Spawn_plasmoid",
+        "sCW": null,
+        "sCWEnemy": null,
+        "layer": "Above",
         "id": 31
     },
     {
@@ -237,6 +279,9 @@
         "triggerAreaEffect": "SelfDestructExplosion",
         "canBePickedUp": true,
         "spawnEffect": "artillery_dude_turret_attack",
+        "sCW": null,
+        "sCWEnemy": null,
+        "layer": "Above",
         "id": 32
     }
 ]

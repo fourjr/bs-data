@@ -31,23 +31,13 @@
     },
     {
         "name": null,
-        "fileName": "music/Slugfest_ingame_05.ogg",
-        "volume": 70,
-        "loop": true,
-        "playCount": null,
-        "fadeOutTimeSec": null,
-        "durationSec": 53,
-        "id": 15
-    },
-    {
-        "name": null,
         "fileName": "music/Slugfest_ingame_06.ogg",
         "volume": 70,
         "loop": true,
         "playCount": null,
         "fadeOutTimeSec": null,
         "durationSec": 75,
-        "id": 16
+        "id": 15
     },
     {
         "name": null,
@@ -57,7 +47,7 @@
         "playCount": null,
         "fadeOutTimeSec": null,
         "durationSec": 60,
-        "id": 17
+        "id": 16
     },
     {
         "name": null,
@@ -67,11 +57,21 @@
         "playCount": null,
         "fadeOutTimeSec": null,
         "durationSec": 71,
-        "id": 18
+        "id": 17
     },
     {
         "name": null,
         "fileName": "music/Slugfest_ingame_08.ogg",
+        "volume": 70,
+        "loop": true,
+        "playCount": null,
+        "fadeOutTimeSec": null,
+        "durationSec": 57,
+        "id": 18
+    },
+    {
+        "name": "Snow_brawl",
+        "fileName": "music/Snow_brawl_01.ogg",
         "volume": 70,
         "loop": true,
         "playCount": null,
@@ -80,84 +80,24 @@
         "id": 19
     },
     {
-        "name": "SingleplayerBattlemusic",
-        "fileName": "music/Slugfest_ingame_02.ogg",
+        "name": null,
+        "fileName": "music/Snow_brawl_02.ogg",
         "volume": 70,
         "loop": true,
         "playCount": null,
         "fadeOutTimeSec": null,
-        "durationSec": 60,
+        "durationSec": 65,
         "id": 20
     },
     {
         "name": null,
-        "fileName": "music/Slugfest_ingame_03.ogg",
+        "fileName": "music/Snow_brawl_03.ogg",
         "volume": 70,
         "loop": true,
         "playCount": null,
         "fadeOutTimeSec": null,
-        "durationSec": 90,
+        "durationSec": 57,
         "id": 21
-    },
-    {
-        "name": null,
-        "fileName": "music/Slugfest_ingame_04.ogg",
-        "volume": 70,
-        "loop": true,
-        "playCount": null,
-        "fadeOutTimeSec": null,
-        "durationSec": 57,
-        "id": 22
-    },
-    {
-        "name": null,
-        "fileName": "music/Slugfest_ingame_05.ogg",
-        "volume": 70,
-        "loop": true,
-        "playCount": null,
-        "fadeOutTimeSec": null,
-        "durationSec": 60,
-        "id": 23
-    },
-    {
-        "name": null,
-        "fileName": "music/Slugfest_ingame_06.ogg",
-        "volume": 70,
-        "loop": true,
-        "playCount": null,
-        "fadeOutTimeSec": null,
-        "durationSec": 75,
-        "id": 24
-    },
-    {
-        "name": null,
-        "fileName": "music/Slugfest_ingame_01.ogg",
-        "volume": 70,
-        "loop": true,
-        "playCount": null,
-        "fadeOutTimeSec": null,
-        "durationSec": 60,
-        "id": 25
-    },
-    {
-        "name": null,
-        "fileName": "music/Slugfest_ingame_07.ogg",
-        "volume": 70,
-        "loop": true,
-        "playCount": null,
-        "fadeOutTimeSec": null,
-        "durationSec": 71,
-        "id": 26
-    },
-    {
-        "name": null,
-        "fileName": "music/Slugfest_ingame_08.ogg",
-        "volume": 70,
-        "loop": true,
-        "playCount": null,
-        "fadeOutTimeSec": null,
-        "durationSec": 57,
-        "id": 27
     },
     {
         "name": "MenuMusic",
@@ -167,7 +107,7 @@
         "playCount": null,
         "fadeOutTimeSec": null,
         "durationSec": 153,
-        "id": 28
+        "id": 22
     },
     {
         "name": "WinJingle",
@@ -177,7 +117,7 @@
         "playCount": 1,
         "fadeOutTimeSec": null,
         "durationSec": null,
-        "id": 29
+        "id": 23
     },
     {
         "name": "LoseJingle",
@@ -187,7 +127,7 @@
         "playCount": 1,
         "fadeOutTimeSec": null,
         "durationSec": null,
-        "id": 30
+        "id": 24
     },
     {
         "name": "DrawJingle",
@@ -197,7 +137,7 @@
         "playCount": 1,
         "fadeOutTimeSec": null,
         "durationSec": null,
-        "id": 31
+        "id": 25
     },
     {
         "name": "Win_loop",
@@ -207,7 +147,7 @@
         "playCount": null,
         "fadeOutTimeSec": null,
         "durationSec": 30,
-        "id": 32
+        "id": 26
     },
     {
         "name": "Draw_loop",
@@ -217,7 +157,7 @@
         "playCount": null,
         "fadeOutTimeSec": null,
         "durationSec": 34,
-        "id": 33
+        "id": 27
     },
     {
         "name": "Lose_loop",
@@ -227,7 +167,7 @@
         "playCount": null,
         "fadeOutTimeSec": null,
         "durationSec": 28,
-        "id": 34
+        "id": 28
     },
     {
         "name": "Brawlbawl_goal",
@@ -237,7 +177,7 @@
         "playCount": 1,
         "fadeOutTimeSec": null,
         "durationSec": null,
-        "id": 35
+        "id": 29
     },
     {
         "name": "Brawlbawl_other_goal",
@@ -247,7 +187,7 @@
         "playCount": 1,
         "fadeOutTimeSec": null,
         "durationSec": null,
-        "id": 36
+        "id": 30
     },
     {
         "name": "30_sec_panic",
@@ -257,6 +197,6 @@
         "playCount": null,
         "fadeOutTimeSec": null,
         "durationSec": 30,
-        "id": 37
+        "id": 31
     }
 ]

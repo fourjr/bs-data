@@ -3,7 +3,7 @@
         "name": 1,
         "tID": "You can TAP the <ccc0033>red control</c> to QUICKFIRE towards the closest enemy.",
         "minXPLevel": 1,
-        "maxXPLevel": 999,
+        "maxXPLevel": 40,
         "fileName": null,
         "exportName": null
     },
@@ -11,7 +11,7 @@
         "name": 2,
         "tID": "You can TAP the <cff9900>yellow control</c> to QUICKFIRE your Super towards the closest enemy.",
         "minXPLevel": 1,
-        "maxXPLevel": 999,
+        "maxXPLevel": 40,
         "fileName": null,
         "exportName": null
     },
@@ -19,7 +19,7 @@
         "name": 3,
         "tID": "You can DRAG the <ccc0033>red control</c> to AIM your shots.",
         "minXPLevel": 1,
-        "maxXPLevel": 999,
+        "maxXPLevel": 40,
         "fileName": null,
         "exportName": null
     },
@@ -27,7 +27,7 @@
         "name": 4,
         "tID": "You can DRAG the <cff9900>yellow control</c> to AIM your Super.",
         "minXPLevel": 1,
-        "maxXPLevel": 999,
+        "maxXPLevel": 40,
         "fileName": null,
         "exportName": null
     },
@@ -35,13 +35,13 @@
         "name": 5,
         "tID": "You can cancel an aimed shot by dragging the control back to the middle.",
         "minXPLevel": 1,
-        "maxXPLevel": 999,
+        "maxXPLevel": 40,
         "fileName": null,
         "exportName": null
     },
     {
         "name": 6,
-        "tID": "Matchmaking is based on the Trophies of the Brawler you are playing with.",
+        "tID": "Matchmaking is based on the Trophies of the Brawler you are playing with, making it easy to gain Trophies with a newly unlocked Brawler.",
         "minXPLevel": 7,
         "maxXPLevel": 999,
         "fileName": null,
@@ -49,7 +49,7 @@
     },
     {
         "name": 7,
-        "tID": "Getting more Brawlers will make it easier to advance in total Trophies.",
+        "tID": "Getting more Brawlers will make it easier to advance in total Trophies and get more Rewards.",
         "minXPLevel": 7,
         "maxXPLevel": 999,
         "fileName": null,
@@ -83,7 +83,7 @@
         "name": 11,
         "tID": "You can activate the <ccc0033>red control</c> anywhere on the right side of the screen to shoot.",
         "minXPLevel": 1,
-        "maxXPLevel": 999,
+        "maxXPLevel": 40,
         "fileName": null,
         "exportName": null
     },
@@ -91,7 +91,7 @@
         "name": 12,
         "tID": "Both your main attack and Super have two shooting modes: TAP to QUICKFIRE and DRAG to AIM.",
         "minXPLevel": 1,
-        "maxXPLevel": 999,
+        "maxXPLevel": 40,
         "fileName": null,
         "exportName": null
     },
@@ -99,7 +99,7 @@
         "name": 13,
         "tID": "Aiming your shots is good for leading a moving target.",
         "minXPLevel": 3,
-        "maxXPLevel": 999,
+        "maxXPLevel": 60,
         "fileName": null,
         "exportName": null
     },
@@ -107,7 +107,7 @@
         "name": 14,
         "tID": "QUICKFIRE is good for fast reaction shots when you don't have time to aim.",
         "minXPLevel": 3,
-        "maxXPLevel": 999,
+        "maxXPLevel": 60,
         "fileName": null,
         "exportName": null
     },
@@ -115,7 +115,7 @@
         "name": 15,
         "tID": "QUICKFIRE works well on enemies close to you.",
         "minXPLevel": 3,
-        "maxXPLevel": 999,
+        "maxXPLevel": 60,
         "fileName": null,
         "exportName": null
     },
@@ -123,7 +123,7 @@
         "name": 16,
         "tID": "When you are hidden inside a bush, enemies can still spot you if they come close enough.",
         "minXPLevel": 3,
-        "maxXPLevel": 999,
+        "maxXPLevel": 60,
         "fileName": null,
         "exportName": null
     },
@@ -131,7 +131,7 @@
         "name": 17,
         "tID": "QUICKFIRE shoots straight towards the closest enemy and does not take into account enemy movement.",
         "minXPLevel": 3,
-        "maxXPLevel": 999,
+        "maxXPLevel": 60,
         "fileName": null,
         "exportName": null
     },
@@ -139,7 +139,7 @@
         "name": 18,
         "tID": "Aiming your shots is good for shooting into bushes to check for enemies.",
         "minXPLevel": 3,
-        "maxXPLevel": 999,
+        "maxXPLevel": 60,
         "fileName": null,
         "exportName": null
     },
@@ -147,7 +147,7 @@
         "name": 19,
         "tID": "QUICKFIRE works well on enemies that stand still.",
         "minXPLevel": 3,
-        "maxXPLevel": 999,
+        "maxXPLevel": 60,
         "fileName": null,
         "exportName": null
     },
@@ -155,7 +155,7 @@
         "name": 20,
         "tID": "QUICKFIRE works well on enemies that move straight towards you or away from you.",
         "minXPLevel": 3,
-        "maxXPLevel": 999,
+        "maxXPLevel": 60,
         "fileName": null,
         "exportName": null
     },
@@ -163,7 +163,7 @@
         "name": 21,
         "tID": "When you are inside a bush, enemies can see you if you attack or take damage.",
         "minXPLevel": 3,
-        "maxXPLevel": 999,
+        "maxXPLevel": 60,
         "fileName": null,
         "exportName": null
     },
@@ -171,7 +171,7 @@
         "name": 22,
         "tID": "You can use bushes to hide from enemies.",
         "minXPLevel": 1,
-        "maxXPLevel": 999,
+        "maxXPLevel": 40,
         "fileName": null,
         "exportName": null
     },
@@ -179,7 +179,7 @@
         "name": 23,
         "tID": "When you use QUICKFIRE, it will fire your weapon even if there are no enemies in range.",
         "minXPLevel": 1,
-        "maxXPLevel": 999,
+        "maxXPLevel": 40,
         "fileName": null,
         "exportName": null
     },
@@ -187,7 +187,7 @@
         "name": 24,
         "tID": "Some Brawlers are better on some maps and events than others.",
         "minXPLevel": 3,
-        "maxXPLevel": 999,
+        "maxXPLevel": 60,
         "fileName": null,
         "exportName": null
     },
@@ -195,7 +195,7 @@
         "name": 25,
         "tID": "Long range Brawlers are generally better on more open maps.",
         "minXPLevel": 3,
-        "maxXPLevel": 999,
+        "maxXPLevel": 60,
         "fileName": null,
         "exportName": null
     },
@@ -203,7 +203,7 @@
         "name": 26,
         "tID": "Close range Brawlers are generally better on maps with more cover and bushes.",
         "minXPLevel": 3,
-        "maxXPLevel": 999,
+        "maxXPLevel": 60,
         "fileName": null,
         "exportName": null
     },
@@ -217,7 +217,7 @@
     },
     {
         "name": 28,
-        "tID": "Getting teammates in a game room allows you to plan before the match and pick a good combination of Brawlers.",
+        "tID": "Getting a team together before a match allows you to plan before the match and pick a good combination of Brawlers.",
         "minXPLevel": 3,
         "maxXPLevel": 999,
         "fileName": null,
@@ -225,7 +225,7 @@
     },
     {
         "name": 29,
-        "tID": "Try playing friendly games by creating a game room, changing map and switching from Ranked to Friendly!",
+        "tID": "Try playing friendly games to practice events, set up friendly competitions and more!",
         "minXPLevel": 3,
         "maxXPLevel": 999,
         "fileName": null,
@@ -235,7 +235,7 @@
         "name": 30,
         "tID": "After a good match with new teammates, you can press the Play Again to play another match with them!",
         "minXPLevel": 3,
-        "maxXPLevel": 999,
+        "maxXPLevel": 60,
         "fileName": null,
         "exportName": null
     },
@@ -257,15 +257,15 @@
     },
     {
         "name": 33,
-        "tID": "Boss Fight and Robo Rumble events don't use up the Key Bar, instead they require tickets to play.",
+        "tID": "Ticketed events don't use up the Token Bar, instead they require tickets to play.",
         "minXPLevel": 3,
-        "maxXPLevel": 999,
+        "maxXPLevel": 60,
         "fileName": null,
         "exportName": null
     },
     {
         "name": 34,
-        "tID": "You can invite Band mates to be your friends from the Band member list.",
+        "tID": "You can invite Club members to be your friends from the Club member list.",
         "minXPLevel": 3,
         "maxXPLevel": 999,
         "fileName": null,
@@ -273,7 +273,7 @@
     },
     {
         "name": 35,
-        "tID": "You can invite people from game rooms to be your friends.",
+        "tID": "You can invite people from a Team you're on to be your friends.",
         "minXPLevel": 3,
         "maxXPLevel": 999,
         "fileName": null,
@@ -289,7 +289,7 @@
     },
     {
         "name": 37,
-        "tID": "When creating a game room you can directly invite online friends and Band mates to play with you.",
+        "tID": "You can invite people from a Team you're on to be your friends.",
         "minXPLevel": 3,
         "maxXPLevel": 999,
         "fileName": null,
@@ -297,7 +297,7 @@
     },
     {
         "name": 38,
-        "tID": "You can use the advertise button to advertise your game room to your friends and Band mates.",
+        "tID": "You can use the advertise button to advertise your Team to your friends and Club members.",
         "minXPLevel": 3,
         "maxXPLevel": 999,
         "fileName": null,
@@ -306,7 +306,7 @@
     {
         "name": 39,
         "tID": "A rotating blue circle under a Brawler means their Super is ready!",
-        "minXPLevel": 6,
+        "minXPLevel": 7,
         "maxXPLevel": 999,
         "fileName": null,
         "exportName": null
@@ -314,7 +314,7 @@
     {
         "name": 40,
         "tID": "A rotating yellow circle under a Brawler means they are currently targeting their Super!",
-        "minXPLevel": 6,
+        "minXPLevel": 7,
         "maxXPLevel": 999,
         "fileName": null,
         "exportName": null
@@ -324,6 +324,22 @@
         "tID": "Connect to Supercell ID from the settings screen to keep your account safe and play with multiple devices.",
         "minXPLevel": 3,
         "maxXPLevel": 999,
+        "fileName": null,
+        "exportName": null
+    },
+    {
+        "name": 42,
+        "tID": "Your Total trophy count is a combination of all your Brawlers' individual trophies.",
+        "minXPLevel": 7,
+        "maxXPLevel": 999,
+        "fileName": null,
+        "exportName": null
+    },
+    {
+        "name": 43,
+        "tID": "When not attacking or taking damage for a while, your Brawler starts to heal up.",
+        "minXPLevel": 1,
+        "maxXPLevel": 40,
         "fileName": null,
         "exportName": null
     }

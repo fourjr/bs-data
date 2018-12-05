@@ -106,5 +106,35 @@
         "fileName": "characters.sc",
         "exportName": "penny_face",
         "id": 47
+    },
+    {
+        "name": "LeonIdle",
+        "fileName": "characters.sc",
+        "exportName": "leon_idle",
+        "id": 48
+    },
+    {
+        "name": "LeonWin",
+        "fileName": "characters.sc",
+        "exportName": "leon_win",
+        "id": 49
+    },
+    {
+        "name": "LeonWinLoop",
+        "fileName": "characters.sc",
+        "exportName": "leon_winloop",
+        "id": 50
+    },
+    {
+        "name": "LeonLose",
+        "fileName": "characters.sc",
+        "exportName": "leon_lose",
+        "id": 51
+    },
+    {
+        "name": "LeonLoseLoop",
+        "fileName": "characters.sc",
+        "exportName": "leon_loseloop",
+        "id": 52
     }
 ]

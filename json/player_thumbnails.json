@@ -405,5 +405,16 @@
         "iconExportName": "player_icon_frank",
         "sortOrder": 32,
         "id": 64
+    },
+    {
+        "name": "hero22",
+        "requiredExpLevel": 0,
+        "requiredTotalTrophies": 0,
+        "requiredSeasonPoints": null,
+        "requiredHero": "Ninja",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "player_icon_leon",
+        "sortOrder": 37,
+        "id": 65
     }
 ]
