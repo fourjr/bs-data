@@ -468,32 +468,6 @@
         "id": 24
     },
     {
-        "name": null,
-        "loop": null,
-        "followParent": null,
-        "followBone": null,
-        "ownScreenShake": null,
-        "othersScreenShake": null,
-        "time": null,
-        "sound": null,
-        "type": "ParticleEmitter",
-        "fileName": null,
-        "exportName": null,
-        "particleEmitterName": "gen_hitfx_dot_blue_emitter",
-        "effect": null,
-        "layer": "Above",
-        "groundBasis": null,
-        "flashColor": null,
-        "scale": null,
-        "flashDuration": null,
-        "textInstanceName": null,
-        "textParentInstanceName": null,
-        "enemyVersion": null,
-        "flashWidth": null,
-        "effectZ": null,
-        "id": 25
-    },
-    {
         "name": "Electricity_hit_red",
         "loop": null,
         "followParent": null,
@@ -517,7 +491,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 26
+        "id": 25
     },
     {
         "name": null,
@@ -543,33 +517,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 27
-    },
-    {
-        "name": null,
-        "loop": null,
-        "followParent": null,
-        "followBone": null,
-        "ownScreenShake": null,
-        "othersScreenShake": null,
-        "time": null,
-        "sound": null,
-        "type": "ParticleEmitter",
-        "fileName": null,
-        "exportName": null,
-        "particleEmitterName": "gen_hitfx_dot_blue_emitter",
-        "effect": null,
-        "layer": "Above",
-        "groundBasis": null,
-        "flashColor": null,
-        "scale": null,
-        "flashDuration": null,
-        "textInstanceName": null,
-        "textParentInstanceName": null,
-        "enemyVersion": null,
-        "flashWidth": null,
-        "effectZ": null,
-        "id": 28
+        "id": 26
     },
     {
         "name": "Electricity_hit",
@@ -595,7 +543,7 @@
         "enemyVersion": "Electricity_hit_red",
         "flashWidth": null,
         "effectZ": null,
-        "id": 29
+        "id": 27
     },
     {
         "name": null,
@@ -621,33 +569,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 30
-    },
-    {
-        "name": null,
-        "loop": null,
-        "followParent": null,
-        "followBone": null,
-        "ownScreenShake": null,
-        "othersScreenShake": null,
-        "time": null,
-        "sound": null,
-        "type": "ParticleEmitter",
-        "fileName": null,
-        "exportName": null,
-        "particleEmitterName": "gen_hitfx_dot_blue_emitter",
-        "effect": null,
-        "layer": "Above",
-        "groundBasis": null,
-        "flashColor": null,
-        "scale": null,
-        "flashDuration": null,
-        "textInstanceName": null,
-        "textParentInstanceName": null,
-        "enemyVersion": null,
-        "flashWidth": null,
-        "effectZ": null,
-        "id": 31
+        "id": 28
     },
     {
         "name": "Poison_hit",
@@ -673,7 +595,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 32
+        "id": 29
     },
     {
         "name": null,
@@ -699,7 +621,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 33
+        "id": 30
     },
     {
         "name": null,
@@ -725,7 +647,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 34
+        "id": 31
     },
     {
         "name": null,
@@ -751,7 +673,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 35
+        "id": 32
     },
     {
         "name": "Trash_hit",
@@ -777,7 +699,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 36
+        "id": 33
     },
     {
         "name": null,
@@ -803,7 +725,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 37
+        "id": 34
     },
     {
         "name": "Gen_hit",
@@ -829,7 +751,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 38
+        "id": 35
     },
     {
         "name": null,
@@ -855,33 +777,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 39
-    },
-    {
-        "name": null,
-        "loop": null,
-        "followParent": null,
-        "followBone": null,
-        "ownScreenShake": null,
-        "othersScreenShake": null,
-        "time": null,
-        "sound": null,
-        "type": "ParticleEmitter",
-        "fileName": null,
-        "exportName": null,
-        "particleEmitterName": "gen_hitfx_dot_blue_emitter",
-        "effect": null,
-        "layer": "Above",
-        "groundBasis": null,
-        "flashColor": null,
-        "scale": 200,
-        "flashDuration": null,
-        "textInstanceName": null,
-        "textParentInstanceName": null,
-        "enemyVersion": null,
-        "flashWidth": null,
-        "effectZ": null,
-        "id": 40
+        "id": 36
     },
     {
         "name": "Gen_Trail",
@@ -907,7 +803,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 41
+        "id": 37
     },
     {
         "name": "shotgun_trail_small",
@@ -933,7 +829,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 42
+        "id": 38
     },
     {
         "name": "sparkle_trail_dark_minion",
@@ -959,7 +855,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 43
+        "id": 39
     },
     {
         "name": null,
@@ -985,7 +881,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 44
+        "id": 40
     },
     {
         "name": "sparkle_trail_dark",
@@ -1011,7 +907,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 45
+        "id": 41
     },
     {
         "name": "sparkle_trail",
@@ -1037,7 +933,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 46
+        "id": 42
     },
     {
         "name": "poison_trail",
@@ -1063,7 +959,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 47
+        "id": 43
     },
     {
         "name": "Gen_Trail_dust_darker",
@@ -1089,7 +985,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 48
+        "id": 44
     },
     {
         "name": "Gen_Trail_dust",
@@ -1115,7 +1011,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 49
+        "id": 45
     },
     {
         "name": "Gen_Trail_small",
@@ -1141,7 +1037,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 50
+        "id": 46
     },
     {
         "name": "Gen_Beam_Trail",
@@ -1167,7 +1063,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 51
+        "id": 47
     },
     {
         "name": "Gen_Ground_fx",
@@ -1193,7 +1089,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 52
+        "id": 48
     },
     {
         "name": "Bats",
@@ -1219,7 +1115,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 53
+        "id": 49
     },
     {
         "name": "bear_spawn",
@@ -1245,7 +1141,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 54
+        "id": 50
     },
     {
         "name": null,
@@ -1271,7 +1167,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 55
+        "id": 51
     },
     {
         "name": "magic_Trail",
@@ -1297,7 +1193,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 56
+        "id": 52
     },
     {
         "name": null,
@@ -1323,7 +1219,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 57
+        "id": 53
     },
     {
         "name": "electricity_Trail",
@@ -1349,7 +1245,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 58
+        "id": 54
     },
     {
         "name": null,
@@ -1375,7 +1271,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 59
+        "id": 55
     },
     {
         "name": "Sniper_Trail_special",
@@ -1401,7 +1297,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 60
+        "id": 56
     },
     {
         "name": "Sniper_Trail",
@@ -1427,7 +1323,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 61
+        "id": 57
     },
     {
         "name": "Plasma_Trail",
@@ -1453,7 +1349,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 62
+        "id": 58
     },
     {
         "name": null,
@@ -1479,7 +1375,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 63
+        "id": 59
     },
     {
         "name": "Blink_old",
@@ -1505,7 +1401,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 64
+        "id": 60
     },
     {
         "name": null,
@@ -1531,7 +1427,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 65
+        "id": 61
     },
     {
         "name": null,
@@ -1557,7 +1453,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 66
+        "id": 62
     },
     {
         "name": null,
@@ -1583,7 +1479,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 67
+        "id": 63
     },
     {
         "name": null,
@@ -1609,7 +1505,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 68
+        "id": 64
     },
     {
         "name": "Plasmoid_glow",
@@ -1635,7 +1531,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 69
+        "id": 65
     },
     {
         "name": null,
@@ -1661,7 +1557,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 70
+        "id": 66
     },
     {
         "name": null,
@@ -1687,7 +1583,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 71
+        "id": 67
     },
     {
         "name": "xp_bar_effect",
@@ -1713,7 +1609,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 72
+        "id": 68
     },
     {
         "name": "Healing_old",
@@ -1739,7 +1635,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 73
+        "id": 69
     },
     {
         "name": "Immunity_old",
@@ -1765,7 +1661,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 74
+        "id": 70
     },
     {
         "name": "Blob_fx",
@@ -1791,7 +1687,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 75
+        "id": 71
     },
     {
         "name": "Collect_plasmoid_old",
@@ -1817,7 +1713,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 76
+        "id": 72
     },
     {
         "name": null,
@@ -1843,7 +1739,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 77
+        "id": 73
     },
     {
         "name": null,
@@ -1869,7 +1765,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 78
+        "id": 74
     },
     {
         "name": null,
@@ -1895,7 +1791,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 79
+        "id": 75
     },
     {
         "name": null,
@@ -1921,7 +1817,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 80
+        "id": 76
     },
     {
         "name": "Health_fx",
@@ -1947,7 +1843,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 81
+        "id": 77
     },
     {
         "name": "testfx1",
@@ -1973,7 +1869,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 82
+        "id": 78
     },
     {
         "name": "testfx2",
@@ -1999,7 +1895,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 83
+        "id": 79
     },
     {
         "name": "heal_area_fx",
@@ -2025,7 +1921,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 84
+        "id": 80
     },
     {
         "name": "Collect_plasmoid",
@@ -2051,7 +1947,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 85
+        "id": 81
     },
     {
         "name": null,
@@ -2077,7 +1973,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 86
+        "id": 82
     },
     {
         "name": "Ring_Trail",
@@ -2103,7 +1999,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 87
+        "id": 83
     },
     {
         "name": "Healing",
@@ -2129,7 +2025,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 88
+        "id": 84
     },
     {
         "name": null,
@@ -2155,7 +2051,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 89
+        "id": 85
     },
     {
         "name": "HealingBig",
@@ -2181,7 +2077,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 90
+        "id": 86
     },
     {
         "name": null,
@@ -2207,7 +2103,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 91
+        "id": 87
     },
     {
         "name": "poison_fog",
@@ -2233,7 +2129,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 92
+        "id": 88
     },
     {
         "name": "poison_skull",
@@ -2259,7 +2155,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 93
+        "id": 89
     },
     {
         "name": "death_blackhole",
@@ -2285,7 +2181,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 94
+        "id": 90
     },
     {
         "name": null,
@@ -2311,7 +2207,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 95
+        "id": 91
     },
     {
         "name": "gen_troop_death",
@@ -2337,7 +2233,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 96
+        "id": 92
     },
     {
         "name": null,
@@ -2363,7 +2259,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 97
+        "id": 93
     },
     {
         "name": null,
@@ -2389,7 +2285,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 98
+        "id": 94
     },
     {
         "name": null,
@@ -2415,7 +2311,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 99
+        "id": 95
     },
     {
         "name": null,
@@ -2441,7 +2337,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 100
+        "id": 96
     },
     {
         "name": null,
@@ -2467,10 +2363,114 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 101
+        "id": 97
     },
     {
         "name": "Gen_small_explosion",
+        "loop": null,
+        "followParent": null,
+        "followBone": null,
+        "ownScreenShake": 200,
+        "othersScreenShake": 150,
+        "time": null,
+        "sound": "Sound_Gen_small_explosion",
+        "type": "ParticleEmitter",
+        "fileName": null,
+        "exportName": null,
+        "particleEmitterName": "Small_Dust_emitter",
+        "effect": null,
+        "layer": "Object",
+        "groundBasis": null,
+        "flashColor": null,
+        "scale": 70,
+        "flashDuration": null,
+        "textInstanceName": null,
+        "textParentInstanceName": null,
+        "enemyVersion": null,
+        "flashWidth": null,
+        "effectZ": null,
+        "id": 98
+    },
+    {
+        "name": null,
+        "loop": null,
+        "followParent": null,
+        "followBone": null,
+        "ownScreenShake": null,
+        "othersScreenShake": null,
+        "time": null,
+        "sound": null,
+        "type": "ParticleEmitter",
+        "fileName": null,
+        "exportName": null,
+        "particleEmitterName": "Small_explosion_streaks_emitter",
+        "effect": null,
+        "layer": "Object",
+        "groundBasis": null,
+        "flashColor": null,
+        "scale": 70,
+        "flashDuration": null,
+        "textInstanceName": null,
+        "textParentInstanceName": null,
+        "enemyVersion": null,
+        "flashWidth": null,
+        "effectZ": null,
+        "id": 99
+    },
+    {
+        "name": null,
+        "loop": null,
+        "followParent": null,
+        "followBone": null,
+        "ownScreenShake": null,
+        "othersScreenShake": null,
+        "time": null,
+        "sound": null,
+        "type": "SWF",
+        "fileName": "sc/effects.sc",
+        "exportName": "gen_explosion_ring2",
+        "particleEmitterName": null,
+        "effect": null,
+        "layer": "Object",
+        "groundBasis": true,
+        "flashColor": null,
+        "scale": 70,
+        "flashDuration": null,
+        "textInstanceName": null,
+        "textParentInstanceName": null,
+        "enemyVersion": null,
+        "flashWidth": null,
+        "effectZ": null,
+        "id": 100
+    },
+    {
+        "name": null,
+        "loop": null,
+        "followParent": null,
+        "followBone": null,
+        "ownScreenShake": null,
+        "othersScreenShake": null,
+        "time": null,
+        "sound": null,
+        "type": "ParticleEmitter",
+        "fileName": null,
+        "exportName": null,
+        "particleEmitterName": "Gen_Small_Debris_emitter",
+        "effect": null,
+        "layer": "Above",
+        "groundBasis": null,
+        "flashColor": null,
+        "scale": 70,
+        "flashDuration": null,
+        "textInstanceName": null,
+        "textParentInstanceName": null,
+        "enemyVersion": null,
+        "flashWidth": null,
+        "effectZ": null,
+        "id": 101
+    },
+    {
+        "name": "Gen_small_explosion_2",
         "loop": null,
         "followParent": null,
         "followBone": null,
@@ -2530,110 +2530,6 @@
         "othersScreenShake": null,
         "time": null,
         "sound": null,
-        "type": "SWF",
-        "fileName": "sc/effects.sc",
-        "exportName": "gen_explosion_ring2",
-        "particleEmitterName": null,
-        "effect": null,
-        "layer": "Object",
-        "groundBasis": true,
-        "flashColor": null,
-        "scale": 70,
-        "flashDuration": null,
-        "textInstanceName": null,
-        "textParentInstanceName": null,
-        "enemyVersion": null,
-        "flashWidth": null,
-        "effectZ": null,
-        "id": 104
-    },
-    {
-        "name": null,
-        "loop": null,
-        "followParent": null,
-        "followBone": null,
-        "ownScreenShake": null,
-        "othersScreenShake": null,
-        "time": null,
-        "sound": null,
-        "type": "ParticleEmitter",
-        "fileName": null,
-        "exportName": null,
-        "particleEmitterName": "Gen_Small_Debris_emitter",
-        "effect": null,
-        "layer": "Above",
-        "groundBasis": null,
-        "flashColor": null,
-        "scale": 70,
-        "flashDuration": null,
-        "textInstanceName": null,
-        "textParentInstanceName": null,
-        "enemyVersion": null,
-        "flashWidth": null,
-        "effectZ": null,
-        "id": 105
-    },
-    {
-        "name": "Gen_small_explosion_2",
-        "loop": null,
-        "followParent": null,
-        "followBone": null,
-        "ownScreenShake": 200,
-        "othersScreenShake": 150,
-        "time": null,
-        "sound": "Sound_Gen_small_explosion",
-        "type": "ParticleEmitter",
-        "fileName": null,
-        "exportName": null,
-        "particleEmitterName": "Small_Dust_emitter",
-        "effect": null,
-        "layer": "Object",
-        "groundBasis": null,
-        "flashColor": null,
-        "scale": 70,
-        "flashDuration": null,
-        "textInstanceName": null,
-        "textParentInstanceName": null,
-        "enemyVersion": null,
-        "flashWidth": null,
-        "effectZ": null,
-        "id": 106
-    },
-    {
-        "name": null,
-        "loop": null,
-        "followParent": null,
-        "followBone": null,
-        "ownScreenShake": null,
-        "othersScreenShake": null,
-        "time": null,
-        "sound": null,
-        "type": "ParticleEmitter",
-        "fileName": null,
-        "exportName": null,
-        "particleEmitterName": "Small_explosion_streaks_emitter",
-        "effect": null,
-        "layer": "Object",
-        "groundBasis": null,
-        "flashColor": null,
-        "scale": 70,
-        "flashDuration": null,
-        "textInstanceName": null,
-        "textParentInstanceName": null,
-        "enemyVersion": null,
-        "flashWidth": null,
-        "effectZ": null,
-        "id": 107
-    },
-    {
-        "name": null,
-        "loop": null,
-        "followParent": null,
-        "followBone": null,
-        "ownScreenShake": null,
-        "othersScreenShake": null,
-        "time": null,
-        "sound": null,
         "type": "ParticleEmitter",
         "fileName": null,
         "exportName": null,
@@ -2649,7 +2545,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 108
+        "id": 104
     },
     {
         "name": null,
@@ -2675,7 +2571,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 109
+        "id": 105
     },
     {
         "name": null,
@@ -2701,7 +2597,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 110
+        "id": 106
     },
     {
         "name": "bandit_reload",
@@ -2727,7 +2623,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 111
+        "id": 107
     },
     {
         "name": "laser_attack",
@@ -2753,7 +2649,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 112
+        "id": 108
     },
     {
         "name": null,
@@ -2779,7 +2675,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 113
+        "id": 109
     },
     {
         "name": "tgrenade_attack",
@@ -2805,7 +2701,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 114
+        "id": 110
     },
     {
         "name": null,
@@ -2831,7 +2727,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 115
+        "id": 111
     },
     {
         "name": "grenade_attack",
@@ -2857,7 +2753,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 116
+        "id": 112
     },
     {
         "name": "Spawn_plasmoid",
@@ -2883,7 +2779,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 117
+        "id": 113
     },
     {
         "name": "sniper_hit",
@@ -2909,7 +2805,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 118
+        "id": 114
     },
     {
         "name": "Mariachi_hit_red",
@@ -2935,7 +2831,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 119
+        "id": 115
     },
     {
         "name": "Mariachi_hit",
@@ -2961,7 +2857,7 @@
         "enemyVersion": "Mariachi_hit_red",
         "flashWidth": null,
         "effectZ": null,
-        "id": 120
+        "id": 116
     },
     {
         "name": "Poco_Trail_special",
@@ -2987,7 +2883,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 121
+        "id": 117
     },
     {
         "name": "Mariachi_soundwaves_trail",
@@ -3013,7 +2909,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 122
+        "id": 118
     },
     {
         "name": null,
@@ -3039,7 +2935,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 123
+        "id": 119
     },
     {
         "name": "nuts_bolts_metal_small",
@@ -3065,7 +2961,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 124
+        "id": 120
     },
     {
         "name": null,
@@ -3091,7 +2987,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 125
+        "id": 121
     },
     {
         "name": "nuts_bolts_metal_explosion",
@@ -3117,7 +3013,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 126
+        "id": 122
     },
     {
         "name": null,
@@ -3143,7 +3039,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 127
+        "id": 123
     },
     {
         "name": null,
@@ -3169,7 +3065,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 128
+        "id": 124
     },
     {
         "name": "Mariachi_ulti_trail",
@@ -3195,7 +3091,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 129
+        "id": 125
     },
     {
         "name": null,
@@ -3221,7 +3117,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 130
+        "id": 126
     },
     {
         "name": null,
@@ -3247,7 +3143,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 131
+        "id": 127
     },
     {
         "name": null,
@@ -3273,7 +3169,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 132
+        "id": 128
     },
     {
         "name": "safe_explosion",
@@ -3299,7 +3195,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 133
+        "id": 129
     },
     {
         "name": null,
@@ -3325,7 +3221,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 134
+        "id": 130
     },
     {
         "name": null,
@@ -3351,7 +3247,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 135
+        "id": 131
     },
     {
         "name": null,
@@ -3377,7 +3273,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 136
+        "id": 132
     },
     {
         "name": "Shaman_trail",
@@ -3397,6 +3293,110 @@
         "groundBasis": true,
         "flashColor": null,
         "scale": 50,
+        "flashDuration": null,
+        "textInstanceName": null,
+        "textParentInstanceName": null,
+        "enemyVersion": null,
+        "flashWidth": null,
+        "effectZ": null,
+        "id": 133
+    },
+    {
+        "name": null,
+        "loop": null,
+        "followParent": null,
+        "followBone": null,
+        "ownScreenShake": null,
+        "othersScreenShake": null,
+        "time": null,
+        "sound": null,
+        "type": "ParticleEmitter",
+        "fileName": null,
+        "exportName": null,
+        "particleEmitterName": "magic_native_particle",
+        "effect": null,
+        "layer": "Above",
+        "groundBasis": null,
+        "flashColor": null,
+        "scale": null,
+        "flashDuration": null,
+        "textInstanceName": null,
+        "textParentInstanceName": null,
+        "enemyVersion": null,
+        "flashWidth": null,
+        "effectZ": null,
+        "id": 134
+    },
+    {
+        "name": null,
+        "loop": null,
+        "followParent": null,
+        "followBone": null,
+        "ownScreenShake": null,
+        "othersScreenShake": null,
+        "time": null,
+        "sound": null,
+        "type": "ParticleEmitter",
+        "fileName": null,
+        "exportName": null,
+        "particleEmitterName": "Hammer_trail_rocks_big",
+        "effect": null,
+        "layer": "Above",
+        "groundBasis": null,
+        "flashColor": null,
+        "scale": null,
+        "flashDuration": null,
+        "textInstanceName": null,
+        "textParentInstanceName": null,
+        "enemyVersion": null,
+        "flashWidth": null,
+        "effectZ": null,
+        "id": 135
+    },
+    {
+        "name": null,
+        "loop": null,
+        "followParent": null,
+        "followBone": null,
+        "ownScreenShake": null,
+        "othersScreenShake": null,
+        "time": null,
+        "sound": null,
+        "type": "ParticleEmitter",
+        "fileName": null,
+        "exportName": null,
+        "particleEmitterName": "Hammer_trail_rocks",
+        "effect": null,
+        "layer": "Above",
+        "groundBasis": null,
+        "flashColor": null,
+        "scale": null,
+        "flashDuration": null,
+        "textInstanceName": null,
+        "textParentInstanceName": null,
+        "enemyVersion": null,
+        "flashWidth": null,
+        "effectZ": null,
+        "id": 136
+    },
+    {
+        "name": null,
+        "loop": null,
+        "followParent": null,
+        "followBone": null,
+        "ownScreenShake": null,
+        "othersScreenShake": null,
+        "time": null,
+        "sound": null,
+        "type": "ParticleEmitter",
+        "fileName": null,
+        "exportName": null,
+        "particleEmitterName": "Hammer_trail_dust",
+        "effect": null,
+        "layer": "Above",
+        "groundBasis": null,
+        "flashColor": null,
+        "scale": null,
         "flashDuration": null,
         "textInstanceName": null,
         "textParentInstanceName": null,
@@ -3432,9 +3432,9 @@
         "id": 138
     },
     {
-        "name": null,
-        "loop": null,
-        "followParent": null,
+        "name": "Hammer_trail",
+        "loop": true,
+        "followParent": true,
         "followBone": null,
         "ownScreenShake": null,
         "othersScreenShake": null,
@@ -3443,12 +3443,12 @@
         "type": "ParticleEmitter",
         "fileName": null,
         "exportName": null,
-        "particleEmitterName": "Hammer_trail_rocks_big",
+        "particleEmitterName": "Hammer_trail_particle",
         "effect": null,
-        "layer": "Above",
-        "groundBasis": null,
+        "layer": "Ground",
+        "groundBasis": true,
         "flashColor": null,
-        "scale": null,
+        "scale": 50,
         "flashDuration": null,
         "textInstanceName": null,
         "textParentInstanceName": null,
@@ -3469,7 +3469,7 @@
         "type": "ParticleEmitter",
         "fileName": null,
         "exportName": null,
-        "particleEmitterName": "Hammer_trail_rocks",
+        "particleEmitterName": "Hammer_trail_rocks_big",
         "effect": null,
         "layer": "Above",
         "groundBasis": null,
@@ -3495,7 +3495,7 @@
         "type": "ParticleEmitter",
         "fileName": null,
         "exportName": null,
-        "particleEmitterName": "Hammer_trail_dust",
+        "particleEmitterName": "Hammer_trail_rocks",
         "effect": null,
         "layer": "Above",
         "groundBasis": null,
@@ -3521,110 +3521,6 @@
         "type": "ParticleEmitter",
         "fileName": null,
         "exportName": null,
-        "particleEmitterName": "magic_native_particle",
-        "effect": null,
-        "layer": "Above",
-        "groundBasis": null,
-        "flashColor": null,
-        "scale": null,
-        "flashDuration": null,
-        "textInstanceName": null,
-        "textParentInstanceName": null,
-        "enemyVersion": null,
-        "flashWidth": null,
-        "effectZ": null,
-        "id": 142
-    },
-    {
-        "name": "Hammer_trail",
-        "loop": true,
-        "followParent": true,
-        "followBone": null,
-        "ownScreenShake": null,
-        "othersScreenShake": null,
-        "time": null,
-        "sound": null,
-        "type": "ParticleEmitter",
-        "fileName": null,
-        "exportName": null,
-        "particleEmitterName": "Hammer_trail_particle",
-        "effect": null,
-        "layer": "Ground",
-        "groundBasis": true,
-        "flashColor": null,
-        "scale": 50,
-        "flashDuration": null,
-        "textInstanceName": null,
-        "textParentInstanceName": null,
-        "enemyVersion": null,
-        "flashWidth": null,
-        "effectZ": null,
-        "id": 143
-    },
-    {
-        "name": null,
-        "loop": null,
-        "followParent": null,
-        "followBone": null,
-        "ownScreenShake": null,
-        "othersScreenShake": null,
-        "time": null,
-        "sound": null,
-        "type": "ParticleEmitter",
-        "fileName": null,
-        "exportName": null,
-        "particleEmitterName": "Hammer_trail_rocks_big",
-        "effect": null,
-        "layer": "Above",
-        "groundBasis": null,
-        "flashColor": null,
-        "scale": null,
-        "flashDuration": null,
-        "textInstanceName": null,
-        "textParentInstanceName": null,
-        "enemyVersion": null,
-        "flashWidth": null,
-        "effectZ": null,
-        "id": 144
-    },
-    {
-        "name": null,
-        "loop": null,
-        "followParent": null,
-        "followBone": null,
-        "ownScreenShake": null,
-        "othersScreenShake": null,
-        "time": null,
-        "sound": null,
-        "type": "ParticleEmitter",
-        "fileName": null,
-        "exportName": null,
-        "particleEmitterName": "Hammer_trail_rocks",
-        "effect": null,
-        "layer": "Above",
-        "groundBasis": null,
-        "flashColor": null,
-        "scale": null,
-        "flashDuration": null,
-        "textInstanceName": null,
-        "textParentInstanceName": null,
-        "enemyVersion": null,
-        "flashWidth": null,
-        "effectZ": null,
-        "id": 145
-    },
-    {
-        "name": null,
-        "loop": null,
-        "followParent": null,
-        "followBone": null,
-        "ownScreenShake": null,
-        "othersScreenShake": null,
-        "time": null,
-        "sound": null,
-        "type": "ParticleEmitter",
-        "fileName": null,
-        "exportName": null,
         "particleEmitterName": "Hammer_trail_dust",
         "effect": null,
         "layer": "Above",
@@ -3637,7 +3533,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 146
+        "id": 142
     },
     {
         "name": "Purple_Trail",
@@ -3663,7 +3559,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 147
+        "id": 143
     },
     {
         "name": "Gen_dust_puff",
@@ -3689,7 +3585,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 148
+        "id": 144
     },
     {
         "name": "Gen_move_fx",
@@ -3715,7 +3611,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 149
+        "id": 145
     },
     {
         "name": "Gen_alien_move_fx",
@@ -3741,7 +3637,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 150
+        "id": 146
     },
     {
         "name": "Tap_direction",
@@ -3767,7 +3663,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 151
+        "id": 147
     },
     {
         "name": "Blink_red",
@@ -3793,7 +3689,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 152
+        "id": 148
     },
     {
         "name": null,
@@ -3819,7 +3715,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 153
+        "id": 149
     },
     {
         "name": "Blink",
@@ -3845,7 +3741,7 @@
         "enemyVersion": "Blink_red",
         "flashWidth": null,
         "effectZ": null,
-        "id": 154
+        "id": 150
     },
     {
         "name": null,
@@ -3871,7 +3767,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 155
+        "id": 151
     },
     {
         "name": "Immunity_red",
@@ -3897,7 +3793,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 156
+        "id": 152
     },
     {
         "name": null,
@@ -3923,7 +3819,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 157
+        "id": 153
     },
     {
         "name": "Immunity",
@@ -3949,7 +3845,7 @@
         "enemyVersion": "Immunity_red",
         "flashWidth": null,
         "effectZ": null,
-        "id": 158
+        "id": 154
     },
     {
         "name": "poison_trail_old",
@@ -3975,7 +3871,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 159
+        "id": 155
     },
     {
         "name": null,
@@ -4001,7 +3897,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 160
+        "id": 156
     },
     {
         "name": "Chop_atk",
@@ -4027,7 +3923,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 161
+        "id": 157
     },
     {
         "name": "Hazzard_atk",
@@ -4053,7 +3949,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 162
+        "id": 158
     },
     {
         "name": "Deadeye_atk",
@@ -4079,7 +3975,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 163
+        "id": 159
     },
     {
         "name": "Gen_Grenade",
@@ -4105,7 +4001,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 164
+        "id": 160
     },
     {
         "name": "UltiReady",
@@ -4131,7 +4027,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 165
+        "id": 161
     },
     {
         "name": "UltiGain",
@@ -4157,7 +4053,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 166
+        "id": 162
     },
     {
         "name": "Grass_wind_fx",
@@ -4183,7 +4079,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 167
+        "id": 163
     },
     {
         "name": "Box_hit_fx",
@@ -4209,7 +4105,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 168
+        "id": 164
     },
     {
         "name": "mine_Grass_hit_fx",
@@ -4235,7 +4131,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 169
+        "id": 165
     },
     {
         "name": "Grass_hit_fx_yellow",
@@ -4261,7 +4157,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 170
+        "id": 166
     },
     {
         "name": "Grass_hit_fx",
@@ -4287,7 +4183,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 171
+        "id": 167
     },
     {
         "name": "grassfield_Grass_hit_fx",
@@ -4313,7 +4209,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 172
+        "id": 168
     },
     {
         "name": "oasis_Grass_hit_fx",
@@ -4339,10 +4235,114 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 173
+        "id": 169
     },
     {
         "name": "mine_Grass_explo_fx",
+        "loop": null,
+        "followParent": null,
+        "followBone": null,
+        "ownScreenShake": null,
+        "othersScreenShake": null,
+        "time": null,
+        "sound": null,
+        "type": "ParticleEmitter",
+        "fileName": null,
+        "exportName": null,
+        "particleEmitterName": "Explo_dust",
+        "effect": null,
+        "layer": "Object",
+        "groundBasis": null,
+        "flashColor": null,
+        "scale": 120,
+        "flashDuration": null,
+        "textInstanceName": null,
+        "textParentInstanceName": null,
+        "enemyVersion": null,
+        "flashWidth": null,
+        "effectZ": null,
+        "id": 170
+    },
+    {
+        "name": null,
+        "loop": null,
+        "followParent": null,
+        "followBone": null,
+        "ownScreenShake": null,
+        "othersScreenShake": null,
+        "time": null,
+        "sound": null,
+        "type": "ParticleEmitter",
+        "fileName": null,
+        "exportName": null,
+        "particleEmitterName": "Grass_hit_big_mine",
+        "effect": null,
+        "layer": "Object",
+        "groundBasis": null,
+        "flashColor": null,
+        "scale": null,
+        "flashDuration": null,
+        "textInstanceName": null,
+        "textParentInstanceName": null,
+        "enemyVersion": null,
+        "flashWidth": null,
+        "effectZ": null,
+        "id": 171
+    },
+    {
+        "name": "Grass_explo_fx_yellow",
+        "loop": null,
+        "followParent": null,
+        "followBone": null,
+        "ownScreenShake": null,
+        "othersScreenShake": null,
+        "time": null,
+        "sound": null,
+        "type": "ParticleEmitter",
+        "fileName": null,
+        "exportName": null,
+        "particleEmitterName": "Explo_dust",
+        "effect": null,
+        "layer": "Object",
+        "groundBasis": null,
+        "flashColor": null,
+        "scale": 120,
+        "flashDuration": null,
+        "textInstanceName": null,
+        "textParentInstanceName": null,
+        "enemyVersion": null,
+        "flashWidth": null,
+        "effectZ": null,
+        "id": 172
+    },
+    {
+        "name": null,
+        "loop": null,
+        "followParent": null,
+        "followBone": null,
+        "ownScreenShake": null,
+        "othersScreenShake": null,
+        "time": null,
+        "sound": null,
+        "type": "ParticleEmitter",
+        "fileName": null,
+        "exportName": null,
+        "particleEmitterName": "Grass_hit_big_yellow",
+        "effect": null,
+        "layer": "Object",
+        "groundBasis": null,
+        "flashColor": null,
+        "scale": null,
+        "flashDuration": null,
+        "textInstanceName": null,
+        "textParentInstanceName": null,
+        "enemyVersion": null,
+        "flashWidth": null,
+        "effectZ": null,
+        "id": 173
+    },
+    {
+        "name": "grassfield_Grass_explo_fx",
         "loop": null,
         "followParent": null,
         "followBone": null,
@@ -4379,110 +4379,6 @@
         "type": "ParticleEmitter",
         "fileName": null,
         "exportName": null,
-        "particleEmitterName": "Grass_hit_big_mine",
-        "effect": null,
-        "layer": "Object",
-        "groundBasis": null,
-        "flashColor": null,
-        "scale": null,
-        "flashDuration": null,
-        "textInstanceName": null,
-        "textParentInstanceName": null,
-        "enemyVersion": null,
-        "flashWidth": null,
-        "effectZ": null,
-        "id": 175
-    },
-    {
-        "name": "Grass_explo_fx_yellow",
-        "loop": null,
-        "followParent": null,
-        "followBone": null,
-        "ownScreenShake": null,
-        "othersScreenShake": null,
-        "time": null,
-        "sound": null,
-        "type": "ParticleEmitter",
-        "fileName": null,
-        "exportName": null,
-        "particleEmitterName": "Explo_dust",
-        "effect": null,
-        "layer": "Object",
-        "groundBasis": null,
-        "flashColor": null,
-        "scale": 120,
-        "flashDuration": null,
-        "textInstanceName": null,
-        "textParentInstanceName": null,
-        "enemyVersion": null,
-        "flashWidth": null,
-        "effectZ": null,
-        "id": 176
-    },
-    {
-        "name": null,
-        "loop": null,
-        "followParent": null,
-        "followBone": null,
-        "ownScreenShake": null,
-        "othersScreenShake": null,
-        "time": null,
-        "sound": null,
-        "type": "ParticleEmitter",
-        "fileName": null,
-        "exportName": null,
-        "particleEmitterName": "Grass_hit_big_yellow",
-        "effect": null,
-        "layer": "Object",
-        "groundBasis": null,
-        "flashColor": null,
-        "scale": null,
-        "flashDuration": null,
-        "textInstanceName": null,
-        "textParentInstanceName": null,
-        "enemyVersion": null,
-        "flashWidth": null,
-        "effectZ": null,
-        "id": 177
-    },
-    {
-        "name": "grassfield_Grass_explo_fx",
-        "loop": null,
-        "followParent": null,
-        "followBone": null,
-        "ownScreenShake": null,
-        "othersScreenShake": null,
-        "time": null,
-        "sound": null,
-        "type": "ParticleEmitter",
-        "fileName": null,
-        "exportName": null,
-        "particleEmitterName": "Explo_dust",
-        "effect": null,
-        "layer": "Object",
-        "groundBasis": null,
-        "flashColor": null,
-        "scale": 120,
-        "flashDuration": null,
-        "textInstanceName": null,
-        "textParentInstanceName": null,
-        "enemyVersion": null,
-        "flashWidth": null,
-        "effectZ": null,
-        "id": 178
-    },
-    {
-        "name": null,
-        "loop": null,
-        "followParent": null,
-        "followBone": null,
-        "ownScreenShake": null,
-        "othersScreenShake": null,
-        "time": null,
-        "sound": null,
-        "type": "ParticleEmitter",
-        "fileName": null,
-        "exportName": null,
         "particleEmitterName": "Grass_hit_big",
         "effect": null,
         "layer": "Object",
@@ -4495,7 +4391,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 179
+        "id": 175
     },
     {
         "name": null,
@@ -4521,7 +4417,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 180
+        "id": 176
     },
     {
         "name": "oasis_Grass_explo_fx",
@@ -4547,7 +4443,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 181
+        "id": 177
     },
     {
         "name": null,
@@ -4573,7 +4469,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 182
+        "id": 178
     },
     {
         "name": null,
@@ -4599,7 +4495,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 183
+        "id": 179
     },
     {
         "name": "Grass_explo_fx",
@@ -4625,7 +4521,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 184
+        "id": 180
     },
     {
         "name": null,
@@ -4651,7 +4547,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 185
+        "id": 181
     },
     {
         "name": "mine_Rock_hit_fx",
@@ -4677,7 +4573,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 186
+        "id": 182
     },
     {
         "name": "mine_blocking2_hit",
@@ -4703,7 +4599,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 187
+        "id": 183
     },
     {
         "name": "blocking2_hit",
@@ -4729,7 +4625,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 188
+        "id": 184
     },
     {
         "name": "Rock_hit_fx",
@@ -4755,7 +4651,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 189
+        "id": 185
     },
     {
         "name": "mine_blocking2_explosion",
@@ -4781,7 +4677,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 190
+        "id": 186
     },
     {
         "name": "blocking2_explosion",
@@ -4807,7 +4703,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 191
+        "id": 187
     },
     {
         "name": "Gen_wood_explosion",
@@ -4833,7 +4729,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 192
+        "id": 188
     },
     {
         "name": null,
@@ -4859,7 +4755,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 193
+        "id": 189
     },
     {
         "name": null,
@@ -4885,7 +4781,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 194
+        "id": 190
     },
     {
         "name": null,
@@ -4911,7 +4807,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 195
+        "id": 191
     },
     {
         "name": null,
@@ -4937,7 +4833,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 196
+        "id": 192
     },
     {
         "name": null,
@@ -4963,7 +4859,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 197
+        "id": 193
     },
     {
         "name": "mine_Rock_explo_fx",
@@ -4989,7 +4885,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 198
+        "id": 194
     },
     {
         "name": null,
@@ -5015,7 +4911,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 199
+        "id": 195
     },
     {
         "name": null,
@@ -5041,7 +4937,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 200
+        "id": 196
     },
     {
         "name": null,
@@ -5067,7 +4963,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 201
+        "id": 197
     },
     {
         "name": "oasis_fragile_explo_debris",
@@ -5093,7 +4989,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 202
+        "id": 198
     },
     {
         "name": null,
@@ -5119,7 +5015,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 203
+        "id": 199
     },
     {
         "name": null,
@@ -5145,7 +5041,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 204
+        "id": 200
     },
     {
         "name": "fragile_explo_debris",
@@ -5160,6 +5056,110 @@
         "fileName": "sc/effects.sc",
         "exportName": null,
         "particleEmitterName": "fragile_explo_debris",
+        "effect": null,
+        "layer": "Object",
+        "groundBasis": null,
+        "flashColor": null,
+        "scale": 100,
+        "flashDuration": null,
+        "textInstanceName": null,
+        "textParentInstanceName": null,
+        "enemyVersion": null,
+        "flashWidth": null,
+        "effectZ": null,
+        "id": 201
+    },
+    {
+        "name": null,
+        "loop": null,
+        "followParent": null,
+        "followBone": null,
+        "ownScreenShake": null,
+        "othersScreenShake": null,
+        "time": null,
+        "sound": null,
+        "type": "ParticleEmitter",
+        "fileName": "sc/effects.sc",
+        "exportName": null,
+        "particleEmitterName": "Explo_dust",
+        "effect": null,
+        "layer": "Above",
+        "groundBasis": null,
+        "flashColor": null,
+        "scale": 100,
+        "flashDuration": null,
+        "textInstanceName": null,
+        "textParentInstanceName": null,
+        "enemyVersion": null,
+        "flashWidth": null,
+        "effectZ": null,
+        "id": 202
+    },
+    {
+        "name": null,
+        "loop": null,
+        "followParent": null,
+        "followBone": null,
+        "ownScreenShake": null,
+        "othersScreenShake": null,
+        "time": null,
+        "sound": null,
+        "type": "ParticleEmitter",
+        "fileName": "sc/effects.sc",
+        "exportName": null,
+        "particleEmitterName": "ground_explosion_small",
+        "effect": null,
+        "layer": "Ground",
+        "groundBasis": true,
+        "flashColor": null,
+        "scale": 50,
+        "flashDuration": null,
+        "textInstanceName": null,
+        "textParentInstanceName": null,
+        "enemyVersion": null,
+        "flashWidth": null,
+        "effectZ": null,
+        "id": 203
+    },
+    {
+        "name": "Rock_explo_fx",
+        "loop": null,
+        "followParent": null,
+        "followBone": null,
+        "ownScreenShake": 300,
+        "othersScreenShake": 300,
+        "time": null,
+        "sound": null,
+        "type": "ParticleEmitter",
+        "fileName": "sc/effects.sc",
+        "exportName": null,
+        "particleEmitterName": "Rock_explo_debris1",
+        "effect": null,
+        "layer": "Object",
+        "groundBasis": null,
+        "flashColor": null,
+        "scale": 100,
+        "flashDuration": null,
+        "textInstanceName": null,
+        "textParentInstanceName": null,
+        "enemyVersion": null,
+        "flashWidth": null,
+        "effectZ": null,
+        "id": 204
+    },
+    {
+        "name": null,
+        "loop": null,
+        "followParent": null,
+        "followBone": null,
+        "ownScreenShake": null,
+        "othersScreenShake": null,
+        "time": null,
+        "sound": null,
+        "type": "ParticleEmitter",
+        "fileName": "sc/effects.sc",
+        "exportName": null,
+        "particleEmitterName": "Rock_explo_debris2",
         "effect": null,
         "layer": "Object",
         "groundBasis": null,
@@ -5226,110 +5226,6 @@
         "id": 207
     },
     {
-        "name": "Rock_explo_fx",
-        "loop": null,
-        "followParent": null,
-        "followBone": null,
-        "ownScreenShake": 300,
-        "othersScreenShake": 300,
-        "time": null,
-        "sound": null,
-        "type": "ParticleEmitter",
-        "fileName": "sc/effects.sc",
-        "exportName": null,
-        "particleEmitterName": "Rock_explo_debris1",
-        "effect": null,
-        "layer": "Object",
-        "groundBasis": null,
-        "flashColor": null,
-        "scale": 100,
-        "flashDuration": null,
-        "textInstanceName": null,
-        "textParentInstanceName": null,
-        "enemyVersion": null,
-        "flashWidth": null,
-        "effectZ": null,
-        "id": 208
-    },
-    {
-        "name": null,
-        "loop": null,
-        "followParent": null,
-        "followBone": null,
-        "ownScreenShake": null,
-        "othersScreenShake": null,
-        "time": null,
-        "sound": null,
-        "type": "ParticleEmitter",
-        "fileName": "sc/effects.sc",
-        "exportName": null,
-        "particleEmitterName": "Rock_explo_debris2",
-        "effect": null,
-        "layer": "Object",
-        "groundBasis": null,
-        "flashColor": null,
-        "scale": 100,
-        "flashDuration": null,
-        "textInstanceName": null,
-        "textParentInstanceName": null,
-        "enemyVersion": null,
-        "flashWidth": null,
-        "effectZ": null,
-        "id": 209
-    },
-    {
-        "name": null,
-        "loop": null,
-        "followParent": null,
-        "followBone": null,
-        "ownScreenShake": null,
-        "othersScreenShake": null,
-        "time": null,
-        "sound": null,
-        "type": "ParticleEmitter",
-        "fileName": "sc/effects.sc",
-        "exportName": null,
-        "particleEmitterName": "Explo_dust",
-        "effect": null,
-        "layer": "Above",
-        "groundBasis": null,
-        "flashColor": null,
-        "scale": 100,
-        "flashDuration": null,
-        "textInstanceName": null,
-        "textParentInstanceName": null,
-        "enemyVersion": null,
-        "flashWidth": null,
-        "effectZ": null,
-        "id": 210
-    },
-    {
-        "name": null,
-        "loop": null,
-        "followParent": null,
-        "followBone": null,
-        "ownScreenShake": null,
-        "othersScreenShake": null,
-        "time": null,
-        "sound": null,
-        "type": "ParticleEmitter",
-        "fileName": "sc/effects.sc",
-        "exportName": null,
-        "particleEmitterName": "ground_explosion_small",
-        "effect": null,
-        "layer": "Ground",
-        "groundBasis": true,
-        "flashColor": null,
-        "scale": 50,
-        "flashDuration": null,
-        "textInstanceName": null,
-        "textParentInstanceName": null,
-        "enemyVersion": null,
-        "flashWidth": null,
-        "effectZ": null,
-        "id": 211
-    },
-    {
         "name": "StartCharge",
         "loop": null,
         "followParent": true,
@@ -5353,7 +5249,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 212
+        "id": 208
     },
     {
         "name": "StartBuildTurretUlti",
@@ -5379,7 +5275,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 213
+        "id": 209
     },
     {
         "name": "Bullet_bounce_enemy",
@@ -5405,7 +5301,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 214
+        "id": 210
     },
     {
         "name": "Bullet_bounce",
@@ -5431,7 +5327,7 @@
         "enemyVersion": "Bullet_bounce_enemy",
         "flashWidth": null,
         "effectZ": null,
-        "id": 215
+        "id": 211
     },
     {
         "name": "lucha_smoke_Trail",
@@ -5457,7 +5353,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 216
+        "id": 212
     },
     {
         "name": "Smoke_Trail",
@@ -5483,7 +5379,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 217
+        "id": 213
     },
     {
         "name": "Lucha_Specialt_Smoke",
@@ -5509,7 +5405,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 218
+        "id": 214
     },
     {
         "name": "Rocket_Trail",
@@ -5535,7 +5431,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 219
+        "id": 215
     },
     {
         "name": null,
@@ -5561,7 +5457,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 220
+        "id": 216
     },
     {
         "name": "SpawnTurret",
@@ -5587,7 +5483,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 221
+        "id": 217
     },
     {
         "name": "gunslinger_attack",
@@ -5613,7 +5509,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 222
+        "id": 218
     },
     {
         "name": null,
@@ -5639,7 +5535,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 223
+        "id": 219
     },
     {
         "name": null,
@@ -5665,7 +5561,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 224
+        "id": 220
     },
     {
         "name": null,
@@ -5691,7 +5587,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 225
+        "id": 221
     },
     {
         "name": null,
@@ -5717,7 +5613,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 226
+        "id": 222
     },
     {
         "name": "gunslinger_attack_ulti",
@@ -5743,7 +5639,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 227
+        "id": 223
     },
     {
         "name": null,
@@ -5769,7 +5665,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 228
+        "id": 224
     },
     {
         "name": null,
@@ -5795,7 +5691,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 229
+        "id": 225
     },
     {
         "name": null,
@@ -5821,7 +5717,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 230
+        "id": 226
     },
     {
         "name": null,
@@ -5847,7 +5743,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 231
+        "id": 227
     },
     {
         "name": "shotgun_girl_attack",
@@ -5873,7 +5769,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 232
+        "id": 228
     },
     {
         "name": null,
@@ -5899,7 +5795,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 233
+        "id": 229
     },
     {
         "name": null,
@@ -5925,7 +5821,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 234
+        "id": 230
     },
     {
         "name": null,
@@ -5951,7 +5847,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 235
+        "id": 231
     },
     {
         "name": null,
@@ -5977,7 +5873,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 236
+        "id": 232
     },
     {
         "name": "shotgun_girl_attack_ulti",
@@ -6003,7 +5899,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 237
+        "id": 233
     },
     {
         "name": null,
@@ -6029,7 +5925,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 238
+        "id": 234
     },
     {
         "name": null,
@@ -6055,7 +5951,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 239
+        "id": 235
     },
     {
         "name": "No_ammo_shotgungirl",
@@ -6081,7 +5977,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 240
+        "id": 236
     },
     {
         "name": "Dry_fire_shotgungirl",
@@ -6107,7 +6003,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 241
+        "id": 237
     },
     {
         "name": "Dry_fire_leon",
@@ -6133,7 +6029,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 242
+        "id": 238
     },
     {
         "name": "dry_fire_bowdude",
@@ -6159,7 +6055,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 243
+        "id": 239
     },
     {
         "name": "dry_fire_mechanic",
@@ -6185,7 +6081,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 244
+        "id": 240
     },
     {
         "name": "crow_dryfire",
@@ -6211,7 +6107,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 245
+        "id": 241
     },
     {
         "name": "Brock_dryfire",
@@ -6237,7 +6133,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 246
+        "id": 242
     },
     {
         "name": "dry_fire_barkeep",
@@ -6263,7 +6159,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 247
+        "id": 243
     },
     {
         "name": "Minig_dryfire",
@@ -6289,7 +6185,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 248
+        "id": 244
     },
     {
         "name": "Mystic_dryfire",
@@ -6315,7 +6211,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 249
+        "id": 245
     },
     {
         "name": "bull_dude_attack",
@@ -6341,7 +6237,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 250
+        "id": 246
     },
     {
         "name": null,
@@ -6367,7 +6263,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 251
+        "id": 247
     },
     {
         "name": null,
@@ -6393,7 +6289,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 252
+        "id": 248
     },
     {
         "name": null,
@@ -6419,7 +6315,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 253
+        "id": 249
     },
     {
         "name": null,
@@ -6445,7 +6341,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 254
+        "id": 250
     },
     {
         "name": "tnt_attack",
@@ -6471,7 +6367,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 255
+        "id": 251
     },
     {
         "name": "tnt_attack_ulti",
@@ -6497,7 +6393,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 256
+        "id": 252
     },
     {
         "name": "rocket_girl_attack_ulti",
@@ -6523,7 +6419,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 257
+        "id": 253
     },
     {
         "name": null,
@@ -6549,7 +6445,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 258
+        "id": 254
     },
     {
         "name": null,
@@ -6575,7 +6471,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 259
+        "id": 255
     },
     {
         "name": "rocket_girl_attack",
@@ -6601,7 +6497,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 260
+        "id": 256
     },
     {
         "name": null,
@@ -6627,7 +6523,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 261
+        "id": 257
     },
     {
         "name": null,
@@ -6653,7 +6549,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 262
+        "id": 258
     },
     {
         "name": "trickshot_dude_attack",
@@ -6679,7 +6575,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 263
+        "id": 259
     },
     {
         "name": null,
@@ -6705,7 +6601,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 264
+        "id": 260
     },
     {
         "name": null,
@@ -6731,7 +6627,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 265
+        "id": 261
     },
     {
         "name": null,
@@ -6757,7 +6653,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 266
+        "id": 262
     },
     {
         "name": null,
@@ -6783,7 +6679,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 267
+        "id": 263
     },
     {
         "name": "trickshot_dude_attack_ulti",
@@ -6809,7 +6705,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 268
+        "id": 264
     },
     {
         "name": null,
@@ -6835,7 +6731,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 269
+        "id": 265
     },
     {
         "name": null,
@@ -6861,7 +6757,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 270
+        "id": 266
     },
     {
         "name": null,
@@ -6887,7 +6783,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 271
+        "id": 267
     },
     {
         "name": null,
@@ -6913,7 +6809,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 272
+        "id": 268
     },
     {
         "name": "cactus_attack",
@@ -6939,7 +6835,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 273
+        "id": 269
     },
     {
         "name": "cactus_attack_ulti",
@@ -6965,7 +6861,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 274
+        "id": 270
     },
     {
         "name": "bow_dude_attack",
@@ -6991,7 +6887,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 275
+        "id": 271
     },
     {
         "name": "bow_dude_ulti",
@@ -7017,7 +6913,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 276
+        "id": 272
     },
     {
         "name": "barkeep_attack",
@@ -7043,7 +6939,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 277
+        "id": 273
     },
     {
         "name": "barkeep_attack_ulti",
@@ -7069,7 +6965,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 278
+        "id": 274
     },
     {
         "name": "luchador_attack_red",
@@ -7095,7 +6991,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 279
+        "id": 275
     },
     {
         "name": "luchador_attack",
@@ -7121,7 +7017,7 @@
         "enemyVersion": "luchador_attack_red",
         "flashWidth": null,
         "effectZ": null,
-        "id": 280
+        "id": 276
     },
     {
         "name": "boss_explosion",
@@ -7147,7 +7043,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 281
+        "id": 277
     },
     {
         "name": null,
@@ -7173,7 +7069,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 282
+        "id": 278
     },
     {
         "name": null,
@@ -7199,7 +7095,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 283
+        "id": 279
     },
     {
         "name": null,
@@ -7225,7 +7121,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 284
+        "id": 280
     },
     {
         "name": null,
@@ -7251,7 +7147,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 285
+        "id": 281
     },
     {
         "name": null,
@@ -7277,7 +7173,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 286
+        "id": 282
     },
     {
         "name": "hammer_ulti_explosion",
@@ -7303,7 +7199,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 287
+        "id": 283
     },
     {
         "name": null,
@@ -7329,7 +7225,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 288
+        "id": 284
     },
     {
         "name": null,
@@ -7355,7 +7251,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 289
+        "id": 285
     },
     {
         "name": null,
@@ -7381,7 +7277,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 290
+        "id": 286
     },
     {
         "name": null,
@@ -7407,7 +7303,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 291
+        "id": 287
     },
     {
         "name": null,
@@ -7433,7 +7329,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 292
+        "id": 288
     },
     {
         "name": "blackhole_hit_char",
@@ -7459,7 +7355,7 @@
         "enemyVersion": "mechanic_attack_red",
         "flashWidth": null,
         "effectZ": null,
-        "id": 293
+        "id": 289
     },
     {
         "name": null,
@@ -7485,7 +7381,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 294
+        "id": 290
     },
     {
         "name": null,
@@ -7511,33 +7407,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 295
-    },
-    {
-        "name": null,
-        "loop": null,
-        "followParent": null,
-        "followBone": null,
-        "ownScreenShake": null,
-        "othersScreenShake": null,
-        "time": null,
-        "sound": null,
-        "type": "ParticleEmitter",
-        "fileName": null,
-        "exportName": "gen_hitfx_dot_blue_emitter",
-        "particleEmitterName": null,
-        "effect": null,
-        "layer": "Object",
-        "groundBasis": null,
-        "flashColor": null,
-        "scale": null,
-        "flashDuration": null,
-        "textInstanceName": null,
-        "textParentInstanceName": null,
-        "enemyVersion": null,
-        "flashWidth": null,
-        "effectZ": null,
-        "id": 296
+        "id": 291
     },
     {
         "name": "blackhole_hit_envy",
@@ -7563,7 +7433,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 297
+        "id": 292
     },
     {
         "name": null,
@@ -7589,7 +7459,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 298
+        "id": 293
     },
     {
         "name": "blackhole_hit_envy_enemy",
@@ -7615,7 +7485,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 299
+        "id": 294
     },
     {
         "name": "mechanic_attack_red",
@@ -7641,7 +7511,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 300
+        "id": 295
     },
     {
         "name": "mechanic_attack",
@@ -7667,7 +7537,7 @@
         "enemyVersion": "mechanic_attack_red",
         "flashWidth": null,
         "effectZ": null,
-        "id": 301
+        "id": 296
     },
     {
         "name": null,
@@ -7693,7 +7563,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 302
+        "id": 297
     },
     {
         "name": "mechanic_ulti",
@@ -7719,7 +7589,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 303
+        "id": 298
     },
     {
         "name": "shaman_attack",
@@ -7745,7 +7615,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 304
+        "id": 299
     },
     {
         "name": null,
@@ -7771,7 +7641,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 305
+        "id": 300
     },
     {
         "name": "shaman_ulti",
@@ -7797,7 +7667,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 306
+        "id": 301
     },
     {
         "name": "bear_attack",
@@ -7823,7 +7693,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 307
+        "id": 302
     },
     {
         "name": "undertaker_attack",
@@ -7849,7 +7719,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 308
+        "id": 303
     },
     {
         "name": "undertaker_attack_ulti",
@@ -7875,7 +7745,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 309
+        "id": 304
     },
     {
         "name": "crow_attack",
@@ -7901,7 +7771,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 310
+        "id": 305
     },
     {
         "name": "crow_ulti",
@@ -7927,7 +7797,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 311
+        "id": 306
     },
     {
         "name": "dead_mariachi_attack_red",
@@ -7953,7 +7823,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": 100,
-        "id": 312
+        "id": 307
     },
     {
         "name": "dead_mariachi_attack",
@@ -7979,7 +7849,7 @@
         "enemyVersion": "dead_mariachi_attack_red",
         "flashWidth": null,
         "effectZ": 100,
-        "id": 313
+        "id": 308
     },
     {
         "name": "dead_mariachi_attack_ulti_red",
@@ -8005,7 +7875,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 314
+        "id": 309
     },
     {
         "name": "dead_mariachi_attack_ulti",
@@ -8031,7 +7901,7 @@
         "enemyVersion": "dead_mariachi_attack_ulti_red",
         "flashWidth": null,
         "effectZ": null,
-        "id": 315
+        "id": 310
     },
     {
         "name": "bull_dude_ulti",
@@ -8057,7 +7927,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 316
+        "id": 311
     },
     {
         "name": "bull_dude_ulti_loop",
@@ -8083,7 +7953,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 317
+        "id": 312
     },
     {
         "name": null,
@@ -8109,7 +7979,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 318
+        "id": 313
     },
     {
         "name": null,
@@ -8135,7 +8005,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 319
+        "id": 314
     },
     {
         "name": "luchador_ulti",
@@ -8161,7 +8031,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 320
+        "id": 315
     },
     {
         "name": "sniper_attack",
@@ -8187,7 +8057,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 321
+        "id": 316
     },
     {
         "name": null,
@@ -8213,7 +8083,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 322
+        "id": 317
     },
     {
         "name": null,
@@ -8239,7 +8109,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 323
+        "id": 318
     },
     {
         "name": null,
@@ -8265,7 +8135,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 324
+        "id": 319
     },
     {
         "name": "sniper_ulti",
@@ -8291,7 +8161,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 325
+        "id": 320
     },
     {
         "name": "minigun_attack",
@@ -8317,7 +8187,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 326
+        "id": 321
     },
     {
         "name": null,
@@ -8343,7 +8213,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 327
+        "id": 322
     },
     {
         "name": "minigun_ulti",
@@ -8369,7 +8239,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 328
+        "id": 323
     },
     {
         "name": "charge_fx",
@@ -8395,7 +8265,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 329
+        "id": 324
     },
     {
         "name": "turret_attack",
@@ -8421,7 +8291,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 330
+        "id": 325
     },
     {
         "name": null,
@@ -8447,7 +8317,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 331
+        "id": 326
     },
     {
         "name": null,
@@ -8473,7 +8343,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 332
+        "id": 327
     },
     {
         "name": null,
@@ -8499,7 +8369,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 333
+        "id": 328
     },
     {
         "name": null,
@@ -8525,7 +8395,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 334
+        "id": 329
     },
     {
         "name": "death_shotgun_girl",
@@ -8551,7 +8421,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 335
+        "id": 330
     },
     {
         "name": "takedamage_gen",
@@ -8577,7 +8447,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 336
+        "id": 331
     },
     {
         "name": "death_gunslinger",
@@ -8603,7 +8473,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 337
+        "id": 332
     },
     {
         "name": "death_bull_dude",
@@ -8629,7 +8499,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 338
+        "id": 333
     },
     {
         "name": "death_rocket_girl",
@@ -8655,7 +8525,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 339
+        "id": 334
     },
     {
         "name": "death_trickshot_dude",
@@ -8681,7 +8551,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 340
+        "id": 335
     },
     {
         "name": "death_cactus",
@@ -8707,7 +8577,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 341
+        "id": 336
     },
     {
         "name": "death_barkeep",
@@ -8733,7 +8603,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 342
+        "id": 337
     },
     {
         "name": "death_mechanic",
@@ -8759,7 +8629,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 343
+        "id": 338
     },
     {
         "name": "death_shaman",
@@ -8785,7 +8655,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 344
+        "id": 339
     },
     {
         "name": "death_tnt_dude",
@@ -8811,7 +8681,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 345
+        "id": 340
     },
     {
         "name": "death_luchador",
@@ -8837,7 +8707,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 346
+        "id": 341
     },
     {
         "name": "death_undertaker",
@@ -8863,7 +8733,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 347
+        "id": 342
     },
     {
         "name": "death_crow",
@@ -8889,7 +8759,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 348
+        "id": 343
     },
     {
         "name": "death_dead_mariachi",
@@ -8915,7 +8785,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 349
+        "id": 344
     },
     {
         "name": "death_bow_dude",
@@ -8941,7 +8811,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 350
+        "id": 345
     },
     {
         "name": "death_sniper",
@@ -8967,7 +8837,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 351
+        "id": 346
     },
     {
         "name": "death_minigun",
@@ -8993,7 +8863,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 352
+        "id": 347
     },
     {
         "name": "death_bonethrower",
@@ -9019,7 +8889,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 353
+        "id": 348
     },
     {
         "name": "death_barrel_bot",
@@ -9045,7 +8915,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 354
+        "id": 349
     },
     {
         "name": "death_artillery_dude",
@@ -9071,7 +8941,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 355
+        "id": 350
     },
     {
         "name": "death_hammer_dude",
@@ -9097,7 +8967,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 356
+        "id": 351
     },
     {
         "name": "death_hook_dude",
@@ -9123,7 +8993,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 357
+        "id": 352
     },
     {
         "name": "death_ninja",
@@ -9149,7 +9019,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 358
+        "id": 353
     },
     {
         "name": "death_animal",
@@ -9175,7 +9045,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 359
+        "id": 354
     },
     {
         "name": "reload_shotgun_girl",
@@ -9201,7 +9071,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 360
+        "id": 355
     },
     {
         "name": "reload_leon",
@@ -9227,7 +9097,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 361
+        "id": 356
     },
     {
         "name": "reload_gunslinger",
@@ -9253,7 +9123,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 362
+        "id": 357
     },
     {
         "name": "reload_bull_dude",
@@ -9279,7 +9149,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 363
+        "id": 358
     },
     {
         "name": "reload_rocket_girl",
@@ -9305,7 +9175,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 364
+        "id": 359
     },
     {
         "name": "reload_trickshot_dude",
@@ -9331,7 +9201,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 365
+        "id": 360
     },
     {
         "name": "reload_cactus",
@@ -9357,7 +9227,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 366
+        "id": 361
     },
     {
         "name": "reload_barkeep",
@@ -9383,7 +9253,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 367
+        "id": 362
     },
     {
         "name": "reload_mechanic",
@@ -9409,7 +9279,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 368
+        "id": 363
     },
     {
         "name": "reload_tnt_dude",
@@ -9435,7 +9305,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 369
+        "id": 364
     },
     {
         "name": "reload_crow",
@@ -9461,7 +9331,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 370
+        "id": 365
     },
     {
         "name": "reload_undertaker",
@@ -9487,7 +9357,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 371
+        "id": 366
     },
     {
         "name": "reload_dead_mariachi",
@@ -9513,7 +9383,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 372
+        "id": 367
     },
     {
         "name": "reload_bow_dude",
@@ -9539,7 +9409,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 373
+        "id": 368
     },
     {
         "name": "reload_sniper",
@@ -9565,7 +9435,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 374
+        "id": 369
     },
     {
         "name": "reload_minigun",
@@ -9591,7 +9461,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 375
+        "id": 370
     },
     {
         "name": "reload_bonethrower",
@@ -9617,7 +9487,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 376
+        "id": 371
     },
     {
         "name": "reload_blackhole",
@@ -9643,7 +9513,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 377
+        "id": 372
     },
     {
         "name": "reload_barrel_bot",
@@ -9669,7 +9539,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 378
+        "id": 373
     },
     {
         "name": "reload_artillery_dude",
@@ -9695,7 +9565,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 379
+        "id": 374
     },
     {
         "name": "Gen_Big_Explosion",
@@ -9721,7 +9591,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 380
+        "id": 375
     },
     {
         "name": null,
@@ -9747,7 +9617,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 381
+        "id": 376
     },
     {
         "name": null,
@@ -9773,7 +9643,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 382
+        "id": 377
     },
     {
         "name": null,
@@ -9799,7 +9669,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 383
+        "id": 378
     },
     {
         "name": null,
@@ -9825,7 +9695,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 384
+        "id": 379
     },
     {
         "name": null,
@@ -9851,7 +9721,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 385
+        "id": 380
     },
     {
         "name": "Gen_Very_Big_Explosion",
@@ -9877,7 +9747,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 386
+        "id": 381
     },
     {
         "name": null,
@@ -9903,7 +9773,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 387
+        "id": 382
     },
     {
         "name": null,
@@ -9929,7 +9799,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 388
+        "id": 383
     },
     {
         "name": null,
@@ -9955,7 +9825,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 389
+        "id": 384
     },
     {
         "name": null,
@@ -9981,7 +9851,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 390
+        "id": 385
     },
     {
         "name": null,
@@ -10007,7 +9877,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 391
+        "id": 386
     },
     {
         "name": "Gen_Explosion",
@@ -10033,7 +9903,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 392
+        "id": 387
     },
     {
         "name": "gen_take_damage",
@@ -10059,7 +9929,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 393
+        "id": 388
     },
     {
         "name": null,
@@ -10085,7 +9955,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 394
+        "id": 389
     },
     {
         "name": null,
@@ -10111,7 +9981,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 395
+        "id": 390
     },
     {
         "name": "low_health",
@@ -10137,7 +10007,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 396
+        "id": 391
     },
     {
         "name": "very_low_health",
@@ -10163,7 +10033,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 397
+        "id": 392
     },
     {
         "name": "bgrfx",
@@ -10189,7 +10059,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 398
+        "id": 393
     },
     {
         "name": null,
@@ -10215,7 +10085,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 399
+        "id": 394
     },
     {
         "name": "sniper_landing_smoke_ring",
@@ -10241,7 +10111,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 400
+        "id": 395
     },
     {
         "name": "ground_hit_800",
@@ -10267,7 +10137,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 401
+        "id": 396
     },
     {
         "name": "explosion_1150",
@@ -10293,7 +10163,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 402
+        "id": 397
     },
     {
         "name": "explosion_1200",
@@ -10319,7 +10189,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 403
+        "id": 398
     },
     {
         "name": "explosion_200",
@@ -10345,7 +10215,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 404
+        "id": 399
     },
     {
         "name": null,
@@ -10371,7 +10241,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 405
+        "id": 400
     },
     {
         "name": null,
@@ -10397,7 +10267,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 406
+        "id": 401
     },
     {
         "name": null,
@@ -10423,7 +10293,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 407
+        "id": 402
     },
     {
         "name": "explosion_300",
@@ -10449,7 +10319,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 408
+        "id": 403
     },
     {
         "name": null,
@@ -10475,7 +10345,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 409
+        "id": 404
     },
     {
         "name": null,
@@ -10501,7 +10371,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 410
+        "id": 405
     },
     {
         "name": null,
@@ -10527,7 +10397,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 411
+        "id": 406
     },
     {
         "name": "explosion_450",
@@ -10553,7 +10423,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 412
+        "id": 407
     },
     {
         "name": null,
@@ -10579,7 +10449,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 413
+        "id": 408
     },
     {
         "name": null,
@@ -10605,7 +10475,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 414
+        "id": 409
     },
     {
         "name": null,
@@ -10631,7 +10501,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 415
+        "id": 410
     },
     {
         "name": "explosion_600",
@@ -10657,7 +10527,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 416
+        "id": 411
     },
     {
         "name": null,
@@ -10683,7 +10553,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 417
+        "id": 412
     },
     {
         "name": null,
@@ -10709,7 +10579,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 418
+        "id": 413
     },
     {
         "name": null,
@@ -10735,7 +10605,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 419
+        "id": 414
     },
     {
         "name": "explosion_800",
@@ -10761,7 +10631,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 420
+        "id": 415
     },
     {
         "name": null,
@@ -10787,7 +10657,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 421
+        "id": 416
     },
     {
         "name": null,
@@ -10813,7 +10683,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 422
+        "id": 417
     },
     {
         "name": null,
@@ -10839,7 +10709,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 423
+        "id": 418
     },
     {
         "name": "explosion_rocket_rose",
@@ -10865,7 +10735,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 424
+        "id": 419
     },
     {
         "name": null,
@@ -10891,7 +10761,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 425
+        "id": 420
     },
     {
         "name": null,
@@ -10917,7 +10787,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 426
+        "id": 421
     },
     {
         "name": null,
@@ -10943,7 +10813,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 427
+        "id": 422
     },
     {
         "name": "explosion_rocket_rose_ulti",
@@ -10969,7 +10839,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 428
+        "id": 423
     },
     {
         "name": null,
@@ -10995,7 +10865,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 429
+        "id": 424
     },
     {
         "name": null,
@@ -11021,7 +10891,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 430
+        "id": 425
     },
     {
         "name": null,
@@ -11047,7 +10917,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 431
+        "id": 426
     },
     {
         "name": "explosion_tnt_dude",
@@ -11073,7 +10943,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 432
+        "id": 427
     },
     {
         "name": null,
@@ -11099,7 +10969,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 433
+        "id": 428
     },
     {
         "name": null,
@@ -11125,7 +10995,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 434
+        "id": 429
     },
     {
         "name": null,
@@ -11151,7 +11021,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 435
+        "id": 430
     },
     {
         "name": "explosion_tnt_dude_ulti",
@@ -11177,7 +11047,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 436
+        "id": 431
     },
     {
         "name": null,
@@ -11203,7 +11073,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 437
+        "id": 432
     },
     {
         "name": null,
@@ -11229,7 +11099,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 438
+        "id": 433
     },
     {
         "name": null,
@@ -11255,7 +11125,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 439
+        "id": 434
     },
     {
         "name": "Solid_hit_fx",
@@ -11281,7 +11151,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 440
+        "id": 435
     },
     {
         "name": "explosion_cactus",
@@ -11307,7 +11177,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 441
+        "id": 436
     },
     {
         "name": null,
@@ -11333,7 +11203,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 442
+        "id": 437
     },
     {
         "name": null,
@@ -11359,7 +11229,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 443
+        "id": 438
     },
     {
         "name": null,
@@ -11385,7 +11255,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 444
+        "id": 439
     },
     {
         "name": "explosion_cactus_ulti_red",
@@ -11409,6 +11279,136 @@
         "textInstanceName": null,
         "textParentInstanceName": null,
         "enemyVersion": null,
+        "flashWidth": null,
+        "effectZ": null,
+        "id": 440
+    },
+    {
+        "name": null,
+        "loop": null,
+        "followParent": null,
+        "followBone": null,
+        "ownScreenShake": null,
+        "othersScreenShake": null,
+        "time": null,
+        "sound": null,
+        "type": "ParticleEmitter",
+        "fileName": null,
+        "exportName": null,
+        "particleEmitterName": "Small_explosion_streaks_emitter",
+        "effect": null,
+        "layer": "Object",
+        "groundBasis": null,
+        "flashColor": null,
+        "scale": 230,
+        "flashDuration": null,
+        "textInstanceName": null,
+        "textParentInstanceName": null,
+        "enemyVersion": null,
+        "flashWidth": null,
+        "effectZ": null,
+        "id": 441
+    },
+    {
+        "name": null,
+        "loop": null,
+        "followParent": null,
+        "followBone": null,
+        "ownScreenShake": null,
+        "othersScreenShake": null,
+        "time": null,
+        "sound": null,
+        "type": "SWF",
+        "fileName": "sc/effects.sc",
+        "exportName": "gen_explosion_ring2",
+        "particleEmitterName": null,
+        "effect": null,
+        "layer": "Object",
+        "groundBasis": null,
+        "flashColor": null,
+        "scale": 230,
+        "flashDuration": null,
+        "textInstanceName": null,
+        "textParentInstanceName": null,
+        "enemyVersion": null,
+        "flashWidth": null,
+        "effectZ": null,
+        "id": 442
+    },
+    {
+        "name": null,
+        "loop": null,
+        "followParent": null,
+        "followBone": null,
+        "ownScreenShake": null,
+        "othersScreenShake": null,
+        "time": null,
+        "sound": null,
+        "type": "SWF",
+        "fileName": "sc/effects.sc",
+        "exportName": "cactus_field_red",
+        "particleEmitterName": null,
+        "effect": null,
+        "layer": "Ground",
+        "groundBasis": true,
+        "flashColor": null,
+        "scale": 100,
+        "flashDuration": null,
+        "textInstanceName": null,
+        "textParentInstanceName": null,
+        "enemyVersion": null,
+        "flashWidth": null,
+        "effectZ": null,
+        "id": 443
+    },
+    {
+        "name": null,
+        "loop": null,
+        "followParent": null,
+        "followBone": null,
+        "ownScreenShake": null,
+        "othersScreenShake": null,
+        "time": null,
+        "sound": null,
+        "type": "ParticleEmitter",
+        "fileName": null,
+        "exportName": null,
+        "particleEmitterName": "Gen_Small_Debris_emitter",
+        "effect": null,
+        "layer": "Above",
+        "groundBasis": null,
+        "flashColor": null,
+        "scale": 230,
+        "flashDuration": null,
+        "textInstanceName": null,
+        "textParentInstanceName": null,
+        "enemyVersion": null,
+        "flashWidth": null,
+        "effectZ": null,
+        "id": 444
+    },
+    {
+        "name": "explosion_cactus_ulti",
+        "loop": null,
+        "followParent": null,
+        "followBone": null,
+        "ownScreenShake": 200,
+        "othersScreenShake": 50,
+        "time": null,
+        "sound": "Sound_Gen_small_explosion",
+        "type": "ParticleEmitter",
+        "fileName": null,
+        "exportName": null,
+        "particleEmitterName": "Small_Dust_emitter",
+        "effect": null,
+        "layer": "Object",
+        "groundBasis": null,
+        "flashColor": null,
+        "scale": 230,
+        "flashDuration": null,
+        "textInstanceName": null,
+        "textParentInstanceName": null,
+        "enemyVersion": "explosion_cactus_ulti_red",
         "flashWidth": null,
         "effectZ": null,
         "id": 445
@@ -11454,7 +11454,7 @@
         "particleEmitterName": null,
         "effect": null,
         "layer": "Object",
-        "groundBasis": null,
+        "groundBasis": true,
         "flashColor": null,
         "scale": 230,
         "flashDuration": null,
@@ -11476,7 +11476,7 @@
         "sound": null,
         "type": "SWF",
         "fileName": "sc/effects.sc",
-        "exportName": "cactus_field_red",
+        "exportName": "cactus_field",
         "particleEmitterName": null,
         "effect": null,
         "layer": "Ground",
@@ -11518,136 +11518,6 @@
         "id": 449
     },
     {
-        "name": "explosion_cactus_ulti",
-        "loop": null,
-        "followParent": null,
-        "followBone": null,
-        "ownScreenShake": 200,
-        "othersScreenShake": 50,
-        "time": null,
-        "sound": "Sound_Gen_small_explosion",
-        "type": "ParticleEmitter",
-        "fileName": null,
-        "exportName": null,
-        "particleEmitterName": "Small_Dust_emitter",
-        "effect": null,
-        "layer": "Object",
-        "groundBasis": null,
-        "flashColor": null,
-        "scale": 230,
-        "flashDuration": null,
-        "textInstanceName": null,
-        "textParentInstanceName": null,
-        "enemyVersion": "explosion_cactus_ulti_red",
-        "flashWidth": null,
-        "effectZ": null,
-        "id": 450
-    },
-    {
-        "name": null,
-        "loop": null,
-        "followParent": null,
-        "followBone": null,
-        "ownScreenShake": null,
-        "othersScreenShake": null,
-        "time": null,
-        "sound": null,
-        "type": "ParticleEmitter",
-        "fileName": null,
-        "exportName": null,
-        "particleEmitterName": "Small_explosion_streaks_emitter",
-        "effect": null,
-        "layer": "Object",
-        "groundBasis": null,
-        "flashColor": null,
-        "scale": 230,
-        "flashDuration": null,
-        "textInstanceName": null,
-        "textParentInstanceName": null,
-        "enemyVersion": null,
-        "flashWidth": null,
-        "effectZ": null,
-        "id": 451
-    },
-    {
-        "name": null,
-        "loop": null,
-        "followParent": null,
-        "followBone": null,
-        "ownScreenShake": null,
-        "othersScreenShake": null,
-        "time": null,
-        "sound": null,
-        "type": "SWF",
-        "fileName": "sc/effects.sc",
-        "exportName": "gen_explosion_ring2",
-        "particleEmitterName": null,
-        "effect": null,
-        "layer": "Object",
-        "groundBasis": true,
-        "flashColor": null,
-        "scale": 230,
-        "flashDuration": null,
-        "textInstanceName": null,
-        "textParentInstanceName": null,
-        "enemyVersion": null,
-        "flashWidth": null,
-        "effectZ": null,
-        "id": 452
-    },
-    {
-        "name": null,
-        "loop": null,
-        "followParent": null,
-        "followBone": null,
-        "ownScreenShake": null,
-        "othersScreenShake": null,
-        "time": null,
-        "sound": null,
-        "type": "SWF",
-        "fileName": "sc/effects.sc",
-        "exportName": "cactus_field",
-        "particleEmitterName": null,
-        "effect": null,
-        "layer": "Ground",
-        "groundBasis": true,
-        "flashColor": null,
-        "scale": 100,
-        "flashDuration": null,
-        "textInstanceName": null,
-        "textParentInstanceName": null,
-        "enemyVersion": null,
-        "flashWidth": null,
-        "effectZ": null,
-        "id": 453
-    },
-    {
-        "name": null,
-        "loop": null,
-        "followParent": null,
-        "followBone": null,
-        "ownScreenShake": null,
-        "othersScreenShake": null,
-        "time": null,
-        "sound": null,
-        "type": "ParticleEmitter",
-        "fileName": null,
-        "exportName": null,
-        "particleEmitterName": "Gen_Small_Debris_emitter",
-        "effect": null,
-        "layer": "Above",
-        "groundBasis": null,
-        "flashColor": null,
-        "scale": 230,
-        "flashDuration": null,
-        "textInstanceName": null,
-        "textParentInstanceName": null,
-        "enemyVersion": null,
-        "flashWidth": null,
-        "effectZ": null,
-        "id": 454
-    },
-    {
         "name": "explosion_barkeep",
         "loop": null,
         "followParent": null,
@@ -11671,7 +11541,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 455
+        "id": 450
     },
     {
         "name": null,
@@ -11697,7 +11567,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 456
+        "id": 451
     },
     {
         "name": null,
@@ -11723,7 +11593,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 457
+        "id": 452
     },
     {
         "name": null,
@@ -11749,7 +11619,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 458
+        "id": 453
     },
     {
         "name": null,
@@ -11775,7 +11645,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 459
+        "id": 454
     },
     {
         "name": "explosion_barkeep_ulti",
@@ -11801,7 +11671,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 460
+        "id": 455
     },
     {
         "name": null,
@@ -11827,7 +11697,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 461
+        "id": 456
     },
     {
         "name": null,
@@ -11853,7 +11723,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 462
+        "id": 457
     },
     {
         "name": "explosion_bow_dude",
@@ -11879,7 +11749,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 463
+        "id": 458
     },
     {
         "name": null,
@@ -11905,7 +11775,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 464
+        "id": 459
     },
     {
         "name": null,
@@ -11931,7 +11801,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 465
+        "id": 460
     },
     {
         "name": null,
@@ -11957,7 +11827,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 466
+        "id": 461
     },
     {
         "name": "Lucha_hit",
@@ -11983,7 +11853,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 467
+        "id": 462
     },
     {
         "name": null,
@@ -12009,33 +11879,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 468
-    },
-    {
-        "name": null,
-        "loop": null,
-        "followParent": null,
-        "followBone": null,
-        "ownScreenShake": null,
-        "othersScreenShake": null,
-        "time": null,
-        "sound": null,
-        "type": "ParticleEmitter",
-        "fileName": null,
-        "exportName": null,
-        "particleEmitterName": "gen_hitfx_dot_blue_emitter",
-        "effect": null,
-        "layer": "Above",
-        "groundBasis": null,
-        "flashColor": null,
-        "scale": null,
-        "flashDuration": null,
-        "textInstanceName": null,
-        "textParentInstanceName": null,
-        "enemyVersion": null,
-        "flashWidth": null,
-        "effectZ": null,
-        "id": 469
+        "id": 463
     },
     {
         "name": null,
@@ -12061,7 +11905,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 470
+        "id": 464
     },
     {
         "name": "Gen_hit_melee",
@@ -12087,7 +11931,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 471
+        "id": 465
     },
     {
         "name": null,
@@ -12113,33 +11957,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 472
-    },
-    {
-        "name": null,
-        "loop": null,
-        "followParent": null,
-        "followBone": null,
-        "ownScreenShake": null,
-        "othersScreenShake": null,
-        "time": null,
-        "sound": null,
-        "type": "ParticleEmitter",
-        "fileName": null,
-        "exportName": null,
-        "particleEmitterName": "gen_hitfx_dot_blue_emitter",
-        "effect": null,
-        "layer": "Above",
-        "groundBasis": null,
-        "flashColor": null,
-        "scale": 200,
-        "flashDuration": null,
-        "textInstanceName": null,
-        "textParentInstanceName": null,
-        "enemyVersion": null,
-        "flashWidth": null,
-        "effectZ": null,
-        "id": 473
+        "id": 466
     },
     {
         "name": "Trickshot_hit_env",
@@ -12150,32 +11968,6 @@
         "othersScreenShake": null,
         "time": null,
         "sound": "Trickshot_bullet",
-        "type": "ParticleEmitter",
-        "fileName": null,
-        "exportName": null,
-        "particleEmitterName": "gen_hitfx_dot_blue_emitter",
-        "effect": null,
-        "layer": "Above",
-        "groundBasis": null,
-        "flashColor": null,
-        "scale": 200,
-        "flashDuration": null,
-        "textInstanceName": null,
-        "textParentInstanceName": null,
-        "enemyVersion": null,
-        "flashWidth": null,
-        "effectZ": null,
-        "id": 474
-    },
-    {
-        "name": null,
-        "loop": null,
-        "followParent": null,
-        "followBone": null,
-        "ownScreenShake": null,
-        "othersScreenShake": null,
-        "time": null,
-        "sound": null,
         "type": "ParticleEmitter",
         "fileName": null,
         "exportName": null,
@@ -12191,7 +11983,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 475
+        "id": 467
     },
     {
         "name": "oasis_blocking2_explosion",
@@ -12217,7 +12009,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 476
+        "id": 468
     },
     {
         "name": null,
@@ -12243,7 +12035,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 477
+        "id": 469
     },
     {
         "name": null,
@@ -12269,7 +12061,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 478
+        "id": 470
     },
     {
         "name": null,
@@ -12295,7 +12087,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 479
+        "id": 471
     },
     {
         "name": "Green_explo_fx",
@@ -12321,7 +12113,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 480
+        "id": 472
     },
     {
         "name": null,
@@ -12347,7 +12139,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 481
+        "id": 473
     },
     {
         "name": "Green_hit_fx",
@@ -12373,7 +12165,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 482
+        "id": 474
     },
     {
         "name": "MineActive_enemy",
@@ -12399,7 +12191,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 483
+        "id": 475
     },
     {
         "name": null,
@@ -12425,7 +12217,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 484
+        "id": 476
     },
     {
         "name": "MineActive",
@@ -12451,7 +12243,7 @@
         "enemyVersion": "MineActive_enemy",
         "flashWidth": null,
         "effectZ": null,
-        "id": 485
+        "id": 477
     },
     {
         "name": null,
@@ -12477,7 +12269,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 486
+        "id": 478
     },
     {
         "name": "darryl_shield",
@@ -12503,7 +12295,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 487
+        "id": 479
     },
     {
         "name": "Spawn_Shield",
@@ -12529,7 +12321,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 488
+        "id": 480
     },
     {
         "name": "Spawn_mine",
@@ -12555,7 +12347,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 489
+        "id": 481
     },
     {
         "name": "Spawn_sniper_bomb",
@@ -12581,7 +12373,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 490
+        "id": 482
     },
     {
         "name": "bonethrower_attack",
@@ -12607,7 +12399,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 491
+        "id": 483
     },
     {
         "name": "bonethrower_ulti",
@@ -12633,7 +12425,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 492
+        "id": 484
     },
     {
         "name": "blackhole_attack",
@@ -12659,7 +12451,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 493
+        "id": 485
     },
     {
         "name": "blackhole_ulti",
@@ -12685,7 +12477,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 494
+        "id": 486
     },
     {
         "name": "blackhole_ulti_suck_enemy",
@@ -12711,7 +12503,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 495
+        "id": 487
     },
     {
         "name": null,
@@ -12737,7 +12529,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 496
+        "id": 488
     },
     {
         "name": null,
@@ -12763,7 +12555,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 497
+        "id": 489
     },
     {
         "name": "blackhole_ulti_suck",
@@ -12789,7 +12581,7 @@
         "enemyVersion": "blackhole_ulti_suck_enemy",
         "flashWidth": null,
         "effectZ": null,
-        "id": 498
+        "id": 490
     },
     {
         "name": null,
@@ -12815,7 +12607,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 499
+        "id": 491
     },
     {
         "name": null,
@@ -12841,7 +12633,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 500
+        "id": 492
     },
     {
         "name": "laser_ball_throw",
@@ -12867,7 +12659,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 501
+        "id": 493
     },
     {
         "name": "laser_ball_throw_ulti",
@@ -12893,7 +12685,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 502
+        "id": 494
     },
     {
         "name": "laser_ball_catch",
@@ -12919,7 +12711,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 503
+        "id": 495
     },
     {
         "name": "laser_ball_catch_other",
@@ -12945,7 +12737,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 504
+        "id": 496
     },
     {
         "name": "blackhole_ulti_damage",
@@ -12971,7 +12763,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 505
+        "id": 497
     },
     {
         "name": null,
@@ -12997,7 +12789,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 506
+        "id": 498
     },
     {
         "name": null,
@@ -13023,7 +12815,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 507
+        "id": 499
     },
     {
         "name": "boss",
@@ -13049,7 +12841,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 508
+        "id": 500
     },
     {
         "name": "laser_ball_glow",
@@ -13075,7 +12867,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 509
+        "id": 501
     },
     {
         "name": null,
@@ -13101,7 +12893,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 510
+        "id": 502
     },
     {
         "name": "laser_ball_glow_ulti",
@@ -13127,7 +12919,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 511
+        "id": 503
     },
     {
         "name": "laser_ball_goal",
@@ -13153,7 +12945,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 512
+        "id": 504
     },
     {
         "name": null,
@@ -13179,7 +12971,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 513
+        "id": 505
     },
     {
         "name": null,
@@ -13205,7 +12997,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 514
+        "id": 506
     },
     {
         "name": null,
@@ -13231,7 +13023,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 515
+        "id": 507
     },
     {
         "name": null,
@@ -13257,7 +13049,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 516
+        "id": 508
     },
     {
         "name": "laser_ball_fly",
@@ -13283,7 +13075,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 517
+        "id": 509
     },
     {
         "name": "laser_ball_fly_ulti",
@@ -13309,7 +13101,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 518
+        "id": 510
     },
     {
         "name": null,
@@ -13335,7 +13127,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 519
+        "id": 511
     },
     {
         "name": null,
@@ -13361,7 +13153,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 520
+        "id": 512
     },
     {
         "name": null,
@@ -13387,7 +13179,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 521
+        "id": 513
     },
     {
         "name": null,
@@ -13413,7 +13205,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 522
+        "id": 514
     },
     {
         "name": "luchador_ulti_ground_hit_special",
@@ -13439,7 +13231,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 523
+        "id": 515
     },
     {
         "name": "luchador_ulti_ground_hit",
@@ -13465,7 +13257,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 524
+        "id": 516
     },
     {
         "name": "TntDude_bone_trail_1",
@@ -13491,7 +13283,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 525
+        "id": 517
     },
     {
         "name": null,
@@ -13517,7 +13309,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 526
+        "id": 518
     },
     {
         "name": "TntDude_bone_trail_2",
@@ -13543,7 +13335,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 527
+        "id": 519
     },
     {
         "name": null,
@@ -13569,7 +13361,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 528
+        "id": 520
     },
     {
         "name": "barrel_bot_attack",
@@ -13595,7 +13387,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 529
+        "id": 521
     },
     {
         "name": null,
@@ -13621,7 +13413,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 530
+        "id": 522
     },
     {
         "name": null,
@@ -13647,7 +13439,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 531
+        "id": 523
     },
     {
         "name": null,
@@ -13673,7 +13465,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 532
+        "id": 524
     },
     {
         "name": null,
@@ -13699,7 +13491,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 533
+        "id": 525
     },
     {
         "name": "barrel_bot_ulti",
@@ -13725,7 +13517,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 534
+        "id": 526
     },
     {
         "name": "barrel_bot_ulti_loop",
@@ -13751,7 +13543,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 535
+        "id": 527
     },
     {
         "name": null,
@@ -13777,7 +13569,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 536
+        "id": 528
     },
     {
         "name": null,
@@ -13803,7 +13595,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 537
+        "id": 529
     },
     {
         "name": "artillery_dude_turret_attack",
@@ -13829,7 +13621,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 538
+        "id": 530
     },
     {
         "name": null,
@@ -13855,7 +13647,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 539
+        "id": 531
     },
     {
         "name": null,
@@ -13881,7 +13673,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 540
+        "id": 532
     },
     {
         "name": null,
@@ -13907,7 +13699,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 541
+        "id": 533
     },
     {
         "name": "artillery_dude_attack",
@@ -13933,7 +13725,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 542
+        "id": 534
     },
     {
         "name": null,
@@ -13959,7 +13751,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 543
+        "id": 535
     },
     {
         "name": null,
@@ -13985,7 +13777,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 544
+        "id": 536
     },
     {
         "name": null,
@@ -14011,7 +13803,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 545
+        "id": 537
     },
     {
         "name": "artillery_dude_ulti",
@@ -14037,7 +13829,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 546
+        "id": 538
     },
     {
         "name": "explosion_artillery_dude_turret",
@@ -14063,7 +13855,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 547
+        "id": 539
     },
     {
         "name": null,
@@ -14089,7 +13881,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 548
+        "id": 540
     },
     {
         "name": null,
@@ -14115,7 +13907,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 549
+        "id": 541
     },
     {
         "name": null,
@@ -14141,7 +13933,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 550
+        "id": 542
     },
     {
         "name": "Spawn_rocketgirl_bomb",
@@ -14167,7 +13959,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 551
+        "id": 543
     },
     {
         "name": "coop_melee_attack",
@@ -14193,7 +13985,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 552
+        "id": 544
     },
     {
         "name": "coop_fast_melee_attack",
@@ -14219,7 +14011,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 553
+        "id": 545
     },
     {
         "name": "coop_boss_attack",
@@ -14245,7 +14037,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 554
+        "id": 546
     },
     {
         "name": "coop_ranged_attack",
@@ -14271,7 +14063,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 555
+        "id": 547
     },
     {
         "name": null,
@@ -14297,7 +14089,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 556
+        "id": 548
     },
     {
         "name": null,
@@ -14323,7 +14115,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 557
+        "id": 549
     },
     {
         "name": null,
@@ -14349,7 +14141,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 558
+        "id": 550
     },
     {
         "name": null,
@@ -14375,7 +14167,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 559
+        "id": 551
     },
     {
         "name": "coop_boss_ranged_attack",
@@ -14401,7 +14193,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 560
+        "id": 552
     },
     {
         "name": null,
@@ -14427,7 +14219,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 561
+        "id": 553
     },
     {
         "name": null,
@@ -14453,7 +14245,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 562
+        "id": 554
     },
     {
         "name": null,
@@ -14479,7 +14271,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 563
+        "id": 555
     },
     {
         "name": null,
@@ -14505,7 +14297,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 564
+        "id": 556
     },
     {
         "name": "boss_extra_death_effect",
@@ -14531,7 +14323,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 565
+        "id": 557
     },
     {
         "name": "robo_spawn",
@@ -14557,7 +14349,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 566
+        "id": 558
     },
     {
         "name": null,
@@ -14583,7 +14375,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 567
+        "id": 559
     },
     {
         "name": "explosion_cluster_bomb_air",
@@ -14609,7 +14401,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 568
+        "id": 560
     },
     {
         "name": null,
@@ -14635,7 +14427,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 569
+        "id": 561
     },
     {
         "name": null,
@@ -14661,7 +14453,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 570
+        "id": 562
     },
     {
         "name": null,
@@ -14687,7 +14479,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 571
+        "id": 563
     },
     {
         "name": "tutorial_robo_spawn",
@@ -14713,7 +14505,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 572
+        "id": 564
     },
     {
         "name": null,
@@ -14739,7 +14531,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 573
+        "id": 565
     },
     {
         "name": "hammer_dude_attack",
@@ -14765,7 +14557,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 574
+        "id": 566
     },
     {
         "name": null,
@@ -14791,7 +14583,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 575
+        "id": 567
     },
     {
         "name": "hammer_dude_ulti",
@@ -14817,7 +14609,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 576
+        "id": 568
     },
     {
         "name": null,
@@ -14843,7 +14635,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 577
+        "id": 569
     },
     {
         "name": null,
@@ -14869,7 +14661,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 578
+        "id": 570
     },
     {
         "name": null,
@@ -14895,7 +14687,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 579
+        "id": 571
     },
     {
         "name": "gold_Trail",
@@ -14921,7 +14713,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 580
+        "id": 572
     },
     {
         "name": null,
@@ -14947,7 +14739,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 581
+        "id": 573
     },
     {
         "name": "gold_no_hit",
@@ -14973,7 +14765,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 582
+        "id": 574
     },
     {
         "name": null,
@@ -14999,7 +14791,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 583
+        "id": 575
     },
     {
         "name": null,
@@ -15025,7 +14817,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 584
+        "id": 576
     },
     {
         "name": "gold_hit",
@@ -15051,7 +14843,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 585
+        "id": 577
     },
     {
         "name": null,
@@ -15077,7 +14869,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 586
+        "id": 578
     },
     {
         "name": null,
@@ -15103,7 +14895,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 587
+        "id": 579
     },
     {
         "name": "SpawnArtilleryTurret",
@@ -15129,7 +14921,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 588
+        "id": 580
     },
     {
         "name": "hammer_dude_start_attack",
@@ -15155,7 +14947,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 589
+        "id": 581
     },
     {
         "name": "hammer_dude_start_ulti",
@@ -15181,7 +14973,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 590
+        "id": 582
     },
     {
         "name": "stunned",
@@ -15207,7 +14999,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 591
+        "id": 583
     },
     {
         "name": "Crow_bone_trail_1",
@@ -15233,7 +15025,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 592
+        "id": 584
     },
     {
         "name": "Crow_bone_trail_2",
@@ -15259,7 +15051,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 593
+        "id": 585
     },
     {
         "name": "Crow_bone_trail_3",
@@ -15285,7 +15077,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 594
+        "id": 586
     },
     {
         "name": "Crow_bone_trail_4",
@@ -15311,7 +15103,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 595
+        "id": 587
     },
     {
         "name": "flame_trail",
@@ -15337,7 +15129,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 596
+        "id": 588
     },
     {
         "name": "Spawn_buff",
@@ -15363,7 +15155,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 597
+        "id": 589
     },
     {
         "name": "hook_attack",
@@ -15389,7 +15181,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 598
+        "id": 590
     },
     {
         "name": null,
@@ -15415,7 +15207,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 599
+        "id": 591
     },
     {
         "name": null,
@@ -15441,7 +15233,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 600
+        "id": 592
     },
     {
         "name": null,
@@ -15467,7 +15259,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 601
+        "id": 593
     },
     {
         "name": null,
@@ -15493,7 +15285,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 602
+        "id": 594
     },
     {
         "name": "meteor_area_explosion",
@@ -15519,7 +15311,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 603
+        "id": 595
     },
     {
         "name": null,
@@ -15545,7 +15337,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 604
+        "id": 596
     },
     {
         "name": null,
@@ -15571,7 +15363,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 605
+        "id": 597
     },
     {
         "name": null,
@@ -15597,7 +15389,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 606
+        "id": 598
     },
     {
         "name": null,
@@ -15623,7 +15415,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 607
+        "id": 599
     },
     {
         "name": "hook_ulti_attack",
@@ -15649,7 +15441,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 608
+        "id": 600
     },
     {
         "name": "power_up_bottle_sparkle",
@@ -15675,7 +15467,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 609
+        "id": 601
     },
     {
         "name": "meteor_warning",
@@ -15701,7 +15493,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 610
+        "id": 602
     },
     {
         "name": "powerup_indicator",
@@ -15727,7 +15519,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 611
+        "id": 603
     },
     {
         "name": "boss_warning",
@@ -15753,7 +15545,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 612
+        "id": 604
     },
     {
         "name": "flame_turret_attack",
@@ -15779,7 +15571,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 613
+        "id": 605
     },
     {
         "name": null,
@@ -15805,7 +15597,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 614
+        "id": 606
     },
     {
         "name": null,
@@ -15831,7 +15623,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 615
+        "id": 607
     },
     {
         "name": null,
@@ -15857,7 +15649,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 616
+        "id": 608
     },
     {
         "name": "Collect_powerup",
@@ -15883,7 +15675,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 617
+        "id": 609
     },
     {
         "name": null,
@@ -15909,7 +15701,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 618
+        "id": 610
     },
     {
         "name": "animal_attack_red",
@@ -15935,7 +15727,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 619
+        "id": 611
     },
     {
         "name": "animal_attack",
@@ -15961,7 +15753,7 @@
         "enemyVersion": "animal_attack_red",
         "flashWidth": null,
         "effectZ": null,
-        "id": 620
+        "id": 612
     },
     {
         "name": "ninja_attack",
@@ -15987,7 +15779,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 621
+        "id": 613
     },
     {
         "name": "mushroom_heal",
@@ -16013,7 +15805,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 622
+        "id": 614
     },
     {
         "name": "raidboss_skill_warning_short",
@@ -16039,7 +15831,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 623
+        "id": 615
     },
     {
         "name": "raidboss_skill_warning_medium",
@@ -16065,7 +15857,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 624
+        "id": 616
     },
     {
         "name": "raidboss_skill_warning_long",
@@ -16091,7 +15883,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 625
+        "id": 617
     },
     {
         "name": "raid_boss_ranged_attack",
@@ -16117,7 +15909,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 626
+        "id": 618
     },
     {
         "name": null,
@@ -16143,7 +15935,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 627
+        "id": 619
     },
     {
         "name": null,
@@ -16169,7 +15961,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 628
+        "id": 620
     },
     {
         "name": null,
@@ -16195,7 +15987,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 629
+        "id": 621
     },
     {
         "name": null,
@@ -16221,7 +16013,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 630
+        "id": 622
     },
     {
         "name": "raidboss_rocket_warning",
@@ -16247,7 +16039,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 631
+        "id": 623
     },
     {
         "name": "raidboss_rocket_explosion",
@@ -16273,7 +16065,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 632
+        "id": 624
     },
     {
         "name": null,
@@ -16299,7 +16091,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 633
+        "id": 625
     },
     {
         "name": null,
@@ -16325,7 +16117,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 634
+        "id": 626
     },
     {
         "name": null,
@@ -16351,7 +16143,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 635
+        "id": 627
     },
     {
         "name": null,
@@ -16377,7 +16169,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 636
+        "id": 628
     },
     {
         "name": "burning_ground_raid_boss",
@@ -16403,7 +16195,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 637
+        "id": 629
     },
     {
         "name": "healing_spawn",
@@ -16429,7 +16221,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 638
+        "id": 630
     },
     {
         "name": "ninja_go_invisible",
@@ -16455,7 +16247,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 639
+        "id": 631
     },
     {
         "name": null,
@@ -16481,7 +16273,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 640
+        "id": 632
     },
     {
         "name": "ninja_out_from_invisible",
@@ -16507,7 +16299,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 641
+        "id": 633
     },
     {
         "name": "hero_spawn",
@@ -16533,7 +16325,7 @@
         "enemyVersion": "hero_spawn_enemy",
         "flashWidth": null,
         "effectZ": null,
-        "id": 642
+        "id": 634
     },
     {
         "name": "hero_spawn_enemy",
@@ -16559,7 +16351,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 643
+        "id": 635
     },
     {
         "name": "coop_boss_skill_warning",
@@ -16585,7 +16377,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 644
+        "id": 636
     },
     {
         "name": "barkeep_wizard_attack",
@@ -16611,7 +16403,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 645
+        "id": 637
     },
     {
         "name": "barkeep_wizard_attack_ulti",
@@ -16637,7 +16429,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 646
+        "id": 638
     },
     {
         "name": "explosion_barkeep_wizard",
@@ -16663,7 +16455,7 @@
         "enemyVersion": "explosion_barkeep_wizard_red",
         "flashWidth": null,
         "effectZ": null,
-        "id": 647
+        "id": 639
     },
     {
         "name": null,
@@ -16689,7 +16481,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 648
+        "id": 640
     },
     {
         "name": null,
@@ -16715,7 +16507,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 649
+        "id": 641
     },
     {
         "name": null,
@@ -16741,7 +16533,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 650
+        "id": 642
     },
     {
         "name": null,
@@ -16767,7 +16559,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 651
+        "id": 643
     },
     {
         "name": "snowy_Rock_explo_fx",
@@ -16793,7 +16585,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 652
+        "id": 644
     },
     {
         "name": null,
@@ -16819,7 +16611,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 653
+        "id": 645
     },
     {
         "name": null,
@@ -16845,7 +16637,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 654
+        "id": 646
     },
     {
         "name": null,
@@ -16871,7 +16663,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 655
+        "id": 647
     },
     {
         "name": "snowy_blocking2_explosion",
@@ -16897,7 +16689,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 656
+        "id": 648
     },
     {
         "name": "snowy_Grass_explo_fx",
@@ -16923,7 +16715,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 657
+        "id": 649
     },
     {
         "name": null,
@@ -16949,7 +16741,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 658
+        "id": 650
     },
     {
         "name": "snowy_Rock_hit_fx",
@@ -16975,7 +16767,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 659
+        "id": 651
     },
     {
         "name": "snowy_blocking2_hit",
@@ -17001,7 +16793,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 660
+        "id": 652
     },
     {
         "name": "snowy_Grass_hit_fx",
@@ -17027,7 +16819,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 661
+        "id": 653
     },
     {
         "name": "explosion_barkeep_wizard_red",
@@ -17053,7 +16845,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 662
+        "id": 654
     },
     {
         "name": null,
@@ -17079,7 +16871,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 663
+        "id": 655
     },
     {
         "name": null,
@@ -17105,7 +16897,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 664
+        "id": 656
     },
     {
         "name": null,
@@ -17131,7 +16923,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 665
+        "id": 657
     },
     {
         "name": null,
@@ -17157,7 +16949,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 666
+        "id": 658
     },
     {
         "name": "explosion_ulti_barkeep_wizard",
@@ -17183,7 +16975,7 @@
         "enemyVersion": "explosion_ulti_barkeep_wizard_red",
         "flashWidth": null,
         "effectZ": null,
-        "id": 667
+        "id": 659
     },
     {
         "name": null,
@@ -17209,7 +17001,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 668
+        "id": 660
     },
     {
         "name": null,
@@ -17235,7 +17027,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 669
+        "id": 661
     },
     {
         "name": null,
@@ -17261,7 +17053,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 670
+        "id": 662
     },
     {
         "name": null,
@@ -17287,7 +17079,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 671
+        "id": 663
     },
     {
         "name": "explosion_ulti_barkeep_wizard_red",
@@ -17313,7 +17105,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 672
+        "id": 664
     },
     {
         "name": null,
@@ -17339,7 +17131,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 673
+        "id": 665
     },
     {
         "name": null,
@@ -17365,7 +17157,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 674
+        "id": 666
     },
     {
         "name": null,
@@ -17391,7 +17183,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 675
+        "id": 667
     },
     {
         "name": null,
@@ -17417,7 +17209,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 676
+        "id": 668
     },
     {
         "name": "fireball_trail_blue",
@@ -17443,7 +17235,7 @@
         "enemyVersion": "fireball_trail_red",
         "flashWidth": null,
         "effectZ": null,
-        "id": 677
+        "id": 669
     },
     {
         "name": null,
@@ -17469,7 +17261,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 678
+        "id": 670
     },
     {
         "name": "fireball_trail_red",
@@ -17495,7 +17287,7 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 679
+        "id": 671
     },
     {
         "name": null,
@@ -17521,6 +17313,6 @@
         "enemyVersion": null,
         "flashWidth": null,
         "effectZ": null,
-        "id": 680
+        "id": 672
     }
 ]

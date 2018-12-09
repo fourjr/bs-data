@@ -16,6 +16,7 @@
         "valueFactor": null,
         "bg": null,
         "decor": null,
+        "isPromotion": null,
         "id": 2
     },
     {
@@ -35,6 +36,7 @@
         "valueFactor": null,
         "bg": null,
         "decor": null,
+        "isPromotion": null,
         "id": 3
     },
     {
@@ -54,6 +56,7 @@
         "valueFactor": null,
         "bg": null,
         "decor": null,
+        "isPromotion": null,
         "id": 4
     },
     {
@@ -73,6 +76,7 @@
         "valueFactor": null,
         "bg": null,
         "decor": null,
+        "isPromotion": null,
         "id": 5
     },
     {
@@ -92,6 +96,7 @@
         "valueFactor": null,
         "bg": null,
         "decor": null,
+        "isPromotion": null,
         "id": 6
     },
     {
@@ -111,6 +116,7 @@
         "valueFactor": null,
         "bg": null,
         "decor": null,
+        "isPromotion": null,
         "id": 7
     },
     {
@@ -128,8 +134,9 @@
         "bigBoxCount": 1,
         "xpLevelReq": 5,
         "valueFactor": 5,
-        "bg": null,
+        "bg": 1,
         "decor": 0,
+        "isPromotion": null,
         "id": 8
     },
     {
@@ -147,8 +154,9 @@
         "bigBoxCount": 1,
         "xpLevelReq": 15,
         "valueFactor": 3,
-        "bg": null,
+        "bg": 1,
         "decor": 0,
+        "isPromotion": null,
         "id": 9
     },
     {
@@ -166,8 +174,9 @@
         "bigBoxCount": 3,
         "xpLevelReq": 25,
         "valueFactor": 3,
-        "bg": null,
+        "bg": 1,
         "decor": 0,
+        "isPromotion": null,
         "id": 10
     },
     {
@@ -178,15 +187,16 @@
         "existsApple": "TRUE",
         "existsAndroid": "TRUE",
         "diamonds": 360,
-        "uSD": 1499,
+        "uSD": 1999,
         "order": 0,
         "iconExportName": null,
         "starterPackNumber": 4,
-        "bigBoxCount": 2,
+        "bigBoxCount": 5,
         "xpLevelReq": 35,
         "valueFactor": 2,
-        "bg": null,
+        "bg": 1,
         "decor": 0,
+        "isPromotion": null,
         "id": 11
     },
     {
@@ -204,8 +214,9 @@
         "bigBoxCount": 2,
         "xpLevelReq": null,
         "valueFactor": 4,
-        "bg": 4,
+        "bg": 3,
         "decor": 1,
+        "isPromotion": null,
         "id": 12
     }
 ]

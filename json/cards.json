@@ -2352,7 +2352,7 @@
         "value2": null,
         "rarity": "common",
         "tID": "Spinner Blades",
-        "powerNumberTID": "Damage per blade",
+        "powerNumberTID": "Damage per blade at close range",
         "powerNumber2TID": null,
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
