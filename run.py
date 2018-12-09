@@ -10,6 +10,8 @@ import json
 import yaml
 
 if __name__ == '__main__':
+    all_data = {}
+
     with open('csv/texts.csv', encoding='utf-8') as f:
         reader = csv.DictReader(f)
 
@@ -65,6 +67,7 @@ if __name__ == '__main__':
                                 i[j] = int(i[j])
                             except ValueError:
                                 pass
+
                         if i[j] == 'true':
                             i[j] = True
                         elif i[j] == 'false':
@@ -72,6 +75,10 @@ if __name__ == '__main__':
 
                     if i[j] == '':
                         i[j] = None
+
+                    # Clean
+                    elif isinstance(i[j], str):
+                        i[j] = i[j].strip()
 
             if fn == 'maps.csv':
                 # make maps look cool
@@ -87,6 +94,7 @@ if __name__ == '__main__':
             with open('json/' + fn.replace('.csv', '.json'), 'w+') as f:
                 json.dump(data, f, indent=4)
 
+        all_data[fn.replace('.csv', '')] = data
         print(fp)
 
     # texts.csv
@@ -102,3 +110,8 @@ if __name__ == '__main__':
 
         with open('json/texts.json', 'w+') as f:
             json.dump(data, f, indent=4)
+
+    # all.json
+    with open('all.json', 'w+') as f:
+        print('all.json')
+        json.dump(all_data, f, indent=4)
