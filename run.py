@@ -107,6 +107,7 @@ if __name__ == '__main__':
             data[row['TID'].replace('TID_', '')] = row['EN']
 
         print('csv/texts.csv')
+        all_data['texts'] = data
 
         with open('json/texts.json', 'w+') as f:
             json.dump(data, f, indent=4)
