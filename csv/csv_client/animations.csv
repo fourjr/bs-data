@@ -164,8 +164,8 @@
 "BrockPushback","brock_pushback1.scw",-1,-1,-1,,100,100,100,"false",5
 "BrockWin","brock_win1.scw",0,49,-1,,,,,"false",5
 "BrockWinloop","brock_win1.scw",50,88,-1,,,,,"true",5
-"BrockLose","brock_lose1.scw",1,50,-1,,,,,"false",5
-"BrockLoseloop","brock_lose1.scw",50,89,-1,,,,,"true",5
+"BrockLose","brock_lose1.scw",1,19,-1,,,,,"false",5
+"BrockLoseloop","brock_lose1.scw",19,70,-1,,,,,"true",5
 "BrockHero","brock_win1.scw",0,35,-1,,,200,200,"false",5
 "BrockBoomboxWin","brock_boombox_win.scw",0,39,-1,,,100,150,"false",5
 "BullRockIdle","bull_idle.scw",-1,-1,-1,,150,150,150,"true",

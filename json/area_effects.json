@@ -967,7 +967,7 @@
         "ownExportName": "hero_spawn_green",
         "blueExportName": "hero_spawn_blue",
         "redExportName": "hero_spawn_red",
-        "layer": "Ground",
+        "layer": "Above",
         "exportNameTop": null,
         "exportNameObject": null,
         "effect": "hero_spawn",

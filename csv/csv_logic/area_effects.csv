@@ -37,4 +37,4 @@
 "RaidBossExplosion","sc/effects.sc","range450_blue","range450_blue","range450_red","Ground",,,"raidboss_rocket_explosion",,185,700,1000,2000,,"Damage",,,"true",150,250,,
 "RaidBossExplosionSpawn","sc/effects.sc","meteor_area_effect","meteor_area_effect","meteor_area_effect","Ground",,,"raidboss_rocket_warning",,105,2000,800,,,"Effect",,,,,,,"true"
 "RaidBossRocketBurn","sc/effects.sc","brock_ground_fire","brock_ground_fire","brock_ground_fire_red","Ground",,,"burning_ground_raid_boss",,100,6900,1000,,,"Dot",,,,,,,"true"
-"HeroSpawn","sc/effects.sc","hero_spawn_green","hero_spawn_blue","hero_spawn_red","Ground",,,"hero_spawn",,35,2100,300,,,"HeroSpawn",,,,,,,
+"HeroSpawn","sc/effects.sc","hero_spawn_green","hero_spawn_blue","hero_spawn_red","Above",,,"hero_spawn",,35,2100,300,,,"HeroSpawn",,,,,,,

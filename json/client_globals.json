@@ -711,7 +711,7 @@
     },
     {
         "name": "SNOWFLAKE_CNT",
-        "numberValue": 0,
+        "numberValue": 200,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -721,7 +721,7 @@
     },
     {
         "name": "SNOWFLAKE_CNT_LOW",
-        "numberValue": 0,
+        "numberValue": 100,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -731,7 +731,7 @@
     },
     {
         "name": "SNOWFLAKE_CNT_COMBAT",
-        "numberValue": 0,
+        "numberValue": 100,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -741,7 +741,7 @@
     },
     {
         "name": "SNOWFLAKE_CNT_COMBAT_LOW",
-        "numberValue": 0,
+        "numberValue": 50,
         "booleanValue": null,
         "textValue": null,
         "numberArray": null,
@@ -3660,6 +3660,16 @@
         "id": 374
     },
     {
+        "name": "KAKAO_ENABLED",
+        "numberValue": null,
+        "booleanValue": "FALSE",
+        "textValue": null,
+        "numberArray": null,
+        "stringArray": null,
+        "altStringArray": null,
+        "id": 375
+    },
+    {
         "name": "NEW_HERO_CHANCE",
         "numberValue": 48,
         "booleanValue": null,
@@ -3667,7 +3677,7 @@
         "numberArray": null,
         "stringArray": null,
         "altStringArray": null,
-        "id": 375
+        "id": 376
     },
     {
         "name": "ONLINE_MENU_WAIT_BEFORE_UPDATE_SECS",
@@ -3677,7 +3687,7 @@
         "numberArray": null,
         "stringArray": null,
         "altStringArray": null,
-        "id": 376
+        "id": 377
     },
     {
         "name": "ONLINE_MENU_AUTO_CLOSE_TIME_SECS",
@@ -3687,7 +3697,7 @@
         "numberArray": null,
         "stringArray": null,
         "altStringArray": null,
-        "id": 377
+        "id": 378
     },
     {
         "name": "ONLINE_MENU_NEW_ITEM_THROTTLE_SECS",
@@ -3697,7 +3707,7 @@
         "numberArray": null,
         "stringArray": null,
         "altStringArray": null,
-        "id": 378
+        "id": 379
     },
     {
         "name": "AUTO_OPEN_TEAM_LOOT_BAR",
@@ -3707,7 +3717,7 @@
         "numberArray": null,
         "stringArray": null,
         "altStringArray": null,
-        "id": 379
+        "id": 380
     },
     {
         "name": "GAME_MODE_VARIATION_COLORS",
@@ -3717,7 +3727,7 @@
         "numberArray": 0,
         "stringArray": "0xffd852ff",
         "altStringArray": "Gem Grab",
-        "id": 380
+        "id": 381
     },
     {
         "name": null,
@@ -3727,7 +3737,7 @@
         "numberArray": 2,
         "stringArray": "0xffd852ff",
         "altStringArray": "Heist",
-        "id": 381
+        "id": 382
     },
     {
         "name": null,
@@ -3737,7 +3747,7 @@
         "numberArray": 3,
         "stringArray": "0xff24d6ff",
         "altStringArray": "Bounty",
-        "id": 382
+        "id": 383
     },
     {
         "name": null,
@@ -3747,7 +3757,7 @@
         "numberArray": 6,
         "stringArray": "0xff91e136",
         "altStringArray": "Solo SD",
-        "id": 383
+        "id": 384
     },
     {
         "name": null,
@@ -3757,7 +3767,7 @@
         "numberArray": 5,
         "stringArray": "0xff9ab1fd",
         "altStringArray": "Brawl Ball",
-        "id": 384
+        "id": 385
     },
     {
         "name": null,
@@ -3767,7 +3777,7 @@
         "numberArray": 7,
         "stringArray": "0xffff6847",
         "altStringArray": "Boss Fight",
-        "id": 385
+        "id": 386
     },
     {
         "name": null,
@@ -3777,7 +3787,7 @@
         "numberArray": 8,
         "stringArray": "0xffff6847",
         "altStringArray": "Robo Bumble",
-        "id": 386
+        "id": 387
     },
     {
         "name": null,
@@ -3787,7 +3797,7 @@
         "numberArray": 9,
         "stringArray": "0xff91e136",
         "altStringArray": "Duo SD",
-        "id": 387
+        "id": 388
     },
     {
         "name": null,
@@ -3797,6 +3807,6 @@
         "numberArray": 10,
         "stringArray": "0xffff6847",
         "altStringArray": "Raid Boss",
-        "id": 388
+        "id": 389
     }
 ]

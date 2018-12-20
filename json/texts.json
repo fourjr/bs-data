@@ -1762,7 +1762,7 @@
     "GAME_MODE_10": "BOSS FIGHT",
     "RAID_BOSS_INTRO_TEXT": "Defeat the Boss",
     "RAID_1": "Boss Robot Arena",
-    "GAME_MODE_10_DESC": "Can you beat the formidable Boss Robot? Join forces with two teammates and take down this monster. You can get back in the fight as long as at least one of your teammates is standing. If everyone falls, it's game over!\\n\\nBoss Fights increase in Challenge, from Normal all the way to Insane, every time you manage to beat the Boss at your own best Challenge level. You'll receive the best rewards for beating a new Challenge!",
+    "GAME_MODE_10_DESC": "Can you beat the formidable Boss Robot? Join forces with two teammates and take down this monster. You can get back in the fight as long as at least one of your teammates is standing. If everyone falls, it's game over!\\n\\nBoss Fights increase in Challenge, from Normal all the way to Insane, every time you manage to beat the Boss.",
     "TEAM_MATE_GONE": "<ccccc00>Teammate defeated!</c>",
     "ALL_TEAM_MATES_GONE": "<cee0000>Both teammates defeated!</c>",
     "RAID_BOSS_ENRAGE_1": "<c99bb22bb>Boss is ANGRY!</c>",
@@ -1897,9 +1897,9 @@
     "BATTLE_ROYALE_7D": "Rocky Valley",
     "WANTED_4D": "Death Cap",
     "GOLDRUSH_3D": "Mushroom Cave",
-    "WEEKEND_OFFER ": "Weekend Offer",
+    "WEEKEND_OFFER": "Weekend Offer",
     "EXCLUSIVE_OFFER": "Exclusive Offer",
     "EPIC_OFFER": "Epic Offer",
-    "MEGA_OFFER ": "Mega Offer",
-    "FEATURED_OFFER ": "Featured Offer"
+    "MEGA_OFFER": "Mega Offer",
+    "FEATURED_OFFER": "Featured Offer"
 }

@@ -12938,8 +12938,8 @@
     {
         "name": "Char_respawn",
         "fileNames": "sfx/char_respawn_01.wav",
-        "minVolume": 40,
-        "maxVolume": 40,
+        "minVolume": 70,
+        "maxVolume": 70,
         "minPitch": 100,
         "maxPitch": 100,
         "priority": 1,
@@ -13043,8 +13043,8 @@
     {
         "name": "Respawn_count_0",
         "fileNames": "sfx/respawn_count_01.wav",
-        "minVolume": 0,
-        "maxVolume": 0,
+        "minVolume": 40,
+        "maxVolume": 40,
         "minPitch": 200,
         "maxPitch": 200,
         "priority": 1,
