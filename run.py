@@ -7,6 +7,7 @@ import os
 import csv
 import json
 
+import requests
 import yaml
 
 if __name__ == '__main__':
@@ -27,6 +28,27 @@ if __name__ == '__main__':
             config = yaml.load(f)
     except FileNotFoundError:
         config = {'id': []}
+
+    if config.get('asset_url'):
+        # update assets
+        print('Syncing CSV Files')
+        for i in os.listdir('csv/csv_client'):
+            with open(f'csv/csv_client/{i}', 'w+', encoding='utf8') as f:
+                data = requests.get(f"{config['asset_url']}/csv_client/{i}").text
+                f.write('\n'.join([i for i in data.splitlines() if i]) + '\n')
+        print('csv_client')
+
+        for i in os.listdir('csv/csv_logic'):
+            with open(f'csv/csv_logic/{i}', 'w+', encoding='utf8') as f:
+                data = requests.get(f"{config['asset_url']}/csv_logic/{i}").text
+                f.write('\n'.join([i for i in data.splitlines() if i]) + '\n')
+        print('csv_logic')
+
+        with open('csv/texts.csv', 'w+', encoding='utf8') as f:
+            data = requests.get(f"{config['asset_url']}/localization/texts.csv").text
+            f.write('\n'.join([i for i in data.splitlines() if i]) + '\n')
+
+        print('CSV Files synced')
 
     csv_files = [('csv/csv_client/' + i, i) for i in os.listdir('csv/csv_client') if i.endswith('.csv')] + \
                 [('csv/csv_logic/' + i, i) for i in os.listdir('csv/csv_logic') if i.endswith('.csv')]
