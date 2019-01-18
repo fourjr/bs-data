@@ -98,7 +98,8 @@
         "greenMul": null,
         "blueMul": null,
         "chargeUltiAutomatically": null,
-        "id": 16
+        "id": 16,
+        "scId": 1600000
     },
     {
         "name": "Gunslinger",
@@ -199,7 +200,8 @@
         "greenMul": null,
         "blueMul": null,
         "chargeUltiAutomatically": null,
-        "id": 17
+        "id": 17,
+        "scId": 1600001
     },
     {
         "name": "BullDude",
@@ -300,7 +302,8 @@
         "greenMul": null,
         "blueMul": null,
         "chargeUltiAutomatically": null,
-        "id": 18
+        "id": 18,
+        "scId": 1600002
     },
     {
         "name": "RocketGirl",
@@ -401,7 +404,8 @@
         "greenMul": null,
         "blueMul": null,
         "chargeUltiAutomatically": null,
-        "id": 19
+        "id": 19,
+        "scId": 1600003
     },
     {
         "name": "TrickshotDude",
@@ -502,7 +506,8 @@
         "greenMul": null,
         "blueMul": null,
         "chargeUltiAutomatically": null,
-        "id": 20
+        "id": 20,
+        "scId": 1600004
     },
     {
         "name": "Cactus",
@@ -603,7 +608,8 @@
         "greenMul": null,
         "blueMul": null,
         "chargeUltiAutomatically": null,
-        "id": 21
+        "id": 21,
+        "scId": 1600005
     },
     {
         "name": "Barkeep",
@@ -704,7 +710,8 @@
         "greenMul": null,
         "blueMul": null,
         "chargeUltiAutomatically": null,
-        "id": 22
+        "id": 22,
+        "scId": 1600006
     },
     {
         "name": "Mechanic",
@@ -805,7 +812,8 @@
         "greenMul": null,
         "blueMul": null,
         "chargeUltiAutomatically": null,
-        "id": 23
+        "id": 23,
+        "scId": 1600007
     },
     {
         "name": "Shaman",
@@ -906,7 +914,8 @@
         "greenMul": null,
         "blueMul": null,
         "chargeUltiAutomatically": null,
-        "id": 24
+        "id": 24,
+        "scId": 1600008
     },
     {
         "name": "TntDude",
@@ -1007,7 +1016,8 @@
         "greenMul": null,
         "blueMul": null,
         "chargeUltiAutomatically": null,
-        "id": 25
+        "id": 25,
+        "scId": 1600009
     },
     {
         "name": "Luchador",
@@ -1108,7 +1118,8 @@
         "greenMul": null,
         "blueMul": null,
         "chargeUltiAutomatically": null,
-        "id": 26
+        "id": 26,
+        "scId": 1600010
     },
     {
         "name": "Undertaker",
@@ -1209,7 +1220,8 @@
         "greenMul": null,
         "blueMul": null,
         "chargeUltiAutomatically": null,
-        "id": 27
+        "id": 27,
+        "scId": 1600011
     },
     {
         "name": "Crow",
@@ -1310,7 +1322,8 @@
         "greenMul": null,
         "blueMul": null,
         "chargeUltiAutomatically": null,
-        "id": 28
+        "id": 28,
+        "scId": 1600012
     },
     {
         "name": "DeadMariachi",
@@ -1411,7 +1424,8 @@
         "greenMul": null,
         "blueMul": null,
         "chargeUltiAutomatically": null,
-        "id": 29
+        "id": 29,
+        "scId": 1600013
     },
     {
         "name": "BowDude",
@@ -1512,7 +1526,8 @@
         "greenMul": null,
         "blueMul": null,
         "chargeUltiAutomatically": null,
-        "id": 30
+        "id": 30,
+        "scId": 1600014
     },
     {
         "name": "Sniper",
@@ -1613,7 +1628,8 @@
         "greenMul": null,
         "blueMul": null,
         "chargeUltiAutomatically": null,
-        "id": 31
+        "id": 31,
+        "scId": 1600015
     },
     {
         "name": "MinigunDude",
@@ -1714,7 +1730,8 @@
         "greenMul": null,
         "blueMul": null,
         "chargeUltiAutomatically": null,
-        "id": 32
+        "id": 32,
+        "scId": 1600016
     },
     {
         "name": "BlackHole",
@@ -1815,7 +1832,8 @@
         "greenMul": null,
         "blueMul": null,
         "chargeUltiAutomatically": null,
-        "id": 33
+        "id": 33,
+        "scId": 1600017
     },
     {
         "name": "BarrelBot",
@@ -1916,7 +1934,8 @@
         "greenMul": null,
         "blueMul": null,
         "chargeUltiAutomatically": 50,
-        "id": 34
+        "id": 34,
+        "scId": 1600018
     },
     {
         "name": "ArtilleryDude",
@@ -2017,7 +2036,8 @@
         "greenMul": null,
         "blueMul": null,
         "chargeUltiAutomatically": null,
-        "id": 35
+        "id": 35,
+        "scId": 1600019
     },
     {
         "name": "HammerDude",
@@ -2118,7 +2138,8 @@
         "greenMul": null,
         "blueMul": null,
         "chargeUltiAutomatically": null,
-        "id": 36
+        "id": 36,
+        "scId": 1600020
     },
     {
         "name": "HookDude",
@@ -2219,7 +2240,8 @@
         "greenMul": null,
         "blueMul": null,
         "chargeUltiAutomatically": null,
-        "id": 37
+        "id": 37,
+        "scId": 1600021
     },
     {
         "name": "ClusterBombDude",
@@ -2320,7 +2342,8 @@
         "greenMul": null,
         "blueMul": null,
         "chargeUltiAutomatically": null,
-        "id": 38
+        "id": 38,
+        "scId": 1600022
     },
     {
         "name": "Ninja",
@@ -2421,7 +2444,8 @@
         "greenMul": null,
         "blueMul": null,
         "chargeUltiAutomatically": null,
-        "id": 39
+        "id": 39,
+        "scId": 1600023
     },
     {
         "name": "Animal",
@@ -2522,7 +2546,8 @@
         "greenMul": null,
         "blueMul": null,
         "chargeUltiAutomatically": null,
-        "id": 40
+        "id": 40,
+        "scId": 1600024
     },
     {
         "name": "TutorialDummy",
@@ -2623,7 +2648,8 @@
         "greenMul": null,
         "blueMul": null,
         "chargeUltiAutomatically": null,
-        "id": 41
+        "id": 41,
+        "scId": 1600025
     },
     {
         "name": "TutorialDummy2",
@@ -2724,7 +2750,8 @@
         "greenMul": null,
         "blueMul": null,
         "chargeUltiAutomatically": null,
-        "id": 42
+        "id": 42,
+        "scId": 1600026
     },
     {
         "name": "MechanicTurret",
@@ -2825,7 +2852,8 @@
         "greenMul": null,
         "blueMul": null,
         "chargeUltiAutomatically": null,
-        "id": 43
+        "id": 43,
+        "scId": 1600027
     },
     {
         "name": "HealingStation",
@@ -2926,7 +2954,8 @@
         "greenMul": null,
         "blueMul": null,
         "chargeUltiAutomatically": null,
-        "id": 44
+        "id": 44,
+        "scId": 1600028
     },
     {
         "name": "Safe1",
@@ -3027,7 +3056,8 @@
         "greenMul": null,
         "blueMul": null,
         "chargeUltiAutomatically": null,
-        "id": 45
+        "id": 45,
+        "scId": 1600029
     },
     {
         "name": "Safe2",
@@ -3128,7 +3158,8 @@
         "greenMul": null,
         "blueMul": null,
         "chargeUltiAutomatically": null,
-        "id": 46
+        "id": 46,
+        "scId": 1600030
     },
     {
         "name": "Safe3",
@@ -3229,7 +3260,8 @@
         "greenMul": null,
         "blueMul": null,
         "chargeUltiAutomatically": null,
-        "id": 47
+        "id": 47,
+        "scId": 1600031
     },
     {
         "name": "Safe4",
@@ -3330,7 +3362,8 @@
         "greenMul": null,
         "blueMul": null,
         "chargeUltiAutomatically": null,
-        "id": 48
+        "id": 48,
+        "scId": 1600032
     },
     {
         "name": "ExplodingBarrel",
@@ -3431,7 +3464,8 @@
         "greenMul": null,
         "blueMul": null,
         "chargeUltiAutomatically": null,
-        "id": 49
+        "id": 49,
+        "scId": 1600033
     },
     {
         "name": "PoisonBarrel",
@@ -3532,7 +3566,8 @@
         "greenMul": null,
         "blueMul": null,
         "chargeUltiAutomatically": null,
-        "id": 50
+        "id": 50,
+        "scId": 1600034
     },
     {
         "name": "ShamanPet",
@@ -3633,7 +3668,8 @@
         "greenMul": null,
         "blueMul": null,
         "chargeUltiAutomatically": null,
-        "id": 51
+        "id": 51,
+        "scId": 1600035
     },
     {
         "name": "BoneThrowerPet",
@@ -3734,7 +3770,8 @@
         "greenMul": null,
         "blueMul": null,
         "chargeUltiAutomatically": null,
-        "id": 52
+        "id": 52,
+        "scId": 1600036
     },
     {
         "name": "LaserBall",
@@ -3835,7 +3872,8 @@
         "greenMul": null,
         "blueMul": null,
         "chargeUltiAutomatically": null,
-        "id": 53
+        "id": 53,
+        "scId": 1600037
     },
     {
         "name": "LootBox",
@@ -3936,7 +3974,8 @@
         "greenMul": null,
         "blueMul": null,
         "chargeUltiAutomatically": null,
-        "id": 54
+        "id": 54,
+        "scId": 1600038
     },
     {
         "name": "TutorialDummy3",
@@ -4037,7 +4076,8 @@
         "greenMul": null,
         "blueMul": null,
         "chargeUltiAutomatically": null,
-        "id": 55
+        "id": 55,
+        "scId": 1600039
     },
     {
         "name": "ArtilleryDudeTurret",
@@ -4138,7 +4178,8 @@
         "greenMul": null,
         "blueMul": null,
         "chargeUltiAutomatically": null,
-        "id": 56
+        "id": 56,
+        "scId": 1600040
     },
     {
         "name": "CoopMeleeEnemy1",
@@ -4239,7 +4280,8 @@
         "greenMul": null,
         "blueMul": null,
         "chargeUltiAutomatically": null,
-        "id": 57
+        "id": 57,
+        "scId": 1600041
     },
     {
         "name": "CoopMeleeEnemy2",
@@ -4340,7 +4382,8 @@
         "greenMul": 120,
         "blueMul": 255,
         "chargeUltiAutomatically": null,
-        "id": 58
+        "id": 58,
+        "scId": 1600042
     },
     {
         "name": "CoopMeleeEnemy3",
@@ -4441,7 +4484,8 @@
         "greenMul": 140,
         "blueMul": 140,
         "chargeUltiAutomatically": null,
-        "id": 59
+        "id": 59,
+        "scId": 1600043
     },
     {
         "name": "CoopMeleeEnemy4",
@@ -4542,7 +4586,8 @@
         "greenMul": 255,
         "blueMul": 180,
         "chargeUltiAutomatically": null,
-        "id": 60
+        "id": 60,
+        "scId": 1600044
     },
     {
         "name": "CoopFastMeleeEnemy1",
@@ -4643,7 +4688,8 @@
         "greenMul": null,
         "blueMul": null,
         "chargeUltiAutomatically": null,
-        "id": 61
+        "id": 61,
+        "scId": 1600045
     },
     {
         "name": "CoopFastMeleeEnemy2",
@@ -4744,7 +4790,8 @@
         "greenMul": 120,
         "blueMul": 255,
         "chargeUltiAutomatically": null,
-        "id": 62
+        "id": 62,
+        "scId": 1600046
     },
     {
         "name": "CoopFastMeleeEnemy3",
@@ -4845,7 +4892,8 @@
         "greenMul": 140,
         "blueMul": 140,
         "chargeUltiAutomatically": null,
-        "id": 63
+        "id": 63,
+        "scId": 1600047
     },
     {
         "name": "CoopFastMeleeEnemy4",
@@ -4946,7 +4994,8 @@
         "greenMul": 255,
         "blueMul": 180,
         "chargeUltiAutomatically": null,
-        "id": 64
+        "id": 64,
+        "scId": 1600048
     },
     {
         "name": "CoopRangedEnemy1",
@@ -5047,7 +5096,8 @@
         "greenMul": null,
         "blueMul": null,
         "chargeUltiAutomatically": null,
-        "id": 65
+        "id": 65,
+        "scId": 1600049
     },
     {
         "name": "CoopRangedEnemy2",
@@ -5148,7 +5198,8 @@
         "greenMul": 120,
         "blueMul": 255,
         "chargeUltiAutomatically": null,
-        "id": 66
+        "id": 66,
+        "scId": 1600050
     },
     {
         "name": "CoopRangedEnemy3",
@@ -5249,7 +5300,8 @@
         "greenMul": 140,
         "blueMul": 140,
         "chargeUltiAutomatically": null,
-        "id": 67
+        "id": 67,
+        "scId": 1600051
     },
     {
         "name": "CoopRangedEnemy4",
@@ -5350,7 +5402,8 @@
         "greenMul": 255,
         "blueMul": 180,
         "chargeUltiAutomatically": null,
-        "id": 68
+        "id": 68,
+        "scId": 1600052
     },
     {
         "name": "ShotgunGirlPet",
@@ -5451,7 +5504,8 @@
         "greenMul": null,
         "blueMul": null,
         "chargeUltiAutomatically": null,
-        "id": 69
+        "id": 69,
+        "scId": 1600053
     },
     {
         "name": "BlackHolePet",
@@ -5552,7 +5606,8 @@
         "greenMul": null,
         "blueMul": null,
         "chargeUltiAutomatically": null,
-        "id": 70
+        "id": 70,
+        "scId": 1600054
     },
     {
         "name": "CoopBoss1",
@@ -5653,7 +5708,8 @@
         "greenMul": null,
         "blueMul": null,
         "chargeUltiAutomatically": null,
-        "id": 71
+        "id": 71,
+        "scId": 1600055
     },
     {
         "name": "CoopBoss2",
@@ -5754,7 +5810,8 @@
         "greenMul": 120,
         "blueMul": 255,
         "chargeUltiAutomatically": null,
-        "id": 72
+        "id": 72,
+        "scId": 1600056
     },
     {
         "name": "CoopBoss3",
@@ -5855,7 +5912,8 @@
         "greenMul": 140,
         "blueMul": 140,
         "chargeUltiAutomatically": null,
-        "id": 73
+        "id": 73,
+        "scId": 1600057
     },
     {
         "name": "TutorialExplodingBarrel",
@@ -5956,7 +6014,8 @@
         "greenMul": null,
         "blueMul": null,
         "chargeUltiAutomatically": null,
-        "id": 74
+        "id": 74,
+        "scId": 1600058
     },
     {
         "name": "EventModifierBoss",
@@ -6057,7 +6116,8 @@
         "greenMul": null,
         "blueMul": null,
         "chargeUltiAutomatically": null,
-        "id": 75
+        "id": 75,
+        "scId": 1600059
     },
     {
         "name": "RaidBoss",
@@ -6158,7 +6218,8 @@
         "greenMul": null,
         "blueMul": null,
         "chargeUltiAutomatically": null,
-        "id": 76
+        "id": 76,
+        "scId": 1600060
     },
     {
         "name": "RaidBossMeleeEnemy1",
@@ -6259,7 +6320,8 @@
         "greenMul": null,
         "blueMul": null,
         "chargeUltiAutomatically": null,
-        "id": 77
+        "id": 77,
+        "scId": 1600061
     },
     {
         "name": "RaidBossMeleeEnemy2",
@@ -6360,7 +6422,8 @@
         "greenMul": 120,
         "blueMul": 255,
         "chargeUltiAutomatically": null,
-        "id": 78
+        "id": 78,
+        "scId": 1600062
     },
     {
         "name": "RaidBossMeleeEnemy3",
@@ -6461,7 +6524,8 @@
         "greenMul": 140,
         "blueMul": 140,
         "chargeUltiAutomatically": null,
-        "id": 79
+        "id": 79,
+        "scId": 1600063
     },
     {
         "name": "RaidBossMeleeEnemy4",
@@ -6562,7 +6626,8 @@
         "greenMul": 255,
         "blueMul": 180,
         "chargeUltiAutomatically": null,
-        "id": 80
+        "id": 80,
+        "scId": 1600064
     },
     {
         "name": "RaidBossFastMeleeEnemy1",
@@ -6663,7 +6728,8 @@
         "greenMul": null,
         "blueMul": null,
         "chargeUltiAutomatically": null,
-        "id": 81
+        "id": 81,
+        "scId": 1600065
     },
     {
         "name": "RaidBossFastMeleeEnemy2",
@@ -6764,7 +6830,8 @@
         "greenMul": 120,
         "blueMul": 255,
         "chargeUltiAutomatically": null,
-        "id": 82
+        "id": 82,
+        "scId": 1600066
     },
     {
         "name": "RaidBossFastMeleeEnemy3",
@@ -6865,7 +6932,8 @@
         "greenMul": 140,
         "blueMul": 140,
         "chargeUltiAutomatically": null,
-        "id": 83
+        "id": 83,
+        "scId": 1600067
     },
     {
         "name": "RaidBossFastMeleeEnemy4",
@@ -6966,7 +7034,8 @@
         "greenMul": 255,
         "blueMul": 180,
         "chargeUltiAutomatically": null,
-        "id": 84
+        "id": 84,
+        "scId": 1600068
     },
     {
         "name": "RaidBossRangedEnemy1",
@@ -7067,7 +7136,8 @@
         "greenMul": null,
         "blueMul": null,
         "chargeUltiAutomatically": null,
-        "id": 85
+        "id": 85,
+        "scId": 1600069
     },
     {
         "name": "RaidBossRangedEnemy2",
@@ -7168,7 +7238,8 @@
         "greenMul": 120,
         "blueMul": 255,
         "chargeUltiAutomatically": null,
-        "id": 86
+        "id": 86,
+        "scId": 1600070
     },
     {
         "name": "RaidBossRangedEnemy3",
@@ -7269,7 +7340,8 @@
         "greenMul": 140,
         "blueMul": 140,
         "chargeUltiAutomatically": null,
-        "id": 87
+        "id": 87,
+        "scId": 1600071
     },
     {
         "name": "RaidBossRangedEnemy4",
@@ -7370,6 +7442,7 @@
         "greenMul": 255,
         "blueMul": 180,
         "chargeUltiAutomatically": null,
-        "id": 88
+        "id": 88,
+        "scId": 1600072
     }
 ]
