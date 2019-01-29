@@ -283,5 +283,24 @@
         "sCWEnemy": null,
         "layer": "Above",
         "id": 32
+    },
+    {
+        "name": "Scrap",
+        "fileName": "sc/effects.sc",
+        "exportName": "blob_pickup",
+        "exportNameEnemy": "blob_pickup",
+        "shadowExportName": "projectile_shadow",
+        "groundGlowExportName": null,
+        "loopingEffect": "Blob_fx",
+        "value": null,
+        "value2": null,
+        "triggerRangeSubTiles": 3,
+        "triggerAreaEffect": null,
+        "canBePickedUp": true,
+        "spawnEffect": "Spawn_plasmoid",
+        "sCW": null,
+        "sCWEnemy": null,
+        "layer": "Above",
+        "id": 33
     }
 ]

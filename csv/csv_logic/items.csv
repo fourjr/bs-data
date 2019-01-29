@@ -15,3 +15,4 @@
 "Bomb","sc/effects.sc","grenade_01","grenade_01_red","projectile_shadow",,,800,300,200,"SniperBombExplosion","true","Spawn_sniper_bomb",,,"Above"
 "BoxOfSelfDestructBombs","sc/effects.sc","red_pickup","red_pickup",,"pickup_glow_green",,6,20,,,,"Spawn_plasmoid",,,"Above"
 "SelfDestructBomb","sc/effects.sc","cannon_projectile_blue","cannon_projectile_red","projectile_shadow",,,800,1300,200,"SelfDestructExplosion","true","artillery_dude_turret_attack",,,"Above"
+"Scrap","sc/effects.sc","blob_pickup","blob_pickup","projectile_shadow",,"Blob_fx",,,3,,"true","Spawn_plasmoid",,,"Above"

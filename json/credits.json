@@ -315,48 +315,53 @@
         "id": 75
     },
     {
-        "name": "Slava Volkov",
+        "name": "F\u00e9lix Vivier",
         "0": null,
         "id": 76
     },
     {
-        "name": "Kustaa Vuori",
+        "name": "Slava Volkov",
         "0": null,
         "id": 77
     },
     {
-        "name": "Jaakko V\u00e4yrynen",
+        "name": "Kustaa Vuori",
         "0": null,
         "id": 78
     },
     {
-        "name": "Toshizumi Waki",
+        "name": "Jaakko V\u00e4yrynen",
         "0": null,
         "id": 79
     },
     {
-        "name": "Ryan Wener",
+        "name": "Toshizumi Waki",
         "0": null,
         "id": 80
     },
     {
-        "name": "Julie Woo",
+        "name": "Ryan Wener",
         "0": null,
         "id": 81
     },
     {
-        "name": "Choong Yoon",
+        "name": "Julie Woo",
         "0": null,
         "id": 82
     },
     {
-        "name": "Oscar Zhang",
+        "name": "Choong Yoon",
         "0": null,
         "id": 83
     },
     {
-        "name": "Jean Zoch",
+        "name": "Oscar Zhang",
         "0": null,
         "id": 84
+    },
+    {
+        "name": "Jean Zoch",
+        "0": null,
+        "id": 85
     }
 ]

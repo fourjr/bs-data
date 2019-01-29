@@ -42,7 +42,7 @@
     {
         "name": 6,
         "tID": "Matchmaking is based on the Trophies of the Brawler you are playing with, making it easy to gain Trophies with a newly unlocked Brawler.",
-        "minXPLevel": 7,
+        "minXPLevel": 3,
         "maxXPLevel": 999,
         "fileName": null,
         "exportName": null
@@ -50,7 +50,7 @@
     {
         "name": 7,
         "tID": "Getting more Brawlers will make it easier to advance in total Trophies and get more Rewards.",
-        "minXPLevel": 7,
+        "minXPLevel": 3,
         "maxXPLevel": 999,
         "fileName": null,
         "exportName": null
@@ -66,14 +66,14 @@
     {
         "name": 9,
         "tID": "Barley's Super is especially powerful at short range, because the bottles land within a small area.",
-        "minXPLevel": 20,
+        "minXPLevel": 999,
         "maxXPLevel": 999,
         "fileName": null,
         "exportName": null
     },
     {
         "name": 10,
-        "tID": "Each time Ricochet's bullets bounce they travel farther.",
+        "tID": "Each time Rico's bullets bounce they travel farther.",
         "minXPLevel": 20,
         "maxXPLevel": 999,
         "fileName": null,
@@ -250,7 +250,7 @@
     {
         "name": 32,
         "tID": "Frank stops to perform his attack and Super, giving an opportunity for his opponents to get out of his range.",
-        "minXPLevel": 3,
+        "minXPLevel": 20,
         "maxXPLevel": 999,
         "fileName": null,
         "exportName": null
@@ -321,7 +321,7 @@
     },
     {
         "name": 41,
-        "tID": "Connect to Supercell ID from the settings screen to keep your account safe and play with multiple devices.",
+        "tID": "Connect to Supercell ID from the settings screen to keep your account safe and play with multiple devices. You also get a free skin by doing this!",
         "minXPLevel": 3,
         "maxXPLevel": 999,
         "fileName": null,

@@ -43,7 +43,7 @@
     },
     {
         "name": "_INT",
-        "tID": "TID_REGION_INT",
+        "tID": "International",
         "displayName": "International",
         "isCountry": "FALSE",
         "id": 20
