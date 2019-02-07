@@ -6489,6 +6489,7 @@
             "decor": null,
             "isPromotion": null,
             "coins": null,
+            "refundGemValue": 30,
             "id": 2
         },
         {
@@ -6510,6 +6511,7 @@
             "decor": null,
             "isPromotion": null,
             "coins": null,
+            "refundGemValue": 80,
             "id": 3
         },
         {
@@ -6531,6 +6533,7 @@
             "decor": null,
             "isPromotion": null,
             "coins": null,
+            "refundGemValue": 170,
             "id": 4
         },
         {
@@ -6552,6 +6555,7 @@
             "decor": null,
             "isPromotion": null,
             "coins": null,
+            "refundGemValue": 360,
             "id": 5
         },
         {
@@ -6573,6 +6577,7 @@
             "decor": null,
             "isPromotion": null,
             "coins": null,
+            "refundGemValue": 950,
             "id": 6
         },
         {
@@ -6594,6 +6599,7 @@
             "decor": null,
             "isPromotion": null,
             "coins": null,
+            "refundGemValue": 2000,
             "id": 7
         },
         {
@@ -6615,6 +6621,7 @@
             "decor": 0,
             "isPromotion": null,
             "coins": null,
+            "refundGemValue": 160,
             "id": 8
         },
         {
@@ -6636,6 +6643,7 @@
             "decor": 0,
             "isPromotion": null,
             "coins": null,
+            "refundGemValue": 250,
             "id": 9
         },
         {
@@ -6657,6 +6665,7 @@
             "decor": 0,
             "isPromotion": null,
             "coins": null,
+            "refundGemValue": 490,
             "id": 10
         },
         {
@@ -6678,6 +6687,7 @@
             "decor": 0,
             "isPromotion": null,
             "coins": null,
+            "refundGemValue": 760,
             "id": 11
         },
         {
@@ -6699,6 +6709,7 @@
             "decor": 1,
             "isPromotion": null,
             "coins": null,
+            "refundGemValue": 330,
             "id": 12
         },
         {
@@ -6720,6 +6731,7 @@
             "decor": 3,
             "isPromotion": null,
             "coins": null,
+            "refundGemValue": 330,
             "id": 13
         },
         {
@@ -6741,6 +6753,7 @@
             "decor": 0,
             "isPromotion": null,
             "coins": 2000,
+            "refundGemValue": 493,
             "id": 14
         },
         {
@@ -6762,6 +6775,7 @@
             "decor": 0,
             "isPromotion": null,
             "coins": 3500,
+            "refundGemValue": 738,
             "id": 15
         },
         {
@@ -6783,6 +6797,7 @@
             "decor": 0,
             "isPromotion": null,
             "coins": 4000,
+            "refundGemValue": 666,
             "id": 16
         },
         {
@@ -6793,7 +6808,7 @@
             "existsApple": "TRUE",
             "existsAndroid": "TRUE",
             "diamonds": 170,
-            "uSD": 499,
+            "uSD": 999,
             "order": 9,
             "iconExportName": null,
             "starterPackNumber": null,
@@ -6804,6 +6819,7 @@
             "decor": 2,
             "isPromotion": null,
             "coins": 1500,
+            "refundGemValue": 505,
             "id": 17
         },
         {
@@ -6825,6 +6841,7 @@
             "decor": 0,
             "isPromotion": null,
             "coins": 1111,
+            "refundGemValue": 320,
             "id": 18
         }
     ],
@@ -57078,6 +57095,1048 @@
             "scId": 1500109
         }
     ],
+    "map_blocks": [
+        {
+            "codeName": "r0",
+            "group": "roboleft",
+            "data": "........"
+        },
+        {
+            "codeName": "r1",
+            "group": "****",
+            "data": "........"
+        },
+        {
+            "codeName": "r2",
+            "group": null,
+            "data": "..D..D.."
+        },
+        {
+            "codeName": "r3",
+            "group": null,
+            "data": "......I."
+        },
+        {
+            "codeName": "r4",
+            "group": null,
+            "data": "......I."
+        },
+        {
+            "codeName": "r5",
+            "group": null,
+            "data": "..I...I."
+        },
+        {
+            "codeName": "r6",
+            "group": null,
+            "data": "..II..I."
+        },
+        {
+            "codeName": "r7",
+            "group": null,
+            "data": "..II...."
+        },
+        {
+            "codeName": "r8",
+            "group": "roboleft",
+            "data": "........"
+        },
+        {
+            "codeName": "r9",
+            "group": "****",
+            "data": "........"
+        },
+        {
+            "codeName": "r10",
+            "group": null,
+            "data": "........"
+        },
+        {
+            "codeName": "r11",
+            "group": null,
+            "data": "....D..."
+        },
+        {
+            "codeName": "r12",
+            "group": null,
+            "data": "........"
+        },
+        {
+            "codeName": "r13",
+            "group": null,
+            "data": "..I....."
+        },
+        {
+            "codeName": "r14",
+            "group": null,
+            "data": "..I..II."
+        },
+        {
+            "codeName": "r15",
+            "group": null,
+            "data": "..IIIII."
+        },
+        {
+            "codeName": "r16",
+            "group": "roboleft",
+            "data": "........"
+        },
+        {
+            "codeName": "r17",
+            "group": "****",
+            "data": "........"
+        },
+        {
+            "codeName": "r18",
+            "group": null,
+            "data": ".....II."
+        },
+        {
+            "codeName": "r19",
+            "group": null,
+            "data": ".....II."
+        },
+        {
+            "codeName": "r20",
+            "group": null,
+            "data": "........"
+        },
+        {
+            "codeName": "r21",
+            "group": null,
+            "data": "........"
+        },
+        {
+            "codeName": "r22",
+            "group": null,
+            "data": "..II...."
+        },
+        {
+            "codeName": "r23",
+            "group": null,
+            "data": "..IIII.."
+        },
+        {
+            "codeName": "r24",
+            "group": "roboleft",
+            "data": "........"
+        },
+        {
+            "codeName": "r25",
+            "group": "****",
+            "data": "........"
+        },
+        {
+            "codeName": "r26",
+            "group": null,
+            "data": "..II..I."
+        },
+        {
+            "codeName": "r27",
+            "group": null,
+            "data": "..I...I."
+        },
+        {
+            "codeName": "r28",
+            "group": null,
+            "data": "......I."
+        },
+        {
+            "codeName": "r29",
+            "group": null,
+            "data": "........"
+        },
+        {
+            "codeName": "r30",
+            "group": null,
+            "data": "..I....."
+        },
+        {
+            "codeName": "r31",
+            "group": null,
+            "data": "..II...."
+        },
+        {
+            "codeName": "r32",
+            "group": "roboleft",
+            "data": "........"
+        },
+        {
+            "codeName": "r33",
+            "group": "****",
+            "data": "....D..."
+        },
+        {
+            "codeName": "r34",
+            "group": null,
+            "data": "...III.."
+        },
+        {
+            "codeName": "r35",
+            "group": null,
+            "data": "........"
+        },
+        {
+            "codeName": "r36",
+            "group": null,
+            "data": "........"
+        },
+        {
+            "codeName": "r37",
+            "group": null,
+            "data": "..I...I."
+        },
+        {
+            "codeName": "r38",
+            "group": null,
+            "data": "..I..II."
+        },
+        {
+            "codeName": "r39",
+            "group": null,
+            "data": "..I..II."
+        },
+        {
+            "codeName": "r40",
+            "group": "roboleft",
+            "data": "........"
+        },
+        {
+            "codeName": "r41",
+            "group": "****",
+            "data": "........"
+        },
+        {
+            "codeName": "r42",
+            "group": null,
+            "data": "....II.."
+        },
+        {
+            "codeName": "r43",
+            "group": null,
+            "data": "....II.."
+        },
+        {
+            "codeName": "r44",
+            "group": null,
+            "data": "........"
+        },
+        {
+            "codeName": "r45",
+            "group": null,
+            "data": "........"
+        },
+        {
+            "codeName": "r46",
+            "group": null,
+            "data": ".....II."
+        },
+        {
+            "codeName": "r47",
+            "group": null,
+            "data": ".....II."
+        },
+        {
+            "codeName": "r48",
+            "group": "roboleft",
+            "data": "........"
+        },
+        {
+            "codeName": "r49",
+            "group": "****",
+            "data": "........"
+        },
+        {
+            "codeName": "r50",
+            "group": null,
+            "data": "....III."
+        },
+        {
+            "codeName": "r51",
+            "group": null,
+            "data": "........"
+        },
+        {
+            "codeName": "r52",
+            "group": null,
+            "data": "..D...D."
+        },
+        {
+            "codeName": "r53",
+            "group": null,
+            "data": "......I."
+        },
+        {
+            "codeName": "r54",
+            "group": null,
+            "data": "..I...I."
+        },
+        {
+            "codeName": "r55",
+            "group": null,
+            "data": "III...I."
+        },
+        {
+            "codeName": "r56",
+            "group": "roboleft",
+            "data": "........"
+        },
+        {
+            "codeName": "r57",
+            "group": "****",
+            "data": "........"
+        },
+        {
+            "codeName": "r58",
+            "group": null,
+            "data": "IIII...."
+        },
+        {
+            "codeName": "r59",
+            "group": null,
+            "data": "..II...."
+        },
+        {
+            "codeName": "r60",
+            "group": null,
+            "data": "........"
+        },
+        {
+            "codeName": "r61",
+            "group": null,
+            "data": "........"
+        },
+        {
+            "codeName": "r62",
+            "group": null,
+            "data": ".....II."
+        },
+        {
+            "codeName": "r63",
+            "group": null,
+            "data": "....III."
+        },
+        {
+            "codeName": "r64",
+            "group": "roboleft",
+            "data": "........"
+        },
+        {
+            "codeName": "r65",
+            "group": "****",
+            "data": "........"
+        },
+        {
+            "codeName": "r66",
+            "group": null,
+            "data": "..II...."
+        },
+        {
+            "codeName": "r67",
+            "group": null,
+            "data": "..I....."
+        },
+        {
+            "codeName": "r68",
+            "group": null,
+            "data": "..I....."
+        },
+        {
+            "codeName": "r69",
+            "group": null,
+            "data": "III....."
+        },
+        {
+            "codeName": "r70",
+            "group": null,
+            "data": ".....D.."
+        },
+        {
+            "codeName": "r71",
+            "group": null,
+            "data": "........"
+        },
+        {
+            "codeName": "r72",
+            "group": "roboright",
+            "data": "........"
+        },
+        {
+            "codeName": "r73",
+            "group": "****",
+            "data": "........"
+        },
+        {
+            "codeName": "r74",
+            "group": null,
+            "data": "III...D."
+        },
+        {
+            "codeName": "r75",
+            "group": null,
+            "data": ".....I.."
+        },
+        {
+            "codeName": "r76",
+            "group": null,
+            "data": ".....I.."
+        },
+        {
+            "codeName": "r77",
+            "group": null,
+            "data": ".I...I.."
+        },
+        {
+            "codeName": "r78",
+            "group": null,
+            "data": ".II..I.."
+        },
+        {
+            "codeName": "r79",
+            "group": null,
+            "data": "........"
+        },
+        {
+            "codeName": "r80",
+            "group": "roboright",
+            "data": "........"
+        },
+        {
+            "codeName": "r81",
+            "group": "****",
+            "data": "........"
+        },
+        {
+            "codeName": "r82",
+            "group": null,
+            "data": ".II....."
+        },
+        {
+            "codeName": "r83",
+            "group": null,
+            "data": ".II....."
+        },
+        {
+            "codeName": "r84",
+            "group": null,
+            "data": "II......"
+        },
+        {
+            "codeName": "r85",
+            "group": null,
+            "data": "........"
+        },
+        {
+            "codeName": "r86",
+            "group": null,
+            "data": "....II.."
+        },
+        {
+            "codeName": "r87",
+            "group": null,
+            "data": "....II.."
+        },
+        {
+            "codeName": "r88",
+            "group": "roboright",
+            "data": "........"
+        },
+        {
+            "codeName": "r89",
+            "group": "****",
+            "data": "........"
+        },
+        {
+            "codeName": "r90",
+            "group": null,
+            "data": "..IIII.."
+        },
+        {
+            "codeName": "r91",
+            "group": null,
+            "data": "....II.."
+        },
+        {
+            "codeName": "r92",
+            "group": null,
+            "data": "..D....."
+        },
+        {
+            "codeName": "r93",
+            "group": null,
+            "data": ".....D.."
+        },
+        {
+            "codeName": "r94",
+            "group": null,
+            "data": ".II....."
+        },
+        {
+            "codeName": "r95",
+            "group": null,
+            "data": "IIIIII.."
+        },
+        {
+            "codeName": "r96",
+            "group": "roboright",
+            "data": "........"
+        },
+        {
+            "codeName": "r97",
+            "group": "****",
+            "data": "........"
+        },
+        {
+            "codeName": "r98",
+            "group": null,
+            "data": ".....I.."
+        },
+        {
+            "codeName": "r99",
+            "group": null,
+            "data": ".I...I.."
+        },
+        {
+            "codeName": "r100",
+            "group": null,
+            "data": ".I...I.."
+        },
+        {
+            "codeName": "r101",
+            "group": null,
+            "data": ".I...I.."
+        },
+        {
+            "codeName": "r102",
+            "group": null,
+            "data": ".I......"
+        },
+        {
+            "codeName": "r103",
+            "group": null,
+            "data": "II......"
+        },
+        {
+            "codeName": "r104",
+            "group": "roboright",
+            "data": "........"
+        },
+        {
+            "codeName": "r105",
+            "group": "****",
+            "data": "......D."
+        },
+        {
+            "codeName": "r106",
+            "group": null,
+            "data": "..III..."
+        },
+        {
+            "codeName": "r107",
+            "group": null,
+            "data": "........"
+        },
+        {
+            "codeName": "r108",
+            "group": null,
+            "data": "........"
+        },
+        {
+            "codeName": "r109",
+            "group": null,
+            "data": "II...I.."
+        },
+        {
+            "codeName": "r110",
+            "group": null,
+            "data": ".I..II.."
+        },
+        {
+            "codeName": "r111",
+            "group": null,
+            "data": "....II.."
+        },
+        {
+            "codeName": "r112",
+            "group": "roboright",
+            "data": "........"
+        },
+        {
+            "codeName": "r113",
+            "group": "****",
+            "data": "........"
+        },
+        {
+            "codeName": "r114",
+            "group": null,
+            "data": ".II....."
+        },
+        {
+            "codeName": "r115",
+            "group": null,
+            "data": ".II....."
+        },
+        {
+            "codeName": "r116",
+            "group": null,
+            "data": "........"
+        },
+        {
+            "codeName": "r117",
+            "group": null,
+            "data": ".D......"
+        },
+        {
+            "codeName": "r118",
+            "group": null,
+            "data": "....II.."
+        },
+        {
+            "codeName": "r119",
+            "group": null,
+            "data": "....II.."
+        },
+        {
+            "codeName": "r120",
+            "group": "roboright",
+            "data": "........"
+        },
+        {
+            "codeName": "r121",
+            "group": "****",
+            "data": "........"
+        },
+        {
+            "codeName": "r122",
+            "group": null,
+            "data": "III....."
+        },
+        {
+            "codeName": "r123",
+            "group": null,
+            "data": "........"
+        },
+        {
+            "codeName": "r124",
+            "group": null,
+            "data": ".......D"
+        },
+        {
+            "codeName": "r125",
+            "group": null,
+            "data": ".D...I.."
+        },
+        {
+            "codeName": "r126",
+            "group": null,
+            "data": "....II.."
+        },
+        {
+            "codeName": "r127",
+            "group": null,
+            "data": "....IIII"
+        },
+        {
+            "codeName": "r128",
+            "group": "roboright",
+            "data": "........"
+        },
+        {
+            "codeName": "r129",
+            "group": "****",
+            "data": "........"
+        },
+        {
+            "codeName": "r130",
+            "group": null,
+            "data": ".II..III"
+        },
+        {
+            "codeName": "r131",
+            "group": null,
+            "data": ".I...I.."
+        },
+        {
+            "codeName": "r132",
+            "group": null,
+            "data": ".....I.."
+        },
+        {
+            "codeName": "r133",
+            "group": null,
+            "data": ".....I.D"
+        },
+        {
+            "codeName": "r134",
+            "group": null,
+            "data": ".I......"
+        },
+        {
+            "codeName": "r135",
+            "group": null,
+            "data": "III....."
+        },
+        {
+            "codeName": "r136",
+            "group": "roboright",
+            "data": "........"
+        },
+        {
+            "codeName": "r137",
+            "group": "****",
+            "data": ".....D.."
+        },
+        {
+            "codeName": "r138",
+            "group": null,
+            "data": "IIII...."
+        },
+        {
+            "codeName": "r139",
+            "group": null,
+            "data": "........"
+        },
+        {
+            "codeName": "r140",
+            "group": null,
+            "data": ".D...III"
+        },
+        {
+            "codeName": "r141",
+            "group": null,
+            "data": ".....I.."
+        },
+        {
+            "codeName": "r142",
+            "group": null,
+            "data": ".II..I.."
+        },
+        {
+            "codeName": "r143",
+            "group": null,
+            "data": ".II....."
+        },
+        {
+            "codeName": "r144",
+            "group": "roboleft",
+            "data": "........"
+        },
+        {
+            "codeName": "r145",
+            "group": "****",
+            "data": "........"
+        },
+        {
+            "codeName": "r146",
+            "group": null,
+            "data": "..IIIII."
+        },
+        {
+            "codeName": "r147",
+            "group": null,
+            "data": "..I...I."
+        },
+        {
+            "codeName": "r148",
+            "group": null,
+            "data": "..I..DI."
+        },
+        {
+            "codeName": "r149",
+            "group": null,
+            "data": "..I...I."
+        },
+        {
+            "codeName": "r150",
+            "group": null,
+            "data": "..I...I."
+        },
+        {
+            "codeName": "r151",
+            "group": null,
+            "data": "..II..I."
+        },
+        {
+            "codeName": "r152",
+            "group": "roboleft",
+            "data": "........"
+        },
+        {
+            "codeName": "r153",
+            "group": "****",
+            "data": "........"
+        },
+        {
+            "codeName": "r154",
+            "group": null,
+            "data": "........"
+        },
+        {
+            "codeName": "r155",
+            "group": null,
+            "data": "IIIIIII."
+        },
+        {
+            "codeName": "r156",
+            "group": null,
+            "data": "....D..."
+        },
+        {
+            "codeName": "r157",
+            "group": null,
+            "data": "........"
+        },
+        {
+            "codeName": "r158",
+            "group": null,
+            "data": "..I...I."
+        },
+        {
+            "codeName": "r159",
+            "group": null,
+            "data": "..IIIII."
+        },
+        {
+            "codeName": "r160",
+            "group": "roboright",
+            "data": "........"
+        },
+        {
+            "codeName": "r161",
+            "group": "****",
+            "data": "........"
+        },
+        {
+            "codeName": "r162",
+            "group": null,
+            "data": "....D..."
+        },
+        {
+            "codeName": "r163",
+            "group": null,
+            "data": "........"
+        },
+        {
+            "codeName": "r164",
+            "group": null,
+            "data": ".IIIIIII"
+        },
+        {
+            "codeName": "r165",
+            "group": null,
+            "data": ".I...I.."
+        },
+        {
+            "codeName": "r166",
+            "group": null,
+            "data": ".I...I.."
+        },
+        {
+            "codeName": "r167",
+            "group": null,
+            "data": ".I..II.."
+        },
+        {
+            "codeName": "r168",
+            "group": "roboright",
+            "data": "........"
+        },
+        {
+            "codeName": "r169",
+            "group": "****",
+            "data": "........"
+        },
+        {
+            "codeName": "r170",
+            "group": null,
+            "data": ".IIIII.."
+        },
+        {
+            "codeName": "r171",
+            "group": null,
+            "data": ".I......"
+        },
+        {
+            "codeName": "r172",
+            "group": null,
+            "data": ".I......"
+        },
+        {
+            "codeName": "r173",
+            "group": null,
+            "data": "II...I.."
+        },
+        {
+            "codeName": "r174",
+            "group": null,
+            "data": ".I...I.."
+        },
+        {
+            "codeName": "r175",
+            "group": null,
+            "data": "........"
+        },
+        {
+            "codeName": "r176",
+            "group": "spawnroboleft",
+            "data": "........"
+        },
+        {
+            "codeName": "r177",
+            "group": "****",
+            "data": "........"
+        },
+        {
+            "codeName": "r178",
+            "group": null,
+            "data": "..III..."
+        },
+        {
+            "codeName": "r179",
+            "group": null,
+            "data": "..I....."
+        },
+        {
+            "codeName": "r180",
+            "group": null,
+            "data": "..I....."
+        },
+        {
+            "codeName": "r181",
+            "group": null,
+            "data": "........"
+        },
+        {
+            "codeName": "r182",
+            "group": null,
+            "data": ".......5"
+        },
+        {
+            "codeName": "r183",
+            "group": null,
+            "data": ".....1.1"
+        },
+        {
+            "codeName": "r184",
+            "group": "spawnroboright",
+            "data": "........"
+        },
+        {
+            "codeName": "r185",
+            "group": "****",
+            "data": "........"
+        },
+        {
+            "codeName": "r186",
+            "group": null,
+            "data": ".III...."
+        },
+        {
+            "codeName": "r187",
+            "group": null,
+            "data": "...I..II"
+        },
+        {
+            "codeName": "r188",
+            "group": null,
+            "data": "...I...."
+        },
+        {
+            "codeName": "r189",
+            "group": null,
+            "data": "........"
+        },
+        {
+            "codeName": "r190",
+            "group": null,
+            "data": "........"
+        },
+        {
+            "codeName": "r191",
+            "group": null,
+            "data": "1......."
+        },
+        {
+            "codeName": "r192",
+            "group": "spawnroboleft",
+            "data": "........"
+        },
+        {
+            "codeName": "r193",
+            "group": "****",
+            "data": "........"
+        },
+        {
+            "codeName": "r194",
+            "group": null,
+            "data": "...III.."
+        },
+        {
+            "codeName": "r195",
+            "group": null,
+            "data": "........"
+        },
+        {
+            "codeName": "r196",
+            "group": null,
+            "data": "........"
+        },
+        {
+            "codeName": "r197",
+            "group": null,
+            "data": "........"
+        },
+        {
+            "codeName": "r198",
+            "group": null,
+            "data": ".......5"
+        },
+        {
+            "codeName": "r199",
+            "group": null,
+            "data": ".....1.1"
+        },
+        {
+            "codeName": "r200",
+            "group": "spawnroboright",
+            "data": "........"
+        },
+        {
+            "codeName": "r201",
+            "group": "****",
+            "data": "........"
+        },
+        {
+            "codeName": "r202",
+            "group": null,
+            "data": "...I...."
+        },
+        {
+            "codeName": "r203",
+            "group": null,
+            "data": "...I...."
+        },
+        {
+            "codeName": "r204",
+            "group": null,
+            "data": "...I...."
+        },
+        {
+            "codeName": "r205",
+            "group": null,
+            "data": "...I...."
+        },
+        {
+            "codeName": "r206",
+            "group": null,
+            "data": "........"
+        },
+        {
+            "codeName": "r207",
+            "group": null,
+            "data": "1......."
+        }
+    ],
     "maps": {
         "Bankheist_1": [
             "..RR....2.2.2....RR..",
@@ -58546,27 +59605,27 @@
             "JJJJJJJYY...YYJJJJJJJ",
             ".....................",
             ".....................",
-            "WWWW....NNNNN.....RRR",
-            "WWWW...2..2..2....RRR",
-            "WWWW..............CCC",
-            "WWWW.................",
-            "WWWW.................",
+            "........NNNNN.....RRR",
+            "..WWW...2.2.2.....RRR",
+            "..WWW.............CCC",
+            "..WWW................",
+            ".............YYY.....",
+            "...................RR",
+            "RR....MRRRRRR......RR",
+            "RR....MRRRRRR...WWW..",
+            "......MMMMMRR...WWW..",
+            "................WWW..",
             ".....................",
-            "......MRRRRRR....RRRR",
-            "......MRRRRRR....RRRR",
-            "WWWW..MMMMMRR....WWWW",
-            "WWWW.............WWWW",
-            "WWWW.............WWWW",
-            "WWWW.............WWWW",
-            "WWWW....RRMMMMM..WWWW",
-            "RRRR....RRRRRRM......",
-            "RRRR....RRRRRRM......",
-            ".....................",
-            ".................WWWW",
-            ".................WWWW",
-            "CCC..............WWWW",
-            "RRR....1..1..1...WWWW",
-            "RRR.....NNNNN....WWWW",
+            "..WWW................",
+            "..WWW...RRMMMMM......",
+            "..WWW...RRRRRRM....RR",
+            "RR......RRRRRRM....RR",
+            "RR...................",
+            ".....YYY.............",
+            "................WWW..",
+            "CCC.............WWW..",
+            "RRR.....1.1.1...WWW..",
+            "RRR.....NNNNN........",
             ".....................",
             ".....................",
             "JJJJJJJYY...YYJJJJJJJ",
@@ -58650,7 +59709,7 @@
             ".....WWWW........WWW...WWW........MM..MM................MM..",
             "......WWW........WWW........................................",
             "............MMM..WWW.........MMM..........MMM....MMM........",
-            "...M.......MMM...WWW.........MMM..........M.......MM..MM....",
+            "...M.......MMM...WW..........MMM..........M.......MM..MM....",
             "...MM............WW.......................M........M..MM....",
             "........M............MM..MM.......MM..MM....................",
             ".......MM..WWWW.......M..MM..WWW..MM..M......MMMM...........",
@@ -58669,9 +59728,9 @@
             "...WWW...WWWWW........WWMM...........WW..........M......MM..",
             "...WWW...WWWWW........WWMM...........WW..MM......MX.........",
             "...WWW...WWWW............................MM..MX.............",
-            "....WW...WWW...............WWWWWWW...........MM......MM.....",
-            "...................M..MM...WWWWWWW...MM..........MM..MXM....",
-            "..................MM..MM...MMMMMMM...MM..........MM...MM....",
+            "....WW...WWW................WWWWWW...........MM......MM.....",
+            "...................M..MM....WWWWWW...MM..........MM..MXM....",
+            "..................MM..MM....MMMMMM...MM..........MM...MM....",
             "..N..........................................MX.............",
             "..NNNN..NNNN..YY.........................M...MM.............",
             "........................M...........M....MM........MM.......",
@@ -58758,46 +59817,46 @@
             "WW....M.......................M..............MM............W",
             "WW....MM...T..................MM...........D.MMM..........WW",
             "WWW...MM...........T.....MM...MMMM......B..D.MMMM...D..WWWWW",
-            "WWWWMMMMM..............MMMMMMMMMMMMMMMM.....MMMMMMMM.WWWWWWW"
+            "WWWWMMMMM..............MMMMMMMMMMMMMMMM.....MMMMMMMM..WWWWWW"
         ],
         "Robowars_1": [
             "YY.........2.2.2.........YY",
             "C.........................C",
-            "...........................",
-            ".............8.............",
-            "...CY.................YC...",
+            "..........D...D............",
+            ".............8...D.........",
+            "...CY.....D....D......YC...",
             "..MMMM.....MMMMM.....MMMM..",
             "..MMMM.....MMMMM.....MMMM..",
-            "..RRRR.....RRRRR.....RRRR..",
-            "..RRRR.....RRRRR.....RRRR..",
+            "..RRRRRRRRRRRRRRRRRRRRRRR..",
             "RRRRRRRRRRRRRRRRRRRRRRRRRRR",
-            "RRRRRRRRRRRRRRRRRRRRRRRRRRR",
-            "RRMMMM......MMM......MMMMRR",
-            "RRMMMM......MMM......MMMMRR",
-            "RR..........CYY..........RR",
+            "RRRRRR......L........RRRRRR",
+            "RRP....................O.RR",
+            "RR.......................RR",
+            "RR.......................RR",
+            "RR.......................RR",
             "RR....D..................RR",
+            "RR..................RRMMMRR",
+            "RRMMMRRMMM..........RRMMMRR",
+            "RRMMMRRMMM...............RR",
+            "RR.....................G.RR",
+            "RRH....D.........D.......RR",
             "RR.......................RR",
-            "RRMMMRR.............RRMMMRR",
-            "RRMMMRR.............RRMMMRR",
-            "...........................",
-            ".......D.........D.........",
-            "...........................",
-            "RRMMMRR...D.........RRMMMRR",
-            "RRMMMRR.............RRMMMRR",
-            "RR.................D.....RR",
+            "RR........D......MMMRRMMMRR",
+            "RRMMMRR..........MMMRRMMMRR",
+            "RRMMMRR............D.....RR",
             "RR.......................RR",
-            "RR..........CYY..........RR",
-            "RRMMMM......MMM......MMMMRR",
-            "RRMMMM......MMM......MMMMRR",
+            "RR.......................RR",
+            "RR.......................RR",
+            "RRU....................Z.RR",
+            "RR...........K...........RR",
+            "RRRRRR...............RRRRRR",
             "RRRRRRRRRRRRRRRRRRRRRRRRRRR",
-            "RRRRRRRRRRRRRRRRRRRRRRRRRRR",
-            "..RRRR.....RRRRR.....RRRR..",
-            "..RRRR.....RRRRR.....RRRR..",
+            "..RRRRRRRRRRRRRRRRRRRRRRR..",
             "..MMMM.....MMMMM.....MMMM..",
             "..MMMM.....MMMMM.....MMMM..",
-            "...CY.................YC...",
-            ".............8.............",
-            "...........................",
+            "...CY.......D..D......YC...",
+            ".........D...8.............",
+            "..........D...D............",
             "C.........................C",
             "YY.........1.1.1.........YY"
         ],
@@ -58923,13 +59982,13 @@
             "WW....M.F....F.............FFFM...F...4......MMF.......4..WW",
             "WW....MMF..T.FF........F..FFFFMM.FF........D.MMMF.........WW",
             "WWWW..MMFF..FFF.......FFFMMFFFMMMMFF.......D.MMMMF..DWWWWWWW",
-            "WWWWMMMMMFFFFFFFF...FFFMMMMMMMMMMMMMMMM.....MMMMMMMM.WWWWWWW"
+            "WWWWMMMMMFFFFFFFF...FFFMMMMMMMMMMMMMMMM.....MMMMMMM..WWWWWWW"
         ],
         "Survival_12": [
             "FFFFFFFF..........D...1FFWWWW..WWWFF.1.......D.......FFFFFFF",
             "FF.4FFFFFF.....FF......FFWWWW..WWFF................FFFFF4.FF",
             "FF4.FFFWWWWD...FFF......D...............T...WWW....WWFFF.4FF",
-            "FFFFFFFWWWW....FFT.........................CWWWF...WWFFFFFFF",
+            "FFFFFFFWWWW....FF..........................CWWWF...WWFFFFFFF",
             "FFFFFFFWW.....FF...WWW...............FF....FWWFF...WWFFFFFFF",
             "FFWWFF...FF....F...WWW.D.............FT..D.FFFF..D....FFWWFF",
             "FFWWT...............................D..................TWWF.",
@@ -59056,47 +60115,47 @@
             "FF..D.....YY..FMWWF..1.D...M4..4M..D.212.FWWMFD.CYYYC.....WW",
             "F......D..CC..............FM....MF................CC...D...W",
             "W.D................D....D.FM.D..MF.D.......................T",
-            "WW...D.....D...D..T........C..D.C........T....D...D........F",
+            "WW...D.........D..T........C..D.C........T....D...D........F",
             "WWT.....WW..D........MM.......D......MM................T..FF",
-            "MM.....WWW..D.T......MM..D........D..MM.....MMMMMM..D....FFF",
+            "MM.....WWW..D........MM..D........D..MM.....MMMMMM..D....FFF",
             "FF.....WW......WWD.......D...........FF..D..M4FFFM........FF",
             "F..D..........4WW..........MMMMMM..D............FM..T.D....F",
             "F.............FWW..FFMM....MFFFFM........D....D.FM.........F",
-            "F.1...D.....4FFWW..FFMM............D.T..........4M.......1.F",
-            "F.....D....WWWWWW............D.....D.WWWWT..D...MM...D.....F",
+            "F.1...D.....4FFWW..FFMM..............T..........4M.......1.F",
+            "F.....D....WWWWWW............D.......WWWWT..D...MM...D.....F",
             "F..........WWWWWW........D...44......WWWW.............T....F",
-            "WW.D........................FMMF...D.WWFF.....D...........WW",
-            "WWW....MMM...DD.D.MMMM....FFFMMFFF.........M....D........WWW",
+            "WW..........................FMMF.....WWFF.....D...........WW",
+            "WWW....MM....DD....MMM....FFFMMFFF.........M....D........WWW",
             "WWWW...MF.................MMMMMMMM.........MFF.....FM...WWWW",
             "WWWW...MF.........FFF..................D...MMMM....FM...WWWW",
-            "MMMM...M...D.MMM..FWWWW............................MM...MMMM",
-            "FFFF.........FFM..FWWWW.....D..D.....MMM................FFFF",
-            "F..2.2...D.....M...WW4...D.T....T.....4M..D.FFFF...........F",
+            "MMMM...M.....MMM..FWWWW............................MM...MMMM",
+            "FFFF.........FFM..FWWWW..............MMM................FFFF",
+            "F..2.2...D.....M...WW4.....T....T.....4M..D.FFFF...........F",
             "F.YC...........M...WW......WWFFWW......M....WWWW..D..D..CY.F",
-            "F.YC.......T..........D....WWWWWW...........WWWW........YC.F",
+            "F.YC.......T...............WWWWWW...........WWWW........YC.F",
             "F............D..D.......T..WWWWWW..T...........T..D........F",
             "F.....MM..D...........D.......D........D............MM..D..F",
             "M.....4M.......MMM........FFFFFFFF.D......MMM.......MF.....M",
-            "M..DD..N.......FFM...TWWW.FFFFFFFF.WWWT.D.MFF...D.D.N......M",
-            "M......N....C...4M....WWW.FF.44.FF.WWW....M4...C....N.D..2.M",
-            "M.....D....CY....M.DD.FWW.FF4MM4FF.WWF....M....YC........1.M",
-            "M.1........CY....M....FWW.FF4MM4FF.WWF..D.M....YC....D...2.M",
-            "M....D.N..D.C...4M....WWW.FF.44.FF.WWW....M4...C....N......M",
-            "M......N.D.D...FFM.D.TWWW.FFFFFFFF.WWWT...MFF.......N...D..M",
+            "M..DD..N.......FFM...TWWW.FFFFFFFF.WWWT.D.MFF...D...N......M",
+            "M......N....C...4M....WWW.FF.44.FF.WWW....M4...C....N....2.M",
+            "M..........CY....M.DD.FWW.FF4MM4FF.WWF....M....YC........1.M",
+            "M.1........CY....M....FWW.FF4MM4FF.WWF..D.M....YC........2.M",
+            "M......N....C...4M....WWW.FF.44.FF.WWW....M4...C....N......M",
+            "M......N.......FFM.D.TWWW.FFFFFFFF.WWWT...MFF.......N...D..M",
             "M.....FM.......MMM........FFFFFFFF........MMM.......M4.....M",
             "F..D..MM.....................D...................D..MM.....F",
-            "F........D..T...........T..WWWWWW..T.......D..D............F",
-            "F.CY......D.WWWW...........WWWWWW....D..........T.......CY.F",
+            "F........D..T...........T..WWWWWW..T.......................F",
+            "F.CY........WWWW...........WWWWWW....D..........T.......CY.F",
             "F.YC..D.....WWWW....M......WWFFWW......WW...M...........CY.F",
             "F......D....FFFF.DD.M4..D..T....T...D.4WW...M.....D........F",
-            "FFFF................MMM........D.....WWWWF..MFF.........FFFF",
-            "MMMM...MM.....................D......WWWWF..MMM.D...M...MMMM",
+            "FFFF................MMM..............WWWWF..MFF.........FFFF",
+            "MMMM...MM............................WWWWF..MMM.....M...MMMM",
             "WWWW...MF....MMMM....D.................FFF.........FM...WWWW",
             "WWWW...MF.....FFM.........MMMMMMMM.................FM...WWWW",
-            "WWW.2.2.........M.........FFFMMFFF....MMMM....D...MMM....WWW",
-            "WW...........D.....FFWW.D...FMMF........................D.WW",
+            "WWW.2.2.........M.........FFFMMFFF....MMM..........MM....WWW",
+            "WW...........D.....FFWW.....FMMF..........................WW",
             "F....T.D...........WWWW......44...D........WWWWWW..........F",
-            "F.....D...MM...D..TWWWW.DD....D............WWWWWW....D.....F",
+            "F.....D...MM...D..TWWWW..D....D............WWWWWW....D.....F",
             "F.1.......M4..........T..............MMFF..WWFF4.........1.F",
             "F....D....MF.D.............MFFFFM....MMFF..WWF.............F",
             "F....D.T..MF............DD.MMMMMM..........WW4..........D..F",
@@ -59175,8 +60234,8 @@
         ],
         "Survival_4": [
             "FFFFFFFFF..WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW.F",
-            "FFFFFFFFFF.WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWFWWWWWWWWFF",
-            "FFFFFFFFFFBWWWW.FFFFFBWWWWWBFFFFFBF.WWWW.BFFWWWWWFBWWWWWWWFF",
+            "FFFFFFFFFF.WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWFF",
+            "FFFFFFFFFFBWWWW.FFFFFBWWWWWBFFFFFBF.WWWW..FFWWWWWFFWWWWWWWFF",
             "FFFFFFFFFF.WWWW.DFFFFFWWWWW.FFFFFFF.WWWW.FFFFWWWFF.WWWW.FFFF",
             "FFFFFFFF...............WWW......D.D..WW......WWW....WWW.FFFF",
             "FFFFFFFF....D...D......DD..D..D...D....D...D...D..D.WW..D.FF",
@@ -59193,7 +60252,7 @@
             "FF...D...FF....BB....................FFF.MM.....F4......D.FF",
             "FFD.........BWWWWWWWB....D....FF......B..M...D..........D.FF",
             "FF...D..D...BWWWWWWWBD.....212.MFF..................D.....FF",
-            "FF......FFF.BDWWWWWD..FMFF.....MFF..1...........D.........FF",
+            "FF......FFF..DWWWWWD..FMFF.....MFF..1...........D.........FF",
             "FF......FFF...........FMMF..D.........FMMM...MMFFFFFFFF.D.FF",
             "FF.....D.FF.D...........MF.........D..FM.....MM..FFFFFF...FF",
             "F..DD....F...........1........MM...........D.FF..FFFF.....FF",
@@ -59253,14 +60312,14 @@
             "FF.........WWWWWW...D.....M..4...M......BFFWWWWWW.........FF",
             "FFF.1......TWWWW4........TM......MT......FF4WWWWT......1TFFF",
             "FFFF.........WW4......FF..MM....MM...T....FF4WWNN.......FFFF",
-            "FFFF.........NNN....TFFF..FF..D.FF.........FFFFFF.......FFFF",
+            "FFFF.........NN.....TFFF..FF..D.FF.........FFFFFF.......FFFF",
             "FFF..DMMMM..........FFFF................T...FFFF...MMMM..FFF",
             "FF......4M.........FFFFF...NNNNNN...T..............M4.....FF",
             "F..................FFFFT...FFFFFF..........T...............F",
-            "F...M..................................T..............DM...F",
-            "F...MMMMC....T........................D.......T....CMMMMD..F",
+            "F...M.................................................DM...F",
+            "F...MMMMC....T................................T....CMMMMD..F",
             "FF........D.....WWW...D..TWWW..WWWT......WWW........B.....FF",
-            "FF..............WWWC....WWWWW..WWWWW....TWWWD.............FF",
+            "FF..............WWWC....WWWWW..WWWWW....TWWW..............FF",
             "FFF.............WWWN...TWWWWW..WWWWWT...FWWW.............FFF",
             "MFFF.....WWWW...NNNN...WWWWW....WWWWW...FFFC...WWWW.....FFFM",
             "MMFFF....4WWWT..FFFF...WWWW......WWWW.........TWWW4....FFFMM",
@@ -59278,14 +60337,14 @@
             "F................T.........FFFFFF...TFFFF..................F",
             "FF.....4M..................NNNNNN...FFFFF.........M4......FF",
             "FFF..MMMM...FFFF......T.............FFFF..........MMMM...FFF",
-            "FFFF....B..FFFFFF..T.............D..FFFT.D..NNN.........FFFF",
+            "FFFF....B..FFFFFF..T.............D..FFFT.D...NN.........FFFF",
             "FFFF.......NNWW4FF......D.MMFFFFMMD.FF......4WW......D..FFFF",
             "FFF.1......TWWWW4FF...T..DMMFFFFMM.........4WWWWT......1.FFF",
             "FF.........WWWWWWFFD......FFF4.FFF.........WWWWWW.........FF",
             "F..........WWWWWWFFD......FFF.4FFF.........WWWWWW..........F",
             "F....FFF....WWWWFFF.......FFFFFFFF..........WWWWB...FFF....F",
             "F....NNN....TWWFFF...MMF..MMFFFFMM..FMM......WWT....MMM....F",
-            "M...........NNNN......MF..MMFFFFMM..FM.......NNN....M.....BM",
+            "M...........NNN.......MF..MMFFFFMM..FM.......NNN....M.....BM",
             "MM..DDD..............4MF...C....C...FM4...................MM",
             "MMM................FMMMF............FMMMF...............D.MM",
             "MMMM.......NF.T....FFFFF............FFFFF...T..FMM........MM",
@@ -59403,7 +60462,7 @@
             "......4T...MM.............FFWWWWFF..........................",
             ".....MMMM..MM4..............WWWWFF........FFFF.....MM.......",
             "....MMMMM....................MM4..........FFFF.....MM..D.D..",
-            "....MM............MMFF......TMM.............MM.....MMMMMMMMM",
+            "....MM............MMFF.......MM.............MM.....MMMMMMMMM",
             "....MMD..FFF......MMFF.......MM4....FFF.....MM......MMMMMMMM",
             "....MM...FFF................4MM.....FFF.....T........T......",
             "...TMMD..FFMM................MM....MMFF.....................",
@@ -59665,7 +60724,7 @@
             "MMM.............MMWWW",
             "MMMRRR...MRRRR.MMMWWW",
             "MMMMMRRRRMMMRRRMM...T",
-            "RR.MMRRRMMM..RRRM....",
+            "RR..MRRRMMM..RRRM....",
             "RR.....RMM...........",
             "WW.................RR",
             "WWRR........T......RM",
@@ -59685,7 +60744,7 @@
             "MR......T........RRWW",
             "RR.................WW",
             "...........MMR.....RR",
-            "....MRRR..MMMRRRMM.RR",
+            "....MRRR..MMMRRRM..RR",
             "T...MMRRRMMMRRRRMMMMM",
             "WWWMMM.RRRRM...RRRMMM",
             "WWWMM.............MMM",
@@ -59942,1048 +61001,6 @@
             null
         ]
     },
-    "map_blocks": [
-        {
-            "codeName": "r0",
-            "group": "roboleft",
-            "data": "........"
-        },
-        {
-            "codeName": "r1",
-            "group": "****",
-            "data": "........"
-        },
-        {
-            "codeName": "r2",
-            "group": null,
-            "data": "..D..D.."
-        },
-        {
-            "codeName": "r3",
-            "group": null,
-            "data": "......I."
-        },
-        {
-            "codeName": "r4",
-            "group": null,
-            "data": "......I."
-        },
-        {
-            "codeName": "r5",
-            "group": null,
-            "data": "..I...I."
-        },
-        {
-            "codeName": "r6",
-            "group": null,
-            "data": "..II..I."
-        },
-        {
-            "codeName": "r7",
-            "group": null,
-            "data": "..II...."
-        },
-        {
-            "codeName": "r8",
-            "group": "roboleft",
-            "data": "........"
-        },
-        {
-            "codeName": "r9",
-            "group": "****",
-            "data": "........"
-        },
-        {
-            "codeName": "r10",
-            "group": null,
-            "data": "........"
-        },
-        {
-            "codeName": "r11",
-            "group": null,
-            "data": "....D..."
-        },
-        {
-            "codeName": "r12",
-            "group": null,
-            "data": "........"
-        },
-        {
-            "codeName": "r13",
-            "group": null,
-            "data": "..I....."
-        },
-        {
-            "codeName": "r14",
-            "group": null,
-            "data": "..I..II."
-        },
-        {
-            "codeName": "r15",
-            "group": null,
-            "data": "..IIIII."
-        },
-        {
-            "codeName": "r16",
-            "group": "roboleft",
-            "data": "........"
-        },
-        {
-            "codeName": "r17",
-            "group": "****",
-            "data": "........"
-        },
-        {
-            "codeName": "r18",
-            "group": null,
-            "data": ".....II."
-        },
-        {
-            "codeName": "r19",
-            "group": null,
-            "data": ".....II."
-        },
-        {
-            "codeName": "r20",
-            "group": null,
-            "data": "........"
-        },
-        {
-            "codeName": "r21",
-            "group": null,
-            "data": "........"
-        },
-        {
-            "codeName": "r22",
-            "group": null,
-            "data": "..II...."
-        },
-        {
-            "codeName": "r23",
-            "group": null,
-            "data": "..IIII.."
-        },
-        {
-            "codeName": "r24",
-            "group": "roboleft",
-            "data": "........"
-        },
-        {
-            "codeName": "r25",
-            "group": "****",
-            "data": "........"
-        },
-        {
-            "codeName": "r26",
-            "group": null,
-            "data": "..II..I."
-        },
-        {
-            "codeName": "r27",
-            "group": null,
-            "data": "..I...I."
-        },
-        {
-            "codeName": "r28",
-            "group": null,
-            "data": "......I."
-        },
-        {
-            "codeName": "r29",
-            "group": null,
-            "data": "........"
-        },
-        {
-            "codeName": "r30",
-            "group": null,
-            "data": "..I....."
-        },
-        {
-            "codeName": "r31",
-            "group": null,
-            "data": "..II...."
-        },
-        {
-            "codeName": "r32",
-            "group": "roboleft",
-            "data": "........"
-        },
-        {
-            "codeName": "r33",
-            "group": "****",
-            "data": "....D..."
-        },
-        {
-            "codeName": "r34",
-            "group": null,
-            "data": "...III.."
-        },
-        {
-            "codeName": "r35",
-            "group": null,
-            "data": "........"
-        },
-        {
-            "codeName": "r36",
-            "group": null,
-            "data": "........"
-        },
-        {
-            "codeName": "r37",
-            "group": null,
-            "data": "..I...I."
-        },
-        {
-            "codeName": "r38",
-            "group": null,
-            "data": "..I..II."
-        },
-        {
-            "codeName": "r39",
-            "group": null,
-            "data": "..I..II."
-        },
-        {
-            "codeName": "r40",
-            "group": "roboleft",
-            "data": "........"
-        },
-        {
-            "codeName": "r41",
-            "group": "****",
-            "data": "........"
-        },
-        {
-            "codeName": "r42",
-            "group": null,
-            "data": "....II.."
-        },
-        {
-            "codeName": "r43",
-            "group": null,
-            "data": "....II.."
-        },
-        {
-            "codeName": "r44",
-            "group": null,
-            "data": "........"
-        },
-        {
-            "codeName": "r45",
-            "group": null,
-            "data": "........"
-        },
-        {
-            "codeName": "r46",
-            "group": null,
-            "data": ".....II."
-        },
-        {
-            "codeName": "r47",
-            "group": null,
-            "data": ".....II."
-        },
-        {
-            "codeName": "r48",
-            "group": "roboleft",
-            "data": "........"
-        },
-        {
-            "codeName": "r49",
-            "group": "****",
-            "data": "........"
-        },
-        {
-            "codeName": "r50",
-            "group": null,
-            "data": "....III."
-        },
-        {
-            "codeName": "r51",
-            "group": null,
-            "data": "........"
-        },
-        {
-            "codeName": "r52",
-            "group": null,
-            "data": "..D...D."
-        },
-        {
-            "codeName": "r53",
-            "group": null,
-            "data": "......I."
-        },
-        {
-            "codeName": "r54",
-            "group": null,
-            "data": "..I...I."
-        },
-        {
-            "codeName": "r55",
-            "group": null,
-            "data": "III...I."
-        },
-        {
-            "codeName": "r56",
-            "group": "roboleft",
-            "data": "........"
-        },
-        {
-            "codeName": "r57",
-            "group": "****",
-            "data": "........"
-        },
-        {
-            "codeName": "r58",
-            "group": null,
-            "data": "IIII...."
-        },
-        {
-            "codeName": "r59",
-            "group": null,
-            "data": "..II...."
-        },
-        {
-            "codeName": "r60",
-            "group": null,
-            "data": "........"
-        },
-        {
-            "codeName": "r61",
-            "group": null,
-            "data": "........"
-        },
-        {
-            "codeName": "r62",
-            "group": null,
-            "data": ".....II."
-        },
-        {
-            "codeName": "r63",
-            "group": null,
-            "data": "....III."
-        },
-        {
-            "codeName": "r64",
-            "group": "roboleft",
-            "data": "........"
-        },
-        {
-            "codeName": "r65",
-            "group": "****",
-            "data": "........"
-        },
-        {
-            "codeName": "r66",
-            "group": null,
-            "data": "..II...."
-        },
-        {
-            "codeName": "r67",
-            "group": null,
-            "data": "..I....."
-        },
-        {
-            "codeName": "r68",
-            "group": null,
-            "data": "..I....."
-        },
-        {
-            "codeName": "r69",
-            "group": null,
-            "data": "III....."
-        },
-        {
-            "codeName": "r70",
-            "group": null,
-            "data": ".....D.."
-        },
-        {
-            "codeName": "r71",
-            "group": null,
-            "data": "........"
-        },
-        {
-            "codeName": "r72",
-            "group": "roboright",
-            "data": "........"
-        },
-        {
-            "codeName": "r73",
-            "group": "****",
-            "data": "........"
-        },
-        {
-            "codeName": "r74",
-            "group": null,
-            "data": "III...D."
-        },
-        {
-            "codeName": "r75",
-            "group": null,
-            "data": ".....I.."
-        },
-        {
-            "codeName": "r76",
-            "group": null,
-            "data": ".....I.."
-        },
-        {
-            "codeName": "r77",
-            "group": null,
-            "data": ".I...I.."
-        },
-        {
-            "codeName": "r78",
-            "group": null,
-            "data": ".II..I.."
-        },
-        {
-            "codeName": "r79",
-            "group": null,
-            "data": "........"
-        },
-        {
-            "codeName": "r80",
-            "group": "roboright",
-            "data": "........"
-        },
-        {
-            "codeName": "r81",
-            "group": "****",
-            "data": "........"
-        },
-        {
-            "codeName": "r82",
-            "group": null,
-            "data": ".II....."
-        },
-        {
-            "codeName": "r83",
-            "group": null,
-            "data": ".II....."
-        },
-        {
-            "codeName": "r84",
-            "group": null,
-            "data": "II......"
-        },
-        {
-            "codeName": "r85",
-            "group": null,
-            "data": "........"
-        },
-        {
-            "codeName": "r86",
-            "group": null,
-            "data": "....II.."
-        },
-        {
-            "codeName": "r87",
-            "group": null,
-            "data": "....II.."
-        },
-        {
-            "codeName": "r88",
-            "group": "roboright",
-            "data": "........"
-        },
-        {
-            "codeName": "r89",
-            "group": "****",
-            "data": "........"
-        },
-        {
-            "codeName": "r90",
-            "group": null,
-            "data": "..IIII.."
-        },
-        {
-            "codeName": "r91",
-            "group": null,
-            "data": "....II.."
-        },
-        {
-            "codeName": "r92",
-            "group": null,
-            "data": "..D....."
-        },
-        {
-            "codeName": "r93",
-            "group": null,
-            "data": ".....D.."
-        },
-        {
-            "codeName": "r94",
-            "group": null,
-            "data": ".II....."
-        },
-        {
-            "codeName": "r95",
-            "group": null,
-            "data": "IIIIII.."
-        },
-        {
-            "codeName": "r96",
-            "group": "roboright",
-            "data": "........"
-        },
-        {
-            "codeName": "r97",
-            "group": "****",
-            "data": "........"
-        },
-        {
-            "codeName": "r98",
-            "group": null,
-            "data": ".....I.."
-        },
-        {
-            "codeName": "r99",
-            "group": null,
-            "data": ".I...I.."
-        },
-        {
-            "codeName": "r100",
-            "group": null,
-            "data": ".I...I.."
-        },
-        {
-            "codeName": "r101",
-            "group": null,
-            "data": ".I...I.."
-        },
-        {
-            "codeName": "r102",
-            "group": null,
-            "data": ".I......"
-        },
-        {
-            "codeName": "r103",
-            "group": null,
-            "data": "II......"
-        },
-        {
-            "codeName": "r104",
-            "group": "roboright",
-            "data": "........"
-        },
-        {
-            "codeName": "r105",
-            "group": "****",
-            "data": "......D."
-        },
-        {
-            "codeName": "r106",
-            "group": null,
-            "data": "..III..."
-        },
-        {
-            "codeName": "r107",
-            "group": null,
-            "data": "........"
-        },
-        {
-            "codeName": "r108",
-            "group": null,
-            "data": "........"
-        },
-        {
-            "codeName": "r109",
-            "group": null,
-            "data": "II...I.."
-        },
-        {
-            "codeName": "r110",
-            "group": null,
-            "data": ".I..II.."
-        },
-        {
-            "codeName": "r111",
-            "group": null,
-            "data": "....II.."
-        },
-        {
-            "codeName": "r112",
-            "group": "roboright",
-            "data": "........"
-        },
-        {
-            "codeName": "r113",
-            "group": "****",
-            "data": "........"
-        },
-        {
-            "codeName": "r114",
-            "group": null,
-            "data": ".II....."
-        },
-        {
-            "codeName": "r115",
-            "group": null,
-            "data": ".II....."
-        },
-        {
-            "codeName": "r116",
-            "group": null,
-            "data": "........"
-        },
-        {
-            "codeName": "r117",
-            "group": null,
-            "data": ".D......"
-        },
-        {
-            "codeName": "r118",
-            "group": null,
-            "data": "....II.."
-        },
-        {
-            "codeName": "r119",
-            "group": null,
-            "data": "....II.."
-        },
-        {
-            "codeName": "r120",
-            "group": "roboright",
-            "data": "........"
-        },
-        {
-            "codeName": "r121",
-            "group": "****",
-            "data": "........"
-        },
-        {
-            "codeName": "r122",
-            "group": null,
-            "data": "III....."
-        },
-        {
-            "codeName": "r123",
-            "group": null,
-            "data": "........"
-        },
-        {
-            "codeName": "r124",
-            "group": null,
-            "data": ".......D"
-        },
-        {
-            "codeName": "r125",
-            "group": null,
-            "data": ".D...I.."
-        },
-        {
-            "codeName": "r126",
-            "group": null,
-            "data": "....II.."
-        },
-        {
-            "codeName": "r127",
-            "group": null,
-            "data": "....IIII"
-        },
-        {
-            "codeName": "r128",
-            "group": "roboright",
-            "data": "........"
-        },
-        {
-            "codeName": "r129",
-            "group": "****",
-            "data": "........"
-        },
-        {
-            "codeName": "r130",
-            "group": null,
-            "data": ".II..III"
-        },
-        {
-            "codeName": "r131",
-            "group": null,
-            "data": ".I...I.."
-        },
-        {
-            "codeName": "r132",
-            "group": null,
-            "data": ".....I.."
-        },
-        {
-            "codeName": "r133",
-            "group": null,
-            "data": ".....I.D"
-        },
-        {
-            "codeName": "r134",
-            "group": null,
-            "data": ".I......"
-        },
-        {
-            "codeName": "r135",
-            "group": null,
-            "data": "III....."
-        },
-        {
-            "codeName": "r136",
-            "group": "roboright",
-            "data": "........"
-        },
-        {
-            "codeName": "r137",
-            "group": "****",
-            "data": ".....D.."
-        },
-        {
-            "codeName": "r138",
-            "group": null,
-            "data": "IIII...."
-        },
-        {
-            "codeName": "r139",
-            "group": null,
-            "data": "........"
-        },
-        {
-            "codeName": "r140",
-            "group": null,
-            "data": ".D...III"
-        },
-        {
-            "codeName": "r141",
-            "group": null,
-            "data": ".....I.."
-        },
-        {
-            "codeName": "r142",
-            "group": null,
-            "data": ".II..I.."
-        },
-        {
-            "codeName": "r143",
-            "group": null,
-            "data": ".II....."
-        },
-        {
-            "codeName": "r144",
-            "group": "roboleft",
-            "data": "........"
-        },
-        {
-            "codeName": "r145",
-            "group": "****",
-            "data": "........"
-        },
-        {
-            "codeName": "r146",
-            "group": null,
-            "data": "..IIIII."
-        },
-        {
-            "codeName": "r147",
-            "group": null,
-            "data": "..I...I."
-        },
-        {
-            "codeName": "r148",
-            "group": null,
-            "data": "..I..DI."
-        },
-        {
-            "codeName": "r149",
-            "group": null,
-            "data": "..I...I."
-        },
-        {
-            "codeName": "r150",
-            "group": null,
-            "data": "..I...I."
-        },
-        {
-            "codeName": "r151",
-            "group": null,
-            "data": "..II..I."
-        },
-        {
-            "codeName": "r152",
-            "group": "roboleft",
-            "data": "........"
-        },
-        {
-            "codeName": "r153",
-            "group": "****",
-            "data": "........"
-        },
-        {
-            "codeName": "r154",
-            "group": null,
-            "data": "........"
-        },
-        {
-            "codeName": "r155",
-            "group": null,
-            "data": "IIIIIII."
-        },
-        {
-            "codeName": "r156",
-            "group": null,
-            "data": "....D..."
-        },
-        {
-            "codeName": "r157",
-            "group": null,
-            "data": "........"
-        },
-        {
-            "codeName": "r158",
-            "group": null,
-            "data": "..I...I."
-        },
-        {
-            "codeName": "r159",
-            "group": null,
-            "data": "..IIIII."
-        },
-        {
-            "codeName": "r160",
-            "group": "roboright",
-            "data": "........"
-        },
-        {
-            "codeName": "r161",
-            "group": "****",
-            "data": "........"
-        },
-        {
-            "codeName": "r162",
-            "group": null,
-            "data": "....D..."
-        },
-        {
-            "codeName": "r163",
-            "group": null,
-            "data": "........"
-        },
-        {
-            "codeName": "r164",
-            "group": null,
-            "data": ".IIIIIII"
-        },
-        {
-            "codeName": "r165",
-            "group": null,
-            "data": ".I...I.."
-        },
-        {
-            "codeName": "r166",
-            "group": null,
-            "data": ".I...I.."
-        },
-        {
-            "codeName": "r167",
-            "group": null,
-            "data": ".I..II.."
-        },
-        {
-            "codeName": "r168",
-            "group": "roboright",
-            "data": "........"
-        },
-        {
-            "codeName": "r169",
-            "group": "****",
-            "data": "........"
-        },
-        {
-            "codeName": "r170",
-            "group": null,
-            "data": ".IIIII.."
-        },
-        {
-            "codeName": "r171",
-            "group": null,
-            "data": ".I......"
-        },
-        {
-            "codeName": "r172",
-            "group": null,
-            "data": ".I......"
-        },
-        {
-            "codeName": "r173",
-            "group": null,
-            "data": "II...I.."
-        },
-        {
-            "codeName": "r174",
-            "group": null,
-            "data": ".I...I.."
-        },
-        {
-            "codeName": "r175",
-            "group": null,
-            "data": "........"
-        },
-        {
-            "codeName": "r176",
-            "group": "spawnroboleft",
-            "data": "........"
-        },
-        {
-            "codeName": "r177",
-            "group": "****",
-            "data": "........"
-        },
-        {
-            "codeName": "r178",
-            "group": null,
-            "data": "..III..."
-        },
-        {
-            "codeName": "r179",
-            "group": null,
-            "data": "..I....."
-        },
-        {
-            "codeName": "r180",
-            "group": null,
-            "data": "..I....."
-        },
-        {
-            "codeName": "r181",
-            "group": null,
-            "data": "........"
-        },
-        {
-            "codeName": "r182",
-            "group": null,
-            "data": ".......5"
-        },
-        {
-            "codeName": "r183",
-            "group": null,
-            "data": ".....1.1"
-        },
-        {
-            "codeName": "r184",
-            "group": "spawnroboright",
-            "data": "........"
-        },
-        {
-            "codeName": "r185",
-            "group": "****",
-            "data": "........"
-        },
-        {
-            "codeName": "r186",
-            "group": null,
-            "data": ".III...."
-        },
-        {
-            "codeName": "r187",
-            "group": null,
-            "data": "...I..II"
-        },
-        {
-            "codeName": "r188",
-            "group": null,
-            "data": "...I...."
-        },
-        {
-            "codeName": "r189",
-            "group": null,
-            "data": "........"
-        },
-        {
-            "codeName": "r190",
-            "group": null,
-            "data": "........"
-        },
-        {
-            "codeName": "r191",
-            "group": null,
-            "data": "1......."
-        },
-        {
-            "codeName": "r192",
-            "group": "spawnroboleft",
-            "data": "........"
-        },
-        {
-            "codeName": "r193",
-            "group": "****",
-            "data": "........"
-        },
-        {
-            "codeName": "r194",
-            "group": null,
-            "data": "...III.."
-        },
-        {
-            "codeName": "r195",
-            "group": null,
-            "data": "........"
-        },
-        {
-            "codeName": "r196",
-            "group": null,
-            "data": "........"
-        },
-        {
-            "codeName": "r197",
-            "group": null,
-            "data": "........"
-        },
-        {
-            "codeName": "r198",
-            "group": null,
-            "data": ".......5"
-        },
-        {
-            "codeName": "r199",
-            "group": null,
-            "data": ".....1.1"
-        },
-        {
-            "codeName": "r200",
-            "group": "spawnroboright",
-            "data": "........"
-        },
-        {
-            "codeName": "r201",
-            "group": "****",
-            "data": "........"
-        },
-        {
-            "codeName": "r202",
-            "group": null,
-            "data": "...I...."
-        },
-        {
-            "codeName": "r203",
-            "group": null,
-            "data": "...I...."
-        },
-        {
-            "codeName": "r204",
-            "group": null,
-            "data": "...I...."
-        },
-        {
-            "codeName": "r205",
-            "group": null,
-            "data": "...I...."
-        },
-        {
-            "codeName": "r206",
-            "group": null,
-            "data": "........"
-        },
-        {
-            "codeName": "r207",
-            "group": null,
-            "data": "1......."
-        }
-    ],
     "messages": [
         {
             "name": "message1",

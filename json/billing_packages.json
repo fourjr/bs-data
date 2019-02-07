@@ -18,6 +18,7 @@
         "decor": null,
         "isPromotion": null,
         "coins": null,
+        "refundGemValue": 30,
         "id": 2
     },
     {
@@ -39,6 +40,7 @@
         "decor": null,
         "isPromotion": null,
         "coins": null,
+        "refundGemValue": 80,
         "id": 3
     },
     {
@@ -60,6 +62,7 @@
         "decor": null,
         "isPromotion": null,
         "coins": null,
+        "refundGemValue": 170,
         "id": 4
     },
     {
@@ -81,6 +84,7 @@
         "decor": null,
         "isPromotion": null,
         "coins": null,
+        "refundGemValue": 360,
         "id": 5
     },
     {
@@ -102,6 +106,7 @@
         "decor": null,
         "isPromotion": null,
         "coins": null,
+        "refundGemValue": 950,
         "id": 6
     },
     {
@@ -123,6 +128,7 @@
         "decor": null,
         "isPromotion": null,
         "coins": null,
+        "refundGemValue": 2000,
         "id": 7
     },
     {
@@ -144,6 +150,7 @@
         "decor": 0,
         "isPromotion": null,
         "coins": null,
+        "refundGemValue": 160,
         "id": 8
     },
     {
@@ -165,6 +172,7 @@
         "decor": 0,
         "isPromotion": null,
         "coins": null,
+        "refundGemValue": 250,
         "id": 9
     },
     {
@@ -186,6 +194,7 @@
         "decor": 0,
         "isPromotion": null,
         "coins": null,
+        "refundGemValue": 490,
         "id": 10
     },
     {
@@ -207,6 +216,7 @@
         "decor": 0,
         "isPromotion": null,
         "coins": null,
+        "refundGemValue": 760,
         "id": 11
     },
     {
@@ -228,6 +238,7 @@
         "decor": 1,
         "isPromotion": null,
         "coins": null,
+        "refundGemValue": 330,
         "id": 12
     },
     {
@@ -249,6 +260,7 @@
         "decor": 3,
         "isPromotion": null,
         "coins": null,
+        "refundGemValue": 330,
         "id": 13
     },
     {
@@ -270,6 +282,7 @@
         "decor": 0,
         "isPromotion": null,
         "coins": 2000,
+        "refundGemValue": 493,
         "id": 14
     },
     {
@@ -291,6 +304,7 @@
         "decor": 0,
         "isPromotion": null,
         "coins": 3500,
+        "refundGemValue": 738,
         "id": 15
     },
     {
@@ -312,6 +326,7 @@
         "decor": 0,
         "isPromotion": null,
         "coins": 4000,
+        "refundGemValue": 666,
         "id": 16
     },
     {
@@ -322,7 +337,7 @@
         "existsApple": "TRUE",
         "existsAndroid": "TRUE",
         "diamonds": 170,
-        "uSD": 499,
+        "uSD": 999,
         "order": 9,
         "iconExportName": null,
         "starterPackNumber": null,
@@ -333,6 +348,7 @@
         "decor": 2,
         "isPromotion": null,
         "coins": 1500,
+        "refundGemValue": 505,
         "id": 17
     },
     {
@@ -354,6 +370,7 @@
         "decor": 0,
         "isPromotion": null,
         "coins": 1111,
+        "refundGemValue": 320,
         "id": 18
     }
 ]
