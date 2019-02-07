@@ -7,7 +7,7 @@
         "iconExportName": "genicon_gem",
         "type": null,
         "rarity": null,
-        "premiumCurrency": "TRUE",
+        "premiumCurrency": true,
         "textRed": null,
         "textGreen": 255,
         "textBlue": 92,

@@ -90,10 +90,11 @@ if __name__ == '__main__':
                             except ValueError:
                                 pass
 
-                        if i[j] == 'true':
-                            i[j] = True
-                        elif i[j] == 'false':
-                            i[j] = False
+                        if isinstance(i[j], str):
+                            if i[j].lower() == 'true':
+                                i[j] = True
+                            elif i[j].lower() == 'false':
+                                i[j] = False
 
                     if i[j] == '':
                         i[j] = None

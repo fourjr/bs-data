@@ -402,7 +402,7 @@
     {
         "name": "GAMECENTER_REAUTHORIZE",
         "numberValue": null,
-        "booleanValue": "FALSE",
+        "booleanValue": false,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -412,7 +412,7 @@
     {
         "name": "BILLING_PACK_NAMES_FROM_CSV",
         "numberValue": null,
-        "booleanValue": "FALSE",
+        "booleanValue": false,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -652,7 +652,7 @@
     {
         "name": "DROID_SANS_FALLBACK_ON_LOW_MEM_DEVICES",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -662,7 +662,7 @@
     {
         "name": "GOOGLE_SERVICE_ACHIEVEMENTS_BUTTON",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -752,7 +752,7 @@
     {
         "name": "PARTNER_AFTER_LOGIN",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -762,7 +762,7 @@
     {
         "name": "LOAD_DROID_SANS_FALLBACK_MANUALLY",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -772,7 +772,7 @@
     {
         "name": "LOAD_DROID_SANS_FALLBACK_MANUALLY_ANDROID",
         "numberValue": null,
-        "booleanValue": "FALSE",
+        "booleanValue": false,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -842,7 +842,7 @@
     {
         "name": "SEND_EVENTS_TO_FB",
         "numberValue": null,
-        "booleanValue": "FALSE",
+        "booleanValue": false,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -852,7 +852,7 @@
     {
         "name": "SEND_EVENTS_TO_TAPJOY",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -862,7 +862,7 @@
     {
         "name": "SEND_EVENTS_TO_ADCOLONY",
         "numberValue": null,
-        "booleanValue": "FALSE",
+        "booleanValue": false,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -872,7 +872,7 @@
     {
         "name": "SEND_EVENTS_TO_INMOBI",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -882,7 +882,7 @@
     {
         "name": "SEND_EVENTS_TO_MOBILE_APP_TRACKER",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -962,7 +962,7 @@
     {
         "name": "DISCONNECT_IF_NETWORK_UNREACHABLE",
         "numberValue": null,
-        "booleanValue": "FALSE",
+        "booleanValue": false,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -982,7 +982,7 @@
     {
         "name": "CLOSE_EXIT_CONFIRMATION_ON_BACK_KEY",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -1002,7 +1002,7 @@
     {
         "name": "SHOW_GEM_BALANCE_IN_JP",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -1012,7 +1012,7 @@
     {
         "name": "LIVE_REPLAY_SPEEDUP_TO_CATCHUP_TO_LIVE_FEED",
         "numberValue": null,
-        "booleanValue": "FALSE",
+        "booleanValue": false,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -1022,7 +1022,7 @@
     {
         "name": "POWER_SAVE_MODE_LESS_ENDTURN_MESSAGES",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -1052,7 +1052,7 @@
     {
         "name": "USE_CLOUDS_FOR_WAR_TRANSITION",
         "numberValue": null,
-        "booleanValue": "FALSE",
+        "booleanValue": false,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -1062,7 +1062,7 @@
     {
         "name": "WAR_MAP_SHOW_STARS_IN_REAL_TIME",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -1072,7 +1072,7 @@
     {
         "name": "ENABLE_KR_CALL_CENTER",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -1082,7 +1082,7 @@
     {
         "name": "ENABLE_ALLIANCE_WARS",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -1092,7 +1092,7 @@
     {
         "name": "ENABLE_OLD_WARS",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -1102,7 +1102,7 @@
     {
         "name": "ENABLE_WAR_HISTORY_MENU",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -1112,7 +1112,7 @@
     {
         "name": "ENABLE_WAR_STREAM",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -1122,7 +1122,7 @@
     {
         "name": "GOOGLE_SERVICE_ACHIEVEMENTS",
         "numberValue": null,
-        "booleanValue": "FALSE",
+        "booleanValue": false,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -1142,7 +1142,7 @@
     {
         "name": "GOOGLE_SERVICE_POPUP_AFTER_FIRST_PURCHASE",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -1162,7 +1162,7 @@
     {
         "name": "GOOGLE_SERVICE_POPUP_SHOW_AFTER_EACH_TOWNHALL",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -1172,7 +1172,7 @@
     {
         "name": "ENABLE_CHAT_IN_VISIT",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -1182,7 +1182,7 @@
     {
         "name": "ENABLE_CHAT_IN_CLOUDS",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -1192,7 +1192,7 @@
     {
         "name": "ENABLE_CHAT_IN_REPLAY",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -1232,7 +1232,7 @@
     {
         "name": "USE_LOWRES_INGAME_ASSETS_IN_MEDIUM",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -1242,7 +1242,7 @@
     {
         "name": "CLOSE_TROOP_TRAINING_IN_TUTORIAL",
         "numberValue": null,
-        "booleanValue": "FALSE",
+        "booleanValue": false,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -1252,7 +1252,7 @@
     {
         "name": "RECOVER_EDIT_MODE_SESSION",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -1272,7 +1272,7 @@
     {
         "name": "SHOW_BUBBLE_ICON_ON_BROKEN_TRAPS",
         "numberValue": null,
-        "booleanValue": "FALSE",
+        "booleanValue": false,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -1282,7 +1282,7 @@
     {
         "name": "DISCONNECT_IN_APPS",
         "numberValue": null,
-        "booleanValue": "FALSE",
+        "booleanValue": false,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -1292,7 +1292,7 @@
     {
         "name": "RETRY_PURCHASES_IN_SHOP",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -1312,7 +1312,7 @@
     {
         "name": "SHOW_GEMS_PURCHASE_BUTTON_DURING_TUTORIAL",
         "numberValue": null,
-        "booleanValue": "FALSE",
+        "booleanValue": false,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -1332,7 +1332,7 @@
     {
         "name": "CONTENT_UPDATE_HASH_CHECK",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -1342,7 +1342,7 @@
     {
         "name": "SEND_PERFORMANCE_EVENTS",
         "numberValue": null,
-        "booleanValue": "FALSE",
+        "booleanValue": false,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -1352,7 +1352,7 @@
     {
         "name": "SEND_PERFORMANCE_EVENTS_ANDROID",
         "numberValue": null,
-        "booleanValue": "FALSE",
+        "booleanValue": false,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -1392,7 +1392,7 @@
     {
         "name": "SCALE_UNIT_UI_IN_BATTLE",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -1402,7 +1402,7 @@
     {
         "name": "USE_DEVICE_LINK",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -1412,7 +1412,7 @@
     {
         "name": "DISABLE_MASK_FROM_EMPTY_INPUT_FIELD",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -1422,7 +1422,7 @@
     {
         "name": "HIDE_ISO_ENGINE_IN_BIG_POPUPS",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -1432,7 +1432,7 @@
     {
         "name": "HIGE_ISO_ENGINE_UNDER_CHAT",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -1442,7 +1442,7 @@
     {
         "name": "HIDE_ISO_ENGINE_IN_SHOP",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -1452,7 +1452,7 @@
     {
         "name": "ONLY_INSTALLED_FACEBOOK_FRIENDS",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -1492,7 +1492,7 @@
     {
         "name": "PAYMENT_LIMIT_CONFIRMATION_ENABLED",
         "numberValue": null,
-        "booleanValue": "FALSE",
+        "booleanValue": false,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -1522,7 +1522,7 @@
     {
         "name": "SHOW_DONATION_STATS_FOR_ALL_CLANS",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -1532,7 +1532,7 @@
     {
         "name": "USE_NEW_LOADING_BAR_LOGIC",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -1592,7 +1592,7 @@
     {
         "name": "SHOW_IAP_NOTIFICATION_POPUP",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -1602,7 +1602,7 @@
     {
         "name": "SEND_ONLY_INSTALL_EVENTS_TO_APP_TRACKER",
         "numberValue": null,
-        "booleanValue": "FALSE",
+        "booleanValue": false,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -1612,7 +1612,7 @@
     {
         "name": "DEFAULT_TO_LOCAL_HIGHSCORES",
         "numberValue": null,
-        "booleanValue": "FALSE",
+        "booleanValue": false,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -1622,7 +1622,7 @@
     {
         "name": "ENABLE_LOCAL_RANKINGS",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -1632,7 +1632,7 @@
     {
         "name": "DEFAULT_TO_LOCAL_CLAN_HIGHSCORES",
         "numberValue": null,
-        "booleanValue": "FALSE",
+        "booleanValue": false,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -1642,7 +1642,7 @@
     {
         "name": "ENABLE_LOCAL_CLAN_RANKINGS",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -1652,7 +1652,7 @@
     {
         "name": "USE_ARMY_READY_NOTIFICATION",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -1662,7 +1662,7 @@
     {
         "name": "USE_SPELLS_READY_NOTIFICATION",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -1672,7 +1672,7 @@
     {
         "name": "USE_LABORATORY_UPGRADE_READY_NOTIFICATION",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -1682,7 +1682,7 @@
     {
         "name": "USE_WALL_MOVE_TOOL",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -1692,7 +1692,7 @@
     {
         "name": "USE_HERO_HEALTH_FULL_NOTIFICATION",
         "numberValue": null,
-        "booleanValue": "FALSE",
+        "booleanValue": false,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -1702,7 +1702,7 @@
     {
         "name": "LOW_END_WALL_CORNERS",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -1732,7 +1732,7 @@
     {
         "name": "DISABLE_ANIMATOR_RESET",
         "numberValue": null,
-        "booleanValue": "FALSE",
+        "booleanValue": false,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -1742,7 +1742,7 @@
     {
         "name": "BUFFER_SERVER_COMMANDS",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -1782,7 +1782,7 @@
     {
         "name": "ACHIEVEMENTS_ENABLED",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -1792,7 +1792,7 @@
     {
         "name": "GAME_CENTER_ACHIEVEMENTS_ENABLED",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -1802,7 +1802,7 @@
     {
         "name": "GAME_CENTER_CHALLENGES_ENABLED",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -1822,7 +1822,7 @@
     {
         "name": "RED_CAMPAIGN_ENABLED",
         "numberValue": null,
-        "booleanValue": "FALSE",
+        "booleanValue": false,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -1842,7 +1842,7 @@
     {
         "name": "SEND_GC_ACHIEVEMENT_0_PROGRESS",
         "numberValue": null,
-        "booleanValue": "FALSE",
+        "booleanValue": false,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -1852,7 +1852,7 @@
     {
         "name": "USE_GC_SEND_ALL_ACHIEVEMENTS",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -1862,7 +1862,7 @@
     {
         "name": "SEND_GC_ACHIEVEMENT_PROGRESS_ONCE",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -1872,7 +1872,7 @@
     {
         "name": "HELPSHIFT_ENABLED",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -1882,7 +1882,7 @@
     {
         "name": "DISABLE_HELPSHIFT_CONTACT_US_FROM_NON_PAYING",
         "numberValue": null,
-        "booleanValue": "FALSE",
+        "booleanValue": false,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -1892,7 +1892,7 @@
     {
         "name": "DISABLE_STARTUP_CONSTANT_CONNECTION_FIX",
         "numberValue": null,
-        "booleanValue": "FALSE",
+        "booleanValue": false,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -1922,7 +1922,7 @@
     {
         "name": "DISCONNECT_IF_KEEPALIVE_IS_BEHIND",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -1952,7 +1952,7 @@
     {
         "name": "USE_RTT_FOR_THUMBNAILS",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -1962,7 +1962,7 @@
     {
         "name": "USE_DEFAULT_USER_NAME",
         "numberValue": null,
-        "booleanValue": "FALSE",
+        "booleanValue": false,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -1982,7 +1982,7 @@
     {
         "name": "FORGET_WAR_PARTICIPANTS_WHEN_WAR_MAP_CLOSES",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -1992,7 +1992,7 @@
     {
         "name": "SHOW_VILLAGE_THUMBNAIL_ON_PROFILE",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -2002,7 +2002,7 @@
     {
         "name": "ALWAYS_FORCE_VALID_WAR_SIZE_IN_WAR_PARTICIPANTS_SCREEN",
         "numberValue": null,
-        "booleanValue": "FALSE",
+        "booleanValue": false,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -2012,7 +2012,7 @@
     {
         "name": "ONLY_SHOW_WAR_PREFERENCE_IN_CLAN_LIST",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -2032,7 +2032,7 @@
     {
         "name": "SHOW_SUPPORT_TARGETING_ICON",
         "numberValue": null,
-        "booleanValue": "FALSE",
+        "booleanValue": false,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -2052,7 +2052,7 @@
     {
         "name": "ENABLE_SC_CACHING",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -2062,7 +2062,7 @@
     {
         "name": "ENABLE_SC_CACHE_LOADING",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -2102,7 +2102,7 @@
     {
         "name": "INSTRUCTOR_RECOMMENDS_PVP",
         "numberValue": null,
-        "booleanValue": "FALSE",
+        "booleanValue": false,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -2112,7 +2112,7 @@
     {
         "name": "REMOVE_INSTRUCTOR_AFTER_CLAN_CASTLE_REPAIR",
         "numberValue": null,
-        "booleanValue": "FALSE",
+        "booleanValue": false,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -2172,7 +2172,7 @@
     {
         "name": "SHOW_SAFE_ZONE_WHEN_BUILDING_SELECTED",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -2182,7 +2182,7 @@
     {
         "name": "CONNECT_IOS_TO_KUNLUN",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -2202,7 +2202,7 @@
     {
         "name": "RENDER_TEXT_OUTLINES_FIRST",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -2232,7 +2232,7 @@
     {
         "name": "USE_HELPSHIFT_SDK_LANGUAGE",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -2292,7 +2292,7 @@
     {
         "name": "LANGUAGE_SETTINGS_SCROLL_ENABLED",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -2302,7 +2302,7 @@
     {
         "name": "USE_REAL_WORLD_THRESHOLDS",
         "numberValue": null,
-        "booleanValue": "FALSE",
+        "booleanValue": false,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -2472,7 +2472,7 @@
     {
         "name": "CANCEL_GAME_INPUT_ON_PAN_AND_PINCH",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -2532,7 +2532,7 @@
     {
         "name": "DEVICE_LINK_CHECK_BOUND_TO_KUNLUN",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -2542,7 +2542,7 @@
     {
         "name": "SHOW_CONTEXT_MENU_FOR_PLAYER",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -2552,7 +2552,7 @@
     {
         "name": "SHOW_IAP_INFO_IN_KOREA",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -2562,7 +2562,7 @@
     {
         "name": "USE_HELPSHIFT_LINKS",
         "numberValue": null,
-        "booleanValue": "FALSE",
+        "booleanValue": false,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -2572,7 +2572,7 @@
     {
         "name": "USE_TOS_AND_PP_FIRST_POPUP",
         "numberValue": null,
-        "booleanValue": "FALSE",
+        "booleanValue": false,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -2592,7 +2592,7 @@
     {
         "name": "USE_PEPPER_CRYPTO",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -2642,7 +2642,7 @@
     {
         "name": "SHOW_SHIELD_BREAKING_POPUP_ONCE",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -2652,7 +2652,7 @@
     {
         "name": "ANIMATE_WAR_BUTTON_ON_ACTIVITY",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -2672,7 +2672,7 @@
     {
         "name": "USE_TREASURY_WINDOW",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -2702,7 +2702,7 @@
     {
         "name": "ENABLE_SCREENRECORDING",
         "numberValue": null,
-        "booleanValue": "FALSE",
+        "booleanValue": false,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -2712,7 +2712,7 @@
     {
         "name": "DISABLE_SCREENSHAKE_WHILE_RECORDING",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -2722,7 +2722,7 @@
     {
         "name": "SEND_CONNECTION_TYPE_INFO",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -2732,7 +2732,7 @@
     {
         "name": "HELPSHIFT_AFTER_LOGIN",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -2752,7 +2752,7 @@
     {
         "name": "REMOVE_SHADOWS_FROM_DESTROYED_BUILDINGS",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -2772,7 +2772,7 @@
     {
         "name": "RESET_PENDING_TRANSACTION_WHEN_FINISHING_DEFERRED_PURCHASE",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -2782,7 +2782,7 @@
     {
         "name": "LOAD_ADDITIONAL_SC_FILES",
         "numberValue": null,
-        "booleanValue": "FALSE",
+        "booleanValue": false,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -2792,7 +2792,7 @@
     {
         "name": "DO_GOOGLE_LOGIN_AT_STARTUP",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -2802,7 +2802,7 @@
     {
         "name": "USE_FIXED_TIME_STEP_EMITTERS",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -2812,7 +2812,7 @@
     {
         "name": "BUILDER_CONTEXT_MENU_ENABLED",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -2822,7 +2822,7 @@
     {
         "name": "LOOTCART_CONTEXT_MENU_ENABLED",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -2842,7 +2842,7 @@
     {
         "name": "SHOW_INGAME_MAINTENANCE_SCREEN",
         "numberValue": null,
-        "booleanValue": "FALSE",
+        "booleanValue": false,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -2852,7 +2852,7 @@
     {
         "name": "USE_DEEP_LINKING",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -2862,7 +2862,7 @@
     {
         "name": "USE_GAMEOBJECT_SELECTION_IN_REPLAYS",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -2872,7 +2872,7 @@
     {
         "name": "SHOW_AOE_IN_REPLAYS",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -2882,7 +2882,7 @@
     {
         "name": "SHOW_FORGOT_ARMY_NOTIF",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -2892,7 +2892,7 @@
     {
         "name": "SHOW_FORGOT_SPELLS_NOTIF",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -2902,7 +2902,7 @@
     {
         "name": "SHOW_COMBINED_ARMY_READY_NOTIF",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -2912,7 +2912,7 @@
     {
         "name": "USE_COPY_PASTE_MENU",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -2922,7 +2922,7 @@
     {
         "name": "USE_STAR_BONUS_NOTIFICATION",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -2932,7 +2932,7 @@
     {
         "name": "SHOW_SHORT_NOTIFICATIONS",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -2962,7 +2962,7 @@
     {
         "name": "ENABLE_WATCH_LIVE_IN_SCOUTING",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -2972,7 +2972,7 @@
     {
         "name": "ENABLE_CHALLENGE_SCOUT",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -3022,7 +3022,7 @@
     {
         "name": "ALLIANCE_DATA_MESSAGE_OWN_ALLIANCE_FIX",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -3032,7 +3032,7 @@
     {
         "name": "ALLIANCE_WAR_ATTACK_HID_OBJ_NULL_CHECK",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -3052,7 +3052,7 @@
     {
         "name": "TRACK_CURRENCY_BALANCE",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -3062,7 +3062,7 @@
     {
         "name": "ALLIANCE_VIEW_CLOSE_CONTEXT_ON_CLICK",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -3072,7 +3072,7 @@
     {
         "name": "USE_EMPTY_ANIM_FOR_BUILDINGS_UNDER_UPGRADE",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -3092,7 +3092,7 @@
     {
         "name": "CHALLENGE_FRIENDS_FROM_LIST",
         "numberValue": null,
-        "booleanValue": "FALSE",
+        "booleanValue": false,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -3102,7 +3102,7 @@
     {
         "name": "CANCEL_KUNLUN_PURCHASES_ON_WINDOW_CLOSED",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -3112,7 +3112,7 @@
     {
         "name": "TRAINING_SHOW_MAX_CAPACITY_WITH_OVERTRAINING",
         "numberValue": null,
-        "booleanValue": "FALSE",
+        "booleanValue": false,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -3232,7 +3232,7 @@
     {
         "name": "USE_ALLIANCE_CHAT_REPORTING",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -3272,7 +3272,7 @@
     {
         "name": "USE_SHIP_SCREEN_URL",
         "numberValue": null,
-        "booleanValue": "FALSE",
+        "booleanValue": false,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -3282,7 +3282,7 @@
     {
         "name": "SHOW_VILLAGE_OBJECTS",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -3292,7 +3292,7 @@
     {
         "name": "PRELOAD_SOUNDS",
         "numberValue": null,
-        "booleanValue": "FALSE",
+        "booleanValue": false,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -3302,7 +3302,7 @@
     {
         "name": "SHARE_TAGS_ENABLED",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -3322,7 +3322,7 @@
     {
         "name": "DEFERRED_FILE_DOWNLOAD_ENABLED",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -3332,7 +3332,7 @@
     {
         "name": "SHOW_V2_COLLECTORS_FULL_NOTIF",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -3342,7 +3342,7 @@
     {
         "name": "SHOW_V2_DAILY_LIMIT_RESET_NOTIF",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -3372,7 +3372,7 @@
     {
         "name": "TENCENT_IOS_CHECK_LANGUAGE_CODE",
         "numberValue": null,
-        "booleanValue": "FALSE",
+        "booleanValue": false,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -3382,7 +3382,7 @@
     {
         "name": "ENABLE_TENCENT",
         "numberValue": null,
-        "booleanValue": "FALSE",
+        "booleanValue": false,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -3392,7 +3392,7 @@
     {
         "name": "ENABLE_TENCENT_FRIENDS",
         "numberValue": null,
-        "booleanValue": "FALSE",
+        "booleanValue": false,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -3402,7 +3402,7 @@
     {
         "name": "ENABLE_TUNE",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -3492,7 +3492,7 @@
     {
         "name": "ENABLE_CHAT_REPORTING",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -3502,7 +3502,7 @@
     {
         "name": "ENABLE_BAD_TEXT_CHECK",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -3512,7 +3512,7 @@
     {
         "name": "CLAN_INVITE_TOKEN_ENABLED",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -3532,7 +3532,7 @@
     {
         "name": "FRIEND_INVITE_TOKEN_ENABLED",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -3552,7 +3552,7 @@
     {
         "name": "TEAM_INVITE_DEEPLINK_ENABLED",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -3572,7 +3572,7 @@
     {
         "name": "CHINA_REGULATIONS_ENABLED",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -3652,7 +3652,7 @@
     {
         "name": "SPECTATE_ENABLED",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -3662,7 +3662,7 @@
     {
         "name": "KAKAO_ENABLED",
         "numberValue": null,
-        "booleanValue": "FALSE",
+        "booleanValue": false,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,
@@ -3712,7 +3712,7 @@
     {
         "name": "AUTO_OPEN_TEAM_LOOT_BAR",
         "numberValue": null,
-        "booleanValue": "TRUE",
+        "booleanValue": true,
         "textValue": null,
         "numberArray": null,
         "stringArray": null,

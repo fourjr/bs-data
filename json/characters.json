@@ -2164,7 +2164,7 @@
     },
     {
         "name": "HookDude",
-        "lockedForChronos": "TRUE",
+        "lockedForChronos": true,
         "disabled": null,
         "itemName": null,
         "weaponSkill": "HookWeapon",
