@@ -13,7 +13,7 @@
         "textBlue": 92,
         "cap": null,
         "id": 5,
-        "rawTID": "TID_DIAMONDS"
+        "rawTID": "DIAMONDS"
     },
     {
         "name": "Gold",
@@ -29,7 +29,7 @@
         "textBlue": 192,
         "cap": null,
         "id": 6,
-        "rawTID": "TID_GOLD"
+        "rawTID": "GOLD"
     },
     {
         "name": "owcAny",
@@ -45,7 +45,7 @@
         "textBlue": null,
         "cap": null,
         "id": 7,
-        "rawTID": "TID_OFFER_WILDCARD_ANY"
+        "rawTID": "OFFER_WILDCARD_ANY"
     },
     {
         "name": "owcRareOrBetter",
@@ -61,7 +61,7 @@
         "textBlue": null,
         "cap": null,
         "id": 8,
-        "rawTID": "TID_OFFER_WILDCARD_RARE_OR_BETTER"
+        "rawTID": "OFFER_WILDCARD_RARE_OR_BETTER"
     },
     {
         "name": "owcEpicOrBetter",
@@ -77,7 +77,7 @@
         "textBlue": null,
         "cap": null,
         "id": 9,
-        "rawTID": "TID_OFFER_WILDCARD_EPIC_OR_BETTER"
+        "rawTID": "OFFER_WILDCARD_EPIC_OR_BETTER"
     },
     {
         "name": "Dust",
@@ -93,7 +93,7 @@
         "textBlue": null,
         "cap": null,
         "id": 10,
-        "rawTID": "TID_DUST"
+        "rawTID": "DUST"
     },
     {
         "name": "Upgradium",
@@ -109,7 +109,7 @@
         "textBlue": null,
         "cap": null,
         "id": 11,
-        "rawTID": "TID_UPGRADIUM"
+        "rawTID": "UPGRADIUM"
     },
     {
         "name": "Bolts",
@@ -125,7 +125,7 @@
         "textBlue": null,
         "cap": null,
         "id": 12,
-        "rawTID": "TID_BOLTS"
+        "rawTID": "BOLTS"
     },
     {
         "name": "HeroLvlUpMaterial",
@@ -141,7 +141,7 @@
         "textBlue": null,
         "cap": null,
         "id": 13,
-        "rawTID": "TID_HERO_LVL_UP_MATERIAL"
+        "rawTID": "HERO_LVL_UP_MATERIAL"
     },
     {
         "name": "FirstWins",
@@ -157,6 +157,6 @@
         "textBlue": null,
         "cap": null,
         "id": 14,
-        "rawTID": "TID_FIRST_WINS"
+        "rawTID": "FIRST_WINS"
     }
 ]

@@ -166,7 +166,7 @@
         "ultiAttackEffect": null,
         "useBlueTextureInMenus": null,
         "id": 31,
-        "rawTID": "TID_GUNSLINGER_ROCKSTAR_SKIN"
+        "rawTID": "GUNSLINGER_ROCKSTAR_SKIN"
     },
     {
         "name": "BullGuyDefault",
@@ -335,7 +335,7 @@
         "ultiAttackEffect": null,
         "useBlueTextureInMenus": null,
         "id": 34,
-        "rawTID": "TID_ROCKET_BEACH_SKIN"
+        "rawTID": "ROCKET_BEACH_SKIN"
     },
     {
         "name": "TntGuyDefault",
@@ -672,7 +672,7 @@
         "ultiAttackEffect": "spike_002_ulti",
         "useBlueTextureInMenus": null,
         "id": 40,
-        "rawTID": "TID_CACTUS_PINK_SKIN"
+        "rawTID": "CACTUS_PINK_SKIN"
     },
     {
         "name": "BarkeepDefault",
@@ -897,7 +897,7 @@
         "ultiAttackEffect": null,
         "useBlueTextureInMenus": null,
         "id": 44,
-        "rawTID": "TID_SHAMAN_PANDA_SKIN"
+        "rawTID": "SHAMAN_PANDA_SKIN"
     },
     {
         "name": "ShamanBearDefault",
@@ -1178,7 +1178,7 @@
         "ultiAttackEffect": null,
         "useBlueTextureInMenus": null,
         "id": 49,
-        "rawTID": "TID_CROW_WHITE_SKIN"
+        "rawTID": "CROW_WHITE_SKIN"
     },
     {
         "name": "DeadMariachiDefault",
@@ -1459,7 +1459,7 @@
         "ultiAttackEffect": null,
         "useBlueTextureInMenus": null,
         "id": 54,
-        "rawTID": "TID_BULL_HAIR_SKIN"
+        "rawTID": "BULL_HAIR_SKIN"
     },
     {
         "name": "TrickshotGold",
@@ -1516,7 +1516,7 @@
         "ultiAttackEffect": "rico_003_ulti",
         "useBlueTextureInMenus": null,
         "id": 55,
-        "rawTID": "TID_TRICKSHOT_GOLD_SKIN"
+        "rawTID": "TRICKSHOT_GOLD_SKIN"
     },
     {
         "name": "BarkeepGold",
@@ -1573,7 +1573,7 @@
         "ultiAttackEffect": null,
         "useBlueTextureInMenus": null,
         "id": 56,
-        "rawTID": "TID_BARKEEP_GOLD_SKIN"
+        "rawTID": "BARKEEP_GOLD_SKIN"
     },
     {
         "name": "LuchadorRudo",
@@ -1630,7 +1630,7 @@
         "ultiAttackEffect": null,
         "useBlueTextureInMenus": null,
         "id": 57,
-        "rawTID": "TID_LUCHADOR_RUDO_SKIN"
+        "rawTID": "LUCHADOR_RUDO_SKIN"
     },
     {
         "name": "BanditGirlBandita",
@@ -1687,7 +1687,7 @@
         "ultiAttackEffect": null,
         "useBlueTextureInMenus": null,
         "id": 58,
-        "rawTID": "TID_SHOTGUN_BANDITA_SKIN"
+        "rawTID": "SHOTGUN_BANDITA_SKIN"
     },
     {
         "name": "LuchadorRey",
@@ -1744,7 +1744,7 @@
         "ultiAttackEffect": null,
         "useBlueTextureInMenus": null,
         "id": 59,
-        "rawTID": "TID_LUCHADOR_KING_SKIN"
+        "rawTID": "LUCHADOR_KING_SKIN"
     },
     {
         "name": "BallDefault",
@@ -2529,7 +2529,7 @@
         "ultiAttackEffect": null,
         "useBlueTextureInMenus": null,
         "id": 73,
-        "rawTID": "TID_MECHANIC_KNIGHT_SKIN"
+        "rawTID": "MECHANIC_KNIGHT_SKIN"
     },
     {
         "name": "FrankCaveman",
@@ -2586,7 +2586,7 @@
         "ultiAttackEffect": null,
         "useBlueTextureInMenus": null,
         "id": 74,
-        "rawTID": "TID_FRANK_CAVEMAN_SKIN"
+        "rawTID": "FRANK_CAVEMAN_SKIN"
     },
     {
         "name": "TurretDragon",
@@ -2699,7 +2699,7 @@
         "ultiAttackEffect": null,
         "useBlueTextureInMenus": null,
         "id": 76,
-        "rawTID": "TID_MECHANIC_SUMMER_SKIN"
+        "rawTID": "MECHANIC_SUMMER_SKIN"
     },
     {
         "name": "TurretSummertime",
@@ -2812,7 +2812,7 @@
         "ultiAttackEffect": null,
         "useBlueTextureInMenus": null,
         "id": 78,
-        "rawTID": "TID_CROW_PHEONIX_SKIN"
+        "rawTID": "CROW_PHEONIX_SKIN"
     },
     {
         "name": "UndertakerGreaser",
@@ -2869,7 +2869,7 @@
         "ultiAttackEffect": null,
         "useBlueTextureInMenus": null,
         "id": 79,
-        "rawTID": "TID_UNDERTAKER_GREASER_SKIN"
+        "rawTID": "UNDERTAKER_GREASER_SKIN"
     },
     {
         "name": "BigBotDefault",
@@ -2982,7 +2982,7 @@
         "ultiAttackEffect": null,
         "useBlueTextureInMenus": null,
         "id": 81,
-        "rawTID": "TID_SHOTGUN_STAR_SKIN"
+        "rawTID": "SHOTGUN_STAR_SKIN"
     },
     {
         "name": "LootBox",
@@ -3207,7 +3207,7 @@
         "ultiAttackEffect": null,
         "useBlueTextureInMenus": null,
         "id": 85,
-        "rawTID": "TID_DYNAMIKE_SANTA_SKIN"
+        "rawTID": "DYNAMIKE_SANTA_SKIN"
     },
     {
         "name": "TntGuyChef",
@@ -3264,7 +3264,7 @@
         "ultiAttackEffect": null,
         "useBlueTextureInMenus": null,
         "id": 86,
-        "rawTID": "TID_DYNAMIKE_CHEF_SKIN"
+        "rawTID": "DYNAMIKE_CHEF_SKIN"
     },
     {
         "name": "RocketGirlBoombox",
@@ -3321,7 +3321,7 @@
         "ultiAttackEffect": null,
         "useBlueTextureInMenus": null,
         "id": 87,
-        "rawTID": "TID_BROCK_BOOMBOX_SKIN"
+        "rawTID": "BROCK_BOOMBOX_SKIN"
     },
     {
         "name": "BarkeepWizard",
@@ -3378,7 +3378,7 @@
         "ultiAttackEffect": "barkeep_wizard_attack_ulti",
         "useBlueTextureInMenus": null,
         "id": 88,
-        "rawTID": "TID_BARLEY_WIZARD_SKIN"
+        "rawTID": "BARLEY_WIZARD_SKIN"
     },
     {
         "name": "ShamanReindeer",
@@ -3435,7 +3435,7 @@
         "ultiAttackEffect": null,
         "useBlueTextureInMenus": null,
         "id": 89,
-        "rawTID": "TID_NITA_REINDEER_SKIN"
+        "rawTID": "NITA_REINDEER_SKIN"
     },
     {
         "name": "ArtilleryGalElf",
@@ -3492,7 +3492,7 @@
         "ultiAttackEffect": null,
         "useBlueTextureInMenus": null,
         "id": 90,
-        "rawTID": "TID_PENNY_ELF_SKIN"
+        "rawTID": "PENNY_ELF_SKIN"
     },
     {
         "name": "NinjaDefault",
@@ -3605,7 +3605,7 @@
         "ultiAttackEffect": null,
         "useBlueTextureInMenus": null,
         "id": 92,
-        "rawTID": "TID_UNDERTAKER_HAT_SKIN"
+        "rawTID": "UNDERTAKER_HAT_SKIN"
     },
     {
         "name": "BullGuyFootbull",
@@ -3662,7 +3662,7 @@
         "ultiAttackEffect": null,
         "useBlueTextureInMenus": null,
         "id": 93,
-        "rawTID": "TID_SKIN_FOOTBULL"
+        "rawTID": "SKIN_FOOTBULL"
     },
     {
         "name": "ShamanBearReindeer",
@@ -3887,7 +3887,7 @@
         "ultiAttackEffect": "rico_002_ulti",
         "useBlueTextureInMenus": null,
         "id": 97,
-        "rawTID": "TID_SKIN_POPCORN_RICO"
+        "rawTID": "SKIN_POPCORN_RICO"
     },
     {
         "name": "GunSlingerHanbok",
@@ -3944,7 +3944,7 @@
         "ultiAttackEffect": null,
         "useBlueTextureInMenus": null,
         "id": 98,
-        "rawTID": "TID_SKIN_LUNAR_COLT"
+        "rawTID": "SKIN_LUNAR_COLT"
     },
     {
         "name": "BarrelbotCny",
@@ -4001,7 +4001,7 @@
         "ultiAttackEffect": null,
         "useBlueTextureInMenus": null,
         "id": 99,
-        "rawTID": "TID_SKIN_DUMPLING_DARRYL"
+        "rawTID": "SKIN_DUMPLING_DARRYL"
     },
     {
         "name": "PocoValentine",
@@ -4058,7 +4058,7 @@
         "ultiAttackEffect": "poco_002_atk_root",
         "useBlueTextureInMenus": null,
         "id": 100,
-        "rawTID": "TID_SKIN_VALENTINE_POCO"
+        "rawTID": "SKIN_VALENTINE_POCO"
     },
     {
         "name": "RocketGirlCny",
@@ -4115,6 +4115,6 @@
         "ultiAttackEffect": "brock_002_atk",
         "useBlueTextureInMenus": null,
         "id": 101,
-        "rawTID": "TID_SKIN_LUNAR_BROCK"
+        "rawTID": "SKIN_LUNAR_BROCK"
     }
 ]

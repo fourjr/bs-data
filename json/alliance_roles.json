@@ -24,7 +24,7 @@
         "canBePromotedToLeader": null,
         "promoteSkill": 0,
         "id": 26,
-        "rawTID": "TID_ALLIANCE_ROLE_MEMBER"
+        "rawTID": "ALLIANCE_ROLE_MEMBER"
     },
     {
         "name": "Leader",
@@ -38,7 +38,7 @@
         "canBePromotedToLeader": true,
         "promoteSkill": 2,
         "id": 27,
-        "rawTID": "TID_ALLIANCE_ROLE_LEADER"
+        "rawTID": "ALLIANCE_ROLE_LEADER"
     },
     {
         "name": "Elder",
@@ -52,7 +52,7 @@
         "canBePromotedToLeader": null,
         "promoteSkill": 0,
         "id": 28,
-        "rawTID": "TID_ALLIANCE_ROLE_ELDER"
+        "rawTID": "ALLIANCE_ROLE_ELDER"
     },
     {
         "name": "Co-leader",
@@ -66,6 +66,6 @@
         "canBePromotedToLeader": true,
         "promoteSkill": 2,
         "id": 29,
-        "rawTID": "TID_ALLIANCE_ROLE_CO_LEADER"
+        "rawTID": "ALLIANCE_ROLE_CO_LEADER"
     }
 ]

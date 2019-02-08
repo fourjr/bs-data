@@ -101,7 +101,7 @@
         "videoLink": "ShellyTutorial",
         "id": 16,
         "scId": 1600000,
-        "rawTID": "TID_SHOTGUN_GIRL"
+        "rawTID": "SHOTGUN_GIRL"
     },
     {
         "name": "Gunslinger",
@@ -205,7 +205,7 @@
         "videoLink": "ColtTutorial",
         "id": 17,
         "scId": 1600001,
-        "rawTID": "TID_GUNSLINGER"
+        "rawTID": "GUNSLINGER"
     },
     {
         "name": "BullDude",
@@ -309,7 +309,7 @@
         "videoLink": "BullTutorial",
         "id": 18,
         "scId": 1600002,
-        "rawTID": "TID_BULL_DUDE"
+        "rawTID": "BULL_DUDE"
     },
     {
         "name": "RocketGirl",
@@ -413,7 +413,7 @@
         "videoLink": "BrockTutorial",
         "id": 19,
         "scId": 1600003,
-        "rawTID": "TID_ROCKET_GIRL"
+        "rawTID": "ROCKET_GIRL"
     },
     {
         "name": "TrickshotDude",
@@ -517,7 +517,7 @@
         "videoLink": "RicoTutorial",
         "id": 20,
         "scId": 1600004,
-        "rawTID": "TID_TRICKSHOT_DUDE"
+        "rawTID": "TRICKSHOT_DUDE"
     },
     {
         "name": "Cactus",
@@ -621,7 +621,7 @@
         "videoLink": "SpikeTutorial",
         "id": 21,
         "scId": 1600005,
-        "rawTID": "TID_CACTUS"
+        "rawTID": "CACTUS"
     },
     {
         "name": "Barkeep",
@@ -725,7 +725,7 @@
         "videoLink": "BarleyTutorial",
         "id": 22,
         "scId": 1600006,
-        "rawTID": "TID_BARKEEP"
+        "rawTID": "BARKEEP"
     },
     {
         "name": "Mechanic",
@@ -829,7 +829,7 @@
         "videoLink": "JessieTutorial",
         "id": 23,
         "scId": 1600007,
-        "rawTID": "TID_MECHANIC"
+        "rawTID": "MECHANIC"
     },
     {
         "name": "Shaman",
@@ -933,7 +933,7 @@
         "videoLink": "NitaTutorial",
         "id": 24,
         "scId": 1600008,
-        "rawTID": "TID_SHAMAN"
+        "rawTID": "SHAMAN"
     },
     {
         "name": "TntDude",
@@ -1037,7 +1037,7 @@
         "videoLink": "MikeTutorial",
         "id": 25,
         "scId": 1600009,
-        "rawTID": "TID_TNT_DUDE"
+        "rawTID": "TNT_DUDE"
     },
     {
         "name": "Luchador",
@@ -1141,7 +1141,7 @@
         "videoLink": "PrimpTutorial",
         "id": 26,
         "scId": 1600010,
-        "rawTID": "TID_LUCHADOR"
+        "rawTID": "LUCHADOR"
     },
     {
         "name": "Undertaker",
@@ -1245,7 +1245,7 @@
         "videoLink": "MortisTutorial",
         "id": 27,
         "scId": 1600011,
-        "rawTID": "TID_UNDERTAKER"
+        "rawTID": "UNDERTAKER"
     },
     {
         "name": "Crow",
@@ -1349,7 +1349,7 @@
         "videoLink": "CrowTutorial",
         "id": 28,
         "scId": 1600012,
-        "rawTID": "TID_CROW"
+        "rawTID": "CROW"
     },
     {
         "name": "DeadMariachi",
@@ -1453,7 +1453,7 @@
         "videoLink": "PocoTutorial",
         "id": 29,
         "scId": 1600013,
-        "rawTID": "TID_DEAD_MARIACHI"
+        "rawTID": "DEAD_MARIACHI"
     },
     {
         "name": "BowDude",
@@ -1557,7 +1557,7 @@
         "videoLink": "BoTutorial",
         "id": 30,
         "scId": 1600014,
-        "rawTID": "TID_BOW_DUDE"
+        "rawTID": "BOW_DUDE"
     },
     {
         "name": "Sniper",
@@ -1661,7 +1661,7 @@
         "videoLink": "PiperTutorial",
         "id": 31,
         "scId": 1600015,
-        "rawTID": "TID_SNIPER"
+        "rawTID": "SNIPER"
     },
     {
         "name": "MinigunDude",
@@ -1765,7 +1765,7 @@
         "videoLink": "PamTutorial",
         "id": 32,
         "scId": 1600016,
-        "rawTID": "TID_MINIGUN_DUDE"
+        "rawTID": "MINIGUN_DUDE"
     },
     {
         "name": "BlackHole",
@@ -1869,7 +1869,7 @@
         "videoLink": "TaraTutorial",
         "id": 33,
         "scId": 1600017,
-        "rawTID": "TID_BLACK_HOLE"
+        "rawTID": "BLACK_HOLE"
     },
     {
         "name": "BarrelBot",
@@ -1973,7 +1973,7 @@
         "videoLink": "DarrylTutorial",
         "id": 34,
         "scId": 1600018,
-        "rawTID": "TID_BARREL_BOT"
+        "rawTID": "BARREL_BOT"
     },
     {
         "name": "ArtilleryDude",
@@ -2077,7 +2077,7 @@
         "videoLink": "PennyTutorial",
         "id": 35,
         "scId": 1600019,
-        "rawTID": "TID_ARTILLERY_DUDE"
+        "rawTID": "ARTILLERY_DUDE"
     },
     {
         "name": "HammerDude",
@@ -2181,7 +2181,7 @@
         "videoLink": "FrankTutorial",
         "id": 36,
         "scId": 1600020,
-        "rawTID": "TID_HAMMER_DUDE"
+        "rawTID": "HAMMER_DUDE"
     },
     {
         "name": "HookDude",
@@ -2285,7 +2285,7 @@
         "videoLink": "GeneTutorial",
         "id": 37,
         "scId": 1600021,
-        "rawTID": "TID_HOOK"
+        "rawTID": "HOOK"
     },
     {
         "name": "ClusterBombDude",
@@ -2389,7 +2389,7 @@
         "videoLink": null,
         "id": 38,
         "scId": 1600022,
-        "rawTID": "TID_SHOTGUN_GIRL"
+        "rawTID": "SHOTGUN_GIRL"
     },
     {
         "name": "Ninja",
@@ -2493,7 +2493,7 @@
         "videoLink": "LeonTutorial",
         "id": 39,
         "scId": 1600023,
-        "rawTID": "TID_NINJA"
+        "rawTID": "NINJA"
     },
     {
         "name": "Animal",
@@ -2597,7 +2597,7 @@
         "videoLink": null,
         "id": 40,
         "scId": 1600024,
-        "rawTID": "TID_SHOTGUN_GIRL"
+        "rawTID": "SHOTGUN_GIRL"
     },
     {
         "name": "TutorialDummy",

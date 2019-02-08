@@ -19,7 +19,7 @@
         "towerLevel": 1,
         "requiredStars": 3,
         "id": 21,
-        "rawTID": "TID_CAMPAIGN_1"
+        "rawTID": "CAMPAIGN_1"
     },
     {
         "name": "Campaign_tutorial_2",
@@ -41,7 +41,7 @@
         "towerLevel": 1,
         "requiredStars": 4,
         "id": 22,
-        "rawTID": "TID_CAMPAIGN_1"
+        "rawTID": "CAMPAIGN_1"
     },
     {
         "name": "Campaign_tutorial_3",
@@ -63,7 +63,7 @@
         "towerLevel": 1,
         "requiredStars": 5,
         "id": 23,
-        "rawTID": "TID_CAMPAIGN_1"
+        "rawTID": "CAMPAIGN_1"
     },
     {
         "name": "Campaign_1",
@@ -85,7 +85,7 @@
         "towerLevel": 4,
         "requiredStars": 10,
         "id": 24,
-        "rawTID": "TID_CAMPAIGN_1"
+        "rawTID": "CAMPAIGN_1"
     },
     {
         "name": "Campaign_2",
@@ -107,7 +107,7 @@
         "towerLevel": 3,
         "requiredStars": 9,
         "id": 25,
-        "rawTID": "TID_CAMPAIGN_1"
+        "rawTID": "CAMPAIGN_1"
     },
     {
         "name": "Campaign_3",
@@ -129,7 +129,7 @@
         "towerLevel": 5,
         "requiredStars": 7,
         "id": 26,
-        "rawTID": "TID_CAMPAIGN_1"
+        "rawTID": "CAMPAIGN_1"
     },
     {
         "name": "Campaign_4",
@@ -151,7 +151,7 @@
         "towerLevel": 1,
         "requiredStars": 6,
         "id": 27,
-        "rawTID": "TID_CAMPAIGN_1"
+        "rawTID": "CAMPAIGN_1"
     },
     {
         "name": "Campaign_4_1",
@@ -173,7 +173,7 @@
         "towerLevel": 6,
         "requiredStars": 12,
         "id": 28,
-        "rawTID": "TID_CAMPAIGN_1"
+        "rawTID": "CAMPAIGN_1"
     },
     {
         "name": "Campaign_5",
@@ -195,7 +195,7 @@
         "towerLevel": 6,
         "requiredStars": 12,
         "id": 29,
-        "rawTID": "TID_CAMPAIGN_1"
+        "rawTID": "CAMPAIGN_1"
     },
     {
         "name": "Campaign_6",
@@ -217,7 +217,7 @@
         "towerLevel": 8,
         "requiredStars": 10,
         "id": 30,
-        "rawTID": "TID_CAMPAIGN_1"
+        "rawTID": "CAMPAIGN_1"
     },
     {
         "name": "Campaign_7",
@@ -239,7 +239,7 @@
         "towerLevel": 3,
         "requiredStars": 9,
         "id": 31,
-        "rawTID": "TID_CAMPAIGN_1"
+        "rawTID": "CAMPAIGN_1"
     },
     {
         "name": "Campaign_8",
@@ -261,7 +261,7 @@
         "towerLevel": 8,
         "requiredStars": 14,
         "id": 32,
-        "rawTID": "TID_CAMPAIGN_1"
+        "rawTID": "CAMPAIGN_1"
     },
     {
         "name": "Campaign_9",
@@ -283,7 +283,7 @@
         "towerLevel": 8,
         "requiredStars": 14,
         "id": 33,
-        "rawTID": "TID_CAMPAIGN_1"
+        "rawTID": "CAMPAIGN_1"
     },
     {
         "name": "Campaign_10",
@@ -305,7 +305,7 @@
         "towerLevel": 9,
         "requiredStars": 11,
         "id": 34,
-        "rawTID": "TID_CAMPAIGN_1"
+        "rawTID": "CAMPAIGN_1"
     },
     {
         "name": "Campaign_11",
@@ -327,7 +327,7 @@
         "towerLevel": 4,
         "requiredStars": 10,
         "id": 35,
-        "rawTID": "TID_CAMPAIGN_1"
+        "rawTID": "CAMPAIGN_1"
     },
     {
         "name": "Campaign_12",
@@ -349,7 +349,7 @@
         "towerLevel": 10,
         "requiredStars": 16,
         "id": 36,
-        "rawTID": "TID_CAMPAIGN_1"
+        "rawTID": "CAMPAIGN_1"
     },
     {
         "name": "Campaign_13",
@@ -371,7 +371,7 @@
         "towerLevel": 9,
         "requiredStars": 15,
         "id": 37,
-        "rawTID": "TID_CAMPAIGN_1"
+        "rawTID": "CAMPAIGN_1"
     },
     {
         "name": "Campaign_14",
@@ -393,7 +393,7 @@
         "towerLevel": 10,
         "requiredStars": 12,
         "id": 38,
-        "rawTID": "TID_CAMPAIGN_1"
+        "rawTID": "CAMPAIGN_1"
     },
     {
         "name": "Campaign_15",
@@ -415,7 +415,7 @@
         "towerLevel": 6,
         "requiredStars": 12,
         "id": 39,
-        "rawTID": "TID_CAMPAIGN_1"
+        "rawTID": "CAMPAIGN_1"
     },
     {
         "name": "Campaign_16",
@@ -437,7 +437,7 @@
         "towerLevel": 11,
         "requiredStars": 17,
         "id": 40,
-        "rawTID": "TID_CAMPAIGN_1"
+        "rawTID": "CAMPAIGN_1"
     },
     {
         "name": "Campaign_17",
@@ -459,7 +459,7 @@
         "towerLevel": 10,
         "requiredStars": 16,
         "id": 41,
-        "rawTID": "TID_CAMPAIGN_1"
+        "rawTID": "CAMPAIGN_1"
     },
     {
         "name": "Campaign_18",
@@ -481,7 +481,7 @@
         "towerLevel": 12,
         "requiredStars": 14,
         "id": 42,
-        "rawTID": "TID_CAMPAIGN_1"
+        "rawTID": "CAMPAIGN_1"
     },
     {
         "name": "Campaign_19",
@@ -503,7 +503,7 @@
         "towerLevel": 6,
         "requiredStars": 12,
         "id": 43,
-        "rawTID": "TID_CAMPAIGN_1"
+        "rawTID": "CAMPAIGN_1"
     },
     {
         "name": "Campaign_20",
@@ -525,7 +525,7 @@
         "towerLevel": 12,
         "requiredStars": 18,
         "id": 44,
-        "rawTID": "TID_CAMPAIGN_1"
+        "rawTID": "CAMPAIGN_1"
     },
     {
         "name": "Campaign_21",
@@ -547,7 +547,7 @@
         "towerLevel": 11,
         "requiredStars": 17,
         "id": 45,
-        "rawTID": "TID_CAMPAIGN_1"
+        "rawTID": "CAMPAIGN_1"
     },
     {
         "name": "Campaign_22",
@@ -569,7 +569,7 @@
         "towerLevel": 12,
         "requiredStars": 14,
         "id": 46,
-        "rawTID": "TID_CAMPAIGN_1"
+        "rawTID": "CAMPAIGN_1"
     },
     {
         "name": "Campaign_23",
@@ -591,7 +591,7 @@
         "towerLevel": 8,
         "requiredStars": 14,
         "id": 47,
-        "rawTID": "TID_CAMPAIGN_1"
+        "rawTID": "CAMPAIGN_1"
     },
     {
         "name": "Campaign_24",
@@ -613,7 +613,7 @@
         "towerLevel": 13,
         "requiredStars": 19,
         "id": 48,
-        "rawTID": "TID_CAMPAIGN_1"
+        "rawTID": "CAMPAIGN_1"
     },
     {
         "name": "Campaign_25",
@@ -635,7 +635,7 @@
         "towerLevel": 12,
         "requiredStars": 18,
         "id": 49,
-        "rawTID": "TID_CAMPAIGN_1"
+        "rawTID": "CAMPAIGN_1"
     },
     {
         "name": "Campaign_26",
@@ -657,7 +657,7 @@
         "towerLevel": 14,
         "requiredStars": 16,
         "id": 50,
-        "rawTID": "TID_CAMPAIGN_1"
+        "rawTID": "CAMPAIGN_1"
     },
     {
         "name": "Campaign_27",
@@ -679,7 +679,7 @@
         "towerLevel": 8,
         "requiredStars": 14,
         "id": 51,
-        "rawTID": "TID_CAMPAIGN_1"
+        "rawTID": "CAMPAIGN_1"
     },
     {
         "name": "Campaign_28",
@@ -701,7 +701,7 @@
         "towerLevel": 14,
         "requiredStars": 20,
         "id": 52,
-        "rawTID": "TID_CAMPAIGN_1"
+        "rawTID": "CAMPAIGN_1"
     },
     {
         "name": "Campaign_29",
@@ -723,7 +723,7 @@
         "towerLevel": 13,
         "requiredStars": 19,
         "id": 53,
-        "rawTID": "TID_CAMPAIGN_1"
+        "rawTID": "CAMPAIGN_1"
     },
     {
         "name": "Campaign_30",
@@ -745,7 +745,7 @@
         "towerLevel": 14,
         "requiredStars": 16,
         "id": 54,
-        "rawTID": "TID_CAMPAIGN_1"
+        "rawTID": "CAMPAIGN_1"
     },
     {
         "name": "Campaign_31",
@@ -767,7 +767,7 @@
         "towerLevel": 9,
         "requiredStars": 15,
         "id": 55,
-        "rawTID": "TID_CAMPAIGN_1"
+        "rawTID": "CAMPAIGN_1"
     },
     {
         "name": "Campaign_32",
@@ -789,7 +789,7 @@
         "towerLevel": 15,
         "requiredStars": 21,
         "id": 56,
-        "rawTID": "TID_CAMPAIGN_1"
+        "rawTID": "CAMPAIGN_1"
     },
     {
         "name": "Campaign_33",
@@ -811,7 +811,7 @@
         "towerLevel": 14,
         "requiredStars": 20,
         "id": 57,
-        "rawTID": "TID_CAMPAIGN_1"
+        "rawTID": "CAMPAIGN_1"
     },
     {
         "name": "Campaign_34",
@@ -833,7 +833,7 @@
         "towerLevel": 15,
         "requiredStars": 17,
         "id": 58,
-        "rawTID": "TID_CAMPAIGN_1"
+        "rawTID": "CAMPAIGN_1"
     },
     {
         "name": "Campaign_35",
@@ -855,7 +855,7 @@
         "towerLevel": 10,
         "requiredStars": 16,
         "id": 59,
-        "rawTID": "TID_CAMPAIGN_1"
+        "rawTID": "CAMPAIGN_1"
     },
     {
         "name": "Campaign_36",
@@ -877,7 +877,7 @@
         "towerLevel": 16,
         "requiredStars": 22,
         "id": 60,
-        "rawTID": "TID_CAMPAIGN_1"
+        "rawTID": "CAMPAIGN_1"
     },
     {
         "name": "Campaign_37",
@@ -899,7 +899,7 @@
         "towerLevel": 14,
         "requiredStars": 20,
         "id": 61,
-        "rawTID": "TID_CAMPAIGN_1"
+        "rawTID": "CAMPAIGN_1"
     },
     {
         "name": "Campaign_38",
@@ -921,7 +921,7 @@
         "towerLevel": 16,
         "requiredStars": 18,
         "id": 62,
-        "rawTID": "TID_CAMPAIGN_1"
+        "rawTID": "CAMPAIGN_1"
     },
     {
         "name": "Campaign_39",
@@ -943,7 +943,7 @@
         "towerLevel": 11,
         "requiredStars": 17,
         "id": 63,
-        "rawTID": "TID_CAMPAIGN_1"
+        "rawTID": "CAMPAIGN_1"
     },
     {
         "name": "Campaign_40",
@@ -965,7 +965,7 @@
         "towerLevel": 15,
         "requiredStars": 21,
         "id": 64,
-        "rawTID": "TID_CAMPAIGN_1"
+        "rawTID": "CAMPAIGN_1"
     },
     {
         "name": "Campaign_41",
@@ -987,7 +987,7 @@
         "towerLevel": 15,
         "requiredStars": 22,
         "id": 65,
-        "rawTID": "TID_CAMPAIGN_1"
+        "rawTID": "CAMPAIGN_1"
     },
     {
         "name": "Campaign_42",
@@ -1009,7 +1009,7 @@
         "towerLevel": 15,
         "requiredStars": 23,
         "id": 66,
-        "rawTID": "TID_CAMPAIGN_1"
+        "rawTID": "CAMPAIGN_1"
     },
     {
         "name": "Campaign_43",
@@ -1031,7 +1031,7 @@
         "towerLevel": 15,
         "requiredStars": 24,
         "id": 67,
-        "rawTID": "TID_CAMPAIGN_1"
+        "rawTID": "CAMPAIGN_1"
     },
     {
         "name": "Campaign_44",
@@ -1053,7 +1053,7 @@
         "towerLevel": 15,
         "requiredStars": 25,
         "id": 68,
-        "rawTID": "TID_CAMPAIGN_1"
+        "rawTID": "CAMPAIGN_1"
     },
     {
         "name": "Campaign_45",
@@ -1075,7 +1075,7 @@
         "towerLevel": 15,
         "requiredStars": 26,
         "id": 69,
-        "rawTID": "TID_CAMPAIGN_1"
+        "rawTID": "CAMPAIGN_1"
     },
     {
         "name": "Campaign_46",
@@ -1097,7 +1097,7 @@
         "towerLevel": 15,
         "requiredStars": 27,
         "id": 70,
-        "rawTID": "TID_CAMPAIGN_1"
+        "rawTID": "CAMPAIGN_1"
     },
     {
         "name": "Campaign_47",
@@ -1119,7 +1119,7 @@
         "towerLevel": 15,
         "requiredStars": 27,
         "id": 71,
-        "rawTID": "TID_CAMPAIGN_1"
+        "rawTID": "CAMPAIGN_1"
     },
     {
         "name": "Campaign_48",
@@ -1141,7 +1141,7 @@
         "towerLevel": 15,
         "requiredStars": 27,
         "id": 72,
-        "rawTID": "TID_CAMPAIGN_1"
+        "rawTID": "CAMPAIGN_1"
     },
     {
         "name": "Campaign_49",
@@ -1163,7 +1163,7 @@
         "towerLevel": 15,
         "requiredStars": 27,
         "id": 73,
-        "rawTID": "TID_CAMPAIGN_1"
+        "rawTID": "CAMPAIGN_1"
     },
     {
         "name": "Campaign_50",
@@ -1185,6 +1185,6 @@
         "towerLevel": 15,
         "requiredStars": 27,
         "id": 74,
-        "rawTID": "TID_CAMPAIGN_1"
+        "rawTID": "CAMPAIGN_1"
     }
 ]

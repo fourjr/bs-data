@@ -6,7 +6,7 @@
         "maxXPLevel": 40,
         "fileName": null,
         "exportName": null,
-        "rawTID": "TID_HINT_0"
+        "rawTID": "HINT_0"
     },
     {
         "name": 2,
@@ -15,7 +15,7 @@
         "maxXPLevel": 40,
         "fileName": null,
         "exportName": null,
-        "rawTID": "TID_HINT_1"
+        "rawTID": "HINT_1"
     },
     {
         "name": 3,
@@ -24,7 +24,7 @@
         "maxXPLevel": 40,
         "fileName": null,
         "exportName": null,
-        "rawTID": "TID_HINT_2"
+        "rawTID": "HINT_2"
     },
     {
         "name": 4,
@@ -33,7 +33,7 @@
         "maxXPLevel": 40,
         "fileName": null,
         "exportName": null,
-        "rawTID": "TID_HINT_3"
+        "rawTID": "HINT_3"
     },
     {
         "name": 5,
@@ -42,7 +42,7 @@
         "maxXPLevel": 40,
         "fileName": null,
         "exportName": null,
-        "rawTID": "TID_HINT_4"
+        "rawTID": "HINT_4"
     },
     {
         "name": 6,
@@ -51,7 +51,7 @@
         "maxXPLevel": 999,
         "fileName": null,
         "exportName": null,
-        "rawTID": "TID_HINT_5"
+        "rawTID": "HINT_5"
     },
     {
         "name": 7,
@@ -60,7 +60,7 @@
         "maxXPLevel": 999,
         "fileName": null,
         "exportName": null,
-        "rawTID": "TID_HINT_6"
+        "rawTID": "HINT_6"
     },
     {
         "name": 8,
@@ -69,7 +69,7 @@
         "maxXPLevel": 999,
         "fileName": null,
         "exportName": null,
-        "rawTID": "TID_HINT_7"
+        "rawTID": "HINT_7"
     },
     {
         "name": 9,
@@ -78,7 +78,7 @@
         "maxXPLevel": 999,
         "fileName": null,
         "exportName": null,
-        "rawTID": "TID_HINT_8"
+        "rawTID": "HINT_8"
     },
     {
         "name": 10,
@@ -87,7 +87,7 @@
         "maxXPLevel": 999,
         "fileName": null,
         "exportName": null,
-        "rawTID": "TID_HINT_9"
+        "rawTID": "HINT_9"
     },
     {
         "name": 11,
@@ -96,7 +96,7 @@
         "maxXPLevel": 40,
         "fileName": null,
         "exportName": null,
-        "rawTID": "TID_HINT_10"
+        "rawTID": "HINT_10"
     },
     {
         "name": 12,
@@ -105,7 +105,7 @@
         "maxXPLevel": 40,
         "fileName": null,
         "exportName": null,
-        "rawTID": "TID_HINT_11"
+        "rawTID": "HINT_11"
     },
     {
         "name": 13,
@@ -114,7 +114,7 @@
         "maxXPLevel": 60,
         "fileName": null,
         "exportName": null,
-        "rawTID": "TID_HINT_12"
+        "rawTID": "HINT_12"
     },
     {
         "name": 14,
@@ -123,7 +123,7 @@
         "maxXPLevel": 60,
         "fileName": null,
         "exportName": null,
-        "rawTID": "TID_HINT_13"
+        "rawTID": "HINT_13"
     },
     {
         "name": 15,
@@ -132,7 +132,7 @@
         "maxXPLevel": 60,
         "fileName": null,
         "exportName": null,
-        "rawTID": "TID_HINT_14"
+        "rawTID": "HINT_14"
     },
     {
         "name": 16,
@@ -141,7 +141,7 @@
         "maxXPLevel": 60,
         "fileName": null,
         "exportName": null,
-        "rawTID": "TID_HINT_15"
+        "rawTID": "HINT_15"
     },
     {
         "name": 17,
@@ -150,7 +150,7 @@
         "maxXPLevel": 60,
         "fileName": null,
         "exportName": null,
-        "rawTID": "TID_HINT_16"
+        "rawTID": "HINT_16"
     },
     {
         "name": 18,
@@ -159,7 +159,7 @@
         "maxXPLevel": 60,
         "fileName": null,
         "exportName": null,
-        "rawTID": "TID_HINT_17"
+        "rawTID": "HINT_17"
     },
     {
         "name": 19,
@@ -168,7 +168,7 @@
         "maxXPLevel": 60,
         "fileName": null,
         "exportName": null,
-        "rawTID": "TID_HINT_18"
+        "rawTID": "HINT_18"
     },
     {
         "name": 20,
@@ -177,7 +177,7 @@
         "maxXPLevel": 60,
         "fileName": null,
         "exportName": null,
-        "rawTID": "TID_HINT_19"
+        "rawTID": "HINT_19"
     },
     {
         "name": 21,
@@ -186,7 +186,7 @@
         "maxXPLevel": 60,
         "fileName": null,
         "exportName": null,
-        "rawTID": "TID_HINT_20"
+        "rawTID": "HINT_20"
     },
     {
         "name": 22,
@@ -195,7 +195,7 @@
         "maxXPLevel": 40,
         "fileName": null,
         "exportName": null,
-        "rawTID": "TID_HINT_21"
+        "rawTID": "HINT_21"
     },
     {
         "name": 23,
@@ -204,7 +204,7 @@
         "maxXPLevel": 40,
         "fileName": null,
         "exportName": null,
-        "rawTID": "TID_HINT_22"
+        "rawTID": "HINT_22"
     },
     {
         "name": 24,
@@ -213,7 +213,7 @@
         "maxXPLevel": 60,
         "fileName": null,
         "exportName": null,
-        "rawTID": "TID_HINT_23"
+        "rawTID": "HINT_23"
     },
     {
         "name": 25,
@@ -222,7 +222,7 @@
         "maxXPLevel": 60,
         "fileName": null,
         "exportName": null,
-        "rawTID": "TID_HINT_24"
+        "rawTID": "HINT_24"
     },
     {
         "name": 26,
@@ -231,7 +231,7 @@
         "maxXPLevel": 60,
         "fileName": null,
         "exportName": null,
-        "rawTID": "TID_HINT_25"
+        "rawTID": "HINT_25"
     },
     {
         "name": 27,
@@ -240,7 +240,7 @@
         "maxXPLevel": 999,
         "fileName": null,
         "exportName": null,
-        "rawTID": "TID_HINT_26"
+        "rawTID": "HINT_26"
     },
     {
         "name": 28,
@@ -249,7 +249,7 @@
         "maxXPLevel": 999,
         "fileName": null,
         "exportName": null,
-        "rawTID": "TID_HINT_27"
+        "rawTID": "HINT_27"
     },
     {
         "name": 29,
@@ -258,7 +258,7 @@
         "maxXPLevel": 999,
         "fileName": null,
         "exportName": null,
-        "rawTID": "TID_HINT_28"
+        "rawTID": "HINT_28"
     },
     {
         "name": 30,
@@ -267,7 +267,7 @@
         "maxXPLevel": 60,
         "fileName": null,
         "exportName": null,
-        "rawTID": "TID_HINT_29"
+        "rawTID": "HINT_29"
     },
     {
         "name": 31,
@@ -276,7 +276,7 @@
         "maxXPLevel": 999,
         "fileName": null,
         "exportName": null,
-        "rawTID": "TID_HINT_30"
+        "rawTID": "HINT_30"
     },
     {
         "name": 32,
@@ -285,7 +285,7 @@
         "maxXPLevel": 999,
         "fileName": null,
         "exportName": null,
-        "rawTID": "TID_HINT_31"
+        "rawTID": "HINT_31"
     },
     {
         "name": 33,
@@ -294,7 +294,7 @@
         "maxXPLevel": 60,
         "fileName": null,
         "exportName": null,
-        "rawTID": "TID_HINT_32"
+        "rawTID": "HINT_32"
     },
     {
         "name": 34,
@@ -303,7 +303,7 @@
         "maxXPLevel": 999,
         "fileName": null,
         "exportName": null,
-        "rawTID": "TID_HINT_33"
+        "rawTID": "HINT_33"
     },
     {
         "name": 35,
@@ -312,7 +312,7 @@
         "maxXPLevel": 999,
         "fileName": null,
         "exportName": null,
-        "rawTID": "TID_HINT_34"
+        "rawTID": "HINT_34"
     },
     {
         "name": 36,
@@ -321,7 +321,7 @@
         "maxXPLevel": 999,
         "fileName": null,
         "exportName": null,
-        "rawTID": "TID_HINT_35"
+        "rawTID": "HINT_35"
     },
     {
         "name": 37,
@@ -330,7 +330,7 @@
         "maxXPLevel": 999,
         "fileName": null,
         "exportName": null,
-        "rawTID": "TID_HINT_36"
+        "rawTID": "HINT_36"
     },
     {
         "name": 38,
@@ -339,7 +339,7 @@
         "maxXPLevel": 999,
         "fileName": null,
         "exportName": null,
-        "rawTID": "TID_HINT_37"
+        "rawTID": "HINT_37"
     },
     {
         "name": 39,
@@ -348,7 +348,7 @@
         "maxXPLevel": 999,
         "fileName": null,
         "exportName": null,
-        "rawTID": "TID_HINT_38"
+        "rawTID": "HINT_38"
     },
     {
         "name": 40,
@@ -357,7 +357,7 @@
         "maxXPLevel": 999,
         "fileName": null,
         "exportName": null,
-        "rawTID": "TID_HINT_39"
+        "rawTID": "HINT_39"
     },
     {
         "name": 41,
@@ -366,7 +366,7 @@
         "maxXPLevel": 999,
         "fileName": null,
         "exportName": null,
-        "rawTID": "TID_HINT_40"
+        "rawTID": "HINT_40"
     },
     {
         "name": 42,
@@ -375,7 +375,7 @@
         "maxXPLevel": 999,
         "fileName": null,
         "exportName": null,
-        "rawTID": "TID_HINT_41"
+        "rawTID": "HINT_41"
     },
     {
         "name": 43,
@@ -384,6 +384,6 @@
         "maxXPLevel": 40,
         "fileName": null,
         "exportName": null,
-        "rawTID": "TID_HINT_42"
+        "rawTID": "HINT_42"
     }
 ]

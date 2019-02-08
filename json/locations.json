@@ -26,7 +26,7 @@
         "communityCredit": null,
         "id": 15,
         "scId": 1500000,
-        "rawTID": "TID_WANTED_1"
+        "rawTID": "WANTED_1"
     },
     {
         "name": "Wanted3",
@@ -55,7 +55,7 @@
         "communityCredit": null,
         "id": 16,
         "scId": 1500001,
-        "rawTID": "TID_WANTED_3"
+        "rawTID": "WANTED_3"
     },
     {
         "name": "Wanted4",
@@ -84,7 +84,7 @@
         "communityCredit": null,
         "id": 17,
         "scId": 1500002,
-        "rawTID": "TID_WANTED_4"
+        "rawTID": "WANTED_4"
     },
     {
         "name": "Wanted5",
@@ -113,7 +113,7 @@
         "communityCredit": null,
         "id": 18,
         "scId": 1500003,
-        "rawTID": "TID_WANTED_5"
+        "rawTID": "WANTED_5"
     },
     {
         "name": "Wanted6",
@@ -142,7 +142,7 @@
         "communityCredit": null,
         "id": 19,
         "scId": 1500004,
-        "rawTID": "TID_WANTED_6"
+        "rawTID": "WANTED_6"
     },
     {
         "name": "Wanted7",
@@ -171,7 +171,7 @@
         "communityCredit": null,
         "id": 20,
         "scId": 1500005,
-        "rawTID": "TID_WANTED_7"
+        "rawTID": "WANTED_7"
     },
     {
         "name": "Wanted2",
@@ -200,7 +200,7 @@
         "communityCredit": null,
         "id": 21,
         "scId": 1500006,
-        "rawTID": "TID_WANTED_2"
+        "rawTID": "WANTED_2"
     },
     {
         "name": "Gemgrab1",
@@ -229,7 +229,7 @@
         "communityCredit": null,
         "id": 22,
         "scId": 1500007,
-        "rawTID": "TID_GOLDRUSH_1"
+        "rawTID": "GOLDRUSH_1"
     },
     {
         "name": "Gemgrab2",
@@ -258,7 +258,7 @@
         "communityCredit": null,
         "id": 23,
         "scId": 1500008,
-        "rawTID": "TID_GOLDRUSH_2"
+        "rawTID": "GOLDRUSH_2"
     },
     {
         "name": "Gemgrab3",
@@ -287,7 +287,7 @@
         "communityCredit": null,
         "id": 24,
         "scId": 1500009,
-        "rawTID": "TID_GOLDRUSH_3"
+        "rawTID": "GOLDRUSH_3"
     },
     {
         "name": "Gemgrab4",
@@ -316,7 +316,7 @@
         "communityCredit": null,
         "id": 25,
         "scId": 1500010,
-        "rawTID": "TID_GOLDRUSH_4"
+        "rawTID": "GOLDRUSH_4"
     },
     {
         "name": "Gemgrab5",
@@ -345,7 +345,7 @@
         "communityCredit": null,
         "id": 26,
         "scId": 1500011,
-        "rawTID": "TID_GOLDRUSH_5"
+        "rawTID": "GOLDRUSH_5"
     },
     {
         "name": "Gemgrab6",
@@ -374,7 +374,7 @@
         "communityCredit": null,
         "id": 27,
         "scId": 1500012,
-        "rawTID": "TID_GOLDRUSH_6"
+        "rawTID": "GOLDRUSH_6"
     },
     {
         "name": "Survival1",
@@ -403,7 +403,7 @@
         "communityCredit": null,
         "id": 28,
         "scId": 1500013,
-        "rawTID": "TID_BATTLE_ROYALE_1"
+        "rawTID": "BATTLE_ROYALE_1"
     },
     {
         "name": "Survival2",
@@ -432,7 +432,7 @@
         "communityCredit": "OwenReds",
         "id": 29,
         "scId": 1500014,
-        "rawTID": "TID_BATTLE_ROYALE_2"
+        "rawTID": "BATTLE_ROYALE_2"
     },
     {
         "name": "Survival3",
@@ -461,7 +461,7 @@
         "communityCredit": null,
         "id": 30,
         "scId": 1500015,
-        "rawTID": "TID_BATTLE_ROYALE_3"
+        "rawTID": "BATTLE_ROYALE_3"
     },
     {
         "name": "Survival4",
@@ -490,7 +490,7 @@
         "communityCredit": null,
         "id": 31,
         "scId": 1500016,
-        "rawTID": "TID_BATTLE_ROYALE_4"
+        "rawTID": "BATTLE_ROYALE_4"
     },
     {
         "name": "Heist1",
@@ -519,7 +519,7 @@
         "communityCredit": null,
         "id": 32,
         "scId": 1500017,
-        "rawTID": "TID_BANKHEIST_1"
+        "rawTID": "BANKHEIST_1"
     },
     {
         "name": "Heist2",
@@ -548,7 +548,7 @@
         "communityCredit": null,
         "id": 33,
         "scId": 1500018,
-        "rawTID": "TID_BANKHEIST_2"
+        "rawTID": "BANKHEIST_2"
     },
     {
         "name": "Heist3",
@@ -577,7 +577,7 @@
         "communityCredit": null,
         "id": 34,
         "scId": 1500019,
-        "rawTID": "TID_BANKHEIST_3"
+        "rawTID": "BANKHEIST_3"
     },
     {
         "name": "Tutorial",
@@ -634,7 +634,7 @@
         "communityCredit": null,
         "id": 36,
         "scId": 1500021,
-        "rawTID": "TID_BOSS_4"
+        "rawTID": "BOSS_4"
     },
     {
         "name": "Wanted8",
@@ -663,7 +663,7 @@
         "communityCredit": null,
         "id": 37,
         "scId": 1500022,
-        "rawTID": "TID_WANTED_8"
+        "rawTID": "WANTED_8"
     },
     {
         "name": "Heist4",
@@ -692,7 +692,7 @@
         "communityCredit": null,
         "id": 38,
         "scId": 1500023,
-        "rawTID": "TID_BANKHEIST_4"
+        "rawTID": "BANKHEIST_4"
     },
     {
         "name": "Ball1",
@@ -721,7 +721,7 @@
         "communityCredit": null,
         "id": 39,
         "scId": 1500024,
-        "rawTID": "TID_BALL_1"
+        "rawTID": "BALL_1"
     },
     {
         "name": "Ball2",
@@ -750,7 +750,7 @@
         "communityCredit": null,
         "id": 40,
         "scId": 1500025,
-        "rawTID": "TID_BALL_2"
+        "rawTID": "BALL_2"
     },
     {
         "name": "Ball3",
@@ -779,7 +779,7 @@
         "communityCredit": null,
         "id": 41,
         "scId": 1500026,
-        "rawTID": "TID_BALL_3"
+        "rawTID": "BALL_3"
     },
     {
         "name": "Coop1",
@@ -808,7 +808,7 @@
         "communityCredit": null,
         "id": 42,
         "scId": 1500027,
-        "rawTID": "TID_COOP_1"
+        "rawTID": "COOP_1"
     },
     {
         "name": "SurvivalTeam7",
@@ -837,7 +837,7 @@
         "communityCredit": null,
         "id": 43,
         "scId": 1500028,
-        "rawTID": "TID_BATTLE_ROYALE_7"
+        "rawTID": "BATTLE_ROYALE_7"
     },
     {
         "name": "Coop2",
@@ -866,7 +866,7 @@
         "communityCredit": null,
         "id": 44,
         "scId": 1500029,
-        "rawTID": "TID_COOP_2"
+        "rawTID": "COOP_2"
     },
     {
         "name": "BossFight2",
@@ -895,7 +895,7 @@
         "communityCredit": null,
         "id": 45,
         "scId": 1500030,
-        "rawTID": "TID_BOSS_3"
+        "rawTID": "BOSS_3"
     },
     {
         "name": "Gemgrab8",
@@ -924,7 +924,7 @@
         "communityCredit": null,
         "id": 46,
         "scId": 1500031,
-        "rawTID": "TID_GOLDRUSH_8"
+        "rawTID": "GOLDRUSH_8"
     },
     {
         "name": "Survival5",
@@ -953,7 +953,7 @@
         "communityCredit": "Mordeus",
         "id": 47,
         "scId": 1500032,
-        "rawTID": "TID_BATTLE_ROYALE_5"
+        "rawTID": "BATTLE_ROYALE_5"
     },
     {
         "name": "Survival6",
@@ -982,7 +982,7 @@
         "communityCredit": null,
         "id": 48,
         "scId": 1500033,
-        "rawTID": "TID_BATTLE_ROYALE_6"
+        "rawTID": "BATTLE_ROYALE_6"
     },
     {
         "name": "SurvivalTeam1",
@@ -1011,7 +1011,7 @@
         "communityCredit": null,
         "id": 49,
         "scId": 1500034,
-        "rawTID": "TID_BATTLE_ROYALE_1"
+        "rawTID": "BATTLE_ROYALE_1"
     },
     {
         "name": "SurvivalTeam2",
@@ -1040,7 +1040,7 @@
         "communityCredit": "OwenReds",
         "id": 50,
         "scId": 1500035,
-        "rawTID": "TID_BATTLE_ROYALE_2"
+        "rawTID": "BATTLE_ROYALE_2"
     },
     {
         "name": "SurvivalTeam3",
@@ -1069,7 +1069,7 @@
         "communityCredit": null,
         "id": 51,
         "scId": 1500036,
-        "rawTID": "TID_BATTLE_ROYALE_3"
+        "rawTID": "BATTLE_ROYALE_3"
     },
     {
         "name": "SurvivalTeam4",
@@ -1098,7 +1098,7 @@
         "communityCredit": null,
         "id": 52,
         "scId": 1500037,
-        "rawTID": "TID_BATTLE_ROYALE_4"
+        "rawTID": "BATTLE_ROYALE_4"
     },
     {
         "name": "SurvivalTeam5",
@@ -1127,7 +1127,7 @@
         "communityCredit": "Mordeus",
         "id": 53,
         "scId": 1500038,
-        "rawTID": "TID_BATTLE_ROYALE_5"
+        "rawTID": "BATTLE_ROYALE_5"
     },
     {
         "name": "Coop3",
@@ -1156,7 +1156,7 @@
         "communityCredit": null,
         "id": 54,
         "scId": 1500039,
-        "rawTID": "TID_COOP_6"
+        "rawTID": "COOP_6"
     },
     {
         "name": "Gemgrab7",
@@ -1185,7 +1185,7 @@
         "communityCredit": "DarkKnight",
         "id": 55,
         "scId": 1500040,
-        "rawTID": "TID_GOLDRUSH_7"
+        "rawTID": "GOLDRUSH_7"
     },
     {
         "name": "Gemgrab10",
@@ -1214,7 +1214,7 @@
         "communityCredit": "Lewinham",
         "id": 56,
         "scId": 1500041,
-        "rawTID": "TID_GOLDRUSH_10"
+        "rawTID": "GOLDRUSH_10"
     },
     {
         "name": "Heist5",
@@ -1243,7 +1243,7 @@
         "communityCredit": "Rushalisk",
         "id": 57,
         "scId": 1500042,
-        "rawTID": "TID_BANKHEIST_5"
+        "rawTID": "BANKHEIST_5"
     },
     {
         "name": "Survival7",
@@ -1272,7 +1272,7 @@
         "communityCredit": null,
         "id": 58,
         "scId": 1500043,
-        "rawTID": "TID_BATTLE_ROYALE_7"
+        "rawTID": "BATTLE_ROYALE_7"
     },
     {
         "name": "SurvivalTeam6",
@@ -1301,7 +1301,7 @@
         "communityCredit": null,
         "id": 59,
         "scId": 1500044,
-        "rawTID": "TID_BATTLE_ROYALE_6"
+        "rawTID": "BATTLE_ROYALE_6"
     },
     {
         "name": "Survival8",
@@ -1330,7 +1330,7 @@
         "communityCredit": "Rushalisk",
         "id": 60,
         "scId": 1500045,
-        "rawTID": "TID_BATTLE_ROYALE_8"
+        "rawTID": "BATTLE_ROYALE_8"
     },
     {
         "name": "SurvivalTeam8",
@@ -1359,7 +1359,7 @@
         "communityCredit": "Rushalisk",
         "id": 61,
         "scId": 1500046,
-        "rawTID": "TID_BATTLE_ROYALE_8"
+        "rawTID": "BATTLE_ROYALE_8"
     },
     {
         "name": "Heist6",
@@ -1388,7 +1388,7 @@
         "communityCredit": "Mordeus",
         "id": 62,
         "scId": 1500047,
-        "rawTID": "TID_BANKHEIST_6"
+        "rawTID": "BANKHEIST_6"
     },
     {
         "name": "Gemgrab11",
@@ -1417,7 +1417,7 @@
         "communityCredit": "FatBubblyDragon",
         "id": 63,
         "scId": 1500048,
-        "rawTID": "TID_GOLDRUSH_11"
+        "rawTID": "GOLDRUSH_11"
     },
     {
         "name": "Heist7",
@@ -1446,7 +1446,7 @@
         "communityCredit": "Schmedricks",
         "id": 64,
         "scId": 1500049,
-        "rawTID": "TID_BANKHEIST_7"
+        "rawTID": "BANKHEIST_7"
     },
     {
         "name": "Ball4",
@@ -1475,7 +1475,7 @@
         "communityCredit": "Lex",
         "id": 65,
         "scId": 1500050,
-        "rawTID": "TID_BALL_4"
+        "rawTID": "BALL_4"
     },
     {
         "name": "Ball6",
@@ -1504,7 +1504,7 @@
         "communityCredit": "Mordeus",
         "id": 66,
         "scId": 1500051,
-        "rawTID": "TID_BALL_6"
+        "rawTID": "BALL_6"
     },
     {
         "name": "Ball7",
@@ -1533,7 +1533,7 @@
         "communityCredit": "Lewinham",
         "id": 67,
         "scId": 1500052,
-        "rawTID": "TID_BALL_7"
+        "rawTID": "BALL_7"
     },
     {
         "name": "Heist8",
@@ -1562,7 +1562,7 @@
         "communityCredit": "AlexEsteAdevarat",
         "id": 68,
         "scId": 1500053,
-        "rawTID": "TID_BANKHEIST_8"
+        "rawTID": "BANKHEIST_8"
     },
     {
         "name": "Wanted9",
@@ -1591,7 +1591,7 @@
         "communityCredit": "thelucas2000",
         "id": 69,
         "scId": 1500054,
-        "rawTID": "TID_WANTED_9"
+        "rawTID": "WANTED_9"
     },
     {
         "name": "Survival12",
@@ -1620,7 +1620,7 @@
         "communityCredit": "Tony_A9",
         "id": 70,
         "scId": 1500055,
-        "rawTID": "TID_BATTLE_ROYALE_12"
+        "rawTID": "BATTLE_ROYALE_12"
     },
     {
         "name": "SurvivalTeam12",
@@ -1649,7 +1649,7 @@
         "communityCredit": "Tony_A9",
         "id": 71,
         "scId": 1500056,
-        "rawTID": "TID_BATTLE_ROYALE_12"
+        "rawTID": "BATTLE_ROYALE_12"
     },
     {
         "name": "Raid1",
@@ -1678,7 +1678,7 @@
         "communityCredit": null,
         "id": 72,
         "scId": 1500057,
-        "rawTID": "TID_RAID_2"
+        "rawTID": "RAID_2"
     },
     {
         "name": "GGxmas1",
@@ -1707,7 +1707,7 @@
         "communityCredit": null,
         "id": 73,
         "scId": 1500058,
-        "rawTID": "TID_GOLDRUSH_XMAS_1"
+        "rawTID": "GOLDRUSH_XMAS_1"
     },
     {
         "name": "GGxmas2",
@@ -1736,7 +1736,7 @@
         "communityCredit": null,
         "id": 74,
         "scId": 1500059,
-        "rawTID": "TID_GOLDRUSH_XMAS_2"
+        "rawTID": "GOLDRUSH_XMAS_2"
     },
     {
         "name": "GGxmas3",
@@ -1765,7 +1765,7 @@
         "communityCredit": null,
         "id": 75,
         "scId": 1500060,
-        "rawTID": "TID_GOLDRUSH_XMAS_3"
+        "rawTID": "GOLDRUSH_XMAS_3"
     },
     {
         "name": "GGxmas4",
@@ -1794,7 +1794,7 @@
         "communityCredit": null,
         "id": 76,
         "scId": 1500061,
-        "rawTID": "TID_GOLDRUSH_XMAS_4"
+        "rawTID": "GOLDRUSH_XMAS_4"
     },
     {
         "name": "GGxmas5",
@@ -1823,7 +1823,7 @@
         "communityCredit": null,
         "id": 77,
         "scId": 1500062,
-        "rawTID": "TID_GOLDRUSH_XMAS_5"
+        "rawTID": "GOLDRUSH_XMAS_5"
     },
     {
         "name": "GGxmas6",
@@ -1852,7 +1852,7 @@
         "communityCredit": null,
         "id": 78,
         "scId": 1500063,
-        "rawTID": "TID_GOLDRUSH_XMAS_6"
+        "rawTID": "GOLDRUSH_XMAS_6"
     },
     {
         "name": "GGxmas7",
@@ -1881,7 +1881,7 @@
         "communityCredit": null,
         "id": 79,
         "scId": 1500064,
-        "rawTID": "TID_GOLDRUSH_XMAS_7"
+        "rawTID": "GOLDRUSH_XMAS_7"
     },
     {
         "name": "BossFight3",
@@ -1910,7 +1910,7 @@
         "communityCredit": null,
         "id": 80,
         "scId": 1500065,
-        "rawTID": "TID_BOSS_6"
+        "rawTID": "BOSS_6"
     },
     {
         "name": "BossFight4",
@@ -1939,7 +1939,7 @@
         "communityCredit": null,
         "id": 81,
         "scId": 1500066,
-        "rawTID": "TID_BOSS_5"
+        "rawTID": "BOSS_5"
     },
     {
         "name": "Raid2",
@@ -1968,7 +1968,7 @@
         "communityCredit": null,
         "id": 82,
         "scId": 1500067,
-        "rawTID": "TID_RAID_3"
+        "rawTID": "RAID_3"
     },
     {
         "name": "Coop4",
@@ -1997,7 +1997,7 @@
         "communityCredit": null,
         "id": 83,
         "scId": 1500068,
-        "rawTID": "TID_COOP_3"
+        "rawTID": "COOP_3"
     },
     {
         "name": "Heist9",
@@ -2026,7 +2026,7 @@
         "communityCredit": null,
         "id": 84,
         "scId": 1500069,
-        "rawTID": "TID_BANKHEIST_9"
+        "rawTID": "BANKHEIST_9"
     },
     {
         "name": "Heist10",
@@ -2055,7 +2055,7 @@
         "communityCredit": null,
         "id": 85,
         "scId": 1500070,
-        "rawTID": "TID_BANKHEIST_10"
+        "rawTID": "BANKHEIST_10"
     },
     {
         "name": "Heist11",
@@ -2084,7 +2084,7 @@
         "communityCredit": "AeroNautikks",
         "id": 86,
         "scId": 1500071,
-        "rawTID": "TID_BANKHEIST_11"
+        "rawTID": "BANKHEIST_11"
     },
     {
         "name": "Heist12",
@@ -2113,7 +2113,7 @@
         "communityCredit": "Zagibulenka",
         "id": 87,
         "scId": 1500072,
-        "rawTID": "TID_BANKHEIST_12"
+        "rawTID": "BANKHEIST_12"
     },
     {
         "name": "Heist13",
@@ -2142,7 +2142,7 @@
         "communityCredit": null,
         "id": 88,
         "scId": 1500073,
-        "rawTID": "TID_BANKHEIST_13"
+        "rawTID": "BANKHEIST_13"
     },
     {
         "name": "LNYHeist1",
@@ -2171,7 +2171,7 @@
         "communityCredit": null,
         "id": 89,
         "scId": 1500074,
-        "rawTID": "TID_BANKHEIST_9"
+        "rawTID": "BANKHEIST_9"
     },
     {
         "name": null,
@@ -2228,7 +2228,7 @@
         "communityCredit": null,
         "id": 91,
         "scId": 1500076,
-        "rawTID": "TID_BANKHEIST_10"
+        "rawTID": "BANKHEIST_10"
     },
     {
         "name": null,
@@ -2285,7 +2285,7 @@
         "communityCredit": "AeroNautikks",
         "id": 93,
         "scId": 1500078,
-        "rawTID": "TID_BANKHEIST_11"
+        "rawTID": "BANKHEIST_11"
     },
     {
         "name": null,
@@ -2342,7 +2342,7 @@
         "communityCredit": "Zagibulenka",
         "id": 95,
         "scId": 1500080,
-        "rawTID": "TID_BANKHEIST_12"
+        "rawTID": "BANKHEIST_12"
     },
     {
         "name": null,
@@ -2399,7 +2399,7 @@
         "communityCredit": null,
         "id": 97,
         "scId": 1500082,
-        "rawTID": "TID_BANKHEIST_13"
+        "rawTID": "BANKHEIST_13"
     },
     {
         "name": null,
@@ -2456,7 +2456,7 @@
         "communityCredit": null,
         "id": 99,
         "scId": 1500084,
-        "rawTID": "TID_WANTED_9"
+        "rawTID": "WANTED_9"
     },
     {
         "name": "Wanted11",
@@ -2485,7 +2485,7 @@
         "communityCredit": null,
         "id": 100,
         "scId": 1500085,
-        "rawTID": "TID_WANTED_11"
+        "rawTID": "WANTED_11"
     },
     {
         "name": "Wanted12",
@@ -2514,7 +2514,7 @@
         "communityCredit": null,
         "id": 101,
         "scId": 1500086,
-        "rawTID": "TID_WANTED_12"
+        "rawTID": "WANTED_12"
     },
     {
         "name": "Wanted13",
@@ -2543,7 +2543,7 @@
         "communityCredit": "OwenReds",
         "id": 102,
         "scId": 1500087,
-        "rawTID": "TID_WANTED_13"
+        "rawTID": "WANTED_13"
     },
     {
         "name": "Wanted14",
@@ -2572,7 +2572,7 @@
         "communityCredit": null,
         "id": 103,
         "scId": 1500088,
-        "rawTID": "TID_WANTED_14"
+        "rawTID": "WANTED_14"
     },
     {
         "name": "LNYWanted1",
@@ -2601,7 +2601,7 @@
         "communityCredit": null,
         "id": 104,
         "scId": 1500089,
-        "rawTID": "TID_WANTED_9"
+        "rawTID": "WANTED_9"
     },
     {
         "name": null,
@@ -2658,7 +2658,7 @@
         "communityCredit": null,
         "id": 106,
         "scId": 1500091,
-        "rawTID": "TID_WANTED_11"
+        "rawTID": "WANTED_11"
     },
     {
         "name": null,
@@ -2715,7 +2715,7 @@
         "communityCredit": null,
         "id": 108,
         "scId": 1500093,
-        "rawTID": "TID_WANTED_12"
+        "rawTID": "WANTED_12"
     },
     {
         "name": null,
@@ -2772,7 +2772,7 @@
         "communityCredit": "OwenReds",
         "id": 110,
         "scId": 1500095,
-        "rawTID": "TID_WANTED_13"
+        "rawTID": "WANTED_13"
     },
     {
         "name": null,
@@ -2829,7 +2829,7 @@
         "communityCredit": null,
         "id": 112,
         "scId": 1500097,
-        "rawTID": "TID_WANTED_14"
+        "rawTID": "WANTED_14"
     },
     {
         "name": null,
@@ -2886,7 +2886,7 @@
         "communityCredit": null,
         "id": 114,
         "scId": 1500099,
-        "rawTID": "TID_GOLDRUSH_4"
+        "rawTID": "GOLDRUSH_4"
     },
     {
         "name": null,
@@ -2943,7 +2943,7 @@
         "communityCredit": null,
         "id": 116,
         "scId": 1500101,
-        "rawTID": "TID_GOLDRUSH_5"
+        "rawTID": "GOLDRUSH_5"
     },
     {
         "name": null,
@@ -3000,7 +3000,7 @@
         "communityCredit": null,
         "id": 118,
         "scId": 1500103,
-        "rawTID": "TID_GOLDRUSH_6"
+        "rawTID": "GOLDRUSH_6"
     },
     {
         "name": null,
@@ -3057,7 +3057,7 @@
         "communityCredit": null,
         "id": 120,
         "scId": 1500105,
-        "rawTID": "TID_WANTED_10"
+        "rawTID": "WANTED_10"
     },
     {
         "name": "Survival10",
@@ -3086,7 +3086,7 @@
         "communityCredit": "Binnyboy",
         "id": 121,
         "scId": 1500106,
-        "rawTID": "TID_BATTLE_ROYALE_10"
+        "rawTID": "BATTLE_ROYALE_10"
     },
     {
         "name": "SurvivalTeam10",
@@ -3115,7 +3115,7 @@
         "communityCredit": "Binnyboy",
         "id": 122,
         "scId": 1500107,
-        "rawTID": "TID_BATTLE_ROYALE_10"
+        "rawTID": "BATTLE_ROYALE_10"
     },
     {
         "name": "Survival13",
@@ -3144,7 +3144,7 @@
         "communityCredit": null,
         "id": 123,
         "scId": 1500108,
-        "rawTID": "TID_BATTLE_ROYALE_D2"
+        "rawTID": "BATTLE_ROYALE_D2"
     },
     {
         "name": "SurvivalTeam13",
@@ -3173,6 +3173,6 @@
         "communityCredit": null,
         "id": 124,
         "scId": 1500109,
-        "rawTID": "TID_BATTLE_ROYALE_D2"
+        "rawTID": "BATTLE_ROYALE_D2"
     }
 ]

@@ -74,7 +74,7 @@ if __name__ == '__main__':
                 for j in i_keys:
                     if isinstance(i[j], str):
                         if i[j].startswith('TID_'):
-                            i['raw' + j[0].upper() + j[1:]] = i[j]
+                            i['raw' + j[0].upper() + j[1:]] = i[j].replace('TID_', '')
                             try:
                                 i[j] = TID[i[j]]
                             except KeyError:
