@@ -100,7 +100,8 @@
         "chargeUltiAutomatically": null,
         "videoLink": "ShellyTutorial",
         "id": 16,
-        "scId": 1600000
+        "scId": 1600000,
+        "rawTID": "TID_SHOTGUN_GIRL"
     },
     {
         "name": "Gunslinger",
@@ -203,7 +204,8 @@
         "chargeUltiAutomatically": null,
         "videoLink": "ColtTutorial",
         "id": 17,
-        "scId": 1600001
+        "scId": 1600001,
+        "rawTID": "TID_GUNSLINGER"
     },
     {
         "name": "BullDude",
@@ -306,7 +308,8 @@
         "chargeUltiAutomatically": null,
         "videoLink": "BullTutorial",
         "id": 18,
-        "scId": 1600002
+        "scId": 1600002,
+        "rawTID": "TID_BULL_DUDE"
     },
     {
         "name": "RocketGirl",
@@ -409,7 +412,8 @@
         "chargeUltiAutomatically": null,
         "videoLink": "BrockTutorial",
         "id": 19,
-        "scId": 1600003
+        "scId": 1600003,
+        "rawTID": "TID_ROCKET_GIRL"
     },
     {
         "name": "TrickshotDude",
@@ -512,7 +516,8 @@
         "chargeUltiAutomatically": null,
         "videoLink": "RicoTutorial",
         "id": 20,
-        "scId": 1600004
+        "scId": 1600004,
+        "rawTID": "TID_TRICKSHOT_DUDE"
     },
     {
         "name": "Cactus",
@@ -615,7 +620,8 @@
         "chargeUltiAutomatically": null,
         "videoLink": "SpikeTutorial",
         "id": 21,
-        "scId": 1600005
+        "scId": 1600005,
+        "rawTID": "TID_CACTUS"
     },
     {
         "name": "Barkeep",
@@ -718,7 +724,8 @@
         "chargeUltiAutomatically": null,
         "videoLink": "BarleyTutorial",
         "id": 22,
-        "scId": 1600006
+        "scId": 1600006,
+        "rawTID": "TID_BARKEEP"
     },
     {
         "name": "Mechanic",
@@ -821,7 +828,8 @@
         "chargeUltiAutomatically": null,
         "videoLink": "JessieTutorial",
         "id": 23,
-        "scId": 1600007
+        "scId": 1600007,
+        "rawTID": "TID_MECHANIC"
     },
     {
         "name": "Shaman",
@@ -924,7 +932,8 @@
         "chargeUltiAutomatically": null,
         "videoLink": "NitaTutorial",
         "id": 24,
-        "scId": 1600008
+        "scId": 1600008,
+        "rawTID": "TID_SHAMAN"
     },
     {
         "name": "TntDude",
@@ -1027,7 +1036,8 @@
         "chargeUltiAutomatically": null,
         "videoLink": "MikeTutorial",
         "id": 25,
-        "scId": 1600009
+        "scId": 1600009,
+        "rawTID": "TID_TNT_DUDE"
     },
     {
         "name": "Luchador",
@@ -1130,7 +1140,8 @@
         "chargeUltiAutomatically": null,
         "videoLink": "PrimpTutorial",
         "id": 26,
-        "scId": 1600010
+        "scId": 1600010,
+        "rawTID": "TID_LUCHADOR"
     },
     {
         "name": "Undertaker",
@@ -1233,7 +1244,8 @@
         "chargeUltiAutomatically": null,
         "videoLink": "MortisTutorial",
         "id": 27,
-        "scId": 1600011
+        "scId": 1600011,
+        "rawTID": "TID_UNDERTAKER"
     },
     {
         "name": "Crow",
@@ -1336,7 +1348,8 @@
         "chargeUltiAutomatically": null,
         "videoLink": "CrowTutorial",
         "id": 28,
-        "scId": 1600012
+        "scId": 1600012,
+        "rawTID": "TID_CROW"
     },
     {
         "name": "DeadMariachi",
@@ -1439,7 +1452,8 @@
         "chargeUltiAutomatically": null,
         "videoLink": "PocoTutorial",
         "id": 29,
-        "scId": 1600013
+        "scId": 1600013,
+        "rawTID": "TID_DEAD_MARIACHI"
     },
     {
         "name": "BowDude",
@@ -1542,7 +1556,8 @@
         "chargeUltiAutomatically": null,
         "videoLink": "BoTutorial",
         "id": 30,
-        "scId": 1600014
+        "scId": 1600014,
+        "rawTID": "TID_BOW_DUDE"
     },
     {
         "name": "Sniper",
@@ -1645,7 +1660,8 @@
         "chargeUltiAutomatically": null,
         "videoLink": "PiperTutorial",
         "id": 31,
-        "scId": 1600015
+        "scId": 1600015,
+        "rawTID": "TID_SNIPER"
     },
     {
         "name": "MinigunDude",
@@ -1748,7 +1764,8 @@
         "chargeUltiAutomatically": null,
         "videoLink": "PamTutorial",
         "id": 32,
-        "scId": 1600016
+        "scId": 1600016,
+        "rawTID": "TID_MINIGUN_DUDE"
     },
     {
         "name": "BlackHole",
@@ -1851,7 +1868,8 @@
         "chargeUltiAutomatically": null,
         "videoLink": "TaraTutorial",
         "id": 33,
-        "scId": 1600017
+        "scId": 1600017,
+        "rawTID": "TID_BLACK_HOLE"
     },
     {
         "name": "BarrelBot",
@@ -1954,7 +1972,8 @@
         "chargeUltiAutomatically": 50,
         "videoLink": "DarrylTutorial",
         "id": 34,
-        "scId": 1600018
+        "scId": 1600018,
+        "rawTID": "TID_BARREL_BOT"
     },
     {
         "name": "ArtilleryDude",
@@ -2057,7 +2076,8 @@
         "chargeUltiAutomatically": null,
         "videoLink": "PennyTutorial",
         "id": 35,
-        "scId": 1600019
+        "scId": 1600019,
+        "rawTID": "TID_ARTILLERY_DUDE"
     },
     {
         "name": "HammerDude",
@@ -2160,7 +2180,8 @@
         "chargeUltiAutomatically": null,
         "videoLink": "FrankTutorial",
         "id": 36,
-        "scId": 1600020
+        "scId": 1600020,
+        "rawTID": "TID_HAMMER_DUDE"
     },
     {
         "name": "HookDude",
@@ -2263,7 +2284,8 @@
         "chargeUltiAutomatically": null,
         "videoLink": "GeneTutorial",
         "id": 37,
-        "scId": 1600021
+        "scId": 1600021,
+        "rawTID": "TID_HOOK"
     },
     {
         "name": "ClusterBombDude",
@@ -2366,7 +2388,8 @@
         "chargeUltiAutomatically": null,
         "videoLink": null,
         "id": 38,
-        "scId": 1600022
+        "scId": 1600022,
+        "rawTID": "TID_SHOTGUN_GIRL"
     },
     {
         "name": "Ninja",
@@ -2469,7 +2492,8 @@
         "chargeUltiAutomatically": null,
         "videoLink": "LeonTutorial",
         "id": 39,
-        "scId": 1600023
+        "scId": 1600023,
+        "rawTID": "TID_NINJA"
     },
     {
         "name": "Animal",
@@ -2572,7 +2596,8 @@
         "chargeUltiAutomatically": null,
         "videoLink": null,
         "id": 40,
-        "scId": 1600024
+        "scId": 1600024,
+        "rawTID": "TID_SHOTGUN_GIRL"
     },
     {
         "name": "TutorialDummy",

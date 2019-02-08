@@ -11,7 +11,8 @@
         "map": "Pvp4",
         "boss": "Boss2",
         "bossLevel": 1,
-        "id": 22
+        "id": 22,
+        "rawTID": "TID_BOSS_1"
     },
     {
         "name": "boss2",
@@ -25,7 +26,8 @@
         "map": "Pvp4",
         "boss": "Boss1",
         "bossLevel": 5,
-        "id": 23
+        "id": 23,
+        "rawTID": "TID_BOSS_2"
     },
     {
         "name": "boss3",
@@ -39,7 +41,8 @@
         "map": "Pvp4",
         "boss": "Boss2",
         "bossLevel": 9,
-        "id": 24
+        "id": 24,
+        "rawTID": "TID_BOSS_3"
     },
     {
         "name": "boss4",
@@ -53,7 +56,8 @@
         "map": "Pvp4",
         "boss": "Boss1",
         "bossLevel": 12,
-        "id": 25
+        "id": 25,
+        "rawTID": "TID_BOSS_4"
     },
     {
         "name": "boss5",
@@ -67,7 +71,8 @@
         "map": "Pvp4",
         "boss": "Boss2",
         "bossLevel": 15,
-        "id": 26
+        "id": 26,
+        "rawTID": "TID_BOSS_5"
     },
     {
         "name": "boss6",
@@ -81,7 +86,8 @@
         "map": "Pvp4",
         "boss": "Boss1",
         "bossLevel": 18,
-        "id": 27
+        "id": 27,
+        "rawTID": "TID_BOSS_6"
     },
     {
         "name": "boss7",
@@ -95,6 +101,7 @@
         "map": "Pvp4",
         "boss": "Boss2",
         "bossLevel": 20,
-        "id": 28
+        "id": 28,
+        "rawTID": "TID_BOSS_7"
     }
 ]

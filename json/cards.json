@@ -37,7 +37,9 @@
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 24
+        "id": 24,
+        "rawTID": "TID_ARMOR",
+        "rawPowerNumberTID": "TID_ARMOR_STAT"
     },
     {
         "name": "ShotgunGirl_abi",
@@ -57,7 +59,9 @@
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 25
+        "id": 25,
+        "rawTID": "TID_LONG_RANGE_SHOTGUN",
+        "rawPowerNumberTID": "TID_STAT_DAMAGE_PER_SHELL"
     },
     {
         "name": "ShotgunGirl_ulti",
@@ -77,7 +81,9 @@
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 26
+        "id": 26,
+        "rawTID": "TID_MEGA_BLASH_ULTI",
+        "rawPowerNumberTID": "TID_STAT_DAMAGE_PER_SHELL"
     },
     {
         "name": "Gunslinger_unlock",
@@ -117,7 +123,9 @@
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 28
+        "id": 28,
+        "rawTID": "TID_ARMOR",
+        "rawPowerNumberTID": "TID_ARMOR_STAT"
     },
     {
         "name": "Gunslinger_abi",
@@ -137,7 +145,9 @@
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 29
+        "id": 29,
+        "rawTID": "TID_RAPID_FIRE",
+        "rawPowerNumberTID": "TID_STAT_DAMAGE_PER_SHOT"
     },
     {
         "name": "Gunslinger_ulti",
@@ -157,7 +167,9 @@
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 30
+        "id": 30,
+        "rawTID": "TID_RAPID_FIRE_ULTI",
+        "rawPowerNumberTID": "TID_STAT_DAMAGE_PER_SHOT"
     },
     {
         "name": "BullDude_unlock",
@@ -197,7 +209,9 @@
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 32
+        "id": 32,
+        "rawTID": "TID_ARMOR",
+        "rawPowerNumberTID": "TID_ARMOR_STAT"
     },
     {
         "name": "BullDude_abi",
@@ -217,7 +231,9 @@
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 33
+        "id": 33,
+        "rawTID": "TID_SHOTGUN_BLAST",
+        "rawPowerNumberTID": "TID_STAT_DAMAGE_PER_SHELL"
     },
     {
         "name": "BullDude_ulti",
@@ -237,7 +253,9 @@
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 34
+        "id": 34,
+        "rawTID": "TID_CHARGE",
+        "rawPowerNumberTID": "TID_STAT_DAMAGE"
     },
     {
         "name": "RocketGirl_unlock",
@@ -277,7 +295,9 @@
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 36
+        "id": 36,
+        "rawTID": "TID_ARMOR",
+        "rawPowerNumberTID": "TID_ARMOR_STAT"
     },
     {
         "name": "RocketGirl_abi",
@@ -297,7 +317,9 @@
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 37
+        "id": 37,
+        "rawTID": "TID_FIREWORKS_WEAPON",
+        "rawPowerNumberTID": "TID_STAT_DAMAGE"
     },
     {
         "name": "RocketGirl_ulti",
@@ -317,7 +339,9 @@
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 38
+        "id": 38,
+        "rawTID": "TID_FIREWORKS_ULTI",
+        "rawPowerNumberTID": "TID_STAT_MISSILE_DAMAGE"
     },
     {
         "name": "TrickshotDude_unlock",
@@ -357,7 +381,9 @@
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 40
+        "id": 40,
+        "rawTID": "TID_ARMOR",
+        "rawPowerNumberTID": "TID_ARMOR_STAT"
     },
     {
         "name": "TrickshotDude_abi",
@@ -377,7 +403,9 @@
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 41
+        "id": 41,
+        "rawTID": "TID_TRICKSHOT_DUDE_WEAPON",
+        "rawPowerNumberTID": "TID_STAT_DAMAGE_PER_SHOT"
     },
     {
         "name": "TrickshotDude_ulti",
@@ -397,7 +425,9 @@
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 42
+        "id": 42,
+        "rawTID": "TID_TRICKSHOT_DUDE_ULTI",
+        "rawPowerNumberTID": "TID_STAT_DAMAGE_PER_SHOT"
     },
     {
         "name": "Cactus_unlock",
@@ -437,7 +467,9 @@
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 44
+        "id": 44,
+        "rawTID": "TID_ARMOR",
+        "rawPowerNumberTID": "TID_ARMOR_STAT"
     },
     {
         "name": "Cactus_abi",
@@ -457,7 +489,9 @@
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 45
+        "id": 45,
+        "rawTID": "TID_CACTUS_WEAPON",
+        "rawPowerNumberTID": "TID_STAT_DAMAGE_PER_SPIKE"
     },
     {
         "name": "Cactus_ulti",
@@ -477,7 +511,9 @@
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 46
+        "id": 46,
+        "rawTID": "TID_CACTUS_ULTI",
+        "rawPowerNumberTID": "TID_STAT_DAMAGE_PER_SECOND"
     },
     {
         "name": "Barkeep_unlock",
@@ -517,7 +553,9 @@
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 48
+        "id": 48,
+        "rawTID": "TID_ARMOR",
+        "rawPowerNumberTID": "TID_ARMOR_STAT"
     },
     {
         "name": "Barkeep_abi",
@@ -537,7 +575,9 @@
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 49
+        "id": 49,
+        "rawTID": "TID_BARKEEP_WEAPON",
+        "rawPowerNumberTID": "TID_STAT_DAMAGE_PER_SECOND"
     },
     {
         "name": "Barkeep_ulti",
@@ -557,7 +597,9 @@
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 50
+        "id": 50,
+        "rawTID": "TID_BARKEEP_ULTI",
+        "rawPowerNumberTID": "TID_STAT_DAMAGE_PER_SECOND_EACH"
     },
     {
         "name": "Mechanic_unlock",
@@ -597,7 +639,9 @@
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 52
+        "id": 52,
+        "rawTID": "TID_ARMOR",
+        "rawPowerNumberTID": "TID_ARMOR_STAT"
     },
     {
         "name": "Mechanic_abi",
@@ -617,7 +661,9 @@
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 53
+        "id": 53,
+        "rawTID": "TID_MECHANIC_WEAPON",
+        "rawPowerNumberTID": "TID_STAT_DAMAGE"
     },
     {
         "name": "Mechanic_ulti",
@@ -637,7 +683,10 @@
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": "genicon_health",
         "sortOrder": null,
-        "id": 54
+        "id": 54,
+        "rawTID": "TID_MECHANIC_ULTI",
+        "rawPowerNumberTID": "TID_TURRET_DAMAGE",
+        "rawPowerNumber2TID": "TID_TURRET_HEALTH"
     },
     {
         "name": "Shaman_unlock",
@@ -677,7 +726,9 @@
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 56
+        "id": 56,
+        "rawTID": "TID_ARMOR",
+        "rawPowerNumberTID": "TID_ARMOR_STAT"
     },
     {
         "name": "Shaman_abi",
@@ -697,7 +748,9 @@
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 57
+        "id": 57,
+        "rawTID": "TID_SHAMAN_WEAPON",
+        "rawPowerNumberTID": "TID_STAT_DAMAGE"
     },
     {
         "name": "Shaman_ulti",
@@ -717,7 +770,10 @@
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": "genicon_health",
         "sortOrder": null,
-        "id": 58
+        "id": 58,
+        "rawTID": "TID_SHAMAN_ULTI",
+        "rawPowerNumberTID": "TID_BEAR_DAMAGE",
+        "rawPowerNumber2TID": "TID_BEAR_HEALTH"
     },
     {
         "name": "TntDude_unlock",
@@ -757,7 +813,9 @@
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 60
+        "id": 60,
+        "rawTID": "TID_ARMOR",
+        "rawPowerNumberTID": "TID_ARMOR_STAT"
     },
     {
         "name": "TntDude_abi",
@@ -777,7 +835,9 @@
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 61
+        "id": 61,
+        "rawTID": "TID_MORTAR",
+        "rawPowerNumberTID": "TID_STAT_PER_DYNAMITE"
     },
     {
         "name": "TntDude_ulti",
@@ -797,7 +857,9 @@
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 62
+        "id": 62,
+        "rawTID": "TID_MORTAR_ULTI",
+        "rawPowerNumberTID": "TID_STAT_DAMAGE"
     },
     {
         "name": "Luchador_unlock",
@@ -837,7 +899,9 @@
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 64
+        "id": 64,
+        "rawTID": "TID_ARMOR",
+        "rawPowerNumberTID": "TID_ARMOR_STAT"
     },
     {
         "name": "Luchador_abi",
@@ -857,7 +921,9 @@
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 65
+        "id": 65,
+        "rawTID": "TID_LUCHADOR_WEAPON",
+        "rawPowerNumberTID": "TID_STAT_DAMAGE_PER_STRIKE"
     },
     {
         "name": "Luchador_ulti",
@@ -877,7 +943,9 @@
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 66
+        "id": 66,
+        "rawTID": "TID_LUCHADOR_ULTI",
+        "rawPowerNumberTID": "TID_STAT_DAMAGE"
     },
     {
         "name": "Undertaker_unlock",
@@ -917,7 +985,9 @@
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 68
+        "id": 68,
+        "rawTID": "TID_ARMOR",
+        "rawPowerNumberTID": "TID_ARMOR_STAT"
     },
     {
         "name": "Undertaker_abi",
@@ -937,7 +1007,9 @@
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 69
+        "id": 69,
+        "rawTID": "TID_UNDERTAKER_WEAPON",
+        "rawPowerNumberTID": "TID_STAT_DAMAGE"
     },
     {
         "name": "Undertaker_ulti",
@@ -957,7 +1029,9 @@
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 70
+        "id": 70,
+        "rawTID": "TID_UNDERTAKER_ULTI",
+        "rawPowerNumberTID": "TID_STAT_DAMAGE"
     },
     {
         "name": "Crow_unlock",
@@ -997,7 +1071,9 @@
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 72
+        "id": 72,
+        "rawTID": "TID_ARMOR",
+        "rawPowerNumberTID": "TID_ARMOR_STAT"
     },
     {
         "name": "Crow_abi",
@@ -1017,7 +1093,9 @@
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 73
+        "id": 73,
+        "rawTID": "TID_CROW_WEAPON",
+        "rawPowerNumberTID": "TID_STAT_DAMAGE_PER_DAGGER"
     },
     {
         "name": "Crow_ulti",
@@ -1037,7 +1115,9 @@
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 74
+        "id": 74,
+        "rawTID": "TID_CROW_ULTI",
+        "rawPowerNumberTID": "TID_STAT_DAMAGE_PER_DAGGER"
     },
     {
         "name": "DeadMariachi_unlock",
@@ -1077,7 +1157,9 @@
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 76
+        "id": 76,
+        "rawTID": "TID_ARMOR",
+        "rawPowerNumberTID": "TID_ARMOR_STAT"
     },
     {
         "name": "DeadMariachi_abi",
@@ -1097,7 +1179,9 @@
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 77
+        "id": 77,
+        "rawTID": "TID_DEAD_MARIACHI_WEAPON",
+        "rawPowerNumberTID": "TID_STAT_DAMAGE"
     },
     {
         "name": "DeadMariachi_ulti",
@@ -1117,7 +1201,9 @@
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 78
+        "id": 78,
+        "rawTID": "TID_DEAD_MARIACHI_ULTI",
+        "rawPowerNumberTID": "TID_STAT_HEAL"
     },
     {
         "name": "BowDude_unlock",
@@ -1157,7 +1243,9 @@
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 80
+        "id": 80,
+        "rawTID": "TID_ARMOR",
+        "rawPowerNumberTID": "TID_ARMOR_STAT"
     },
     {
         "name": "BowDude_abi",
@@ -1177,7 +1265,9 @@
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 81
+        "id": 81,
+        "rawTID": "TID_BOW_DUDE_WEAPON",
+        "rawPowerNumberTID": "TID_STAT_DAMAGE_PER_ARROW"
     },
     {
         "name": "BowDude_ulti",
@@ -1197,7 +1287,9 @@
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 82
+        "id": 82,
+        "rawTID": "TID_BOW_DUDE_ULTI",
+        "rawPowerNumberTID": "TID_STAT_DAMAGE_PER_MINE"
     },
     {
         "name": "Sniper_unlock",
@@ -1237,7 +1329,9 @@
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 84
+        "id": 84,
+        "rawTID": "TID_ARMOR",
+        "rawPowerNumberTID": "TID_ARMOR_STAT"
     },
     {
         "name": "Sniper_abi",
@@ -1257,7 +1351,9 @@
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 85
+        "id": 85,
+        "rawTID": "TID_SNIPER_WEAPON",
+        "rawPowerNumberTID": "TID_STAT_MAX_DAMAGE"
     },
     {
         "name": "Sniper_ulti",
@@ -1277,7 +1373,9 @@
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 86
+        "id": 86,
+        "rawTID": "TID_SNIPER_ULTI",
+        "rawPowerNumberTID": "TID_STAT_DAMAGE_PER_BOMB"
     },
     {
         "name": "MinigunDude_unlock",
@@ -1317,7 +1415,9 @@
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 88
+        "id": 88,
+        "rawTID": "TID_ARMOR",
+        "rawPowerNumberTID": "TID_ARMOR_STAT"
     },
     {
         "name": "MinigunDude_abi",
@@ -1337,7 +1437,9 @@
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 89
+        "id": 89,
+        "rawTID": "TID_MINIGUN_DUDE_WEAPON",
+        "rawPowerNumberTID": "TID_STAT_DAMAGE_PER_SHOT"
     },
     {
         "name": "MinigunDude_ulti",
@@ -1357,7 +1459,10 @@
         "powerIcon1ExportName": "genicon_heal",
         "powerIcon2ExportName": "genicon_health",
         "sortOrder": null,
-        "id": 90
+        "id": 90,
+        "rawTID": "TID_MINIGUN_DUDE_ULTI",
+        "rawPowerNumberTID": "TID_STAT_HEALING_PER_SEC",
+        "rawPowerNumber2TID": "TID_TURRET_HEALTH"
     },
     {
         "name": "BlackHole_unlock",
@@ -1397,7 +1502,9 @@
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 92
+        "id": 92,
+        "rawTID": "TID_ARMOR",
+        "rawPowerNumberTID": "TID_ARMOR_STAT"
     },
     {
         "name": "BlackHole_abi",
@@ -1417,7 +1524,9 @@
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 93
+        "id": 93,
+        "rawTID": "TID_BLACK_HOLE_WEAPON",
+        "rawPowerNumberTID": "TID_STAT_DAMAGE_PER_CARD"
     },
     {
         "name": "BlackHole_ulti",
@@ -1437,7 +1546,9 @@
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 94
+        "id": 94,
+        "rawTID": "TID_BLACK_HOLE_ULTI",
+        "rawPowerNumberTID": "TID_STAT_DAMAGE"
     },
     {
         "name": "BarrelBot_unlock",
@@ -1477,7 +1588,9 @@
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 96
+        "id": 96,
+        "rawTID": "TID_ARMOR",
+        "rawPowerNumberTID": "TID_ARMOR_STAT"
     },
     {
         "name": "BarrelBot_abi",
@@ -1497,7 +1610,9 @@
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 97
+        "id": 97,
+        "rawTID": "TID_BARREL_BOT_WEAPON",
+        "rawPowerNumberTID": "TID_STAT_DAMAGE_PER_SHELL"
     },
     {
         "name": "BarrelBot_ulti",
@@ -1517,7 +1632,9 @@
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 98
+        "id": 98,
+        "rawTID": "TID_BARREL_BOT_ULTI",
+        "rawPowerNumberTID": "TID_STAT_DAMAGE"
     },
     {
         "name": "ShotgunGirl_unique",
@@ -1537,7 +1654,8 @@
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 99
+        "id": 99,
+        "rawTID": "TID_SPEC_ABI_FREEZE"
     },
     {
         "name": "Gunslinger_unique",
@@ -1557,7 +1675,8 @@
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 100
+        "id": 100,
+        "rawTID": "TID_SPEC_ABI_SPEED"
     },
     {
         "name": "BullDude_unique",
@@ -1577,7 +1696,8 @@
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 101
+        "id": 101,
+        "rawTID": "TID_SPEC_ABI_BERSERKER"
     },
     {
         "name": "RocketGirl_unique",
@@ -1597,7 +1717,8 @@
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 102
+        "id": 102,
+        "rawTID": "TID_SPEC_BURN"
     },
     {
         "name": "TrickshotDude_unique",
@@ -1617,7 +1738,8 @@
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 103
+        "id": 103,
+        "rawTID": "TID_SPEC_BOUNCED_BULLETS_STRONGER"
     },
     {
         "name": "Cactus_unique",
@@ -1637,7 +1759,8 @@
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 104
+        "id": 104,
+        "rawTID": "TID_SPEC_ABI_CACTUS_HEAL"
     },
     {
         "name": "Barkeep_unique",
@@ -1657,7 +1780,8 @@
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 105
+        "id": 105,
+        "rawTID": "TID_SPEC_ABI_HEAL_SELF_MAIN_ATTACK"
     },
     {
         "name": "Mechanic_unique",
@@ -1677,7 +1801,8 @@
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 106
+        "id": 106,
+        "rawTID": "TID_SPEC_ABI_REPAIR_TURRET"
     },
     {
         "name": "Shaman_unique",
@@ -1697,7 +1822,8 @@
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 107
+        "id": 107,
+        "rawTID": "TID_SPEC_ABI_PET_LIFESTEAL"
     },
     {
         "name": "TntDude_unique",
@@ -1717,7 +1843,8 @@
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 108
+        "id": 108,
+        "rawTID": "TID_SPEC_ABI_PUSHBACK_SELF"
     },
     {
         "name": "Luchador_unique",
@@ -1737,7 +1864,8 @@
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 109
+        "id": 109,
+        "rawTID": "TID_SPEC_ABI_FIRE_DOT_ULTI"
     },
     {
         "name": "Undertaker_unique",
@@ -1757,7 +1885,8 @@
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 110
+        "id": 110,
+        "rawTID": "TID_SPEC_ABI_STEAL_SOULS"
     },
     {
         "name": "Crow_unique",
@@ -1777,7 +1906,8 @@
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 111
+        "id": 111,
+        "rawTID": "TID_SPEC_CRIPPLE"
     },
     {
         "name": "DeadMariachi_unique",
@@ -1797,7 +1927,8 @@
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 112
+        "id": 112,
+        "rawTID": "TID_SPEC_HEAL_MAIN_ATTACK"
     },
     {
         "name": "BowDude_unique",
@@ -1817,7 +1948,8 @@
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 113
+        "id": 113,
+        "rawTID": "TID_SPEC_ABI_SPOT"
     },
     {
         "name": "Sniper_unique",
@@ -1837,7 +1969,8 @@
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 114
+        "id": 114,
+        "rawTID": "TID_SPEC_ABI_AMBUSH"
     },
     {
         "name": "MinigunDude_unique",
@@ -1857,7 +1990,8 @@
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 115
+        "id": 115,
+        "rawTID": "TID_SPEC_ABI_HEAL_OTHERS_MAIN_ATTACK"
     },
     {
         "name": "BlackHole_unique",
@@ -1877,7 +2011,8 @@
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 116
+        "id": 116,
+        "rawTID": "TID_SPEC_ABI_BLACK_HOLE_MONSTER"
     },
     {
         "name": "BarrelBot_unique",
@@ -1897,7 +2032,8 @@
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 117
+        "id": 117,
+        "rawTID": "TID_SPEC_ABI_BARREL_DEFENSE"
     },
     {
         "name": "ArtilleryDude_unlock",
@@ -1937,7 +2073,9 @@
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 119
+        "id": 119,
+        "rawTID": "TID_ARMOR",
+        "rawPowerNumberTID": "TID_ARMOR_STAT"
     },
     {
         "name": "ArtilleryDude_abi",
@@ -1957,7 +2095,9 @@
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 120
+        "id": 120,
+        "rawTID": "TID_ARTILLERY_DUDE_WEAPON",
+        "rawPowerNumberTID": "TID_STAT_DAMAGE"
     },
     {
         "name": "ArtilleryDude_ulti",
@@ -1977,7 +2117,10 @@
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": "genicon_health",
         "sortOrder": null,
-        "id": 121
+        "id": 121,
+        "rawTID": "TID_ARTILLERY_DUDE_ULTI",
+        "rawPowerNumberTID": "TID_CANNON_DAMAGE",
+        "rawPowerNumber2TID": "TID_CANNON_HEALTH"
     },
     {
         "name": "ArtilleryDude_unique",
@@ -1997,7 +2140,8 @@
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 122
+        "id": 122,
+        "rawTID": "TID_SPEC_ABI_SELF_DESTRUCT"
     },
     {
         "name": "HammerDude_unlock",
@@ -2037,7 +2181,9 @@
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 124
+        "id": 124,
+        "rawTID": "TID_ARMOR",
+        "rawPowerNumberTID": "TID_ARMOR_STAT"
     },
     {
         "name": "HammerDude_abi",
@@ -2057,7 +2203,9 @@
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 125
+        "id": 125,
+        "rawTID": "TID_HAMMER_DUDE_WEAPON",
+        "rawPowerNumberTID": "TID_STAT_DAMAGE"
     },
     {
         "name": "HammerDude_ulti",
@@ -2077,7 +2225,9 @@
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": "genicon_health",
         "sortOrder": null,
-        "id": 126
+        "id": 126,
+        "rawTID": "TID_HAMMER_DUDE_ULTI",
+        "rawPowerNumberTID": "TID_STAT_DAMAGE"
     },
     {
         "name": "HammerDude_unique",
@@ -2097,7 +2247,8 @@
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 127
+        "id": 127,
+        "rawTID": "TID_SPEC_ABI_STEAL_SOULS2"
     },
     {
         "name": "HookDude_unlock",
@@ -2137,7 +2288,9 @@
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 129
+        "id": 129,
+        "rawTID": "TID_ARMOR",
+        "rawPowerNumberTID": "TID_ARMOR_STAT"
     },
     {
         "name": "HookDude_abi",
@@ -2157,7 +2310,9 @@
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 130
+        "id": 130,
+        "rawTID": "TID_HOOK_WEAPON",
+        "rawPowerNumberTID": "TID_STAT_DAMAGE"
     },
     {
         "name": "HookDude_ulti",
@@ -2177,7 +2332,9 @@
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 131
+        "id": 131,
+        "rawTID": "TID_HOOK_ULTI",
+        "rawPowerNumberTID": "TID_STAT_DAMAGE"
     },
     {
         "name": "HookDude_unique",
@@ -2197,7 +2354,8 @@
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 132
+        "id": 132,
+        "rawTID": "TID_SPEC_ABI_HOOK"
     },
     {
         "name": "ClusterBombDude_unlock",
@@ -2237,7 +2395,9 @@
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 134
+        "id": 134,
+        "rawTID": "TID_ARMOR",
+        "rawPowerNumberTID": "TID_ARMOR_STAT"
     },
     {
         "name": "ClusterBombDude_abi",
@@ -2257,7 +2417,9 @@
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 135
+        "id": 135,
+        "rawTID": "TID_CLUSTER_BOMB_DUDE_WEAPON",
+        "rawPowerNumberTID": "TID_STAT_DAMAGE_PER_SHOT"
     },
     {
         "name": "ClusterBombDude_ulti",
@@ -2277,7 +2439,9 @@
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 136
+        "id": 136,
+        "rawTID": "TID_CLUSTER_BOMB_DUDE_ULTI",
+        "rawPowerNumberTID": "TID_STAT_DAMAGE_PER_CLUSTER"
     },
     {
         "name": "ClusterBombDude_unique",
@@ -2297,7 +2461,8 @@
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 137
+        "id": 137,
+        "rawTID": "TID_SPEC_ABI_HOVERBOARD"
     },
     {
         "name": "Ninja_unlock",
@@ -2337,7 +2502,9 @@
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 139
+        "id": 139,
+        "rawTID": "TID_ARMOR",
+        "rawPowerNumberTID": "TID_ARMOR_STAT"
     },
     {
         "name": "Ninja_abi",
@@ -2357,7 +2524,9 @@
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 140
+        "id": 140,
+        "rawTID": "TID_NINJA_WEAPON",
+        "rawPowerNumberTID": "TID_STAT_DAMAGE_PER_SHURIKEN"
     },
     {
         "name": "Ninja_ulti",
@@ -2377,7 +2546,9 @@
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 141
+        "id": 141,
+        "rawTID": "TID_NINJA_ULTI",
+        "rawPowerNumberTID": "TID_STAT_INVISIBLE"
     },
     {
         "name": "Ninja_unique",
@@ -2397,7 +2568,8 @@
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 142
+        "id": 142,
+        "rawTID": "TID_SPEC_ABI_SPEED_INVISIBLE"
     },
     {
         "name": "Animal_unlock",
@@ -2437,7 +2609,9 @@
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 144
+        "id": 144,
+        "rawTID": "TID_ARMOR",
+        "rawPowerNumberTID": "TID_ARMOR_STAT"
     },
     {
         "name": "Animal_abi",
@@ -2457,7 +2631,9 @@
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 145
+        "id": 145,
+        "rawTID": "TID_ANIMAL_WEAPON",
+        "rawPowerNumberTID": "TID_STAT_DAMAGE_PER_STRIKE"
     },
     {
         "name": "Animal_ulti",
@@ -2477,7 +2653,9 @@
         "powerIcon1ExportName": "genicon_damage",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 146
+        "id": 146,
+        "rawTID": "TID_ANIMAL_ULTI",
+        "rawPowerNumberTID": "TID_STAT_SHIELD"
     },
     {
         "name": "Animal_unique",
@@ -2497,6 +2675,7 @@
         "powerIcon1ExportName": "genicon_health",
         "powerIcon2ExportName": null,
         "sortOrder": null,
-        "id": 147
+        "id": 147,
+        "rawTID": "TID_SPEC_ABI_HEAL_FOREST"
     }
 ]

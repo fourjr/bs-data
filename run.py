@@ -70,9 +70,11 @@ if __name__ == '__main__':
                     i['id'] = config['id'][fn] + n
                 if fn in config['scId']:
                     i['scId'] = config['scId'][fn] + n
-                for j in i:
+                i_keys = list(i.keys())
+                for j in i_keys:
                     if isinstance(i[j], str):
                         if i[j].startswith('TID_'):
+                            i['raw' + j[0].upper() + j[1:]] = i[j]
                             try:
                                 i[j] = TID[i[j]]
                             except KeyError:

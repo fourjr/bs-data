@@ -25,7 +25,8 @@
         "music": "BattleMusic",
         "communityCredit": null,
         "id": 15,
-        "scId": 1500000
+        "scId": 1500000,
+        "rawTID": "TID_WANTED_1"
     },
     {
         "name": "Wanted3",
@@ -53,7 +54,8 @@
         "music": "BattleMusic",
         "communityCredit": null,
         "id": 16,
-        "scId": 1500001
+        "scId": 1500001,
+        "rawTID": "TID_WANTED_3"
     },
     {
         "name": "Wanted4",
@@ -81,7 +83,8 @@
         "music": "BattleMusic",
         "communityCredit": null,
         "id": 17,
-        "scId": 1500002
+        "scId": 1500002,
+        "rawTID": "TID_WANTED_4"
     },
     {
         "name": "Wanted5",
@@ -109,7 +112,8 @@
         "music": "BattleMusic",
         "communityCredit": null,
         "id": 18,
-        "scId": 1500003
+        "scId": 1500003,
+        "rawTID": "TID_WANTED_5"
     },
     {
         "name": "Wanted6",
@@ -137,7 +141,8 @@
         "music": "BattleMusic",
         "communityCredit": null,
         "id": 19,
-        "scId": 1500004
+        "scId": 1500004,
+        "rawTID": "TID_WANTED_6"
     },
     {
         "name": "Wanted7",
@@ -165,7 +170,8 @@
         "music": "BattleMusic",
         "communityCredit": null,
         "id": 20,
-        "scId": 1500005
+        "scId": 1500005,
+        "rawTID": "TID_WANTED_7"
     },
     {
         "name": "Wanted2",
@@ -193,7 +199,8 @@
         "music": "BattleMusic",
         "communityCredit": null,
         "id": 21,
-        "scId": 1500006
+        "scId": 1500006,
+        "rawTID": "TID_WANTED_2"
     },
     {
         "name": "Gemgrab1",
@@ -221,7 +228,8 @@
         "music": "BattleMusic",
         "communityCredit": null,
         "id": 22,
-        "scId": 1500007
+        "scId": 1500007,
+        "rawTID": "TID_GOLDRUSH_1"
     },
     {
         "name": "Gemgrab2",
@@ -249,7 +257,8 @@
         "music": "BattleMusic",
         "communityCredit": null,
         "id": 23,
-        "scId": 1500008
+        "scId": 1500008,
+        "rawTID": "TID_GOLDRUSH_2"
     },
     {
         "name": "Gemgrab3",
@@ -277,7 +286,8 @@
         "music": "BattleMusic",
         "communityCredit": null,
         "id": 24,
-        "scId": 1500009
+        "scId": 1500009,
+        "rawTID": "TID_GOLDRUSH_3"
     },
     {
         "name": "Gemgrab4",
@@ -305,7 +315,8 @@
         "music": "BattleMusic",
         "communityCredit": null,
         "id": 25,
-        "scId": 1500010
+        "scId": 1500010,
+        "rawTID": "TID_GOLDRUSH_4"
     },
     {
         "name": "Gemgrab5",
@@ -333,7 +344,8 @@
         "music": "BattleMusic",
         "communityCredit": null,
         "id": 26,
-        "scId": 1500011
+        "scId": 1500011,
+        "rawTID": "TID_GOLDRUSH_5"
     },
     {
         "name": "Gemgrab6",
@@ -361,7 +373,8 @@
         "music": "BattleMusic",
         "communityCredit": null,
         "id": 27,
-        "scId": 1500012
+        "scId": 1500012,
+        "rawTID": "TID_GOLDRUSH_6"
     },
     {
         "name": "Survival1",
@@ -389,7 +402,8 @@
         "music": "BattleMusic",
         "communityCredit": null,
         "id": 28,
-        "scId": 1500013
+        "scId": 1500013,
+        "rawTID": "TID_BATTLE_ROYALE_1"
     },
     {
         "name": "Survival2",
@@ -417,7 +431,8 @@
         "music": "BattleMusic",
         "communityCredit": "OwenReds",
         "id": 29,
-        "scId": 1500014
+        "scId": 1500014,
+        "rawTID": "TID_BATTLE_ROYALE_2"
     },
     {
         "name": "Survival3",
@@ -445,7 +460,8 @@
         "music": "BattleMusic",
         "communityCredit": null,
         "id": 30,
-        "scId": 1500015
+        "scId": 1500015,
+        "rawTID": "TID_BATTLE_ROYALE_3"
     },
     {
         "name": "Survival4",
@@ -473,7 +489,8 @@
         "music": "BattleMusic",
         "communityCredit": null,
         "id": 31,
-        "scId": 1500016
+        "scId": 1500016,
+        "rawTID": "TID_BATTLE_ROYALE_4"
     },
     {
         "name": "Heist1",
@@ -501,7 +518,8 @@
         "music": "BattleMusic",
         "communityCredit": null,
         "id": 32,
-        "scId": 1500017
+        "scId": 1500017,
+        "rawTID": "TID_BANKHEIST_1"
     },
     {
         "name": "Heist2",
@@ -529,7 +547,8 @@
         "music": "BattleMusic",
         "communityCredit": null,
         "id": 33,
-        "scId": 1500018
+        "scId": 1500018,
+        "rawTID": "TID_BANKHEIST_2"
     },
     {
         "name": "Heist3",
@@ -557,7 +576,8 @@
         "music": "BattleMusic",
         "communityCredit": null,
         "id": 34,
-        "scId": 1500019
+        "scId": 1500019,
+        "rawTID": "TID_BANKHEIST_3"
     },
     {
         "name": "Tutorial",
@@ -613,7 +633,8 @@
         "music": "BattleMusic",
         "communityCredit": null,
         "id": 36,
-        "scId": 1500021
+        "scId": 1500021,
+        "rawTID": "TID_BOSS_4"
     },
     {
         "name": "Wanted8",
@@ -641,7 +662,8 @@
         "music": "BattleMusic",
         "communityCredit": null,
         "id": 37,
-        "scId": 1500022
+        "scId": 1500022,
+        "rawTID": "TID_WANTED_8"
     },
     {
         "name": "Heist4",
@@ -669,7 +691,8 @@
         "music": "BattleMusic",
         "communityCredit": null,
         "id": 38,
-        "scId": 1500023
+        "scId": 1500023,
+        "rawTID": "TID_BANKHEIST_4"
     },
     {
         "name": "Ball1",
@@ -697,7 +720,8 @@
         "music": "BattleMusic",
         "communityCredit": null,
         "id": 39,
-        "scId": 1500024
+        "scId": 1500024,
+        "rawTID": "TID_BALL_1"
     },
     {
         "name": "Ball2",
@@ -725,7 +749,8 @@
         "music": "BattleMusic",
         "communityCredit": null,
         "id": 40,
-        "scId": 1500025
+        "scId": 1500025,
+        "rawTID": "TID_BALL_2"
     },
     {
         "name": "Ball3",
@@ -753,7 +778,8 @@
         "music": "BattleMusic",
         "communityCredit": null,
         "id": 41,
-        "scId": 1500026
+        "scId": 1500026,
+        "rawTID": "TID_BALL_3"
     },
     {
         "name": "Coop1",
@@ -781,7 +807,8 @@
         "music": "BattleMusic",
         "communityCredit": null,
         "id": 42,
-        "scId": 1500027
+        "scId": 1500027,
+        "rawTID": "TID_COOP_1"
     },
     {
         "name": "SurvivalTeam7",
@@ -809,7 +836,8 @@
         "music": "BattleMusic",
         "communityCredit": null,
         "id": 43,
-        "scId": 1500028
+        "scId": 1500028,
+        "rawTID": "TID_BATTLE_ROYALE_7"
     },
     {
         "name": "Coop2",
@@ -837,7 +865,8 @@
         "music": "BattleMusic",
         "communityCredit": null,
         "id": 44,
-        "scId": 1500029
+        "scId": 1500029,
+        "rawTID": "TID_COOP_2"
     },
     {
         "name": "BossFight2",
@@ -865,7 +894,8 @@
         "music": "BattleMusic",
         "communityCredit": null,
         "id": 45,
-        "scId": 1500030
+        "scId": 1500030,
+        "rawTID": "TID_BOSS_3"
     },
     {
         "name": "Gemgrab8",
@@ -893,7 +923,8 @@
         "music": "BattleMusic",
         "communityCredit": null,
         "id": 46,
-        "scId": 1500031
+        "scId": 1500031,
+        "rawTID": "TID_GOLDRUSH_8"
     },
     {
         "name": "Survival5",
@@ -921,7 +952,8 @@
         "music": "BattleMusic",
         "communityCredit": "Mordeus",
         "id": 47,
-        "scId": 1500032
+        "scId": 1500032,
+        "rawTID": "TID_BATTLE_ROYALE_5"
     },
     {
         "name": "Survival6",
@@ -949,7 +981,8 @@
         "music": "BattleMusic",
         "communityCredit": null,
         "id": 48,
-        "scId": 1500033
+        "scId": 1500033,
+        "rawTID": "TID_BATTLE_ROYALE_6"
     },
     {
         "name": "SurvivalTeam1",
@@ -977,7 +1010,8 @@
         "music": "BattleMusic",
         "communityCredit": null,
         "id": 49,
-        "scId": 1500034
+        "scId": 1500034,
+        "rawTID": "TID_BATTLE_ROYALE_1"
     },
     {
         "name": "SurvivalTeam2",
@@ -1005,7 +1039,8 @@
         "music": "BattleMusic",
         "communityCredit": "OwenReds",
         "id": 50,
-        "scId": 1500035
+        "scId": 1500035,
+        "rawTID": "TID_BATTLE_ROYALE_2"
     },
     {
         "name": "SurvivalTeam3",
@@ -1033,7 +1068,8 @@
         "music": "BattleMusic",
         "communityCredit": null,
         "id": 51,
-        "scId": 1500036
+        "scId": 1500036,
+        "rawTID": "TID_BATTLE_ROYALE_3"
     },
     {
         "name": "SurvivalTeam4",
@@ -1061,7 +1097,8 @@
         "music": "BattleMusic",
         "communityCredit": null,
         "id": 52,
-        "scId": 1500037
+        "scId": 1500037,
+        "rawTID": "TID_BATTLE_ROYALE_4"
     },
     {
         "name": "SurvivalTeam5",
@@ -1089,7 +1126,8 @@
         "music": "BattleMusic",
         "communityCredit": "Mordeus",
         "id": 53,
-        "scId": 1500038
+        "scId": 1500038,
+        "rawTID": "TID_BATTLE_ROYALE_5"
     },
     {
         "name": "Coop3",
@@ -1117,7 +1155,8 @@
         "music": "BattleMusic",
         "communityCredit": null,
         "id": 54,
-        "scId": 1500039
+        "scId": 1500039,
+        "rawTID": "TID_COOP_6"
     },
     {
         "name": "Gemgrab7",
@@ -1145,7 +1184,8 @@
         "music": "BattleMusic",
         "communityCredit": "DarkKnight",
         "id": 55,
-        "scId": 1500040
+        "scId": 1500040,
+        "rawTID": "TID_GOLDRUSH_7"
     },
     {
         "name": "Gemgrab10",
@@ -1173,7 +1213,8 @@
         "music": "BattleMusic",
         "communityCredit": "Lewinham",
         "id": 56,
-        "scId": 1500041
+        "scId": 1500041,
+        "rawTID": "TID_GOLDRUSH_10"
     },
     {
         "name": "Heist5",
@@ -1201,7 +1242,8 @@
         "music": "BattleMusic",
         "communityCredit": "Rushalisk",
         "id": 57,
-        "scId": 1500042
+        "scId": 1500042,
+        "rawTID": "TID_BANKHEIST_5"
     },
     {
         "name": "Survival7",
@@ -1229,7 +1271,8 @@
         "music": "BattleMusic",
         "communityCredit": null,
         "id": 58,
-        "scId": 1500043
+        "scId": 1500043,
+        "rawTID": "TID_BATTLE_ROYALE_7"
     },
     {
         "name": "SurvivalTeam6",
@@ -1257,7 +1300,8 @@
         "music": "BattleMusic",
         "communityCredit": null,
         "id": 59,
-        "scId": 1500044
+        "scId": 1500044,
+        "rawTID": "TID_BATTLE_ROYALE_6"
     },
     {
         "name": "Survival8",
@@ -1285,7 +1329,8 @@
         "music": "BattleMusic",
         "communityCredit": "Rushalisk",
         "id": 60,
-        "scId": 1500045
+        "scId": 1500045,
+        "rawTID": "TID_BATTLE_ROYALE_8"
     },
     {
         "name": "SurvivalTeam8",
@@ -1313,7 +1358,8 @@
         "music": "BattleMusic",
         "communityCredit": "Rushalisk",
         "id": 61,
-        "scId": 1500046
+        "scId": 1500046,
+        "rawTID": "TID_BATTLE_ROYALE_8"
     },
     {
         "name": "Heist6",
@@ -1341,7 +1387,8 @@
         "music": "BattleMusic",
         "communityCredit": "Mordeus",
         "id": 62,
-        "scId": 1500047
+        "scId": 1500047,
+        "rawTID": "TID_BANKHEIST_6"
     },
     {
         "name": "Gemgrab11",
@@ -1369,7 +1416,8 @@
         "music": "BattleMusic",
         "communityCredit": "FatBubblyDragon",
         "id": 63,
-        "scId": 1500048
+        "scId": 1500048,
+        "rawTID": "TID_GOLDRUSH_11"
     },
     {
         "name": "Heist7",
@@ -1397,7 +1445,8 @@
         "music": "BattleMusic",
         "communityCredit": "Schmedricks",
         "id": 64,
-        "scId": 1500049
+        "scId": 1500049,
+        "rawTID": "TID_BANKHEIST_7"
     },
     {
         "name": "Ball4",
@@ -1425,7 +1474,8 @@
         "music": "BattleMusic",
         "communityCredit": "Lex",
         "id": 65,
-        "scId": 1500050
+        "scId": 1500050,
+        "rawTID": "TID_BALL_4"
     },
     {
         "name": "Ball6",
@@ -1453,7 +1503,8 @@
         "music": "BattleMusic",
         "communityCredit": "Mordeus",
         "id": 66,
-        "scId": 1500051
+        "scId": 1500051,
+        "rawTID": "TID_BALL_6"
     },
     {
         "name": "Ball7",
@@ -1481,7 +1532,8 @@
         "music": "BattleMusic",
         "communityCredit": "Lewinham",
         "id": 67,
-        "scId": 1500052
+        "scId": 1500052,
+        "rawTID": "TID_BALL_7"
     },
     {
         "name": "Heist8",
@@ -1509,7 +1561,8 @@
         "music": "BattleMusic",
         "communityCredit": "AlexEsteAdevarat",
         "id": 68,
-        "scId": 1500053
+        "scId": 1500053,
+        "rawTID": "TID_BANKHEIST_8"
     },
     {
         "name": "Wanted9",
@@ -1537,7 +1590,8 @@
         "music": "BattleMusic",
         "communityCredit": "thelucas2000",
         "id": 69,
-        "scId": 1500054
+        "scId": 1500054,
+        "rawTID": "TID_WANTED_9"
     },
     {
         "name": "Survival12",
@@ -1565,7 +1619,8 @@
         "music": "BattleMusic",
         "communityCredit": "Tony_A9",
         "id": 70,
-        "scId": 1500055
+        "scId": 1500055,
+        "rawTID": "TID_BATTLE_ROYALE_12"
     },
     {
         "name": "SurvivalTeam12",
@@ -1593,7 +1648,8 @@
         "music": "BattleMusic",
         "communityCredit": "Tony_A9",
         "id": 71,
-        "scId": 1500056
+        "scId": 1500056,
+        "rawTID": "TID_BATTLE_ROYALE_12"
     },
     {
         "name": "Raid1",
@@ -1621,7 +1677,8 @@
         "music": "BattleMusic",
         "communityCredit": null,
         "id": 72,
-        "scId": 1500057
+        "scId": 1500057,
+        "rawTID": "TID_RAID_2"
     },
     {
         "name": "GGxmas1",
@@ -1649,7 +1706,8 @@
         "music": "Snow_brawl",
         "communityCredit": null,
         "id": 73,
-        "scId": 1500058
+        "scId": 1500058,
+        "rawTID": "TID_GOLDRUSH_XMAS_1"
     },
     {
         "name": "GGxmas2",
@@ -1677,7 +1735,8 @@
         "music": "Snow_brawl",
         "communityCredit": null,
         "id": 74,
-        "scId": 1500059
+        "scId": 1500059,
+        "rawTID": "TID_GOLDRUSH_XMAS_2"
     },
     {
         "name": "GGxmas3",
@@ -1705,7 +1764,8 @@
         "music": "Snow_brawl",
         "communityCredit": null,
         "id": 75,
-        "scId": 1500060
+        "scId": 1500060,
+        "rawTID": "TID_GOLDRUSH_XMAS_3"
     },
     {
         "name": "GGxmas4",
@@ -1733,7 +1793,8 @@
         "music": "Snow_brawl",
         "communityCredit": null,
         "id": 76,
-        "scId": 1500061
+        "scId": 1500061,
+        "rawTID": "TID_GOLDRUSH_XMAS_4"
     },
     {
         "name": "GGxmas5",
@@ -1761,7 +1822,8 @@
         "music": "Snow_brawl",
         "communityCredit": null,
         "id": 77,
-        "scId": 1500062
+        "scId": 1500062,
+        "rawTID": "TID_GOLDRUSH_XMAS_5"
     },
     {
         "name": "GGxmas6",
@@ -1789,7 +1851,8 @@
         "music": "Snow_brawl",
         "communityCredit": null,
         "id": 78,
-        "scId": 1500063
+        "scId": 1500063,
+        "rawTID": "TID_GOLDRUSH_XMAS_6"
     },
     {
         "name": "GGxmas7",
@@ -1817,7 +1880,8 @@
         "music": "Snow_brawl",
         "communityCredit": null,
         "id": 79,
-        "scId": 1500064
+        "scId": 1500064,
+        "rawTID": "TID_GOLDRUSH_XMAS_7"
     },
     {
         "name": "BossFight3",
@@ -1845,7 +1909,8 @@
         "music": "BattleMusic",
         "communityCredit": null,
         "id": 80,
-        "scId": 1500065
+        "scId": 1500065,
+        "rawTID": "TID_BOSS_6"
     },
     {
         "name": "BossFight4",
@@ -1873,7 +1938,8 @@
         "music": "BattleMusic",
         "communityCredit": null,
         "id": 81,
-        "scId": 1500066
+        "scId": 1500066,
+        "rawTID": "TID_BOSS_5"
     },
     {
         "name": "Raid2",
@@ -1901,7 +1967,8 @@
         "music": "BattleMusic",
         "communityCredit": null,
         "id": 82,
-        "scId": 1500067
+        "scId": 1500067,
+        "rawTID": "TID_RAID_3"
     },
     {
         "name": "Coop4",
@@ -1929,7 +1996,8 @@
         "music": "BattleMusic",
         "communityCredit": null,
         "id": 83,
-        "scId": 1500068
+        "scId": 1500068,
+        "rawTID": "TID_COOP_3"
     },
     {
         "name": "Heist9",
@@ -1957,7 +2025,8 @@
         "music": "BattleMusic",
         "communityCredit": null,
         "id": 84,
-        "scId": 1500069
+        "scId": 1500069,
+        "rawTID": "TID_BANKHEIST_9"
     },
     {
         "name": "Heist10",
@@ -1985,7 +2054,8 @@
         "music": "BattleMusic",
         "communityCredit": null,
         "id": 85,
-        "scId": 1500070
+        "scId": 1500070,
+        "rawTID": "TID_BANKHEIST_10"
     },
     {
         "name": "Heist11",
@@ -2013,7 +2083,8 @@
         "music": "BattleMusic",
         "communityCredit": "AeroNautikks",
         "id": 86,
-        "scId": 1500071
+        "scId": 1500071,
+        "rawTID": "TID_BANKHEIST_11"
     },
     {
         "name": "Heist12",
@@ -2041,7 +2112,8 @@
         "music": "BattleMusic",
         "communityCredit": "Zagibulenka",
         "id": 87,
-        "scId": 1500072
+        "scId": 1500072,
+        "rawTID": "TID_BANKHEIST_12"
     },
     {
         "name": "Heist13",
@@ -2069,7 +2141,8 @@
         "music": "BattleMusic",
         "communityCredit": null,
         "id": 88,
-        "scId": 1500073
+        "scId": 1500073,
+        "rawTID": "TID_BANKHEIST_13"
     },
     {
         "name": "LNYHeist1",
@@ -2097,7 +2170,8 @@
         "music": "Cny_levels",
         "communityCredit": null,
         "id": 89,
-        "scId": 1500074
+        "scId": 1500074,
+        "rawTID": "TID_BANKHEIST_9"
     },
     {
         "name": null,
@@ -2153,7 +2227,8 @@
         "music": "Cny_levels",
         "communityCredit": null,
         "id": 91,
-        "scId": 1500076
+        "scId": 1500076,
+        "rawTID": "TID_BANKHEIST_10"
     },
     {
         "name": null,
@@ -2209,7 +2284,8 @@
         "music": "Cny_levels",
         "communityCredit": "AeroNautikks",
         "id": 93,
-        "scId": 1500078
+        "scId": 1500078,
+        "rawTID": "TID_BANKHEIST_11"
     },
     {
         "name": null,
@@ -2265,7 +2341,8 @@
         "music": "Cny_levels",
         "communityCredit": "Zagibulenka",
         "id": 95,
-        "scId": 1500080
+        "scId": 1500080,
+        "rawTID": "TID_BANKHEIST_12"
     },
     {
         "name": null,
@@ -2321,7 +2398,8 @@
         "music": "Cny_levels",
         "communityCredit": null,
         "id": 97,
-        "scId": 1500082
+        "scId": 1500082,
+        "rawTID": "TID_BANKHEIST_13"
     },
     {
         "name": null,
@@ -2377,7 +2455,8 @@
         "music": "BattleMusic",
         "communityCredit": null,
         "id": 99,
-        "scId": 1500084
+        "scId": 1500084,
+        "rawTID": "TID_WANTED_9"
     },
     {
         "name": "Wanted11",
@@ -2405,7 +2484,8 @@
         "music": "BattleMusic",
         "communityCredit": null,
         "id": 100,
-        "scId": 1500085
+        "scId": 1500085,
+        "rawTID": "TID_WANTED_11"
     },
     {
         "name": "Wanted12",
@@ -2433,7 +2513,8 @@
         "music": "BattleMusic",
         "communityCredit": null,
         "id": 101,
-        "scId": 1500086
+        "scId": 1500086,
+        "rawTID": "TID_WANTED_12"
     },
     {
         "name": "Wanted13",
@@ -2461,7 +2542,8 @@
         "music": "BattleMusic",
         "communityCredit": "OwenReds",
         "id": 102,
-        "scId": 1500087
+        "scId": 1500087,
+        "rawTID": "TID_WANTED_13"
     },
     {
         "name": "Wanted14",
@@ -2489,7 +2571,8 @@
         "music": "BattleMusic",
         "communityCredit": null,
         "id": 103,
-        "scId": 1500088
+        "scId": 1500088,
+        "rawTID": "TID_WANTED_14"
     },
     {
         "name": "LNYWanted1",
@@ -2517,7 +2600,8 @@
         "music": "Cny_levels",
         "communityCredit": null,
         "id": 104,
-        "scId": 1500089
+        "scId": 1500089,
+        "rawTID": "TID_WANTED_9"
     },
     {
         "name": null,
@@ -2573,7 +2657,8 @@
         "music": "Cny_levels",
         "communityCredit": null,
         "id": 106,
-        "scId": 1500091
+        "scId": 1500091,
+        "rawTID": "TID_WANTED_11"
     },
     {
         "name": null,
@@ -2629,7 +2714,8 @@
         "music": "Cny_levels",
         "communityCredit": null,
         "id": 108,
-        "scId": 1500093
+        "scId": 1500093,
+        "rawTID": "TID_WANTED_12"
     },
     {
         "name": null,
@@ -2685,7 +2771,8 @@
         "music": "Cny_levels",
         "communityCredit": "OwenReds",
         "id": 110,
-        "scId": 1500095
+        "scId": 1500095,
+        "rawTID": "TID_WANTED_13"
     },
     {
         "name": null,
@@ -2741,7 +2828,8 @@
         "music": "Cny_levels",
         "communityCredit": null,
         "id": 112,
-        "scId": 1500097
+        "scId": 1500097,
+        "rawTID": "TID_WANTED_14"
     },
     {
         "name": null,
@@ -2797,7 +2885,8 @@
         "music": "Cny_levels",
         "communityCredit": null,
         "id": 114,
-        "scId": 1500099
+        "scId": 1500099,
+        "rawTID": "TID_GOLDRUSH_4"
     },
     {
         "name": null,
@@ -2853,7 +2942,8 @@
         "music": "Cny_levels",
         "communityCredit": null,
         "id": 116,
-        "scId": 1500101
+        "scId": 1500101,
+        "rawTID": "TID_GOLDRUSH_5"
     },
     {
         "name": null,
@@ -2909,7 +2999,8 @@
         "music": "Cny_levels",
         "communityCredit": null,
         "id": 118,
-        "scId": 1500103
+        "scId": 1500103,
+        "rawTID": "TID_GOLDRUSH_6"
     },
     {
         "name": null,
@@ -2965,7 +3056,8 @@
         "music": "BattleMusic",
         "communityCredit": null,
         "id": 120,
-        "scId": 1500105
+        "scId": 1500105,
+        "rawTID": "TID_WANTED_10"
     },
     {
         "name": "Survival10",
@@ -2993,7 +3085,8 @@
         "music": "BattleMusic",
         "communityCredit": "Binnyboy",
         "id": 121,
-        "scId": 1500106
+        "scId": 1500106,
+        "rawTID": "TID_BATTLE_ROYALE_10"
     },
     {
         "name": "SurvivalTeam10",
@@ -3021,7 +3114,8 @@
         "music": "BattleMusic",
         "communityCredit": "Binnyboy",
         "id": 122,
-        "scId": 1500107
+        "scId": 1500107,
+        "rawTID": "TID_BATTLE_ROYALE_10"
     },
     {
         "name": "Survival13",
@@ -3049,7 +3143,8 @@
         "music": "BattleMusic",
         "communityCredit": null,
         "id": 123,
-        "scId": 1500108
+        "scId": 1500108,
+        "rawTID": "TID_BATTLE_ROYALE_D2"
     },
     {
         "name": "SurvivalTeam13",
@@ -3077,6 +3172,7 @@
         "music": "BattleMusic",
         "communityCredit": null,
         "id": 124,
-        "scId": 1500109
+        "scId": 1500109,
+        "rawTID": "TID_BATTLE_ROYALE_D2"
     }
 ]

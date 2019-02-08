@@ -6490,7 +6490,8 @@
             "isPromotion": null,
             "coins": null,
             "refundGemValue": 30,
-            "id": 2
+            "id": 2,
+            "rawTID": "TID_DIAMOND_PACK_1"
         },
         {
             "name": "com.supercell.laser.gempack1",
@@ -6512,7 +6513,8 @@
             "isPromotion": null,
             "coins": null,
             "refundGemValue": 80,
-            "id": 3
+            "id": 3,
+            "rawTID": "TID_DIAMOND_PACK_2"
         },
         {
             "name": "com.supercell.laser.gempack2",
@@ -6534,7 +6536,8 @@
             "isPromotion": null,
             "coins": null,
             "refundGemValue": 170,
-            "id": 4
+            "id": 4,
+            "rawTID": "TID_DIAMOND_PACK_3"
         },
         {
             "name": "com.supercell.laser.gempack3",
@@ -6556,7 +6559,8 @@
             "isPromotion": null,
             "coins": null,
             "refundGemValue": 360,
-            "id": 5
+            "id": 5,
+            "rawTID": "TID_DIAMOND_PACK_4"
         },
         {
             "name": "com.supercell.laser.gempack4",
@@ -6578,7 +6582,8 @@
             "isPromotion": null,
             "coins": null,
             "refundGemValue": 950,
-            "id": 6
+            "id": 6,
+            "rawTID": "TID_DIAMOND_PACK_5"
         },
         {
             "name": "com.supercell.laser.gempack5",
@@ -6600,7 +6605,8 @@
             "isPromotion": null,
             "coins": null,
             "refundGemValue": 2000,
-            "id": 7
+            "id": 7,
+            "rawTID": "TID_DIAMOND_PACK_6"
         },
         {
             "name": "com.supercell.laser.starterpack1",
@@ -6622,7 +6628,8 @@
             "isPromotion": null,
             "coins": null,
             "refundGemValue": 160,
-            "id": 8
+            "id": 8,
+            "rawTID": "TID_STARTER_PACK_1"
         },
         {
             "name": "com.supercell.laser.starterpack2",
@@ -6644,7 +6651,8 @@
             "isPromotion": null,
             "coins": null,
             "refundGemValue": 250,
-            "id": 9
+            "id": 9,
+            "rawTID": "TID_STARTER_PACK_2"
         },
         {
             "name": "com.supercell.laser.starterpack3",
@@ -6666,7 +6674,8 @@
             "isPromotion": null,
             "coins": null,
             "refundGemValue": 490,
-            "id": 10
+            "id": 10,
+            "rawTID": "TID_STARTER_PACK_3"
         },
         {
             "name": "com.supercell.laser.starterpack4",
@@ -6688,7 +6697,8 @@
             "isPromotion": null,
             "coins": null,
             "refundGemValue": 760,
-            "id": 11
+            "id": 11,
+            "rawTID": "TID_STARTER_PACK_4"
         },
         {
             "name": "com.supercell.laser.xmas2018pack",
@@ -6710,7 +6720,8 @@
             "isPromotion": null,
             "coins": null,
             "refundGemValue": 330,
-            "id": 12
+            "id": 12,
+            "rawTID": "TID_IAP_XMAS2018_PACK"
         },
         {
             "name": "com.supercell.laser.starterpackx",
@@ -6732,7 +6743,8 @@
             "isPromotion": null,
             "coins": null,
             "refundGemValue": 330,
-            "id": 13
+            "id": 13,
+            "rawTID": "TID_STARTER_PACK_0"
         },
         {
             "name": "com.supercell.laser.starterpack5",
@@ -6754,7 +6766,8 @@
             "isPromotion": null,
             "coins": 2000,
             "refundGemValue": 493,
-            "id": 14
+            "id": 14,
+            "rawTID": "TID_STARTER_PACK_5"
         },
         {
             "name": "com.supercell.laser.starterpack6",
@@ -6776,7 +6789,8 @@
             "isPromotion": null,
             "coins": 3500,
             "refundGemValue": 738,
-            "id": 15
+            "id": 15,
+            "rawTID": "TID_STARTER_PACK_6"
         },
         {
             "name": "com.supercell.laser.starterpack7",
@@ -6798,7 +6812,8 @@
             "isPromotion": null,
             "coins": 4000,
             "refundGemValue": 666,
-            "id": 16
+            "id": 16,
+            "rawTID": "TID_STARTER_PACK_7"
         },
         {
             "name": "com.supercell.laser.lny2019pack",
@@ -6820,7 +6835,8 @@
             "isPromotion": null,
             "coins": 1500,
             "refundGemValue": 505,
-            "id": 17
+            "id": 17,
+            "rawTID": "TID_IAP_LNY2019_PACK"
         },
         {
             "name": "com.supercell.laser.march2019pack",
@@ -6842,7 +6858,8 @@
             "isPromotion": null,
             "coins": 1111,
             "refundGemValue": 320,
-            "id": 18
+            "id": 18,
+            "rawTID": "TID_IAP_MARCH2019_PACK"
         }
     ],
     "client_globals": [
@@ -38070,7 +38087,8 @@
             "minXPLevel": 1,
             "maxXPLevel": 40,
             "fileName": null,
-            "exportName": null
+            "exportName": null,
+            "rawTID": "TID_HINT_0"
         },
         {
             "name": 2,
@@ -38078,7 +38096,8 @@
             "minXPLevel": 1,
             "maxXPLevel": 40,
             "fileName": null,
-            "exportName": null
+            "exportName": null,
+            "rawTID": "TID_HINT_1"
         },
         {
             "name": 3,
@@ -38086,7 +38105,8 @@
             "minXPLevel": 1,
             "maxXPLevel": 40,
             "fileName": null,
-            "exportName": null
+            "exportName": null,
+            "rawTID": "TID_HINT_2"
         },
         {
             "name": 4,
@@ -38094,7 +38114,8 @@
             "minXPLevel": 1,
             "maxXPLevel": 40,
             "fileName": null,
-            "exportName": null
+            "exportName": null,
+            "rawTID": "TID_HINT_3"
         },
         {
             "name": 5,
@@ -38102,7 +38123,8 @@
             "minXPLevel": 1,
             "maxXPLevel": 40,
             "fileName": null,
-            "exportName": null
+            "exportName": null,
+            "rawTID": "TID_HINT_4"
         },
         {
             "name": 6,
@@ -38110,7 +38132,8 @@
             "minXPLevel": 3,
             "maxXPLevel": 999,
             "fileName": null,
-            "exportName": null
+            "exportName": null,
+            "rawTID": "TID_HINT_5"
         },
         {
             "name": 7,
@@ -38118,7 +38141,8 @@
             "minXPLevel": 3,
             "maxXPLevel": 999,
             "fileName": null,
-            "exportName": null
+            "exportName": null,
+            "rawTID": "TID_HINT_6"
         },
         {
             "name": 8,
@@ -38126,7 +38150,8 @@
             "minXPLevel": 20,
             "maxXPLevel": 999,
             "fileName": null,
-            "exportName": null
+            "exportName": null,
+            "rawTID": "TID_HINT_7"
         },
         {
             "name": 9,
@@ -38134,7 +38159,8 @@
             "minXPLevel": 999,
             "maxXPLevel": 999,
             "fileName": null,
-            "exportName": null
+            "exportName": null,
+            "rawTID": "TID_HINT_8"
         },
         {
             "name": 10,
@@ -38142,7 +38168,8 @@
             "minXPLevel": 20,
             "maxXPLevel": 999,
             "fileName": null,
-            "exportName": null
+            "exportName": null,
+            "rawTID": "TID_HINT_9"
         },
         {
             "name": 11,
@@ -38150,7 +38177,8 @@
             "minXPLevel": 1,
             "maxXPLevel": 40,
             "fileName": null,
-            "exportName": null
+            "exportName": null,
+            "rawTID": "TID_HINT_10"
         },
         {
             "name": 12,
@@ -38158,7 +38186,8 @@
             "minXPLevel": 1,
             "maxXPLevel": 40,
             "fileName": null,
-            "exportName": null
+            "exportName": null,
+            "rawTID": "TID_HINT_11"
         },
         {
             "name": 13,
@@ -38166,7 +38195,8 @@
             "minXPLevel": 3,
             "maxXPLevel": 60,
             "fileName": null,
-            "exportName": null
+            "exportName": null,
+            "rawTID": "TID_HINT_12"
         },
         {
             "name": 14,
@@ -38174,7 +38204,8 @@
             "minXPLevel": 3,
             "maxXPLevel": 60,
             "fileName": null,
-            "exportName": null
+            "exportName": null,
+            "rawTID": "TID_HINT_13"
         },
         {
             "name": 15,
@@ -38182,7 +38213,8 @@
             "minXPLevel": 3,
             "maxXPLevel": 60,
             "fileName": null,
-            "exportName": null
+            "exportName": null,
+            "rawTID": "TID_HINT_14"
         },
         {
             "name": 16,
@@ -38190,7 +38222,8 @@
             "minXPLevel": 3,
             "maxXPLevel": 60,
             "fileName": null,
-            "exportName": null
+            "exportName": null,
+            "rawTID": "TID_HINT_15"
         },
         {
             "name": 17,
@@ -38198,7 +38231,8 @@
             "minXPLevel": 3,
             "maxXPLevel": 60,
             "fileName": null,
-            "exportName": null
+            "exportName": null,
+            "rawTID": "TID_HINT_16"
         },
         {
             "name": 18,
@@ -38206,7 +38240,8 @@
             "minXPLevel": 3,
             "maxXPLevel": 60,
             "fileName": null,
-            "exportName": null
+            "exportName": null,
+            "rawTID": "TID_HINT_17"
         },
         {
             "name": 19,
@@ -38214,7 +38249,8 @@
             "minXPLevel": 3,
             "maxXPLevel": 60,
             "fileName": null,
-            "exportName": null
+            "exportName": null,
+            "rawTID": "TID_HINT_18"
         },
         {
             "name": 20,
@@ -38222,7 +38258,8 @@
             "minXPLevel": 3,
             "maxXPLevel": 60,
             "fileName": null,
-            "exportName": null
+            "exportName": null,
+            "rawTID": "TID_HINT_19"
         },
         {
             "name": 21,
@@ -38230,7 +38267,8 @@
             "minXPLevel": 3,
             "maxXPLevel": 60,
             "fileName": null,
-            "exportName": null
+            "exportName": null,
+            "rawTID": "TID_HINT_20"
         },
         {
             "name": 22,
@@ -38238,7 +38276,8 @@
             "minXPLevel": 1,
             "maxXPLevel": 40,
             "fileName": null,
-            "exportName": null
+            "exportName": null,
+            "rawTID": "TID_HINT_21"
         },
         {
             "name": 23,
@@ -38246,7 +38285,8 @@
             "minXPLevel": 1,
             "maxXPLevel": 40,
             "fileName": null,
-            "exportName": null
+            "exportName": null,
+            "rawTID": "TID_HINT_22"
         },
         {
             "name": 24,
@@ -38254,7 +38294,8 @@
             "minXPLevel": 3,
             "maxXPLevel": 60,
             "fileName": null,
-            "exportName": null
+            "exportName": null,
+            "rawTID": "TID_HINT_23"
         },
         {
             "name": 25,
@@ -38262,7 +38303,8 @@
             "minXPLevel": 3,
             "maxXPLevel": 60,
             "fileName": null,
-            "exportName": null
+            "exportName": null,
+            "rawTID": "TID_HINT_24"
         },
         {
             "name": 26,
@@ -38270,7 +38312,8 @@
             "minXPLevel": 3,
             "maxXPLevel": 60,
             "fileName": null,
-            "exportName": null
+            "exportName": null,
+            "rawTID": "TID_HINT_25"
         },
         {
             "name": 27,
@@ -38278,7 +38321,8 @@
             "minXPLevel": 20,
             "maxXPLevel": 999,
             "fileName": null,
-            "exportName": null
+            "exportName": null,
+            "rawTID": "TID_HINT_26"
         },
         {
             "name": 28,
@@ -38286,7 +38330,8 @@
             "minXPLevel": 3,
             "maxXPLevel": 999,
             "fileName": null,
-            "exportName": null
+            "exportName": null,
+            "rawTID": "TID_HINT_27"
         },
         {
             "name": 29,
@@ -38294,7 +38339,8 @@
             "minXPLevel": 3,
             "maxXPLevel": 999,
             "fileName": null,
-            "exportName": null
+            "exportName": null,
+            "rawTID": "TID_HINT_28"
         },
         {
             "name": 30,
@@ -38302,7 +38348,8 @@
             "minXPLevel": 3,
             "maxXPLevel": 60,
             "fileName": null,
-            "exportName": null
+            "exportName": null,
+            "rawTID": "TID_HINT_29"
         },
         {
             "name": 31,
@@ -38310,7 +38357,8 @@
             "minXPLevel": 3,
             "maxXPLevel": 999,
             "fileName": null,
-            "exportName": null
+            "exportName": null,
+            "rawTID": "TID_HINT_30"
         },
         {
             "name": 32,
@@ -38318,7 +38366,8 @@
             "minXPLevel": 20,
             "maxXPLevel": 999,
             "fileName": null,
-            "exportName": null
+            "exportName": null,
+            "rawTID": "TID_HINT_31"
         },
         {
             "name": 33,
@@ -38326,7 +38375,8 @@
             "minXPLevel": 3,
             "maxXPLevel": 60,
             "fileName": null,
-            "exportName": null
+            "exportName": null,
+            "rawTID": "TID_HINT_32"
         },
         {
             "name": 34,
@@ -38334,7 +38384,8 @@
             "minXPLevel": 3,
             "maxXPLevel": 999,
             "fileName": null,
-            "exportName": null
+            "exportName": null,
+            "rawTID": "TID_HINT_33"
         },
         {
             "name": 35,
@@ -38342,7 +38393,8 @@
             "minXPLevel": 3,
             "maxXPLevel": 999,
             "fileName": null,
-            "exportName": null
+            "exportName": null,
+            "rawTID": "TID_HINT_34"
         },
         {
             "name": 36,
@@ -38350,7 +38402,8 @@
             "minXPLevel": 3,
             "maxXPLevel": 999,
             "fileName": null,
-            "exportName": null
+            "exportName": null,
+            "rawTID": "TID_HINT_35"
         },
         {
             "name": 37,
@@ -38358,7 +38411,8 @@
             "minXPLevel": 3,
             "maxXPLevel": 999,
             "fileName": null,
-            "exportName": null
+            "exportName": null,
+            "rawTID": "TID_HINT_36"
         },
         {
             "name": 38,
@@ -38366,7 +38420,8 @@
             "minXPLevel": 999,
             "maxXPLevel": 999,
             "fileName": null,
-            "exportName": null
+            "exportName": null,
+            "rawTID": "TID_HINT_37"
         },
         {
             "name": 39,
@@ -38374,7 +38429,8 @@
             "minXPLevel": 7,
             "maxXPLevel": 999,
             "fileName": null,
-            "exportName": null
+            "exportName": null,
+            "rawTID": "TID_HINT_38"
         },
         {
             "name": 40,
@@ -38382,7 +38438,8 @@
             "minXPLevel": 7,
             "maxXPLevel": 999,
             "fileName": null,
-            "exportName": null
+            "exportName": null,
+            "rawTID": "TID_HINT_39"
         },
         {
             "name": 41,
@@ -38390,7 +38447,8 @@
             "minXPLevel": 3,
             "maxXPLevel": 999,
             "fileName": null,
-            "exportName": null
+            "exportName": null,
+            "rawTID": "TID_HINT_40"
         },
         {
             "name": 42,
@@ -38398,7 +38456,8 @@
             "minXPLevel": 7,
             "maxXPLevel": 999,
             "fileName": null,
-            "exportName": null
+            "exportName": null,
+            "rawTID": "TID_HINT_41"
         },
         {
             "name": 43,
@@ -38406,7 +38465,8 @@
             "minXPLevel": 1,
             "maxXPLevel": 40,
             "fileName": null,
-            "exportName": null
+            "exportName": null,
+            "rawTID": "TID_HINT_42"
         }
     ],
     "links": [
@@ -39050,7 +39110,8 @@
             "canKick": false,
             "canBePromotedToLeader": null,
             "promoteSkill": 0,
-            "id": 26
+            "id": 26,
+            "rawTID": "TID_ALLIANCE_ROLE_MEMBER"
         },
         {
             "name": "Leader",
@@ -39063,7 +39124,8 @@
             "canKick": true,
             "canBePromotedToLeader": true,
             "promoteSkill": 2,
-            "id": 27
+            "id": 27,
+            "rawTID": "TID_ALLIANCE_ROLE_LEADER"
         },
         {
             "name": "Elder",
@@ -39076,7 +39138,8 @@
             "canKick": true,
             "canBePromotedToLeader": null,
             "promoteSkill": 0,
-            "id": 28
+            "id": 28,
+            "rawTID": "TID_ALLIANCE_ROLE_ELDER"
         },
         {
             "name": "Co-leader",
@@ -39089,7 +39152,8 @@
             "canKick": true,
             "canBePromotedToLeader": true,
             "promoteSkill": 2,
-            "id": 29
+            "id": 29,
+            "rawTID": "TID_ALLIANCE_ROLE_CO_LEADER"
         }
     ],
     "area_effects": [
@@ -40403,7 +40467,8 @@
             "map": "Pvp4",
             "boss": "Boss2",
             "bossLevel": 1,
-            "id": 22
+            "id": 22,
+            "rawTID": "TID_BOSS_1"
         },
         {
             "name": "boss2",
@@ -40417,7 +40482,8 @@
             "map": "Pvp4",
             "boss": "Boss1",
             "bossLevel": 5,
-            "id": 23
+            "id": 23,
+            "rawTID": "TID_BOSS_2"
         },
         {
             "name": "boss3",
@@ -40431,7 +40497,8 @@
             "map": "Pvp4",
             "boss": "Boss2",
             "bossLevel": 9,
-            "id": 24
+            "id": 24,
+            "rawTID": "TID_BOSS_3"
         },
         {
             "name": "boss4",
@@ -40445,7 +40512,8 @@
             "map": "Pvp4",
             "boss": "Boss1",
             "bossLevel": 12,
-            "id": 25
+            "id": 25,
+            "rawTID": "TID_BOSS_4"
         },
         {
             "name": "boss5",
@@ -40459,7 +40527,8 @@
             "map": "Pvp4",
             "boss": "Boss2",
             "bossLevel": 15,
-            "id": 26
+            "id": 26,
+            "rawTID": "TID_BOSS_5"
         },
         {
             "name": "boss6",
@@ -40473,7 +40542,8 @@
             "map": "Pvp4",
             "boss": "Boss1",
             "bossLevel": 18,
-            "id": 27
+            "id": 27,
+            "rawTID": "TID_BOSS_6"
         },
         {
             "name": "boss7",
@@ -40487,7 +40557,8 @@
             "map": "Pvp4",
             "boss": "Boss2",
             "bossLevel": 20,
-            "id": 28
+            "id": 28,
+            "rawTID": "TID_BOSS_7"
         }
     ],
     "campaign": [
@@ -40510,7 +40581,8 @@
             "numTowers": 0,
             "towerLevel": 1,
             "requiredStars": 3,
-            "id": 21
+            "id": 21,
+            "rawTID": "TID_CAMPAIGN_1"
         },
         {
             "name": "Campaign_tutorial_2",
@@ -40531,7 +40603,8 @@
             "numTowers": 0,
             "towerLevel": 1,
             "requiredStars": 4,
-            "id": 22
+            "id": 22,
+            "rawTID": "TID_CAMPAIGN_1"
         },
         {
             "name": "Campaign_tutorial_3",
@@ -40552,7 +40625,8 @@
             "numTowers": 0,
             "towerLevel": 1,
             "requiredStars": 5,
-            "id": 23
+            "id": 23,
+            "rawTID": "TID_CAMPAIGN_1"
         },
         {
             "name": "Campaign_1",
@@ -40573,7 +40647,8 @@
             "numTowers": 2,
             "towerLevel": 4,
             "requiredStars": 10,
-            "id": 24
+            "id": 24,
+            "rawTID": "TID_CAMPAIGN_1"
         },
         {
             "name": "Campaign_2",
@@ -40594,7 +40669,8 @@
             "numTowers": 3,
             "towerLevel": 3,
             "requiredStars": 9,
-            "id": 25
+            "id": 25,
+            "rawTID": "TID_CAMPAIGN_1"
         },
         {
             "name": "Campaign_3",
@@ -40615,7 +40691,8 @@
             "numTowers": 0,
             "towerLevel": 5,
             "requiredStars": 7,
-            "id": 26
+            "id": 26,
+            "rawTID": "TID_CAMPAIGN_1"
         },
         {
             "name": "Campaign_4",
@@ -40636,7 +40713,8 @@
             "numTowers": 0,
             "towerLevel": 1,
             "requiredStars": 6,
-            "id": 27
+            "id": 27,
+            "rawTID": "TID_CAMPAIGN_1"
         },
         {
             "name": "Campaign_4_1",
@@ -40657,7 +40735,8 @@
             "numTowers": 2,
             "towerLevel": 6,
             "requiredStars": 12,
-            "id": 28
+            "id": 28,
+            "rawTID": "TID_CAMPAIGN_1"
         },
         {
             "name": "Campaign_5",
@@ -40678,7 +40757,8 @@
             "numTowers": 3,
             "towerLevel": 6,
             "requiredStars": 12,
-            "id": 29
+            "id": 29,
+            "rawTID": "TID_CAMPAIGN_1"
         },
         {
             "name": "Campaign_6",
@@ -40699,7 +40779,8 @@
             "numTowers": 0,
             "towerLevel": 8,
             "requiredStars": 10,
-            "id": 30
+            "id": 30,
+            "rawTID": "TID_CAMPAIGN_1"
         },
         {
             "name": "Campaign_7",
@@ -40720,7 +40801,8 @@
             "numTowers": 0,
             "towerLevel": 3,
             "requiredStars": 9,
-            "id": 31
+            "id": 31,
+            "rawTID": "TID_CAMPAIGN_1"
         },
         {
             "name": "Campaign_8",
@@ -40741,7 +40823,8 @@
             "numTowers": 2,
             "towerLevel": 8,
             "requiredStars": 14,
-            "id": 32
+            "id": 32,
+            "rawTID": "TID_CAMPAIGN_1"
         },
         {
             "name": "Campaign_9",
@@ -40762,7 +40845,8 @@
             "numTowers": 3,
             "towerLevel": 8,
             "requiredStars": 14,
-            "id": 33
+            "id": 33,
+            "rawTID": "TID_CAMPAIGN_1"
         },
         {
             "name": "Campaign_10",
@@ -40783,7 +40867,8 @@
             "numTowers": 0,
             "towerLevel": 9,
             "requiredStars": 11,
-            "id": 34
+            "id": 34,
+            "rawTID": "TID_CAMPAIGN_1"
         },
         {
             "name": "Campaign_11",
@@ -40804,7 +40889,8 @@
             "numTowers": 0,
             "towerLevel": 4,
             "requiredStars": 10,
-            "id": 35
+            "id": 35,
+            "rawTID": "TID_CAMPAIGN_1"
         },
         {
             "name": "Campaign_12",
@@ -40825,7 +40911,8 @@
             "numTowers": 2,
             "towerLevel": 10,
             "requiredStars": 16,
-            "id": 36
+            "id": 36,
+            "rawTID": "TID_CAMPAIGN_1"
         },
         {
             "name": "Campaign_13",
@@ -40846,7 +40933,8 @@
             "numTowers": 3,
             "towerLevel": 9,
             "requiredStars": 15,
-            "id": 37
+            "id": 37,
+            "rawTID": "TID_CAMPAIGN_1"
         },
         {
             "name": "Campaign_14",
@@ -40867,7 +40955,8 @@
             "numTowers": 0,
             "towerLevel": 10,
             "requiredStars": 12,
-            "id": 38
+            "id": 38,
+            "rawTID": "TID_CAMPAIGN_1"
         },
         {
             "name": "Campaign_15",
@@ -40888,7 +40977,8 @@
             "numTowers": 0,
             "towerLevel": 6,
             "requiredStars": 12,
-            "id": 39
+            "id": 39,
+            "rawTID": "TID_CAMPAIGN_1"
         },
         {
             "name": "Campaign_16",
@@ -40909,7 +40999,8 @@
             "numTowers": 2,
             "towerLevel": 11,
             "requiredStars": 17,
-            "id": 40
+            "id": 40,
+            "rawTID": "TID_CAMPAIGN_1"
         },
         {
             "name": "Campaign_17",
@@ -40930,7 +41021,8 @@
             "numTowers": 3,
             "towerLevel": 10,
             "requiredStars": 16,
-            "id": 41
+            "id": 41,
+            "rawTID": "TID_CAMPAIGN_1"
         },
         {
             "name": "Campaign_18",
@@ -40951,7 +41043,8 @@
             "numTowers": 0,
             "towerLevel": 12,
             "requiredStars": 14,
-            "id": 42
+            "id": 42,
+            "rawTID": "TID_CAMPAIGN_1"
         },
         {
             "name": "Campaign_19",
@@ -40972,7 +41065,8 @@
             "numTowers": 0,
             "towerLevel": 6,
             "requiredStars": 12,
-            "id": 43
+            "id": 43,
+            "rawTID": "TID_CAMPAIGN_1"
         },
         {
             "name": "Campaign_20",
@@ -40993,7 +41087,8 @@
             "numTowers": 2,
             "towerLevel": 12,
             "requiredStars": 18,
-            "id": 44
+            "id": 44,
+            "rawTID": "TID_CAMPAIGN_1"
         },
         {
             "name": "Campaign_21",
@@ -41014,7 +41109,8 @@
             "numTowers": 3,
             "towerLevel": 11,
             "requiredStars": 17,
-            "id": 45
+            "id": 45,
+            "rawTID": "TID_CAMPAIGN_1"
         },
         {
             "name": "Campaign_22",
@@ -41035,7 +41131,8 @@
             "numTowers": 0,
             "towerLevel": 12,
             "requiredStars": 14,
-            "id": 46
+            "id": 46,
+            "rawTID": "TID_CAMPAIGN_1"
         },
         {
             "name": "Campaign_23",
@@ -41056,7 +41153,8 @@
             "numTowers": 0,
             "towerLevel": 8,
             "requiredStars": 14,
-            "id": 47
+            "id": 47,
+            "rawTID": "TID_CAMPAIGN_1"
         },
         {
             "name": "Campaign_24",
@@ -41077,7 +41175,8 @@
             "numTowers": 2,
             "towerLevel": 13,
             "requiredStars": 19,
-            "id": 48
+            "id": 48,
+            "rawTID": "TID_CAMPAIGN_1"
         },
         {
             "name": "Campaign_25",
@@ -41098,7 +41197,8 @@
             "numTowers": 3,
             "towerLevel": 12,
             "requiredStars": 18,
-            "id": 49
+            "id": 49,
+            "rawTID": "TID_CAMPAIGN_1"
         },
         {
             "name": "Campaign_26",
@@ -41119,7 +41219,8 @@
             "numTowers": 0,
             "towerLevel": 14,
             "requiredStars": 16,
-            "id": 50
+            "id": 50,
+            "rawTID": "TID_CAMPAIGN_1"
         },
         {
             "name": "Campaign_27",
@@ -41140,7 +41241,8 @@
             "numTowers": 0,
             "towerLevel": 8,
             "requiredStars": 14,
-            "id": 51
+            "id": 51,
+            "rawTID": "TID_CAMPAIGN_1"
         },
         {
             "name": "Campaign_28",
@@ -41161,7 +41263,8 @@
             "numTowers": 2,
             "towerLevel": 14,
             "requiredStars": 20,
-            "id": 52
+            "id": 52,
+            "rawTID": "TID_CAMPAIGN_1"
         },
         {
             "name": "Campaign_29",
@@ -41182,7 +41285,8 @@
             "numTowers": 3,
             "towerLevel": 13,
             "requiredStars": 19,
-            "id": 53
+            "id": 53,
+            "rawTID": "TID_CAMPAIGN_1"
         },
         {
             "name": "Campaign_30",
@@ -41203,7 +41307,8 @@
             "numTowers": 0,
             "towerLevel": 14,
             "requiredStars": 16,
-            "id": 54
+            "id": 54,
+            "rawTID": "TID_CAMPAIGN_1"
         },
         {
             "name": "Campaign_31",
@@ -41224,7 +41329,8 @@
             "numTowers": 0,
             "towerLevel": 9,
             "requiredStars": 15,
-            "id": 55
+            "id": 55,
+            "rawTID": "TID_CAMPAIGN_1"
         },
         {
             "name": "Campaign_32",
@@ -41245,7 +41351,8 @@
             "numTowers": 2,
             "towerLevel": 15,
             "requiredStars": 21,
-            "id": 56
+            "id": 56,
+            "rawTID": "TID_CAMPAIGN_1"
         },
         {
             "name": "Campaign_33",
@@ -41266,7 +41373,8 @@
             "numTowers": 3,
             "towerLevel": 14,
             "requiredStars": 20,
-            "id": 57
+            "id": 57,
+            "rawTID": "TID_CAMPAIGN_1"
         },
         {
             "name": "Campaign_34",
@@ -41287,7 +41395,8 @@
             "numTowers": 0,
             "towerLevel": 15,
             "requiredStars": 17,
-            "id": 58
+            "id": 58,
+            "rawTID": "TID_CAMPAIGN_1"
         },
         {
             "name": "Campaign_35",
@@ -41308,7 +41417,8 @@
             "numTowers": 0,
             "towerLevel": 10,
             "requiredStars": 16,
-            "id": 59
+            "id": 59,
+            "rawTID": "TID_CAMPAIGN_1"
         },
         {
             "name": "Campaign_36",
@@ -41329,7 +41439,8 @@
             "numTowers": 2,
             "towerLevel": 16,
             "requiredStars": 22,
-            "id": 60
+            "id": 60,
+            "rawTID": "TID_CAMPAIGN_1"
         },
         {
             "name": "Campaign_37",
@@ -41350,7 +41461,8 @@
             "numTowers": 3,
             "towerLevel": 14,
             "requiredStars": 20,
-            "id": 61
+            "id": 61,
+            "rawTID": "TID_CAMPAIGN_1"
         },
         {
             "name": "Campaign_38",
@@ -41371,7 +41483,8 @@
             "numTowers": 0,
             "towerLevel": 16,
             "requiredStars": 18,
-            "id": 62
+            "id": 62,
+            "rawTID": "TID_CAMPAIGN_1"
         },
         {
             "name": "Campaign_39",
@@ -41392,7 +41505,8 @@
             "numTowers": 0,
             "towerLevel": 11,
             "requiredStars": 17,
-            "id": 63
+            "id": 63,
+            "rawTID": "TID_CAMPAIGN_1"
         },
         {
             "name": "Campaign_40",
@@ -41413,7 +41527,8 @@
             "numTowers": 4,
             "towerLevel": 15,
             "requiredStars": 21,
-            "id": 64
+            "id": 64,
+            "rawTID": "TID_CAMPAIGN_1"
         },
         {
             "name": "Campaign_41",
@@ -41434,7 +41549,8 @@
             "numTowers": 4,
             "towerLevel": 15,
             "requiredStars": 22,
-            "id": 65
+            "id": 65,
+            "rawTID": "TID_CAMPAIGN_1"
         },
         {
             "name": "Campaign_42",
@@ -41455,7 +41571,8 @@
             "numTowers": 4,
             "towerLevel": 15,
             "requiredStars": 23,
-            "id": 66
+            "id": 66,
+            "rawTID": "TID_CAMPAIGN_1"
         },
         {
             "name": "Campaign_43",
@@ -41476,7 +41593,8 @@
             "numTowers": 4,
             "towerLevel": 15,
             "requiredStars": 24,
-            "id": 67
+            "id": 67,
+            "rawTID": "TID_CAMPAIGN_1"
         },
         {
             "name": "Campaign_44",
@@ -41497,7 +41615,8 @@
             "numTowers": 4,
             "towerLevel": 15,
             "requiredStars": 25,
-            "id": 68
+            "id": 68,
+            "rawTID": "TID_CAMPAIGN_1"
         },
         {
             "name": "Campaign_45",
@@ -41518,7 +41637,8 @@
             "numTowers": 4,
             "towerLevel": 15,
             "requiredStars": 26,
-            "id": 69
+            "id": 69,
+            "rawTID": "TID_CAMPAIGN_1"
         },
         {
             "name": "Campaign_46",
@@ -41539,7 +41659,8 @@
             "numTowers": 4,
             "towerLevel": 15,
             "requiredStars": 27,
-            "id": 70
+            "id": 70,
+            "rawTID": "TID_CAMPAIGN_1"
         },
         {
             "name": "Campaign_47",
@@ -41560,7 +41681,8 @@
             "numTowers": 4,
             "towerLevel": 15,
             "requiredStars": 27,
-            "id": 71
+            "id": 71,
+            "rawTID": "TID_CAMPAIGN_1"
         },
         {
             "name": "Campaign_48",
@@ -41581,7 +41703,8 @@
             "numTowers": 4,
             "towerLevel": 15,
             "requiredStars": 27,
-            "id": 72
+            "id": 72,
+            "rawTID": "TID_CAMPAIGN_1"
         },
         {
             "name": "Campaign_49",
@@ -41602,7 +41725,8 @@
             "numTowers": 4,
             "towerLevel": 15,
             "requiredStars": 27,
-            "id": 73
+            "id": 73,
+            "rawTID": "TID_CAMPAIGN_1"
         },
         {
             "name": "Campaign_50",
@@ -41623,7 +41747,8 @@
             "numTowers": 4,
             "towerLevel": 15,
             "requiredStars": 27,
-            "id": 74
+            "id": 74,
+            "rawTID": "TID_CAMPAIGN_1"
         }
     ],
     "cards": [
@@ -41665,7 +41790,9 @@
             "powerIcon1ExportName": "genicon_health",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 24
+            "id": 24,
+            "rawTID": "TID_ARMOR",
+            "rawPowerNumberTID": "TID_ARMOR_STAT"
         },
         {
             "name": "ShotgunGirl_abi",
@@ -41685,7 +41812,9 @@
             "powerIcon1ExportName": "genicon_damage",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 25
+            "id": 25,
+            "rawTID": "TID_LONG_RANGE_SHOTGUN",
+            "rawPowerNumberTID": "TID_STAT_DAMAGE_PER_SHELL"
         },
         {
             "name": "ShotgunGirl_ulti",
@@ -41705,7 +41834,9 @@
             "powerIcon1ExportName": "genicon_damage",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 26
+            "id": 26,
+            "rawTID": "TID_MEGA_BLASH_ULTI",
+            "rawPowerNumberTID": "TID_STAT_DAMAGE_PER_SHELL"
         },
         {
             "name": "Gunslinger_unlock",
@@ -41745,7 +41876,9 @@
             "powerIcon1ExportName": "genicon_health",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 28
+            "id": 28,
+            "rawTID": "TID_ARMOR",
+            "rawPowerNumberTID": "TID_ARMOR_STAT"
         },
         {
             "name": "Gunslinger_abi",
@@ -41765,7 +41898,9 @@
             "powerIcon1ExportName": "genicon_damage",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 29
+            "id": 29,
+            "rawTID": "TID_RAPID_FIRE",
+            "rawPowerNumberTID": "TID_STAT_DAMAGE_PER_SHOT"
         },
         {
             "name": "Gunslinger_ulti",
@@ -41785,7 +41920,9 @@
             "powerIcon1ExportName": "genicon_damage",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 30
+            "id": 30,
+            "rawTID": "TID_RAPID_FIRE_ULTI",
+            "rawPowerNumberTID": "TID_STAT_DAMAGE_PER_SHOT"
         },
         {
             "name": "BullDude_unlock",
@@ -41825,7 +41962,9 @@
             "powerIcon1ExportName": "genicon_health",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 32
+            "id": 32,
+            "rawTID": "TID_ARMOR",
+            "rawPowerNumberTID": "TID_ARMOR_STAT"
         },
         {
             "name": "BullDude_abi",
@@ -41845,7 +41984,9 @@
             "powerIcon1ExportName": "genicon_damage",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 33
+            "id": 33,
+            "rawTID": "TID_SHOTGUN_BLAST",
+            "rawPowerNumberTID": "TID_STAT_DAMAGE_PER_SHELL"
         },
         {
             "name": "BullDude_ulti",
@@ -41865,7 +42006,9 @@
             "powerIcon1ExportName": "genicon_damage",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 34
+            "id": 34,
+            "rawTID": "TID_CHARGE",
+            "rawPowerNumberTID": "TID_STAT_DAMAGE"
         },
         {
             "name": "RocketGirl_unlock",
@@ -41905,7 +42048,9 @@
             "powerIcon1ExportName": "genicon_health",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 36
+            "id": 36,
+            "rawTID": "TID_ARMOR",
+            "rawPowerNumberTID": "TID_ARMOR_STAT"
         },
         {
             "name": "RocketGirl_abi",
@@ -41925,7 +42070,9 @@
             "powerIcon1ExportName": "genicon_damage",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 37
+            "id": 37,
+            "rawTID": "TID_FIREWORKS_WEAPON",
+            "rawPowerNumberTID": "TID_STAT_DAMAGE"
         },
         {
             "name": "RocketGirl_ulti",
@@ -41945,7 +42092,9 @@
             "powerIcon1ExportName": "genicon_damage",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 38
+            "id": 38,
+            "rawTID": "TID_FIREWORKS_ULTI",
+            "rawPowerNumberTID": "TID_STAT_MISSILE_DAMAGE"
         },
         {
             "name": "TrickshotDude_unlock",
@@ -41985,7 +42134,9 @@
             "powerIcon1ExportName": "genicon_health",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 40
+            "id": 40,
+            "rawTID": "TID_ARMOR",
+            "rawPowerNumberTID": "TID_ARMOR_STAT"
         },
         {
             "name": "TrickshotDude_abi",
@@ -42005,7 +42156,9 @@
             "powerIcon1ExportName": "genicon_damage",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 41
+            "id": 41,
+            "rawTID": "TID_TRICKSHOT_DUDE_WEAPON",
+            "rawPowerNumberTID": "TID_STAT_DAMAGE_PER_SHOT"
         },
         {
             "name": "TrickshotDude_ulti",
@@ -42025,7 +42178,9 @@
             "powerIcon1ExportName": "genicon_damage",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 42
+            "id": 42,
+            "rawTID": "TID_TRICKSHOT_DUDE_ULTI",
+            "rawPowerNumberTID": "TID_STAT_DAMAGE_PER_SHOT"
         },
         {
             "name": "Cactus_unlock",
@@ -42065,7 +42220,9 @@
             "powerIcon1ExportName": "genicon_health",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 44
+            "id": 44,
+            "rawTID": "TID_ARMOR",
+            "rawPowerNumberTID": "TID_ARMOR_STAT"
         },
         {
             "name": "Cactus_abi",
@@ -42085,7 +42242,9 @@
             "powerIcon1ExportName": "genicon_damage",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 45
+            "id": 45,
+            "rawTID": "TID_CACTUS_WEAPON",
+            "rawPowerNumberTID": "TID_STAT_DAMAGE_PER_SPIKE"
         },
         {
             "name": "Cactus_ulti",
@@ -42105,7 +42264,9 @@
             "powerIcon1ExportName": "genicon_damage",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 46
+            "id": 46,
+            "rawTID": "TID_CACTUS_ULTI",
+            "rawPowerNumberTID": "TID_STAT_DAMAGE_PER_SECOND"
         },
         {
             "name": "Barkeep_unlock",
@@ -42145,7 +42306,9 @@
             "powerIcon1ExportName": "genicon_health",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 48
+            "id": 48,
+            "rawTID": "TID_ARMOR",
+            "rawPowerNumberTID": "TID_ARMOR_STAT"
         },
         {
             "name": "Barkeep_abi",
@@ -42165,7 +42328,9 @@
             "powerIcon1ExportName": "genicon_damage",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 49
+            "id": 49,
+            "rawTID": "TID_BARKEEP_WEAPON",
+            "rawPowerNumberTID": "TID_STAT_DAMAGE_PER_SECOND"
         },
         {
             "name": "Barkeep_ulti",
@@ -42185,7 +42350,9 @@
             "powerIcon1ExportName": "genicon_damage",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 50
+            "id": 50,
+            "rawTID": "TID_BARKEEP_ULTI",
+            "rawPowerNumberTID": "TID_STAT_DAMAGE_PER_SECOND_EACH"
         },
         {
             "name": "Mechanic_unlock",
@@ -42225,7 +42392,9 @@
             "powerIcon1ExportName": "genicon_health",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 52
+            "id": 52,
+            "rawTID": "TID_ARMOR",
+            "rawPowerNumberTID": "TID_ARMOR_STAT"
         },
         {
             "name": "Mechanic_abi",
@@ -42245,7 +42414,9 @@
             "powerIcon1ExportName": "genicon_damage",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 53
+            "id": 53,
+            "rawTID": "TID_MECHANIC_WEAPON",
+            "rawPowerNumberTID": "TID_STAT_DAMAGE"
         },
         {
             "name": "Mechanic_ulti",
@@ -42265,7 +42436,10 @@
             "powerIcon1ExportName": "genicon_damage",
             "powerIcon2ExportName": "genicon_health",
             "sortOrder": null,
-            "id": 54
+            "id": 54,
+            "rawTID": "TID_MECHANIC_ULTI",
+            "rawPowerNumberTID": "TID_TURRET_DAMAGE",
+            "rawPowerNumber2TID": "TID_TURRET_HEALTH"
         },
         {
             "name": "Shaman_unlock",
@@ -42305,7 +42479,9 @@
             "powerIcon1ExportName": "genicon_health",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 56
+            "id": 56,
+            "rawTID": "TID_ARMOR",
+            "rawPowerNumberTID": "TID_ARMOR_STAT"
         },
         {
             "name": "Shaman_abi",
@@ -42325,7 +42501,9 @@
             "powerIcon1ExportName": "genicon_damage",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 57
+            "id": 57,
+            "rawTID": "TID_SHAMAN_WEAPON",
+            "rawPowerNumberTID": "TID_STAT_DAMAGE"
         },
         {
             "name": "Shaman_ulti",
@@ -42345,7 +42523,10 @@
             "powerIcon1ExportName": "genicon_damage",
             "powerIcon2ExportName": "genicon_health",
             "sortOrder": null,
-            "id": 58
+            "id": 58,
+            "rawTID": "TID_SHAMAN_ULTI",
+            "rawPowerNumberTID": "TID_BEAR_DAMAGE",
+            "rawPowerNumber2TID": "TID_BEAR_HEALTH"
         },
         {
             "name": "TntDude_unlock",
@@ -42385,7 +42566,9 @@
             "powerIcon1ExportName": "genicon_health",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 60
+            "id": 60,
+            "rawTID": "TID_ARMOR",
+            "rawPowerNumberTID": "TID_ARMOR_STAT"
         },
         {
             "name": "TntDude_abi",
@@ -42405,7 +42588,9 @@
             "powerIcon1ExportName": "genicon_damage",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 61
+            "id": 61,
+            "rawTID": "TID_MORTAR",
+            "rawPowerNumberTID": "TID_STAT_PER_DYNAMITE"
         },
         {
             "name": "TntDude_ulti",
@@ -42425,7 +42610,9 @@
             "powerIcon1ExportName": "genicon_damage",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 62
+            "id": 62,
+            "rawTID": "TID_MORTAR_ULTI",
+            "rawPowerNumberTID": "TID_STAT_DAMAGE"
         },
         {
             "name": "Luchador_unlock",
@@ -42465,7 +42652,9 @@
             "powerIcon1ExportName": "genicon_health",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 64
+            "id": 64,
+            "rawTID": "TID_ARMOR",
+            "rawPowerNumberTID": "TID_ARMOR_STAT"
         },
         {
             "name": "Luchador_abi",
@@ -42485,7 +42674,9 @@
             "powerIcon1ExportName": "genicon_damage",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 65
+            "id": 65,
+            "rawTID": "TID_LUCHADOR_WEAPON",
+            "rawPowerNumberTID": "TID_STAT_DAMAGE_PER_STRIKE"
         },
         {
             "name": "Luchador_ulti",
@@ -42505,7 +42696,9 @@
             "powerIcon1ExportName": "genicon_damage",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 66
+            "id": 66,
+            "rawTID": "TID_LUCHADOR_ULTI",
+            "rawPowerNumberTID": "TID_STAT_DAMAGE"
         },
         {
             "name": "Undertaker_unlock",
@@ -42545,7 +42738,9 @@
             "powerIcon1ExportName": "genicon_health",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 68
+            "id": 68,
+            "rawTID": "TID_ARMOR",
+            "rawPowerNumberTID": "TID_ARMOR_STAT"
         },
         {
             "name": "Undertaker_abi",
@@ -42565,7 +42760,9 @@
             "powerIcon1ExportName": "genicon_damage",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 69
+            "id": 69,
+            "rawTID": "TID_UNDERTAKER_WEAPON",
+            "rawPowerNumberTID": "TID_STAT_DAMAGE"
         },
         {
             "name": "Undertaker_ulti",
@@ -42585,7 +42782,9 @@
             "powerIcon1ExportName": "genicon_damage",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 70
+            "id": 70,
+            "rawTID": "TID_UNDERTAKER_ULTI",
+            "rawPowerNumberTID": "TID_STAT_DAMAGE"
         },
         {
             "name": "Crow_unlock",
@@ -42625,7 +42824,9 @@
             "powerIcon1ExportName": "genicon_health",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 72
+            "id": 72,
+            "rawTID": "TID_ARMOR",
+            "rawPowerNumberTID": "TID_ARMOR_STAT"
         },
         {
             "name": "Crow_abi",
@@ -42645,7 +42846,9 @@
             "powerIcon1ExportName": "genicon_damage",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 73
+            "id": 73,
+            "rawTID": "TID_CROW_WEAPON",
+            "rawPowerNumberTID": "TID_STAT_DAMAGE_PER_DAGGER"
         },
         {
             "name": "Crow_ulti",
@@ -42665,7 +42868,9 @@
             "powerIcon1ExportName": "genicon_damage",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 74
+            "id": 74,
+            "rawTID": "TID_CROW_ULTI",
+            "rawPowerNumberTID": "TID_STAT_DAMAGE_PER_DAGGER"
         },
         {
             "name": "DeadMariachi_unlock",
@@ -42705,7 +42910,9 @@
             "powerIcon1ExportName": "genicon_health",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 76
+            "id": 76,
+            "rawTID": "TID_ARMOR",
+            "rawPowerNumberTID": "TID_ARMOR_STAT"
         },
         {
             "name": "DeadMariachi_abi",
@@ -42725,7 +42932,9 @@
             "powerIcon1ExportName": "genicon_damage",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 77
+            "id": 77,
+            "rawTID": "TID_DEAD_MARIACHI_WEAPON",
+            "rawPowerNumberTID": "TID_STAT_DAMAGE"
         },
         {
             "name": "DeadMariachi_ulti",
@@ -42745,7 +42954,9 @@
             "powerIcon1ExportName": "genicon_health",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 78
+            "id": 78,
+            "rawTID": "TID_DEAD_MARIACHI_ULTI",
+            "rawPowerNumberTID": "TID_STAT_HEAL"
         },
         {
             "name": "BowDude_unlock",
@@ -42785,7 +42996,9 @@
             "powerIcon1ExportName": "genicon_health",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 80
+            "id": 80,
+            "rawTID": "TID_ARMOR",
+            "rawPowerNumberTID": "TID_ARMOR_STAT"
         },
         {
             "name": "BowDude_abi",
@@ -42805,7 +43018,9 @@
             "powerIcon1ExportName": "genicon_damage",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 81
+            "id": 81,
+            "rawTID": "TID_BOW_DUDE_WEAPON",
+            "rawPowerNumberTID": "TID_STAT_DAMAGE_PER_ARROW"
         },
         {
             "name": "BowDude_ulti",
@@ -42825,7 +43040,9 @@
             "powerIcon1ExportName": "genicon_damage",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 82
+            "id": 82,
+            "rawTID": "TID_BOW_DUDE_ULTI",
+            "rawPowerNumberTID": "TID_STAT_DAMAGE_PER_MINE"
         },
         {
             "name": "Sniper_unlock",
@@ -42865,7 +43082,9 @@
             "powerIcon1ExportName": "genicon_health",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 84
+            "id": 84,
+            "rawTID": "TID_ARMOR",
+            "rawPowerNumberTID": "TID_ARMOR_STAT"
         },
         {
             "name": "Sniper_abi",
@@ -42885,7 +43104,9 @@
             "powerIcon1ExportName": "genicon_damage",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 85
+            "id": 85,
+            "rawTID": "TID_SNIPER_WEAPON",
+            "rawPowerNumberTID": "TID_STAT_MAX_DAMAGE"
         },
         {
             "name": "Sniper_ulti",
@@ -42905,7 +43126,9 @@
             "powerIcon1ExportName": "genicon_damage",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 86
+            "id": 86,
+            "rawTID": "TID_SNIPER_ULTI",
+            "rawPowerNumberTID": "TID_STAT_DAMAGE_PER_BOMB"
         },
         {
             "name": "MinigunDude_unlock",
@@ -42945,7 +43168,9 @@
             "powerIcon1ExportName": "genicon_health",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 88
+            "id": 88,
+            "rawTID": "TID_ARMOR",
+            "rawPowerNumberTID": "TID_ARMOR_STAT"
         },
         {
             "name": "MinigunDude_abi",
@@ -42965,7 +43190,9 @@
             "powerIcon1ExportName": "genicon_damage",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 89
+            "id": 89,
+            "rawTID": "TID_MINIGUN_DUDE_WEAPON",
+            "rawPowerNumberTID": "TID_STAT_DAMAGE_PER_SHOT"
         },
         {
             "name": "MinigunDude_ulti",
@@ -42985,7 +43212,10 @@
             "powerIcon1ExportName": "genicon_heal",
             "powerIcon2ExportName": "genicon_health",
             "sortOrder": null,
-            "id": 90
+            "id": 90,
+            "rawTID": "TID_MINIGUN_DUDE_ULTI",
+            "rawPowerNumberTID": "TID_STAT_HEALING_PER_SEC",
+            "rawPowerNumber2TID": "TID_TURRET_HEALTH"
         },
         {
             "name": "BlackHole_unlock",
@@ -43025,7 +43255,9 @@
             "powerIcon1ExportName": "genicon_health",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 92
+            "id": 92,
+            "rawTID": "TID_ARMOR",
+            "rawPowerNumberTID": "TID_ARMOR_STAT"
         },
         {
             "name": "BlackHole_abi",
@@ -43045,7 +43277,9 @@
             "powerIcon1ExportName": "genicon_damage",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 93
+            "id": 93,
+            "rawTID": "TID_BLACK_HOLE_WEAPON",
+            "rawPowerNumberTID": "TID_STAT_DAMAGE_PER_CARD"
         },
         {
             "name": "BlackHole_ulti",
@@ -43065,7 +43299,9 @@
             "powerIcon1ExportName": "genicon_damage",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 94
+            "id": 94,
+            "rawTID": "TID_BLACK_HOLE_ULTI",
+            "rawPowerNumberTID": "TID_STAT_DAMAGE"
         },
         {
             "name": "BarrelBot_unlock",
@@ -43105,7 +43341,9 @@
             "powerIcon1ExportName": "genicon_health",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 96
+            "id": 96,
+            "rawTID": "TID_ARMOR",
+            "rawPowerNumberTID": "TID_ARMOR_STAT"
         },
         {
             "name": "BarrelBot_abi",
@@ -43125,7 +43363,9 @@
             "powerIcon1ExportName": "genicon_damage",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 97
+            "id": 97,
+            "rawTID": "TID_BARREL_BOT_WEAPON",
+            "rawPowerNumberTID": "TID_STAT_DAMAGE_PER_SHELL"
         },
         {
             "name": "BarrelBot_ulti",
@@ -43145,7 +43385,9 @@
             "powerIcon1ExportName": "genicon_damage",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 98
+            "id": 98,
+            "rawTID": "TID_BARREL_BOT_ULTI",
+            "rawPowerNumberTID": "TID_STAT_DAMAGE"
         },
         {
             "name": "ShotgunGirl_unique",
@@ -43165,7 +43407,8 @@
             "powerIcon1ExportName": "genicon_health",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 99
+            "id": 99,
+            "rawTID": "TID_SPEC_ABI_FREEZE"
         },
         {
             "name": "Gunslinger_unique",
@@ -43185,7 +43428,8 @@
             "powerIcon1ExportName": "genicon_health",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 100
+            "id": 100,
+            "rawTID": "TID_SPEC_ABI_SPEED"
         },
         {
             "name": "BullDude_unique",
@@ -43205,7 +43449,8 @@
             "powerIcon1ExportName": "genicon_health",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 101
+            "id": 101,
+            "rawTID": "TID_SPEC_ABI_BERSERKER"
         },
         {
             "name": "RocketGirl_unique",
@@ -43225,7 +43470,8 @@
             "powerIcon1ExportName": "genicon_health",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 102
+            "id": 102,
+            "rawTID": "TID_SPEC_BURN"
         },
         {
             "name": "TrickshotDude_unique",
@@ -43245,7 +43491,8 @@
             "powerIcon1ExportName": "genicon_health",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 103
+            "id": 103,
+            "rawTID": "TID_SPEC_BOUNCED_BULLETS_STRONGER"
         },
         {
             "name": "Cactus_unique",
@@ -43265,7 +43512,8 @@
             "powerIcon1ExportName": "genicon_health",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 104
+            "id": 104,
+            "rawTID": "TID_SPEC_ABI_CACTUS_HEAL"
         },
         {
             "name": "Barkeep_unique",
@@ -43285,7 +43533,8 @@
             "powerIcon1ExportName": "genicon_health",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 105
+            "id": 105,
+            "rawTID": "TID_SPEC_ABI_HEAL_SELF_MAIN_ATTACK"
         },
         {
             "name": "Mechanic_unique",
@@ -43305,7 +43554,8 @@
             "powerIcon1ExportName": "genicon_health",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 106
+            "id": 106,
+            "rawTID": "TID_SPEC_ABI_REPAIR_TURRET"
         },
         {
             "name": "Shaman_unique",
@@ -43325,7 +43575,8 @@
             "powerIcon1ExportName": "genicon_health",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 107
+            "id": 107,
+            "rawTID": "TID_SPEC_ABI_PET_LIFESTEAL"
         },
         {
             "name": "TntDude_unique",
@@ -43345,7 +43596,8 @@
             "powerIcon1ExportName": "genicon_health",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 108
+            "id": 108,
+            "rawTID": "TID_SPEC_ABI_PUSHBACK_SELF"
         },
         {
             "name": "Luchador_unique",
@@ -43365,7 +43617,8 @@
             "powerIcon1ExportName": "genicon_health",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 109
+            "id": 109,
+            "rawTID": "TID_SPEC_ABI_FIRE_DOT_ULTI"
         },
         {
             "name": "Undertaker_unique",
@@ -43385,7 +43638,8 @@
             "powerIcon1ExportName": "genicon_health",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 110
+            "id": 110,
+            "rawTID": "TID_SPEC_ABI_STEAL_SOULS"
         },
         {
             "name": "Crow_unique",
@@ -43405,7 +43659,8 @@
             "powerIcon1ExportName": "genicon_health",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 111
+            "id": 111,
+            "rawTID": "TID_SPEC_CRIPPLE"
         },
         {
             "name": "DeadMariachi_unique",
@@ -43425,7 +43680,8 @@
             "powerIcon1ExportName": "genicon_health",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 112
+            "id": 112,
+            "rawTID": "TID_SPEC_HEAL_MAIN_ATTACK"
         },
         {
             "name": "BowDude_unique",
@@ -43445,7 +43701,8 @@
             "powerIcon1ExportName": "genicon_health",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 113
+            "id": 113,
+            "rawTID": "TID_SPEC_ABI_SPOT"
         },
         {
             "name": "Sniper_unique",
@@ -43465,7 +43722,8 @@
             "powerIcon1ExportName": "genicon_health",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 114
+            "id": 114,
+            "rawTID": "TID_SPEC_ABI_AMBUSH"
         },
         {
             "name": "MinigunDude_unique",
@@ -43485,7 +43743,8 @@
             "powerIcon1ExportName": "genicon_health",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 115
+            "id": 115,
+            "rawTID": "TID_SPEC_ABI_HEAL_OTHERS_MAIN_ATTACK"
         },
         {
             "name": "BlackHole_unique",
@@ -43505,7 +43764,8 @@
             "powerIcon1ExportName": "genicon_health",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 116
+            "id": 116,
+            "rawTID": "TID_SPEC_ABI_BLACK_HOLE_MONSTER"
         },
         {
             "name": "BarrelBot_unique",
@@ -43525,7 +43785,8 @@
             "powerIcon1ExportName": "genicon_health",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 117
+            "id": 117,
+            "rawTID": "TID_SPEC_ABI_BARREL_DEFENSE"
         },
         {
             "name": "ArtilleryDude_unlock",
@@ -43565,7 +43826,9 @@
             "powerIcon1ExportName": "genicon_health",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 119
+            "id": 119,
+            "rawTID": "TID_ARMOR",
+            "rawPowerNumberTID": "TID_ARMOR_STAT"
         },
         {
             "name": "ArtilleryDude_abi",
@@ -43585,7 +43848,9 @@
             "powerIcon1ExportName": "genicon_damage",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 120
+            "id": 120,
+            "rawTID": "TID_ARTILLERY_DUDE_WEAPON",
+            "rawPowerNumberTID": "TID_STAT_DAMAGE"
         },
         {
             "name": "ArtilleryDude_ulti",
@@ -43605,7 +43870,10 @@
             "powerIcon1ExportName": "genicon_damage",
             "powerIcon2ExportName": "genicon_health",
             "sortOrder": null,
-            "id": 121
+            "id": 121,
+            "rawTID": "TID_ARTILLERY_DUDE_ULTI",
+            "rawPowerNumberTID": "TID_CANNON_DAMAGE",
+            "rawPowerNumber2TID": "TID_CANNON_HEALTH"
         },
         {
             "name": "ArtilleryDude_unique",
@@ -43625,7 +43893,8 @@
             "powerIcon1ExportName": "genicon_health",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 122
+            "id": 122,
+            "rawTID": "TID_SPEC_ABI_SELF_DESTRUCT"
         },
         {
             "name": "HammerDude_unlock",
@@ -43665,7 +43934,9 @@
             "powerIcon1ExportName": "genicon_health",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 124
+            "id": 124,
+            "rawTID": "TID_ARMOR",
+            "rawPowerNumberTID": "TID_ARMOR_STAT"
         },
         {
             "name": "HammerDude_abi",
@@ -43685,7 +43956,9 @@
             "powerIcon1ExportName": "genicon_damage",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 125
+            "id": 125,
+            "rawTID": "TID_HAMMER_DUDE_WEAPON",
+            "rawPowerNumberTID": "TID_STAT_DAMAGE"
         },
         {
             "name": "HammerDude_ulti",
@@ -43705,7 +43978,9 @@
             "powerIcon1ExportName": "genicon_damage",
             "powerIcon2ExportName": "genicon_health",
             "sortOrder": null,
-            "id": 126
+            "id": 126,
+            "rawTID": "TID_HAMMER_DUDE_ULTI",
+            "rawPowerNumberTID": "TID_STAT_DAMAGE"
         },
         {
             "name": "HammerDude_unique",
@@ -43725,7 +44000,8 @@
             "powerIcon1ExportName": "genicon_health",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 127
+            "id": 127,
+            "rawTID": "TID_SPEC_ABI_STEAL_SOULS2"
         },
         {
             "name": "HookDude_unlock",
@@ -43765,7 +44041,9 @@
             "powerIcon1ExportName": "genicon_health",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 129
+            "id": 129,
+            "rawTID": "TID_ARMOR",
+            "rawPowerNumberTID": "TID_ARMOR_STAT"
         },
         {
             "name": "HookDude_abi",
@@ -43785,7 +44063,9 @@
             "powerIcon1ExportName": "genicon_damage",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 130
+            "id": 130,
+            "rawTID": "TID_HOOK_WEAPON",
+            "rawPowerNumberTID": "TID_STAT_DAMAGE"
         },
         {
             "name": "HookDude_ulti",
@@ -43805,7 +44085,9 @@
             "powerIcon1ExportName": "genicon_damage",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 131
+            "id": 131,
+            "rawTID": "TID_HOOK_ULTI",
+            "rawPowerNumberTID": "TID_STAT_DAMAGE"
         },
         {
             "name": "HookDude_unique",
@@ -43825,7 +44107,8 @@
             "powerIcon1ExportName": "genicon_health",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 132
+            "id": 132,
+            "rawTID": "TID_SPEC_ABI_HOOK"
         },
         {
             "name": "ClusterBombDude_unlock",
@@ -43865,7 +44148,9 @@
             "powerIcon1ExportName": "genicon_health",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 134
+            "id": 134,
+            "rawTID": "TID_ARMOR",
+            "rawPowerNumberTID": "TID_ARMOR_STAT"
         },
         {
             "name": "ClusterBombDude_abi",
@@ -43885,7 +44170,9 @@
             "powerIcon1ExportName": "genicon_damage",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 135
+            "id": 135,
+            "rawTID": "TID_CLUSTER_BOMB_DUDE_WEAPON",
+            "rawPowerNumberTID": "TID_STAT_DAMAGE_PER_SHOT"
         },
         {
             "name": "ClusterBombDude_ulti",
@@ -43905,7 +44192,9 @@
             "powerIcon1ExportName": "genicon_damage",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 136
+            "id": 136,
+            "rawTID": "TID_CLUSTER_BOMB_DUDE_ULTI",
+            "rawPowerNumberTID": "TID_STAT_DAMAGE_PER_CLUSTER"
         },
         {
             "name": "ClusterBombDude_unique",
@@ -43925,7 +44214,8 @@
             "powerIcon1ExportName": "genicon_health",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 137
+            "id": 137,
+            "rawTID": "TID_SPEC_ABI_HOVERBOARD"
         },
         {
             "name": "Ninja_unlock",
@@ -43965,7 +44255,9 @@
             "powerIcon1ExportName": "genicon_health",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 139
+            "id": 139,
+            "rawTID": "TID_ARMOR",
+            "rawPowerNumberTID": "TID_ARMOR_STAT"
         },
         {
             "name": "Ninja_abi",
@@ -43985,7 +44277,9 @@
             "powerIcon1ExportName": "genicon_damage",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 140
+            "id": 140,
+            "rawTID": "TID_NINJA_WEAPON",
+            "rawPowerNumberTID": "TID_STAT_DAMAGE_PER_SHURIKEN"
         },
         {
             "name": "Ninja_ulti",
@@ -44005,7 +44299,9 @@
             "powerIcon1ExportName": "genicon_damage",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 141
+            "id": 141,
+            "rawTID": "TID_NINJA_ULTI",
+            "rawPowerNumberTID": "TID_STAT_INVISIBLE"
         },
         {
             "name": "Ninja_unique",
@@ -44025,7 +44321,8 @@
             "powerIcon1ExportName": "genicon_health",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 142
+            "id": 142,
+            "rawTID": "TID_SPEC_ABI_SPEED_INVISIBLE"
         },
         {
             "name": "Animal_unlock",
@@ -44065,7 +44362,9 @@
             "powerIcon1ExportName": "genicon_health",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 144
+            "id": 144,
+            "rawTID": "TID_ARMOR",
+            "rawPowerNumberTID": "TID_ARMOR_STAT"
         },
         {
             "name": "Animal_abi",
@@ -44085,7 +44384,9 @@
             "powerIcon1ExportName": "genicon_damage",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 145
+            "id": 145,
+            "rawTID": "TID_ANIMAL_WEAPON",
+            "rawPowerNumberTID": "TID_STAT_DAMAGE_PER_STRIKE"
         },
         {
             "name": "Animal_ulti",
@@ -44105,7 +44406,9 @@
             "powerIcon1ExportName": "genicon_damage",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 146
+            "id": 146,
+            "rawTID": "TID_ANIMAL_ULTI",
+            "rawPowerNumberTID": "TID_STAT_SHIELD"
         },
         {
             "name": "Animal_unique",
@@ -44125,7 +44428,8 @@
             "powerIcon1ExportName": "genicon_health",
             "powerIcon2ExportName": null,
             "sortOrder": null,
-            "id": 147
+            "id": 147,
+            "rawTID": "TID_SPEC_ABI_HEAL_FOREST"
         }
     ],
     "characters": [
@@ -44230,7 +44534,8 @@
             "chargeUltiAutomatically": null,
             "videoLink": "ShellyTutorial",
             "id": 16,
-            "scId": 1600000
+            "scId": 1600000,
+            "rawTID": "TID_SHOTGUN_GIRL"
         },
         {
             "name": "Gunslinger",
@@ -44333,7 +44638,8 @@
             "chargeUltiAutomatically": null,
             "videoLink": "ColtTutorial",
             "id": 17,
-            "scId": 1600001
+            "scId": 1600001,
+            "rawTID": "TID_GUNSLINGER"
         },
         {
             "name": "BullDude",
@@ -44436,7 +44742,8 @@
             "chargeUltiAutomatically": null,
             "videoLink": "BullTutorial",
             "id": 18,
-            "scId": 1600002
+            "scId": 1600002,
+            "rawTID": "TID_BULL_DUDE"
         },
         {
             "name": "RocketGirl",
@@ -44539,7 +44846,8 @@
             "chargeUltiAutomatically": null,
             "videoLink": "BrockTutorial",
             "id": 19,
-            "scId": 1600003
+            "scId": 1600003,
+            "rawTID": "TID_ROCKET_GIRL"
         },
         {
             "name": "TrickshotDude",
@@ -44642,7 +44950,8 @@
             "chargeUltiAutomatically": null,
             "videoLink": "RicoTutorial",
             "id": 20,
-            "scId": 1600004
+            "scId": 1600004,
+            "rawTID": "TID_TRICKSHOT_DUDE"
         },
         {
             "name": "Cactus",
@@ -44745,7 +45054,8 @@
             "chargeUltiAutomatically": null,
             "videoLink": "SpikeTutorial",
             "id": 21,
-            "scId": 1600005
+            "scId": 1600005,
+            "rawTID": "TID_CACTUS"
         },
         {
             "name": "Barkeep",
@@ -44848,7 +45158,8 @@
             "chargeUltiAutomatically": null,
             "videoLink": "BarleyTutorial",
             "id": 22,
-            "scId": 1600006
+            "scId": 1600006,
+            "rawTID": "TID_BARKEEP"
         },
         {
             "name": "Mechanic",
@@ -44951,7 +45262,8 @@
             "chargeUltiAutomatically": null,
             "videoLink": "JessieTutorial",
             "id": 23,
-            "scId": 1600007
+            "scId": 1600007,
+            "rawTID": "TID_MECHANIC"
         },
         {
             "name": "Shaman",
@@ -45054,7 +45366,8 @@
             "chargeUltiAutomatically": null,
             "videoLink": "NitaTutorial",
             "id": 24,
-            "scId": 1600008
+            "scId": 1600008,
+            "rawTID": "TID_SHAMAN"
         },
         {
             "name": "TntDude",
@@ -45157,7 +45470,8 @@
             "chargeUltiAutomatically": null,
             "videoLink": "MikeTutorial",
             "id": 25,
-            "scId": 1600009
+            "scId": 1600009,
+            "rawTID": "TID_TNT_DUDE"
         },
         {
             "name": "Luchador",
@@ -45260,7 +45574,8 @@
             "chargeUltiAutomatically": null,
             "videoLink": "PrimpTutorial",
             "id": 26,
-            "scId": 1600010
+            "scId": 1600010,
+            "rawTID": "TID_LUCHADOR"
         },
         {
             "name": "Undertaker",
@@ -45363,7 +45678,8 @@
             "chargeUltiAutomatically": null,
             "videoLink": "MortisTutorial",
             "id": 27,
-            "scId": 1600011
+            "scId": 1600011,
+            "rawTID": "TID_UNDERTAKER"
         },
         {
             "name": "Crow",
@@ -45466,7 +45782,8 @@
             "chargeUltiAutomatically": null,
             "videoLink": "CrowTutorial",
             "id": 28,
-            "scId": 1600012
+            "scId": 1600012,
+            "rawTID": "TID_CROW"
         },
         {
             "name": "DeadMariachi",
@@ -45569,7 +45886,8 @@
             "chargeUltiAutomatically": null,
             "videoLink": "PocoTutorial",
             "id": 29,
-            "scId": 1600013
+            "scId": 1600013,
+            "rawTID": "TID_DEAD_MARIACHI"
         },
         {
             "name": "BowDude",
@@ -45672,7 +45990,8 @@
             "chargeUltiAutomatically": null,
             "videoLink": "BoTutorial",
             "id": 30,
-            "scId": 1600014
+            "scId": 1600014,
+            "rawTID": "TID_BOW_DUDE"
         },
         {
             "name": "Sniper",
@@ -45775,7 +46094,8 @@
             "chargeUltiAutomatically": null,
             "videoLink": "PiperTutorial",
             "id": 31,
-            "scId": 1600015
+            "scId": 1600015,
+            "rawTID": "TID_SNIPER"
         },
         {
             "name": "MinigunDude",
@@ -45878,7 +46198,8 @@
             "chargeUltiAutomatically": null,
             "videoLink": "PamTutorial",
             "id": 32,
-            "scId": 1600016
+            "scId": 1600016,
+            "rawTID": "TID_MINIGUN_DUDE"
         },
         {
             "name": "BlackHole",
@@ -45981,7 +46302,8 @@
             "chargeUltiAutomatically": null,
             "videoLink": "TaraTutorial",
             "id": 33,
-            "scId": 1600017
+            "scId": 1600017,
+            "rawTID": "TID_BLACK_HOLE"
         },
         {
             "name": "BarrelBot",
@@ -46084,7 +46406,8 @@
             "chargeUltiAutomatically": 50,
             "videoLink": "DarrylTutorial",
             "id": 34,
-            "scId": 1600018
+            "scId": 1600018,
+            "rawTID": "TID_BARREL_BOT"
         },
         {
             "name": "ArtilleryDude",
@@ -46187,7 +46510,8 @@
             "chargeUltiAutomatically": null,
             "videoLink": "PennyTutorial",
             "id": 35,
-            "scId": 1600019
+            "scId": 1600019,
+            "rawTID": "TID_ARTILLERY_DUDE"
         },
         {
             "name": "HammerDude",
@@ -46290,7 +46614,8 @@
             "chargeUltiAutomatically": null,
             "videoLink": "FrankTutorial",
             "id": 36,
-            "scId": 1600020
+            "scId": 1600020,
+            "rawTID": "TID_HAMMER_DUDE"
         },
         {
             "name": "HookDude",
@@ -46393,7 +46718,8 @@
             "chargeUltiAutomatically": null,
             "videoLink": "GeneTutorial",
             "id": 37,
-            "scId": 1600021
+            "scId": 1600021,
+            "rawTID": "TID_HOOK"
         },
         {
             "name": "ClusterBombDude",
@@ -46496,7 +46822,8 @@
             "chargeUltiAutomatically": null,
             "videoLink": null,
             "id": 38,
-            "scId": 1600022
+            "scId": 1600022,
+            "rawTID": "TID_SHOTGUN_GIRL"
         },
         {
             "name": "Ninja",
@@ -46599,7 +46926,8 @@
             "chargeUltiAutomatically": null,
             "videoLink": "LeonTutorial",
             "id": 39,
-            "scId": 1600023
+            "scId": 1600023,
+            "rawTID": "TID_NINJA"
         },
         {
             "name": "Animal",
@@ -46702,7 +47030,8 @@
             "chargeUltiAutomatically": null,
             "videoLink": null,
             "id": 40,
-            "scId": 1600024
+            "scId": 1600024,
+            "rawTID": "TID_SHOTGUN_GIRL"
         },
         {
             "name": "TutorialDummy",
@@ -54040,7 +54369,8 @@
             "music": "BattleMusic",
             "communityCredit": null,
             "id": 15,
-            "scId": 1500000
+            "scId": 1500000,
+            "rawTID": "TID_WANTED_1"
         },
         {
             "name": "Wanted3",
@@ -54068,7 +54398,8 @@
             "music": "BattleMusic",
             "communityCredit": null,
             "id": 16,
-            "scId": 1500001
+            "scId": 1500001,
+            "rawTID": "TID_WANTED_3"
         },
         {
             "name": "Wanted4",
@@ -54096,7 +54427,8 @@
             "music": "BattleMusic",
             "communityCredit": null,
             "id": 17,
-            "scId": 1500002
+            "scId": 1500002,
+            "rawTID": "TID_WANTED_4"
         },
         {
             "name": "Wanted5",
@@ -54124,7 +54456,8 @@
             "music": "BattleMusic",
             "communityCredit": null,
             "id": 18,
-            "scId": 1500003
+            "scId": 1500003,
+            "rawTID": "TID_WANTED_5"
         },
         {
             "name": "Wanted6",
@@ -54152,7 +54485,8 @@
             "music": "BattleMusic",
             "communityCredit": null,
             "id": 19,
-            "scId": 1500004
+            "scId": 1500004,
+            "rawTID": "TID_WANTED_6"
         },
         {
             "name": "Wanted7",
@@ -54180,7 +54514,8 @@
             "music": "BattleMusic",
             "communityCredit": null,
             "id": 20,
-            "scId": 1500005
+            "scId": 1500005,
+            "rawTID": "TID_WANTED_7"
         },
         {
             "name": "Wanted2",
@@ -54208,7 +54543,8 @@
             "music": "BattleMusic",
             "communityCredit": null,
             "id": 21,
-            "scId": 1500006
+            "scId": 1500006,
+            "rawTID": "TID_WANTED_2"
         },
         {
             "name": "Gemgrab1",
@@ -54236,7 +54572,8 @@
             "music": "BattleMusic",
             "communityCredit": null,
             "id": 22,
-            "scId": 1500007
+            "scId": 1500007,
+            "rawTID": "TID_GOLDRUSH_1"
         },
         {
             "name": "Gemgrab2",
@@ -54264,7 +54601,8 @@
             "music": "BattleMusic",
             "communityCredit": null,
             "id": 23,
-            "scId": 1500008
+            "scId": 1500008,
+            "rawTID": "TID_GOLDRUSH_2"
         },
         {
             "name": "Gemgrab3",
@@ -54292,7 +54630,8 @@
             "music": "BattleMusic",
             "communityCredit": null,
             "id": 24,
-            "scId": 1500009
+            "scId": 1500009,
+            "rawTID": "TID_GOLDRUSH_3"
         },
         {
             "name": "Gemgrab4",
@@ -54320,7 +54659,8 @@
             "music": "BattleMusic",
             "communityCredit": null,
             "id": 25,
-            "scId": 1500010
+            "scId": 1500010,
+            "rawTID": "TID_GOLDRUSH_4"
         },
         {
             "name": "Gemgrab5",
@@ -54348,7 +54688,8 @@
             "music": "BattleMusic",
             "communityCredit": null,
             "id": 26,
-            "scId": 1500011
+            "scId": 1500011,
+            "rawTID": "TID_GOLDRUSH_5"
         },
         {
             "name": "Gemgrab6",
@@ -54376,7 +54717,8 @@
             "music": "BattleMusic",
             "communityCredit": null,
             "id": 27,
-            "scId": 1500012
+            "scId": 1500012,
+            "rawTID": "TID_GOLDRUSH_6"
         },
         {
             "name": "Survival1",
@@ -54404,7 +54746,8 @@
             "music": "BattleMusic",
             "communityCredit": null,
             "id": 28,
-            "scId": 1500013
+            "scId": 1500013,
+            "rawTID": "TID_BATTLE_ROYALE_1"
         },
         {
             "name": "Survival2",
@@ -54432,7 +54775,8 @@
             "music": "BattleMusic",
             "communityCredit": "OwenReds",
             "id": 29,
-            "scId": 1500014
+            "scId": 1500014,
+            "rawTID": "TID_BATTLE_ROYALE_2"
         },
         {
             "name": "Survival3",
@@ -54460,7 +54804,8 @@
             "music": "BattleMusic",
             "communityCredit": null,
             "id": 30,
-            "scId": 1500015
+            "scId": 1500015,
+            "rawTID": "TID_BATTLE_ROYALE_3"
         },
         {
             "name": "Survival4",
@@ -54488,7 +54833,8 @@
             "music": "BattleMusic",
             "communityCredit": null,
             "id": 31,
-            "scId": 1500016
+            "scId": 1500016,
+            "rawTID": "TID_BATTLE_ROYALE_4"
         },
         {
             "name": "Heist1",
@@ -54516,7 +54862,8 @@
             "music": "BattleMusic",
             "communityCredit": null,
             "id": 32,
-            "scId": 1500017
+            "scId": 1500017,
+            "rawTID": "TID_BANKHEIST_1"
         },
         {
             "name": "Heist2",
@@ -54544,7 +54891,8 @@
             "music": "BattleMusic",
             "communityCredit": null,
             "id": 33,
-            "scId": 1500018
+            "scId": 1500018,
+            "rawTID": "TID_BANKHEIST_2"
         },
         {
             "name": "Heist3",
@@ -54572,7 +54920,8 @@
             "music": "BattleMusic",
             "communityCredit": null,
             "id": 34,
-            "scId": 1500019
+            "scId": 1500019,
+            "rawTID": "TID_BANKHEIST_3"
         },
         {
             "name": "Tutorial",
@@ -54628,7 +54977,8 @@
             "music": "BattleMusic",
             "communityCredit": null,
             "id": 36,
-            "scId": 1500021
+            "scId": 1500021,
+            "rawTID": "TID_BOSS_4"
         },
         {
             "name": "Wanted8",
@@ -54656,7 +55006,8 @@
             "music": "BattleMusic",
             "communityCredit": null,
             "id": 37,
-            "scId": 1500022
+            "scId": 1500022,
+            "rawTID": "TID_WANTED_8"
         },
         {
             "name": "Heist4",
@@ -54684,7 +55035,8 @@
             "music": "BattleMusic",
             "communityCredit": null,
             "id": 38,
-            "scId": 1500023
+            "scId": 1500023,
+            "rawTID": "TID_BANKHEIST_4"
         },
         {
             "name": "Ball1",
@@ -54712,7 +55064,8 @@
             "music": "BattleMusic",
             "communityCredit": null,
             "id": 39,
-            "scId": 1500024
+            "scId": 1500024,
+            "rawTID": "TID_BALL_1"
         },
         {
             "name": "Ball2",
@@ -54740,7 +55093,8 @@
             "music": "BattleMusic",
             "communityCredit": null,
             "id": 40,
-            "scId": 1500025
+            "scId": 1500025,
+            "rawTID": "TID_BALL_2"
         },
         {
             "name": "Ball3",
@@ -54768,7 +55122,8 @@
             "music": "BattleMusic",
             "communityCredit": null,
             "id": 41,
-            "scId": 1500026
+            "scId": 1500026,
+            "rawTID": "TID_BALL_3"
         },
         {
             "name": "Coop1",
@@ -54796,7 +55151,8 @@
             "music": "BattleMusic",
             "communityCredit": null,
             "id": 42,
-            "scId": 1500027
+            "scId": 1500027,
+            "rawTID": "TID_COOP_1"
         },
         {
             "name": "SurvivalTeam7",
@@ -54824,7 +55180,8 @@
             "music": "BattleMusic",
             "communityCredit": null,
             "id": 43,
-            "scId": 1500028
+            "scId": 1500028,
+            "rawTID": "TID_BATTLE_ROYALE_7"
         },
         {
             "name": "Coop2",
@@ -54852,7 +55209,8 @@
             "music": "BattleMusic",
             "communityCredit": null,
             "id": 44,
-            "scId": 1500029
+            "scId": 1500029,
+            "rawTID": "TID_COOP_2"
         },
         {
             "name": "BossFight2",
@@ -54880,7 +55238,8 @@
             "music": "BattleMusic",
             "communityCredit": null,
             "id": 45,
-            "scId": 1500030
+            "scId": 1500030,
+            "rawTID": "TID_BOSS_3"
         },
         {
             "name": "Gemgrab8",
@@ -54908,7 +55267,8 @@
             "music": "BattleMusic",
             "communityCredit": null,
             "id": 46,
-            "scId": 1500031
+            "scId": 1500031,
+            "rawTID": "TID_GOLDRUSH_8"
         },
         {
             "name": "Survival5",
@@ -54936,7 +55296,8 @@
             "music": "BattleMusic",
             "communityCredit": "Mordeus",
             "id": 47,
-            "scId": 1500032
+            "scId": 1500032,
+            "rawTID": "TID_BATTLE_ROYALE_5"
         },
         {
             "name": "Survival6",
@@ -54964,7 +55325,8 @@
             "music": "BattleMusic",
             "communityCredit": null,
             "id": 48,
-            "scId": 1500033
+            "scId": 1500033,
+            "rawTID": "TID_BATTLE_ROYALE_6"
         },
         {
             "name": "SurvivalTeam1",
@@ -54992,7 +55354,8 @@
             "music": "BattleMusic",
             "communityCredit": null,
             "id": 49,
-            "scId": 1500034
+            "scId": 1500034,
+            "rawTID": "TID_BATTLE_ROYALE_1"
         },
         {
             "name": "SurvivalTeam2",
@@ -55020,7 +55383,8 @@
             "music": "BattleMusic",
             "communityCredit": "OwenReds",
             "id": 50,
-            "scId": 1500035
+            "scId": 1500035,
+            "rawTID": "TID_BATTLE_ROYALE_2"
         },
         {
             "name": "SurvivalTeam3",
@@ -55048,7 +55412,8 @@
             "music": "BattleMusic",
             "communityCredit": null,
             "id": 51,
-            "scId": 1500036
+            "scId": 1500036,
+            "rawTID": "TID_BATTLE_ROYALE_3"
         },
         {
             "name": "SurvivalTeam4",
@@ -55076,7 +55441,8 @@
             "music": "BattleMusic",
             "communityCredit": null,
             "id": 52,
-            "scId": 1500037
+            "scId": 1500037,
+            "rawTID": "TID_BATTLE_ROYALE_4"
         },
         {
             "name": "SurvivalTeam5",
@@ -55104,7 +55470,8 @@
             "music": "BattleMusic",
             "communityCredit": "Mordeus",
             "id": 53,
-            "scId": 1500038
+            "scId": 1500038,
+            "rawTID": "TID_BATTLE_ROYALE_5"
         },
         {
             "name": "Coop3",
@@ -55132,7 +55499,8 @@
             "music": "BattleMusic",
             "communityCredit": null,
             "id": 54,
-            "scId": 1500039
+            "scId": 1500039,
+            "rawTID": "TID_COOP_6"
         },
         {
             "name": "Gemgrab7",
@@ -55160,7 +55528,8 @@
             "music": "BattleMusic",
             "communityCredit": "DarkKnight",
             "id": 55,
-            "scId": 1500040
+            "scId": 1500040,
+            "rawTID": "TID_GOLDRUSH_7"
         },
         {
             "name": "Gemgrab10",
@@ -55188,7 +55557,8 @@
             "music": "BattleMusic",
             "communityCredit": "Lewinham",
             "id": 56,
-            "scId": 1500041
+            "scId": 1500041,
+            "rawTID": "TID_GOLDRUSH_10"
         },
         {
             "name": "Heist5",
@@ -55216,7 +55586,8 @@
             "music": "BattleMusic",
             "communityCredit": "Rushalisk",
             "id": 57,
-            "scId": 1500042
+            "scId": 1500042,
+            "rawTID": "TID_BANKHEIST_5"
         },
         {
             "name": "Survival7",
@@ -55244,7 +55615,8 @@
             "music": "BattleMusic",
             "communityCredit": null,
             "id": 58,
-            "scId": 1500043
+            "scId": 1500043,
+            "rawTID": "TID_BATTLE_ROYALE_7"
         },
         {
             "name": "SurvivalTeam6",
@@ -55272,7 +55644,8 @@
             "music": "BattleMusic",
             "communityCredit": null,
             "id": 59,
-            "scId": 1500044
+            "scId": 1500044,
+            "rawTID": "TID_BATTLE_ROYALE_6"
         },
         {
             "name": "Survival8",
@@ -55300,7 +55673,8 @@
             "music": "BattleMusic",
             "communityCredit": "Rushalisk",
             "id": 60,
-            "scId": 1500045
+            "scId": 1500045,
+            "rawTID": "TID_BATTLE_ROYALE_8"
         },
         {
             "name": "SurvivalTeam8",
@@ -55328,7 +55702,8 @@
             "music": "BattleMusic",
             "communityCredit": "Rushalisk",
             "id": 61,
-            "scId": 1500046
+            "scId": 1500046,
+            "rawTID": "TID_BATTLE_ROYALE_8"
         },
         {
             "name": "Heist6",
@@ -55356,7 +55731,8 @@
             "music": "BattleMusic",
             "communityCredit": "Mordeus",
             "id": 62,
-            "scId": 1500047
+            "scId": 1500047,
+            "rawTID": "TID_BANKHEIST_6"
         },
         {
             "name": "Gemgrab11",
@@ -55384,7 +55760,8 @@
             "music": "BattleMusic",
             "communityCredit": "FatBubblyDragon",
             "id": 63,
-            "scId": 1500048
+            "scId": 1500048,
+            "rawTID": "TID_GOLDRUSH_11"
         },
         {
             "name": "Heist7",
@@ -55412,7 +55789,8 @@
             "music": "BattleMusic",
             "communityCredit": "Schmedricks",
             "id": 64,
-            "scId": 1500049
+            "scId": 1500049,
+            "rawTID": "TID_BANKHEIST_7"
         },
         {
             "name": "Ball4",
@@ -55440,7 +55818,8 @@
             "music": "BattleMusic",
             "communityCredit": "Lex",
             "id": 65,
-            "scId": 1500050
+            "scId": 1500050,
+            "rawTID": "TID_BALL_4"
         },
         {
             "name": "Ball6",
@@ -55468,7 +55847,8 @@
             "music": "BattleMusic",
             "communityCredit": "Mordeus",
             "id": 66,
-            "scId": 1500051
+            "scId": 1500051,
+            "rawTID": "TID_BALL_6"
         },
         {
             "name": "Ball7",
@@ -55496,7 +55876,8 @@
             "music": "BattleMusic",
             "communityCredit": "Lewinham",
             "id": 67,
-            "scId": 1500052
+            "scId": 1500052,
+            "rawTID": "TID_BALL_7"
         },
         {
             "name": "Heist8",
@@ -55524,7 +55905,8 @@
             "music": "BattleMusic",
             "communityCredit": "AlexEsteAdevarat",
             "id": 68,
-            "scId": 1500053
+            "scId": 1500053,
+            "rawTID": "TID_BANKHEIST_8"
         },
         {
             "name": "Wanted9",
@@ -55552,7 +55934,8 @@
             "music": "BattleMusic",
             "communityCredit": "thelucas2000",
             "id": 69,
-            "scId": 1500054
+            "scId": 1500054,
+            "rawTID": "TID_WANTED_9"
         },
         {
             "name": "Survival12",
@@ -55580,7 +55963,8 @@
             "music": "BattleMusic",
             "communityCredit": "Tony_A9",
             "id": 70,
-            "scId": 1500055
+            "scId": 1500055,
+            "rawTID": "TID_BATTLE_ROYALE_12"
         },
         {
             "name": "SurvivalTeam12",
@@ -55608,7 +55992,8 @@
             "music": "BattleMusic",
             "communityCredit": "Tony_A9",
             "id": 71,
-            "scId": 1500056
+            "scId": 1500056,
+            "rawTID": "TID_BATTLE_ROYALE_12"
         },
         {
             "name": "Raid1",
@@ -55636,7 +56021,8 @@
             "music": "BattleMusic",
             "communityCredit": null,
             "id": 72,
-            "scId": 1500057
+            "scId": 1500057,
+            "rawTID": "TID_RAID_2"
         },
         {
             "name": "GGxmas1",
@@ -55664,7 +56050,8 @@
             "music": "Snow_brawl",
             "communityCredit": null,
             "id": 73,
-            "scId": 1500058
+            "scId": 1500058,
+            "rawTID": "TID_GOLDRUSH_XMAS_1"
         },
         {
             "name": "GGxmas2",
@@ -55692,7 +56079,8 @@
             "music": "Snow_brawl",
             "communityCredit": null,
             "id": 74,
-            "scId": 1500059
+            "scId": 1500059,
+            "rawTID": "TID_GOLDRUSH_XMAS_2"
         },
         {
             "name": "GGxmas3",
@@ -55720,7 +56108,8 @@
             "music": "Snow_brawl",
             "communityCredit": null,
             "id": 75,
-            "scId": 1500060
+            "scId": 1500060,
+            "rawTID": "TID_GOLDRUSH_XMAS_3"
         },
         {
             "name": "GGxmas4",
@@ -55748,7 +56137,8 @@
             "music": "Snow_brawl",
             "communityCredit": null,
             "id": 76,
-            "scId": 1500061
+            "scId": 1500061,
+            "rawTID": "TID_GOLDRUSH_XMAS_4"
         },
         {
             "name": "GGxmas5",
@@ -55776,7 +56166,8 @@
             "music": "Snow_brawl",
             "communityCredit": null,
             "id": 77,
-            "scId": 1500062
+            "scId": 1500062,
+            "rawTID": "TID_GOLDRUSH_XMAS_5"
         },
         {
             "name": "GGxmas6",
@@ -55804,7 +56195,8 @@
             "music": "Snow_brawl",
             "communityCredit": null,
             "id": 78,
-            "scId": 1500063
+            "scId": 1500063,
+            "rawTID": "TID_GOLDRUSH_XMAS_6"
         },
         {
             "name": "GGxmas7",
@@ -55832,7 +56224,8 @@
             "music": "Snow_brawl",
             "communityCredit": null,
             "id": 79,
-            "scId": 1500064
+            "scId": 1500064,
+            "rawTID": "TID_GOLDRUSH_XMAS_7"
         },
         {
             "name": "BossFight3",
@@ -55860,7 +56253,8 @@
             "music": "BattleMusic",
             "communityCredit": null,
             "id": 80,
-            "scId": 1500065
+            "scId": 1500065,
+            "rawTID": "TID_BOSS_6"
         },
         {
             "name": "BossFight4",
@@ -55888,7 +56282,8 @@
             "music": "BattleMusic",
             "communityCredit": null,
             "id": 81,
-            "scId": 1500066
+            "scId": 1500066,
+            "rawTID": "TID_BOSS_5"
         },
         {
             "name": "Raid2",
@@ -55916,7 +56311,8 @@
             "music": "BattleMusic",
             "communityCredit": null,
             "id": 82,
-            "scId": 1500067
+            "scId": 1500067,
+            "rawTID": "TID_RAID_3"
         },
         {
             "name": "Coop4",
@@ -55944,7 +56340,8 @@
             "music": "BattleMusic",
             "communityCredit": null,
             "id": 83,
-            "scId": 1500068
+            "scId": 1500068,
+            "rawTID": "TID_COOP_3"
         },
         {
             "name": "Heist9",
@@ -55972,7 +56369,8 @@
             "music": "BattleMusic",
             "communityCredit": null,
             "id": 84,
-            "scId": 1500069
+            "scId": 1500069,
+            "rawTID": "TID_BANKHEIST_9"
         },
         {
             "name": "Heist10",
@@ -56000,7 +56398,8 @@
             "music": "BattleMusic",
             "communityCredit": null,
             "id": 85,
-            "scId": 1500070
+            "scId": 1500070,
+            "rawTID": "TID_BANKHEIST_10"
         },
         {
             "name": "Heist11",
@@ -56028,7 +56427,8 @@
             "music": "BattleMusic",
             "communityCredit": "AeroNautikks",
             "id": 86,
-            "scId": 1500071
+            "scId": 1500071,
+            "rawTID": "TID_BANKHEIST_11"
         },
         {
             "name": "Heist12",
@@ -56056,7 +56456,8 @@
             "music": "BattleMusic",
             "communityCredit": "Zagibulenka",
             "id": 87,
-            "scId": 1500072
+            "scId": 1500072,
+            "rawTID": "TID_BANKHEIST_12"
         },
         {
             "name": "Heist13",
@@ -56084,7 +56485,8 @@
             "music": "BattleMusic",
             "communityCredit": null,
             "id": 88,
-            "scId": 1500073
+            "scId": 1500073,
+            "rawTID": "TID_BANKHEIST_13"
         },
         {
             "name": "LNYHeist1",
@@ -56112,7 +56514,8 @@
             "music": "Cny_levels",
             "communityCredit": null,
             "id": 89,
-            "scId": 1500074
+            "scId": 1500074,
+            "rawTID": "TID_BANKHEIST_9"
         },
         {
             "name": null,
@@ -56168,7 +56571,8 @@
             "music": "Cny_levels",
             "communityCredit": null,
             "id": 91,
-            "scId": 1500076
+            "scId": 1500076,
+            "rawTID": "TID_BANKHEIST_10"
         },
         {
             "name": null,
@@ -56224,7 +56628,8 @@
             "music": "Cny_levels",
             "communityCredit": "AeroNautikks",
             "id": 93,
-            "scId": 1500078
+            "scId": 1500078,
+            "rawTID": "TID_BANKHEIST_11"
         },
         {
             "name": null,
@@ -56280,7 +56685,8 @@
             "music": "Cny_levels",
             "communityCredit": "Zagibulenka",
             "id": 95,
-            "scId": 1500080
+            "scId": 1500080,
+            "rawTID": "TID_BANKHEIST_12"
         },
         {
             "name": null,
@@ -56336,7 +56742,8 @@
             "music": "Cny_levels",
             "communityCredit": null,
             "id": 97,
-            "scId": 1500082
+            "scId": 1500082,
+            "rawTID": "TID_BANKHEIST_13"
         },
         {
             "name": null,
@@ -56392,7 +56799,8 @@
             "music": "BattleMusic",
             "communityCredit": null,
             "id": 99,
-            "scId": 1500084
+            "scId": 1500084,
+            "rawTID": "TID_WANTED_9"
         },
         {
             "name": "Wanted11",
@@ -56420,7 +56828,8 @@
             "music": "BattleMusic",
             "communityCredit": null,
             "id": 100,
-            "scId": 1500085
+            "scId": 1500085,
+            "rawTID": "TID_WANTED_11"
         },
         {
             "name": "Wanted12",
@@ -56448,7 +56857,8 @@
             "music": "BattleMusic",
             "communityCredit": null,
             "id": 101,
-            "scId": 1500086
+            "scId": 1500086,
+            "rawTID": "TID_WANTED_12"
         },
         {
             "name": "Wanted13",
@@ -56476,7 +56886,8 @@
             "music": "BattleMusic",
             "communityCredit": "OwenReds",
             "id": 102,
-            "scId": 1500087
+            "scId": 1500087,
+            "rawTID": "TID_WANTED_13"
         },
         {
             "name": "Wanted14",
@@ -56504,7 +56915,8 @@
             "music": "BattleMusic",
             "communityCredit": null,
             "id": 103,
-            "scId": 1500088
+            "scId": 1500088,
+            "rawTID": "TID_WANTED_14"
         },
         {
             "name": "LNYWanted1",
@@ -56532,7 +56944,8 @@
             "music": "Cny_levels",
             "communityCredit": null,
             "id": 104,
-            "scId": 1500089
+            "scId": 1500089,
+            "rawTID": "TID_WANTED_9"
         },
         {
             "name": null,
@@ -56588,7 +57001,8 @@
             "music": "Cny_levels",
             "communityCredit": null,
             "id": 106,
-            "scId": 1500091
+            "scId": 1500091,
+            "rawTID": "TID_WANTED_11"
         },
         {
             "name": null,
@@ -56644,7 +57058,8 @@
             "music": "Cny_levels",
             "communityCredit": null,
             "id": 108,
-            "scId": 1500093
+            "scId": 1500093,
+            "rawTID": "TID_WANTED_12"
         },
         {
             "name": null,
@@ -56700,7 +57115,8 @@
             "music": "Cny_levels",
             "communityCredit": "OwenReds",
             "id": 110,
-            "scId": 1500095
+            "scId": 1500095,
+            "rawTID": "TID_WANTED_13"
         },
         {
             "name": null,
@@ -56756,7 +57172,8 @@
             "music": "Cny_levels",
             "communityCredit": null,
             "id": 112,
-            "scId": 1500097
+            "scId": 1500097,
+            "rawTID": "TID_WANTED_14"
         },
         {
             "name": null,
@@ -56812,7 +57229,8 @@
             "music": "Cny_levels",
             "communityCredit": null,
             "id": 114,
-            "scId": 1500099
+            "scId": 1500099,
+            "rawTID": "TID_GOLDRUSH_4"
         },
         {
             "name": null,
@@ -56868,7 +57286,8 @@
             "music": "Cny_levels",
             "communityCredit": null,
             "id": 116,
-            "scId": 1500101
+            "scId": 1500101,
+            "rawTID": "TID_GOLDRUSH_5"
         },
         {
             "name": null,
@@ -56924,7 +57343,8 @@
             "music": "Cny_levels",
             "communityCredit": null,
             "id": 118,
-            "scId": 1500103
+            "scId": 1500103,
+            "rawTID": "TID_GOLDRUSH_6"
         },
         {
             "name": null,
@@ -56980,7 +57400,8 @@
             "music": "BattleMusic",
             "communityCredit": null,
             "id": 120,
-            "scId": 1500105
+            "scId": 1500105,
+            "rawTID": "TID_WANTED_10"
         },
         {
             "name": "Survival10",
@@ -57008,7 +57429,8 @@
             "music": "BattleMusic",
             "communityCredit": "Binnyboy",
             "id": 121,
-            "scId": 1500106
+            "scId": 1500106,
+            "rawTID": "TID_BATTLE_ROYALE_10"
         },
         {
             "name": "SurvivalTeam10",
@@ -57036,7 +57458,8 @@
             "music": "BattleMusic",
             "communityCredit": "Binnyboy",
             "id": 122,
-            "scId": 1500107
+            "scId": 1500107,
+            "rawTID": "TID_BATTLE_ROYALE_10"
         },
         {
             "name": "Survival13",
@@ -57064,7 +57487,8 @@
             "music": "BattleMusic",
             "communityCredit": null,
             "id": 123,
-            "scId": 1500108
+            "scId": 1500108,
+            "rawTID": "TID_BATTLE_ROYALE_D2"
         },
         {
             "name": "SurvivalTeam13",
@@ -57092,7 +57516,8 @@
             "music": "BattleMusic",
             "communityCredit": null,
             "id": 124,
-            "scId": 1500109
+            "scId": 1500109,
+            "rawTID": "TID_BATTLE_ROYALE_D2"
         }
     ],
     "map_blocks": [
@@ -61006,85 +61431,99 @@
             "name": "message1",
             "tID": "TID_PREMADE_MSG_1",
             "fileName": null,
-            "exportName": null
+            "exportName": null,
+            "rawTID": "TID_PREMADE_MSG_1"
         },
         {
             "name": "message2",
             "tID": "TID_PREMADE_MSG_2",
             "fileName": null,
-            "exportName": null
+            "exportName": null,
+            "rawTID": "TID_PREMADE_MSG_2"
         },
         {
             "name": "message3",
             "tID": "TID_PREMADE_MSG_3",
             "fileName": null,
-            "exportName": null
+            "exportName": null,
+            "rawTID": "TID_PREMADE_MSG_3"
         },
         {
             "name": "message4",
             "tID": "TID_PREMADE_MSG_4",
             "fileName": null,
-            "exportName": null
+            "exportName": null,
+            "rawTID": "TID_PREMADE_MSG_4"
         },
         {
             "name": "message5",
             "tID": "TID_PREMADE_MSG_5",
             "fileName": null,
-            "exportName": null
+            "exportName": null,
+            "rawTID": "TID_PREMADE_MSG_5"
         },
         {
             "name": "message6",
             "tID": "TID_PREMADE_MSG_6",
             "fileName": null,
-            "exportName": null
+            "exportName": null,
+            "rawTID": "TID_PREMADE_MSG_6"
         },
         {
             "name": "message7",
             "tID": "TID_PREMADE_MSG_7",
             "fileName": null,
-            "exportName": null
+            "exportName": null,
+            "rawTID": "TID_PREMADE_MSG_7"
         },
         {
             "name": "message8",
             "tID": "TID_PREMADE_MSG_8",
             "fileName": null,
-            "exportName": null
+            "exportName": null,
+            "rawTID": "TID_PREMADE_MSG_8"
         },
         {
             "name": "message9",
             "tID": "TID_PREMADE_MSG_9",
             "fileName": null,
-            "exportName": null
+            "exportName": null,
+            "rawTID": "TID_PREMADE_MSG_9"
         },
         {
             "name": "message10",
             "tID": "TID_PREMADE_MSG_10",
             "fileName": null,
-            "exportName": null
+            "exportName": null,
+            "rawTID": "TID_PREMADE_MSG_10"
         },
         {
             "name": "message11",
             "tID": "TID_PREMADE_MSG_11",
             "fileName": null,
-            "exportName": null
+            "exportName": null,
+            "rawTID": "TID_PREMADE_MSG_11"
         },
         {
             "name": "message12",
             "tID": "TID_PREMADE_MSG_12",
             "fileName": null,
-            "exportName": null
+            "exportName": null,
+            "rawTID": "TID_PREMADE_MSG_12"
         },
         {
             "name": "message13",
             "tID": "TID_PREMADE_MSG_13",
             "fileName": null,
-            "exportName": null
+            "exportName": null,
+            "rawTID": "TID_PREMADE_MSG_13"
         },
         {
             "name": "message14",
             "tID": "TID_PREMADE_MSG_14",
             "fileName": null,
-            "exportName": null
+            "exportName": null,
+            "rawTID": "TID_PREMADE_MSG_14"
         }
     ],
     "milestones": [
@@ -80033,7 +80472,8 @@
             "tID": "International",
             "displayName": "International",
             "isCountry": false,
-            "id": 20
+            "id": 20,
+            "rawTID": "TID_REGION_INT"
         },
         {
             "name": "AF",
@@ -81818,35 +82258,40 @@
             "tID": "TID_REGION_CUSTOM1",
             "displayName": null,
             "isCountry": false,
-            "id": 275
+            "id": 275,
+            "rawTID": "TID_REGION_CUSTOM1"
         },
         {
             "name": "CUSTOM2",
             "tID": "TID_REGION_CUSTOM2",
             "displayName": null,
             "isCountry": false,
-            "id": 276
+            "id": 276,
+            "rawTID": "TID_REGION_CUSTOM2"
         },
         {
             "name": "CUSTOM3",
             "tID": "TID_REGION_CUSTOM3",
             "displayName": null,
             "isCountry": false,
-            "id": 277
+            "id": 277,
+            "rawTID": "TID_REGION_CUSTOM3"
         },
         {
             "name": "CUSTOM4",
             "tID": "TID_REGION_CUSTOM4",
             "displayName": null,
             "isCountry": false,
-            "id": 278
+            "id": 278,
+            "rawTID": "TID_REGION_CUSTOM4"
         },
         {
             "name": "CUSTOM5",
             "tID": "TID_REGION_CUSTOM5",
             "displayName": null,
             "isCountry": false,
-            "id": 279
+            "id": 279,
+            "rawTID": "TID_REGION_CUSTOM5"
         }
     ],
     "resources": [
@@ -81863,7 +82308,8 @@
             "textGreen": 255,
             "textBlue": 92,
             "cap": null,
-            "id": 5
+            "id": 5,
+            "rawTID": "TID_DIAMONDS"
         },
         {
             "name": "Gold",
@@ -81878,7 +82324,8 @@
             "textGreen": null,
             "textBlue": 192,
             "cap": null,
-            "id": 6
+            "id": 6,
+            "rawTID": "TID_GOLD"
         },
         {
             "name": "owcAny",
@@ -81893,7 +82340,8 @@
             "textGreen": null,
             "textBlue": null,
             "cap": null,
-            "id": 7
+            "id": 7,
+            "rawTID": "TID_OFFER_WILDCARD_ANY"
         },
         {
             "name": "owcRareOrBetter",
@@ -81908,7 +82356,8 @@
             "textGreen": null,
             "textBlue": null,
             "cap": null,
-            "id": 8
+            "id": 8,
+            "rawTID": "TID_OFFER_WILDCARD_RARE_OR_BETTER"
         },
         {
             "name": "owcEpicOrBetter",
@@ -81923,7 +82372,8 @@
             "textGreen": null,
             "textBlue": null,
             "cap": null,
-            "id": 9
+            "id": 9,
+            "rawTID": "TID_OFFER_WILDCARD_EPIC_OR_BETTER"
         },
         {
             "name": "Dust",
@@ -81938,7 +82388,8 @@
             "textGreen": null,
             "textBlue": null,
             "cap": null,
-            "id": 10
+            "id": 10,
+            "rawTID": "TID_DUST"
         },
         {
             "name": "Upgradium",
@@ -81953,7 +82404,8 @@
             "textGreen": null,
             "textBlue": null,
             "cap": null,
-            "id": 11
+            "id": 11,
+            "rawTID": "TID_UPGRADIUM"
         },
         {
             "name": "Bolts",
@@ -81968,7 +82420,8 @@
             "textGreen": null,
             "textBlue": null,
             "cap": null,
-            "id": 12
+            "id": 12,
+            "rawTID": "TID_BOLTS"
         },
         {
             "name": "HeroLvlUpMaterial",
@@ -81983,7 +82436,8 @@
             "textGreen": null,
             "textBlue": null,
             "cap": null,
-            "id": 13
+            "id": 13,
+            "rawTID": "TID_HERO_LVL_UP_MATERIAL"
         },
         {
             "name": "FirstWins",
@@ -81998,7 +82452,8 @@
             "textGreen": null,
             "textBlue": null,
             "cap": null,
-            "id": 14
+            "id": 14,
+            "rawTID": "TID_FIRST_WINS"
         }
     ],
     "skills": [
@@ -85626,7 +86081,8 @@
             "mainAttackEffect": null,
             "ultiAttackEffect": null,
             "useBlueTextureInMenus": null,
-            "id": 31
+            "id": 31,
+            "rawTID": "TID_GUNSLINGER_ROCKSTAR_SKIN"
         },
         {
             "name": "BullGuyDefault",
@@ -85794,7 +86250,8 @@
             "mainAttackEffect": null,
             "ultiAttackEffect": null,
             "useBlueTextureInMenus": null,
-            "id": 34
+            "id": 34,
+            "rawTID": "TID_ROCKET_BEACH_SKIN"
         },
         {
             "name": "TntGuyDefault",
@@ -86130,7 +86587,8 @@
             "mainAttackEffect": "spike_002_atk",
             "ultiAttackEffect": "spike_002_ulti",
             "useBlueTextureInMenus": null,
-            "id": 40
+            "id": 40,
+            "rawTID": "TID_CACTUS_PINK_SKIN"
         },
         {
             "name": "BarkeepDefault",
@@ -86354,7 +86812,8 @@
             "mainAttackEffect": null,
             "ultiAttackEffect": null,
             "useBlueTextureInMenus": null,
-            "id": 44
+            "id": 44,
+            "rawTID": "TID_SHAMAN_PANDA_SKIN"
         },
         {
             "name": "ShamanBearDefault",
@@ -86634,7 +87093,8 @@
             "mainAttackEffect": null,
             "ultiAttackEffect": null,
             "useBlueTextureInMenus": null,
-            "id": 49
+            "id": 49,
+            "rawTID": "TID_CROW_WHITE_SKIN"
         },
         {
             "name": "DeadMariachiDefault",
@@ -86914,7 +87374,8 @@
             "mainAttackEffect": null,
             "ultiAttackEffect": null,
             "useBlueTextureInMenus": null,
-            "id": 54
+            "id": 54,
+            "rawTID": "TID_BULL_HAIR_SKIN"
         },
         {
             "name": "TrickshotGold",
@@ -86970,7 +87431,8 @@
             "mainAttackEffect": "rico_003_atk",
             "ultiAttackEffect": "rico_003_ulti",
             "useBlueTextureInMenus": null,
-            "id": 55
+            "id": 55,
+            "rawTID": "TID_TRICKSHOT_GOLD_SKIN"
         },
         {
             "name": "BarkeepGold",
@@ -87026,7 +87488,8 @@
             "mainAttackEffect": null,
             "ultiAttackEffect": null,
             "useBlueTextureInMenus": null,
-            "id": 56
+            "id": 56,
+            "rawTID": "TID_BARKEEP_GOLD_SKIN"
         },
         {
             "name": "LuchadorRudo",
@@ -87082,7 +87545,8 @@
             "mainAttackEffect": null,
             "ultiAttackEffect": null,
             "useBlueTextureInMenus": null,
-            "id": 57
+            "id": 57,
+            "rawTID": "TID_LUCHADOR_RUDO_SKIN"
         },
         {
             "name": "BanditGirlBandita",
@@ -87138,7 +87602,8 @@
             "mainAttackEffect": null,
             "ultiAttackEffect": null,
             "useBlueTextureInMenus": null,
-            "id": 58
+            "id": 58,
+            "rawTID": "TID_SHOTGUN_BANDITA_SKIN"
         },
         {
             "name": "LuchadorRey",
@@ -87194,7 +87659,8 @@
             "mainAttackEffect": null,
             "ultiAttackEffect": null,
             "useBlueTextureInMenus": null,
-            "id": 59
+            "id": 59,
+            "rawTID": "TID_LUCHADOR_KING_SKIN"
         },
         {
             "name": "BallDefault",
@@ -87978,7 +88444,8 @@
             "mainAttackEffect": null,
             "ultiAttackEffect": null,
             "useBlueTextureInMenus": null,
-            "id": 73
+            "id": 73,
+            "rawTID": "TID_MECHANIC_KNIGHT_SKIN"
         },
         {
             "name": "FrankCaveman",
@@ -88034,7 +88501,8 @@
             "mainAttackEffect": null,
             "ultiAttackEffect": null,
             "useBlueTextureInMenus": null,
-            "id": 74
+            "id": 74,
+            "rawTID": "TID_FRANK_CAVEMAN_SKIN"
         },
         {
             "name": "TurretDragon",
@@ -88146,7 +88614,8 @@
             "mainAttackEffect": null,
             "ultiAttackEffect": null,
             "useBlueTextureInMenus": null,
-            "id": 76
+            "id": 76,
+            "rawTID": "TID_MECHANIC_SUMMER_SKIN"
         },
         {
             "name": "TurretSummertime",
@@ -88258,7 +88727,8 @@
             "mainAttackEffect": null,
             "ultiAttackEffect": null,
             "useBlueTextureInMenus": null,
-            "id": 78
+            "id": 78,
+            "rawTID": "TID_CROW_PHEONIX_SKIN"
         },
         {
             "name": "UndertakerGreaser",
@@ -88314,7 +88784,8 @@
             "mainAttackEffect": null,
             "ultiAttackEffect": null,
             "useBlueTextureInMenus": null,
-            "id": 79
+            "id": 79,
+            "rawTID": "TID_UNDERTAKER_GREASER_SKIN"
         },
         {
             "name": "BigBotDefault",
@@ -88426,7 +88897,8 @@
             "mainAttackEffect": null,
             "ultiAttackEffect": null,
             "useBlueTextureInMenus": null,
-            "id": 81
+            "id": 81,
+            "rawTID": "TID_SHOTGUN_STAR_SKIN"
         },
         {
             "name": "LootBox",
@@ -88650,7 +89122,8 @@
             "mainAttackEffect": null,
             "ultiAttackEffect": null,
             "useBlueTextureInMenus": null,
-            "id": 85
+            "id": 85,
+            "rawTID": "TID_DYNAMIKE_SANTA_SKIN"
         },
         {
             "name": "TntGuyChef",
@@ -88706,7 +89179,8 @@
             "mainAttackEffect": null,
             "ultiAttackEffect": null,
             "useBlueTextureInMenus": null,
-            "id": 86
+            "id": 86,
+            "rawTID": "TID_DYNAMIKE_CHEF_SKIN"
         },
         {
             "name": "RocketGirlBoombox",
@@ -88762,7 +89236,8 @@
             "mainAttackEffect": null,
             "ultiAttackEffect": null,
             "useBlueTextureInMenus": null,
-            "id": 87
+            "id": 87,
+            "rawTID": "TID_BROCK_BOOMBOX_SKIN"
         },
         {
             "name": "BarkeepWizard",
@@ -88818,7 +89293,8 @@
             "mainAttackEffect": "barkeep_wizard_attack",
             "ultiAttackEffect": "barkeep_wizard_attack_ulti",
             "useBlueTextureInMenus": null,
-            "id": 88
+            "id": 88,
+            "rawTID": "TID_BARLEY_WIZARD_SKIN"
         },
         {
             "name": "ShamanReindeer",
@@ -88874,7 +89350,8 @@
             "mainAttackEffect": null,
             "ultiAttackEffect": null,
             "useBlueTextureInMenus": null,
-            "id": 89
+            "id": 89,
+            "rawTID": "TID_NITA_REINDEER_SKIN"
         },
         {
             "name": "ArtilleryGalElf",
@@ -88930,7 +89407,8 @@
             "mainAttackEffect": null,
             "ultiAttackEffect": null,
             "useBlueTextureInMenus": null,
-            "id": 90
+            "id": 90,
+            "rawTID": "TID_PENNY_ELF_SKIN"
         },
         {
             "name": "NinjaDefault",
@@ -89042,7 +89520,8 @@
             "mainAttackEffect": null,
             "ultiAttackEffect": null,
             "useBlueTextureInMenus": null,
-            "id": 92
+            "id": 92,
+            "rawTID": "TID_UNDERTAKER_HAT_SKIN"
         },
         {
             "name": "BullGuyFootbull",
@@ -89098,7 +89577,8 @@
             "mainAttackEffect": null,
             "ultiAttackEffect": null,
             "useBlueTextureInMenus": null,
-            "id": 93
+            "id": 93,
+            "rawTID": "TID_SKIN_FOOTBULL"
         },
         {
             "name": "ShamanBearReindeer",
@@ -89322,7 +89802,8 @@
             "mainAttackEffect": "rico_002_atk",
             "ultiAttackEffect": "rico_002_ulti",
             "useBlueTextureInMenus": null,
-            "id": 97
+            "id": 97,
+            "rawTID": "TID_SKIN_POPCORN_RICO"
         },
         {
             "name": "GunSlingerHanbok",
@@ -89378,7 +89859,8 @@
             "mainAttackEffect": "colt_002_atk",
             "ultiAttackEffect": null,
             "useBlueTextureInMenus": null,
-            "id": 98
+            "id": 98,
+            "rawTID": "TID_SKIN_LUNAR_COLT"
         },
         {
             "name": "BarrelbotCny",
@@ -89434,7 +89916,8 @@
             "mainAttackEffect": "darryl_002_atk",
             "ultiAttackEffect": null,
             "useBlueTextureInMenus": null,
-            "id": 99
+            "id": 99,
+            "rawTID": "TID_SKIN_DUMPLING_DARRYL"
         },
         {
             "name": "PocoValentine",
@@ -89490,7 +89973,8 @@
             "mainAttackEffect": "poco_002_atk_root",
             "ultiAttackEffect": "poco_002_atk_root",
             "useBlueTextureInMenus": null,
-            "id": 100
+            "id": 100,
+            "rawTID": "TID_SKIN_VALENTINE_POCO"
         },
         {
             "name": "RocketGirlCny",
@@ -89546,7 +90030,8 @@
             "mainAttackEffect": "brock_002_atk",
             "ultiAttackEffect": "brock_002_atk",
             "useBlueTextureInMenus": null,
-            "id": 101
+            "id": 101,
+            "rawTID": "TID_SKIN_LUNAR_BROCK"
         }
     ],
     "skinsrarity": [

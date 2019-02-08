@@ -46,7 +46,8 @@
         "tID": "International",
         "displayName": "International",
         "isCountry": false,
-        "id": 20
+        "id": 20,
+        "rawTID": "TID_REGION_INT"
     },
     {
         "name": "AF",
@@ -1831,34 +1832,39 @@
         "tID": "TID_REGION_CUSTOM1",
         "displayName": null,
         "isCountry": false,
-        "id": 275
+        "id": 275,
+        "rawTID": "TID_REGION_CUSTOM1"
     },
     {
         "name": "CUSTOM2",
         "tID": "TID_REGION_CUSTOM2",
         "displayName": null,
         "isCountry": false,
-        "id": 276
+        "id": 276,
+        "rawTID": "TID_REGION_CUSTOM2"
     },
     {
         "name": "CUSTOM3",
         "tID": "TID_REGION_CUSTOM3",
         "displayName": null,
         "isCountry": false,
-        "id": 277
+        "id": 277,
+        "rawTID": "TID_REGION_CUSTOM3"
     },
     {
         "name": "CUSTOM4",
         "tID": "TID_REGION_CUSTOM4",
         "displayName": null,
         "isCountry": false,
-        "id": 278
+        "id": 278,
+        "rawTID": "TID_REGION_CUSTOM4"
     },
     {
         "name": "CUSTOM5",
         "tID": "TID_REGION_CUSTOM5",
         "displayName": null,
         "isCountry": false,
-        "id": 279
+        "id": 279,
+        "rawTID": "TID_REGION_CUSTOM5"
     }
 ]
