@@ -12,7 +12,7 @@
 "GunslingerRecoil2","colt_recoil2.scw",-1,-1,-1,,100,100,100,"false","spine_lower_s#4"
 "GunslingerReload","colt_idle.scw",1,3,-1,,800,800,800,"false","spine_lower_s#4"
 "GunslingerPushback","colt_pushback.scw",-1,-1,-1,,100,100,100,"false",5
-"GunslingerWin","colt_win.scw",-1,-1,-1,125,,,200,"false",
+"GunslingerWin","colt_win.scw",-1,-1,-1,,,,,"false",
 "GunslingerWinloop","colt_idle.scw",-1,-1,-1,,,,,"true",
 "GunslingerLose","colt_loseloop.scw",0,47,-1,,,,200,"false",
 "GunslingerLoseloop","colt_loseloop.scw",48,85,-1,,,,200,"true",
@@ -137,8 +137,8 @@
 "SpikeReload","spike_idle.scw",1,2,-1,,200,200,200,"false",5
 "SpikeWin","spike_win.scw",1,43,-1,,,,,"false",5
 "SpikeWinloop","spike_win.scw",43,63,-1,,,,,"true",1
-"SpikeLose","spike_lose.scw",1,24,-1,,,,,"false",5
-"SpikeLoseloop","spike_lose.scw",24,30,-1,,,,,"true",1
+"SpikeLose","spike_lose.scw",1,20,-1,,,,,"false",5
+"SpikeLoseloop","spike_lose.scw",20,50,-1,,,,,"true",1
 "LouchadorIdle","louchador_idle.scw",-1,-1,-1,,500,500,,"true",
 "LouchadorWalk","louchador_walk.scw",-1,-1,-1,150,120,200,,"true",1
 "LouchadorPrimary","louchador_attack1.scw",-1,-1,-1,,100,100,50,"false","ChestBone#3"
