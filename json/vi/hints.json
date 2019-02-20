@@ -1,0 +1,389 @@
+[
+    {
+        "name": 1,
+        "tID": "B\u1ea1n c\u00f3 th\u1ec3 NH\u1ea4N v\u00e0o <ccc0033>n\u00fat \u0111i\u1ec1u khi\u1ec3n m\u00e0u \u0111\u1ecf</c> \u0111\u1ec3 B\u1eaeN NHANH v\u00e0o k\u1ebb \u0111\u1ecbch \u1edf g\u1ea7n nh\u1ea5t.",
+        "minXPLevel": 1,
+        "maxXPLevel": 40,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_0"
+    },
+    {
+        "name": 2,
+        "tID": "B\u1ea1n c\u00f3 th\u1ec3 NH\u1ea4N v\u00e0o <cff9900>n\u00fat \u0111i\u1ec1u khi\u1ec3n m\u00e0u v\u00e0ng</c> \u0111\u1ec3 B\u1eaeN NHANH b\u1eb1ng Tuy\u1ec7t chi\u00eau v\u00e0o k\u1ebb \u0111\u1ecbch \u1edf g\u1ea7n nh\u1ea5t.",
+        "minXPLevel": 1,
+        "maxXPLevel": 40,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_1"
+    },
+    {
+        "name": 3,
+        "tID": "B\u1ea1n c\u00f3 th\u1ec3 K\u00c9O <ccc0033>n\u00fat \u0111i\u1ec1u khi\u1ec3n m\u00e0u \u0111\u1ecf</c> \u0111\u1ec3 NH\u1eaeM M\u1ee4C TI\u00caU.",
+        "minXPLevel": 1,
+        "maxXPLevel": 40,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_2"
+    },
+    {
+        "name": 4,
+        "tID": "B\u1ea1n c\u00f3 th\u1ec3 K\u00c9O <cff9900>n\u00fat \u0111i\u1ec1u khi\u1ec3n m\u00e0u v\u00e0ng</c> \u0111\u1ec3 NH\u1eaeM M\u1ee4C TI\u00caU b\u1eb1ng Tuy\u1ec7t chi\u00eau.",
+        "minXPLevel": 1,
+        "maxXPLevel": 40,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_3"
+    },
+    {
+        "name": 5,
+        "tID": "B\u1ea1n c\u00f3 th\u1ec3 h\u1ee7y nh\u1eafm m\u1ee5c ti\u00eau b\u1eb1ng c\u00e1ch k\u00e9o n\u00fat \u0111i\u1ec1u khi\u1ec3n v\u1ec1 ph\u00eda ch\u00ednh gi\u1eefa.",
+        "minXPLevel": 1,
+        "maxXPLevel": 40,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_4"
+    },
+    {
+        "name": 6,
+        "tID": "T\u00ednh n\u0103ng Gh\u00e9p tr\u1eadn c\u0103n c\u1ee9 theo s\u1ed1 C\u00fap c\u1ee7a Chi\u1ebfn binh Brawl b\u1ea1n \u0111ang ch\u01a1i, gi\u00fap d\u1ec5 d\u00e0ng ki\u1ebfm C\u00fap b\u1eb1ng Chi\u1ebfn binh Brawl m\u1edbi m\u1edf kh\u00f3a h\u01a1n.",
+        "minXPLevel": 3,
+        "maxXPLevel": 999,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_5"
+    },
+    {
+        "name": 7,
+        "tID": "C\u00e0ng c\u00f3 nhi\u1ec1u Chi\u1ebfn binh Brawl th\u00ec c\u00e0ng d\u1ec5 d\u00e0ng h\u01a1n \u0111\u1ec3 n\u00e2ng t\u1ed5ng s\u1ed1 C\u00fap v\u00e0 nh\u1eadn \u0111\u01b0\u1ee3c th\u00eam Ph\u1ea7n th\u01b0\u1edfng.",
+        "minXPLevel": 3,
+        "maxXPLevel": 999,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_6"
+    },
+    {
+        "name": 8,
+        "tID": "Ph\u00e1t b\u1eafn c\u1ee7a Piper bay c\u00e0ng xa th\u00ec c\u00e0ng g\u00e2y ra nhi\u1ec1u s\u00e1t th\u01b0\u01a1ng h\u01a1n.",
+        "minXPLevel": 20,
+        "maxXPLevel": 999,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_7"
+    },
+    {
+        "name": 9,
+        "tID": "Tuy\u1ec7t chi\u00eau c\u1ee7a Barley \u0111\u1eb7c bi\u1ec7t r\u1ea5t m\u1ea1nh trong ph\u1ea1m vi g\u1ea7n b\u1edfi v\u00ec c\u00e1c chai l\u1ecd c\u00f3 ph\u1ea1m vi r\u01a1i kh\u00e1 nh\u1ecf.",
+        "minXPLevel": 999,
+        "maxXPLevel": 999,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_8"
+    },
+    {
+        "name": 10,
+        "tID": "M\u1ed7i khi \u0111\u1ea1n c\u1ee7a Rico b\u1eadt t\u01b0\u1eddng th\u00ec ch\u00fang s\u1ebd bay \u0111i xa h\u01a1n.",
+        "minXPLevel": 20,
+        "maxXPLevel": 999,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_9"
+    },
+    {
+        "name": 11,
+        "tID": "B\u1ea1n c\u00f3 th\u1ec3 k\u00edch ho\u1ea1t <ccc0033>n\u00fat \u0111i\u1ec1u khi\u1ec3n m\u00e0u \u0111\u1ecf</c> b\u1ea5t c\u1ee9 \u0111\u00e2u \u1edf ph\u00eda b\u00ean ph\u1ea3i c\u1ee7a m\u00e0n h\u00ecnh \u0111\u1ec3 b\u1eafn.",
+        "minXPLevel": 1,
+        "maxXPLevel": 40,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_10"
+    },
+    {
+        "name": 12,
+        "tID": "C\u1ea3 ch\u1ee9c n\u0103ng t\u1ea5n c\u00f4ng ch\u00ednh v\u00e0 Tuy\u1ec7t chi\u00eau c\u1ee7a b\u1ea1n \u0111\u1ec1u c\u00f3 hai ch\u1ebf \u0111\u1ed9 b\u1eafn: NH\u1ea4N \u0111\u1ec3 B\u1eaeN NHANH v\u00e0 K\u00c9O \u0111\u1ec3 NH\u1eaeM M\u1ee4C TI\u00caU.",
+        "minXPLevel": 1,
+        "maxXPLevel": 40,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_11"
+    },
+    {
+        "name": 13,
+        "tID": "Nh\u1eafm m\u1ee5c ti\u00eau \u0111\u1ec3 b\u1eafn s\u1ebd r\u1ea5t h\u1eefu \u00edch khi h\u01b0\u1edbng \u0111\u1ebfn m\u1ed9t m\u1ee5c ti\u00eau di \u0111\u1ed9ng.",
+        "minXPLevel": 3,
+        "maxXPLevel": 60,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_12"
+    },
+    {
+        "name": 14,
+        "tID": "T\u00ednh n\u0103ng B\u1eaeN NHANH r\u1ea5t h\u1eefu hi\u1ec7u khi b\u1ea1n mu\u1ed1n b\u1eafn tr\u1ea3 nhanh ch\u00f3ng nh\u01b0ng kh\u00f4ng c\u00f3 th\u1eddi gian \u0111\u1ec3 nh\u1eafm m\u1ee5c ti\u00eau.",
+        "minXPLevel": 3,
+        "maxXPLevel": 60,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_13"
+    },
+    {
+        "name": 15,
+        "tID": "T\u00ednh n\u0103ng B\u1eaeN NHANH r\u1ea5t h\u1eefu hi\u1ec7u \u0111\u1ed1i v\u1edbi k\u1ebb \u0111\u1ecbch \u1edf g\u1ea7n b\u1ea1n.",
+        "minXPLevel": 3,
+        "maxXPLevel": 60,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_14"
+    },
+    {
+        "name": 16,
+        "tID": "Khi b\u1ea1n \u1ea9n n\u1ea5p trong b\u1ee5i c\u00e2y, k\u1ebb \u0111\u1ecbch v\u1eabn c\u00f3 th\u1ec3 \u0111\u1ecbnh \u0111\u01b0\u1ee3c v\u1ecb tr\u00ed c\u1ee7a b\u1ea1n n\u1ebfu h\u1ecd ti\u1ebfn \u0111\u1ebfn \u0111\u1ee7 g\u1ea7n.",
+        "minXPLevel": 3,
+        "maxXPLevel": 60,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_15"
+    },
+    {
+        "name": 17,
+        "tID": "T\u00ednh n\u0103ng B\u1eaeN NHANH s\u1ebd b\u1eafn th\u1eb3ng v\u00e0o k\u1ebb \u0111\u1ecbch g\u1ea7n nh\u1ea5t v\u00e0 kh\u00f4ng t\u00ednh \u0111\u1ebfn chuy\u1ec3n \u0111\u1ed9ng c\u1ee7a k\u1ebb \u0111\u1ecbch.",
+        "minXPLevel": 3,
+        "maxXPLevel": 60,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_16"
+    },
+    {
+        "name": 18,
+        "tID": "Vi\u1ec7c nh\u1eafm m\u1ee5c ti\u00eau s\u1ebd r\u1ea5t h\u1eefu \u00edch khi b\u1eafn v\u00e0o b\u1ee5i c\u00e2y \u0111\u1ec3 truy t\u00ecm k\u1ebb \u0111\u1ecbch.",
+        "minXPLevel": 3,
+        "maxXPLevel": 60,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_17"
+    },
+    {
+        "name": 19,
+        "tID": "T\u00ednh n\u0103ng B\u1eaeN NHANH r\u1ea5t h\u1eefu hi\u1ec7u \u0111\u1ed1i v\u1edbi k\u1ebb \u0111\u1ecbch b\u1ea5t \u0111\u1ed9ng.",
+        "minXPLevel": 3,
+        "maxXPLevel": 60,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_18"
+    },
+    {
+        "name": 20,
+        "tID": "T\u00ednh n\u0103ng B\u1eaeN NHANH ho\u1ea1t \u0111\u1ed9ng r\u1ea5t hi\u1ec7u qu\u1ea3 \u0111\u1ed1i v\u1edbi k\u1ebb \u0111\u1ecbch di chuy\u1ec3n th\u1eb3ng v\u1ec1 ph\u00eda b\u1ea1n ho\u1eb7c tr\u00e1nh xa b\u1ea1n.",
+        "minXPLevel": 3,
+        "maxXPLevel": 60,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_19"
+    },
+    {
+        "name": 21,
+        "tID": "Khi b\u1ea1n \u0111ang n\u00fap trong b\u1ee5i c\u00e2y, k\u1ebb \u0111\u1ecbch c\u00f3 th\u1ec3 th\u1ea5y b\u1ea1n n\u1ebfu b\u1ea1n t\u1ea5n c\u00f4ng ho\u1eb7c ch\u1ecbu s\u00e1t th\u01b0\u01a1ng.",
+        "minXPLevel": 3,
+        "maxXPLevel": 60,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_20"
+    },
+    {
+        "name": 22,
+        "tID": "B\u1ea1n c\u00f3 th\u1ec3 tr\u1ed1n k\u1ebb \u0111\u1ecbch trong c\u00e1c b\u1ee5i c\u00e2y.",
+        "minXPLevel": 1,
+        "maxXPLevel": 40,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_21"
+    },
+    {
+        "name": 23,
+        "tID": "Khi s\u1eed d\u1ee5ng B\u1eaeN NHANH, v\u0169 kh\u00ed c\u1ee7a b\u1ea1n s\u1ebd b\u1eafn t\u1ef1 \u0111\u1ed9ng k\u1ec3 c\u1ea3 khi kh\u00f4ng c\u00f3 k\u1ebb \u0111\u1ecbch n\u00e0o \u1edf trong ph\u1ea1m vi.",
+        "minXPLevel": 1,
+        "maxXPLevel": 40,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_22"
+    },
+    {
+        "name": 24,
+        "tID": "M\u1ed9t s\u1ed1 Chi\u1ebfn binh Brawl c\u00f3 kh\u1ea3 n\u0103ng chi\u1ebfn \u0111\u1ea5u t\u1ed1t h\u01a1n trong m\u1ed9t s\u1ed1 b\u1ea3n \u0111\u1ed3 v\u00e0 s\u1ef1 ki\u1ec7n so v\u1edbi c\u00e1c Chi\u1ebfn binh Brawl kh\u00e1c.",
+        "minXPLevel": 3,
+        "maxXPLevel": 60,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_23"
+    },
+    {
+        "name": 25,
+        "tID": "Chi\u1ebfn binh Brawl c\u00f3 t\u1ea7m xa th\u01b0\u1eddng th\u1ec3 hi\u1ec7n t\u1ed1t h\u01a1n trong c\u00e1c b\u1ea3n \u0111\u1ed3 m\u1edf.",
+        "minXPLevel": 3,
+        "maxXPLevel": 60,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_24"
+    },
+    {
+        "name": 26,
+        "tID": "Chi\u1ebfn binh Brawl c\u00f3 t\u1ea7m g\u1ea7n th\u01b0\u1eddng th\u1ec3 hi\u1ec7n t\u1ed1t h\u01a1n trong c\u00e1c b\u1ea3n \u0111\u1ed3 c\u00f3 nhi\u1ec1u ch\u1ed7 \u1ea9n n\u1ea5p v\u00e0 b\u1ee5i c\u00e2y.",
+        "minXPLevel": 3,
+        "maxXPLevel": 60,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_25"
+    },
+    {
+        "name": 27,
+        "tID": "Penny c\u00f3 th\u1ec3 g\u00e2y ra r\u1ea5t nhi\u1ec1u s\u00e1t th\u01b0\u01a1ng v\u1edbi \u0111\u00f2n t\u1ea5n c\u00f4ng di\u1ec7n r\u1ed9ng c\u1ee7a m\u00ecnh n\u1ebfu m\u1ee5c ti\u00eau c\u00f9ng \u1edf trong m\u1ed9t h\u00e0ng.",
+        "minXPLevel": 20,
+        "maxXPLevel": 999,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_26"
+    },
+    {
+        "name": 28,
+        "tID": "T\u1eadp h\u1ee3p m\u1ed9t \u0111\u1ed9i tr\u01b0\u1edbc tr\u1eadn \u0111\u1ea5u gi\u00fap b\u1ea1n l\u00ean k\u1ebf ho\u1ea1ch tr\u01b0\u1edbc tr\u1eadn \u0111\u1ea5u v\u00e0 ch\u1ecdn k\u1ebft h\u1ee3p chi\u1ebfn binh Brawl h\u1eefu hi\u1ec7u nh\u1ea5t.",
+        "minXPLevel": 3,
+        "maxXPLevel": 999,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_27"
+    },
+    {
+        "name": 29,
+        "tID": "H\u00e3y th\u1eed ch\u01a1i c\u00e1c tr\u1eadn \u0111\u1ea5u giao h\u1eefu c\u0169ng nh\u01b0 c\u00e1c s\u1ef1 ki\u1ec7n luy\u1ec7n t\u1eadp, t\u1ea1o cu\u1ed9c thi giao h\u1eefu v\u00e0 h\u01a1n th\u1ebf n\u1eefa!",
+        "minXPLevel": 3,
+        "maxXPLevel": 999,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_28"
+    },
+    {
+        "name": 30,
+        "tID": "Sau m\u1ed9t tr\u1eadn \u0111\u1ea5u th\u00fa v\u1ecb v\u1edbi \u0111\u1ed3ng \u0111\u1ed9i m\u1edbi, b\u1ea1n c\u00f3 th\u1ec3 nh\u1ea5n Ch\u01a1i L\u1ea1i \u0111\u1ec3 tham gia m\u1ed9t tr\u1eadn \u0111\u1ea5u kh\u00e1c v\u1edbi h\u1ecd!",
+        "minXPLevel": 3,
+        "maxXPLevel": 60,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_29"
+    },
+    {
+        "name": 31,
+        "tID": "B\u1ea1n c\u00f3 th\u1ec3 ch\u1ecdn b\u1ea5t k\u1ef3 s\u1ef1 ki\u1ec7n v\u00e0 b\u1ea3n \u0111\u1ed3 n\u00e0o trong ch\u1ebf \u0111\u1ed9 tr\u1eadn \u0111\u1ea5u giao h\u1eefu. Chi\u1ebfn binh Brawl c\u0169ng s\u1ebd ho\u00e0n to\u00e0n \u0111\u01b0\u1ee3c n\u00e2ng c\u1ea5p!",
+        "minXPLevel": 3,
+        "maxXPLevel": 999,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_30"
+    },
+    {
+        "name": 32,
+        "tID": "Frank d\u1eebng di chuy\u1ec3n khi th\u1ef1c hi\u1ec7n t\u1ea5n c\u00f4ng ho\u1eb7c Tuy\u1ec7t chi\u00eau c\u1ee7a m\u00ecnh, \u0111i\u1ec1u n\u00e0y t\u1ea1o c\u01a1 h\u1ed9i cho k\u1ebb th\u00f9 tho\u00e1t kh\u1ecfi t\u1ea7m c\u1ee7a anh ta.",
+        "minXPLevel": 20,
+        "maxXPLevel": 999,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_31"
+    },
+    {
+        "name": 33,
+        "tID": "S\u1ef1 ki\u1ec7n s\u1eed d\u1ee5ng v\u00e9 kh\u00f4ng s\u1eed d\u1ee5ng Thanh Th\u1ebb, nh\u01b0ng thay v\u00e0o \u0111\u00f3 b\u1ea1n c\u1ea7n ph\u1ea3i s\u1eed d\u1ee5ng v\u00e9 \u0111\u1ec3 ch\u01a1i.",
+        "minXPLevel": 3,
+        "maxXPLevel": 60,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_32"
+    },
+    {
+        "name": 34,
+        "tID": "B\u1ea1n c\u00f3 th\u1ec3 m\u1eddi th\u00e0nh vi\u00ean C\u00e2u l\u1ea1c b\u1ed9 tr\u1edf th\u00e0nh b\u1ea1n b\u00e8 c\u1ee7a m\u00ecnh trong danh s\u00e1ch th\u00e0nh vi\u00ean C\u00e2u l\u1ea1c b\u1ed9.",
+        "minXPLevel": 3,
+        "maxXPLevel": 999,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_33"
+    },
+    {
+        "name": 35,
+        "tID": "B\u1ea1n c\u00f3 th\u1ec3 m\u1eddi nh\u1eefng ng\u01b0\u1eddi t\u1eeb \u0110\u1ed9i c\u1ee7a b\u1ea1n tr\u1edf th\u00e0nh b\u1ea1n c\u1ee7a m\u00ecnh.",
+        "minXPLevel": 3,
+        "maxXPLevel": 999,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_34"
+    },
+    {
+        "name": 36,
+        "tID": "Sau m\u1ed9t v\u00e0i tr\u1eadn \u0111\u1ea5u th\u00fa v\u1ecb v\u1edbi ai \u0111\u00f3, b\u1ea1n c\u00f3 th\u1ec3 m\u1eddi h\u1ecd tr\u1edf th\u00e0nh b\u1ea1n b\u00e8 t\u1eeb danh s\u00e1ch b\u1ea1n b\u00e8 \u0111\u01b0\u1ee3c \u0111\u1ec1 xu\u1ea5t.",
+        "minXPLevel": 3,
+        "maxXPLevel": 999,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_35"
+    },
+    {
+        "name": 37,
+        "tID": "B\u1ea1n c\u00f3 th\u1ec3 m\u1eddi nh\u1eefng ng\u01b0\u1eddi t\u1eeb \u0110\u1ed9i c\u1ee7a b\u1ea1n tr\u1edf th\u00e0nh b\u1ea1n c\u1ee7a m\u00ecnh.",
+        "minXPLevel": 3,
+        "maxXPLevel": 999,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_36"
+    },
+    {
+        "name": 38,
+        "tID": "B\u1ea1n c\u00f3 th\u1ec3 s\u1eed d\u1ee5ng n\u00fat qu\u1ea3ng c\u00e1o \u0111\u1ec3 qu\u1ea3ng b\u00e1 \u0110\u1ed9i c\u1ee7a m\u00ecnh v\u1edbi b\u1ea1n b\u00e8 v\u00e0 th\u00e0nh vi\u00ean trong C\u00e2u l\u1ea1c b\u1ed9.",
+        "minXPLevel": 999,
+        "maxXPLevel": 999,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_37"
+    },
+    {
+        "name": 39,
+        "tID": "V\u00f2ng tr\u00f2n quay m\u00e0u xanh d\u01b0\u01a1ng xu\u1ea5t hi\u1ec7n b\u00ean d\u01b0\u1edbi Chi\u1ebfn binh Brawl \u0111\u1ed3ng ngh\u0129a v\u1edbi vi\u1ec7c Tuy\u1ec7t chi\u00eau c\u1ee7a h\u1ecd \u0111\u00e3 s\u1eb5n s\u00e0ng!",
+        "minXPLevel": 7,
+        "maxXPLevel": 999,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_38"
+    },
+    {
+        "name": 40,
+        "tID": "V\u00f2ng tr\u00f2n quay m\u00e0u v\u00e0ng xu\u1ea5t hi\u1ec7n b\u00ean d\u01b0\u1edbi Chi\u1ebfn binh Brawl \u0111\u1ed3ng ngh\u0129a v\u1edbi vi\u1ec7c h\u1ecd hi\u1ec7n \u0111ang ng\u1eafm Tuy\u1ec7t chi\u00eau!",
+        "minXPLevel": 7,
+        "maxXPLevel": 999,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_39"
+    },
+    {
+        "name": 41,
+        "tID": "K\u1ebft n\u1ed1i v\u1edbi Supercell ID t\u1eeb m\u00e0n h\u00ecnh c\u00e0i \u0111\u1eb7t \u0111\u1ec3 gi\u1eef an to\u00e0n cho t\u00e0i kho\u1ea3n v\u00e0 ch\u01a1i tr\u00ean nhi\u1ec1u thi\u1ebft b\u1ecb. B\u1ea1n c\u0169ng s\u1ebd \u0111\u01b0\u1ee3c nh\u1eadn m\u1ed9t trang ph\u1ee5c mi\u1ec5n ph\u00ed!",
+        "minXPLevel": 3,
+        "maxXPLevel": 999,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_40"
+    },
+    {
+        "name": 42,
+        "tID": "T\u1ed5ng C\u00fap c\u1ee7a b\u1ea1n l\u00e0 k\u1ebft qu\u1ea3 g\u1ed9p to\u00e0n b\u1ed9 c\u00fap ri\u00eang c\u1ee7a t\u1ea5t c\u1ea3 Chi\u1ebfn binh Brawl.",
+        "minXPLevel": 7,
+        "maxXPLevel": 999,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_41"
+    },
+    {
+        "name": 43,
+        "tID": "Khi kh\u00f4ng t\u1ea5n c\u00f4ng ho\u1eb7c nh\u1eadn s\u00e1t th\u01b0\u01a1ng trong m\u1ed9t kho\u1ea3ng th\u1eddi gian, Chi\u1ebfn binh Brawl c\u1ee7a b\u1ea1n s\u1ebd b\u1eaft \u0111\u1ea7u t\u1ef1 h\u1ed3i m\u00e1u.",
+        "minXPLevel": 1,
+        "maxXPLevel": 40,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_42"
+    }
+]

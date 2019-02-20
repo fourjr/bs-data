@@ -11,17 +11,23 @@ import requests
 import yaml
 
 if __name__ == '__main__':
-    all_data = {}
+    TID = {}
+    for i in os.listdir('localization'):
+        with open(f'localization/{i}', encoding='utf-8') as f:
+            reader = csv.DictReader(f)
 
-    with open('csv/texts.csv', encoding='utf-8') as f:
-        reader = csv.DictReader(f)
+            title = reader.fieldnames
+            lang = i.replace('.csv', '')
+            if lang == 'texts':
+                lang = 'en'
 
-        title = reader.fieldnames
-        TID = {}
-        for n, row in enumerate(reader):
-            if n == 0:
-                continue
-            TID[row['TID']] = row['EN']
+            TID[lang] = {}
+            for n, row in enumerate(reader):
+                if n == 0:
+                    continue
+                TID[lang][row['TID']] = row[lang.upper()]
+
+    all_data = {i: {} for i in TID}
 
     try:
         with open('config.yml', encoding='utf-8') as f:
@@ -73,12 +79,8 @@ if __name__ == '__main__':
                 i_keys = list(i.keys())
                 for j in i_keys:
                     if isinstance(i[j], str):
-                        if i[j].startswith('TID_'):
+                        if j == 'tID':
                             i['raw' + j[0].upper() + j[1:]] = i[j].replace('TID_', '')
-                            try:
-                                i[j] = TID[i[j]]
-                            except KeyError:
-                                pass
 
                         # Typing
                         elif '.' in i[j]:
@@ -115,29 +117,32 @@ if __name__ == '__main__':
                     else:
                         rp_data[latest_grp].append(i['data'])
                 data = {i: rp_data[i] for i in sorted(rp_data.keys())}
+            else:
+                # languages
+                for lang in TID:
+                    for n, i in enumerate(data):
+                        i_keys = list(i.keys())
+                        for j in i_keys:
+                            if j == 'rawTID':
+                                try:
+                                    i['tID'] = TID[lang]['TID_' + i['rawTID']]
+                                except KeyError:
+                                    pass
 
-            with open('json/' + fn.replace('.csv', '.json'), 'w+') as f:
-                json.dump(data, f, indent=4)
+                with open(f"json/{lang}/{fn.replace('.csv', '.json')}", 'w+') as f:
+                    json.dump(data, f, indent=4)
 
-        all_data[fn.replace('.csv', '')] = data
+                all_data[lang][fn.replace('.csv', '')] = data
+
         print(fp)
 
-    # texts.csv
-    with open('csv/texts.csv') as fp:
-        reader = csv.DictReader(fp)
-        data = {}
-        for n, row in enumerate(reader):
-            if n == 0:
-                continue
-            data[row['TID'].replace('TID_', '')] = row['EN']
-
-        print('csv/texts.csv')
-        all_data['texts'] = data
-
-        with open('json/texts.json', 'w+') as f:
-            json.dump(data, f, indent=4)
+    # tid.json
+    for i in TID:
+        with open(f'json/{i}/tid.json', 'w+') as f:
+            json.dump(TID[i], f, indent=4)
 
     # all.json
-    with open('all.json', 'w+') as f:
-        print('all.json')
-        json.dump(all_data, f, indent=4)
+    for i in all_data:
+        with open(f'json/{i}/all.json', 'w+') as f:
+            print(f'json/{i}/all.json')
+            json.dump(all_data[i], f, indent=4)
