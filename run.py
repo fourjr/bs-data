@@ -117,8 +117,9 @@ if __name__ == '__main__':
                     else:
                         rp_data[latest_grp].append(i['data'])
                 data = {i: rp_data[i] for i in sorted(rp_data.keys())}
-            else:
-                # languages
+
+            # languages
+            if fn != 'maps.csv':
                 for lang in TID:
                     for n, i in enumerate(data):
                         i_keys = list(i.keys())
@@ -129,10 +130,16 @@ if __name__ == '__main__':
                                 except KeyError:
                                     pass
 
-                with open(f"json/{lang}/{fn.replace('.csv', '.json')}", 'w+') as f:
-                    json.dump(data, f, indent=4)
+                    with open(f"json/{lang}/{fn.replace('.csv', '.json')}", 'w+') as f:
+                        json.dump(data, f, indent=4)
 
-                all_data[lang][fn.replace('.csv', '')] = data
+                    all_data[lang][fn.replace('.csv', '')] = data
+            else:
+                for lang in TID:
+                    with open(f"json/{lang}/{fn.replace('.csv', '.json')}", 'w+') as f:
+                        json.dump(data, f, indent=4)
+
+                    all_data[lang][fn.replace('.csv', '')] = data
 
         print(fp)
 
@@ -142,7 +149,7 @@ if __name__ == '__main__':
             json.dump(TID[i], f, indent=4)
 
     # all.json
-    for i in all_data:
+    for i in TID:
         with open(f'json/{i}/all.json', 'w+') as f:
             print(f'json/{i}/all.json')
             json.dump(all_data[i], f, indent=4)

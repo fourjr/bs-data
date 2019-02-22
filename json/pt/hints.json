@@ -1,0 +1,389 @@
+[
+    {
+        "name": 1,
+        "tID": "TOQUE no <ccc0033>controle vermelho</c> para ATIRAR R\u00c1PIDO no inimigo mais pr\u00f3ximo.",
+        "minXPLevel": 1,
+        "maxXPLevel": 40,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_0"
+    },
+    {
+        "name": 2,
+        "tID": "TOQUE no <cff9900>controle amarelo</c> para usar seu Super R\u00c1PIDO no inimigo mais pr\u00f3ximo.",
+        "minXPLevel": 1,
+        "maxXPLevel": 40,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_1"
+    },
+    {
+        "name": 3,
+        "tID": "Arraste o <ccc0033>controle vermelho</c> para MIRAR os seus disparos.",
+        "minXPLevel": 1,
+        "maxXPLevel": 40,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_2"
+    },
+    {
+        "name": 4,
+        "tID": "Arraste o <cff9900>controle amarelo</c> para MIRAR o Super.",
+        "minXPLevel": 1,
+        "maxXPLevel": 40,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_3"
+    },
+    {
+        "name": 5,
+        "tID": "Cancele a mira do tiro ao arrastar o controle de volta ao meio.",
+        "minXPLevel": 1,
+        "maxXPLevel": 40,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_4"
+    },
+    {
+        "name": 6,
+        "tID": "O pareamento \u00e9 feito com base na quantidade de trof\u00e9us do Brawler com que voc\u00ea est\u00e1 jogando. Assim, \u00e9 mais f\u00e1cil conseguir trof\u00e9us com aquele Brawler rec\u00e9m-desbloqueado.",
+        "minXPLevel": 3,
+        "maxXPLevel": 999,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_5"
+    },
+    {
+        "name": 7,
+        "tID": "Quanto mais Brawlers tiver, mais f\u00e1cil fica aumentar o total de trof\u00e9us e conseguir mais recompensas.",
+        "minXPLevel": 3,
+        "maxXPLevel": 999,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_6"
+    },
+    {
+        "name": 8,
+        "tID": "Os disparos da Piper causam mais dano ao atingirem longas dist\u00e2ncias.",
+        "minXPLevel": 20,
+        "maxXPLevel": 999,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_7"
+    },
+    {
+        "name": 9,
+        "tID": "O Super do Barley \u00e9 muito poderoso, sobretudo pr\u00f3ximo ao inimigo, pois as garrafas caem pr\u00f3ximas a ele.",
+        "minXPLevel": 999,
+        "maxXPLevel": 999,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_8"
+    },
+    {
+        "name": 10,
+        "tID": "A balas do Rico ganham mais impulso e v\u00e3o mais longe a cada ricochete.",
+        "minXPLevel": 20,
+        "maxXPLevel": 999,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_9"
+    },
+    {
+        "name": 11,
+        "tID": "Voc\u00ea pode ativar o <ccc0033>controle vermelho</c> em qualquer lugar do lado direito da tela para atirar.",
+        "minXPLevel": 1,
+        "maxXPLevel": 40,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_10"
+    },
+    {
+        "name": 12,
+        "tID": "Os ataques regulares e os Supers contam com dois modos: TOQUE para TIRO R\u00c1PIDO e ARRASTE para MIRAR.",
+        "minXPLevel": 1,
+        "maxXPLevel": 40,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_11"
+    },
+    {
+        "name": 13,
+        "tID": "Mirar seus disparos favorece o acerto nos alvos em movimento",
+        "minXPLevel": 3,
+        "maxXPLevel": 60,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_12"
+    },
+    {
+        "name": 14,
+        "tID": "TIRO R\u00c1PIDO \u00e9 uma boa op\u00e7\u00e3o para quando n\u00e3o se tem tempo de mirar.",
+        "minXPLevel": 3,
+        "maxXPLevel": 60,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_13"
+    },
+    {
+        "name": 15,
+        "tID": "TIRO R\u00c1PIDO funciona melhor em inimigos pr\u00f3ximos.",
+        "minXPLevel": 3,
+        "maxXPLevel": 60,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_14"
+    },
+    {
+        "name": 16,
+        "tID": "Os inimigos podem te ver escondido nos arbustos, quando se aproximam o bastante.",
+        "minXPLevel": 3,
+        "maxXPLevel": 60,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_15"
+    },
+    {
+        "name": 17,
+        "tID": "TIRO R\u00c1PIDO vai de encontro ao inimigo mais pr\u00f3ximo e n\u00e3o leva movimento em considera\u00e7\u00e3o.",
+        "minXPLevel": 3,
+        "maxXPLevel": 60,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_16"
+    },
+    {
+        "name": 18,
+        "tID": "Mirar \u00e9 uma boa op\u00e7\u00e3o para atirar nos arbustos em busca de inimigos escondidos.",
+        "minXPLevel": 3,
+        "maxXPLevel": 60,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_17"
+    },
+    {
+        "name": 19,
+        "tID": "TIRO R\u00c1PIDO funciona bem em inimigos que ficam parados.",
+        "minXPLevel": 3,
+        "maxXPLevel": 60,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_18"
+    },
+    {
+        "name": 20,
+        "tID": "TIRO R\u00c1PIDO funciona bem nos inimigos vindo na sua dire\u00e7\u00e3o ou nos que se afastam de voc\u00ea.",
+        "minXPLevel": 3,
+        "maxXPLevel": 60,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_19"
+    },
+    {
+        "name": 21,
+        "tID": "Inimigos podem ver se voc\u00ea ataca ou recebe dano, mesmo que voc\u00ea esteja escondido num arbusto.",
+        "minXPLevel": 3,
+        "maxXPLevel": 60,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_20"
+    },
+    {
+        "name": 22,
+        "tID": "Use os arbustos para se esconder dos inimigos.",
+        "minXPLevel": 1,
+        "maxXPLevel": 40,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_21"
+    },
+    {
+        "name": 23,
+        "tID": "Ao usar TIRO R\u00c1PIDO, voc\u00ea dispara a sua arma, mesmo que n\u00e3o tenha inimigos por perto.",
+        "minXPLevel": 1,
+        "maxXPLevel": 40,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_22"
+    },
+    {
+        "name": 24,
+        "tID": "Alguns Brawlers s\u00e3o melhores em certos modos e mapas do que outros.",
+        "minXPLevel": 3,
+        "maxXPLevel": 60,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_23"
+    },
+    {
+        "name": 25,
+        "tID": "Brawlers com ataques de longa dist\u00e2ncia s\u00e3o melhores em mapas descampados.",
+        "minXPLevel": 3,
+        "maxXPLevel": 60,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_24"
+    },
+    {
+        "name": 26,
+        "tID": "Brawlers com ataques de proximidade s\u00e3o melhores em mapas com esconderijos e arbustos.",
+        "minXPLevel": 3,
+        "maxXPLevel": 60,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_25"
+    },
+    {
+        "name": 27,
+        "tID": "Penny inflige um grande dano com seu ataque pulverizador se os alvos estiverem alinhados.",
+        "minXPLevel": 20,
+        "maxXPLevel": 999,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_26"
+    },
+    {
+        "name": 28,
+        "tID": "Montar uma equipe antes da partida permite que voc\u00eas se planejem e escolham uma boa combina\u00e7\u00e3o de Brawlers.",
+        "minXPLevel": 3,
+        "maxXPLevel": 999,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_27"
+    },
+    {
+        "name": 29,
+        "tID": "Tente jogar em partidas amistosas em eventos de treino, monte competi\u00e7\u00f5es amistosas e muito mais!",
+        "minXPLevel": 3,
+        "maxXPLevel": 999,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_28"
+    },
+    {
+        "name": 30,
+        "tID": "Ap\u00f3s boas partidas com novos aliados, voc\u00ea pode escolher a op\u00e7\u00e3o Jogar Novamente para iniciar outra partida com eles.",
+        "minXPLevel": 3,
+        "maxXPLevel": 60,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_29"
+    },
+    {
+        "name": 31,
+        "tID": "Partidas amistosas permitem que voc\u00ea escolha quaisquer eventos e mapas. Os Brawlers tamb\u00e9m ser\u00e3o melhorados ao m\u00e1ximo!",
+        "minXPLevel": 3,
+        "maxXPLevel": 999,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_30"
+    },
+    {
+        "name": 32,
+        "tID": "Frank precisa parar para realizar seu ataque regular e o Super, possibilitando a fuga dos advers\u00e1rios.",
+        "minXPLevel": 20,
+        "maxXPLevel": 999,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_31"
+    },
+    {
+        "name": 33,
+        "tID": "Eventos restritos n\u00e3o consomem a barra de fichas, mas \u00e9 preciso ter ingressos para jogar.",
+        "minXPLevel": 3,
+        "maxXPLevel": 60,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_32"
+    },
+    {
+        "name": 34,
+        "tID": "Voc\u00ea pode enviar pedidos de amizade acessando a lista de integrantes do clube.",
+        "minXPLevel": 3,
+        "maxXPLevel": 999,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_33"
+    },
+    {
+        "name": 35,
+        "tID": "Voc\u00ea pode enviar uma solicita\u00e7\u00e3o de amizade aos seus colegas de equipe.",
+        "minXPLevel": 3,
+        "maxXPLevel": 999,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_34"
+    },
+    {
+        "name": 36,
+        "tID": "Ap\u00f3s algumas partidas com outro jogador, voc\u00ea pode lhe enviar um pedido de amizade na lista de sugest\u00f5es de amizade.",
+        "minXPLevel": 3,
+        "maxXPLevel": 999,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_35"
+    },
+    {
+        "name": 37,
+        "tID": "Voc\u00ea pode enviar uma solicita\u00e7\u00e3o de amizade aos seus colegas de equipe.",
+        "minXPLevel": 3,
+        "maxXPLevel": 999,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_36"
+    },
+    {
+        "name": 38,
+        "tID": "Voc\u00ea pode usar o bot\u00e3o de anunciar para divulgar a sua equipe aos seus amigos e colegas de clube.",
+        "minXPLevel": 999,
+        "maxXPLevel": 999,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_37"
+    },
+    {
+        "name": 39,
+        "tID": "Um c\u00edrculo azul girando abaixo de um Brawler indica que o Super est\u00e1 carregado!",
+        "minXPLevel": 7,
+        "maxXPLevel": 999,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_38"
+    },
+    {
+        "name": 40,
+        "tID": "Um c\u00edrculo amarelo girando abaixo de um Brawler indica que ele est\u00e1 mirando o Super!",
+        "minXPLevel": 7,
+        "maxXPLevel": 999,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_39"
+    },
+    {
+        "name": 41,
+        "tID": "Conecte-se ao Supercell ID nas configura\u00e7\u00f5es para jogar em v\u00e1rios dispositivos e manter sua conta segura, al\u00e9m de ganhar um visual gr\u00e1tis!",
+        "minXPLevel": 3,
+        "maxXPLevel": 999,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_40"
+    },
+    {
+        "name": 42,
+        "tID": "O seu total de trof\u00e9us \u00e9 a soma de todos os trof\u00e9us de cada Brawler.",
+        "minXPLevel": 7,
+        "maxXPLevel": 999,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_41"
+    },
+    {
+        "name": 43,
+        "tID": "Por um certo per\u00edodo, seu Brawler recupera pontos de vida quando n\u00e3o ataca ou \u00e9 golpeado.",
+        "minXPLevel": 1,
+        "maxXPLevel": 40,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_42"
+    }
+]

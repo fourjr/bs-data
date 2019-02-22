@@ -1,0 +1,72 @@
+[
+    {
+        "name": "NonMember",
+        "level": 0,
+        "tID": null,
+        "canInvite": false,
+        "canSendMail": false,
+        "canChangeAllianceSettings": false,
+        "canAcceptJoinRequest": false,
+        "canKick": null,
+        "canBePromotedToLeader": null,
+        "promoteSkill": 0,
+        "id": 25,
+        "rawTID": ""
+    },
+    {
+        "name": "Member",
+        "level": 1,
+        "tID": "\u30e1\u30f3\u30d0\u30fc",
+        "canInvite": false,
+        "canSendMail": false,
+        "canChangeAllianceSettings": false,
+        "canAcceptJoinRequest": false,
+        "canKick": false,
+        "canBePromotedToLeader": null,
+        "promoteSkill": 0,
+        "id": 26,
+        "rawTID": "ALLIANCE_ROLE_MEMBER"
+    },
+    {
+        "name": "Leader",
+        "level": 20,
+        "tID": "\u30ea\u30fc\u30c0\u30fc",
+        "canInvite": true,
+        "canSendMail": true,
+        "canChangeAllianceSettings": true,
+        "canAcceptJoinRequest": true,
+        "canKick": true,
+        "canBePromotedToLeader": true,
+        "promoteSkill": 2,
+        "id": 27,
+        "rawTID": "ALLIANCE_ROLE_LEADER"
+    },
+    {
+        "name": "Elder",
+        "level": 5,
+        "tID": "\u30b7\u30cb\u30a2",
+        "canInvite": true,
+        "canSendMail": false,
+        "canChangeAllianceSettings": false,
+        "canAcceptJoinRequest": true,
+        "canKick": true,
+        "canBePromotedToLeader": null,
+        "promoteSkill": 0,
+        "id": 28,
+        "rawTID": "ALLIANCE_ROLE_ELDER"
+    },
+    {
+        "name": "Co-leader",
+        "level": 10,
+        "tID": "\u30b5\u30d6\u30ea\u30fc\u30c0\u30fc",
+        "canInvite": true,
+        "canSendMail": true,
+        "canChangeAllianceSettings": true,
+        "canAcceptJoinRequest": true,
+        "canKick": true,
+        "canBePromotedToLeader": true,
+        "promoteSkill": 2,
+        "id": 29,
+        "rawTID": "ALLIANCE_ROLE_CO_LEADER"
+    }
+]

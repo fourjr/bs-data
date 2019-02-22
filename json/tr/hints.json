@@ -1,0 +1,389 @@
+[
+    {
+        "name": 1,
+        "tID": "En yak\u0131n d\u00fc\u015fmana h\u0131zl\u0131 sald\u0131r\u0131 yapmak i\u00e7in <ccc0033>k\u0131rm\u0131z\u0131 d\u00fc\u011fmeye</c> dokunabilirsin.",
+        "minXPLevel": 1,
+        "maxXPLevel": 40,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_0"
+    },
+    {
+        "name": 2,
+        "tID": "En yak\u0131n d\u00fc\u015fmana s\u00fcper sald\u0131r\u0131n\u0131 yapmak i\u00e7in <cff9900>sar\u0131 d\u00fc\u011fmeye</c> dokunabilirsin.",
+        "minXPLevel": 1,
+        "maxXPLevel": 40,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_1"
+    },
+    {
+        "name": 3,
+        "tID": "At\u0131\u015flar\u0131n\u0131 hedeflemek i\u00e7in <ccc0033>k\u0131rm\u0131z\u0131 d\u00fc\u011fmeyi</c> s\u00fcr\u00fckle.",
+        "minXPLevel": 1,
+        "maxXPLevel": 40,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_2"
+    },
+    {
+        "name": 4,
+        "tID": "S\u00fcper at\u0131\u015f\u0131n\u0131 hedeflemek i\u00e7in <cff9900>sar\u0131 d\u00fc\u011fmeyi</c> s\u00fcr\u00fckle.",
+        "minXPLevel": 1,
+        "maxXPLevel": 40,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_3"
+    },
+    {
+        "name": 5,
+        "tID": "Ni\u015fan ald\u0131\u011f\u0131n bir at\u0131\u015f\u0131 iptal etmek i\u00e7in d\u00fc\u011fmeyi ortaya geri getirebilirsin.",
+        "minXPLevel": 1,
+        "maxXPLevel": 40,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_4"
+    },
+    {
+        "name": 6,
+        "tID": "E\u015fle\u015ftirme, se\u00e7ti\u011fin sava\u015f\u00e7\u0131n\u0131n kupa say\u0131s\u0131na g\u00f6re yap\u0131l\u0131r. Yeni a\u00e7t\u0131\u011f\u0131n sava\u015f\u00e7\u0131larla kupa kazanmak daha kolayd\u0131r.",
+        "minXPLevel": 3,
+        "maxXPLevel": 999,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_5"
+    },
+    {
+        "name": 7,
+        "tID": "Yeni sava\u015f\u00e7\u0131lar edinmek toplam kupa say\u0131s\u0131n\u0131 art\u0131rmay\u0131 ve \u00f6d\u00fcl almay\u0131 kolayla\u015ft\u0131r\u0131r.",
+        "minXPLevel": 3,
+        "maxXPLevel": 999,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_6"
+    },
+    {
+        "name": 8,
+        "tID": "Piper'\u0131n at\u0131\u015flar\u0131 ne kadar uza\u011fa giderse o kadar fazla hasar verir.",
+        "minXPLevel": 20,
+        "maxXPLevel": 999,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_7"
+    },
+    {
+        "name": 9,
+        "tID": "Barley'in s\u00fcper at\u0131\u015f\u0131, \u015fi\u015feler yak\u0131n yerlere d\u00fc\u015fece\u011finden \u00f6zellikle k\u0131sa mesafede b\u00fcy\u00fck hasar verir.",
+        "minXPLevel": 999,
+        "maxXPLevel": 999,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_8"
+    },
+    {
+        "name": 10,
+        "tID": "Rico'nun mermileri her sekti\u011finde biraz daha uza\u011fa gider.",
+        "minXPLevel": 20,
+        "maxXPLevel": 999,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_9"
+    },
+    {
+        "name": 11,
+        "tID": "Ate\u015f etmek i\u00e7in ekran\u0131n sa\u011f taraf\u0131ndaki <ccc0033>k\u0131rm\u0131z\u0131 d\u00fc\u011fmeye</c> dokun.",
+        "minXPLevel": 1,
+        "maxXPLevel": 40,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_10"
+    },
+    {
+        "name": 12,
+        "tID": "Hem normal hem de s\u00fcper sald\u0131r\u0131lar\u0131n iki at\u0131\u015f modu vard\u0131r. Dokunarak h\u0131zl\u0131 at\u0131\u015f yapabilir veya \u00e7ekerek ni\u015fan alabilirsin.",
+        "minXPLevel": 1,
+        "maxXPLevel": 40,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_11"
+    },
+    {
+        "name": 13,
+        "tID": "Hareket eden hedefleri vurmak i\u00e7in ni\u015fan almak i\u015fe yarar.",
+        "minXPLevel": 3,
+        "maxXPLevel": 60,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_12"
+    },
+    {
+        "name": 14,
+        "tID": "H\u0131zl\u0131 at\u0131\u015f, ni\u015fan almaya zaman\u0131n\u0131n olmad\u0131\u011f\u0131 acil at\u0131\u015flarda kullan\u0131\u015fl\u0131d\u0131r.",
+        "minXPLevel": 3,
+        "maxXPLevel": 60,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_13"
+    },
+    {
+        "name": 15,
+        "tID": "H\u0131zl\u0131 at\u0131\u015f, sana yak\u0131n olan d\u00fc\u015fmanlara kar\u015f\u0131 daha etkilidir.",
+        "minXPLevel": 3,
+        "maxXPLevel": 60,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_14"
+    },
+    {
+        "name": 16,
+        "tID": "\u00c7al\u0131da sakland\u0131\u011f\u0131n s\u0131rada sana \u00e7ok yakla\u015fan d\u00fc\u015fmanlar seni g\u00f6rebilir.",
+        "minXPLevel": 3,
+        "maxXPLevel": 60,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_15"
+    },
+    {
+        "name": 17,
+        "tID": "H\u0131zl\u0131 at\u0131\u015fla en yak\u0131n d\u00fc\u015fmana do\u011frudan ate\u015f edersin. D\u00fc\u015fman\u0131n hareket halinde olmas\u0131 hesaba kat\u0131lmaz.",
+        "minXPLevel": 3,
+        "maxXPLevel": 60,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_16"
+    },
+    {
+        "name": 18,
+        "tID": "\u00c7al\u0131larda d\u00fc\u015fman olup olmad\u0131\u011f\u0131n\u0131 anlamak i\u00e7in ni\u015fan alarak \u00e7al\u0131lara ate\u015f edebilirsin.",
+        "minXPLevel": 3,
+        "maxXPLevel": 60,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_17"
+    },
+    {
+        "name": 19,
+        "tID": "H\u0131zl\u0131 at\u0131\u015f, sabit duran d\u00fc\u015fmanlara kar\u015f\u0131 etkilidir.",
+        "minXPLevel": 3,
+        "maxXPLevel": 60,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_18"
+    },
+    {
+        "name": 20,
+        "tID": "H\u0131zl\u0131 at\u0131\u015f, sana do\u011fru gelen veya senden uzakla\u015fmaya \u00e7al\u0131\u015fan d\u00fc\u015fmanlara kar\u015f\u0131 etkilidir.",
+        "minXPLevel": 3,
+        "maxXPLevel": 60,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_19"
+    },
+    {
+        "name": 21,
+        "tID": "\u00c7al\u0131da sakland\u0131\u011f\u0131n s\u0131rada sald\u0131r\u0131 yapar veya hasar g\u00f6r\u00fcrsen d\u00fc\u015fmanlar seni g\u00f6r\u00fcr.",
+        "minXPLevel": 3,
+        "maxXPLevel": 60,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_20"
+    },
+    {
+        "name": 22,
+        "tID": "D\u00fc\u015fmanlardan saklanmak i\u00e7in \u00e7al\u0131lar\u0131 kullanabilirsin.",
+        "minXPLevel": 1,
+        "maxXPLevel": 40,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_21"
+    },
+    {
+        "name": 23,
+        "tID": "H\u0131zl\u0131 at\u0131\u015f\u0131 kulland\u0131\u011f\u0131nda, g\u00f6r\u00fcnen bir d\u00fc\u015fman yoksa bile ate\u015f edersin.",
+        "minXPLevel": 1,
+        "maxXPLevel": 40,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_22"
+    },
+    {
+        "name": 24,
+        "tID": "Baz\u0131 sava\u015f\u00e7\u0131lar baz\u0131 haritalarda ve etkinliklerde di\u011ferlerinden daha iyidir.",
+        "minXPLevel": 3,
+        "maxXPLevel": 60,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_23"
+    },
+    {
+        "name": 25,
+        "tID": "Uzun menzilli sava\u015f\u00e7\u0131lar genelde a\u00e7\u0131k alanlar\u0131 olan haritalarda iyidir.",
+        "minXPLevel": 3,
+        "maxXPLevel": 60,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_24"
+    },
+    {
+        "name": 26,
+        "tID": "K\u0131sa menzilli sava\u015f\u00e7\u0131lar genelde siper ve \u00e7al\u0131lar\u0131n \u00e7ok oldu\u011fu haritalarda iyidir.",
+        "minXPLevel": 3,
+        "maxXPLevel": 60,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_25"
+    },
+    {
+        "name": 27,
+        "tID": "Hedefleri s\u0131ra halindeyse Penny sald\u0131r\u0131s\u0131yla \u00e7ok fazla hasar verebilir.",
+        "minXPLevel": 20,
+        "maxXPLevel": 999,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_26"
+    },
+    {
+        "name": 28,
+        "tID": "Tak\u0131m arkada\u015flar\u0131n\u0131 ma\u00e7tan \u00f6nce toplad\u0131\u011f\u0131nda plan yapabilir ve do\u011fru sava\u015f\u00e7\u0131lar\u0131 belirleyebilirsin.",
+        "minXPLevel": 3,
+        "maxXPLevel": 999,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_27"
+    },
+    {
+        "name": 29,
+        "tID": "Etkinlikler i\u00e7in al\u0131\u015ft\u0131rma yapmak, dostluk m\u00fccadeleleri d\u00fczenlemek ve daha fazlas\u0131 i\u00e7in dostluk ma\u00e7lar\u0131 yapmay\u0131 denemelisin!",
+        "minXPLevel": 3,
+        "maxXPLevel": 999,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_28"
+    },
+    {
+        "name": 30,
+        "tID": "Yeni tak\u0131m arkada\u015flar\u0131yla iyi bir ma\u00e7 yapt\u0131ysan Tekrar Oyna'ya dokunup ayn\u0131 tak\u0131mla bir ma\u00e7 daha yapabilirsin!",
+        "minXPLevel": 3,
+        "maxXPLevel": 60,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_29"
+    },
+    {
+        "name": 31,
+        "tID": "Dostluk ma\u00e7lar\u0131nda istedi\u011fin etkinli\u011fi ve haritay\u0131 se\u00e7ebilirsin. Sava\u015f\u00e7\u0131lar da maksimum y\u00fckseltilmi\u015f olur!",
+        "minXPLevel": 3,
+        "maxXPLevel": 999,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_30"
+    },
+    {
+        "name": 32,
+        "tID": "Frank, normal ve s\u00fcper sald\u0131r\u0131lar\u0131n\u0131 yaparken duraklar, bu da rakiplere ka\u00e7ma f\u0131rsat\u0131 verir.",
+        "minXPLevel": 20,
+        "maxXPLevel": 999,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_31"
+    },
+    {
+        "name": 33,
+        "tID": "Biletli etkinliklerinde jeton yerine bilet kullan\u0131l\u0131r.",
+        "minXPLevel": 3,
+        "maxXPLevel": 60,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_32"
+    },
+    {
+        "name": 34,
+        "tID": "Kul\u00fcp \u00fcyeleri listesinden kul\u00fcp \u00fcyelerini arkada\u015f olarak davet edebilirsin.",
+        "minXPLevel": 3,
+        "maxXPLevel": 999,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_33"
+    },
+    {
+        "name": 35,
+        "tID": "Bulundu\u011fun tak\u0131mdaki oyuncular\u0131 arkada\u015f olarak ekleyebilirsin.",
+        "minXPLevel": 3,
+        "maxXPLevel": 999,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_34"
+    },
+    {
+        "name": 36,
+        "tID": "Birileriyle birka\u00e7 iyi oyun oynad\u0131ktan sonra \u00f6nerilen arkada\u015flar listesinden arkada\u015f olarak davet edebilirsin.",
+        "minXPLevel": 3,
+        "maxXPLevel": 999,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_35"
+    },
+    {
+        "name": 37,
+        "tID": "Bulundu\u011fun tak\u0131mdaki oyuncular\u0131 arkada\u015f olarak ekleyebilirsin.",
+        "minXPLevel": 3,
+        "maxXPLevel": 999,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_36"
+    },
+    {
+        "name": 38,
+        "tID": "Tak\u0131m\u0131n\u0131 arkada\u015flar\u0131na ve kul\u00fcp \u00fcyelerine g\u00f6stermek i\u00e7in ilan et d\u00fc\u011fmesini kullanabilirsin.",
+        "minXPLevel": 999,
+        "maxXPLevel": 999,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_37"
+    },
+    {
+        "name": 39,
+        "tID": "Sava\u015f\u00e7\u0131n\u0131n alt\u0131nda d\u00f6nen mavi bir \u00e7ember varsa S\u00fcper g\u00fcc\u00fc haz\u0131r demektir!",
+        "minXPLevel": 7,
+        "maxXPLevel": 999,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_38"
+    },
+    {
+        "name": 40,
+        "tID": "Sava\u015f\u00e7\u0131n\u0131n alt\u0131nda d\u00f6nen sar\u0131 bir \u00e7ember varsa S\u00fcper g\u00fcc\u00fcn\u00fc hedefliyor demektir!",
+        "minXPLevel": 7,
+        "maxXPLevel": 999,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_39"
+    },
+    {
+        "name": 41,
+        "tID": "Hesab\u0131n\u0131 g\u00fcvende tutmak ve oyunu birden fazla cihazda oynamak i\u00e7in ayarlar ekran\u0131ndan Supercell ID'ye ba\u011flan. Ayr\u0131ca bunu yaparsan \u00fccretsiz bir g\u00f6r\u00fcn\u00fcm kazan\u0131rs\u0131n!",
+        "minXPLevel": 3,
+        "maxXPLevel": 999,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_40"
+    },
+    {
+        "name": 42,
+        "tID": "Toplam kupa say\u0131n, t\u00fcm sava\u015f\u00e7\u0131lar\u0131n\u0131n kupa say\u0131s\u0131 toplam\u0131d\u0131r.",
+        "minXPLevel": 7,
+        "maxXPLevel": 999,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_41"
+    },
+    {
+        "name": 43,
+        "tID": "Sava\u015f\u00e7\u0131n bir s\u00fcre sald\u0131r\u0131 yapmaz ve zarar g\u00f6rmezse iyile\u015fmeye ba\u015flar.",
+        "minXPLevel": 1,
+        "maxXPLevel": 40,
+        "fileName": null,
+        "exportName": null,
+        "rawTID": "HINT_42"
+    }
+]

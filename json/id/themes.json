@@ -1,0 +1,35 @@
+[
+    {
+        "name": "Default",
+        "fileName": "sc/ui.sc",
+        "exportName": "bgr",
+        "particleFileName": "sc/ui.sc",
+        "particleExportName": null,
+        "particleStyle": null,
+        "particleVariations": null,
+        "themeMusic": "MenuMusic",
+        "useInLevelSelection": true
+    },
+    {
+        "name": "Winter",
+        "fileName": "sc/ui.sc",
+        "exportName": "bgr",
+        "particleFileName": "sc/ui.sc",
+        "particleExportName": "particle_snow_",
+        "particleStyle": "Snow",
+        "particleVariations": 2,
+        "themeMusic": "Snow_brawl",
+        "useInLevelSelection": true
+    },
+    {
+        "name": "LNY",
+        "fileName": "sc/ui.sc",
+        "exportName": "bgr_cny",
+        "particleFileName": null,
+        "particleExportName": null,
+        "particleStyle": null,
+        "particleVariations": null,
+        "themeMusic": "Cnymenu_music",
+        "useInLevelSelection": true
+    }
+]
