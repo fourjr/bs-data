@@ -146,6 +146,7 @@ if __name__ == '__main__':
     # tid.json
     for i in TID:
         with open(f'json/{i}/tid.json', 'w+') as f:
+            all_data[i]['tid'] = TID[i]
             json.dump(TID[i], f, indent=4)
 
     # all.json
