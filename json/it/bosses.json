@@ -46,7 +46,7 @@
     },
     {
         "name": "boss4",
-        "tID": "Selva",
+        "tID": "Fabbrica dei robot",
         "playerCount": 3,
         "requiredCampaignProgressToUnlock": 24,
         "location": "Planet4",
@@ -61,7 +61,7 @@
     },
     {
         "name": "boss5",
-        "tID": "Radura",
+        "tID": "Robot S.p.A.",
         "playerCount": 3,
         "requiredCampaignProgressToUnlock": 30,
         "location": "Planet5",
@@ -76,7 +76,7 @@
     },
     {
         "name": "boss6",
-        "tID": "Tenuta di caccia",
+        "tID": "Robostazione",
         "playerCount": 3,
         "requiredCampaignProgressToUnlock": 36,
         "location": "Planet6",

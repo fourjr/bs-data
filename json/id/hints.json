@@ -47,7 +47,7 @@
     {
         "name": 6,
         "tID": "Pencarian lawan dilakukan berdasar pada jumlah Trofi Jagoan yang dimainkan. Oleh karena itu, Trofi bisa didapatkan lebih mudah dengan Jagoan yang baru didapatkan.",
-        "minXPLevel": 3,
+        "minXPLevel": 7,
         "maxXPLevel": 999,
         "fileName": null,
         "exportName": null,
@@ -56,7 +56,7 @@
     {
         "name": 7,
         "tID": "Mendapatkan lebih banyak Jagoan akan memudahkanmu meraih lebih banyak total Trofi dan Hadiah.",
-        "minXPLevel": 3,
+        "minXPLevel": 7,
         "maxXPLevel": 999,
         "fileName": null,
         "exportName": null,
@@ -74,7 +74,7 @@
     {
         "name": 9,
         "tID": "Serangan Super Barley semakin kuat pada jarak dekat karena botol jatuh di area yang lebih kecil.",
-        "minXPLevel": 999,
+        "minXPLevel": 20,
         "maxXPLevel": 999,
         "fileName": null,
         "exportName": null,
@@ -82,7 +82,7 @@
     },
     {
         "name": 10,
-        "tID": "Peluru Rico melesat semakin jauh saat dipantulkan.",
+        "tID": "Setiap kali memantul, peluru Ricochet melesat semakin jauh.",
         "minXPLevel": 20,
         "maxXPLevel": 999,
         "fileName": null,
@@ -226,7 +226,7 @@
     },
     {
         "name": 26,
-        "tID": "Jagoan berjangkauan dekat secara umum lebih baik di peta dengan banyak halangan dan semak.",
+        "tID": "Jagoan berjangkauan dekat secara umum lebih baik di peta dengan banyak pelindung dan semak.",
         "minXPLevel": 3,
         "maxXPLevel": 60,
         "fileName": null,
@@ -281,7 +281,7 @@
     {
         "name": 32,
         "tID": "Ada jeda dalam serangan reguler dan Super milik Frank, sehingga lawan berkesempatan menjauh dari jangkauannya.",
-        "minXPLevel": 20,
+        "minXPLevel": 3,
         "maxXPLevel": 999,
         "fileName": null,
         "exportName": null,
@@ -361,7 +361,7 @@
     },
     {
         "name": 41,
-        "tID": "Hubungkan akun ke Supercell ID melalui layar setelan untuk mengamankan serta mempermudah bermain di beberapa perangkat. Kamu juga akan memperoleh kostum gratis dengan melakukan ini!",
+        "tID": "Tautkan akun ke Supercell ID melalui layar setelan untuk mengamankan serta mempermudah bermain di beberapa perangkat.",
         "minXPLevel": 3,
         "maxXPLevel": 999,
         "fileName": null,

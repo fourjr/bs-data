@@ -16,7 +16,7 @@
     },
     {
         "name": "boss2",
-        "tID": "Palacio del Rey Topo",
+        "tID": "Palacio del rey topo",
         "playerCount": 3,
         "requiredCampaignProgressToUnlock": 12,
         "location": "Planet2",

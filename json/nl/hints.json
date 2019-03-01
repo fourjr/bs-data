@@ -47,7 +47,7 @@
     {
         "name": 6,
         "tID": "De koppelprocedure is gebaseerd op het aantal trofee\u00ebn van de knokker waarmee je vecht. Zo kun je makkelijker trofee\u00ebn verdienen met een pas ontgrendelde knokker.",
-        "minXPLevel": 3,
+        "minXPLevel": 7,
         "maxXPLevel": 999,
         "fileName": null,
         "exportName": null,
@@ -56,7 +56,7 @@
     {
         "name": 7,
         "tID": "Door meer knokkers te vinden, kun je makkelijker meer trofee\u00ebn in totaal en beloningen krijgen.",
-        "minXPLevel": 3,
+        "minXPLevel": 7,
         "maxXPLevel": 999,
         "fileName": null,
         "exportName": null,
@@ -74,7 +74,7 @@
     {
         "name": 9,
         "tID": "Barley's super is vooral krachtig op de korte afstand, omdat de flessen in een klein gebied landen.",
-        "minXPLevel": 999,
+        "minXPLevel": 20,
         "maxXPLevel": 999,
         "fileName": null,
         "exportName": null,
@@ -82,7 +82,7 @@
     },
     {
         "name": 10,
-        "tID": "Telkens als Rico's kogels kaatsen, leggen ze een langere afstand af.",
+        "tID": "Telkens als Ricochets kogels kaatsen, leggen ze een langere afstand af.",
         "minXPLevel": 20,
         "maxXPLevel": 999,
         "fileName": null,
@@ -281,7 +281,7 @@
     {
         "name": 32,
         "tID": "Frank stopt om zijn aanval en super uit te voeren. Hierdoor hebben zijn tegenstanders de tijd om buiten zijn bereik te raken.",
-        "minXPLevel": 20,
+        "minXPLevel": 3,
         "maxXPLevel": 999,
         "fileName": null,
         "exportName": null,
@@ -361,7 +361,7 @@
     },
     {
         "name": 41,
-        "tID": "Verbind je spel met Supercell ID via de instellingen van het spel om je account veilig te houden en op meerdere apparaten te spelen. Je krijgt er bovendien een gratis skin voor!",
+        "tID": "Verbind je spel met Supercell ID via de instellingen van het spel om je account veilig te houden en op meerdere apparaten te spelen.",
         "minXPLevel": 3,
         "maxXPLevel": 999,
         "fileName": null,

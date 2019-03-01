@@ -47,7 +47,7 @@
     {
         "name": 6,
         "tID": "E\u015fle\u015ftirme, se\u00e7ti\u011fin sava\u015f\u00e7\u0131n\u0131n kupa say\u0131s\u0131na g\u00f6re yap\u0131l\u0131r. Yeni a\u00e7t\u0131\u011f\u0131n sava\u015f\u00e7\u0131larla kupa kazanmak daha kolayd\u0131r.",
-        "minXPLevel": 3,
+        "minXPLevel": 7,
         "maxXPLevel": 999,
         "fileName": null,
         "exportName": null,
@@ -56,7 +56,7 @@
     {
         "name": 7,
         "tID": "Yeni sava\u015f\u00e7\u0131lar edinmek toplam kupa say\u0131s\u0131n\u0131 art\u0131rmay\u0131 ve \u00f6d\u00fcl almay\u0131 kolayla\u015ft\u0131r\u0131r.",
-        "minXPLevel": 3,
+        "minXPLevel": 7,
         "maxXPLevel": 999,
         "fileName": null,
         "exportName": null,
@@ -74,7 +74,7 @@
     {
         "name": 9,
         "tID": "Barley'in s\u00fcper at\u0131\u015f\u0131, \u015fi\u015feler yak\u0131n yerlere d\u00fc\u015fece\u011finden \u00f6zellikle k\u0131sa mesafede b\u00fcy\u00fck hasar verir.",
-        "minXPLevel": 999,
+        "minXPLevel": 20,
         "maxXPLevel": 999,
         "fileName": null,
         "exportName": null,
@@ -82,7 +82,7 @@
     },
     {
         "name": 10,
-        "tID": "Rico'nun mermileri her sekti\u011finde biraz daha uza\u011fa gider.",
+        "tID": "Ricochet'in mermileri her sekti\u011finde biraz daha uza\u011fa gider.",
         "minXPLevel": 20,
         "maxXPLevel": 999,
         "fileName": null,
@@ -281,7 +281,7 @@
     {
         "name": 32,
         "tID": "Frank, normal ve s\u00fcper sald\u0131r\u0131lar\u0131n\u0131 yaparken duraklar, bu da rakiplere ka\u00e7ma f\u0131rsat\u0131 verir.",
-        "minXPLevel": 20,
+        "minXPLevel": 3,
         "maxXPLevel": 999,
         "fileName": null,
         "exportName": null,
@@ -361,7 +361,7 @@
     },
     {
         "name": 41,
-        "tID": "Hesab\u0131n\u0131 g\u00fcvende tutmak ve oyunu birden fazla cihazda oynamak i\u00e7in ayarlar ekran\u0131ndan Supercell ID'ye ba\u011flan. Ayr\u0131ca bunu yaparsan \u00fccretsiz bir g\u00f6r\u00fcn\u00fcm kazan\u0131rs\u0131n!",
+        "tID": "Hesab\u0131n\u0131 g\u00fcvende tutmak ve oyunu birden fazla cihazda oynamak i\u00e7in ayarlar ekran\u0131ndan Supercell ID'ye ba\u011flan.",
         "minXPLevel": 3,
         "maxXPLevel": 999,
         "fileName": null,

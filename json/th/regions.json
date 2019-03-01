@@ -49,7 +49,7 @@
     },
     {
         "name": "_INT",
-        "tID": "\u0e19\u0e32\u0e19\u0e32\u0e0a\u0e32\u0e15\u0e34",
+        "tID": "TID_REGION_INT",
         "displayName": "International",
         "isCountry": false,
         "id": 20,

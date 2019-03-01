@@ -47,7 +47,7 @@
     {
         "name": 6,
         "tID": "il matchmaking si basa sul numero di trofei vinti con il brawler in uso, il che rende pi\u00f9 facile ottenere trofei utilizzando brawler sbloccati di recente.",
-        "minXPLevel": 3,
+        "minXPLevel": 7,
         "maxXPLevel": 999,
         "fileName": null,
         "exportName": null,
@@ -56,7 +56,7 @@
     {
         "name": 7,
         "tID": "trova nuovi brawler per aumentare il numero totale dei trofei pi\u00f9 facilmente e ottenere pi\u00f9 premi.",
-        "minXPLevel": 3,
+        "minXPLevel": 7,
         "maxXPLevel": 999,
         "fileName": null,
         "exportName": null,
@@ -74,7 +74,7 @@
     {
         "name": 9,
         "tID": "la super di Bombardino causa un sacco di danni, se usata da vicino, perch\u00e9 le bottiglie coprono un'area pi\u00f9 ristretta.",
-        "minXPLevel": 999,
+        "minXPLevel": 20,
         "maxXPLevel": 999,
         "fileName": null,
         "exportName": null,
@@ -281,7 +281,7 @@
     {
         "name": 32,
         "tID": "prima di qualsiasi attacco, Frank si ferma per un istante, dando cos\u00ec agli avversari la possibilit\u00e0 di allontanarsi.",
-        "minXPLevel": 20,
+        "minXPLevel": 3,
         "maxXPLevel": 999,
         "fileName": null,
         "exportName": null,
@@ -361,7 +361,7 @@
     },
     {
         "name": 41,
-        "tID": "collegati a Supercell ID dalle impostazioni per tenere al sicuro il tuo account e giocare su pi\u00f9 dispositivi. Inoltre, se lo fai, riceverai una skin gratuita!",
+        "tID": "collegati a Supercell ID dalle impostazioni per tenere al sicuro il tuo account e giocare su pi\u00f9 dispositivi.",
         "minXPLevel": 3,
         "maxXPLevel": 999,
         "fileName": null,

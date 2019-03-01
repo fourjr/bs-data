@@ -100,26 +100,6 @@
         "id": 21
     },
     {
-        "name": "Cny_levels",
-        "fileName": "music/cny_ingame_01.ogg",
-        "volume": 70,
-        "loop": true,
-        "playCount": null,
-        "fadeOutTimeSec": null,
-        "durationSec": 64,
-        "id": 22
-    },
-    {
-        "name": null,
-        "fileName": "music/cny_ingame_02.ogg",
-        "volume": 70,
-        "loop": true,
-        "playCount": null,
-        "fadeOutTimeSec": null,
-        "durationSec": 56,
-        "id": 23
-    },
-    {
         "name": "MenuMusic",
         "fileName": "music/brawl_stars_menu_01.ogg",
         "volume": 60,
@@ -127,17 +107,7 @@
         "playCount": null,
         "fadeOutTimeSec": null,
         "durationSec": 153,
-        "id": 24
-    },
-    {
-        "name": "Cnymenu_music",
-        "fileName": "music/cny_brawl_menu_01.ogg",
-        "volume": 60,
-        "loop": true,
-        "playCount": null,
-        "fadeOutTimeSec": null,
-        "durationSec": 178,
-        "id": 25
+        "id": 22
     },
     {
         "name": "WinJingle",
@@ -147,7 +117,7 @@
         "playCount": 1,
         "fadeOutTimeSec": null,
         "durationSec": null,
-        "id": 26
+        "id": 23
     },
     {
         "name": "LoseJingle",
@@ -157,7 +127,7 @@
         "playCount": 1,
         "fadeOutTimeSec": null,
         "durationSec": null,
-        "id": 27
+        "id": 24
     },
     {
         "name": "DrawJingle",
@@ -167,7 +137,7 @@
         "playCount": 1,
         "fadeOutTimeSec": null,
         "durationSec": null,
-        "id": 28
+        "id": 25
     },
     {
         "name": "Win_loop",
@@ -177,7 +147,7 @@
         "playCount": null,
         "fadeOutTimeSec": null,
         "durationSec": 30,
-        "id": 29
+        "id": 26
     },
     {
         "name": "Draw_loop",
@@ -187,7 +157,7 @@
         "playCount": null,
         "fadeOutTimeSec": null,
         "durationSec": 34,
-        "id": 30
+        "id": 27
     },
     {
         "name": "Lose_loop",
@@ -197,7 +167,7 @@
         "playCount": null,
         "fadeOutTimeSec": null,
         "durationSec": 28,
-        "id": 31
+        "id": 28
     },
     {
         "name": "Brawlbawl_goal",
@@ -207,7 +177,7 @@
         "playCount": 1,
         "fadeOutTimeSec": null,
         "durationSec": null,
-        "id": 32
+        "id": 29
     },
     {
         "name": "Brawlbawl_other_goal",
@@ -217,7 +187,7 @@
         "playCount": 1,
         "fadeOutTimeSec": null,
         "durationSec": null,
-        "id": 33
+        "id": 30
     },
     {
         "name": "30_sec_panic",
@@ -227,6 +197,6 @@
         "playCount": null,
         "fadeOutTimeSec": null,
         "durationSec": 30,
-        "id": 34
+        "id": 31
     }
 ]

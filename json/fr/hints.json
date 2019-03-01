@@ -47,7 +47,7 @@
     {
         "name": 6,
         "tID": "La recherche d'adversaires est d\u00e9termin\u00e9e par les troph\u00e9es du brawler avec lequel vous jouez. Gagner des troph\u00e9es est donc plus facile avec un brawler que vous venez de d\u00e9bloquer.",
-        "minXPLevel": 3,
+        "minXPLevel": 7,
         "maxXPLevel": 999,
         "fileName": null,
         "exportName": null,
@@ -56,7 +56,7 @@
     {
         "name": 7,
         "tID": "D\u00e9bloquer plus de brawlers vous permettra d'augmenter votre nombre total de troph\u00e9es plus facilement et de gagner plus de r\u00e9compenses.",
-        "minXPLevel": 3,
+        "minXPLevel": 7,
         "maxXPLevel": 999,
         "fileName": null,
         "exportName": null,
@@ -74,7 +74,7 @@
     {
         "name": 9,
         "tID": "Le super de Bartaba est tr\u00e8s puissant \u00e0 bout portant car les bouteilles atterrissent dans une zone proche.",
-        "minXPLevel": 999,
+        "minXPLevel": 20,
         "maxXPLevel": 999,
         "fileName": null,
         "exportName": null,
@@ -281,7 +281,7 @@
     {
         "name": 32,
         "tID": "Frank doit marquer un arr\u00eat avant d'utiliser son attaque ou son super, vous laissant une chance de vous mettre hors de port\u00e9e.",
-        "minXPLevel": 20,
+        "minXPLevel": 3,
         "maxXPLevel": 999,
         "fileName": null,
         "exportName": null,
@@ -361,7 +361,7 @@
     },
     {
         "name": 41,
-        "tID": "Connectez-vous \u00e0 Supercell ID dans les Param\u00e8tres pour s\u00e9curiser votre compte et jouer sur plusieurs appareils. Vous recevrez un skin gratuit\u00a0!",
+        "tID": "Connectez-vous \u00e0 Supercell ID dans les Param\u00e8tres pour s\u00e9curiser votre compte et jouer sur plusieurs appareils.",
         "minXPLevel": 3,
         "maxXPLevel": 999,
         "fileName": null,

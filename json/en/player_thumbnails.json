@@ -199,7 +199,7 @@
         "requiredHero": "Cactus",
         "iconSWF": "sc/ui.sc",
         "iconExportName": "player_icon_spike",
-        "sortOrder": 36,
+        "sortOrder": 35,
         "id": 44,
         "scId": 28000016
     },
@@ -211,7 +211,7 @@
         "requiredHero": "Crow",
         "iconSWF": "sc/ui.sc",
         "iconExportName": "player_icon_crow",
-        "sortOrder": 37,
+        "sortOrder": 36,
         "id": 45,
         "scId": 28000017
     },
@@ -451,20 +451,8 @@
         "requiredHero": "Ninja",
         "iconSWF": "sc/ui.sc",
         "iconExportName": "player_icon_leon",
-        "sortOrder": 38,
+        "sortOrder": 37,
         "id": 65,
         "scId": 28000037
-    },
-    {
-        "name": "hero23",
-        "requiredExpLevel": 0,
-        "requiredTotalTrophies": 0,
-        "requiredSeasonPoints": null,
-        "requiredHero": "HookDude",
-        "iconSWF": "sc/ui.sc",
-        "iconExportName": "player_icon_gene",
-        "sortOrder": 35,
-        "id": 66,
-        "scId": 28000038
     }
 ]

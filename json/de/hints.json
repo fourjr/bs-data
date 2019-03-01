@@ -47,7 +47,7 @@
     {
         "name": 6,
         "tID": "Das Matchmaking richtet sich nach der Troph\u00e4enanzahl des Brawlers, mit dem du spielst. Dadurch ist es leichter, mit einem neu freigeschalteten Brawler Troph\u00e4en zu sammeln.",
-        "minXPLevel": 3,
+        "minXPLevel": 7,
         "maxXPLevel": 999,
         "fileName": null,
         "exportName": null,
@@ -56,7 +56,7 @@
     {
         "name": 7,
         "tID": "Indem du mehr Brawler freischaltest, wird es einfacher, deine Gesamttroph\u00e4en zu erh\u00f6hen und dir mehr Belohnungen zu sichern.",
-        "minXPLevel": 3,
+        "minXPLevel": 7,
         "maxXPLevel": 999,
         "fileName": null,
         "exportName": null,
@@ -74,7 +74,7 @@
     {
         "name": 9,
         "tID": "Barleys Superskill ist besonders auf nahe Entfernung effektiv, da seine Flaschen so dichter beieinander landen.",
-        "minXPLevel": 999,
+        "minXPLevel": 20,
         "maxXPLevel": 999,
         "fileName": null,
         "exportName": null,
@@ -82,7 +82,7 @@
     },
     {
         "name": 10,
-        "tID": "Jedes Mal, wenn Ricos Kugeln abprallen, fliegen sie dadurch weiter.",
+        "tID": "Jedes Mal, wenn Ricochets Kugeln abprallen, fliegen sie dadurch weiter.",
         "minXPLevel": 20,
         "maxXPLevel": 999,
         "fileName": null,
@@ -154,7 +154,7 @@
     },
     {
         "name": 18,
-        "tID": "Manuell zu zielen ist praktisch, um in B\u00fcsche zu schie\u00dfen und sie so auf Gegner zu \u00fcberpr\u00fcfen.",
+        "tID": "Manuell zu zielen ist praktisch, um in B\u00fcsche zu schie\u00dfen und so nach Gegner zu sehen.",
         "minXPLevel": 3,
         "maxXPLevel": 60,
         "fileName": null,
@@ -281,7 +281,7 @@
     {
         "name": 32,
         "tID": "Frank braucht eine Weile, um seine Standardattacke und seinen Superskill auszuf\u00fchren, wodurch seine Gegner die Gelegenheit haben, ihm auszuweichen.",
-        "minXPLevel": 20,
+        "minXPLevel": 3,
         "maxXPLevel": 999,
         "fileName": null,
         "exportName": null,
@@ -361,7 +361,7 @@
     },
     {
         "name": 41,
-        "tID": "Verkn\u00fcpfe dein Spielkonto mit einer Supercell ID, um es vor Verlust zu sch\u00fctzen und auf mehreren Ger\u00e4ten spielen zu k\u00f6nnen. Dadurch erh\u00e4ltst du zudem einen kostenlosen Skin!",
+        "tID": "Verkn\u00fcpfe dein Spielkonto mit einer Supercell ID, um es vor Verlust zu sch\u00fctzen und auf mehreren Ger\u00e4ten spielen zu k\u00f6nnen.",
         "minXPLevel": 3,
         "maxXPLevel": 999,
         "fileName": null,

@@ -1,7 +1,7 @@
 [
     {
         "name": 1,
-        "tID": "Pikatulita l\u00e4hint\u00e4 vastustajaasi napauttamalla <ccc0033>punaista\u00a0ohjainta.</c>",
+        "tID": "Pikatulita l\u00e4hint\u00e4 vastustajaasi napauttamalla <ccc0033>punaista ohjainta</c>.",
         "minXPLevel": 1,
         "maxXPLevel": 40,
         "fileName": null,
@@ -10,7 +10,7 @@
     },
     {
         "name": 2,
-        "tID": "Pikatulita supervoimallasi l\u00e4hint\u00e4 vastustajaasi napauttamalla <cff9900>keltaista\u00a0ohjainta.</c>",
+        "tID": "Pikatulita supervoimallasi l\u00e4hint\u00e4 vastustajaasi napauttamalla <cff9900>keltaista ohjainta</c>.",
         "minXPLevel": 1,
         "maxXPLevel": 40,
         "fileName": null,
@@ -47,7 +47,7 @@
     {
         "name": 6,
         "tID": "Ottelunmuodostus perustuu sen r\u00e4m\u00e4p\u00e4\u00e4n pokaaleihin, jolla pelaat, joten juuri avaamillasi r\u00e4m\u00e4p\u00e4ill\u00e4 on helpompi ansaita pokaaleja.",
-        "minXPLevel": 3,
+        "minXPLevel": 7,
         "maxXPLevel": 999,
         "fileName": null,
         "exportName": null,
@@ -56,7 +56,7 @@
     {
         "name": 7,
         "tID": "Uusien r\u00e4m\u00e4p\u00e4iden saaminen tekee pokaalim\u00e4\u00e4r\u00e4n kasvattamisen ja palkintojen hankkimisen helpommaksi.",
-        "minXPLevel": 3,
+        "minXPLevel": 7,
         "maxXPLevel": 999,
         "fileName": null,
         "exportName": null,
@@ -74,7 +74,7 @@
     {
         "name": 9,
         "tID": "Barleyn supervoima on erityisen tehokas lyhyell\u00e4 kantamalla, sill\u00e4 pullot osuvat maahan pienell\u00e4 alueella.",
-        "minXPLevel": 999,
+        "minXPLevel": 20,
         "maxXPLevel": 999,
         "fileName": null,
         "exportName": null,
@@ -82,7 +82,7 @@
     },
     {
         "name": 10,
-        "tID": "Luodit lent\u00e4v\u00e4t pidemm\u00e4lle jokaisella ponnahduksella.",
+        "tID": "Joka kerta, kun Ricochetin luodit kimpoavat, ne lent\u00e4v\u00e4t pidemm\u00e4lle.",
         "minXPLevel": 20,
         "maxXPLevel": 999,
         "fileName": null,
@@ -100,7 +100,7 @@
     },
     {
         "name": 12,
-        "tID": "Perushy\u00f6kk\u00e4yksell\u00e4si ja superillasi on kaksi ampumistapaa: pikatulitus napauttamalla ja t\u00e4ht\u00e4ys vet\u00e4m\u00e4ll\u00e4.",
+        "tID": "Sek\u00e4 perushy\u00f6kk\u00e4yksell\u00e4si ett\u00e4 supervoimallasi on 2 ampumistapaa: pikatulitus napauttamalla ja t\u00e4ht\u00e4ys vet\u00e4m\u00e4ll\u00e4.",
         "minXPLevel": 1,
         "maxXPLevel": 40,
         "fileName": null,
@@ -136,7 +136,7 @@
     },
     {
         "name": 16,
-        "tID": "Kun olet piilossa pensaassa, vastustaja voi huomata sinut, jos tulee tarpeeksi l\u00e4helle.",
+        "tID": "Kun olet piilossa pensaassa, vastustaja voi huomata sinut, jos se tulee tarpeeksi l\u00e4helle.",
         "minXPLevel": 3,
         "maxXPLevel": 60,
         "fileName": null,
@@ -154,7 +154,7 @@
     },
     {
         "name": 18,
-        "tID": "Laukausten t\u00e4ht\u00e4\u00e4minen pensaaseen on hyv\u00e4 tapa tarkistaa, onko siell\u00e4 vastustajia.",
+        "tID": "Laukausten t\u00e4ht\u00e4\u00e4minen pensaaseen on hyv\u00e4 tapa tarkistaa, onko siell\u00e4 vihollisia.",
         "minXPLevel": 3,
         "maxXPLevel": 60,
         "fileName": null,
@@ -181,7 +181,7 @@
     },
     {
         "name": 21,
-        "tID": "Kun olet pensaassa, vastustaja voi n\u00e4hd\u00e4 sinut, jos hy\u00f6kk\u00e4\u00e4t tai vahingoitut.",
+        "tID": "Kun olet pensaassa, vastustaja voi n\u00e4hd\u00e4, jos hy\u00f6kk\u00e4\u00e4t tai vahingoitut.",
         "minXPLevel": 3,
         "maxXPLevel": 60,
         "fileName": null,
@@ -190,7 +190,7 @@
     },
     {
         "name": 22,
-        "tID": "Voit k\u00e4ytt\u00e4\u00e4 pensaita vastustajalta piiloutumiseen.",
+        "tID": "Voit k\u00e4ytt\u00e4\u00e4 pensaita viholliselta piiloutumiseen.",
         "minXPLevel": 1,
         "maxXPLevel": 40,
         "fileName": null,
@@ -208,7 +208,7 @@
     },
     {
         "name": 24,
-        "tID": "Jotkin r\u00e4m\u00e4p\u00e4\u00e4t ovat toisia parempia tietyiss\u00e4 kartoissa ja tapahtumissa.",
+        "tID": "Jotkin r\u00e4m\u00e4p\u00e4\u00e4t ovat toisia parempia tietyill\u00e4 kartoilla ja tietyiss\u00e4 tapahtumissa.",
         "minXPLevel": 3,
         "maxXPLevel": 60,
         "fileName": null,
@@ -244,7 +244,7 @@
     },
     {
         "name": 28,
-        "tID": "Joukkueen kokoaminen ennen ottelua antaa mahdollisuuden valmistautua yhdess\u00e4 ja valita paras r\u00e4m\u00e4p\u00e4\u00e4yhdistelm\u00e4.",
+        "tID": "Joukkueen kokoaminen ennen ottelua antaa teille mahdollisuuden valmistautua yhdess\u00e4 ja valita paras r\u00e4m\u00e4p\u00e4\u00e4yhdistelm\u00e4.",
         "minXPLevel": 3,
         "maxXPLevel": 999,
         "fileName": null,
@@ -253,7 +253,7 @@
     },
     {
         "name": 29,
-        "tID": "Kokeile yst\u00e4vyysotteluita, joissa voit harjoitella tapahtumia varten ja j\u00e4rjest\u00e4\u00e4 rentoja kilpailuja!",
+        "tID": "Kokeile yst\u00e4vyysotteluita, joissa voit esimerkiksi harjoitella tapahtumia varten ja j\u00e4rjest\u00e4\u00e4 rentoja kilpailuja!",
         "minXPLevel": 3,
         "maxXPLevel": 999,
         "fileName": null,
@@ -262,7 +262,7 @@
     },
     {
         "name": 30,
-        "tID": "Jos haluat pelata uuden ottelun uusien hyvien joukkuekavereiden kanssa, napauta Pelaa uudelleen.",
+        "tID": "Uusien joukkuekavereiden kanssa pelatun hyv\u00e4n ottelun j\u00e4lkeen voit napauttaa Pelaa uudelleen, ja p\u00e4\u00e4set pelaamaan toisen ottelun heid\u00e4n kanssaan.",
         "minXPLevel": 3,
         "maxXPLevel": 60,
         "fileName": null,
@@ -281,7 +281,7 @@
     {
         "name": 32,
         "tID": "Frank pys\u00e4htyy hy\u00f6kk\u00e4yst\u00e4\u00e4n ja superhy\u00f6kk\u00e4yst\u00e4\u00e4n varten, joten h\u00e4nen vastustajallaan on mahdollisuus p\u00e4\u00e4st\u00e4 pois kantomatkalta.",
-        "minXPLevel": 20,
+        "minXPLevel": 3,
         "maxXPLevel": 999,
         "fileName": null,
         "exportName": null,
@@ -307,7 +307,7 @@
     },
     {
         "name": 35,
-        "tID": "Voit kutsua joukkueesi pelaajia kaveriksesi.",
+        "tID": "Voit kutsua kaveriksesi pelaajia joukkueestasi.",
         "minXPLevel": 3,
         "maxXPLevel": 999,
         "fileName": null,
@@ -325,7 +325,7 @@
     },
     {
         "name": 37,
-        "tID": "Voit kutsua joukkueesi pelaajia kaveriksesi.",
+        "tID": "Voit kutsua kaveriksesi pelaajia joukkueestasi.",
         "minXPLevel": 3,
         "maxXPLevel": 999,
         "fileName": null,
@@ -343,7 +343,7 @@
     },
     {
         "name": 39,
-        "tID": "Py\u00f6riv\u00e4 sininen keh\u00e4 r\u00e4m\u00e4p\u00e4\u00e4n alla tarkoittaa, ett\u00e4 supervoima on valmis.",
+        "tID": "Py\u00f6riv\u00e4 sininen keh\u00e4 r\u00e4m\u00e4p\u00e4\u00e4n alla tarkoittaa, ett\u00e4 supervoima on valmis!",
         "minXPLevel": 7,
         "maxXPLevel": 999,
         "fileName": null,
@@ -352,7 +352,7 @@
     },
     {
         "name": 40,
-        "tID": "Py\u00f6riv\u00e4 keltainen keh\u00e4 r\u00e4m\u00e4p\u00e4\u00e4n alla tarkoittaa, ett\u00e4 h\u00e4n t\u00e4ht\u00e4\u00e4 parhaillaan supervoimaansa.",
+        "tID": "Py\u00f6riv\u00e4 keltainen keh\u00e4 r\u00e4m\u00e4p\u00e4\u00e4n alla tarkoittaa, ett\u00e4 h\u00e4n t\u00e4ht\u00e4\u00e4 parhaillaan supervoimaansa!",
         "minXPLevel": 7,
         "maxXPLevel": 999,
         "fileName": null,
@@ -361,7 +361,7 @@
     },
     {
         "name": 41,
-        "tID": "Yhdist\u00e4 pelisi Supercell ID:hen asetusvalikossa. N\u00e4in pid\u00e4t pelitilisi turvassa ja voit pelata useilla laitteilla. Lis\u00e4ksi saat ilmaisen asupalkinnon!",
+        "tID": "Yhdist\u00e4 pelisi Supercell ID:hen n\u00e4ytt\u00f6si asetuksien kautta. N\u00e4in pid\u00e4t pelitilisi turvassa ja voit pelata useilla laitteilla.",
         "minXPLevel": 3,
         "maxXPLevel": 999,
         "fileName": null,

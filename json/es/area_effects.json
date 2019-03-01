@@ -1,113 +1,5 @@
 [
     {
-        "name": "Brock_def_atk_area",
-        "fileName": "sc/effects.sc",
-        "ownExportName": null,
-        "blueExportName": null,
-        "redExportName": null,
-        "layer": "Ground",
-        "exportNameTop": null,
-        "exportNameObject": null,
-        "effect": "brock_def_explosion_blue",
-        "loopingEffect": null,
-        "scale": 70,
-        "timeMs": 700,
-        "radius": 300,
-        "damage": null,
-        "customValue": null,
-        "type": "Damage",
-        "bulletExplosionBullet": null,
-        "bulletExplosionBulletDistance": null,
-        "destroysEnvironment": null,
-        "pushbackStrength": null,
-        "pushbackStrengthSelf": null,
-        "freezeStrength": null,
-        "shouldShowEvenIfOutsideScreen": null,
-        "sameAreaEffectCanNotDamageMs": null,
-        "id": 17
-    },
-    {
-        "name": "Brock_def_ulti_area",
-        "fileName": "sc/effects.sc",
-        "ownExportName": null,
-        "blueExportName": null,
-        "redExportName": null,
-        "layer": "Ground",
-        "exportNameTop": null,
-        "exportNameObject": null,
-        "effect": "brock_def_ultiExp_blue",
-        "loopingEffect": null,
-        "scale": 100,
-        "timeMs": 700,
-        "radius": 450,
-        "damage": null,
-        "customValue": null,
-        "type": "Damage",
-        "bulletExplosionBullet": null,
-        "bulletExplosionBulletDistance": null,
-        "destroysEnvironment": true,
-        "pushbackStrength": null,
-        "pushbackStrengthSelf": null,
-        "freezeStrength": null,
-        "shouldShowEvenIfOutsideScreen": null,
-        "sameAreaEffectCanNotDamageMs": null,
-        "id": 18
-    },
-    {
-        "name": "Brock_002_atk_area",
-        "fileName": "sc/effects.sc",
-        "ownExportName": null,
-        "blueExportName": null,
-        "redExportName": null,
-        "layer": "Ground",
-        "exportNameTop": null,
-        "exportNameObject": null,
-        "effect": "brock_002_explosion_blue",
-        "loopingEffect": null,
-        "scale": 70,
-        "timeMs": 700,
-        "radius": 300,
-        "damage": null,
-        "customValue": null,
-        "type": "Damage",
-        "bulletExplosionBullet": null,
-        "bulletExplosionBulletDistance": null,
-        "destroysEnvironment": null,
-        "pushbackStrength": null,
-        "pushbackStrengthSelf": null,
-        "freezeStrength": null,
-        "shouldShowEvenIfOutsideScreen": null,
-        "sameAreaEffectCanNotDamageMs": null,
-        "id": 19
-    },
-    {
-        "name": "Brock_002_ulti_area",
-        "fileName": "sc/effects.sc",
-        "ownExportName": null,
-        "blueExportName": null,
-        "redExportName": null,
-        "layer": "Ground",
-        "exportNameTop": null,
-        "exportNameObject": null,
-        "effect": "brock_def_ultiExp_blue",
-        "loopingEffect": null,
-        "scale": 100,
-        "timeMs": 700,
-        "radius": 450,
-        "damage": null,
-        "customValue": null,
-        "type": "Damage",
-        "bulletExplosionBullet": null,
-        "bulletExplosionBulletDistance": null,
-        "destroysEnvironment": true,
-        "pushbackStrength": null,
-        "pushbackStrengthSelf": null,
-        "freezeStrength": null,
-        "shouldShowEvenIfOutsideScreen": null,
-        "sameAreaEffectCanNotDamageMs": null,
-        "id": 20
-    },
-    {
         "name": "RocketGirlExplosion",
         "fileName": "sc/effects.sc",
         "ownExportName": "range400_blue",
@@ -130,9 +22,8 @@
         "pushbackStrength": null,
         "pushbackStrengthSelf": null,
         "freezeStrength": null,
-        "shouldShowEvenIfOutsideScreen": null,
-        "sameAreaEffectCanNotDamageMs": null,
-        "id": 21
+        "syncAnimWithServer": null,
+        "id": 17
     },
     {
         "name": "RocketGirlUltiExplosion",
@@ -157,20 +48,19 @@
         "pushbackStrength": null,
         "pushbackStrengthSelf": null,
         "freezeStrength": null,
-        "shouldShowEvenIfOutsideScreen": null,
-        "sameAreaEffectCanNotDamageMs": null,
-        "id": 22
+        "syncAnimWithServer": null,
+        "id": 18
     },
     {
         "name": "CactusExplosion",
         "fileName": "sc/effects.sc",
-        "ownExportName": null,
-        "blueExportName": null,
-        "redExportName": null,
+        "ownExportName": "range400_blue",
+        "blueExportName": "range400_blue",
+        "redExportName": "range400_red",
         "layer": "Ground",
         "exportNameTop": null,
         "exportNameObject": null,
-        "effect": "spike_def_atk1_explosion",
+        "effect": "explosion_cactus",
         "loopingEffect": null,
         "scale": 70,
         "timeMs": 700,
@@ -184,9 +74,8 @@
         "pushbackStrength": null,
         "pushbackStrengthSelf": null,
         "freezeStrength": null,
-        "shouldShowEvenIfOutsideScreen": null,
-        "sameAreaEffectCanNotDamageMs": null,
-        "id": 23
+        "syncAnimWithServer": null,
+        "id": 19
     },
     {
         "name": "CactusSpikeExplosion",
@@ -211,20 +100,19 @@
         "pushbackStrength": null,
         "pushbackStrengthSelf": null,
         "freezeStrength": null,
-        "shouldShowEvenIfOutsideScreen": null,
-        "sameAreaEffectCanNotDamageMs": null,
-        "id": 24
+        "syncAnimWithServer": null,
+        "id": 20
     },
     {
         "name": "CactusUltiExplosion",
         "fileName": "sc/effects.sc",
-        "ownExportName": null,
-        "blueExportName": null,
-        "redExportName": null,
+        "ownExportName": "range400_blue",
+        "blueExportName": "range400_blue",
+        "redExportName": "range400_red",
         "layer": "Ground",
         "exportNameTop": null,
         "exportNameObject": null,
-        "effect": "spike_def_ulti_explosion",
+        "effect": "explosion_cactus_ulti",
         "loopingEffect": null,
         "scale": 170,
         "timeMs": 4500,
@@ -238,90 +126,8 @@
         "pushbackStrength": null,
         "pushbackStrengthSelf": null,
         "freezeStrength": 350,
-        "shouldShowEvenIfOutsideScreen": null,
-        "sameAreaEffectCanNotDamageMs": null,
-        "id": 25
-    },
-    {
-        "name": "Spike_002_atk1_explosion",
-        "fileName": "sc/effects.sc",
-        "ownExportName": null,
-        "blueExportName": null,
-        "redExportName": null,
-        "layer": "Ground",
-        "exportNameTop": null,
-        "exportNameObject": null,
-        "effect": "spike_002_atk1_explosion",
-        "loopingEffect": null,
-        "scale": 70,
-        "timeMs": 700,
-        "radius": 300,
-        "damage": null,
-        "customValue": null,
-        "type": "Damage",
-        "bulletExplosionBullet": null,
-        "bulletExplosionBulletDistance": null,
-        "destroysEnvironment": null,
-        "pushbackStrength": null,
-        "pushbackStrengthSelf": null,
-        "freezeStrength": null,
-        "shouldShowEvenIfOutsideScreen": null,
-        "sameAreaEffectCanNotDamageMs": null,
-        "id": 26
-    },
-    {
-        "name": "Spike_002_atk2",
-        "fileName": "sc/effects.sc",
-        "ownExportName": null,
-        "blueExportName": null,
-        "redExportName": null,
-        "layer": "Ground",
-        "exportNameTop": null,
-        "exportNameObject": null,
-        "effect": null,
-        "loopingEffect": null,
-        "scale": 100,
-        "timeMs": 700,
-        "radius": 300,
-        "damage": null,
-        "customValue": 6,
-        "type": "BulletExplosion",
-        "bulletExplosionBullet": "Spike002Spike",
-        "bulletExplosionBulletDistance": 13,
-        "destroysEnvironment": null,
-        "pushbackStrength": null,
-        "pushbackStrengthSelf": null,
-        "freezeStrength": null,
-        "shouldShowEvenIfOutsideScreen": null,
-        "sameAreaEffectCanNotDamageMs": null,
-        "id": 27
-    },
-    {
-        "name": "Spike_002_ulti_explosion",
-        "fileName": "sc/effects.sc",
-        "ownExportName": null,
-        "blueExportName": null,
-        "redExportName": null,
-        "layer": "Ground",
-        "exportNameTop": null,
-        "exportNameObject": null,
-        "effect": "spike_002_ulti_explosion",
-        "loopingEffect": null,
-        "scale": 170,
-        "timeMs": 4500,
-        "radius": 800,
-        "damage": 800,
-        "customValue": null,
-        "type": "Dot",
-        "bulletExplosionBullet": null,
-        "bulletExplosionBulletDistance": null,
-        "destroysEnvironment": null,
-        "pushbackStrength": null,
-        "pushbackStrengthSelf": null,
-        "freezeStrength": 350,
-        "shouldShowEvenIfOutsideScreen": null,
-        "sameAreaEffectCanNotDamageMs": null,
-        "id": 28
+        "syncAnimWithServer": null,
+        "id": 21
     },
     {
         "name": "BarkeepExplosion",
@@ -346,9 +152,8 @@
         "pushbackStrength": null,
         "pushbackStrengthSelf": null,
         "freezeStrength": null,
-        "shouldShowEvenIfOutsideScreen": null,
-        "sameAreaEffectCanNotDamageMs": null,
-        "id": 29
+        "syncAnimWithServer": null,
+        "id": 22
     },
     {
         "name": "BarkeepWizardExplosion",
@@ -373,9 +178,8 @@
         "pushbackStrength": null,
         "pushbackStrengthSelf": null,
         "freezeStrength": null,
-        "shouldShowEvenIfOutsideScreen": null,
-        "sameAreaEffectCanNotDamageMs": null,
-        "id": 30
+        "syncAnimWithServer": null,
+        "id": 23
     },
     {
         "name": "BarkeepUltiExplosion",
@@ -400,9 +204,8 @@
         "pushbackStrength": null,
         "pushbackStrengthSelf": null,
         "freezeStrength": null,
-        "shouldShowEvenIfOutsideScreen": null,
-        "sameAreaEffectCanNotDamageMs": 1000,
-        "id": 31
+        "syncAnimWithServer": null,
+        "id": 24
     },
     {
         "name": "BarkeepWizardUltiExplosion",
@@ -427,9 +230,8 @@
         "pushbackStrength": null,
         "pushbackStrengthSelf": null,
         "freezeStrength": null,
-        "shouldShowEvenIfOutsideScreen": null,
-        "sameAreaEffectCanNotDamageMs": 1000,
-        "id": 32
+        "syncAnimWithServer": null,
+        "id": 25
     },
     {
         "name": "ExplodingBarrelExplosion",
@@ -454,9 +256,8 @@
         "pushbackStrength": 120,
         "pushbackStrengthSelf": null,
         "freezeStrength": null,
-        "shouldShowEvenIfOutsideScreen": null,
-        "sameAreaEffectCanNotDamageMs": null,
-        "id": 33
+        "syncAnimWithServer": null,
+        "id": 26
     },
     {
         "name": "PoisonBarrelExplosion",
@@ -481,16 +282,15 @@
         "pushbackStrength": null,
         "pushbackStrengthSelf": null,
         "freezeStrength": null,
-        "shouldShowEvenIfOutsideScreen": null,
-        "sameAreaEffectCanNotDamageMs": null,
-        "id": 34
+        "syncAnimWithServer": null,
+        "id": 27
     },
     {
         "name": "TntDudeExplosion",
         "fileName": "sc/effects.sc",
-        "ownExportName": null,
-        "blueExportName": null,
-        "redExportName": null,
+        "ownExportName": "range450_blue",
+        "blueExportName": "range450_blue",
+        "redExportName": "range450_red",
         "layer": "Ground",
         "exportNameTop": null,
         "exportNameObject": null,
@@ -508,16 +308,15 @@
         "pushbackStrength": null,
         "pushbackStrengthSelf": 150,
         "freezeStrength": null,
-        "shouldShowEvenIfOutsideScreen": null,
-        "sameAreaEffectCanNotDamageMs": null,
-        "id": 35
+        "syncAnimWithServer": null,
+        "id": 28
     },
     {
         "name": "TntDudeUltiExplosion",
         "fileName": "sc/effects.sc",
-        "ownExportName": null,
-        "blueExportName": null,
-        "redExportName": null,
+        "ownExportName": "range450_blue",
+        "blueExportName": "range450_blue",
+        "redExportName": "range450_red",
         "layer": "Ground",
         "exportNameTop": null,
         "exportNameObject": null,
@@ -535,9 +334,8 @@
         "pushbackStrength": 150,
         "pushbackStrengthSelf": 250,
         "freezeStrength": null,
-        "shouldShowEvenIfOutsideScreen": null,
-        "sameAreaEffectCanNotDamageMs": null,
-        "id": 36
+        "syncAnimWithServer": null,
+        "id": 29
     },
     {
         "name": "BowDudeExplosion",
@@ -562,9 +360,8 @@
         "pushbackStrength": null,
         "pushbackStrengthSelf": null,
         "freezeStrength": null,
-        "shouldShowEvenIfOutsideScreen": null,
-        "sameAreaEffectCanNotDamageMs": null,
-        "id": 37
+        "syncAnimWithServer": null,
+        "id": 30
     },
     {
         "name": "CrowUltiKnifes",
@@ -589,9 +386,8 @@
         "pushbackStrength": null,
         "pushbackStrengthSelf": null,
         "freezeStrength": null,
-        "shouldShowEvenIfOutsideScreen": null,
-        "sameAreaEffectCanNotDamageMs": null,
-        "id": 38
+        "syncAnimWithServer": null,
+        "id": 31
     },
     {
         "name": "HealingStationHeal",
@@ -616,9 +412,8 @@
         "pushbackStrength": null,
         "pushbackStrengthSelf": null,
         "freezeStrength": null,
-        "shouldShowEvenIfOutsideScreen": null,
-        "sameAreaEffectCanNotDamageMs": null,
-        "id": 39
+        "syncAnimWithServer": null,
+        "id": 32
     },
     {
         "name": "Heal",
@@ -643,9 +438,8 @@
         "pushbackStrength": null,
         "pushbackStrengthSelf": null,
         "freezeStrength": null,
-        "shouldShowEvenIfOutsideScreen": null,
-        "sameAreaEffectCanNotDamageMs": null,
-        "id": 40
+        "syncAnimWithServer": null,
+        "id": 33
     },
     {
         "name": "MineExplosion",
@@ -670,9 +464,8 @@
         "pushbackStrength": 70,
         "pushbackStrengthSelf": null,
         "freezeStrength": null,
-        "shouldShowEvenIfOutsideScreen": null,
-        "sameAreaEffectCanNotDamageMs": null,
-        "id": 41
+        "syncAnimWithServer": null,
+        "id": 34
     },
     {
         "name": "SniperBombExplosion",
@@ -697,9 +490,8 @@
         "pushbackStrength": 70,
         "pushbackStrengthSelf": null,
         "freezeStrength": null,
-        "shouldShowEvenIfOutsideScreen": null,
-        "sameAreaEffectCanNotDamageMs": null,
-        "id": 42
+        "syncAnimWithServer": null,
+        "id": 35
     },
     {
         "name": "BlackHoleUltiExplosion",
@@ -724,9 +516,8 @@
         "pushbackStrength": 50,
         "pushbackStrengthSelf": null,
         "freezeStrength": null,
-        "shouldShowEvenIfOutsideScreen": null,
-        "sameAreaEffectCanNotDamageMs": null,
-        "id": 43
+        "syncAnimWithServer": null,
+        "id": 36
     },
     {
         "name": "BlackHoleUltiSuck",
@@ -751,9 +542,8 @@
         "pushbackStrength": -150,
         "pushbackStrengthSelf": null,
         "freezeStrength": null,
-        "shouldShowEvenIfOutsideScreen": null,
-        "sameAreaEffectCanNotDamageMs": null,
-        "id": 44
+        "syncAnimWithServer": null,
+        "id": 37
     },
     {
         "name": "ArtilleryDudeTurretExplosion",
@@ -778,9 +568,8 @@
         "pushbackStrength": null,
         "pushbackStrengthSelf": null,
         "freezeStrength": null,
-        "shouldShowEvenIfOutsideScreen": null,
-        "sameAreaEffectCanNotDamageMs": null,
-        "id": 45
+        "syncAnimWithServer": null,
+        "id": 38
     },
     {
         "name": "SelfDestructExplosion",
@@ -805,9 +594,8 @@
         "pushbackStrength": null,
         "pushbackStrengthSelf": null,
         "freezeStrength": null,
-        "shouldShowEvenIfOutsideScreen": null,
-        "sameAreaEffectCanNotDamageMs": null,
-        "id": 46
+        "syncAnimWithServer": null,
+        "id": 39
     },
     {
         "name": "HealWithAutoAttack",
@@ -832,20 +620,19 @@
         "pushbackStrength": null,
         "pushbackStrengthSelf": null,
         "freezeStrength": null,
-        "shouldShowEvenIfOutsideScreen": null,
-        "sameAreaEffectCanNotDamageMs": null,
-        "id": 47
+        "syncAnimWithServer": null,
+        "id": 40
     },
     {
         "name": "BurnMainAttack",
         "fileName": "sc/effects.sc",
-        "ownExportName": null,
-        "blueExportName": null,
-        "redExportName": null,
+        "ownExportName": "brock_ground_fire",
+        "blueExportName": "brock_ground_fire",
+        "redExportName": "brock_ground_fire_red",
         "layer": "Ground",
         "exportNameTop": null,
         "exportNameObject": null,
-        "effect": "brock_def_starPower",
+        "effect": "burning_ground_brock",
         "loopingEffect": null,
         "scale": 28,
         "timeMs": 2900,
@@ -859,9 +646,8 @@
         "pushbackStrength": null,
         "pushbackStrengthSelf": null,
         "freezeStrength": null,
-        "shouldShowEvenIfOutsideScreen": null,
-        "sameAreaEffectCanNotDamageMs": null,
-        "id": 48
+        "syncAnimWithServer": null,
+        "id": 41
     },
     {
         "name": "PowerupSpawn",
@@ -886,9 +672,8 @@
         "pushbackStrength": null,
         "pushbackStrengthSelf": null,
         "freezeStrength": null,
-        "shouldShowEvenIfOutsideScreen": true,
-        "sameAreaEffectCanNotDamageMs": null,
-        "id": 49
+        "syncAnimWithServer": true,
+        "id": 42
     },
     {
         "name": "BossSpawn",
@@ -913,9 +698,8 @@
         "pushbackStrength": null,
         "pushbackStrengthSelf": null,
         "freezeStrength": null,
-        "shouldShowEvenIfOutsideScreen": true,
-        "sameAreaEffectCanNotDamageMs": null,
-        "id": 50
+        "syncAnimWithServer": true,
+        "id": 43
     },
     {
         "name": "EventExplosion",
@@ -940,9 +724,8 @@
         "pushbackStrength": 150,
         "pushbackStrengthSelf": 250,
         "freezeStrength": null,
-        "shouldShowEvenIfOutsideScreen": null,
-        "sameAreaEffectCanNotDamageMs": null,
-        "id": 51
+        "syncAnimWithServer": null,
+        "id": 44
     },
     {
         "name": "ExplosionSpawn",
@@ -967,9 +750,8 @@
         "pushbackStrength": null,
         "pushbackStrengthSelf": null,
         "freezeStrength": null,
-        "shouldShowEvenIfOutsideScreen": true,
-        "sameAreaEffectCanNotDamageMs": null,
-        "id": 52
+        "syncAnimWithServer": true,
+        "id": 45
     },
     {
         "name": "ClusterBombExplosion",
@@ -994,9 +776,8 @@
         "pushbackStrength": null,
         "pushbackStrengthSelf": null,
         "freezeStrength": null,
-        "shouldShowEvenIfOutsideScreen": null,
-        "sameAreaEffectCanNotDamageMs": null,
-        "id": 53
+        "syncAnimWithServer": null,
+        "id": 46
     },
     {
         "name": "ClusterBombExplosion2",
@@ -1021,9 +802,8 @@
         "pushbackStrength": null,
         "pushbackStrengthSelf": null,
         "freezeStrength": null,
-        "shouldShowEvenIfOutsideScreen": null,
-        "sameAreaEffectCanNotDamageMs": null,
-        "id": 54
+        "syncAnimWithServer": null,
+        "id": 47
     },
     {
         "name": "SmokeScreen",
@@ -1048,9 +828,8 @@
         "pushbackStrength": null,
         "pushbackStrengthSelf": null,
         "freezeStrength": null,
-        "shouldShowEvenIfOutsideScreen": null,
-        "sameAreaEffectCanNotDamageMs": null,
-        "id": 55
+        "syncAnimWithServer": null,
+        "id": 48
     },
     {
         "name": "EventHealing",
@@ -1075,9 +854,8 @@
         "pushbackStrength": null,
         "pushbackStrengthSelf": null,
         "freezeStrength": null,
-        "shouldShowEvenIfOutsideScreen": null,
-        "sameAreaEffectCanNotDamageMs": null,
-        "id": 56
+        "syncAnimWithServer": null,
+        "id": 49
     },
     {
         "name": "HealingSpawn",
@@ -1102,9 +880,8 @@
         "pushbackStrength": null,
         "pushbackStrengthSelf": null,
         "freezeStrength": null,
-        "shouldShowEvenIfOutsideScreen": null,
-        "sameAreaEffectCanNotDamageMs": null,
-        "id": 57
+        "syncAnimWithServer": null,
+        "id": 50
     },
     {
         "name": "RaidBossExplosion",
@@ -1129,9 +906,8 @@
         "pushbackStrength": 150,
         "pushbackStrengthSelf": 250,
         "freezeStrength": null,
-        "shouldShowEvenIfOutsideScreen": null,
-        "sameAreaEffectCanNotDamageMs": null,
-        "id": 58
+        "syncAnimWithServer": null,
+        "id": 51
     },
     {
         "name": "RaidBossExplosionSpawn",
@@ -1156,9 +932,8 @@
         "pushbackStrength": null,
         "pushbackStrengthSelf": null,
         "freezeStrength": null,
-        "shouldShowEvenIfOutsideScreen": true,
-        "sameAreaEffectCanNotDamageMs": null,
-        "id": 59
+        "syncAnimWithServer": true,
+        "id": 52
     },
     {
         "name": "RaidBossRocketBurn",
@@ -1183,9 +958,8 @@
         "pushbackStrength": null,
         "pushbackStrengthSelf": null,
         "freezeStrength": null,
-        "shouldShowEvenIfOutsideScreen": true,
-        "sameAreaEffectCanNotDamageMs": null,
-        "id": 60
+        "syncAnimWithServer": true,
+        "id": 53
     },
     {
         "name": "HeroSpawn",
@@ -1210,89 +984,7 @@
         "pushbackStrength": null,
         "pushbackStrengthSelf": null,
         "freezeStrength": null,
-        "shouldShowEvenIfOutsideScreen": null,
-        "sameAreaEffectCanNotDamageMs": null,
-        "id": 61
-    },
-    {
-        "name": "AutoHeal",
-        "fileName": "sc/effects.sc",
-        "ownExportName": "heal_area_effect_blue",
-        "blueExportName": "heal_area_effect_blue",
-        "redExportName": "heal_area_effect_red",
-        "layer": "Ground",
-        "exportNameTop": null,
-        "exportNameObject": null,
-        "effect": null,
-        "loopingEffect": "heal_area_fx",
-        "scale": 125,
-        "timeMs": 350,
-        "radius": 1000,
-        "damage": -320,
-        "customValue": null,
-        "type": "Heal",
-        "bulletExplosionBullet": null,
-        "bulletExplosionBulletDistance": null,
-        "destroysEnvironment": null,
-        "pushbackStrength": null,
-        "pushbackStrengthSelf": null,
-        "freezeStrength": null,
-        "shouldShowEvenIfOutsideScreen": null,
-        "sameAreaEffectCanNotDamageMs": null,
-        "id": 62
-    },
-    {
-        "name": "RoboWarsBoxSpawn",
-        "fileName": "sc/effects.sc",
-        "ownExportName": "power_area_effect_blue",
-        "blueExportName": "power_area_effect_blue",
-        "redExportName": "power_area_effect_blue",
-        "layer": "Ground",
-        "exportNameTop": null,
-        "exportNameObject": null,
-        "effect": null,
-        "loopingEffect": null,
-        "scale": 30,
-        "timeMs": 2500,
-        "radius": 300,
-        "damage": null,
-        "customValue": null,
-        "type": "Effect",
-        "bulletExplosionBullet": null,
-        "bulletExplosionBulletDistance": null,
-        "destroysEnvironment": null,
-        "pushbackStrength": null,
-        "pushbackStrengthSelf": null,
-        "freezeStrength": null,
-        "shouldShowEvenIfOutsideScreen": null,
-        "sameAreaEffectCanNotDamageMs": null,
-        "id": 63
-    },
-    {
-        "name": "RoboWarsBaseExplosion",
-        "fileName": "sc/effects.sc",
-        "ownExportName": "range450_blue",
-        "blueExportName": "range450_blue",
-        "redExportName": "range450_red",
-        "layer": "Ground",
-        "exportNameTop": null,
-        "exportNameObject": null,
-        "effect": "explosion_artillery_dude_turret",
-        "loopingEffect": null,
-        "scale": 100,
-        "timeMs": 700,
-        "radius": 450,
-        "damage": null,
-        "customValue": null,
-        "type": "Damage",
-        "bulletExplosionBullet": null,
-        "bulletExplosionBulletDistance": null,
-        "destroysEnvironment": null,
-        "pushbackStrength": null,
-        "pushbackStrengthSelf": null,
-        "freezeStrength": null,
-        "shouldShowEvenIfOutsideScreen": null,
-        "sameAreaEffectCanNotDamageMs": null,
-        "id": 64
+        "syncAnimWithServer": null,
+        "id": 54
     }
 ]

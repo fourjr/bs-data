@@ -47,7 +47,7 @@
     {
         "name": 6,
         "tID": "El emparejamiento se basa en los trofeos del brawler con el que est\u00e9s jugando, por lo que ser\u00e1 f\u00e1cil ganar trofeos con un brawler que acabas de desbloquear.",
-        "minXPLevel": 3,
+        "minXPLevel": 7,
         "maxXPLevel": 999,
         "fileName": null,
         "exportName": null,
@@ -56,7 +56,7 @@
     {
         "name": 7,
         "tID": "Mientras m\u00e1s brawlers tengas, m\u00e1s f\u00e1cil ser\u00e1 conseguir trofeos y m\u00e1s recompensas.",
-        "minXPLevel": 3,
+        "minXPLevel": 7,
         "maxXPLevel": 999,
         "fileName": null,
         "exportName": null,
@@ -74,7 +74,7 @@
     {
         "name": 9,
         "tID": "El s\u00faper de Barley es especialmente potente a corta distancia porque las botellas caen en un \u00e1rea peque\u00f1a.",
-        "minXPLevel": 999,
+        "minXPLevel": 20,
         "maxXPLevel": 999,
         "fileName": null,
         "exportName": null,
@@ -82,7 +82,7 @@
     },
     {
         "name": 10,
-        "tID": "Las balas de Rico viajan m\u00e1s lejos tras rebotar.",
+        "tID": "Las balas de Ricochet viajan m\u00e1s lejos cuando rebotan.",
         "minXPLevel": 20,
         "maxXPLevel": 999,
         "fileName": null,
@@ -281,7 +281,7 @@
     {
         "name": 32,
         "tID": "Frank se detiene antes de atacar y activar su s\u00faper, as\u00ed que sus rivales tienen la oportunidad de alejarse de \u00e9l.",
-        "minXPLevel": 20,
+        "minXPLevel": 3,
         "maxXPLevel": 999,
         "fileName": null,
         "exportName": null,
@@ -361,7 +361,7 @@
     },
     {
         "name": 41,
-        "tID": "Conecta tu cuenta a Supercell\u00a0ID en los ajustes para proteger tu cuenta y jugar en varios dispositivos. \u00a1Tambi\u00e9n recibir\u00e1s un aspecto gratis!",
+        "tID": "Conecta tu cuenta a Supercell\u00a0ID en los ajustes para proteger tu cuenta y jugar en varios dispositivos.",
         "minXPLevel": 3,
         "maxXPLevel": 999,
         "fileName": null,

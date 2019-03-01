@@ -47,7 +47,7 @@
     {
         "name": 6,
         "tID": "Pemadanan adalah berdasarkan Trofi Brawler yang anda main, memudahKAN untuk mendapat Trofi dengan Brawler yang baru dibuka kunci.",
-        "minXPLevel": 3,
+        "minXPLevel": 7,
         "maxXPLevel": 999,
         "fileName": null,
         "exportName": null,
@@ -56,7 +56,7 @@
     {
         "name": 7,
         "tID": "Mendapat lebih Brawler membuatkannya lebih mudah untuk maju dalam jumlah trofi dan mendapat lebih ganjaran.",
-        "minXPLevel": 3,
+        "minXPLevel": 7,
         "maxXPLevel": 999,
         "fileName": null,
         "exportName": null,
@@ -74,7 +74,7 @@
     {
         "name": 9,
         "tID": "Super Barley terutamanya kuat pada julat dekat sebab botol-botol akan mendarat di dalam satu kawasan kecil.",
-        "minXPLevel": 999,
+        "minXPLevel": 20,
         "maxXPLevel": 999,
         "fileName": null,
         "exportName": null,
@@ -82,7 +82,7 @@
     },
     {
         "name": 10,
-        "tID": "Setiap kali peluru Rico melantun, ia akan pergi lebih jauh.",
+        "tID": "Setiap kali peluru Ricochet melantun, ia akan pergi lebih jauh.",
         "minXPLevel": 20,
         "maxXPLevel": 999,
         "fileName": null,
@@ -281,7 +281,7 @@
     {
         "name": 32,
         "tID": "Frank berhenti untuk melakukan serangan dan Supernya, memberi peluang kepada pihak lawannya untuk keluar dari julatnya.",
-        "minXPLevel": 20,
+        "minXPLevel": 3,
         "maxXPLevel": 999,
         "fileName": null,
         "exportName": null,
@@ -361,7 +361,7 @@
     },
     {
         "name": 41,
-        "tID": "Sambung ke Supercell ID dari skrin tetapan untuk memastikan akaun anda selamat dan dimainkan pada berbilang peranti. Anda juga mendapat kulit percuma dengan melakukan ini!",
+        "tID": "Sambung ke ID Supercell dari skrin tetapan untuk memastikan akaun anda selamat dan bermain dengan berbilang peranti.",
         "minXPLevel": 3,
         "maxXPLevel": 999,
         "fileName": null,

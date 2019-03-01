@@ -49,7 +49,7 @@
     },
     {
         "name": "_INT",
-        "tID": "Internazionale",
+        "tID": "TID_REGION_INT",
         "displayName": "International",
         "isCountry": false,
         "id": 20,

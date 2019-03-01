@@ -16,8 +16,8 @@
 "hero11",0,0,,"DeadMariachi","sc/ui.sc","player_icon_poco",26
 "hero12",0,0,,"Undertaker","sc/ui.sc","player_icon_mortis",33
 "hero13",0,0,,"BowDude","sc/ui.sc","player_icon_bo",23
-"hero14",0,0,,"Cactus","sc/ui.sc","player_icon_spike",36
-"hero15",0,0,,"Crow","sc/ui.sc","player_icon_crow",37
+"hero14",0,0,,"Cactus","sc/ui.sc","player_icon_spike",35
+"hero15",0,0,,"Crow","sc/ui.sc","player_icon_crow",36
 "hero16",0,0,,"Sniper","sc/ui.sc","player_icon_piper",30
 "base4",40,0,,,"sc/ui.sc","player_icon_03",3
 "base5",60,0,,,"sc/ui.sc","player_icon_04",4
@@ -37,5 +37,4 @@
 "hero19",0,0,,"BarrelBot","sc/ui.sc","player_icon_barrelbot",28
 "hero20",0,0,,"ArtilleryDude","sc/ui.sc","player_icon_penny",29
 "hero21",0,0,,"HammerDude","sc/ui.sc","player_icon_frank",32
-"hero22",0,0,,"Ninja","sc/ui.sc","player_icon_leon",38
-"hero23",0,0,,"HookDude","sc/ui.sc","player_icon_gene",35
+"hero22",0,0,,"Ninja","sc/ui.sc","player_icon_leon",37
