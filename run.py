@@ -3,9 +3,10 @@
 Generate data JSON from APK CSV source.
 """
 
-import os
+import copy
 import csv
 import json
+import os
 
 import requests
 import yaml
@@ -121,23 +122,24 @@ if __name__ == '__main__':
             # languages
             if fn != 'maps.csv':
                 for lang in TID:
-                    for n, i in enumerate(data):
+                    change_data = copy.deepcopy(data)  # might be able to remove
+                    for n, i in enumerate(change_data):
                         i_keys = list(i.keys())
                         for j in i_keys:
                             if j == 'rawTID':
                                 try:
                                     i['tID'] = TID[lang]['TID_' + i['rawTID']]
                                 except KeyError:
-                                    pass
+                                    i['tID'] = 'TID_' + i['rawTID']
 
                     with open(f"json/{lang}/{fn.replace('.csv', '.json')}", 'w+') as f:
-                        json.dump(data, f, indent=4)
+                        json.dump(change_data, f)
 
-                    all_data[lang][fn.replace('.csv', '')] = data
+                    all_data[lang][fn.replace('.csv', '')] = copy.deepcopy(change_data)
             else:
                 for lang in TID:
                     with open(f"json/{lang}/{fn.replace('.csv', '.json')}", 'w+') as f:
-                        json.dump(data, f, indent=4)
+                        json.dump(data, f)
 
                     all_data[lang][fn.replace('.csv', '')] = data
 
@@ -146,11 +148,12 @@ if __name__ == '__main__':
     # tid.json
     for i in TID:
         with open(f'json/{i}/tid.json', 'w+') as f:
-            all_data[i]['tid'] = TID[i]
-            json.dump(TID[i], f, indent=4)
+            print(f'json/{i}/tid.json')
+            all_data[i]['tid'] = {j[4:]: TID[i][j] for j in TID[i]}
+            json.dump(TID[i], f)
 
     # all.json
     for i in TID:
         with open(f'json/{i}/all.json', 'w+') as f:
             print(f'json/{i}/all.json')
-            json.dump(all_data[i], f, indent=4)
+            json.dump(all_data[i], f)

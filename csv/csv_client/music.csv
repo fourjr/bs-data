@@ -10,7 +10,11 @@
 "Snow_brawl","music/Snow_brawl_01.ogg",70,"true",,,57
 ,"music/Snow_brawl_02.ogg",70,"true",,,65
 ,"music/Snow_brawl_03.ogg",70,"true",,,57
+"Cny_levels","music/cny_ingame_01.ogg",70,"true",,,64
+,"music/cny_ingame_02.ogg",70,"true",,,56
 "MenuMusic","music/brawl_stars_menu_01.ogg",60,"true",,,153
+"Cnymenu_music","music/cny_brawl_menu_01.ogg",60,"true",,,178
+"Brawl_royale_menu_music","music/royale_brawl_menu_01.ogg",60,"true",,,91
 "WinJingle","music/slugfest_game_won_01.ogg",80,,1,,
 "LoseJingle","music/slugfest_game_lost_01.ogg",70,,1,,
 "DrawJingle","music/laser_game_draw_01.ogg",70,,1,,
