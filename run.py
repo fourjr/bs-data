@@ -5,16 +5,25 @@ Generate data JSON from APK CSV source.
 
 import copy
 import csv
-import json
 import os
+import sys
+try:
+    import ujson as json
+except ImportError:
+    import json
 
 import requests
 import yaml
 
+try:
+    arg_lang = sys.argv[1]
+except IndexError:
+    arg_lang = None
+
 if __name__ == '__main__':
     TID = {}
-    for i in os.listdir('localization'):
-        with open(f'localization/{i}', encoding='utf-8') as f:
+    for i in os.listdir('csv/localization'):
+        with open(f'csv/localization/{i}', encoding='utf-8') as f:
             reader = csv.DictReader(f)
 
             title = reader.fieldnames
@@ -72,11 +81,14 @@ if __name__ == '__main__':
                     continue
                 data.append({title[i][:1].lower() + title[i][1:]: row[title[i]] for i in range(len(title))})
 
+            sc_id_index = 0
             for n, i in enumerate(data):
                 if fn in config['id']:
                     i['id'] = config['id'][fn] + n
                 if fn in config['scId']:
-                    i['scId'] = config['scId'][fn] + n
+                    if i.get('name', True):
+                        i['scId'] = config['scId'][fn] + sc_id_index
+                        sc_id_index += 1
                 i_keys = list(i.keys())
                 for j in i_keys:
                     if isinstance(i[j], str):
@@ -122,6 +134,8 @@ if __name__ == '__main__':
             # languages
             if fn != 'maps.csv':
                 for lang in TID:
+                    if arg_lang:
+                        lang = arg_lang
                     change_data = copy.deepcopy(data)  # might be able to remove
                     for n, i in enumerate(change_data):
                         i_keys = list(i.keys())
@@ -136,10 +150,16 @@ if __name__ == '__main__':
                         json.dump(change_data, f)
 
                     all_data[lang][fn.replace('.csv', '')] = copy.deepcopy(change_data)
+                    if arg_lang:
+                        break
             else:
                 for lang in TID:
+                    if arg_lang:
+                        lang = arg_lang
                     with open(f"json/{lang}/{fn.replace('.csv', '.json')}", 'w+') as f:
                         json.dump(data, f)
+                    if arg_lang:
+                        break
 
                     all_data[lang][fn.replace('.csv', '')] = data
 
@@ -147,13 +167,21 @@ if __name__ == '__main__':
 
     # tid.json
     for i in TID:
+        if arg_lang:
+            i = arg_lang
         with open(f'json/{i}/tid.json', 'w+') as f:
             print(f'json/{i}/tid.json')
             all_data[i]['tid'] = {j[4:]: TID[i][j] for j in TID[i]}
             json.dump(TID[i], f)
+        if arg_lang:
+            break
 
     # all.json
     for i in TID:
+        if arg_lang:
+            i = arg_lang
         with open(f'json/{i}/all.json', 'w+') as f:
             print(f'json/{i}/all.json')
             json.dump(all_data[i], f)
+        if arg_lang:
+            break
