@@ -1,1 +1,398 @@
-[{"name":1,"tID":"Kamu bisa MENGETUK <ccc0033>KONTROL MERAH<\/c> untuk MENEMBAK CEPAT lawan terdekat.","minXPLevel":1,"maxXPLevel":40,"fileName":null,"exportName":null,"rawTID":"HINT_0"},{"name":2,"tID":"Kamu bisa MENGETUK <cff9900>KONTROL KUNING<\/c> untuk MENEMBAK CEPAT lawan terdekat dengan serangan Super.","minXPLevel":1,"maxXPLevel":40,"fileName":null,"exportName":null,"rawTID":"HINT_1"},{"name":3,"tID":"Kamu bisa MENYERET <ccc0033>KONTROL MERAH<\/c> untuk MEMBIDIK tembakan.","minXPLevel":1,"maxXPLevel":40,"fileName":null,"exportName":null,"rawTID":"HINT_2"},{"name":4,"tID":"Kamu bisa MENYERET <cff9900>KONTROL KUNING<\/c> untuk MEMBIDIK Super.","minXPLevel":1,"maxXPLevel":40,"fileName":null,"exportName":null,"rawTID":"HINT_3"},{"name":5,"tID":"Kamu bisa membatalkan bidikan dengan mengembalikan kontrol ke tengah.","minXPLevel":1,"maxXPLevel":40,"fileName":null,"exportName":null,"rawTID":"HINT_4"},{"name":6,"tID":"Pencarian lawan dilakukan berdasar pada jumlah Trofi Jagoan yang dimainkan. Oleh karena itu, Trofi bisa didapatkan lebih mudah dengan Jagoan yang baru didapatkan.","minXPLevel":3,"maxXPLevel":999,"fileName":null,"exportName":null,"rawTID":"HINT_5"},{"name":7,"tID":"Mendapatkan lebih banyak Jagoan akan memudahkanmu meraih lebih banyak total Trofi dan Hadiah.","minXPLevel":3,"maxXPLevel":999,"fileName":null,"exportName":null,"rawTID":"HINT_6"},{"name":8,"tID":"Semakin jauh jarak tembakan Piper, kerusakan jadi semakin besar.","minXPLevel":20,"maxXPLevel":999,"fileName":null,"exportName":null,"rawTID":"HINT_7"},{"name":9,"tID":"Serangan Super Barley semakin kuat pada jarak dekat karena botol jatuh di area yang lebih kecil.","minXPLevel":999,"maxXPLevel":999,"fileName":null,"exportName":null,"rawTID":"HINT_8"},{"name":10,"tID":"Peluru Rico melesat semakin jauh saat dipantulkan.","minXPLevel":20,"maxXPLevel":999,"fileName":null,"exportName":null,"rawTID":"HINT_9"},{"name":11,"tID":"Kamu bisa mengaktifkan <ccc0033>KONTROL MERAH<\/c> di bagian mana saja pada sisi kanan layar untuk menembak.","minXPLevel":1,"maxXPLevel":40,"fileName":null,"exportName":null,"rawTID":"HINT_10"},{"name":12,"tID":"Serangan reguler dan Serangan Super memiliki dua mode menembak: KETUK untuk MENEMBAK CEPAT, dan SERET untuk MEMBIDIK.","minXPLevel":1,"maxXPLevel":40,"fileName":null,"exportName":null,"rawTID":"HINT_11"},{"name":13,"tID":"Membidik tembakan sangat bagus untuk melumpuhkan target yang bergerak.","minXPLevel":3,"maxXPLevel":60,"fileName":null,"exportName":null,"rawTID":"HINT_12"},{"name":14,"tID":"TEMBAK CEPAT bagus untuk tembakan reaksi cepat saat tak ada waktu untuk membidik.","minXPLevel":3,"maxXPLevel":60,"fileName":null,"exportName":null,"rawTID":"HINT_13"},{"name":15,"tID":"TEMBAK CEPAT bekerja sangat baik pada lawan yang dekat denganmu.","minXPLevel":3,"maxXPLevel":60,"fileName":null,"exportName":null,"rawTID":"HINT_14"},{"name":16,"tID":"Saat kamu bersembunyi di balik semak, lawan bisa melihatmu jika mereka mendekat.","minXPLevel":3,"maxXPLevel":60,"fileName":null,"exportName":null,"rawTID":"HINT_15"},{"name":17,"tID":"TEMBAK CEPAT menembak langsung ke arah lawan terdekat tanpa mempertimbangkan gerakan lawan.","minXPLevel":3,"maxXPLevel":60,"fileName":null,"exportName":null,"rawTID":"HINT_16"},{"name":18,"tID":"Membidik tembakan bagus saat kamu menembak ke arah semak-semak untuk mencari lawan.","minXPLevel":3,"maxXPLevel":60,"fileName":null,"exportName":null,"rawTID":"HINT_17"},{"name":19,"tID":"TEMBAK CEPAT bekerja sangat baik pada lawan yang tidak bergerak.","minXPLevel":3,"maxXPLevel":60,"fileName":null,"exportName":null,"rawTID":"HINT_18"},{"name":20,"tID":"TEMBAK CEPAT bekerja sangat baik pada lawan yang bergerak lurus mendekat maupun menjauh.","minXPLevel":3,"maxXPLevel":60,"fileName":null,"exportName":null,"rawTID":"HINT_19"},{"name":21,"tID":"Saat berada di semak, kamu akan terlihat lawan saat kamu menembak atau terkena serangan.","minXPLevel":3,"maxXPLevel":60,"fileName":null,"exportName":null,"rawTID":"HINT_20"},{"name":22,"tID":"Gunakan semak untuk bersembunyi dari lawan.","minXPLevel":1,"maxXPLevel":40,"fileName":null,"exportName":null,"rawTID":"HINT_21"},{"name":23,"tID":"Dengan TEMBAK CEPAT, kamu masih akan menembak meski tak ada lawan dalam jangkauanmu.","minXPLevel":1,"maxXPLevel":40,"fileName":null,"exportName":null,"rawTID":"HINT_22"},{"name":24,"tID":"Beberapa Jagoan unggul di beberapa peta dan acara daripada Jagoan lain.","minXPLevel":3,"maxXPLevel":60,"fileName":null,"exportName":null,"rawTID":"HINT_23"},{"name":25,"tID":"Jagoan berjangkauan jauh secara umum lebih baik di peta terbuka.","minXPLevel":3,"maxXPLevel":60,"fileName":null,"exportName":null,"rawTID":"HINT_24"},{"name":26,"tID":"Jagoan berjangkauan dekat secara umum lebih baik di peta dengan banyak halangan dan semak.","minXPLevel":3,"maxXPLevel":60,"fileName":null,"exportName":null,"rawTID":"HINT_25"},{"name":27,"tID":"Penny bisa memberikan kerusakan yang besar dengan serangan percikan saat targetnya berbaris.","minXPLevel":20,"maxXPLevel":999,"fileName":null,"exportName":null,"rawTID":"HINT_26"},{"name":28,"tID":"Mengumpulkan rekan tim sebelum Laga memungkinkanmu untuk menyusun strategi dan memilih kombinasi Jagoan yang optimal.","minXPLevel":3,"maxXPLevel":999,"fileName":null,"exportName":null,"rawTID":"HINT_27"},{"name":29,"tID":"Coba mainkan laga persahabatan untuk latihan acara, mengadakan kompetisi, dan masih banyak lagi!","minXPLevel":3,"maxXPLevel":999,"fileName":null,"exportName":null,"rawTID":"HINT_28"},{"name":30,"tID":"Seusai laga bagus dengan rekan tim baru, tekan Main Lagi untuk bermain dalam satu laga lain bersama mereka!","minXPLevel":3,"maxXPLevel":60,"fileName":null,"exportName":null,"rawTID":"HINT_29"},{"name":31,"tID":"Laga persahabatan memungkinkanmu memilih acara dan peta mana saja. Jagoan juga akan ditingkatkan maksimal!","minXPLevel":3,"maxXPLevel":999,"fileName":null,"exportName":null,"rawTID":"HINT_30"},{"name":32,"tID":"Ada jeda dalam serangan reguler dan Super milik Frank, sehingga lawan berkesempatan menjauh dari jangkauannya.","minXPLevel":20,"maxXPLevel":999,"fileName":null,"exportName":null,"rawTID":"HINT_31"},{"name":33,"tID":"Tiket diperlukan untuk bermain di Acara Tiket. Acara ini tidak menggunakan Bilah Token.","minXPLevel":3,"maxXPLevel":60,"fileName":null,"exportName":null,"rawTID":"HINT_32"},{"name":34,"tID":"Kamu bisa mengundang anggota Geng untuk menjadi temanmu dari daftar anggota Geng.","minXPLevel":3,"maxXPLevel":999,"fileName":null,"exportName":null,"rawTID":"HINT_33"},{"name":35,"tID":"Kamu bisa mengundang rekan Tim untuk menjadi temanmu.","minXPLevel":3,"maxXPLevel":999,"fileName":null,"exportName":null,"rawTID":"HINT_34"},{"name":36,"tID":"Setelah bermain dalam laga yang bagus dengan seseorang, undang dia menjadi temanmu melalui daftar rekomendasi teman.","minXPLevel":3,"maxXPLevel":999,"fileName":null,"exportName":null,"rawTID":"HINT_35"},{"name":37,"tID":"Kamu bisa mengundang rekan Tim untuk menjadi temanmu.","minXPLevel":3,"maxXPLevel":999,"fileName":null,"exportName":null,"rawTID":"HINT_36"},{"name":38,"tID":"Kamu bisa menggunakan tombol iklankan untuk mengiklankan Tim ke teman dan anggota Geng.","minXPLevel":999,"maxXPLevel":999,"fileName":null,"exportName":null,"rawTID":"HINT_37"},{"name":39,"tID":"Lingkaran biru yang berputar di bawah Jagoan berarti Supernya siap!","minXPLevel":7,"maxXPLevel":999,"fileName":null,"exportName":null,"rawTID":"HINT_38"},{"name":40,"tID":"Lingkaran kuning yang berputar di bawah jagoan berarti dia sedang membidik Supernya!","minXPLevel":7,"maxXPLevel":999,"fileName":null,"exportName":null,"rawTID":"HINT_39"},{"name":41,"tID":"Hubungkan akun ke Supercell ID melalui layar setelan untuk mengamankan serta mempermudah bermain di beberapa perangkat. Kamu juga akan memperoleh kostum gratis dengan melakukan ini!","minXPLevel":3,"maxXPLevel":999,"fileName":null,"exportName":null,"rawTID":"HINT_40"},{"name":42,"tID":"Jumlah total trofi adalah kombinasi trofi individu semua Jagoan.","minXPLevel":7,"maxXPLevel":999,"fileName":null,"exportName":null,"rawTID":"HINT_41"},{"name":43,"tID":"Saat tidak menyerang atau menerima kerusakan untuk sesaat, Jagoan akan mulai menyembuhkan diri.","minXPLevel":1,"maxXPLevel":40,"fileName":null,"exportName":null,"rawTID":"HINT_42"},{"name":44,"tID":"Saat cangkul penggali Carl menghantam halangan, cangkul penggali tersebut akan memantul kembali sehingga memungkinkan Carl melemparkannya kembali dengan jeda yang lebih singkat.","minXPLevel":20,"maxXPLevel":999,"fileName":null,"exportName":null,"rawTID":"HINT_43"}]
+[
+    {
+        "name":1,
+        "tID":"Kamu bisa MENGETUK <ccc0033>KONTROL MERAH<\/c> untuk MENEMBAK CEPAT lawan terdekat.",
+        "minXPLevel":1,
+        "maxXPLevel":40,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_0"
+    },
+    {
+        "name":2,
+        "tID":"Kamu bisa MENGETUK <cff9900>KONTROL KUNING<\/c> untuk MENEMBAK CEPAT lawan terdekat dengan serangan Super.",
+        "minXPLevel":1,
+        "maxXPLevel":40,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_1"
+    },
+    {
+        "name":3,
+        "tID":"Kamu bisa MENYERET <ccc0033>KONTROL MERAH<\/c> untuk MEMBIDIK tembakan.",
+        "minXPLevel":1,
+        "maxXPLevel":40,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_2"
+    },
+    {
+        "name":4,
+        "tID":"Kamu bisa MENYERET <cff9900>KONTROL KUNING<\/c> untuk MEMBIDIK Super.",
+        "minXPLevel":1,
+        "maxXPLevel":40,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_3"
+    },
+    {
+        "name":5,
+        "tID":"Kamu bisa membatalkan bidikan dengan mengembalikan kontrol ke tengah.",
+        "minXPLevel":1,
+        "maxXPLevel":40,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_4"
+    },
+    {
+        "name":6,
+        "tID":"Pencarian lawan dilakukan berdasar pada jumlah Trofi Jagoan yang dimainkan. Oleh karena itu, Trofi bisa didapatkan lebih mudah dengan Jagoan yang baru didapatkan.",
+        "minXPLevel":3,
+        "maxXPLevel":999,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_5"
+    },
+    {
+        "name":7,
+        "tID":"Mendapatkan lebih banyak Jagoan akan memudahkanmu meraih lebih banyak total Trofi dan Hadiah.",
+        "minXPLevel":3,
+        "maxXPLevel":999,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_6"
+    },
+    {
+        "name":8,
+        "tID":"Semakin jauh jarak tembakan Piper, kerusakan jadi semakin besar.",
+        "minXPLevel":20,
+        "maxXPLevel":999,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_7"
+    },
+    {
+        "name":9,
+        "tID":"Serangan Super Barley semakin kuat pada jarak dekat karena botol jatuh di area yang lebih kecil.",
+        "minXPLevel":999,
+        "maxXPLevel":999,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_8"
+    },
+    {
+        "name":10,
+        "tID":"Peluru Rico melesat semakin jauh saat dipantulkan.",
+        "minXPLevel":20,
+        "maxXPLevel":999,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_9"
+    },
+    {
+        "name":11,
+        "tID":"Kamu bisa mengaktifkan <ccc0033>KONTROL MERAH<\/c> di bagian mana saja pada sisi kanan layar untuk menembak.",
+        "minXPLevel":1,
+        "maxXPLevel":40,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_10"
+    },
+    {
+        "name":12,
+        "tID":"Serangan reguler dan Serangan Super memiliki dua mode menembak: KETUK untuk MENEMBAK CEPAT, dan SERET untuk MEMBIDIK.",
+        "minXPLevel":1,
+        "maxXPLevel":40,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_11"
+    },
+    {
+        "name":13,
+        "tID":"Membidik tembakan sangat bagus untuk melumpuhkan target yang bergerak.",
+        "minXPLevel":3,
+        "maxXPLevel":60,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_12"
+    },
+    {
+        "name":14,
+        "tID":"TEMBAK CEPAT bagus untuk tembakan reaksi cepat saat tak ada waktu untuk membidik.",
+        "minXPLevel":3,
+        "maxXPLevel":60,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_13"
+    },
+    {
+        "name":15,
+        "tID":"TEMBAK CEPAT bekerja sangat baik pada lawan yang dekat denganmu.",
+        "minXPLevel":3,
+        "maxXPLevel":60,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_14"
+    },
+    {
+        "name":16,
+        "tID":"Saat kamu bersembunyi di balik semak, lawan bisa melihatmu jika mereka mendekat.",
+        "minXPLevel":3,
+        "maxXPLevel":60,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_15"
+    },
+    {
+        "name":17,
+        "tID":"TEMBAK CEPAT menembak langsung ke arah lawan terdekat tanpa mempertimbangkan gerakan lawan.",
+        "minXPLevel":3,
+        "maxXPLevel":60,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_16"
+    },
+    {
+        "name":18,
+        "tID":"Membidik tembakan bagus saat kamu menembak ke arah semak-semak untuk mencari lawan.",
+        "minXPLevel":3,
+        "maxXPLevel":60,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_17"
+    },
+    {
+        "name":19,
+        "tID":"TEMBAK CEPAT bekerja sangat baik pada lawan yang tidak bergerak.",
+        "minXPLevel":3,
+        "maxXPLevel":60,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_18"
+    },
+    {
+        "name":20,
+        "tID":"TEMBAK CEPAT bekerja sangat baik pada lawan yang bergerak lurus mendekat maupun menjauh.",
+        "minXPLevel":3,
+        "maxXPLevel":60,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_19"
+    },
+    {
+        "name":21,
+        "tID":"Saat berada di semak, kamu akan terlihat lawan saat kamu menembak atau terkena serangan.",
+        "minXPLevel":3,
+        "maxXPLevel":60,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_20"
+    },
+    {
+        "name":22,
+        "tID":"Gunakan semak untuk bersembunyi dari lawan.",
+        "minXPLevel":1,
+        "maxXPLevel":40,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_21"
+    },
+    {
+        "name":23,
+        "tID":"Dengan TEMBAK CEPAT, kamu masih akan menembak meski tak ada lawan dalam jangkauanmu.",
+        "minXPLevel":1,
+        "maxXPLevel":40,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_22"
+    },
+    {
+        "name":24,
+        "tID":"Beberapa Jagoan unggul di beberapa peta dan acara daripada Jagoan lain.",
+        "minXPLevel":3,
+        "maxXPLevel":60,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_23"
+    },
+    {
+        "name":25,
+        "tID":"Jagoan berjangkauan jauh secara umum lebih baik di peta terbuka.",
+        "minXPLevel":3,
+        "maxXPLevel":60,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_24"
+    },
+    {
+        "name":26,
+        "tID":"Jagoan berjangkauan dekat secara umum lebih baik di peta dengan banyak halangan dan semak.",
+        "minXPLevel":3,
+        "maxXPLevel":60,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_25"
+    },
+    {
+        "name":27,
+        "tID":"Penny bisa memberikan kerusakan yang besar dengan serangan percikan saat targetnya berbaris.",
+        "minXPLevel":20,
+        "maxXPLevel":999,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_26"
+    },
+    {
+        "name":28,
+        "tID":"Mengumpulkan rekan tim sebelum Laga memungkinkanmu untuk menyusun strategi dan memilih kombinasi Jagoan yang optimal.",
+        "minXPLevel":3,
+        "maxXPLevel":999,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_27"
+    },
+    {
+        "name":29,
+        "tID":"Coba mainkan laga persahabatan untuk latihan acara, mengadakan kompetisi, dan masih banyak lagi!",
+        "minXPLevel":3,
+        "maxXPLevel":999,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_28"
+    },
+    {
+        "name":30,
+        "tID":"Seusai laga bagus dengan rekan tim baru, tekan Main Lagi untuk bermain dalam satu laga lain bersama mereka!",
+        "minXPLevel":3,
+        "maxXPLevel":60,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_29"
+    },
+    {
+        "name":31,
+        "tID":"Laga persahabatan memungkinkanmu memilih acara dan peta mana saja. Jagoan juga akan ditingkatkan maksimal!",
+        "minXPLevel":3,
+        "maxXPLevel":999,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_30"
+    },
+    {
+        "name":32,
+        "tID":"Ada jeda dalam serangan reguler dan Super milik Frank, sehingga lawan berkesempatan menjauh dari jangkauannya.",
+        "minXPLevel":20,
+        "maxXPLevel":999,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_31"
+    },
+    {
+        "name":33,
+        "tID":"Tiket diperlukan untuk bermain di Acara Tiket. Acara ini tidak menggunakan Bilah Token.",
+        "minXPLevel":3,
+        "maxXPLevel":60,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_32"
+    },
+    {
+        "name":34,
+        "tID":"Kamu bisa mengundang anggota Geng untuk menjadi temanmu dari daftar anggota Geng.",
+        "minXPLevel":3,
+        "maxXPLevel":999,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_33"
+    },
+    {
+        "name":35,
+        "tID":"Kamu bisa mengundang rekan Tim untuk menjadi temanmu.",
+        "minXPLevel":3,
+        "maxXPLevel":999,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_34"
+    },
+    {
+        "name":36,
+        "tID":"Setelah bermain dalam laga yang bagus dengan seseorang, undang dia menjadi temanmu melalui daftar rekomendasi teman.",
+        "minXPLevel":3,
+        "maxXPLevel":999,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_35"
+    },
+    {
+        "name":37,
+        "tID":"Kamu bisa mengundang rekan Tim untuk menjadi temanmu.",
+        "minXPLevel":3,
+        "maxXPLevel":999,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_36"
+    },
+    {
+        "name":38,
+        "tID":"Kamu bisa menggunakan tombol iklankan untuk mengiklankan Tim ke teman dan anggota Geng.",
+        "minXPLevel":999,
+        "maxXPLevel":999,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_37"
+    },
+    {
+        "name":39,
+        "tID":"Lingkaran biru yang berputar di bawah Jagoan berarti Supernya siap!",
+        "minXPLevel":7,
+        "maxXPLevel":999,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_38"
+    },
+    {
+        "name":40,
+        "tID":"Lingkaran kuning yang berputar di bawah jagoan berarti dia sedang membidik Supernya!",
+        "minXPLevel":7,
+        "maxXPLevel":999,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_39"
+    },
+    {
+        "name":41,
+        "tID":"Hubungkan akun ke Supercell ID melalui layar setelan untuk mengamankan serta mempermudah bermain di beberapa perangkat. Kamu juga akan memperoleh kostum gratis dengan melakukan ini!",
+        "minXPLevel":3,
+        "maxXPLevel":999,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_40"
+    },
+    {
+        "name":42,
+        "tID":"Jumlah total trofi adalah kombinasi trofi individu semua Jagoan.",
+        "minXPLevel":7,
+        "maxXPLevel":999,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_41"
+    },
+    {
+        "name":43,
+        "tID":"Saat tidak menyerang atau menerima kerusakan untuk sesaat, Jagoan akan mulai menyembuhkan diri.",
+        "minXPLevel":1,
+        "maxXPLevel":40,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_42"
+    },
+    {
+        "name":44,
+        "tID":"Saat cangkul penggali Carl menghantam halangan, cangkul penggali tersebut akan memantul kembali sehingga memungkinkan Carl melemparkannya kembali dengan jeda yang lebih singkat.",
+        "minXPLevel":20,
+        "maxXPLevel":999,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_43"
+    }
+]

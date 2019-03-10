@@ -1,1 +1,398 @@
-[{"name":1,"tID":"Touchez <ccc0033>le joystick rouge<\/c> pour faire feu rapidement sur l'ennemi le plus proche.","minXPLevel":1,"maxXPLevel":40,"fileName":null,"exportName":null,"rawTID":"HINT_0"},{"name":2,"tID":"Touchez <cff9900>le joystick jaune<\/c> pour faire feu rapidement avec votre super sur l'ennemi le plus proche.","minXPLevel":1,"maxXPLevel":40,"fileName":null,"exportName":null,"rawTID":"HINT_1"},{"name":3,"tID":"Faites glisser le <ccc0033>joystick rouge<\/c> pour viser avant de tirer.","minXPLevel":1,"maxXPLevel":40,"fileName":null,"exportName":null,"rawTID":"HINT_2"},{"name":4,"tID":"Faites glisser le <cff9900>joystick jaune<\/c> pour viser avec votre super.","minXPLevel":1,"maxXPLevel":40,"fileName":null,"exportName":null,"rawTID":"HINT_3"},{"name":5,"tID":"Vous pouvez annuler un tir pour lequel vous visiez en ramenant le joystick vers le centre.","minXPLevel":1,"maxXPLevel":40,"fileName":null,"exportName":null,"rawTID":"HINT_4"},{"name":6,"tID":"La recherche d'adversaires est d\u00e9termin\u00e9e par les troph\u00e9es du brawler avec lequel vous jouez. Gagner des troph\u00e9es est donc plus facile avec un brawler que vous venez de d\u00e9bloquer.","minXPLevel":3,"maxXPLevel":999,"fileName":null,"exportName":null,"rawTID":"HINT_5"},{"name":7,"tID":"D\u00e9bloquer plus de brawlers vous permettra d'augmenter votre nombre total de troph\u00e9es plus facilement et de gagner plus de r\u00e9compenses.","minXPLevel":3,"maxXPLevel":999,"fileName":null,"exportName":null,"rawTID":"HINT_6"},{"name":8,"tID":"Plus Polly tire de loin, plus elle inflige de d\u00e9g\u00e2ts.","minXPLevel":20,"maxXPLevel":999,"fileName":null,"exportName":null,"rawTID":"HINT_7"},{"name":9,"tID":"Le super de Bartaba est tr\u00e8s puissant \u00e0 bout portant car les bouteilles atterrissent dans une zone proche.","minXPLevel":999,"maxXPLevel":999,"fileName":null,"exportName":null,"rawTID":"HINT_8"},{"name":10,"tID":"Les balles de Ricochet rebondissent pour aller encore plus loin.","minXPLevel":20,"maxXPLevel":999,"fileName":null,"exportName":null,"rawTID":"HINT_9"},{"name":11,"tID":"Vous pouvez activer le <ccc0033>joystick rouge<\/c> n'importe o\u00f9 du c\u00f4t\u00e9 droit de l'\u00e9cran pour tirer.","minXPLevel":1,"maxXPLevel":40,"fileName":null,"exportName":null,"rawTID":"HINT_10"},{"name":12,"tID":"Votre attaque principale et votre super ont deux modes de tir\u00a0: toucher pour activer le tir rapide ou viser en faisant glisser le doigt sur l'\u00e9cran.","minXPLevel":1,"maxXPLevel":40,"fileName":null,"exportName":null,"rawTID":"HINT_11"},{"name":13,"tID":"Visez pour mieux toucher une cible mouvante.","minXPLevel":3,"maxXPLevel":60,"fileName":null,"exportName":null,"rawTID":"HINT_12"},{"name":14,"tID":"Le tir rapide est plus adapt\u00e9 quand vous n'avez pas le temps de viser.","minXPLevel":3,"maxXPLevel":60,"fileName":null,"exportName":null,"rawTID":"HINT_13"},{"name":15,"tID":"Le tir rapide est plus adapt\u00e9 pour les ennemis proches de vous.","minXPLevel":3,"maxXPLevel":60,"fileName":null,"exportName":null,"rawTID":"HINT_14"},{"name":16,"tID":"Quand vous vous cachez dans les buissons, les ennemis peuvent vous voir s'ils sont assez pr\u00e8s de vous.","minXPLevel":3,"maxXPLevel":60,"fileName":null,"exportName":null,"rawTID":"HINT_15"},{"name":17,"tID":"Le tir rapide tire directement sur l'ennemi le plus proche sans prendre en compte ses d\u00e9placements.","minXPLevel":3,"maxXPLevel":60,"fileName":null,"exportName":null,"rawTID":"HINT_16"},{"name":18,"tID":"Viser vous permet de tirer dans les buissons pour v\u00e9rifier si des ennemis s'y cachent.","minXPLevel":3,"maxXPLevel":60,"fileName":null,"exportName":null,"rawTID":"HINT_17"},{"name":19,"tID":"Le tir rapide est plus adapt\u00e9 pour les ennemis immobiles.","minXPLevel":3,"maxXPLevel":60,"fileName":null,"exportName":null,"rawTID":"HINT_18"},{"name":20,"tID":"Le tir rapide est plus adapt\u00e9 pour les ennemis qui viennent droit sur vous ou essaient de s'\u00e9chapper.","minXPLevel":3,"maxXPLevel":60,"fileName":null,"exportName":null,"rawTID":"HINT_19"},{"name":21,"tID":"Quand vous vous cachez dans les buissons, les ennemis peuvent vous voir si vous attaquez ou subissez des d\u00e9g\u00e2ts.","minXPLevel":3,"maxXPLevel":60,"fileName":null,"exportName":null,"rawTID":"HINT_20"},{"name":22,"tID":"Vous pouvez vous cacher de vos ennemis dans les buissons.","minXPLevel":1,"maxXPLevel":40,"fileName":null,"exportName":null,"rawTID":"HINT_21"},{"name":23,"tID":"Utiliser le tir rapide fera feu avec votre arme, m\u00eame si vos ennemis ne sont pas \u00e0 port\u00e9e.","minXPLevel":1,"maxXPLevel":40,"fileName":null,"exportName":null,"rawTID":"HINT_22"},{"name":24,"tID":"Certains brawlers sont plus adapt\u00e9s pour certaines cartes et \u00e9v\u00e9nements que d'autres.","minXPLevel":3,"maxXPLevel":60,"fileName":null,"exportName":null,"rawTID":"HINT_23"},{"name":25,"tID":"Les brawlers \u00e0 longue port\u00e9e sont plus adapt\u00e9s pour les cartes avec un terrain plus ouvert.","minXPLevel":3,"maxXPLevel":60,"fileName":null,"exportName":null,"rawTID":"HINT_24"},{"name":26,"tID":"Les brawlers qui combattent de plus pr\u00e8s sont plus adapt\u00e9s pour les cartes avec des obstacles et des buissons.","minXPLevel":3,"maxXPLevel":60,"fileName":null,"exportName":null,"rawTID":"HINT_25"},{"name":27,"tID":"Penny peut infliger beaucoup de d\u00e9g\u00e2ts avec son attaque si ses ennemis sont align\u00e9s.","minXPLevel":20,"maxXPLevel":999,"fileName":null,"exportName":null,"rawTID":"HINT_26"},{"name":28,"tID":"Cr\u00e9er une \u00e9quipe avant un combat vous permet de mettre au point votre strat\u00e9gie et de choisir une bonne combinaison de brawlers.","minXPLevel":3,"maxXPLevel":999,"fileName":null,"exportName":null,"rawTID":"HINT_27"},{"name":29,"tID":"En jouant dans des parties amicales, vous pouvez vous entra\u00eener pour les \u00e9v\u00e9nements, cr\u00e9er des comp\u00e9titions amicales et plus encore\u00a0!","minXPLevel":3,"maxXPLevel":999,"fileName":null,"exportName":null,"rawTID":"HINT_28"},{"name":30,"tID":"Apr\u00e8s un bon combat entre nouveaux \u00e9quipiers, vous pouvez appuyer sur Rejouer pour relancer une partie avec eux\u00a0!","minXPLevel":3,"maxXPLevel":60,"fileName":null,"exportName":null,"rawTID":"HINT_29"},{"name":31,"tID":"Les combats amicaux vous permettent de choisir n'importe quel \u00e9v\u00e9nement ou carte. Les brawlers seront au niveau maximum\u00a0!","minXPLevel":3,"maxXPLevel":999,"fileName":null,"exportName":null,"rawTID":"HINT_30"},{"name":32,"tID":"Frank doit marquer un arr\u00eat avant d'utiliser son attaque ou son super, vous laissant une chance de vous mettre hors de port\u00e9e.","minXPLevel":20,"maxXPLevel":999,"fileName":null,"exportName":null,"rawTID":"HINT_31"},{"name":33,"tID":"Les \u00e9v\u00e9nements \u00e0 tickets ne font pas diminuer la barre de jetons. Pour y acc\u00e9der, il vous faut des tickets.","minXPLevel":3,"maxXPLevel":60,"fileName":null,"exportName":null,"rawTID":"HINT_32"},{"name":34,"tID":"Vous pouvez inviter des membres du club \u00e0 devenir des amis \u00e0 partir de la liste des membres du club.","minXPLevel":3,"maxXPLevel":999,"fileName":null,"exportName":null,"rawTID":"HINT_33"},{"name":35,"tID":"Vous pouvez demander aux joueurs de votre \u00e9quipe de devenir vos amis.","minXPLevel":3,"maxXPLevel":999,"fileName":null,"exportName":null,"rawTID":"HINT_34"},{"name":36,"tID":"Apr\u00e8s quelques combats avec un \u00e9quipier, vous pouvez lui demander de devenir votre ami depuis la liste de suggestions d'amis.","minXPLevel":3,"maxXPLevel":999,"fileName":null,"exportName":null,"rawTID":"HINT_35"},{"name":37,"tID":"Vous pouvez demander aux joueurs de votre \u00e9quipe de devenir vos amis.","minXPLevel":3,"maxXPLevel":999,"fileName":null,"exportName":null,"rawTID":"HINT_36"},{"name":38,"tID":"Vous pouvez utiliser le bouton pour publier votre \u00e9quipe aupr\u00e8s de vos amis et membres du club.","minXPLevel":999,"maxXPLevel":999,"fileName":null,"exportName":null,"rawTID":"HINT_37"},{"name":39,"tID":"Un cercle bleu qui tourne aux pieds d'un brawler montre que leur super est pr\u00eat.","minXPLevel":7,"maxXPLevel":999,"fileName":null,"exportName":null,"rawTID":"HINT_38"},{"name":40,"tID":"Un cercle jaune qui tourne aux pieds d'un brawler montre qu'il est en train de viser avec son super.","minXPLevel":7,"maxXPLevel":999,"fileName":null,"exportName":null,"rawTID":"HINT_39"},{"name":41,"tID":"Connectez-vous \u00e0 Supercell ID dans les Param\u00e8tres pour s\u00e9curiser votre compte et jouer sur plusieurs appareils. Vous recevrez un skin gratuit\u00a0!","minXPLevel":3,"maxXPLevel":999,"fileName":null,"exportName":null,"rawTID":"HINT_40"},{"name":42,"tID":"Les troph\u00e9es de chacun de vos brawlers sont additionn\u00e9s pour donner votre total de troph\u00e9es.","minXPLevel":7,"maxXPLevel":999,"fileName":null,"exportName":null,"rawTID":"HINT_41"},{"name":43,"tID":"Quand votre brawler n'attaque pas ou subit des d\u00e9g\u00e2ts, il ou elle peut r\u00e9g\u00e9n\u00e9rer sa sant\u00e9.","minXPLevel":1,"maxXPLevel":40,"fileName":null,"exportName":null,"rawTID":"HINT_42"},{"name":44,"tID":"Si la pioche de Carl touche un obstacle, elle rebondit et revient pour que Carl puisse la relancer rapidement.","minXPLevel":20,"maxXPLevel":999,"fileName":null,"exportName":null,"rawTID":"HINT_43"}]
+[
+    {
+        "name":1,
+        "tID":"Touchez <ccc0033>le joystick rouge<\/c> pour faire feu rapidement sur l'ennemi le plus proche.",
+        "minXPLevel":1,
+        "maxXPLevel":40,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_0"
+    },
+    {
+        "name":2,
+        "tID":"Touchez <cff9900>le joystick jaune<\/c> pour faire feu rapidement avec votre super sur l'ennemi le plus proche.",
+        "minXPLevel":1,
+        "maxXPLevel":40,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_1"
+    },
+    {
+        "name":3,
+        "tID":"Faites glisser le <ccc0033>joystick rouge<\/c> pour viser avant de tirer.",
+        "minXPLevel":1,
+        "maxXPLevel":40,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_2"
+    },
+    {
+        "name":4,
+        "tID":"Faites glisser le <cff9900>joystick jaune<\/c> pour viser avec votre super.",
+        "minXPLevel":1,
+        "maxXPLevel":40,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_3"
+    },
+    {
+        "name":5,
+        "tID":"Vous pouvez annuler un tir pour lequel vous visiez en ramenant le joystick vers le centre.",
+        "minXPLevel":1,
+        "maxXPLevel":40,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_4"
+    },
+    {
+        "name":6,
+        "tID":"La recherche d'adversaires est d\u00e9termin\u00e9e par les troph\u00e9es du brawler avec lequel vous jouez. Gagner des troph\u00e9es est donc plus facile avec un brawler que vous venez de d\u00e9bloquer.",
+        "minXPLevel":3,
+        "maxXPLevel":999,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_5"
+    },
+    {
+        "name":7,
+        "tID":"D\u00e9bloquer plus de brawlers vous permettra d'augmenter votre nombre total de troph\u00e9es plus facilement et de gagner plus de r\u00e9compenses.",
+        "minXPLevel":3,
+        "maxXPLevel":999,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_6"
+    },
+    {
+        "name":8,
+        "tID":"Plus Polly tire de loin, plus elle inflige de d\u00e9g\u00e2ts.",
+        "minXPLevel":20,
+        "maxXPLevel":999,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_7"
+    },
+    {
+        "name":9,
+        "tID":"Le super de Bartaba est tr\u00e8s puissant \u00e0 bout portant car les bouteilles atterrissent dans une zone proche.",
+        "minXPLevel":999,
+        "maxXPLevel":999,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_8"
+    },
+    {
+        "name":10,
+        "tID":"Les balles de Ricochet rebondissent pour aller encore plus loin.",
+        "minXPLevel":20,
+        "maxXPLevel":999,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_9"
+    },
+    {
+        "name":11,
+        "tID":"Vous pouvez activer le <ccc0033>joystick rouge<\/c> n'importe o\u00f9 du c\u00f4t\u00e9 droit de l'\u00e9cran pour tirer.",
+        "minXPLevel":1,
+        "maxXPLevel":40,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_10"
+    },
+    {
+        "name":12,
+        "tID":"Votre attaque principale et votre super ont deux modes de tir\u00a0: toucher pour activer le tir rapide ou viser en faisant glisser le doigt sur l'\u00e9cran.",
+        "minXPLevel":1,
+        "maxXPLevel":40,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_11"
+    },
+    {
+        "name":13,
+        "tID":"Visez pour mieux toucher une cible mouvante.",
+        "minXPLevel":3,
+        "maxXPLevel":60,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_12"
+    },
+    {
+        "name":14,
+        "tID":"Le tir rapide est plus adapt\u00e9 quand vous n'avez pas le temps de viser.",
+        "minXPLevel":3,
+        "maxXPLevel":60,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_13"
+    },
+    {
+        "name":15,
+        "tID":"Le tir rapide est plus adapt\u00e9 pour les ennemis proches de vous.",
+        "minXPLevel":3,
+        "maxXPLevel":60,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_14"
+    },
+    {
+        "name":16,
+        "tID":"Quand vous vous cachez dans les buissons, les ennemis peuvent vous voir s'ils sont assez pr\u00e8s de vous.",
+        "minXPLevel":3,
+        "maxXPLevel":60,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_15"
+    },
+    {
+        "name":17,
+        "tID":"Le tir rapide tire directement sur l'ennemi le plus proche sans prendre en compte ses d\u00e9placements.",
+        "minXPLevel":3,
+        "maxXPLevel":60,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_16"
+    },
+    {
+        "name":18,
+        "tID":"Viser vous permet de tirer dans les buissons pour v\u00e9rifier si des ennemis s'y cachent.",
+        "minXPLevel":3,
+        "maxXPLevel":60,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_17"
+    },
+    {
+        "name":19,
+        "tID":"Le tir rapide est plus adapt\u00e9 pour les ennemis immobiles.",
+        "minXPLevel":3,
+        "maxXPLevel":60,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_18"
+    },
+    {
+        "name":20,
+        "tID":"Le tir rapide est plus adapt\u00e9 pour les ennemis qui viennent droit sur vous ou essaient de s'\u00e9chapper.",
+        "minXPLevel":3,
+        "maxXPLevel":60,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_19"
+    },
+    {
+        "name":21,
+        "tID":"Quand vous vous cachez dans les buissons, les ennemis peuvent vous voir si vous attaquez ou subissez des d\u00e9g\u00e2ts.",
+        "minXPLevel":3,
+        "maxXPLevel":60,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_20"
+    },
+    {
+        "name":22,
+        "tID":"Vous pouvez vous cacher de vos ennemis dans les buissons.",
+        "minXPLevel":1,
+        "maxXPLevel":40,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_21"
+    },
+    {
+        "name":23,
+        "tID":"Utiliser le tir rapide fera feu avec votre arme, m\u00eame si vos ennemis ne sont pas \u00e0 port\u00e9e.",
+        "minXPLevel":1,
+        "maxXPLevel":40,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_22"
+    },
+    {
+        "name":24,
+        "tID":"Certains brawlers sont plus adapt\u00e9s pour certaines cartes et \u00e9v\u00e9nements que d'autres.",
+        "minXPLevel":3,
+        "maxXPLevel":60,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_23"
+    },
+    {
+        "name":25,
+        "tID":"Les brawlers \u00e0 longue port\u00e9e sont plus adapt\u00e9s pour les cartes avec un terrain plus ouvert.",
+        "minXPLevel":3,
+        "maxXPLevel":60,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_24"
+    },
+    {
+        "name":26,
+        "tID":"Les brawlers qui combattent de plus pr\u00e8s sont plus adapt\u00e9s pour les cartes avec des obstacles et des buissons.",
+        "minXPLevel":3,
+        "maxXPLevel":60,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_25"
+    },
+    {
+        "name":27,
+        "tID":"Penny peut infliger beaucoup de d\u00e9g\u00e2ts avec son attaque si ses ennemis sont align\u00e9s.",
+        "minXPLevel":20,
+        "maxXPLevel":999,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_26"
+    },
+    {
+        "name":28,
+        "tID":"Cr\u00e9er une \u00e9quipe avant un combat vous permet de mettre au point votre strat\u00e9gie et de choisir une bonne combinaison de brawlers.",
+        "minXPLevel":3,
+        "maxXPLevel":999,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_27"
+    },
+    {
+        "name":29,
+        "tID":"En jouant dans des parties amicales, vous pouvez vous entra\u00eener pour les \u00e9v\u00e9nements, cr\u00e9er des comp\u00e9titions amicales et plus encore\u00a0!",
+        "minXPLevel":3,
+        "maxXPLevel":999,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_28"
+    },
+    {
+        "name":30,
+        "tID":"Apr\u00e8s un bon combat entre nouveaux \u00e9quipiers, vous pouvez appuyer sur Rejouer pour relancer une partie avec eux\u00a0!",
+        "minXPLevel":3,
+        "maxXPLevel":60,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_29"
+    },
+    {
+        "name":31,
+        "tID":"Les combats amicaux vous permettent de choisir n'importe quel \u00e9v\u00e9nement ou carte. Les brawlers seront au niveau maximum\u00a0!",
+        "minXPLevel":3,
+        "maxXPLevel":999,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_30"
+    },
+    {
+        "name":32,
+        "tID":"Frank doit marquer un arr\u00eat avant d'utiliser son attaque ou son super, vous laissant une chance de vous mettre hors de port\u00e9e.",
+        "minXPLevel":20,
+        "maxXPLevel":999,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_31"
+    },
+    {
+        "name":33,
+        "tID":"Les \u00e9v\u00e9nements \u00e0 tickets ne font pas diminuer la barre de jetons. Pour y acc\u00e9der, il vous faut des tickets.",
+        "minXPLevel":3,
+        "maxXPLevel":60,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_32"
+    },
+    {
+        "name":34,
+        "tID":"Vous pouvez inviter des membres du club \u00e0 devenir des amis \u00e0 partir de la liste des membres du club.",
+        "minXPLevel":3,
+        "maxXPLevel":999,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_33"
+    },
+    {
+        "name":35,
+        "tID":"Vous pouvez demander aux joueurs de votre \u00e9quipe de devenir vos amis.",
+        "minXPLevel":3,
+        "maxXPLevel":999,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_34"
+    },
+    {
+        "name":36,
+        "tID":"Apr\u00e8s quelques combats avec un \u00e9quipier, vous pouvez lui demander de devenir votre ami depuis la liste de suggestions d'amis.",
+        "minXPLevel":3,
+        "maxXPLevel":999,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_35"
+    },
+    {
+        "name":37,
+        "tID":"Vous pouvez demander aux joueurs de votre \u00e9quipe de devenir vos amis.",
+        "minXPLevel":3,
+        "maxXPLevel":999,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_36"
+    },
+    {
+        "name":38,
+        "tID":"Vous pouvez utiliser le bouton pour publier votre \u00e9quipe aupr\u00e8s de vos amis et membres du club.",
+        "minXPLevel":999,
+        "maxXPLevel":999,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_37"
+    },
+    {
+        "name":39,
+        "tID":"Un cercle bleu qui tourne aux pieds d'un brawler montre que leur super est pr\u00eat.",
+        "minXPLevel":7,
+        "maxXPLevel":999,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_38"
+    },
+    {
+        "name":40,
+        "tID":"Un cercle jaune qui tourne aux pieds d'un brawler montre qu'il est en train de viser avec son super.",
+        "minXPLevel":7,
+        "maxXPLevel":999,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_39"
+    },
+    {
+        "name":41,
+        "tID":"Connectez-vous \u00e0 Supercell ID dans les Param\u00e8tres pour s\u00e9curiser votre compte et jouer sur plusieurs appareils. Vous recevrez un skin gratuit\u00a0!",
+        "minXPLevel":3,
+        "maxXPLevel":999,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_40"
+    },
+    {
+        "name":42,
+        "tID":"Les troph\u00e9es de chacun de vos brawlers sont additionn\u00e9s pour donner votre total de troph\u00e9es.",
+        "minXPLevel":7,
+        "maxXPLevel":999,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_41"
+    },
+    {
+        "name":43,
+        "tID":"Quand votre brawler n'attaque pas ou subit des d\u00e9g\u00e2ts, il ou elle peut r\u00e9g\u00e9n\u00e9rer sa sant\u00e9.",
+        "minXPLevel":1,
+        "maxXPLevel":40,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_42"
+    },
+    {
+        "name":44,
+        "tID":"Si la pioche de Carl touche un obstacle, elle rebondit et revient pour que Carl puisse la relancer rapidement.",
+        "minXPLevel":20,
+        "maxXPLevel":999,
+        "fileName":null,
+        "exportName":null,
+        "rawTID":"HINT_43"
+    }
+]

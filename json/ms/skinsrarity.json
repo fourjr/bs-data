@@ -1,1 +1,22 @@
-[{"name":"Common","price":30,"rarity":1},{"name":"Rare","price":80,"rarity":2},{"name":"Epic","price":150,"rarity":3},{"name":"Legendary","price":300,"rarity":4}]
+[
+    {
+        "name":"Common",
+        "price":30,
+        "rarity":1
+    },
+    {
+        "name":"Rare",
+        "price":80,
+        "rarity":2
+    },
+    {
+        "name":"Epic",
+        "price":150,
+        "rarity":3
+    },
+    {
+        "name":"Legendary",
+        "price":300,
+        "rarity":4
+    }
+]

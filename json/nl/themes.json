@@ -1,1 +1,46 @@
-[{"name":"Default","fileName":"sc\/background_basic.sc","exportName":"bgr","particleFileName":"sc\/ui.sc","particleExportName":null,"particleStyle":null,"particleVariations":null,"themeMusic":"MenuMusic","useInLevelSelection":true},{"name":"Winter","fileName":"sc\/background_basic.sc","exportName":"bgr","particleFileName":"sc\/ui.sc","particleExportName":"particle_snow_","particleStyle":"Snow","particleVariations":2,"themeMusic":"Snow_brawl","useInLevelSelection":true},{"name":"LNY","fileName":"sc\/background_lny.sc","exportName":"bgr_cny","particleFileName":null,"particleExportName":null,"particleStyle":null,"particleVariations":null,"themeMusic":"Cnymenu_music","useInLevelSelection":true},{"name":"CR","fileName":"sc\/background_basic.sc","exportName":"bgr_royale","particleFileName":null,"particleExportName":null,"particleStyle":null,"particleVariations":null,"themeMusic":"Brawl_royale_menu_music","useInLevelSelection":true}]
+[
+    {
+        "name":"Default",
+        "fileName":"sc\/background_basic.sc",
+        "exportName":"bgr",
+        "particleFileName":"sc\/ui.sc",
+        "particleExportName":null,
+        "particleStyle":null,
+        "particleVariations":null,
+        "themeMusic":"MenuMusic",
+        "useInLevelSelection":true
+    },
+    {
+        "name":"Winter",
+        "fileName":"sc\/background_basic.sc",
+        "exportName":"bgr",
+        "particleFileName":"sc\/ui.sc",
+        "particleExportName":"particle_snow_",
+        "particleStyle":"Snow",
+        "particleVariations":2,
+        "themeMusic":"Snow_brawl",
+        "useInLevelSelection":true
+    },
+    {
+        "name":"LNY",
+        "fileName":"sc\/background_lny.sc",
+        "exportName":"bgr_cny",
+        "particleFileName":null,
+        "particleExportName":null,
+        "particleStyle":null,
+        "particleVariations":null,
+        "themeMusic":"Cnymenu_music",
+        "useInLevelSelection":true
+    },
+    {
+        "name":"CR",
+        "fileName":"sc\/background_basic.sc",
+        "exportName":"bgr_royale",
+        "particleFileName":null,
+        "particleExportName":null,
+        "particleStyle":null,
+        "particleVariations":null,
+        "themeMusic":"Brawl_royale_menu_music",
+        "useInLevelSelection":true
+    }
+]

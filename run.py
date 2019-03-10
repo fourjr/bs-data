@@ -147,7 +147,7 @@ if __name__ == '__main__':
                                     i['tID'] = 'TID_' + i['rawTID']
 
                     with open(f"json/{lang}/{fn.replace('.csv', '.json')}", 'w+') as f:
-                        json.dump(change_data, f)
+                        json.dump(change_data, f, indent=4)
 
                     all_data[lang][fn.replace('.csv', '')] = copy.deepcopy(change_data)
                     if arg_lang:
@@ -157,7 +157,7 @@ if __name__ == '__main__':
                     if arg_lang:
                         lang = arg_lang
                     with open(f"json/{lang}/{fn.replace('.csv', '.json')}", 'w+') as f:
-                        json.dump(data, f)
+                        json.dump(data, f, indent=4)
                     if arg_lang:
                         break
 
@@ -172,7 +172,7 @@ if __name__ == '__main__':
         with open(f'json/{i}/tid.json', 'w+') as f:
             print(f'json/{i}/tid.json')
             all_data[i]['tid'] = {j[4:]: TID[i][j] for j in TID[i]}
-            json.dump(TID[i], f)
+            json.dump(TID[i], f, indent=4)
         if arg_lang:
             break
 
@@ -182,6 +182,6 @@ if __name__ == '__main__':
             i = arg_lang
         with open(f'json/{i}/all.json', 'w+') as f:
             print(f'json/{i}/all.json')
-            json.dump(all_data[i], f)
+            json.dump(all_data[i], f, indent=4)
         if arg_lang:
             break
