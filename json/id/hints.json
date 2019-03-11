@@ -388,7 +388,7 @@
     },
     {
         "name":44,
-        "tID":"Saat cangkul penggali Carl menghantam halangan, cangkul penggali tersebut akan memantul kembali sehingga memungkinkan Carl melemparkannya kembali dengan jeda yang lebih singkat.",
+        "tID":"Saat cangkul gali Carl menghantam halangan, cangkul gali tersebut akan memantul kembali sehingga memungkinkan Carl melemparkannya kembali dengan jeda yang lebih singkat.",
         "minXPLevel":20,
         "maxXPLevel":999,
         "fileName":null,

@@ -388,7 +388,7 @@
     },
     {
         "name":44,
-        "tID":"Si la pioche de Carl touche un obstacle, elle rebondit et revient pour que Carl puisse la relancer rapidement.",
+        "tID":"Si la pioche de Carl touche un obstacle, elle rebondit et revient pour que Carl la relance rapidement.",
         "minXPLevel":20,
         "maxXPLevel":999,
         "fileName":null,

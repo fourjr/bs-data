@@ -2,7 +2,7 @@
     {
         "name":"NonMember",
         "level":0,
-        "tID":"TID_",
+        "tID":null,
         "canInvite":false,
         "canSendMail":false,
         "canChangeAllianceSettings":false,
@@ -10,8 +10,7 @@
         "canKick":null,
         "canBePromotedToLeader":null,
         "promoteSkill":0,
-        "id":25,
-        "rawTID":""
+        "id":25
     },
     {
         "name":"Member",

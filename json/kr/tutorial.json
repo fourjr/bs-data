@@ -36,7 +36,8 @@
         "showUlti":null,
         "showShootStick":null,
         "leftSpeechBubble":null,
-        "id":26
+        "id":26,
+        "rawSpeechBubbleTIDs":"TUTORIAL_1"
     },
     {
         "name":2,
@@ -75,7 +76,8 @@
         "showUlti":null,
         "showShootStick":null,
         "leftSpeechBubble":null,
-        "id":27
+        "id":27,
+        "rawSpeechBubbleTIDs":"TUTORIAL_2"
     },
     {
         "name":3,
@@ -114,7 +116,8 @@
         "showUlti":null,
         "showShootStick":null,
         "leftSpeechBubble":null,
-        "id":28
+        "id":28,
+        "rawSpeechBubbleTIDs":"TUTORIAL_GOOD_JOB_1"
     },
     {
         "name":4,
@@ -309,7 +312,8 @@
         "showUlti":null,
         "showShootStick":true,
         "leftSpeechBubble":null,
-        "id":33
+        "id":33,
+        "rawSpeechBubbleTIDs":"TUTORIAL_3"
     },
     {
         "name":9,
@@ -348,7 +352,8 @@
         "showUlti":null,
         "showShootStick":null,
         "leftSpeechBubble":null,
-        "id":34
+        "id":34,
+        "rawSpeechBubbleTIDs":"TUTORIAL_GOOD_JOB_2"
     },
     {
         "name":10,
@@ -543,7 +548,8 @@
         "showUlti":null,
         "showShootStick":null,
         "leftSpeechBubble":null,
-        "id":39
+        "id":39,
+        "rawSpeechBubbleTIDs":"TUTORIAL_5"
     },
     {
         "name":15,
@@ -582,7 +588,8 @@
         "showUlti":null,
         "showShootStick":null,
         "leftSpeechBubble":null,
-        "id":40
+        "id":40,
+        "rawSpeechBubbleTIDs":"TUTORIAL_GOOD_JOB_3"
     },
     {
         "name":16,
@@ -660,7 +667,8 @@
         "showUlti":true,
         "showShootStick":null,
         "leftSpeechBubble":null,
-        "id":42
+        "id":42,
+        "rawSpeechBubbleTIDs":"TUTORIAL_6"
     },
     {
         "name":18,
@@ -699,6 +707,7 @@
         "showUlti":null,
         "showShootStick":null,
         "leftSpeechBubble":null,
-        "id":43
+        "id":43,
+        "rawSpeechBubbleTIDs":"TUTORIAL_9"
     }
 ]

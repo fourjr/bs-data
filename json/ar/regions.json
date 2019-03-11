@@ -1,51 +1,45 @@
 [
     {
         "name":"_EU",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Europe",
         "isCountry":false,
-        "id":14,
-        "rawTID":""
+        "id":14
     },
     {
         "name":"_NA",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"North America",
         "isCountry":false,
-        "id":15,
-        "rawTID":""
+        "id":15
     },
     {
         "name":"_SA",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"South America",
         "isCountry":false,
-        "id":16,
-        "rawTID":""
+        "id":16
     },
     {
         "name":"_AS",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Asia",
         "isCountry":false,
-        "id":17,
-        "rawTID":""
+        "id":17
     },
     {
         "name":"_AU",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Australia",
         "isCountry":false,
-        "id":18,
-        "rawTID":""
+        "id":18
     },
     {
         "name":"_AF",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Africa",
         "isCountry":false,
-        "id":19,
-        "rawTID":""
+        "id":19
     },
     {
         "name":"_INT",
@@ -57,2035 +51,1781 @@
     },
     {
         "name":"AF",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Afghanistan",
         "isCountry":true,
-        "id":21,
-        "rawTID":""
+        "id":21
     },
     {
         "name":"AX",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"\u00c5land Islands",
         "isCountry":true,
-        "id":22,
-        "rawTID":""
+        "id":22
     },
     {
         "name":"AL",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Albania",
         "isCountry":true,
-        "id":23,
-        "rawTID":""
+        "id":23
     },
     {
         "name":"DZ",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Algeria",
         "isCountry":true,
-        "id":24,
-        "rawTID":""
+        "id":24
     },
     {
         "name":"AS",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"American Samoa",
         "isCountry":true,
-        "id":25,
-        "rawTID":""
+        "id":25
     },
     {
         "name":"AD",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Andorra",
         "isCountry":true,
-        "id":26,
-        "rawTID":""
+        "id":26
     },
     {
         "name":"AO",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Angola",
         "isCountry":true,
-        "id":27,
-        "rawTID":""
+        "id":27
     },
     {
         "name":"AI",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Anguilla",
         "isCountry":true,
-        "id":28,
-        "rawTID":""
+        "id":28
     },
     {
         "name":"AQ",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Antarctica",
         "isCountry":true,
-        "id":29,
-        "rawTID":""
+        "id":29
     },
     {
         "name":"AG",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Antigua and Barbuda",
         "isCountry":true,
-        "id":30,
-        "rawTID":""
+        "id":30
     },
     {
         "name":"AR",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Argentina",
         "isCountry":true,
-        "id":31,
-        "rawTID":""
+        "id":31
     },
     {
         "name":"AM",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Armenia",
         "isCountry":true,
-        "id":32,
-        "rawTID":""
+        "id":32
     },
     {
         "name":"AW",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Aruba",
         "isCountry":true,
-        "id":33,
-        "rawTID":""
+        "id":33
     },
     {
         "name":"AC",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Ascension Island",
         "isCountry":true,
-        "id":34,
-        "rawTID":""
+        "id":34
     },
     {
         "name":"AU",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Australia",
         "isCountry":true,
-        "id":35,
-        "rawTID":""
+        "id":35
     },
     {
         "name":"AT",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Austria",
         "isCountry":true,
-        "id":36,
-        "rawTID":""
+        "id":36
     },
     {
         "name":"AZ",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Azerbaijan",
         "isCountry":true,
-        "id":37,
-        "rawTID":""
+        "id":37
     },
     {
         "name":"BS",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Bahamas",
         "isCountry":true,
-        "id":38,
-        "rawTID":""
+        "id":38
     },
     {
         "name":"BH",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Bahrain",
         "isCountry":true,
-        "id":39,
-        "rawTID":""
+        "id":39
     },
     {
         "name":"BD",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Bangladesh",
         "isCountry":true,
-        "id":40,
-        "rawTID":""
+        "id":40
     },
     {
         "name":"BB",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Barbados",
         "isCountry":true,
-        "id":41,
-        "rawTID":""
+        "id":41
     },
     {
         "name":"BY",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Belarus",
         "isCountry":true,
-        "id":42,
-        "rawTID":""
+        "id":42
     },
     {
         "name":"BE",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Belgium",
         "isCountry":true,
-        "id":43,
-        "rawTID":""
+        "id":43
     },
     {
         "name":"BZ",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Belize",
         "isCountry":true,
-        "id":44,
-        "rawTID":""
+        "id":44
     },
     {
         "name":"BJ",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Benin",
         "isCountry":true,
-        "id":45,
-        "rawTID":""
+        "id":45
     },
     {
         "name":"BM",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Bermuda",
         "isCountry":true,
-        "id":46,
-        "rawTID":""
+        "id":46
     },
     {
         "name":"BT",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Bhutan",
         "isCountry":true,
-        "id":47,
-        "rawTID":""
+        "id":47
     },
     {
         "name":"BO",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Bolivia",
         "isCountry":true,
-        "id":48,
-        "rawTID":""
+        "id":48
     },
     {
         "name":"BA",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Bosnia and Herzegovina",
         "isCountry":true,
-        "id":49,
-        "rawTID":""
+        "id":49
     },
     {
         "name":"BW",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Botswana",
         "isCountry":true,
-        "id":50,
-        "rawTID":""
+        "id":50
     },
     {
         "name":"BV",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Bouvet Island",
         "isCountry":true,
-        "id":51,
-        "rawTID":""
+        "id":51
     },
     {
         "name":"BR",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Brazil",
         "isCountry":true,
-        "id":52,
-        "rawTID":""
+        "id":52
     },
     {
         "name":"IO",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"British Indian Ocean Territory",
         "isCountry":true,
-        "id":53,
-        "rawTID":""
+        "id":53
     },
     {
         "name":"VG",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"British Virgin Islands",
         "isCountry":true,
-        "id":54,
-        "rawTID":""
+        "id":54
     },
     {
         "name":"BN",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Brunei",
         "isCountry":true,
-        "id":55,
-        "rawTID":""
+        "id":55
     },
     {
         "name":"BG",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Bulgaria",
         "isCountry":true,
-        "id":56,
-        "rawTID":""
+        "id":56
     },
     {
         "name":"BF",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Burkina Faso",
         "isCountry":true,
-        "id":57,
-        "rawTID":""
+        "id":57
     },
     {
         "name":"BI",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Burundi",
         "isCountry":true,
-        "id":58,
-        "rawTID":""
+        "id":58
     },
     {
         "name":"KH",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Cambodia",
         "isCountry":true,
-        "id":59,
-        "rawTID":""
+        "id":59
     },
     {
         "name":"CM",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Cameroon",
         "isCountry":true,
-        "id":60,
-        "rawTID":""
+        "id":60
     },
     {
         "name":"CA",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Canada",
         "isCountry":true,
-        "id":61,
-        "rawTID":""
+        "id":61
     },
     {
         "name":"IC",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Canary Islands",
         "isCountry":true,
-        "id":62,
-        "rawTID":""
+        "id":62
     },
     {
         "name":"CV",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Cape Verde",
         "isCountry":true,
-        "id":63,
-        "rawTID":""
+        "id":63
     },
     {
         "name":"BQ",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Caribbean Netherlands",
         "isCountry":true,
-        "id":64,
-        "rawTID":""
+        "id":64
     },
     {
         "name":"KY",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Cayman Islands",
         "isCountry":true,
-        "id":65,
-        "rawTID":""
+        "id":65
     },
     {
         "name":"CF",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Central African Republic",
         "isCountry":true,
-        "id":66,
-        "rawTID":""
+        "id":66
     },
     {
         "name":"EA",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Ceuta and Melilla",
         "isCountry":true,
-        "id":67,
-        "rawTID":""
+        "id":67
     },
     {
         "name":"TD",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Chad",
         "isCountry":true,
-        "id":68,
-        "rawTID":""
+        "id":68
     },
     {
         "name":"CL",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Chile",
         "isCountry":true,
-        "id":69,
-        "rawTID":""
+        "id":69
     },
     {
         "name":"CN",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"China",
         "isCountry":true,
-        "id":70,
-        "rawTID":""
+        "id":70
     },
     {
         "name":"CX",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Christmas Island",
         "isCountry":true,
-        "id":71,
-        "rawTID":""
+        "id":71
     },
     {
         "name":"CC",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Cocos (Keeling) Islands",
         "isCountry":true,
-        "id":72,
-        "rawTID":""
+        "id":72
     },
     {
         "name":"CO",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Colombia",
         "isCountry":true,
-        "id":73,
-        "rawTID":""
+        "id":73
     },
     {
         "name":"KM",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Comoros",
         "isCountry":true,
-        "id":74,
-        "rawTID":""
+        "id":74
     },
     {
         "name":"CG",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Congo (DRC)",
         "isCountry":true,
-        "id":75,
-        "rawTID":""
+        "id":75
     },
     {
         "name":"CD",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Congo (Republic)",
         "isCountry":true,
-        "id":76,
-        "rawTID":""
+        "id":76
     },
     {
         "name":"CK",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Cook Islands",
         "isCountry":true,
-        "id":77,
-        "rawTID":""
+        "id":77
     },
     {
         "name":"CR",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Costa Rica",
         "isCountry":true,
-        "id":78,
-        "rawTID":""
+        "id":78
     },
     {
         "name":"CI",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"C\u00f4te d\u2019Ivoire",
         "isCountry":true,
-        "id":79,
-        "rawTID":""
+        "id":79
     },
     {
         "name":"HR",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Croatia",
         "isCountry":true,
-        "id":80,
-        "rawTID":""
+        "id":80
     },
     {
         "name":"CU",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Cuba",
         "isCountry":true,
-        "id":81,
-        "rawTID":""
+        "id":81
     },
     {
         "name":"CW",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Cura\u00e7ao",
         "isCountry":true,
-        "id":82,
-        "rawTID":""
+        "id":82
     },
     {
         "name":"CY",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Cyprus",
         "isCountry":true,
-        "id":83,
-        "rawTID":""
+        "id":83
     },
     {
         "name":"CZ",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Czech Republic",
         "isCountry":true,
-        "id":84,
-        "rawTID":""
+        "id":84
     },
     {
         "name":"DK",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Denmark",
         "isCountry":true,
-        "id":85,
-        "rawTID":""
+        "id":85
     },
     {
         "name":"DG",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Diego Garcia",
         "isCountry":true,
-        "id":86,
-        "rawTID":""
+        "id":86
     },
     {
         "name":"DJ",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Djibouti",
         "isCountry":true,
-        "id":87,
-        "rawTID":""
+        "id":87
     },
     {
         "name":"DM",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Dominica",
         "isCountry":true,
-        "id":88,
-        "rawTID":""
+        "id":88
     },
     {
         "name":"DO",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Dominican Republic",
         "isCountry":true,
-        "id":89,
-        "rawTID":""
+        "id":89
     },
     {
         "name":"EC",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Ecuador",
         "isCountry":true,
-        "id":90,
-        "rawTID":""
+        "id":90
     },
     {
         "name":"EG",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Egypt",
         "isCountry":true,
-        "id":91,
-        "rawTID":""
+        "id":91
     },
     {
         "name":"SV",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"El Salvador",
         "isCountry":true,
-        "id":92,
-        "rawTID":""
+        "id":92
     },
     {
         "name":"GQ",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Equatorial Guinea",
         "isCountry":true,
-        "id":93,
-        "rawTID":""
+        "id":93
     },
     {
         "name":"ER",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Eritrea",
         "isCountry":true,
-        "id":94,
-        "rawTID":""
+        "id":94
     },
     {
         "name":"EE",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Estonia",
         "isCountry":true,
-        "id":95,
-        "rawTID":""
+        "id":95
     },
     {
         "name":"ET",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Ethiopia",
         "isCountry":true,
-        "id":96,
-        "rawTID":""
+        "id":96
     },
     {
         "name":"FK",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Falkland Islands",
         "isCountry":true,
-        "id":97,
-        "rawTID":""
+        "id":97
     },
     {
         "name":"FO",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Faroe Islands",
         "isCountry":true,
-        "id":98,
-        "rawTID":""
+        "id":98
     },
     {
         "name":"FJ",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Fiji",
         "isCountry":true,
-        "id":99,
-        "rawTID":""
+        "id":99
     },
     {
         "name":"FI",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Finland",
         "isCountry":true,
-        "id":100,
-        "rawTID":""
+        "id":100
     },
     {
         "name":"FR",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"France",
         "isCountry":true,
-        "id":101,
-        "rawTID":""
+        "id":101
     },
     {
         "name":"GF",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"French Guiana",
         "isCountry":true,
-        "id":102,
-        "rawTID":""
+        "id":102
     },
     {
         "name":"PF",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"French Polynesia",
         "isCountry":true,
-        "id":103,
-        "rawTID":""
+        "id":103
     },
     {
         "name":"TF",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"French Southern Territories",
         "isCountry":true,
-        "id":104,
-        "rawTID":""
+        "id":104
     },
     {
         "name":"GA",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Gabon",
         "isCountry":true,
-        "id":105,
-        "rawTID":""
+        "id":105
     },
     {
         "name":"GM",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Gambia",
         "isCountry":true,
-        "id":106,
-        "rawTID":""
+        "id":106
     },
     {
         "name":"GE",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Georgia",
         "isCountry":true,
-        "id":107,
-        "rawTID":""
+        "id":107
     },
     {
         "name":"DE",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Germany",
         "isCountry":true,
-        "id":108,
-        "rawTID":""
+        "id":108
     },
     {
         "name":"GH",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Ghana",
         "isCountry":true,
-        "id":109,
-        "rawTID":""
+        "id":109
     },
     {
         "name":"GI",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Gibraltar",
         "isCountry":true,
-        "id":110,
-        "rawTID":""
+        "id":110
     },
     {
         "name":"GR",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Greece",
         "isCountry":true,
-        "id":111,
-        "rawTID":""
+        "id":111
     },
     {
         "name":"GL",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Greenland",
         "isCountry":true,
-        "id":112,
-        "rawTID":""
+        "id":112
     },
     {
         "name":"GD",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Grenada",
         "isCountry":true,
-        "id":113,
-        "rawTID":""
+        "id":113
     },
     {
         "name":"GP",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Guadeloupe",
         "isCountry":true,
-        "id":114,
-        "rawTID":""
+        "id":114
     },
     {
         "name":"GU",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Guam",
         "isCountry":true,
-        "id":115,
-        "rawTID":""
+        "id":115
     },
     {
         "name":"GT",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Guatemala",
         "isCountry":true,
-        "id":116,
-        "rawTID":""
+        "id":116
     },
     {
         "name":"GG",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Guernsey",
         "isCountry":true,
-        "id":117,
-        "rawTID":""
+        "id":117
     },
     {
         "name":"GN",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Guinea",
         "isCountry":true,
-        "id":118,
-        "rawTID":""
+        "id":118
     },
     {
         "name":"GW",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Guinea-Bissau",
         "isCountry":true,
-        "id":119,
-        "rawTID":""
+        "id":119
     },
     {
         "name":"GY",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Guyana",
         "isCountry":true,
-        "id":120,
-        "rawTID":""
+        "id":120
     },
     {
         "name":"HT",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Haiti",
         "isCountry":true,
-        "id":121,
-        "rawTID":""
+        "id":121
     },
     {
         "name":"HM",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Heard & McDonald Islands",
         "isCountry":true,
-        "id":122,
-        "rawTID":""
+        "id":122
     },
     {
         "name":"HN",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Honduras",
         "isCountry":true,
-        "id":123,
-        "rawTID":""
+        "id":123
     },
     {
         "name":"HK",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Hong Kong",
         "isCountry":true,
-        "id":124,
-        "rawTID":""
+        "id":124
     },
     {
         "name":"HU",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Hungary",
         "isCountry":true,
-        "id":125,
-        "rawTID":""
+        "id":125
     },
     {
         "name":"IS",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Iceland",
         "isCountry":true,
-        "id":126,
-        "rawTID":""
+        "id":126
     },
     {
         "name":"IN",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"India",
         "isCountry":true,
-        "id":127,
-        "rawTID":""
+        "id":127
     },
     {
         "name":"ID",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Indonesia",
         "isCountry":true,
-        "id":128,
-        "rawTID":""
+        "id":128
     },
     {
         "name":"IR",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Iran",
         "isCountry":true,
-        "id":129,
-        "rawTID":""
+        "id":129
     },
     {
         "name":"IQ",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Iraq",
         "isCountry":true,
-        "id":130,
-        "rawTID":""
+        "id":130
     },
     {
         "name":"IE",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Ireland",
         "isCountry":true,
-        "id":131,
-        "rawTID":""
+        "id":131
     },
     {
         "name":"IM",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Isle of Man",
         "isCountry":true,
-        "id":132,
-        "rawTID":""
+        "id":132
     },
     {
         "name":"IL",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Israel",
         "isCountry":true,
-        "id":133,
-        "rawTID":""
+        "id":133
     },
     {
         "name":"IT",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Italy",
         "isCountry":true,
-        "id":134,
-        "rawTID":""
+        "id":134
     },
     {
         "name":"JM",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Jamaica",
         "isCountry":true,
-        "id":135,
-        "rawTID":""
+        "id":135
     },
     {
         "name":"JP",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Japan",
         "isCountry":true,
-        "id":136,
-        "rawTID":""
+        "id":136
     },
     {
         "name":"JE",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Jersey",
         "isCountry":true,
-        "id":137,
-        "rawTID":""
+        "id":137
     },
     {
         "name":"JO",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Jordan",
         "isCountry":true,
-        "id":138,
-        "rawTID":""
+        "id":138
     },
     {
         "name":"KZ",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Kazakhstan",
         "isCountry":true,
-        "id":139,
-        "rawTID":""
+        "id":139
     },
     {
         "name":"KE",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Kenya",
         "isCountry":true,
-        "id":140,
-        "rawTID":""
+        "id":140
     },
     {
         "name":"KI",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Kiribati",
         "isCountry":true,
-        "id":141,
-        "rawTID":""
+        "id":141
     },
     {
         "name":"XK",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Kosovo",
         "isCountry":true,
-        "id":142,
-        "rawTID":""
+        "id":142
     },
     {
         "name":"KW",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Kuwait",
         "isCountry":true,
-        "id":143,
-        "rawTID":""
+        "id":143
     },
     {
         "name":"KG",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Kyrgyzstan",
         "isCountry":true,
-        "id":144,
-        "rawTID":""
+        "id":144
     },
     {
         "name":"LA",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Laos",
         "isCountry":true,
-        "id":145,
-        "rawTID":""
+        "id":145
     },
     {
         "name":"LV",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Latvia",
         "isCountry":true,
-        "id":146,
-        "rawTID":""
+        "id":146
     },
     {
         "name":"LB",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Lebanon",
         "isCountry":true,
-        "id":147,
-        "rawTID":""
+        "id":147
     },
     {
         "name":"LS",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Lesotho",
         "isCountry":true,
-        "id":148,
-        "rawTID":""
+        "id":148
     },
     {
         "name":"LR",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Liberia",
         "isCountry":true,
-        "id":149,
-        "rawTID":""
+        "id":149
     },
     {
         "name":"LY",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Libya",
         "isCountry":true,
-        "id":150,
-        "rawTID":""
+        "id":150
     },
     {
         "name":"LI",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Liechtenstein",
         "isCountry":true,
-        "id":151,
-        "rawTID":""
+        "id":151
     },
     {
         "name":"LT",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Lithuania",
         "isCountry":true,
-        "id":152,
-        "rawTID":""
+        "id":152
     },
     {
         "name":"LU",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Luxembourg",
         "isCountry":true,
-        "id":153,
-        "rawTID":""
+        "id":153
     },
     {
         "name":"MO",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Macau",
         "isCountry":true,
-        "id":154,
-        "rawTID":""
+        "id":154
     },
     {
         "name":"MK",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Macedonia (FYROM)",
         "isCountry":true,
-        "id":155,
-        "rawTID":""
+        "id":155
     },
     {
         "name":"MG",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Madagascar",
         "isCountry":true,
-        "id":156,
-        "rawTID":""
+        "id":156
     },
     {
         "name":"MW",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Malawi",
         "isCountry":true,
-        "id":157,
-        "rawTID":""
+        "id":157
     },
     {
         "name":"MY",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Malaysia",
         "isCountry":true,
-        "id":158,
-        "rawTID":""
+        "id":158
     },
     {
         "name":"MV",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Maldives",
         "isCountry":true,
-        "id":159,
-        "rawTID":""
+        "id":159
     },
     {
         "name":"ML",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Mali",
         "isCountry":true,
-        "id":160,
-        "rawTID":""
+        "id":160
     },
     {
         "name":"MT",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Malta",
         "isCountry":true,
-        "id":161,
-        "rawTID":""
+        "id":161
     },
     {
         "name":"MH",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Marshall Islands",
         "isCountry":true,
-        "id":162,
-        "rawTID":""
+        "id":162
     },
     {
         "name":"MQ",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Martinique",
         "isCountry":true,
-        "id":163,
-        "rawTID":""
+        "id":163
     },
     {
         "name":"MR",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Mauritania",
         "isCountry":true,
-        "id":164,
-        "rawTID":""
+        "id":164
     },
     {
         "name":"MU",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Mauritius",
         "isCountry":true,
-        "id":165,
-        "rawTID":""
+        "id":165
     },
     {
         "name":"YT",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Mayotte",
         "isCountry":true,
-        "id":166,
-        "rawTID":""
+        "id":166
     },
     {
         "name":"MX",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Mexico",
         "isCountry":true,
-        "id":167,
-        "rawTID":""
+        "id":167
     },
     {
         "name":"FM",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Micronesia",
         "isCountry":true,
-        "id":168,
-        "rawTID":""
+        "id":168
     },
     {
         "name":"MD",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Moldova",
         "isCountry":true,
-        "id":169,
-        "rawTID":""
+        "id":169
     },
     {
         "name":"MC",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Monaco",
         "isCountry":true,
-        "id":170,
-        "rawTID":""
+        "id":170
     },
     {
         "name":"MN",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Mongolia",
         "isCountry":true,
-        "id":171,
-        "rawTID":""
+        "id":171
     },
     {
         "name":"ME",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Montenegro",
         "isCountry":true,
-        "id":172,
-        "rawTID":""
+        "id":172
     },
     {
         "name":"MS",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Montserrat",
         "isCountry":true,
-        "id":173,
-        "rawTID":""
+        "id":173
     },
     {
         "name":"MA",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Morocco",
         "isCountry":true,
-        "id":174,
-        "rawTID":""
+        "id":174
     },
     {
         "name":"MZ",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Mozambique",
         "isCountry":true,
-        "id":175,
-        "rawTID":""
+        "id":175
     },
     {
         "name":"MM",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Myanmar (Burma)",
         "isCountry":true,
-        "id":176,
-        "rawTID":""
+        "id":176
     },
     {
         "name":"NA",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Namibia",
         "isCountry":true,
-        "id":177,
-        "rawTID":""
+        "id":177
     },
     {
         "name":"NR",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Nauru",
         "isCountry":true,
-        "id":178,
-        "rawTID":""
+        "id":178
     },
     {
         "name":"NP",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Nepal",
         "isCountry":true,
-        "id":179,
-        "rawTID":""
+        "id":179
     },
     {
         "name":"NL",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Netherlands",
         "isCountry":true,
-        "id":180,
-        "rawTID":""
+        "id":180
     },
     {
         "name":"NC",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"New Caledonia",
         "isCountry":true,
-        "id":181,
-        "rawTID":""
+        "id":181
     },
     {
         "name":"NZ",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"New Zealand",
         "isCountry":true,
-        "id":182,
-        "rawTID":""
+        "id":182
     },
     {
         "name":"NI",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Nicaragua",
         "isCountry":true,
-        "id":183,
-        "rawTID":""
+        "id":183
     },
     {
         "name":"NE",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Niger",
         "isCountry":true,
-        "id":184,
-        "rawTID":""
+        "id":184
     },
     {
         "name":"NG",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Nigeria",
         "isCountry":true,
-        "id":185,
-        "rawTID":""
+        "id":185
     },
     {
         "name":"NU",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Niue",
         "isCountry":true,
-        "id":186,
-        "rawTID":""
+        "id":186
     },
     {
         "name":"NF",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Norfolk Island",
         "isCountry":true,
-        "id":187,
-        "rawTID":""
+        "id":187
     },
     {
         "name":"KP",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"North Korea",
         "isCountry":true,
-        "id":188,
-        "rawTID":""
+        "id":188
     },
     {
         "name":"MP",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Northern Mariana Islands",
         "isCountry":true,
-        "id":189,
-        "rawTID":""
+        "id":189
     },
     {
         "name":"NO",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Norway",
         "isCountry":true,
-        "id":190,
-        "rawTID":""
+        "id":190
     },
     {
         "name":"OM",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Oman",
         "isCountry":true,
-        "id":191,
-        "rawTID":""
+        "id":191
     },
     {
         "name":"PK",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Pakistan",
         "isCountry":true,
-        "id":192,
-        "rawTID":""
+        "id":192
     },
     {
         "name":"PW",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Palau",
         "isCountry":true,
-        "id":193,
-        "rawTID":""
+        "id":193
     },
     {
         "name":"PS",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Palestine",
         "isCountry":true,
-        "id":194,
-        "rawTID":""
+        "id":194
     },
     {
         "name":"PA",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Panama",
         "isCountry":true,
-        "id":195,
-        "rawTID":""
+        "id":195
     },
     {
         "name":"PG",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Papua New Guinea",
         "isCountry":true,
-        "id":196,
-        "rawTID":""
+        "id":196
     },
     {
         "name":"PY",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Paraguay",
         "isCountry":true,
-        "id":197,
-        "rawTID":""
+        "id":197
     },
     {
         "name":"PE",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Peru",
         "isCountry":true,
-        "id":198,
-        "rawTID":""
+        "id":198
     },
     {
         "name":"PH",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Philippines",
         "isCountry":true,
-        "id":199,
-        "rawTID":""
+        "id":199
     },
     {
         "name":"PN",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Pitcairn Islands",
         "isCountry":true,
-        "id":200,
-        "rawTID":""
+        "id":200
     },
     {
         "name":"PL",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Poland",
         "isCountry":true,
-        "id":201,
-        "rawTID":""
+        "id":201
     },
     {
         "name":"PT",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Portugal",
         "isCountry":true,
-        "id":202,
-        "rawTID":""
+        "id":202
     },
     {
         "name":"PR",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Puerto Rico",
         "isCountry":true,
-        "id":203,
-        "rawTID":""
+        "id":203
     },
     {
         "name":"QA",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Qatar",
         "isCountry":true,
-        "id":204,
-        "rawTID":""
+        "id":204
     },
     {
         "name":"RE",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"R\u00e9union",
         "isCountry":true,
-        "id":205,
-        "rawTID":""
+        "id":205
     },
     {
         "name":"RO",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Romania",
         "isCountry":true,
-        "id":206,
-        "rawTID":""
+        "id":206
     },
     {
         "name":"RU",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Russia",
         "isCountry":true,
-        "id":207,
-        "rawTID":""
+        "id":207
     },
     {
         "name":"RW",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Rwanda",
         "isCountry":true,
-        "id":208,
-        "rawTID":""
+        "id":208
     },
     {
         "name":"BL",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Saint Barth\u00e9lemy",
         "isCountry":true,
-        "id":209,
-        "rawTID":""
+        "id":209
     },
     {
         "name":"SH",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Saint Helena",
         "isCountry":true,
-        "id":210,
-        "rawTID":""
+        "id":210
     },
     {
         "name":"KN",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Saint Kitts and Nevis",
         "isCountry":true,
-        "id":211,
-        "rawTID":""
+        "id":211
     },
     {
         "name":"LC",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Saint Lucia",
         "isCountry":true,
-        "id":212,
-        "rawTID":""
+        "id":212
     },
     {
         "name":"MF",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Saint Martin",
         "isCountry":true,
-        "id":213,
-        "rawTID":""
+        "id":213
     },
     {
         "name":"PM",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Saint Pierre and Miquelon",
         "isCountry":true,
-        "id":214,
-        "rawTID":""
+        "id":214
     },
     {
         "name":"WS",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Samoa",
         "isCountry":true,
-        "id":215,
-        "rawTID":""
+        "id":215
     },
     {
         "name":"SM",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"San Marino",
         "isCountry":true,
-        "id":216,
-        "rawTID":""
+        "id":216
     },
     {
         "name":"ST",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"S\u00e3o Tom\u00e9 and Pr\u00edncipe",
         "isCountry":true,
-        "id":217,
-        "rawTID":""
+        "id":217
     },
     {
         "name":"SA",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Saudi Arabia",
         "isCountry":true,
-        "id":218,
-        "rawTID":""
+        "id":218
     },
     {
         "name":"SN",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Senegal",
         "isCountry":true,
-        "id":219,
-        "rawTID":""
+        "id":219
     },
     {
         "name":"RS",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Serbia",
         "isCountry":true,
-        "id":220,
-        "rawTID":""
+        "id":220
     },
     {
         "name":"SC",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Seychelles",
         "isCountry":true,
-        "id":221,
-        "rawTID":""
+        "id":221
     },
     {
         "name":"SL",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Sierra Leone",
         "isCountry":true,
-        "id":222,
-        "rawTID":""
+        "id":222
     },
     {
         "name":"SG",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Singapore",
         "isCountry":true,
-        "id":223,
-        "rawTID":""
+        "id":223
     },
     {
         "name":"SX",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Sint Maarten",
         "isCountry":true,
-        "id":224,
-        "rawTID":""
+        "id":224
     },
     {
         "name":"SK",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Slovakia",
         "isCountry":true,
-        "id":225,
-        "rawTID":""
+        "id":225
     },
     {
         "name":"SI",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Slovenia",
         "isCountry":true,
-        "id":226,
-        "rawTID":""
+        "id":226
     },
     {
         "name":"SB",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Solomon Islands",
         "isCountry":true,
-        "id":227,
-        "rawTID":""
+        "id":227
     },
     {
         "name":"SO",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Somalia",
         "isCountry":true,
-        "id":228,
-        "rawTID":""
+        "id":228
     },
     {
         "name":"ZA",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"South Africa",
         "isCountry":true,
-        "id":229,
-        "rawTID":""
+        "id":229
     },
     {
         "name":"KR",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"South Korea",
         "isCountry":true,
-        "id":230,
-        "rawTID":""
+        "id":230
     },
     {
         "name":"SS",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"South Sudan",
         "isCountry":true,
-        "id":231,
-        "rawTID":""
+        "id":231
     },
     {
         "name":"ES",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Spain",
         "isCountry":true,
-        "id":232,
-        "rawTID":""
+        "id":232
     },
     {
         "name":"LK",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Sri Lanka",
         "isCountry":true,
-        "id":233,
-        "rawTID":""
+        "id":233
     },
     {
         "name":"VC",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"St. Vincent & Grenadines",
         "isCountry":true,
-        "id":234,
-        "rawTID":""
+        "id":234
     },
     {
         "name":"SD",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Sudan",
         "isCountry":true,
-        "id":235,
-        "rawTID":""
+        "id":235
     },
     {
         "name":"SR",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Suriname",
         "isCountry":true,
-        "id":236,
-        "rawTID":""
+        "id":236
     },
     {
         "name":"SJ",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Svalbard and Jan Mayen",
         "isCountry":true,
-        "id":237,
-        "rawTID":""
+        "id":237
     },
     {
         "name":"SZ",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Swaziland",
         "isCountry":true,
-        "id":238,
-        "rawTID":""
+        "id":238
     },
     {
         "name":"SE",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Sweden",
         "isCountry":true,
-        "id":239,
-        "rawTID":""
+        "id":239
     },
     {
         "name":"CH",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Switzerland",
         "isCountry":true,
-        "id":240,
-        "rawTID":""
+        "id":240
     },
     {
         "name":"SY",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Syria",
         "isCountry":true,
-        "id":241,
-        "rawTID":""
+        "id":241
     },
     {
         "name":"TW",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Taiwan",
         "isCountry":true,
-        "id":242,
-        "rawTID":""
+        "id":242
     },
     {
         "name":"TJ",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Tajikistan",
         "isCountry":true,
-        "id":243,
-        "rawTID":""
+        "id":243
     },
     {
         "name":"TZ",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Tanzania",
         "isCountry":true,
-        "id":244,
-        "rawTID":""
+        "id":244
     },
     {
         "name":"TH",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Thailand",
         "isCountry":true,
-        "id":245,
-        "rawTID":""
+        "id":245
     },
     {
         "name":"TL",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Timor-Leste",
         "isCountry":true,
-        "id":246,
-        "rawTID":""
+        "id":246
     },
     {
         "name":"TG",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Togo",
         "isCountry":true,
-        "id":247,
-        "rawTID":""
+        "id":247
     },
     {
         "name":"TK",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Tokelau",
         "isCountry":true,
-        "id":248,
-        "rawTID":""
+        "id":248
     },
     {
         "name":"TO",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Tonga",
         "isCountry":true,
-        "id":249,
-        "rawTID":""
+        "id":249
     },
     {
         "name":"TT",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Trinidad and Tobago",
         "isCountry":true,
-        "id":250,
-        "rawTID":""
+        "id":250
     },
     {
         "name":"TA",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Tristan da Cunha",
         "isCountry":true,
-        "id":251,
-        "rawTID":""
+        "id":251
     },
     {
         "name":"TN",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Tunisia",
         "isCountry":true,
-        "id":252,
-        "rawTID":""
+        "id":252
     },
     {
         "name":"TR",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Turkey",
         "isCountry":true,
-        "id":253,
-        "rawTID":""
+        "id":253
     },
     {
         "name":"TM",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Turkmenistan",
         "isCountry":true,
-        "id":254,
-        "rawTID":""
+        "id":254
     },
     {
         "name":"TC",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Turks and Caicos Islands",
         "isCountry":true,
-        "id":255,
-        "rawTID":""
+        "id":255
     },
     {
         "name":"TV",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Tuvalu",
         "isCountry":true,
-        "id":256,
-        "rawTID":""
+        "id":256
     },
     {
         "name":"UM",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"U.S. Outlying Islands",
         "isCountry":true,
-        "id":257,
-        "rawTID":""
+        "id":257
     },
     {
         "name":"VI",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"U.S. Virgin Islands",
         "isCountry":true,
-        "id":258,
-        "rawTID":""
+        "id":258
     },
     {
         "name":"UG",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Uganda",
         "isCountry":true,
-        "id":259,
-        "rawTID":""
+        "id":259
     },
     {
         "name":"UA",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Ukraine",
         "isCountry":true,
-        "id":260,
-        "rawTID":""
+        "id":260
     },
     {
         "name":"AE",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"United Arab Emirates",
         "isCountry":true,
-        "id":261,
-        "rawTID":""
+        "id":261
     },
     {
         "name":"GB",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"United Kingdom",
         "isCountry":true,
-        "id":262,
-        "rawTID":""
+        "id":262
     },
     {
         "name":"US",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"United States",
         "isCountry":true,
-        "id":263,
-        "rawTID":""
+        "id":263
     },
     {
         "name":"UY",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Uruguay",
         "isCountry":true,
-        "id":264,
-        "rawTID":""
+        "id":264
     },
     {
         "name":"UZ",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Uzbekistan",
         "isCountry":true,
-        "id":265,
-        "rawTID":""
+        "id":265
     },
     {
         "name":"VU",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Vanuatu",
         "isCountry":true,
-        "id":266,
-        "rawTID":""
+        "id":266
     },
     {
         "name":"VA",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Vatican City",
         "isCountry":true,
-        "id":267,
-        "rawTID":""
+        "id":267
     },
     {
         "name":"VE",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Venezuela",
         "isCountry":true,
-        "id":268,
-        "rawTID":""
+        "id":268
     },
     {
         "name":"VN",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Vietnam",
         "isCountry":true,
-        "id":269,
-        "rawTID":""
+        "id":269
     },
     {
         "name":"WF",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Wallis and Futuna",
         "isCountry":true,
-        "id":270,
-        "rawTID":""
+        "id":270
     },
     {
         "name":"EH",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Western Sahara",
         "isCountry":true,
-        "id":271,
-        "rawTID":""
+        "id":271
     },
     {
         "name":"YE",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Yemen",
         "isCountry":true,
-        "id":272,
-        "rawTID":""
+        "id":272
     },
     {
         "name":"ZM",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Zambia",
         "isCountry":true,
-        "id":273,
-        "rawTID":""
+        "id":273
     },
     {
         "name":"ZW",
-        "tID":"TID_",
+        "tID":null,
         "displayName":"Zimbabwe",
         "isCountry":true,
-        "id":274,
-        "rawTID":""
+        "id":274
     },
     {
         "name":"CUSTOM1",

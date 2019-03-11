@@ -7,7 +7,7 @@
         "petSkin":null,
         "costGems":null,
         "priority":null,
-        "tID":"TID_",
+        "tID":null,
         "model":"shelly_geo.scw",
         "blueTexture":"shelly_v2_01.pvr",
         "redTexture":"shelly_v2_01.pvr",
@@ -56,8 +56,7 @@
         "mainAttackUseEffect":null,
         "ultiUseEffect":null,
         "meleeHitEffect":null,
-        "id":29,
-        "rawTID":""
+        "id":29
     },
     {
         "name":"GunSlingerDefault",
@@ -67,7 +66,7 @@
         "petSkin":null,
         "costGems":null,
         "priority":null,
-        "tID":"TID_",
+        "tID":null,
         "model":"colt_geo.scw",
         "blueTexture":"colt_tex.pvr",
         "redTexture":"colt_tex.pvr",
@@ -116,8 +115,7 @@
         "mainAttackUseEffect":null,
         "ultiUseEffect":null,
         "meleeHitEffect":null,
-        "id":30,
-        "rawTID":""
+        "id":30
     },
     {
         "name":"GunSlingerRockstar",
@@ -187,7 +185,7 @@
         "petSkin":null,
         "costGems":null,
         "priority":null,
-        "tID":"TID_",
+        "tID":null,
         "model":"bull_geo.scw",
         "blueTexture":"bull_tex_01.pvr",
         "redTexture":"bull_tex_01.pvr",
@@ -236,8 +234,7 @@
         "mainAttackUseEffect":null,
         "ultiUseEffect":null,
         "meleeHitEffect":null,
-        "id":32,
-        "rawTID":""
+        "id":32
     },
     {
         "name":"RocketGirlDefault",
@@ -247,7 +244,7 @@
         "petSkin":null,
         "costGems":null,
         "priority":null,
-        "tID":"TID_",
+        "tID":null,
         "model":"brock_geo.scw",
         "blueTexture":"brock_blue_tex.pvr",
         "redTexture":"brock_tex.pvr",
@@ -296,8 +293,7 @@
         "mainAttackUseEffect":null,
         "ultiUseEffect":null,
         "meleeHitEffect":null,
-        "id":33,
-        "rawTID":""
+        "id":33
     },
     {
         "name":"RocketGirlBeach",
@@ -367,7 +363,7 @@
         "petSkin":null,
         "costGems":null,
         "priority":null,
-        "tID":"TID_",
+        "tID":null,
         "model":"dynamike_geo.scw",
         "blueTexture":"dynamike_blue_tex.pvr",
         "redTexture":"dynamike_tex.pvr",
@@ -416,8 +412,7 @@
         "mainAttackUseEffect":null,
         "ultiUseEffect":null,
         "meleeHitEffect":null,
-        "id":35,
-        "rawTID":""
+        "id":35
     },
     {
         "name":"LuchadorDefault",
@@ -427,7 +422,7 @@
         "petSkin":null,
         "costGems":null,
         "priority":null,
-        "tID":"TID_",
+        "tID":null,
         "model":"louchador_geo.scw:body+buckle1",
         "blueTexture":"louchador_tex.pvr",
         "redTexture":"louchador_tex.pvr",
@@ -476,8 +471,7 @@
         "mainAttackUseEffect":null,
         "ultiUseEffect":null,
         "meleeHitEffect":null,
-        "id":36,
-        "rawTID":""
+        "id":36
     },
     {
         "name":"TurretDefault",
@@ -487,7 +481,7 @@
         "petSkin":null,
         "costGems":null,
         "priority":null,
-        "tID":"TID_",
+        "tID":null,
         "model":"turret_jessie_geo.scw",
         "blueTexture":"dogturret.pvr",
         "redTexture":"dogturret.pvr",
@@ -536,8 +530,7 @@
         "mainAttackUseEffect":null,
         "ultiUseEffect":null,
         "meleeHitEffect":null,
-        "id":37,
-        "rawTID":""
+        "id":37
     },
     {
         "name":"TrickshotDefault",
@@ -547,7 +540,7 @@
         "petSkin":null,
         "costGems":null,
         "priority":null,
-        "tID":"TID_",
+        "tID":null,
         "model":"rico_geo.scw",
         "blueTexture":"rico_tex.pvr",
         "redTexture":"rico_tex.pvr",
@@ -596,8 +589,7 @@
         "mainAttackUseEffect":null,
         "ultiUseEffect":null,
         "meleeHitEffect":null,
-        "id":38,
-        "rawTID":""
+        "id":38
     },
     {
         "name":"CactusDefault",
@@ -607,7 +599,7 @@
         "petSkin":null,
         "costGems":null,
         "priority":null,
-        "tID":"TID_",
+        "tID":null,
         "model":"spike_geo.scw",
         "blueTexture":"spike_tex.pvr",
         "redTexture":"spike_tex.pvr",
@@ -656,8 +648,7 @@
         "mainAttackUseEffect":null,
         "ultiUseEffect":null,
         "meleeHitEffect":null,
-        "id":39,
-        "rawTID":""
+        "id":39
     },
     {
         "name":"CactusPink",
@@ -727,7 +718,7 @@
         "petSkin":null,
         "costGems":null,
         "priority":null,
-        "tID":"TID_",
+        "tID":null,
         "model":"barkeep_geo.scw",
         "blueTexture":"barley_tex.pvr",
         "redTexture":"barley_tex.pvr",
@@ -776,8 +767,7 @@
         "mainAttackUseEffect":null,
         "ultiUseEffect":null,
         "meleeHitEffect":null,
-        "id":41,
-        "rawTID":""
+        "id":41
     },
     {
         "name":"MechanicDefault",
@@ -787,7 +777,7 @@
         "petSkin":"TurretDefault",
         "costGems":null,
         "priority":null,
-        "tID":"TID_",
+        "tID":null,
         "model":"jessie_geo.scw:jessie_main+jessie_gun+jessie_hat+jessie_backpack",
         "blueTexture":"jessie_tex.pvr",
         "redTexture":"jessie_tex.pvr",
@@ -836,8 +826,7 @@
         "mainAttackUseEffect":null,
         "ultiUseEffect":null,
         "meleeHitEffect":null,
-        "id":42,
-        "rawTID":""
+        "id":42
     },
     {
         "name":"ShamanDefault",
@@ -847,7 +836,7 @@
         "petSkin":"ShamanBearDefault",
         "costGems":null,
         "priority":null,
-        "tID":"TID_",
+        "tID":null,
         "model":"nita_geo.scw",
         "blueTexture":"nita_tex.pvr",
         "redTexture":"nita_tex.pvr",
@@ -896,8 +885,7 @@
         "mainAttackUseEffect":null,
         "ultiUseEffect":null,
         "meleeHitEffect":null,
-        "id":43,
-        "rawTID":""
+        "id":43
     },
     {
         "name":"ShamanPanda",
@@ -967,7 +955,7 @@
         "petSkin":null,
         "costGems":null,
         "priority":null,
-        "tID":"TID_",
+        "tID":null,
         "model":"nita_bear_geo.scw",
         "blueTexture":"nita_bear_tex.pvr",
         "redTexture":"nita_bear_tex.pvr",
@@ -1016,8 +1004,7 @@
         "mainAttackUseEffect":null,
         "ultiUseEffect":null,
         "meleeHitEffect":null,
-        "id":45,
-        "rawTID":""
+        "id":45
     },
     {
         "name":"ShamanBearPanda",
@@ -1027,7 +1014,7 @@
         "petSkin":null,
         "costGems":null,
         "priority":null,
-        "tID":"TID_",
+        "tID":null,
         "model":"nita_bear_geo.scw",
         "blueTexture":"nita_bear_panda_tex.pvr",
         "redTexture":"nita_bear_panda_tex.pvr",
@@ -1076,8 +1063,7 @@
         "mainAttackUseEffect":null,
         "ultiUseEffect":null,
         "meleeHitEffect":null,
-        "id":46,
-        "rawTID":""
+        "id":46
     },
     {
         "name":"UndertakerDefault",
@@ -1087,7 +1073,7 @@
         "petSkin":null,
         "costGems":null,
         "priority":null,
-        "tID":"TID_",
+        "tID":null,
         "model":"mortis_geo.scw:headGeo+hairGeo+cloakGeo+armsGeo+torsoGeo+capeGeo+capeGeo1+legsGeo+shoesGeo+lanternGeo+shovelGeo",
         "blueTexture":"mortis_v2_tex.pvr",
         "redTexture":"mortis_v2_tex.pvr",
@@ -1136,8 +1122,7 @@
         "mainAttackUseEffect":null,
         "ultiUseEffect":null,
         "meleeHitEffect":null,
-        "id":47,
-        "rawTID":""
+        "id":47
     },
     {
         "name":"CrowDefault",
@@ -1147,7 +1132,7 @@
         "petSkin":null,
         "costGems":null,
         "priority":null,
-        "tID":"TID_",
+        "tID":null,
         "model":"crow_geo.scw:crow_accessories1+crow_body1+crow_boots1+crow_hands1+crow_head1",
         "blueTexture":"crow_d_01.pvr",
         "redTexture":"crow_d_01.pvr",
@@ -1196,8 +1181,7 @@
         "mainAttackUseEffect":null,
         "ultiUseEffect":null,
         "meleeHitEffect":null,
-        "id":48,
-        "rawTID":""
+        "id":48
     },
     {
         "name":"CrowWhite",
@@ -1267,7 +1251,7 @@
         "petSkin":null,
         "costGems":null,
         "priority":null,
-        "tID":"TID_",
+        "tID":null,
         "model":"poco_geo.scw",
         "blueTexture":"poco_tex.pvr",
         "redTexture":"poco_tex.pvr",
@@ -1316,8 +1300,7 @@
         "mainAttackUseEffect":null,
         "ultiUseEffect":null,
         "meleeHitEffect":null,
-        "id":50,
-        "rawTID":""
+        "id":50
     },
     {
         "name":"BowDudeDefault",
@@ -1327,7 +1310,7 @@
         "petSkin":null,
         "costGems":null,
         "priority":null,
-        "tID":"TID_",
+        "tID":null,
         "model":"bowdude_geo.scw:head+body+shoes+quiver+bow+arrow+eagle_hat",
         "blueTexture":"bowman_blue_tex.pvr",
         "redTexture":"bowman_tex.pvr",
@@ -1376,8 +1359,7 @@
         "mainAttackUseEffect":null,
         "ultiUseEffect":null,
         "meleeHitEffect":null,
-        "id":51,
-        "rawTID":""
+        "id":51
     },
     {
         "name":"SniperDefault",
@@ -1387,7 +1369,7 @@
         "petSkin":null,
         "costGems":null,
         "priority":null,
-        "tID":"TID_",
+        "tID":null,
         "model":"sniper_geo.scw:gunbrella_01+head_01+bow_01+body_01",
         "blueTexture":"sniper_d_01.pvr",
         "redTexture":"sniper_d_01.pvr",
@@ -1436,8 +1418,7 @@
         "mainAttackUseEffect":null,
         "ultiUseEffect":null,
         "meleeHitEffect":null,
-        "id":52,
-        "rawTID":""
+        "id":52
     },
     {
         "name":"MinigunDudeDefault",
@@ -1447,7 +1428,7 @@
         "petSkin":"HealstationDefault",
         "costGems":null,
         "priority":null,
-        "tID":"TID_",
+        "tID":null,
         "model":"minigunner_geo.scw:body+head+nozzle+hose+backpack",
         "blueTexture":"missJ_tex.pvr",
         "redTexture":"missJ_tex.pvr",
@@ -1496,8 +1477,7 @@
         "mainAttackUseEffect":null,
         "ultiUseEffect":null,
         "meleeHitEffect":null,
-        "id":53,
-        "rawTID":""
+        "id":53
     },
     {
         "name":"BullGuyHair",
@@ -1867,7 +1847,7 @@
         "petSkin":null,
         "costGems":null,
         "priority":null,
-        "tID":"TID_",
+        "tID":null,
         "model":"brawl_ball.scw",
         "blueTexture":null,
         "redTexture":null,
@@ -1916,8 +1896,7 @@
         "mainAttackUseEffect":null,
         "ultiUseEffect":null,
         "meleeHitEffect":null,
-        "id":60,
-        "rawTID":""
+        "id":60
     },
     {
         "name":"BlackholeDefault",
@@ -1927,7 +1906,7 @@
         "petSkin":null,
         "costGems":null,
         "priority":null,
-        "tID":"TID_",
+        "tID":null,
         "model":"ninja_geo.scw:body+cape+head+card001+card002+card003+card004+card005+card006",
         "blueTexture":"ninja_tex.pvr",
         "redTexture":"ninja_red_tex.pvr",
@@ -1976,8 +1955,7 @@
         "mainAttackUseEffect":null,
         "ultiUseEffect":null,
         "meleeHitEffect":null,
-        "id":61,
-        "rawTID":""
+        "id":61
     },
     {
         "name":"HealstationDefault",
@@ -1987,7 +1965,7 @@
         "petSkin":null,
         "costGems":null,
         "priority":null,
-        "tID":"TID_",
+        "tID":null,
         "model":"healstation_geo.scw:body+healy",
         "blueTexture":"healstion_tex.pvr",
         "redTexture":"healstion_red_tex.pvr",
@@ -2036,8 +2014,7 @@
         "mainAttackUseEffect":null,
         "ultiUseEffect":null,
         "meleeHitEffect":null,
-        "id":62,
-        "rawTID":""
+        "id":62
     },
     {
         "name":"BarrelbotDefault",
@@ -2047,7 +2024,7 @@
         "petSkin":null,
         "costGems":null,
         "priority":null,
-        "tID":"TID_",
+        "tID":null,
         "model":"darryl_geo.scw",
         "blueTexture":"barrelbot_tex.pvr",
         "redTexture":"barrelbot_tex_red.pvr",
@@ -2096,8 +2073,7 @@
         "mainAttackUseEffect":null,
         "ultiUseEffect":null,
         "meleeHitEffect":null,
-        "id":63,
-        "rawTID":""
+        "id":63
     },
     {
         "name":"BlackholePetDefault",
@@ -2107,7 +2083,7 @@
         "petSkin":null,
         "costGems":null,
         "priority":null,
-        "tID":"TID_",
+        "tID":null,
         "model":"ninja_geo.scw:body+cape+head+card001+card002+card003+card004+card005+card006",
         "blueTexture":"ninja_ability_tex.pvr",
         "redTexture":"ninja_ability_tex.pvr",
@@ -2156,8 +2132,7 @@
         "mainAttackUseEffect":null,
         "ultiUseEffect":null,
         "meleeHitEffect":null,
-        "id":64,
-        "rawTID":""
+        "id":64
     },
     {
         "name":"ShellyPetDefault",
@@ -2167,7 +2142,7 @@
         "petSkin":null,
         "costGems":null,
         "priority":null,
-        "tID":"TID_",
+        "tID":null,
         "model":"bear_geo.scw",
         "blueTexture":"shamanbear_d_01.pvr",
         "redTexture":"shamanbear_d_01.pvr",
@@ -2216,8 +2191,7 @@
         "mainAttackUseEffect":null,
         "ultiUseEffect":null,
         "meleeHitEffect":null,
-        "id":65,
-        "rawTID":""
+        "id":65
     },
     {
         "name":"RangedBotDefault",
@@ -2227,7 +2201,7 @@
         "petSkin":null,
         "costGems":null,
         "priority":null,
-        "tID":"TID_",
+        "tID":null,
         "model":"rangedbot_geo.scw:head+body+Gun",
         "blueTexture":"rangedbot_tex.pvr",
         "redTexture":"rangedbot_tex.pvr",
@@ -2276,8 +2250,7 @@
         "mainAttackUseEffect":null,
         "ultiUseEffect":null,
         "meleeHitEffect":null,
-        "id":66,
-        "rawTID":""
+        "id":66
     },
     {
         "name":"MeleeFastBotDefault",
@@ -2287,7 +2260,7 @@
         "petSkin":null,
         "costGems":null,
         "priority":null,
-        "tID":"TID_",
+        "tID":null,
         "model":"fastmeleebot_geo.scw:robo_geo",
         "blueTexture":"fastmeleebot_tex.pvr",
         "redTexture":"fastmeleebot_tex.pvr",
@@ -2336,8 +2309,7 @@
         "mainAttackUseEffect":null,
         "ultiUseEffect":null,
         "meleeHitEffect":null,
-        "id":67,
-        "rawTID":""
+        "id":67
     },
     {
         "name":"MeleeBotDefault",
@@ -2347,7 +2319,7 @@
         "petSkin":null,
         "costGems":null,
         "priority":null,
-        "tID":"TID_",
+        "tID":null,
         "model":"meleebot_geo.scw:body+head",
         "blueTexture":"meleebot_tex.pvr",
         "redTexture":"meleebot_tex.pvr",
@@ -2396,8 +2368,7 @@
         "mainAttackUseEffect":null,
         "ultiUseEffect":null,
         "meleeHitEffect":null,
-        "id":68,
-        "rawTID":""
+        "id":68
     },
     {
         "name":"BossBotDefault",
@@ -2407,7 +2378,7 @@
         "petSkin":null,
         "costGems":null,
         "priority":null,
-        "tID":"TID_",
+        "tID":null,
         "model":"bossbot_geo.scw:body+head+hands",
         "blueTexture":"bossbot_tex.pvr",
         "redTexture":"bossbot_tex.pvr",
@@ -2456,8 +2427,7 @@
         "mainAttackUseEffect":null,
         "ultiUseEffect":null,
         "meleeHitEffect":null,
-        "id":69,
-        "rawTID":""
+        "id":69
     },
     {
         "name":"ArtilleryGalDefault",
@@ -2467,7 +2437,7 @@
         "petSkin":"ArtilleryTurretDefault",
         "costGems":null,
         "priority":null,
-        "tID":"TID_",
+        "tID":null,
         "model":"mari_geo.scw",
         "blueTexture":"mari_tex.pvr",
         "redTexture":"mari_tex.pvr",
@@ -2516,8 +2486,7 @@
         "mainAttackUseEffect":null,
         "ultiUseEffect":null,
         "meleeHitEffect":null,
-        "id":70,
-        "rawTID":""
+        "id":70
     },
     {
         "name":"FrankDefault",
@@ -2527,7 +2496,7 @@
         "petSkin":null,
         "costGems":null,
         "priority":null,
-        "tID":"TID_",
+        "tID":null,
         "model":"frank_geo.scw",
         "blueTexture":"frank_tex.pvr",
         "redTexture":"frank_tex.pvr",
@@ -2576,8 +2545,7 @@
         "mainAttackUseEffect":null,
         "ultiUseEffect":null,
         "meleeHitEffect":null,
-        "id":71,
-        "rawTID":""
+        "id":71
     },
     {
         "name":"ArtilleryTurretDefault",
@@ -2587,7 +2555,7 @@
         "petSkin":null,
         "costGems":null,
         "priority":null,
-        "tID":"TID_",
+        "tID":null,
         "model":"turret_geo.scw",
         "blueTexture":"mari_tex.pvr",
         "redTexture":"mari_tex.pvr",
@@ -2636,8 +2604,7 @@
         "mainAttackUseEffect":null,
         "ultiUseEffect":null,
         "meleeHitEffect":null,
-        "id":72,
-        "rawTID":""
+        "id":72
     },
     {
         "name":"MechanicKnight",
@@ -2767,7 +2734,7 @@
         "petSkin":null,
         "costGems":null,
         "priority":null,
-        "tID":"TID_",
+        "tID":null,
         "model":"turret_dragon_geo.scw",
         "blueTexture":"turret_dragon_tex.pvr",
         "redTexture":"turret_dragon_tex.pvr",
@@ -2816,8 +2783,7 @@
         "mainAttackUseEffect":null,
         "ultiUseEffect":null,
         "meleeHitEffect":null,
-        "id":75,
-        "rawTID":""
+        "id":75
     },
     {
         "name":"MechanicSummer",
@@ -2887,7 +2853,7 @@
         "petSkin":null,
         "costGems":null,
         "priority":null,
-        "tID":"TID_",
+        "tID":null,
         "model":"turret_summertime_geo.scw",
         "blueTexture":"turret_summertime_tex.pvr",
         "redTexture":"turret_summertime_tex.pvr",
@@ -2936,8 +2902,7 @@
         "mainAttackUseEffect":null,
         "ultiUseEffect":null,
         "meleeHitEffect":null,
-        "id":77,
-        "rawTID":""
+        "id":77
     },
     {
         "name":"CrowPheonix",
@@ -3067,7 +3032,7 @@
         "petSkin":null,
         "costGems":null,
         "priority":null,
-        "tID":"TID_",
+        "tID":null,
         "model":"meleebot_geo.scw:body+head",
         "blueTexture":"meleebot_tex.pvr",
         "redTexture":"meleebot_tex.pvr",
@@ -3116,8 +3081,7 @@
         "mainAttackUseEffect":null,
         "ultiUseEffect":null,
         "meleeHitEffect":null,
-        "id":80,
-        "rawTID":""
+        "id":80
     },
     {
         "name":"BanditGirlPrereg",
@@ -3187,7 +3151,7 @@
         "petSkin":null,
         "costGems":null,
         "priority":null,
-        "tID":"TID_",
+        "tID":null,
         "model":"crate_powerup.scw",
         "blueTexture":null,
         "redTexture":null,
@@ -3236,8 +3200,7 @@
         "mainAttackUseEffect":null,
         "ultiUseEffect":null,
         "meleeHitEffect":null,
-        "id":82,
-        "rawTID":""
+        "id":82
     },
     {
         "name":"TntBox",
@@ -3247,7 +3210,7 @@
         "petSkin":null,
         "costGems":null,
         "priority":null,
-        "tID":"TID_",
+        "tID":null,
         "model":"crate_tnt.scw",
         "blueTexture":null,
         "redTexture":null,
@@ -3296,8 +3259,7 @@
         "mainAttackUseEffect":null,
         "ultiUseEffect":null,
         "meleeHitEffect":null,
-        "id":83,
-        "rawTID":""
+        "id":83
     },
     {
         "name":"Safe",
@@ -3307,7 +3269,7 @@
         "petSkin":null,
         "costGems":null,
         "priority":null,
-        "tID":"TID_",
+        "tID":null,
         "model":"heist_safe.scw",
         "blueTexture":null,
         "redTexture":null,
@@ -3356,8 +3318,7 @@
         "mainAttackUseEffect":null,
         "ultiUseEffect":null,
         "meleeHitEffect":null,
-        "id":84,
-        "rawTID":""
+        "id":84
     },
     {
         "name":"TntGuySanta",
@@ -3727,7 +3688,7 @@
         "petSkin":null,
         "costGems":null,
         "priority":null,
-        "tID":"TID_",
+        "tID":null,
         "model":"leon_geo.scw",
         "blueTexture":"leon_tex.pvr",
         "redTexture":"leon_tex.pvr",
@@ -3776,8 +3737,7 @@
         "mainAttackUseEffect":null,
         "ultiUseEffect":null,
         "meleeHitEffect":null,
-        "id":91,
-        "rawTID":""
+        "id":91
     },
     {
         "name":"UndertakerHat",
@@ -3907,7 +3867,7 @@
         "petSkin":null,
         "costGems":null,
         "priority":null,
-        "tID":"TID_",
+        "tID":null,
         "model":"bear_reindeer_geo.scw",
         "blueTexture":"nita_bear_reindeer_tex.pvr",
         "redTexture":"nita_bear_reindeer_tex.pvr",
@@ -3956,8 +3916,7 @@
         "mainAttackUseEffect":null,
         "ultiUseEffect":null,
         "meleeHitEffect":null,
-        "id":94,
-        "rawTID":""
+        "id":94
     },
     {
         "name":"ArtilleryTurretElf",
@@ -3967,7 +3926,7 @@
         "petSkin":null,
         "costGems":null,
         "priority":null,
-        "tID":"TID_",
+        "tID":null,
         "model":"penny_elf_turret_geo.scw",
         "blueTexture":"penny_elf_tex.pvr",
         "redTexture":"penny_elf_tex.pvr",
@@ -4016,8 +3975,7 @@
         "mainAttackUseEffect":null,
         "ultiUseEffect":null,
         "meleeHitEffect":null,
-        "id":95,
-        "rawTID":""
+        "id":95
     },
     {
         "name":"HookDefault",
@@ -4027,7 +3985,7 @@
         "petSkin":null,
         "costGems":null,
         "priority":null,
-        "tID":"TID_",
+        "tID":null,
         "model":"gene_geo.scw",
         "blueTexture":"gene_tex.pvr",
         "redTexture":"gene_tex.pvr",
@@ -4076,8 +4034,7 @@
         "mainAttackUseEffect":null,
         "ultiUseEffect":null,
         "meleeHitEffect":null,
-        "id":96,
-        "rawTID":""
+        "id":96
     },
     {
         "name":"TrickshotPopcorn",
@@ -4387,7 +4344,7 @@
         "petSkin":null,
         "costGems":null,
         "priority":null,
-        "tID":"TID_",
+        "tID":null,
         "model":"carl_geo.scw",
         "blueTexture":"carl_tex.pvr",
         "redTexture":"carl_tex.pvr",
@@ -4436,8 +4393,7 @@
         "mainAttackUseEffect":null,
         "ultiUseEffect":null,
         "meleeHitEffect":null,
-        "id":102,
-        "rawTID":""
+        "id":102
     },
     {
         "name":"RoboWarsBox",
@@ -4447,7 +4403,7 @@
         "petSkin":null,
         "costGems":null,
         "priority":null,
-        "tID":"TID_",
+        "tID":null,
         "model":"item_bolt_crate.scw",
         "blueTexture":null,
         "redTexture":null,
@@ -4496,8 +4452,7 @@
         "mainAttackUseEffect":null,
         "ultiUseEffect":null,
         "meleeHitEffect":null,
-        "id":103,
-        "rawTID":""
+        "id":103
     },
     {
         "name":"UndertakerNightwitch",
@@ -4505,7 +4460,7 @@
         "obtainType":3,
         "character":"Undertaker",
         "petSkin":null,
-        "costGems":150,
+        "costGems":59,
         "priority":null,
         "tID":"PH\u00d9 TH\u1ee6Y B\u00d3NG \u0110\u00caM MORTIS",
         "model":"mortis_nightwitch_geo.scw",
@@ -4567,7 +4522,7 @@
         "petSkin":null,
         "costGems":null,
         "priority":null,
-        "tID":"TID_",
+        "tID":null,
         "model":"siege_base.scw",
         "blueTexture":"siege_base.pvr",
         "redTexture":"siege_base_red.pvr",
@@ -4616,7 +4571,6 @@
         "mainAttackUseEffect":null,
         "ultiUseEffect":null,
         "meleeHitEffect":null,
-        "id":105,
-        "rawTID":""
+        "id":105
     }
 ]

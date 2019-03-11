@@ -2777,7 +2777,7 @@
         "projectileStartZ":350,
         "stopMovementAfterMS":null,
         "waitMS":null,
-        "tID":"TID_",
+        "tID":null,
         "forceAttackAnimationToEnd":null,
         "iconSWF":null,
         "iconExportName":null,
@@ -2804,8 +2804,7 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "id":42,
-        "scId":1600026,
-        "rawTID":""
+        "scId":1600026
     },
     {
         "name":"TutorialDummy2",
@@ -2881,7 +2880,7 @@
         "projectileStartZ":350,
         "stopMovementAfterMS":null,
         "waitMS":null,
-        "tID":"TID_",
+        "tID":null,
         "forceAttackAnimationToEnd":null,
         "iconSWF":null,
         "iconExportName":null,
@@ -2908,8 +2907,7 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "id":43,
-        "scId":1600027,
-        "rawTID":""
+        "scId":1600027
     },
     {
         "name":"MechanicTurret",
@@ -2985,7 +2983,7 @@
         "projectileStartZ":220,
         "stopMovementAfterMS":null,
         "waitMS":null,
-        "tID":"TID_",
+        "tID":null,
         "forceAttackAnimationToEnd":null,
         "iconSWF":null,
         "iconExportName":null,
@@ -3012,8 +3010,7 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "id":44,
-        "scId":1600028,
-        "rawTID":""
+        "scId":1600028
     },
     {
         "name":"HealingStation",
@@ -3089,7 +3086,7 @@
         "projectileStartZ":300,
         "stopMovementAfterMS":null,
         "waitMS":null,
-        "tID":"TID_",
+        "tID":null,
         "forceAttackAnimationToEnd":null,
         "iconSWF":null,
         "iconExportName":null,
@@ -3116,8 +3113,7 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "id":45,
-        "scId":1600029,
-        "rawTID":""
+        "scId":1600029
     },
     {
         "name":"Safe",
@@ -3193,7 +3189,7 @@
         "projectileStartZ":300,
         "stopMovementAfterMS":null,
         "waitMS":null,
-        "tID":"TID_",
+        "tID":null,
         "forceAttackAnimationToEnd":null,
         "iconSWF":null,
         "iconExportName":null,
@@ -3220,8 +3216,7 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "id":46,
-        "scId":1600030,
-        "rawTID":""
+        "scId":1600030
     },
     {
         "name":"ExplodingBarrel",
@@ -3297,7 +3292,7 @@
         "projectileStartZ":350,
         "stopMovementAfterMS":null,
         "waitMS":null,
-        "tID":"TID_",
+        "tID":null,
         "forceAttackAnimationToEnd":null,
         "iconSWF":null,
         "iconExportName":null,
@@ -3324,8 +3319,7 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "id":47,
-        "scId":1600031,
-        "rawTID":""
+        "scId":1600031
     },
     {
         "name":"PoisonBarrel",
@@ -3401,7 +3395,7 @@
         "projectileStartZ":350,
         "stopMovementAfterMS":null,
         "waitMS":null,
-        "tID":"TID_",
+        "tID":null,
         "forceAttackAnimationToEnd":null,
         "iconSWF":null,
         "iconExportName":null,
@@ -3428,8 +3422,7 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "id":48,
-        "scId":1600032,
-        "rawTID":""
+        "scId":1600032
     },
     {
         "name":"ShamanPet",
@@ -3505,7 +3498,7 @@
         "projectileStartZ":100,
         "stopMovementAfterMS":null,
         "waitMS":null,
-        "tID":"TID_",
+        "tID":null,
         "forceAttackAnimationToEnd":null,
         "iconSWF":null,
         "iconExportName":null,
@@ -3532,8 +3525,7 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "id":49,
-        "scId":1600033,
-        "rawTID":""
+        "scId":1600033
     },
     {
         "name":"BoneThrowerPet",
@@ -3609,7 +3601,7 @@
         "projectileStartZ":null,
         "stopMovementAfterMS":null,
         "waitMS":null,
-        "tID":"TID_",
+        "tID":null,
         "forceAttackAnimationToEnd":null,
         "iconSWF":null,
         "iconExportName":null,
@@ -3636,8 +3628,7 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "id":50,
-        "scId":1600034,
-        "rawTID":""
+        "scId":1600034
     },
     {
         "name":"LaserBall",
@@ -3713,7 +3704,7 @@
         "projectileStartZ":null,
         "stopMovementAfterMS":null,
         "waitMS":null,
-        "tID":"TID_",
+        "tID":null,
         "forceAttackAnimationToEnd":null,
         "iconSWF":null,
         "iconExportName":null,
@@ -3740,8 +3731,7 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "id":51,
-        "scId":1600035,
-        "rawTID":""
+        "scId":1600035
     },
     {
         "name":"LootBox",
@@ -3817,7 +3807,7 @@
         "projectileStartZ":350,
         "stopMovementAfterMS":null,
         "waitMS":null,
-        "tID":"TID_",
+        "tID":null,
         "forceAttackAnimationToEnd":null,
         "iconSWF":null,
         "iconExportName":null,
@@ -3844,8 +3834,7 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "id":52,
-        "scId":1600036,
-        "rawTID":""
+        "scId":1600036
     },
     {
         "name":"TutorialDummy3",
@@ -3921,7 +3910,7 @@
         "projectileStartZ":350,
         "stopMovementAfterMS":null,
         "waitMS":null,
-        "tID":"TID_",
+        "tID":null,
         "forceAttackAnimationToEnd":null,
         "iconSWF":null,
         "iconExportName":null,
@@ -3948,8 +3937,7 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "id":53,
-        "scId":1600037,
-        "rawTID":""
+        "scId":1600037
     },
     {
         "name":"ArtilleryDudeTurret",
@@ -4025,7 +4013,7 @@
         "projectileStartZ":150,
         "stopMovementAfterMS":null,
         "waitMS":null,
-        "tID":"TID_",
+        "tID":null,
         "forceAttackAnimationToEnd":null,
         "iconSWF":null,
         "iconExportName":null,
@@ -4052,8 +4040,7 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "id":54,
-        "scId":1600038,
-        "rawTID":""
+        "scId":1600038
     },
     {
         "name":"CoopMeleeEnemy1",
@@ -4129,7 +4116,7 @@
         "projectileStartZ":null,
         "stopMovementAfterMS":null,
         "waitMS":null,
-        "tID":"TID_",
+        "tID":null,
         "forceAttackAnimationToEnd":null,
         "iconSWF":null,
         "iconExportName":null,
@@ -4156,8 +4143,7 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "id":55,
-        "scId":1600039,
-        "rawTID":""
+        "scId":1600039
     },
     {
         "name":"CoopMeleeEnemy2",
@@ -4233,7 +4219,7 @@
         "projectileStartZ":null,
         "stopMovementAfterMS":null,
         "waitMS":null,
-        "tID":"TID_",
+        "tID":null,
         "forceAttackAnimationToEnd":null,
         "iconSWF":null,
         "iconExportName":null,
@@ -4260,8 +4246,7 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "id":56,
-        "scId":1600040,
-        "rawTID":""
+        "scId":1600040
     },
     {
         "name":"CoopMeleeEnemy3",
@@ -4337,7 +4322,7 @@
         "projectileStartZ":null,
         "stopMovementAfterMS":null,
         "waitMS":null,
-        "tID":"TID_",
+        "tID":null,
         "forceAttackAnimationToEnd":null,
         "iconSWF":null,
         "iconExportName":null,
@@ -4364,8 +4349,7 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "id":57,
-        "scId":1600041,
-        "rawTID":""
+        "scId":1600041
     },
     {
         "name":"CoopMeleeEnemy4",
@@ -4441,7 +4425,7 @@
         "projectileStartZ":null,
         "stopMovementAfterMS":null,
         "waitMS":null,
-        "tID":"TID_",
+        "tID":null,
         "forceAttackAnimationToEnd":null,
         "iconSWF":null,
         "iconExportName":null,
@@ -4468,8 +4452,7 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "id":58,
-        "scId":1600042,
-        "rawTID":""
+        "scId":1600042
     },
     {
         "name":"CoopFastMeleeEnemy1",
@@ -4545,7 +4528,7 @@
         "projectileStartZ":null,
         "stopMovementAfterMS":null,
         "waitMS":null,
-        "tID":"TID_",
+        "tID":null,
         "forceAttackAnimationToEnd":null,
         "iconSWF":null,
         "iconExportName":null,
@@ -4572,8 +4555,7 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "id":59,
-        "scId":1600043,
-        "rawTID":""
+        "scId":1600043
     },
     {
         "name":"CoopFastMeleeEnemy2",
@@ -4649,7 +4631,7 @@
         "projectileStartZ":null,
         "stopMovementAfterMS":null,
         "waitMS":null,
-        "tID":"TID_",
+        "tID":null,
         "forceAttackAnimationToEnd":null,
         "iconSWF":null,
         "iconExportName":null,
@@ -4676,8 +4658,7 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "id":60,
-        "scId":1600044,
-        "rawTID":""
+        "scId":1600044
     },
     {
         "name":"CoopFastMeleeEnemy3",
@@ -4753,7 +4734,7 @@
         "projectileStartZ":null,
         "stopMovementAfterMS":null,
         "waitMS":null,
-        "tID":"TID_",
+        "tID":null,
         "forceAttackAnimationToEnd":null,
         "iconSWF":null,
         "iconExportName":null,
@@ -4780,8 +4761,7 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "id":61,
-        "scId":1600045,
-        "rawTID":""
+        "scId":1600045
     },
     {
         "name":"CoopFastMeleeEnemy4",
@@ -4857,7 +4837,7 @@
         "projectileStartZ":null,
         "stopMovementAfterMS":null,
         "waitMS":null,
-        "tID":"TID_",
+        "tID":null,
         "forceAttackAnimationToEnd":null,
         "iconSWF":null,
         "iconExportName":null,
@@ -4884,8 +4864,7 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "id":62,
-        "scId":1600046,
-        "rawTID":""
+        "scId":1600046
     },
     {
         "name":"CoopRangedEnemy1",
@@ -4961,7 +4940,7 @@
         "projectileStartZ":350,
         "stopMovementAfterMS":null,
         "waitMS":null,
-        "tID":"TID_",
+        "tID":null,
         "forceAttackAnimationToEnd":null,
         "iconSWF":null,
         "iconExportName":null,
@@ -4988,8 +4967,7 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "id":63,
-        "scId":1600047,
-        "rawTID":""
+        "scId":1600047
     },
     {
         "name":"CoopRangedEnemy2",
@@ -5065,7 +5043,7 @@
         "projectileStartZ":350,
         "stopMovementAfterMS":null,
         "waitMS":null,
-        "tID":"TID_",
+        "tID":null,
         "forceAttackAnimationToEnd":null,
         "iconSWF":null,
         "iconExportName":null,
@@ -5092,8 +5070,7 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "id":64,
-        "scId":1600048,
-        "rawTID":""
+        "scId":1600048
     },
     {
         "name":"CoopRangedEnemy3",
@@ -5169,7 +5146,7 @@
         "projectileStartZ":350,
         "stopMovementAfterMS":null,
         "waitMS":null,
-        "tID":"TID_",
+        "tID":null,
         "forceAttackAnimationToEnd":null,
         "iconSWF":null,
         "iconExportName":null,
@@ -5196,8 +5173,7 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "id":65,
-        "scId":1600049,
-        "rawTID":""
+        "scId":1600049
     },
     {
         "name":"CoopRangedEnemy4",
@@ -5273,7 +5249,7 @@
         "projectileStartZ":350,
         "stopMovementAfterMS":null,
         "waitMS":null,
-        "tID":"TID_",
+        "tID":null,
         "forceAttackAnimationToEnd":null,
         "iconSWF":null,
         "iconExportName":null,
@@ -5300,8 +5276,7 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "id":66,
-        "scId":1600050,
-        "rawTID":""
+        "scId":1600050
     },
     {
         "name":"ShotgunGirlPet",
@@ -5377,7 +5352,7 @@
         "projectileStartZ":350,
         "stopMovementAfterMS":null,
         "waitMS":null,
-        "tID":"TID_",
+        "tID":null,
         "forceAttackAnimationToEnd":null,
         "iconSWF":null,
         "iconExportName":null,
@@ -5404,8 +5379,7 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "id":67,
-        "scId":1600051,
-        "rawTID":""
+        "scId":1600051
     },
     {
         "name":"BlackHolePet",
@@ -5481,7 +5455,7 @@
         "projectileStartZ":350,
         "stopMovementAfterMS":null,
         "waitMS":null,
-        "tID":"TID_",
+        "tID":null,
         "forceAttackAnimationToEnd":null,
         "iconSWF":null,
         "iconExportName":null,
@@ -5508,8 +5482,7 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "id":68,
-        "scId":1600052,
-        "rawTID":""
+        "scId":1600052
     },
     {
         "name":"CoopBoss1",
@@ -5585,7 +5558,7 @@
         "projectileStartZ":500,
         "stopMovementAfterMS":null,
         "waitMS":null,
-        "tID":"TID_",
+        "tID":null,
         "forceAttackAnimationToEnd":null,
         "iconSWF":null,
         "iconExportName":null,
@@ -5612,8 +5585,7 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "id":69,
-        "scId":1600053,
-        "rawTID":""
+        "scId":1600053
     },
     {
         "name":"CoopBoss2",
@@ -5689,7 +5661,7 @@
         "projectileStartZ":500,
         "stopMovementAfterMS":null,
         "waitMS":null,
-        "tID":"TID_",
+        "tID":null,
         "forceAttackAnimationToEnd":null,
         "iconSWF":null,
         "iconExportName":null,
@@ -5716,8 +5688,7 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "id":70,
-        "scId":1600054,
-        "rawTID":""
+        "scId":1600054
     },
     {
         "name":"CoopBoss3",
@@ -5793,7 +5764,7 @@
         "projectileStartZ":500,
         "stopMovementAfterMS":null,
         "waitMS":null,
-        "tID":"TID_",
+        "tID":null,
         "forceAttackAnimationToEnd":null,
         "iconSWF":null,
         "iconExportName":null,
@@ -5820,8 +5791,7 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "id":71,
-        "scId":1600055,
-        "rawTID":""
+        "scId":1600055
     },
     {
         "name":"TutorialExplodingBarrel",
@@ -5897,7 +5867,7 @@
         "projectileStartZ":350,
         "stopMovementAfterMS":null,
         "waitMS":null,
-        "tID":"TID_",
+        "tID":null,
         "forceAttackAnimationToEnd":null,
         "iconSWF":null,
         "iconExportName":null,
@@ -5924,8 +5894,7 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "id":72,
-        "scId":1600056,
-        "rawTID":""
+        "scId":1600056
     },
     {
         "name":"EventModifierBoss",
@@ -6001,7 +5970,7 @@
         "projectileStartZ":null,
         "stopMovementAfterMS":null,
         "waitMS":null,
-        "tID":"TID_",
+        "tID":null,
         "forceAttackAnimationToEnd":null,
         "iconSWF":null,
         "iconExportName":null,
@@ -6028,8 +5997,7 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "id":73,
-        "scId":1600057,
-        "rawTID":""
+        "scId":1600057
     },
     {
         "name":"RaidBoss",
@@ -6105,7 +6073,7 @@
         "projectileStartZ":500,
         "stopMovementAfterMS":null,
         "waitMS":null,
-        "tID":"TID_",
+        "tID":null,
         "forceAttackAnimationToEnd":null,
         "iconSWF":null,
         "iconExportName":null,
@@ -6132,8 +6100,7 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "id":74,
-        "scId":1600058,
-        "rawTID":""
+        "scId":1600058
     },
     {
         "name":"RaidBossMeleeEnemy1",
@@ -6209,7 +6176,7 @@
         "projectileStartZ":null,
         "stopMovementAfterMS":null,
         "waitMS":null,
-        "tID":"TID_",
+        "tID":null,
         "forceAttackAnimationToEnd":null,
         "iconSWF":null,
         "iconExportName":null,
@@ -6236,8 +6203,7 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "id":75,
-        "scId":1600059,
-        "rawTID":""
+        "scId":1600059
     },
     {
         "name":"RaidBossMeleeEnemy2",
@@ -6313,7 +6279,7 @@
         "projectileStartZ":null,
         "stopMovementAfterMS":null,
         "waitMS":null,
-        "tID":"TID_",
+        "tID":null,
         "forceAttackAnimationToEnd":null,
         "iconSWF":null,
         "iconExportName":null,
@@ -6340,8 +6306,7 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "id":76,
-        "scId":1600060,
-        "rawTID":""
+        "scId":1600060
     },
     {
         "name":"RaidBossMeleeEnemy3",
@@ -6417,7 +6382,7 @@
         "projectileStartZ":null,
         "stopMovementAfterMS":null,
         "waitMS":null,
-        "tID":"TID_",
+        "tID":null,
         "forceAttackAnimationToEnd":null,
         "iconSWF":null,
         "iconExportName":null,
@@ -6444,8 +6409,7 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "id":77,
-        "scId":1600061,
-        "rawTID":""
+        "scId":1600061
     },
     {
         "name":"RaidBossMeleeEnemy4",
@@ -6521,7 +6485,7 @@
         "projectileStartZ":null,
         "stopMovementAfterMS":null,
         "waitMS":null,
-        "tID":"TID_",
+        "tID":null,
         "forceAttackAnimationToEnd":null,
         "iconSWF":null,
         "iconExportName":null,
@@ -6548,8 +6512,7 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "id":78,
-        "scId":1600062,
-        "rawTID":""
+        "scId":1600062
     },
     {
         "name":"RaidBossFastMeleeEnemy1",
@@ -6625,7 +6588,7 @@
         "projectileStartZ":null,
         "stopMovementAfterMS":null,
         "waitMS":null,
-        "tID":"TID_",
+        "tID":null,
         "forceAttackAnimationToEnd":null,
         "iconSWF":null,
         "iconExportName":null,
@@ -6652,8 +6615,7 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "id":79,
-        "scId":1600063,
-        "rawTID":""
+        "scId":1600063
     },
     {
         "name":"RaidBossFastMeleeEnemy2",
@@ -6729,7 +6691,7 @@
         "projectileStartZ":null,
         "stopMovementAfterMS":null,
         "waitMS":null,
-        "tID":"TID_",
+        "tID":null,
         "forceAttackAnimationToEnd":null,
         "iconSWF":null,
         "iconExportName":null,
@@ -6756,8 +6718,7 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "id":80,
-        "scId":1600064,
-        "rawTID":""
+        "scId":1600064
     },
     {
         "name":"RaidBossFastMeleeEnemy3",
@@ -6833,7 +6794,7 @@
         "projectileStartZ":null,
         "stopMovementAfterMS":null,
         "waitMS":null,
-        "tID":"TID_",
+        "tID":null,
         "forceAttackAnimationToEnd":null,
         "iconSWF":null,
         "iconExportName":null,
@@ -6860,8 +6821,7 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "id":81,
-        "scId":1600065,
-        "rawTID":""
+        "scId":1600065
     },
     {
         "name":"RaidBossFastMeleeEnemy4",
@@ -6937,7 +6897,7 @@
         "projectileStartZ":null,
         "stopMovementAfterMS":null,
         "waitMS":null,
-        "tID":"TID_",
+        "tID":null,
         "forceAttackAnimationToEnd":null,
         "iconSWF":null,
         "iconExportName":null,
@@ -6964,8 +6924,7 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "id":82,
-        "scId":1600066,
-        "rawTID":""
+        "scId":1600066
     },
     {
         "name":"RaidBossRangedEnemy1",
@@ -7041,7 +7000,7 @@
         "projectileStartZ":350,
         "stopMovementAfterMS":null,
         "waitMS":null,
-        "tID":"TID_",
+        "tID":null,
         "forceAttackAnimationToEnd":null,
         "iconSWF":null,
         "iconExportName":null,
@@ -7068,8 +7027,7 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "id":83,
-        "scId":1600067,
-        "rawTID":""
+        "scId":1600067
     },
     {
         "name":"RaidBossRangedEnemy2",
@@ -7145,7 +7103,7 @@
         "projectileStartZ":350,
         "stopMovementAfterMS":null,
         "waitMS":null,
-        "tID":"TID_",
+        "tID":null,
         "forceAttackAnimationToEnd":null,
         "iconSWF":null,
         "iconExportName":null,
@@ -7172,8 +7130,7 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "id":84,
-        "scId":1600068,
-        "rawTID":""
+        "scId":1600068
     },
     {
         "name":"RaidBossRangedEnemy3",
@@ -7249,7 +7206,7 @@
         "projectileStartZ":350,
         "stopMovementAfterMS":null,
         "waitMS":null,
-        "tID":"TID_",
+        "tID":null,
         "forceAttackAnimationToEnd":null,
         "iconSWF":null,
         "iconExportName":null,
@@ -7276,8 +7233,7 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "id":85,
-        "scId":1600069,
-        "rawTID":""
+        "scId":1600069
     },
     {
         "name":"RaidBossRangedEnemy4",
@@ -7353,7 +7309,7 @@
         "projectileStartZ":350,
         "stopMovementAfterMS":null,
         "waitMS":null,
-        "tID":"TID_",
+        "tID":null,
         "forceAttackAnimationToEnd":null,
         "iconSWF":null,
         "iconExportName":null,
@@ -7380,8 +7336,7 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "id":86,
-        "scId":1600070,
-        "rawTID":""
+        "scId":1600070
     },
     {
         "name":"RoboWarsBase",
@@ -7457,7 +7412,7 @@
         "projectileStartZ":300,
         "stopMovementAfterMS":null,
         "waitMS":null,
-        "tID":"TID_",
+        "tID":null,
         "forceAttackAnimationToEnd":null,
         "iconSWF":null,
         "iconExportName":null,
@@ -7484,8 +7439,7 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "id":87,
-        "scId":1600071,
-        "rawTID":""
+        "scId":1600071
     },
     {
         "name":"RoboWarsBox",
@@ -7561,7 +7515,7 @@
         "projectileStartZ":350,
         "stopMovementAfterMS":null,
         "waitMS":null,
-        "tID":"TID_",
+        "tID":null,
         "forceAttackAnimationToEnd":null,
         "iconSWF":null,
         "iconExportName":null,
@@ -7588,8 +7542,7 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "id":88,
-        "scId":1600072,
-        "rawTID":""
+        "scId":1600072
     },
     {
         "name":"RoboWarsRobo",
@@ -7665,7 +7618,7 @@
         "projectileStartZ":null,
         "stopMovementAfterMS":null,
         "waitMS":null,
-        "tID":"TID_",
+        "tID":null,
         "forceAttackAnimationToEnd":null,
         "iconSWF":null,
         "iconExportName":null,
@@ -7692,7 +7645,6 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "id":89,
-        "scId":1600073,
-        "rawTID":""
+        "scId":1600073
     }
 ]

@@ -582,7 +582,7 @@
     {
         "name":"Tutorial",
         "disabled":null,
-        "tID":"TID_",
+        "tID":null,
         "tileSetPrefix":"mine_",
         "bgPrefix":null,
         "sWF":"sc\/mine_level.sc",
@@ -605,8 +605,7 @@
         "music":"BattleMusic",
         "communityCredit":null,
         "id":35,
-        "scId":1500020,
-        "rawTID":""
+        "scId":1500020
     },
     {
         "name":"BossFight1",
@@ -2177,7 +2176,7 @@
     {
         "name":null,
         "disabled":null,
-        "tID":"TID_",
+        "tID":null,
         "tileSetPrefix":null,
         "bgPrefix":null,
         "sWF":null,
@@ -2199,8 +2198,7 @@
         "shadowA":null,
         "music":null,
         "communityCredit":null,
-        "id":90,
-        "rawTID":""
+        "id":90
     },
     {
         "name":"LNYHeist2",
@@ -2234,7 +2232,7 @@
     {
         "name":null,
         "disabled":null,
-        "tID":"TID_",
+        "tID":null,
         "tileSetPrefix":null,
         "bgPrefix":null,
         "sWF":null,
@@ -2256,8 +2254,7 @@
         "shadowA":null,
         "music":null,
         "communityCredit":null,
-        "id":92,
-        "rawTID":""
+        "id":92
     },
     {
         "name":"LNYHeist3",
@@ -2291,7 +2288,7 @@
     {
         "name":null,
         "disabled":null,
-        "tID":"TID_",
+        "tID":null,
         "tileSetPrefix":null,
         "bgPrefix":null,
         "sWF":null,
@@ -2313,8 +2310,7 @@
         "shadowA":null,
         "music":null,
         "communityCredit":null,
-        "id":94,
-        "rawTID":""
+        "id":94
     },
     {
         "name":"LNYHeist4",
@@ -2348,7 +2344,7 @@
     {
         "name":null,
         "disabled":null,
-        "tID":"TID_",
+        "tID":null,
         "tileSetPrefix":null,
         "bgPrefix":null,
         "sWF":null,
@@ -2370,8 +2366,7 @@
         "shadowA":null,
         "music":null,
         "communityCredit":null,
-        "id":96,
-        "rawTID":""
+        "id":96
     },
     {
         "name":"LNYHeist5",
@@ -2405,7 +2400,7 @@
     {
         "name":null,
         "disabled":null,
-        "tID":"TID_",
+        "tID":null,
         "tileSetPrefix":null,
         "bgPrefix":null,
         "sWF":null,
@@ -2427,8 +2422,7 @@
         "shadowA":null,
         "music":null,
         "communityCredit":null,
-        "id":98,
-        "rawTID":""
+        "id":98
     },
     {
         "name":"Wanted10",
@@ -2607,7 +2601,7 @@
     {
         "name":null,
         "disabled":null,
-        "tID":"TID_",
+        "tID":null,
         "tileSetPrefix":null,
         "bgPrefix":null,
         "sWF":null,
@@ -2629,8 +2623,7 @@
         "shadowA":null,
         "music":null,
         "communityCredit":null,
-        "id":105,
-        "rawTID":""
+        "id":105
     },
     {
         "name":"LNYWanted2",
@@ -2664,7 +2657,7 @@
     {
         "name":null,
         "disabled":null,
-        "tID":"TID_",
+        "tID":null,
         "tileSetPrefix":null,
         "bgPrefix":null,
         "sWF":null,
@@ -2686,8 +2679,7 @@
         "shadowA":null,
         "music":null,
         "communityCredit":null,
-        "id":107,
-        "rawTID":""
+        "id":107
     },
     {
         "name":"LNYWanted3",
@@ -2721,7 +2713,7 @@
     {
         "name":null,
         "disabled":null,
-        "tID":"TID_",
+        "tID":null,
         "tileSetPrefix":null,
         "bgPrefix":null,
         "sWF":null,
@@ -2743,8 +2735,7 @@
         "shadowA":null,
         "music":null,
         "communityCredit":null,
-        "id":109,
-        "rawTID":""
+        "id":109
     },
     {
         "name":"LNYWanted4",
@@ -2778,7 +2769,7 @@
     {
         "name":null,
         "disabled":null,
-        "tID":"TID_",
+        "tID":null,
         "tileSetPrefix":null,
         "bgPrefix":null,
         "sWF":null,
@@ -2800,8 +2791,7 @@
         "shadowA":null,
         "music":null,
         "communityCredit":null,
-        "id":111,
-        "rawTID":""
+        "id":111
     },
     {
         "name":"LNYWanted5",
@@ -2835,7 +2825,7 @@
     {
         "name":null,
         "disabled":null,
-        "tID":"TID_",
+        "tID":null,
         "tileSetPrefix":null,
         "bgPrefix":null,
         "sWF":null,
@@ -2857,8 +2847,7 @@
         "shadowA":null,
         "music":null,
         "communityCredit":null,
-        "id":113,
-        "rawTID":""
+        "id":113
     },
     {
         "name":"LNYGemgrab1",
@@ -2892,7 +2881,7 @@
     {
         "name":null,
         "disabled":null,
-        "tID":"TID_",
+        "tID":null,
         "tileSetPrefix":null,
         "bgPrefix":null,
         "sWF":null,
@@ -2914,8 +2903,7 @@
         "shadowA":null,
         "music":null,
         "communityCredit":null,
-        "id":115,
-        "rawTID":""
+        "id":115
     },
     {
         "name":"LNYGemgrab2",
@@ -2949,7 +2937,7 @@
     {
         "name":null,
         "disabled":null,
-        "tID":"TID_",
+        "tID":null,
         "tileSetPrefix":null,
         "bgPrefix":null,
         "sWF":null,
@@ -2971,8 +2959,7 @@
         "shadowA":null,
         "music":null,
         "communityCredit":null,
-        "id":117,
-        "rawTID":""
+        "id":117
     },
     {
         "name":"LNYGemgrab3",
@@ -3006,7 +2993,7 @@
     {
         "name":null,
         "disabled":null,
-        "tID":"TID_",
+        "tID":null,
         "tileSetPrefix":null,
         "bgPrefix":null,
         "sWF":null,
@@ -3028,8 +3015,7 @@
         "shadowA":null,
         "music":null,
         "communityCredit":null,
-        "id":119,
-        "rawTID":""
+        "id":119
     },
     {
         "name":"Ball8",

@@ -388,7 +388,7 @@
     },
     {
         "name":44,
-        "tID":"When Carl's pickaxe hits an obstacle, it bounces off and returns, letting Carl can throw it again faster.",
+        "tID":"When Carl's pickaxe hits an obstacle, it bounces off and returns, letting Carl throw it again faster.",
         "minXPLevel":20,
         "maxXPLevel":999,
         "fileName":null,

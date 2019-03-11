@@ -11,14 +11,13 @@
         "value":null,
         "value2":null,
         "rarity":"common",
-        "tID":"TID_",
+        "tID":null,
         "powerNumberTID":null,
         "powerNumber2TID":null,
         "powerIcon1ExportName":null,
         "powerIcon2ExportName":null,
         "sortOrder":0,
-        "id":23,
-        "rawTID":""
+        "id":23
     },
     {
         "name":"ShotgunGirl_hp",
@@ -33,13 +32,14 @@
         "value2":null,
         "rarity":"common",
         "tID":"SA\u00daDE",
-        "powerNumberTID":"TID_ARMOR_STAT",
+        "powerNumberTID":"SA\u00daDE",
         "powerNumber2TID":null,
         "powerIcon1ExportName":"genicon_health",
         "powerIcon2ExportName":null,
         "sortOrder":null,
         "id":24,
-        "rawTID":"ARMOR"
+        "rawTID":"ARMOR",
+        "rawPowerNumberTID":"ARMOR_STAT"
     },
     {
         "name":"ShotgunGirl_abi",
@@ -54,13 +54,14 @@
         "value2":null,
         "rarity":"common",
         "tID":"CHUMBO GROSSO",
-        "powerNumberTID":"TID_STAT_DAMAGE_PER_SHELL",
+        "powerNumberTID":"CHUMBO GROSSO",
         "powerNumber2TID":null,
         "powerIcon1ExportName":"genicon_damage",
         "powerIcon2ExportName":null,
         "sortOrder":null,
         "id":25,
-        "rawTID":"LONG_RANGE_SHOTGUN"
+        "rawTID":"LONG_RANGE_SHOTGUN",
+        "rawPowerNumberTID":"STAT_DAMAGE_PER_SHELL"
     },
     {
         "name":"ShotgunGirl_ulti",
@@ -75,13 +76,14 @@
         "value2":null,
         "rarity":"common",
         "tID":"SUPERBALA",
-        "powerNumberTID":"TID_STAT_DAMAGE_PER_SHELL",
+        "powerNumberTID":"SUPERBALA",
         "powerNumber2TID":null,
         "powerIcon1ExportName":"genicon_damage",
         "powerIcon2ExportName":null,
         "sortOrder":null,
         "id":26,
-        "rawTID":"MEGA_BLASH_ULTI"
+        "rawTID":"MEGA_BLASH_ULTI",
+        "rawPowerNumberTID":"STAT_DAMAGE_PER_SHELL"
     },
     {
         "name":"Gunslinger_unlock",
@@ -95,14 +97,13 @@
         "value":null,
         "value2":null,
         "rarity":"common",
-        "tID":"TID_",
+        "tID":null,
         "powerNumberTID":null,
         "powerNumber2TID":null,
         "powerIcon1ExportName":null,
         "powerIcon2ExportName":null,
         "sortOrder":2,
-        "id":27,
-        "rawTID":""
+        "id":27
     },
     {
         "name":"Gunslinger_hp",
@@ -117,13 +118,14 @@
         "value2":null,
         "rarity":"common",
         "tID":"SA\u00daDE",
-        "powerNumberTID":"TID_ARMOR_STAT",
+        "powerNumberTID":"SA\u00daDE",
         "powerNumber2TID":null,
         "powerIcon1ExportName":"genicon_health",
         "powerIcon2ExportName":null,
         "sortOrder":null,
         "id":28,
-        "rawTID":"ARMOR"
+        "rawTID":"ARMOR",
+        "rawPowerNumberTID":"ARMOR_STAT"
     },
     {
         "name":"Gunslinger_abi",
@@ -138,13 +140,14 @@
         "value2":null,
         "rarity":"common",
         "tID":"ESVAZIANDO O TAMBOR",
-        "powerNumberTID":"TID_STAT_DAMAGE_PER_SHOT",
+        "powerNumberTID":"ESVAZIANDO O TAMBOR",
         "powerNumber2TID":null,
         "powerIcon1ExportName":"genicon_damage",
         "powerIcon2ExportName":null,
         "sortOrder":null,
         "id":29,
-        "rawTID":"RAPID_FIRE"
+        "rawTID":"RAPID_FIRE",
+        "rawPowerNumberTID":"STAT_DAMAGE_PER_SHOT"
     },
     {
         "name":"Gunslinger_ulti",
@@ -159,13 +162,14 @@
         "value2":null,
         "rarity":"common",
         "tID":"TREM-BALA",
-        "powerNumberTID":"TID_STAT_DAMAGE_PER_SHOT",
+        "powerNumberTID":"TREM-BALA",
         "powerNumber2TID":null,
         "powerIcon1ExportName":"genicon_damage",
         "powerIcon2ExportName":null,
         "sortOrder":null,
         "id":30,
-        "rawTID":"RAPID_FIRE_ULTI"
+        "rawTID":"RAPID_FIRE_ULTI",
+        "rawPowerNumberTID":"STAT_DAMAGE_PER_SHOT"
     },
     {
         "name":"BullDude_unlock",
@@ -179,14 +183,13 @@
         "value":null,
         "value2":null,
         "rarity":"common",
-        "tID":"TID_",
+        "tID":null,
         "powerNumberTID":null,
         "powerNumber2TID":null,
         "powerIcon1ExportName":null,
         "powerIcon2ExportName":null,
         "sortOrder":3,
-        "id":31,
-        "rawTID":""
+        "id":31
     },
     {
         "name":"BullDude_hp",
@@ -201,13 +204,14 @@
         "value2":null,
         "rarity":"common",
         "tID":"SA\u00daDE",
-        "powerNumberTID":"TID_ARMOR_STAT",
+        "powerNumberTID":"SA\u00daDE",
         "powerNumber2TID":null,
         "powerIcon1ExportName":"genicon_health",
         "powerIcon2ExportName":null,
         "sortOrder":null,
         "id":32,
-        "rawTID":"ARMOR"
+        "rawTID":"ARMOR",
+        "rawPowerNumberTID":"ARMOR_STAT"
     },
     {
         "name":"BullDude_abi",
@@ -222,13 +226,14 @@
         "value2":null,
         "rarity":"common",
         "tID":"ENGATILHADO",
-        "powerNumberTID":"TID_STAT_DAMAGE_PER_SHELL",
+        "powerNumberTID":"ENGATILHADO",
         "powerNumber2TID":null,
         "powerIcon1ExportName":"genicon_damage",
         "powerIcon2ExportName":null,
         "sortOrder":null,
         "id":33,
-        "rawTID":"SHOTGUN_BLAST"
+        "rawTID":"SHOTGUN_BLAST",
+        "rawPowerNumberTID":"STAT_DAMAGE_PER_SHELL"
     },
     {
         "name":"BullDude_ulti",
@@ -243,13 +248,14 @@
         "value2":null,
         "rarity":"common",
         "tID":"BULD\u00d4ZER",
-        "powerNumberTID":"TID_STAT_DAMAGE",
+        "powerNumberTID":"BULD\u00d4ZER",
         "powerNumber2TID":null,
         "powerIcon1ExportName":"genicon_damage",
         "powerIcon2ExportName":null,
         "sortOrder":null,
         "id":34,
-        "rawTID":"CHARGE"
+        "rawTID":"CHARGE",
+        "rawPowerNumberTID":"STAT_DAMAGE"
     },
     {
         "name":"RocketGirl_unlock",
@@ -263,14 +269,13 @@
         "value":null,
         "value2":null,
         "rarity":"common",
-        "tID":"TID_",
+        "tID":null,
         "powerNumberTID":null,
         "powerNumber2TID":null,
         "powerIcon1ExportName":null,
         "powerIcon2ExportName":null,
         "sortOrder":5,
-        "id":35,
-        "rawTID":""
+        "id":35
     },
     {
         "name":"RocketGirl_hp",
@@ -285,13 +290,14 @@
         "value2":null,
         "rarity":"common",
         "tID":"SA\u00daDE",
-        "powerNumberTID":"TID_ARMOR_STAT",
+        "powerNumberTID":"SA\u00daDE",
         "powerNumber2TID":null,
         "powerIcon1ExportName":"genicon_health",
         "powerIcon2ExportName":null,
         "sortOrder":null,
         "id":36,
-        "rawTID":"ARMOR"
+        "rawTID":"ARMOR",
+        "rawPowerNumberTID":"ARMOR_STAT"
     },
     {
         "name":"RocketGirl_abi",
@@ -306,13 +312,14 @@
         "value2":null,
         "rarity":"common",
         "tID":"RUMO AO ESTRELATO",
-        "powerNumberTID":"TID_STAT_DAMAGE",
+        "powerNumberTID":"RUMO AO ESTRELATO",
         "powerNumber2TID":null,
         "powerIcon1ExportName":"genicon_damage",
         "powerIcon2ExportName":null,
         "sortOrder":null,
         "id":37,
-        "rawTID":"FIREWORKS_WEAPON"
+        "rawTID":"FIREWORKS_WEAPON",
+        "rawPowerNumberTID":"STAT_DAMAGE"
     },
     {
         "name":"RocketGirl_ulti",
@@ -327,13 +334,14 @@
         "value2":null,
         "rarity":"common",
         "tID":"CHUVA DE FOGUET\u00d3RIO",
-        "powerNumberTID":"TID_STAT_MISSILE_DAMAGE",
+        "powerNumberTID":"CHUVA DE FOGUET\u00d3RIO",
         "powerNumber2TID":null,
         "powerIcon1ExportName":"genicon_damage",
         "powerIcon2ExportName":null,
         "sortOrder":null,
         "id":38,
-        "rawTID":"FIREWORKS_ULTI"
+        "rawTID":"FIREWORKS_ULTI",
+        "rawPowerNumberTID":"STAT_MISSILE_DAMAGE"
     },
     {
         "name":"TrickshotDude_unlock",
@@ -347,14 +355,13 @@
         "value":null,
         "value2":null,
         "rarity":"super_rare",
-        "tID":"TID_",
+        "tID":null,
         "powerNumberTID":null,
         "powerNumber2TID":null,
         "powerIcon1ExportName":null,
         "powerIcon2ExportName":null,
         "sortOrder":11,
-        "id":39,
-        "rawTID":""
+        "id":39
     },
     {
         "name":"TrickshotDude_hp",
@@ -369,13 +376,14 @@
         "value2":null,
         "rarity":"common",
         "tID":"SA\u00daDE",
-        "powerNumberTID":"TID_ARMOR_STAT",
+        "powerNumberTID":"SA\u00daDE",
         "powerNumber2TID":null,
         "powerIcon1ExportName":"genicon_health",
         "powerIcon2ExportName":null,
         "sortOrder":null,
         "id":40,
-        "rawTID":"ARMOR"
+        "rawTID":"ARMOR",
+        "rawPowerNumberTID":"ARMOR_STAT"
     },
     {
         "name":"TrickshotDude_abi",
@@ -390,13 +398,14 @@
         "value2":null,
         "rarity":"common",
         "tID":"BALAS QUICANTES",
-        "powerNumberTID":"TID_STAT_DAMAGE_PER_SHOT",
+        "powerNumberTID":"BALAS QUICANTES",
         "powerNumber2TID":null,
         "powerIcon1ExportName":"genicon_damage",
         "powerIcon2ExportName":null,
         "sortOrder":null,
         "id":41,
-        "rawTID":"TRICKSHOT_DUDE_WEAPON"
+        "rawTID":"TRICKSHOT_DUDE_WEAPON",
+        "rawPowerNumberTID":"STAT_DAMAGE_PER_SHOT"
     },
     {
         "name":"TrickshotDude_ulti",
@@ -411,13 +420,14 @@
         "value2":null,
         "rarity":"common",
         "tID":"TIRO PERENE",
-        "powerNumberTID":"TID_STAT_DAMAGE_PER_SHOT",
+        "powerNumberTID":"TIRO PERENE",
         "powerNumber2TID":null,
         "powerIcon1ExportName":"genicon_damage",
         "powerIcon2ExportName":null,
         "sortOrder":null,
         "id":42,
-        "rawTID":"TRICKSHOT_DUDE_ULTI"
+        "rawTID":"TRICKSHOT_DUDE_ULTI",
+        "rawPowerNumberTID":"STAT_DAMAGE_PER_SHOT"
     },
     {
         "name":"Cactus_unlock",
@@ -431,14 +441,13 @@
         "value":null,
         "value2":null,
         "rarity":"legendary",
-        "tID":"TID_",
+        "tID":null,
         "powerNumberTID":null,
         "powerNumber2TID":null,
         "powerIcon1ExportName":null,
         "powerIcon2ExportName":null,
         "sortOrder":21,
-        "id":43,
-        "rawTID":""
+        "id":43
     },
     {
         "name":"Cactus_hp",
@@ -453,13 +462,14 @@
         "value2":null,
         "rarity":"common",
         "tID":"SA\u00daDE",
-        "powerNumberTID":"TID_ARMOR_STAT",
+        "powerNumberTID":"SA\u00daDE",
         "powerNumber2TID":null,
         "powerIcon1ExportName":"genicon_health",
         "powerIcon2ExportName":null,
         "sortOrder":null,
         "id":44,
-        "rawTID":"ARMOR"
+        "rawTID":"ARMOR",
+        "rawPowerNumberTID":"ARMOR_STAT"
     },
     {
         "name":"Cactus_abi",
@@ -474,13 +484,14 @@
         "value2":null,
         "rarity":"common",
         "tID":"CACTO EXPLOSIVO",
-        "powerNumberTID":"TID_STAT_DAMAGE_PER_SPIKE",
+        "powerNumberTID":"CACTO EXPLOSIVO",
         "powerNumber2TID":null,
         "powerIcon1ExportName":"genicon_damage",
         "powerIcon2ExportName":null,
         "sortOrder":null,
         "id":45,
-        "rawTID":"CACTUS_WEAPON"
+        "rawTID":"CACTUS_WEAPON",
+        "rawPowerNumberTID":"STAT_DAMAGE_PER_SPIKE"
     },
     {
         "name":"Cactus_ulti",
@@ -495,13 +506,14 @@
         "value2":null,
         "rarity":"common",
         "tID":"EST\u00c1TUA!",
-        "powerNumberTID":"TID_STAT_DAMAGE_PER_SECOND",
+        "powerNumberTID":"EST\u00c1TUA!",
         "powerNumber2TID":null,
         "powerIcon1ExportName":"genicon_damage",
         "powerIcon2ExportName":null,
         "sortOrder":null,
         "id":46,
-        "rawTID":"CACTUS_ULTI"
+        "rawTID":"CACTUS_ULTI",
+        "rawPowerNumberTID":"STAT_DAMAGE_PER_SECOND"
     },
     {
         "name":"Barkeep_unlock",
@@ -515,14 +527,13 @@
         "value":null,
         "value2":null,
         "rarity":"rare",
-        "tID":"TID_",
+        "tID":null,
         "powerNumberTID":null,
         "powerNumber2TID":null,
         "powerIcon1ExportName":null,
         "powerIcon2ExportName":null,
         "sortOrder":9,
-        "id":47,
-        "rawTID":""
+        "id":47
     },
     {
         "name":"Barkeep_hp",
@@ -537,13 +548,14 @@
         "value2":null,
         "rarity":"common",
         "tID":"SA\u00daDE",
-        "powerNumberTID":"TID_ARMOR_STAT",
+        "powerNumberTID":"SA\u00daDE",
         "powerNumber2TID":null,
         "powerIcon1ExportName":"genicon_health",
         "powerIcon2ExportName":null,
         "sortOrder":null,
         "id":48,
-        "rawTID":"ARMOR"
+        "rawTID":"ARMOR",
+        "rawPowerNumberTID":"ARMOR_STAT"
     },
     {
         "name":"Barkeep_abi",
@@ -558,13 +570,14 @@
         "value2":null,
         "rarity":"common",
         "tID":"DOSE \u00daNICA",
-        "powerNumberTID":"TID_STAT_DAMAGE_PER_SECOND",
+        "powerNumberTID":"DOSE \u00daNICA",
         "powerNumber2TID":null,
         "powerIcon1ExportName":"genicon_damage",
         "powerIcon2ExportName":null,
         "sortOrder":null,
         "id":49,
-        "rawTID":"BARKEEP_WEAPON"
+        "rawTID":"BARKEEP_WEAPON",
+        "rawPowerNumberTID":"STAT_DAMAGE_PER_SECOND"
     },
     {
         "name":"Barkeep_ulti",
@@ -579,13 +592,14 @@
         "value2":null,
         "rarity":"common",
         "tID":"SAIDEIRA",
-        "powerNumberTID":"TID_STAT_DAMAGE_PER_SECOND_EACH",
+        "powerNumberTID":"SAIDEIRA",
         "powerNumber2TID":null,
         "powerIcon1ExportName":"genicon_damage",
         "powerIcon2ExportName":null,
         "sortOrder":null,
         "id":50,
-        "rawTID":"BARKEEP_ULTI"
+        "rawTID":"BARKEEP_ULTI",
+        "rawPowerNumberTID":"STAT_DAMAGE_PER_SECOND_EACH"
     },
     {
         "name":"Mechanic_unlock",
@@ -599,14 +613,13 @@
         "value":null,
         "value2":null,
         "rarity":"common",
-        "tID":"TID_",
+        "tID":null,
         "powerNumberTID":null,
         "powerNumber2TID":null,
         "powerIcon1ExportName":null,
         "powerIcon2ExportName":null,
         "sortOrder":4,
-        "id":51,
-        "rawTID":""
+        "id":51
     },
     {
         "name":"Mechanic_hp",
@@ -621,13 +634,14 @@
         "value2":null,
         "rarity":"common",
         "tID":"SA\u00daDE",
-        "powerNumberTID":"TID_ARMOR_STAT",
+        "powerNumberTID":"SA\u00daDE",
         "powerNumber2TID":null,
         "powerIcon1ExportName":"genicon_health",
         "powerIcon2ExportName":null,
         "sortOrder":null,
         "id":52,
-        "rawTID":"ARMOR"
+        "rawTID":"ARMOR",
+        "rawPowerNumberTID":"ARMOR_STAT"
     },
     {
         "name":"Mechanic_abi",
@@ -642,13 +656,14 @@
         "value2":null,
         "rarity":"common",
         "tID":"ARMA DE CHOQUE",
-        "powerNumberTID":"TID_STAT_DAMAGE",
+        "powerNumberTID":"ARMA DE CHOQUE",
         "powerNumber2TID":null,
         "powerIcon1ExportName":"genicon_damage",
         "powerIcon2ExportName":null,
         "sortOrder":null,
         "id":53,
-        "rawTID":"MECHANIC_WEAPON"
+        "rawTID":"MECHANIC_WEAPON",
+        "rawPowerNumberTID":"STAT_DAMAGE"
     },
     {
         "name":"Mechanic_ulti",
@@ -663,13 +678,15 @@
         "value2":null,
         "rarity":"common",
         "tID":"LATA-VELHA",
-        "powerNumberTID":"TID_TURRET_DAMAGE",
-        "powerNumber2TID":"TID_TURRET_HEALTH",
+        "powerNumberTID":"LATA-VELHA",
+        "powerNumber2TID":"LATA-VELHA",
         "powerIcon1ExportName":"genicon_damage",
         "powerIcon2ExportName":"genicon_health",
         "sortOrder":null,
         "id":54,
-        "rawTID":"MECHANIC_ULTI"
+        "rawTID":"MECHANIC_ULTI",
+        "rawPowerNumberTID":"TURRET_DAMAGE",
+        "rawPowerNumber2TID":"TURRET_HEALTH"
     },
     {
         "name":"Shaman_unlock",
@@ -683,14 +700,13 @@
         "value":null,
         "value2":null,
         "rarity":"common",
-        "tID":"TID_",
+        "tID":null,
         "powerNumberTID":null,
         "powerNumber2TID":null,
         "powerIcon1ExportName":null,
         "powerIcon2ExportName":null,
         "sortOrder":1,
-        "id":55,
-        "rawTID":""
+        "id":55
     },
     {
         "name":"Shaman_hp",
@@ -705,13 +721,14 @@
         "value2":null,
         "rarity":"common",
         "tID":"SA\u00daDE",
-        "powerNumberTID":"TID_ARMOR_STAT",
+        "powerNumberTID":"SA\u00daDE",
         "powerNumber2TID":null,
         "powerIcon1ExportName":"genicon_health",
         "powerIcon2ExportName":null,
         "sortOrder":null,
         "id":56,
-        "rawTID":"ARMOR"
+        "rawTID":"ARMOR",
+        "rawPowerNumberTID":"ARMOR_STAT"
     },
     {
         "name":"Shaman_abi",
@@ -726,13 +743,14 @@
         "value2":null,
         "rarity":"common",
         "tID":"TREMOR",
-        "powerNumberTID":"TID_STAT_DAMAGE",
+        "powerNumberTID":"TREMOR",
         "powerNumber2TID":null,
         "powerIcon1ExportName":"genicon_damage",
         "powerIcon2ExportName":null,
         "sortOrder":null,
         "id":57,
-        "rawTID":"SHAMAN_WEAPON"
+        "rawTID":"SHAMAN_WEAPON",
+        "rawPowerNumberTID":"STAT_DAMAGE"
     },
     {
         "name":"Shaman_ulti",
@@ -747,13 +765,15 @@
         "value2":null,
         "rarity":"common",
         "tID":"GARRA DE URSO",
-        "powerNumberTID":"TID_BEAR_DAMAGE",
-        "powerNumber2TID":"TID_BEAR_HEALTH",
+        "powerNumberTID":"GARRA DE URSO",
+        "powerNumber2TID":"GARRA DE URSO",
         "powerIcon1ExportName":"genicon_damage",
         "powerIcon2ExportName":"genicon_health",
         "sortOrder":null,
         "id":58,
-        "rawTID":"SHAMAN_ULTI"
+        "rawTID":"SHAMAN_ULTI",
+        "rawPowerNumberTID":"BEAR_DAMAGE",
+        "rawPowerNumber2TID":"BEAR_HEALTH"
     },
     {
         "name":"TntDude_unlock",
@@ -767,14 +787,13 @@
         "value":null,
         "value2":null,
         "rarity":"common",
-        "tID":"TID_",
+        "tID":null,
         "powerNumberTID":null,
         "powerNumber2TID":null,
         "powerIcon1ExportName":null,
         "powerIcon2ExportName":null,
         "sortOrder":6,
-        "id":59,
-        "rawTID":""
+        "id":59
     },
     {
         "name":"TntDude_hp",
@@ -789,13 +808,14 @@
         "value2":null,
         "rarity":"common",
         "tID":"SA\u00daDE",
-        "powerNumberTID":"TID_ARMOR_STAT",
+        "powerNumberTID":"SA\u00daDE",
         "powerNumber2TID":null,
         "powerIcon1ExportName":"genicon_health",
         "powerIcon2ExportName":null,
         "sortOrder":null,
         "id":60,
-        "rawTID":"ARMOR"
+        "rawTID":"ARMOR",
+        "rawPowerNumberTID":"ARMOR_STAT"
     },
     {
         "name":"TntDude_abi",
@@ -810,13 +830,14 @@
         "value2":null,
         "rarity":"common",
         "tID":"PAVIO CURTO",
-        "powerNumberTID":"TID_STAT_PER_DYNAMITE",
+        "powerNumberTID":"PAVIO CURTO",
         "powerNumber2TID":null,
         "powerIcon1ExportName":"genicon_damage",
         "powerIcon2ExportName":null,
         "sortOrder":null,
         "id":61,
-        "rawTID":"MORTAR"
+        "rawTID":"MORTAR",
+        "rawPowerNumberTID":"STAT_PER_DYNAMITE"
     },
     {
         "name":"TntDude_ulti",
@@ -831,13 +852,14 @@
         "value2":null,
         "rarity":"common",
         "tID":"BARRIL BOMB\u00c1STICO",
-        "powerNumberTID":"TID_STAT_DAMAGE",
+        "powerNumberTID":"BARRIL BOMB\u00c1STICO",
         "powerNumber2TID":null,
         "powerIcon1ExportName":"genicon_damage",
         "powerIcon2ExportName":null,
         "sortOrder":null,
         "id":62,
-        "rawTID":"MORTAR_ULTI"
+        "rawTID":"MORTAR_ULTI",
+        "rawPowerNumberTID":"STAT_DAMAGE"
     },
     {
         "name":"Luchador_unlock",
@@ -851,14 +873,13 @@
         "value":null,
         "value2":null,
         "rarity":"rare",
-        "tID":"TID_",
+        "tID":null,
         "powerNumberTID":null,
         "powerNumber2TID":null,
         "powerIcon1ExportName":null,
         "powerIcon2ExportName":null,
         "sortOrder":8,
-        "id":63,
-        "rawTID":""
+        "id":63
     },
     {
         "name":"Luchador_hp",
@@ -873,13 +894,14 @@
         "value2":null,
         "rarity":"common",
         "tID":"SA\u00daDE",
-        "powerNumberTID":"TID_ARMOR_STAT",
+        "powerNumberTID":"SA\u00daDE",
         "powerNumber2TID":null,
         "powerIcon1ExportName":"genicon_health",
         "powerIcon2ExportName":null,
         "sortOrder":null,
         "id":64,
-        "rawTID":"ARMOR"
+        "rawTID":"ARMOR",
+        "rawPowerNumberTID":"ARMOR_STAT"
     },
     {
         "name":"Luchador_abi",
@@ -894,13 +916,14 @@
         "value2":null,
         "rarity":"common",
         "tID":"PUNHOS FURIOSOS",
-        "powerNumberTID":"TID_STAT_DAMAGE_PER_STRIKE",
+        "powerNumberTID":"PUNHOS FURIOSOS",
         "powerNumber2TID":null,
         "powerIcon1ExportName":"genicon_damage",
         "powerIcon2ExportName":null,
         "sortOrder":null,
         "id":65,
-        "rawTID":"LUCHADOR_WEAPON"
+        "rawTID":"LUCHADOR_WEAPON",
+        "rawPowerNumberTID":"STAT_DAMAGE_PER_STRIKE"
     },
     {
         "name":"Luchador_ulti",
@@ -915,13 +938,14 @@
         "value2":null,
         "rarity":"common",
         "tID":"ATAQUE DE COTOVELO",
-        "powerNumberTID":"TID_STAT_DAMAGE",
+        "powerNumberTID":"ATAQUE DE COTOVELO",
         "powerNumber2TID":null,
         "powerIcon1ExportName":"genicon_damage",
         "powerIcon2ExportName":null,
         "sortOrder":null,
         "id":66,
-        "rawTID":"LUCHADOR_ULTI"
+        "rawTID":"LUCHADOR_ULTI",
+        "rawPowerNumberTID":"STAT_DAMAGE"
     },
     {
         "name":"Undertaker_unlock",
@@ -935,14 +959,13 @@
         "value":null,
         "value2":null,
         "rarity":"mega_epic",
-        "tID":"TID_",
+        "tID":null,
         "powerNumberTID":null,
         "powerNumber2TID":null,
         "powerIcon1ExportName":null,
         "powerIcon2ExportName":null,
         "sortOrder":18,
-        "id":67,
-        "rawTID":""
+        "id":67
     },
     {
         "name":"Undertaker_hp",
@@ -957,13 +980,14 @@
         "value2":null,
         "rarity":"common",
         "tID":"SA\u00daDE",
-        "powerNumberTID":"TID_ARMOR_STAT",
+        "powerNumberTID":"SA\u00daDE",
         "powerNumber2TID":null,
         "powerIcon1ExportName":"genicon_health",
         "powerIcon2ExportName":null,
         "sortOrder":null,
         "id":68,
-        "rawTID":"ARMOR"
+        "rawTID":"ARMOR",
+        "rawPowerNumberTID":"ARMOR_STAT"
     },
     {
         "name":"Undertaker_abi",
@@ -978,13 +1002,14 @@
         "value2":null,
         "rarity":"common",
         "tID":"SETE PALMOS",
-        "powerNumberTID":"TID_STAT_DAMAGE",
+        "powerNumberTID":"SETE PALMOS",
         "powerNumber2TID":null,
         "powerIcon1ExportName":"genicon_damage",
         "powerIcon2ExportName":null,
         "sortOrder":null,
         "id":69,
-        "rawTID":"UNDERTAKER_WEAPON"
+        "rawTID":"UNDERTAKER_WEAPON",
+        "rawPowerNumberTID":"STAT_DAMAGE"
     },
     {
         "name":"Undertaker_ulti",
@@ -999,13 +1024,14 @@
         "value2":null,
         "rarity":"common",
         "tID":"TRANSFUS\u00c3O",
-        "powerNumberTID":"TID_STAT_DAMAGE",
+        "powerNumberTID":"TRANSFUS\u00c3O",
         "powerNumber2TID":null,
         "powerIcon1ExportName":"genicon_damage",
         "powerIcon2ExportName":null,
         "sortOrder":null,
         "id":70,
-        "rawTID":"UNDERTAKER_ULTI"
+        "rawTID":"UNDERTAKER_ULTI",
+        "rawPowerNumberTID":"STAT_DAMAGE"
     },
     {
         "name":"Crow_unlock",
@@ -1019,14 +1045,13 @@
         "value":null,
         "value2":null,
         "rarity":"legendary",
-        "tID":"TID_",
+        "tID":null,
         "powerNumberTID":null,
         "powerNumber2TID":null,
         "powerIcon1ExportName":null,
         "powerIcon2ExportName":null,
         "sortOrder":22,
-        "id":71,
-        "rawTID":""
+        "id":71
     },
     {
         "name":"Crow_hp",
@@ -1041,13 +1066,14 @@
         "value2":null,
         "rarity":"common",
         "tID":"SA\u00daDE",
-        "powerNumberTID":"TID_ARMOR_STAT",
+        "powerNumberTID":"SA\u00daDE",
         "powerNumber2TID":null,
         "powerIcon1ExportName":"genicon_health",
         "powerIcon2ExportName":null,
         "sortOrder":null,
         "id":72,
-        "rawTID":"ARMOR"
+        "rawTID":"ARMOR",
+        "rawPowerNumberTID":"ARMOR_STAT"
     },
     {
         "name":"Crow_abi",
@@ -1062,13 +1088,14 @@
         "value2":null,
         "rarity":"common",
         "tID":"PUNHAL",
-        "powerNumberTID":"TID_STAT_DAMAGE_PER_DAGGER",
+        "powerNumberTID":"PUNHAL",
         "powerNumber2TID":null,
         "powerIcon1ExportName":"genicon_damage",
         "powerIcon2ExportName":null,
         "sortOrder":null,
         "id":73,
-        "rawTID":"CROW_WEAPON"
+        "rawTID":"CROW_WEAPON",
+        "rawPowerNumberTID":"STAT_DAMAGE_PER_DAGGER"
     },
     {
         "name":"Crow_ulti",
@@ -1083,13 +1110,14 @@
         "value2":null,
         "rarity":"common",
         "tID":"RASANTE",
-        "powerNumberTID":"TID_STAT_DAMAGE_PER_DAGGER",
+        "powerNumberTID":"RASANTE",
         "powerNumber2TID":null,
         "powerIcon1ExportName":"genicon_damage",
         "powerIcon2ExportName":null,
         "sortOrder":null,
         "id":74,
-        "rawTID":"CROW_ULTI"
+        "rawTID":"CROW_ULTI",
+        "rawPowerNumberTID":"STAT_DAMAGE_PER_DAGGER"
     },
     {
         "name":"DeadMariachi_unlock",
@@ -1103,14 +1131,13 @@
         "value":null,
         "value2":null,
         "rarity":"rare",
-        "tID":"TID_",
+        "tID":null,
         "powerNumberTID":null,
         "powerNumber2TID":null,
         "powerIcon1ExportName":null,
         "powerIcon2ExportName":null,
         "sortOrder":10,
-        "id":75,
-        "rawTID":""
+        "id":75
     },
     {
         "name":"DeadMariachi_hp",
@@ -1125,13 +1152,14 @@
         "value2":null,
         "rarity":"common",
         "tID":"SA\u00daDE",
-        "powerNumberTID":"TID_ARMOR_STAT",
+        "powerNumberTID":"SA\u00daDE",
         "powerNumber2TID":null,
         "powerIcon1ExportName":"genicon_health",
         "powerIcon2ExportName":null,
         "sortOrder":null,
         "id":76,
-        "rawTID":"ARMOR"
+        "rawTID":"ARMOR",
+        "rawPowerNumberTID":"ARMOR_STAT"
     },
     {
         "name":"DeadMariachi_abi",
@@ -1146,13 +1174,14 @@
         "value2":null,
         "rarity":"common",
         "tID":"DISSON\u00c2NCIA",
-        "powerNumberTID":"TID_STAT_DAMAGE",
+        "powerNumberTID":"DISSON\u00c2NCIA",
         "powerNumber2TID":null,
         "powerIcon1ExportName":"genicon_damage",
         "powerIcon2ExportName":null,
         "sortOrder":null,
         "id":77,
-        "rawTID":"DEAD_MARIACHI_WEAPON"
+        "rawTID":"DEAD_MARIACHI_WEAPON",
+        "rawPowerNumberTID":"STAT_DAMAGE"
     },
     {
         "name":"DeadMariachi_ulti",
@@ -1167,13 +1196,14 @@
         "value2":null,
         "rarity":"common",
         "tID":"BIS!",
-        "powerNumberTID":"TID_STAT_HEAL",
+        "powerNumberTID":"BIS!",
         "powerNumber2TID":null,
         "powerIcon1ExportName":"genicon_health",
         "powerIcon2ExportName":null,
         "sortOrder":null,
         "id":78,
-        "rawTID":"DEAD_MARIACHI_ULTI"
+        "rawTID":"DEAD_MARIACHI_ULTI",
+        "rawPowerNumberTID":"STAT_HEAL"
     },
     {
         "name":"BowDude_unlock",
@@ -1187,14 +1217,13 @@
         "value":null,
         "value2":null,
         "rarity":"common",
-        "tID":"TID_",
+        "tID":null,
         "powerNumberTID":null,
         "powerNumber2TID":null,
         "powerIcon1ExportName":null,
         "powerIcon2ExportName":null,
         "sortOrder":7,
-        "id":79,
-        "rawTID":""
+        "id":79
     },
     {
         "name":"BowDude_hp",
@@ -1209,13 +1238,14 @@
         "value2":null,
         "rarity":"common",
         "tID":"SA\u00daDE",
-        "powerNumberTID":"TID_ARMOR_STAT",
+        "powerNumberTID":"SA\u00daDE",
         "powerNumber2TID":null,
         "powerIcon1ExportName":"genicon_health",
         "powerIcon2ExportName":null,
         "sortOrder":null,
         "id":80,
-        "rawTID":"ARMOR"
+        "rawTID":"ARMOR",
+        "rawPowerNumberTID":"ARMOR_STAT"
     },
     {
         "name":"BowDude_abi",
@@ -1230,13 +1260,14 @@
         "value2":null,
         "rarity":"common",
         "tID":"GARRAS DE \u00c1GUIA",
-        "powerNumberTID":"TID_STAT_DAMAGE_PER_ARROW",
+        "powerNumberTID":"GARRAS DE \u00c1GUIA",
         "powerNumber2TID":null,
         "powerIcon1ExportName":"genicon_damage",
         "powerIcon2ExportName":null,
         "sortOrder":null,
         "id":81,
-        "rawTID":"BOW_DUDE_WEAPON"
+        "rawTID":"BOW_DUDE_WEAPON",
+        "rawPowerNumberTID":"STAT_DAMAGE_PER_ARROW"
     },
     {
         "name":"BowDude_ulti",
@@ -1251,13 +1282,14 @@
         "value2":null,
         "rarity":"common",
         "tID":"CAIA NA TOCAIA",
-        "powerNumberTID":"TID_STAT_DAMAGE_PER_MINE",
+        "powerNumberTID":"CAIA NA TOCAIA",
         "powerNumber2TID":null,
         "powerIcon1ExportName":"genicon_damage",
         "powerIcon2ExportName":null,
         "sortOrder":null,
         "id":82,
-        "rawTID":"BOW_DUDE_ULTI"
+        "rawTID":"BOW_DUDE_ULTI",
+        "rawPowerNumberTID":"STAT_DAMAGE_PER_MINE"
     },
     {
         "name":"Sniper_unlock",
@@ -1271,14 +1303,13 @@
         "value":null,
         "value2":null,
         "rarity":"epic",
-        "tID":"TID_",
+        "tID":null,
         "powerNumberTID":null,
         "powerNumber2TID":null,
         "powerIcon1ExportName":null,
         "powerIcon2ExportName":null,
         "sortOrder":15,
-        "id":83,
-        "rawTID":""
+        "id":83
     },
     {
         "name":"Sniper_hp",
@@ -1293,13 +1324,14 @@
         "value2":null,
         "rarity":"common",
         "tID":"SA\u00daDE",
-        "powerNumberTID":"TID_ARMOR_STAT",
+        "powerNumberTID":"SA\u00daDE",
         "powerNumber2TID":null,
         "powerIcon1ExportName":"genicon_health",
         "powerIcon2ExportName":null,
         "sortOrder":null,
         "id":84,
-        "rawTID":"ARMOR"
+        "rawTID":"ARMOR",
+        "rawPowerNumberTID":"ARMOR_STAT"
     },
     {
         "name":"Sniper_abi",
@@ -1314,13 +1346,14 @@
         "value2":null,
         "rarity":"common",
         "tID":"RESPINGARDA",
-        "powerNumberTID":"TID_STAT_MAX_DAMAGE",
+        "powerNumberTID":"RESPINGARDA",
         "powerNumber2TID":null,
         "powerIcon1ExportName":"genicon_damage",
         "powerIcon2ExportName":null,
         "sortOrder":null,
         "id":85,
-        "rawTID":"SNIPER_WEAPON"
+        "rawTID":"SNIPER_WEAPON",
+        "rawPowerNumberTID":"STAT_MAX_DAMAGE"
     },
     {
         "name":"Sniper_ulti",
@@ -1335,13 +1368,14 @@
         "value2":null,
         "rarity":"common",
         "tID":"AMEA\u00c7A TRIPLA",
-        "powerNumberTID":"TID_STAT_DAMAGE_PER_BOMB",
+        "powerNumberTID":"AMEA\u00c7A TRIPLA",
         "powerNumber2TID":null,
         "powerIcon1ExportName":"genicon_damage",
         "powerIcon2ExportName":null,
         "sortOrder":null,
         "id":86,
-        "rawTID":"SNIPER_ULTI"
+        "rawTID":"SNIPER_ULTI",
+        "rawPowerNumberTID":"STAT_DAMAGE_PER_BOMB"
     },
     {
         "name":"MinigunDude_unlock",
@@ -1355,14 +1389,13 @@
         "value":null,
         "value2":null,
         "rarity":"epic",
-        "tID":"TID_",
+        "tID":null,
         "powerNumberTID":null,
         "powerNumber2TID":null,
         "powerIcon1ExportName":null,
         "powerIcon2ExportName":null,
         "sortOrder":16,
-        "id":87,
-        "rawTID":""
+        "id":87
     },
     {
         "name":"MinigunDude_hp",
@@ -1377,13 +1410,14 @@
         "value2":null,
         "rarity":"common",
         "tID":"SA\u00daDE",
-        "powerNumberTID":"TID_ARMOR_STAT",
+        "powerNumberTID":"SA\u00daDE",
         "powerNumber2TID":null,
         "powerIcon1ExportName":"genicon_health",
         "powerIcon2ExportName":null,
         "sortOrder":null,
         "id":88,
-        "rawTID":"ARMOR"
+        "rawTID":"ARMOR",
+        "rawPowerNumberTID":"ARMOR_STAT"
     },
     {
         "name":"MinigunDude_abi",
@@ -1398,13 +1432,14 @@
         "value2":null,
         "rarity":"common",
         "tID":"CHUVA DE SUCATA",
-        "powerNumberTID":"TID_STAT_DAMAGE_PER_SHOT",
+        "powerNumberTID":"CHUVA DE SUCATA",
         "powerNumber2TID":null,
         "powerIcon1ExportName":"genicon_damage",
         "powerIcon2ExportName":null,
         "sortOrder":null,
         "id":89,
-        "rawTID":"MINIGUN_DUDE_WEAPON"
+        "rawTID":"MINIGUN_DUDE_WEAPON",
+        "rawPowerNumberTID":"STAT_DAMAGE_PER_SHOT"
     },
     {
         "name":"MinigunDude_ulti",
@@ -1419,13 +1454,15 @@
         "value2":null,
         "rarity":"common",
         "tID":"XOD\u00d3 DA MAM\u00c3E",
-        "powerNumberTID":"TID_STAT_HEALING_PER_SEC",
-        "powerNumber2TID":"TID_TURRET_HEALTH",
+        "powerNumberTID":"XOD\u00d3 DA MAM\u00c3E",
+        "powerNumber2TID":"XOD\u00d3 DA MAM\u00c3E",
         "powerIcon1ExportName":"genicon_heal",
         "powerIcon2ExportName":"genicon_health",
         "sortOrder":null,
         "id":90,
-        "rawTID":"MINIGUN_DUDE_ULTI"
+        "rawTID":"MINIGUN_DUDE_ULTI",
+        "rawPowerNumberTID":"STAT_HEALING_PER_SEC",
+        "rawPowerNumber2TID":"TURRET_HEALTH"
     },
     {
         "name":"BlackHole_unlock",
@@ -1439,14 +1476,13 @@
         "value":null,
         "value2":null,
         "rarity":"mega_epic",
-        "tID":"TID_",
+        "tID":null,
         "powerNumberTID":null,
         "powerNumber2TID":null,
         "powerIcon1ExportName":null,
         "powerIcon2ExportName":null,
         "sortOrder":19,
-        "id":91,
-        "rawTID":""
+        "id":91
     },
     {
         "name":"BlackHole_hp",
@@ -1461,13 +1497,14 @@
         "value2":null,
         "rarity":"common",
         "tID":"SA\u00daDE",
-        "powerNumberTID":"TID_ARMOR_STAT",
+        "powerNumberTID":"SA\u00daDE",
         "powerNumber2TID":null,
         "powerIcon1ExportName":"genicon_health",
         "powerIcon2ExportName":null,
         "sortOrder":null,
         "id":92,
-        "rawTID":"ARMOR"
+        "rawTID":"ARMOR",
+        "rawPowerNumberTID":"ARMOR_STAT"
     },
     {
         "name":"BlackHole_abi",
@@ -1482,13 +1519,14 @@
         "value2":null,
         "rarity":"common",
         "tID":"TRINCA DE TAR\u00d4",
-        "powerNumberTID":"TID_STAT_DAMAGE_PER_CARD",
+        "powerNumberTID":"TRINCA DE TAR\u00d4",
         "powerNumber2TID":null,
         "powerIcon1ExportName":"genicon_damage",
         "powerIcon2ExportName":null,
         "sortOrder":null,
         "id":93,
-        "rawTID":"BLACK_HOLE_WEAPON"
+        "rawTID":"BLACK_HOLE_WEAPON",
+        "rawPowerNumberTID":"STAT_DAMAGE_PER_CARD"
     },
     {
         "name":"BlackHole_ulti",
@@ -1503,13 +1541,14 @@
         "value2":null,
         "rarity":"common",
         "tID":"GRAVIDADE",
-        "powerNumberTID":"TID_STAT_DAMAGE",
+        "powerNumberTID":"GRAVIDADE",
         "powerNumber2TID":null,
         "powerIcon1ExportName":"genicon_damage",
         "powerIcon2ExportName":null,
         "sortOrder":null,
         "id":94,
-        "rawTID":"BLACK_HOLE_ULTI"
+        "rawTID":"BLACK_HOLE_ULTI",
+        "rawPowerNumberTID":"STAT_DAMAGE"
     },
     {
         "name":"BarrelBot_unlock",
@@ -1523,14 +1562,13 @@
         "value":null,
         "value2":null,
         "rarity":"super_rare",
-        "tID":"TID_",
+        "tID":null,
         "powerNumberTID":null,
         "powerNumber2TID":null,
         "powerIcon1ExportName":null,
         "powerIcon2ExportName":null,
         "sortOrder":12,
-        "id":95,
-        "rawTID":""
+        "id":95
     },
     {
         "name":"BarrelBot_hp",
@@ -1545,13 +1583,14 @@
         "value2":null,
         "rarity":"common",
         "tID":"SA\u00daDE",
-        "powerNumberTID":"TID_ARMOR_STAT",
+        "powerNumberTID":"SA\u00daDE",
         "powerNumber2TID":null,
         "powerIcon1ExportName":"genicon_health",
         "powerIcon2ExportName":null,
         "sortOrder":null,
         "id":96,
-        "rawTID":"ARMOR"
+        "rawTID":"ARMOR",
+        "rawPowerNumberTID":"ARMOR_STAT"
     },
     {
         "name":"BarrelBot_abi",
@@ -1566,13 +1605,14 @@
         "value2":null,
         "rarity":"common",
         "tID":"DOSE DUPLA",
-        "powerNumberTID":"TID_STAT_DAMAGE_PER_SHELL",
+        "powerNumberTID":"DOSE DUPLA",
         "powerNumber2TID":null,
         "powerIcon1ExportName":"genicon_damage",
         "powerIcon2ExportName":null,
         "sortOrder":null,
         "id":97,
-        "rawTID":"BARREL_BOT_WEAPON"
+        "rawTID":"BARREL_BOT_WEAPON",
+        "rawPowerNumberTID":"STAT_DAMAGE_PER_SHELL"
     },
     {
         "name":"BarrelBot_ulti",
@@ -1587,13 +1627,14 @@
         "value2":null,
         "rarity":"common",
         "tID":"RODA PI\u00c3O",
-        "powerNumberTID":"TID_STAT_DAMAGE",
+        "powerNumberTID":"RODA PI\u00c3O",
         "powerNumber2TID":null,
         "powerIcon1ExportName":"genicon_damage",
         "powerIcon2ExportName":null,
         "sortOrder":null,
         "id":98,
-        "rawTID":"BARREL_BOT_ULTI"
+        "rawTID":"BARREL_BOT_ULTI",
+        "rawPowerNumberTID":"STAT_DAMAGE"
     },
     {
         "name":"ShotgunGirl_unique",
@@ -2006,14 +2047,13 @@
         "value":null,
         "value2":null,
         "rarity":"super_rare",
-        "tID":"TID_",
+        "tID":null,
         "powerNumberTID":null,
         "powerNumber2TID":null,
         "powerIcon1ExportName":null,
         "powerIcon2ExportName":null,
         "sortOrder":13,
-        "id":118,
-        "rawTID":""
+        "id":118
     },
     {
         "name":"ArtilleryDude_hp",
@@ -2028,13 +2068,14 @@
         "value2":null,
         "rarity":"common",
         "tID":"SA\u00daDE",
-        "powerNumberTID":"TID_ARMOR_STAT",
+        "powerNumberTID":"SA\u00daDE",
         "powerNumber2TID":null,
         "powerIcon1ExportName":"genicon_health",
         "powerIcon2ExportName":null,
         "sortOrder":null,
         "id":119,
-        "rawTID":"ARMOR"
+        "rawTID":"ARMOR",
+        "rawPowerNumberTID":"ARMOR_STAT"
     },
     {
         "name":"ArtilleryDude_abi",
@@ -2049,13 +2090,14 @@
         "value2":null,
         "rarity":"common",
         "tID":"OURO DE TOLO",
-        "powerNumberTID":"TID_STAT_DAMAGE",
+        "powerNumberTID":"OURO DE TOLO",
         "powerNumber2TID":null,
         "powerIcon1ExportName":"genicon_damage",
         "powerIcon2ExportName":null,
         "sortOrder":null,
         "id":120,
-        "rawTID":"ARTILLERY_DUDE_WEAPON"
+        "rawTID":"ARTILLERY_DUDE_WEAPON",
+        "rawPowerNumberTID":"STAT_DAMAGE"
     },
     {
         "name":"ArtilleryDude_ulti",
@@ -2070,13 +2112,15 @@
         "value2":null,
         "rarity":"common",
         "tID":"ATIRADOR EXPERIENTE",
-        "powerNumberTID":"TID_CANNON_DAMAGE",
-        "powerNumber2TID":"TID_CANNON_HEALTH",
+        "powerNumberTID":"ATIRADOR EXPERIENTE",
+        "powerNumber2TID":"ATIRADOR EXPERIENTE",
         "powerIcon1ExportName":"genicon_damage",
         "powerIcon2ExportName":"genicon_health",
         "sortOrder":null,
         "id":121,
-        "rawTID":"ARTILLERY_DUDE_ULTI"
+        "rawTID":"ARTILLERY_DUDE_ULTI",
+        "rawPowerNumberTID":"CANNON_DAMAGE",
+        "rawPowerNumber2TID":"CANNON_HEALTH"
     },
     {
         "name":"ArtilleryDude_unique",
@@ -2111,14 +2155,13 @@
         "value":null,
         "value2":null,
         "rarity":"epic",
-        "tID":"TID_",
+        "tID":null,
         "powerNumberTID":null,
         "powerNumber2TID":null,
         "powerIcon1ExportName":null,
         "powerIcon2ExportName":null,
         "sortOrder":17,
-        "id":123,
-        "rawTID":""
+        "id":123
     },
     {
         "name":"HammerDude_hp",
@@ -2133,13 +2176,14 @@
         "value2":null,
         "rarity":"common",
         "tID":"SA\u00daDE",
-        "powerNumberTID":"TID_ARMOR_STAT",
+        "powerNumberTID":"SA\u00daDE",
         "powerNumber2TID":null,
         "powerIcon1ExportName":"genicon_health",
         "powerIcon2ExportName":null,
         "sortOrder":null,
         "id":124,
-        "rawTID":"ARMOR"
+        "rawTID":"ARMOR",
+        "rawPowerNumberTID":"ARMOR_STAT"
     },
     {
         "name":"HammerDude_abi",
@@ -2154,13 +2198,14 @@
         "value2":null,
         "rarity":"common",
         "tID":"MARTELADA",
-        "powerNumberTID":"TID_STAT_DAMAGE",
+        "powerNumberTID":"MARTELADA",
         "powerNumber2TID":null,
         "powerIcon1ExportName":"genicon_damage",
         "powerIcon2ExportName":null,
         "sortOrder":null,
         "id":125,
-        "rawTID":"HAMMER_DUDE_WEAPON"
+        "rawTID":"HAMMER_DUDE_WEAPON",
+        "rawPowerNumberTID":"STAT_DAMAGE"
     },
     {
         "name":"HammerDude_ulti",
@@ -2175,13 +2220,14 @@
         "value2":null,
         "rarity":"common",
         "tID":"MARTELO DE MARTE",
-        "powerNumberTID":"TID_STAT_DAMAGE",
+        "powerNumberTID":"MARTELO DE MARTE",
         "powerNumber2TID":null,
         "powerIcon1ExportName":"genicon_damage",
         "powerIcon2ExportName":"genicon_health",
         "sortOrder":null,
         "id":126,
-        "rawTID":"HAMMER_DUDE_ULTI"
+        "rawTID":"HAMMER_DUDE_ULTI",
+        "rawPowerNumberTID":"STAT_DAMAGE"
     },
     {
         "name":"HammerDude_unique",
@@ -2216,14 +2262,13 @@
         "value":null,
         "value2":null,
         "rarity":"mega_epic",
-        "tID":"TID_",
+        "tID":null,
         "powerNumberTID":null,
         "powerNumber2TID":null,
         "powerIcon1ExportName":null,
         "powerIcon2ExportName":null,
         "sortOrder":20,
-        "id":128,
-        "rawTID":""
+        "id":128
     },
     {
         "name":"HookDude_hp",
@@ -2238,13 +2283,14 @@
         "value2":null,
         "rarity":"common",
         "tID":"SA\u00daDE",
-        "powerNumberTID":"TID_ARMOR_STAT",
+        "powerNumberTID":"SA\u00daDE",
         "powerNumber2TID":null,
         "powerIcon1ExportName":"genicon_health",
         "powerIcon2ExportName":null,
         "sortOrder":null,
         "id":129,
-        "rawTID":"ARMOR"
+        "rawTID":"ARMOR",
+        "rawPowerNumberTID":"ARMOR_STAT"
     },
     {
         "name":"HookDude_abi",
@@ -2259,13 +2305,14 @@
         "value2":null,
         "rarity":"common",
         "tID":"EXPLOS\u00c3O DE FUMA\u00c7A",
-        "powerNumberTID":"TID_STAT_DAMAGE",
+        "powerNumberTID":"EXPLOS\u00c3O DE FUMA\u00c7A",
         "powerNumber2TID":null,
         "powerIcon1ExportName":"genicon_damage",
         "powerIcon2ExportName":null,
         "sortOrder":null,
         "id":130,
-        "rawTID":"HOOK_WEAPON"
+        "rawTID":"HOOK_WEAPON",
+        "rawPowerNumberTID":"STAT_DAMAGE"
     },
     {
         "name":"HookDude_ulti",
@@ -2280,13 +2327,14 @@
         "value2":null,
         "rarity":"common",
         "tID":"M\u00c3O M\u00c1GICA",
-        "powerNumberTID":"TID_HOOK_ULTI",
+        "powerNumberTID":"M\u00c3O M\u00c1GICA",
         "powerNumber2TID":null,
         "powerIcon1ExportName":"genicon_damage",
         "powerIcon2ExportName":null,
         "sortOrder":null,
         "id":131,
-        "rawTID":"HOOK_ULTI"
+        "rawTID":"HOOK_ULTI",
+        "rawPowerNumberTID":"HOOK_ULTI"
     },
     {
         "name":"HookDude_unique",
@@ -2321,14 +2369,13 @@
         "value":null,
         "value2":null,
         "rarity":"legendary",
-        "tID":"TID_",
+        "tID":null,
         "powerNumberTID":null,
         "powerNumber2TID":null,
         "powerIcon1ExportName":null,
         "powerIcon2ExportName":null,
         "sortOrder":25,
-        "id":133,
-        "rawTID":""
+        "id":133
     },
     {
         "name":"ClusterBombDude_hp",
@@ -2343,13 +2390,14 @@
         "value2":null,
         "rarity":"common",
         "tID":"SA\u00daDE",
-        "powerNumberTID":"TID_ARMOR_STAT",
+        "powerNumberTID":"SA\u00daDE",
         "powerNumber2TID":null,
         "powerIcon1ExportName":"genicon_health",
         "powerIcon2ExportName":null,
         "sortOrder":null,
         "id":134,
-        "rawTID":"ARMOR"
+        "rawTID":"ARMOR",
+        "rawPowerNumberTID":"ARMOR_STAT"
     },
     {
         "name":"ClusterBombDude_abi",
@@ -2364,13 +2412,14 @@
         "value2":null,
         "rarity":"common",
         "tID":"Submetralhadora",
-        "powerNumberTID":"TID_STAT_DAMAGE_PER_SHOT",
+        "powerNumberTID":"Submetralhadora",
         "powerNumber2TID":null,
         "powerIcon1ExportName":"genicon_damage",
         "powerIcon2ExportName":null,
         "sortOrder":null,
         "id":135,
-        "rawTID":"CLUSTER_BOMB_DUDE_WEAPON"
+        "rawTID":"CLUSTER_BOMB_DUDE_WEAPON",
+        "rawPowerNumberTID":"STAT_DAMAGE_PER_SHOT"
     },
     {
         "name":"ClusterBombDude_ulti",
@@ -2385,13 +2434,14 @@
         "value2":null,
         "rarity":"common",
         "tID":"Bomba m\u00faltipla",
-        "powerNumberTID":"TID_STAT_DAMAGE_PER_CLUSTER",
+        "powerNumberTID":"Bomba m\u00faltipla",
         "powerNumber2TID":null,
         "powerIcon1ExportName":"genicon_damage",
         "powerIcon2ExportName":null,
         "sortOrder":null,
         "id":136,
-        "rawTID":"CLUSTER_BOMB_DUDE_ULTI"
+        "rawTID":"CLUSTER_BOMB_DUDE_ULTI",
+        "rawPowerNumberTID":"STAT_DAMAGE_PER_CLUSTER"
     },
     {
         "name":"ClusterBombDude_unique",
@@ -2426,14 +2476,13 @@
         "value":null,
         "value2":null,
         "rarity":"legendary",
-        "tID":"TID_",
+        "tID":null,
         "powerNumberTID":null,
         "powerNumber2TID":null,
         "powerIcon1ExportName":null,
         "powerIcon2ExportName":null,
         "sortOrder":23,
-        "id":138,
-        "rawTID":""
+        "id":138
     },
     {
         "name":"Ninja_hp",
@@ -2448,13 +2497,14 @@
         "value2":null,
         "rarity":"common",
         "tID":"SA\u00daDE",
-        "powerNumberTID":"TID_ARMOR_STAT",
+        "powerNumberTID":"SA\u00daDE",
         "powerNumber2TID":null,
         "powerIcon1ExportName":"genicon_health",
         "powerIcon2ExportName":null,
         "sortOrder":null,
         "id":139,
-        "rawTID":"ARMOR"
+        "rawTID":"ARMOR",
+        "rawPowerNumberTID":"ARMOR_STAT"
     },
     {
         "name":"Ninja_abi",
@@ -2469,13 +2519,14 @@
         "value2":null,
         "rarity":"common",
         "tID":"SHURIKEN",
-        "powerNumberTID":"TID_STAT_DAMAGE_PER_SHURIKEN",
+        "powerNumberTID":"SHURIKEN",
         "powerNumber2TID":null,
         "powerIcon1ExportName":"genicon_damage",
         "powerIcon2ExportName":null,
         "sortOrder":null,
         "id":140,
-        "rawTID":"NINJA_WEAPON"
+        "rawTID":"NINJA_WEAPON",
+        "rawPowerNumberTID":"STAT_DAMAGE_PER_SHURIKEN"
     },
     {
         "name":"Ninja_ulti",
@@ -2490,13 +2541,14 @@
         "value2":null,
         "rarity":"common",
         "tID":"BOMBA DE FUMA\u00c7A",
-        "powerNumberTID":"TID_STAT_INVISIBLE",
+        "powerNumberTID":"BOMBA DE FUMA\u00c7A",
         "powerNumber2TID":null,
         "powerIcon1ExportName":"genicon_damage",
         "powerIcon2ExportName":null,
         "sortOrder":null,
         "id":141,
-        "rawTID":"NINJA_ULTI"
+        "rawTID":"NINJA_ULTI",
+        "rawPowerNumberTID":"STAT_INVISIBLE"
     },
     {
         "name":"Ninja_unique",
@@ -2531,14 +2583,13 @@
         "value":null,
         "value2":null,
         "rarity":"legendary",
-        "tID":"TID_",
+        "tID":null,
         "powerNumberTID":null,
         "powerNumber2TID":null,
         "powerIcon1ExportName":null,
         "powerIcon2ExportName":null,
         "sortOrder":26,
-        "id":143,
-        "rawTID":""
+        "id":143
     },
     {
         "name":"Animal_hp",
@@ -2553,13 +2604,14 @@
         "value2":null,
         "rarity":"common",
         "tID":"SA\u00daDE",
-        "powerNumberTID":"TID_ARMOR_STAT",
+        "powerNumberTID":"SA\u00daDE",
         "powerNumber2TID":null,
         "powerIcon1ExportName":"genicon_health",
         "powerIcon2ExportName":null,
         "sortOrder":null,
         "id":144,
-        "rawTID":"ARMOR"
+        "rawTID":"ARMOR",
+        "rawPowerNumberTID":"ARMOR_STAT"
     },
     {
         "name":"Animal_abi",
@@ -2574,13 +2626,14 @@
         "value2":null,
         "rarity":"common",
         "tID":"Garras",
-        "powerNumberTID":"TID_STAT_DAMAGE_PER_STRIKE",
+        "powerNumberTID":"Garras",
         "powerNumber2TID":null,
         "powerIcon1ExportName":"genicon_damage",
         "powerIcon2ExportName":null,
         "sortOrder":null,
         "id":145,
-        "rawTID":"ANIMAL_WEAPON"
+        "rawTID":"ANIMAL_WEAPON",
+        "rawPowerNumberTID":"STAT_DAMAGE_PER_STRIKE"
     },
     {
         "name":"Animal_ulti",
@@ -2595,13 +2648,14 @@
         "value2":null,
         "rarity":"common",
         "tID":"Pele resistente",
-        "powerNumberTID":"TID_STAT_SHIELD",
+        "powerNumberTID":"Pele resistente",
         "powerNumber2TID":null,
         "powerIcon1ExportName":"genicon_damage",
         "powerIcon2ExportName":null,
         "sortOrder":null,
         "id":146,
-        "rawTID":"ANIMAL_ULTI"
+        "rawTID":"ANIMAL_ULTI",
+        "rawPowerNumberTID":"STAT_SHIELD"
     },
     {
         "name":"Animal_unique",
@@ -2636,14 +2690,13 @@
         "value":null,
         "value2":null,
         "rarity":"super_rare",
-        "tID":"TID_",
+        "tID":null,
         "powerNumberTID":null,
         "powerNumber2TID":null,
         "powerIcon1ExportName":null,
         "powerIcon2ExportName":null,
         "sortOrder":14,
-        "id":148,
-        "rawTID":""
+        "id":148
     },
     {
         "name":"Whirlwind_hp",
@@ -2658,13 +2711,14 @@
         "value2":null,
         "rarity":"common",
         "tID":"SA\u00daDE",
-        "powerNumberTID":"TID_ARMOR_STAT",
+        "powerNumberTID":"SA\u00daDE",
         "powerNumber2TID":null,
         "powerIcon1ExportName":"genicon_health",
         "powerIcon2ExportName":null,
         "sortOrder":null,
         "id":149,
-        "rawTID":"ARMOR"
+        "rawTID":"ARMOR",
+        "rawPowerNumberTID":"ARMOR_STAT"
     },
     {
         "name":"Whirlwind_abi",
@@ -2679,13 +2733,14 @@
         "value2":null,
         "rarity":"common",
         "tID":"PICARETA",
-        "powerNumberTID":"TID_STAT_DAMAGE_EACH_WAY",
+        "powerNumberTID":"PICARETA",
         "powerNumber2TID":null,
         "powerIcon1ExportName":"genicon_damage",
         "powerIcon2ExportName":null,
         "sortOrder":null,
         "id":150,
-        "rawTID":"WHIRLWIND_WEAPON"
+        "rawTID":"WHIRLWIND_WEAPON",
+        "rawPowerNumberTID":"STAT_DAMAGE_EACH_WAY"
     },
     {
         "name":"Whirlwind_ulti",
@@ -2700,13 +2755,14 @@
         "value2":null,
         "rarity":"common",
         "tID":"DERRAPADA",
-        "powerNumberTID":"TID_STAT_DAMAGE_PER_SWING",
+        "powerNumberTID":"DERRAPADA",
         "powerNumber2TID":null,
         "powerIcon1ExportName":"genicon_damage",
         "powerIcon2ExportName":null,
         "sortOrder":null,
         "id":151,
-        "rawTID":"WHIRLWIND_ULTI"
+        "rawTID":"WHIRLWIND_ULTI",
+        "rawPowerNumberTID":"STAT_DAMAGE_PER_SWING"
     },
     {
         "name":"Whirlwind_unique",

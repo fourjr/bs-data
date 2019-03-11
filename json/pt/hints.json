@@ -388,7 +388,7 @@
     },
     {
         "name":44,
-        "tID":"A picareta do Carl quica ao acertar obst\u00e1culos e, ao retornar, permite ser arremessada outra vez mais rapidamente.",
+        "tID":"A picareta do Carl quica ao acertar obst\u00e1culos e, ao retornar, pode ser arremessada outra vez mais rapidamente.",
         "minXPLevel":20,
         "maxXPLevel":999,
         "fileName":null,
