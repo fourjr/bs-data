@@ -92,10 +92,10 @@ if __name__ == '__main__':
                 i_keys = list(i.keys())
                 for j in i_keys:
                     if isinstance(i[j], str):
-                        if j == 'tID':
+                        # Typing
+                        if i[j].startswith('TID_'):
                             i['raw' + j[0].upper() + j[1:]] = i[j].replace('TID_', '')
 
-                        # Typing
                         elif '.' in i[j]:
                             try:
                                 i[j] = float(i[j])
@@ -140,11 +140,11 @@ if __name__ == '__main__':
                     for n, i in enumerate(change_data):
                         i_keys = list(i.keys())
                         for j in i_keys:
-                            if j == 'rawTID':
+                            if isinstance(i[j], str) and i[j].startswith('TID_'):
                                 try:
-                                    i['tID'] = TID[lang]['TID_' + i['rawTID']]
+                                    i[j] = TID[lang]['TID_' + i['rawTID']]
                                 except KeyError:
-                                    i['tID'] = 'TID_' + i['rawTID']
+                                    pass
 
                     with open(f"json/{lang}/{fn.replace('.csv', '.json')}", 'w+') as f:
                         json.dump(change_data, f, indent=4)
