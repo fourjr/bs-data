@@ -142,7 +142,7 @@ if __name__ == '__main__':
                         for j in i_keys:
                             if isinstance(i[j], str) and i[j].startswith('TID_'):
                                 try:
-                                    i[j] = TID[lang]['TID_' + i['rawTID']]
+                                    i[j] = TID[lang]['TID_' + i[j][4:]]
                                 except KeyError:
                                     pass
 
