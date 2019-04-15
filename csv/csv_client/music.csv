@@ -15,6 +15,7 @@
 "MenuMusic","music/brawl_stars_menu_01.ogg",60,"true",,,153
 "Cnymenu_music","music/cny_brawl_menu_01.ogg",60,"true",,,178
 "Brawl_royale_menu_music","music/royale_brawl_menu_01.ogg",60,"true",,,91
+"Brawl_dawgs_menu","music/brawl_dawgs_menu_01.ogg",60,"true",,,95
 "WinJingle","music/slugfest_game_won_01.ogg",80,,1,,
 "LoseJingle","music/slugfest_game_lost_01.ogg",70,,1,,
 "DrawJingle","music/laser_game_draw_01.ogg",70,,1,,

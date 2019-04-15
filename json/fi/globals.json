@@ -280,7 +280,7 @@
     },
     {
         "name":"BOSS_PET_HEALTH_BONUS_DIV",
-        "numberValue":15,
+        "numberValue":40,
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,

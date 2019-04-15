@@ -368,7 +368,8 @@
 "PP_CHANCE",942,,,,,
 "SPECTATE_ENABLED",,"TRUE",,,,
 "KAKAO_ENABLED",,"FALSE",,,,
-"LINE_ENABLED",,"FALSE",,,,
+"LINE_ENABLED",,"TRUE",,,,
+"SELFHELP_ENABLED",,"FALSE",,,,
 "NEW_HERO_CHANCE",48,,,,,
 "ONLINE_MENU_WAIT_BEFORE_UPDATE_SECS",5,,,,,
 "ONLINE_MENU_AUTO_CLOSE_TIME_SECS",-1,,,,,
@@ -394,3 +395,5 @@
 ,,,,,"0xffffd156",
 ,,,,,"0xffd16eff",
 ,,,,,"0xfffe6a71",
+"COLOR_YOU",,,"0xff00ff00",,,
+

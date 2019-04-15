@@ -18,6 +18,7 @@
         "type":"Damage",
         "bulletExplosionBullet":null,
         "bulletExplosionBulletDistance":null,
+        "bulletExplosionItem":null,
         "destroysEnvironment":null,
         "pushbackStrength":null,
         "pushbackStrengthSelf":null,
@@ -46,6 +47,7 @@
         "type":"Damage",
         "bulletExplosionBullet":null,
         "bulletExplosionBulletDistance":null,
+        "bulletExplosionItem":null,
         "destroysEnvironment":true,
         "pushbackStrength":null,
         "pushbackStrengthSelf":null,
@@ -74,6 +76,7 @@
         "type":"Damage",
         "bulletExplosionBullet":null,
         "bulletExplosionBulletDistance":null,
+        "bulletExplosionItem":null,
         "destroysEnvironment":null,
         "pushbackStrength":null,
         "pushbackStrengthSelf":null,
@@ -102,6 +105,7 @@
         "type":"Damage",
         "bulletExplosionBullet":null,
         "bulletExplosionBulletDistance":null,
+        "bulletExplosionItem":null,
         "destroysEnvironment":true,
         "pushbackStrength":null,
         "pushbackStrengthSelf":null,
@@ -130,6 +134,7 @@
         "type":"Damage",
         "bulletExplosionBullet":null,
         "bulletExplosionBulletDistance":null,
+        "bulletExplosionItem":null,
         "destroysEnvironment":null,
         "pushbackStrength":null,
         "pushbackStrengthSelf":null,
@@ -158,6 +163,7 @@
         "type":"Damage",
         "bulletExplosionBullet":null,
         "bulletExplosionBulletDistance":null,
+        "bulletExplosionItem":null,
         "destroysEnvironment":true,
         "pushbackStrength":null,
         "pushbackStrengthSelf":null,
@@ -186,6 +192,7 @@
         "type":"Damage",
         "bulletExplosionBullet":null,
         "bulletExplosionBulletDistance":null,
+        "bulletExplosionItem":null,
         "destroysEnvironment":null,
         "pushbackStrength":null,
         "pushbackStrengthSelf":null,
@@ -214,6 +221,7 @@
         "type":"BulletExplosion",
         "bulletExplosionBullet":"CactusSpike",
         "bulletExplosionBulletDistance":13,
+        "bulletExplosionItem":null,
         "destroysEnvironment":null,
         "pushbackStrength":null,
         "pushbackStrengthSelf":null,
@@ -242,6 +250,7 @@
         "type":"Dot",
         "bulletExplosionBullet":null,
         "bulletExplosionBulletDistance":null,
+        "bulletExplosionItem":null,
         "destroysEnvironment":null,
         "pushbackStrength":null,
         "pushbackStrengthSelf":null,
@@ -270,6 +279,7 @@
         "type":"Damage",
         "bulletExplosionBullet":null,
         "bulletExplosionBulletDistance":null,
+        "bulletExplosionItem":null,
         "destroysEnvironment":null,
         "pushbackStrength":null,
         "pushbackStrengthSelf":null,
@@ -298,6 +308,7 @@
         "type":"BulletExplosion",
         "bulletExplosionBullet":"Spike002Spike",
         "bulletExplosionBulletDistance":13,
+        "bulletExplosionItem":null,
         "destroysEnvironment":null,
         "pushbackStrength":null,
         "pushbackStrengthSelf":null,
@@ -326,6 +337,7 @@
         "type":"Dot",
         "bulletExplosionBullet":null,
         "bulletExplosionBulletDistance":null,
+        "bulletExplosionItem":null,
         "destroysEnvironment":null,
         "pushbackStrength":null,
         "pushbackStrengthSelf":null,
@@ -354,6 +366,7 @@
         "type":"Dot",
         "bulletExplosionBullet":null,
         "bulletExplosionBulletDistance":null,
+        "bulletExplosionItem":null,
         "destroysEnvironment":null,
         "pushbackStrength":null,
         "pushbackStrengthSelf":null,
@@ -382,6 +395,7 @@
         "type":"Dot",
         "bulletExplosionBullet":null,
         "bulletExplosionBulletDistance":null,
+        "bulletExplosionItem":null,
         "destroysEnvironment":null,
         "pushbackStrength":null,
         "pushbackStrengthSelf":null,
@@ -410,6 +424,7 @@
         "type":"Dot",
         "bulletExplosionBullet":null,
         "bulletExplosionBulletDistance":null,
+        "bulletExplosionItem":null,
         "destroysEnvironment":null,
         "pushbackStrength":null,
         "pushbackStrengthSelf":null,
@@ -438,6 +453,7 @@
         "type":"Dot",
         "bulletExplosionBullet":null,
         "bulletExplosionBulletDistance":null,
+        "bulletExplosionItem":null,
         "destroysEnvironment":null,
         "pushbackStrength":null,
         "pushbackStrengthSelf":null,
@@ -446,6 +462,122 @@
         "sameAreaEffectCanNotDamageMs":1000,
         "dontShowToEnemy":null,
         "id":32
+    },
+    {
+        "name":"Barley_004_atk",
+        "fileName":"sc\/effects.sc",
+        "ownExportName":null,
+        "blueExportName":null,
+        "redExportName":null,
+        "layer":"GroundHigh",
+        "exportNameTop":null,
+        "exportNameObject":null,
+        "effect":"barley_004_atk",
+        "loopingEffect":null,
+        "scale":55,
+        "timeMs":1900,
+        "radius":600,
+        "damage":null,
+        "customValue":null,
+        "type":"Dot",
+        "bulletExplosionBullet":null,
+        "bulletExplosionBulletDistance":null,
+        "bulletExplosionItem":null,
+        "destroysEnvironment":null,
+        "pushbackStrength":null,
+        "pushbackStrengthSelf":null,
+        "freezeStrength":null,
+        "shouldShowEvenIfOutsideScreen":null,
+        "sameAreaEffectCanNotDamageMs":null,
+        "dontShowToEnemy":null,
+        "id":33
+    },
+    {
+        "name":"Barley_004_ulti",
+        "fileName":"sc\/effects.sc",
+        "ownExportName":null,
+        "blueExportName":null,
+        "redExportName":null,
+        "layer":"GroundHigh",
+        "exportNameTop":null,
+        "exportNameObject":null,
+        "effect":"barley_def_ulti",
+        "loopingEffect":null,
+        "scale":55,
+        "timeMs":3900,
+        "radius":600,
+        "damage":null,
+        "customValue":null,
+        "type":"Dot",
+        "bulletExplosionBullet":null,
+        "bulletExplosionBulletDistance":null,
+        "bulletExplosionItem":null,
+        "destroysEnvironment":null,
+        "pushbackStrength":null,
+        "pushbackStrengthSelf":null,
+        "freezeStrength":null,
+        "shouldShowEvenIfOutsideScreen":null,
+        "sameAreaEffectCanNotDamageMs":1000,
+        "dontShowToEnemy":null,
+        "id":34
+    },
+    {
+        "name":"Bo_def_ulti1_area",
+        "fileName":"sc\/effects.sc",
+        "ownExportName":null,
+        "blueExportName":null,
+        "redExportName":null,
+        "layer":"GroundHigh",
+        "exportNameTop":null,
+        "exportNameObject":null,
+        "effect":"bo_def_ulti1_explosion",
+        "loopingEffect":null,
+        "scale":70,
+        "timeMs":700,
+        "radius":300,
+        "damage":null,
+        "customValue":null,
+        "type":"Effect",
+        "bulletExplosionBullet":null,
+        "bulletExplosionBulletDistance":null,
+        "bulletExplosionItem":null,
+        "destroysEnvironment":null,
+        "pushbackStrength":null,
+        "pushbackStrengthSelf":null,
+        "freezeStrength":null,
+        "shouldShowEvenIfOutsideScreen":null,
+        "sameAreaEffectCanNotDamageMs":null,
+        "dontShowToEnemy":null,
+        "id":35
+    },
+    {
+        "name":"Bo_def_ulti2_area",
+        "fileName":"sc\/effects.sc",
+        "ownExportName":null,
+        "blueExportName":null,
+        "redExportName":null,
+        "layer":"GroundHigh",
+        "exportNameTop":null,
+        "exportNameObject":null,
+        "effect":"bo_def_ulti2_explosion",
+        "loopingEffect":null,
+        "scale":133,
+        "timeMs":700,
+        "radius":600,
+        "damage":99,
+        "customValue":null,
+        "type":"Damage",
+        "bulletExplosionBullet":null,
+        "bulletExplosionBulletDistance":null,
+        "bulletExplosionItem":null,
+        "destroysEnvironment":true,
+        "pushbackStrength":70,
+        "pushbackStrengthSelf":null,
+        "freezeStrength":null,
+        "shouldShowEvenIfOutsideScreen":null,
+        "sameAreaEffectCanNotDamageMs":null,
+        "dontShowToEnemy":null,
+        "id":36
     },
     {
         "name":"BarkeepExplosion",
@@ -466,6 +598,7 @@
         "type":"Dot",
         "bulletExplosionBullet":null,
         "bulletExplosionBulletDistance":null,
+        "bulletExplosionItem":null,
         "destroysEnvironment":null,
         "pushbackStrength":null,
         "pushbackStrengthSelf":null,
@@ -473,7 +606,7 @@
         "shouldShowEvenIfOutsideScreen":null,
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
-        "id":33
+        "id":37
     },
     {
         "name":"BarkeepWizardExplosion",
@@ -494,6 +627,7 @@
         "type":"Dot",
         "bulletExplosionBullet":null,
         "bulletExplosionBulletDistance":null,
+        "bulletExplosionItem":null,
         "destroysEnvironment":null,
         "pushbackStrength":null,
         "pushbackStrengthSelf":null,
@@ -501,7 +635,7 @@
         "shouldShowEvenIfOutsideScreen":null,
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
-        "id":34
+        "id":38
     },
     {
         "name":"BarkeepUltiExplosion",
@@ -522,6 +656,7 @@
         "type":"Dot",
         "bulletExplosionBullet":null,
         "bulletExplosionBulletDistance":null,
+        "bulletExplosionItem":null,
         "destroysEnvironment":null,
         "pushbackStrength":null,
         "pushbackStrengthSelf":null,
@@ -529,7 +664,7 @@
         "shouldShowEvenIfOutsideScreen":null,
         "sameAreaEffectCanNotDamageMs":1000,
         "dontShowToEnemy":null,
-        "id":35
+        "id":39
     },
     {
         "name":"BarkeepWizardUltiExplosion",
@@ -550,6 +685,7 @@
         "type":"Dot",
         "bulletExplosionBullet":null,
         "bulletExplosionBulletDistance":null,
+        "bulletExplosionItem":null,
         "destroysEnvironment":null,
         "pushbackStrength":null,
         "pushbackStrengthSelf":null,
@@ -557,7 +693,7 @@
         "shouldShowEvenIfOutsideScreen":null,
         "sameAreaEffectCanNotDamageMs":1000,
         "dontShowToEnemy":null,
-        "id":36
+        "id":40
     },
     {
         "name":"ExplodingBarrelExplosion",
@@ -578,6 +714,7 @@
         "type":"Damage",
         "bulletExplosionBullet":null,
         "bulletExplosionBulletDistance":null,
+        "bulletExplosionItem":null,
         "destroysEnvironment":true,
         "pushbackStrength":120,
         "pushbackStrengthSelf":null,
@@ -585,7 +722,7 @@
         "shouldShowEvenIfOutsideScreen":null,
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
-        "id":37
+        "id":41
     },
     {
         "name":"PoisonBarrelExplosion",
@@ -606,6 +743,7 @@
         "type":"Dot",
         "bulletExplosionBullet":null,
         "bulletExplosionBulletDistance":null,
+        "bulletExplosionItem":null,
         "destroysEnvironment":null,
         "pushbackStrength":null,
         "pushbackStrengthSelf":null,
@@ -613,7 +751,7 @@
         "shouldShowEvenIfOutsideScreen":null,
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
-        "id":38
+        "id":42
     },
     {
         "name":"TntDudeExplosion",
@@ -634,6 +772,7 @@
         "type":"Damage",
         "bulletExplosionBullet":null,
         "bulletExplosionBulletDistance":null,
+        "bulletExplosionItem":null,
         "destroysEnvironment":null,
         "pushbackStrength":null,
         "pushbackStrengthSelf":150,
@@ -641,7 +780,7 @@
         "shouldShowEvenIfOutsideScreen":null,
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
-        "id":39
+        "id":43
     },
     {
         "name":"TntDudeUltiExplosion",
@@ -662,6 +801,7 @@
         "type":"Damage",
         "bulletExplosionBullet":null,
         "bulletExplosionBulletDistance":null,
+        "bulletExplosionItem":null,
         "destroysEnvironment":true,
         "pushbackStrength":150,
         "pushbackStrengthSelf":250,
@@ -669,7 +809,7 @@
         "shouldShowEvenIfOutsideScreen":null,
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
-        "id":40
+        "id":44
     },
     {
         "name":"BowDudeExplosion",
@@ -690,6 +830,7 @@
         "type":"Damage",
         "bulletExplosionBullet":null,
         "bulletExplosionBulletDistance":null,
+        "bulletExplosionItem":null,
         "destroysEnvironment":null,
         "pushbackStrength":null,
         "pushbackStrengthSelf":null,
@@ -697,7 +838,7 @@
         "shouldShowEvenIfOutsideScreen":null,
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
-        "id":41
+        "id":45
     },
     {
         "name":"CrowUltiKnifes",
@@ -718,6 +859,7 @@
         "type":"BulletExplosion",
         "bulletExplosionBullet":"CrowUltiProjectile",
         "bulletExplosionBulletDistance":22,
+        "bulletExplosionItem":null,
         "destroysEnvironment":null,
         "pushbackStrength":null,
         "pushbackStrengthSelf":null,
@@ -725,7 +867,7 @@
         "shouldShowEvenIfOutsideScreen":null,
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
-        "id":42
+        "id":46
     },
     {
         "name":"HealingStationHeal",
@@ -746,6 +888,7 @@
         "type":"Hot",
         "bulletExplosionBullet":null,
         "bulletExplosionBulletDistance":null,
+        "bulletExplosionItem":null,
         "destroysEnvironment":null,
         "pushbackStrength":null,
         "pushbackStrengthSelf":null,
@@ -753,7 +896,7 @@
         "shouldShowEvenIfOutsideScreen":null,
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
-        "id":43
+        "id":47
     },
     {
         "name":"Heal",
@@ -774,6 +917,7 @@
         "type":"Heal",
         "bulletExplosionBullet":null,
         "bulletExplosionBulletDistance":null,
+        "bulletExplosionItem":null,
         "destroysEnvironment":null,
         "pushbackStrength":null,
         "pushbackStrengthSelf":null,
@@ -781,7 +925,7 @@
         "shouldShowEvenIfOutsideScreen":null,
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
-        "id":44
+        "id":48
     },
     {
         "name":"MineExplosion",
@@ -802,6 +946,7 @@
         "type":"Damage",
         "bulletExplosionBullet":null,
         "bulletExplosionBulletDistance":null,
+        "bulletExplosionItem":null,
         "destroysEnvironment":true,
         "pushbackStrength":70,
         "pushbackStrengthSelf":null,
@@ -809,7 +954,7 @@
         "shouldShowEvenIfOutsideScreen":null,
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
-        "id":45
+        "id":49
     },
     {
         "name":"SniperBombExplosion",
@@ -830,6 +975,7 @@
         "type":"Damage",
         "bulletExplosionBullet":null,
         "bulletExplosionBulletDistance":null,
+        "bulletExplosionItem":null,
         "destroysEnvironment":true,
         "pushbackStrength":70,
         "pushbackStrengthSelf":null,
@@ -837,7 +983,7 @@
         "shouldShowEvenIfOutsideScreen":null,
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
-        "id":46
+        "id":50
     },
     {
         "name":"BlackHoleUltiExplosion",
@@ -858,6 +1004,7 @@
         "type":"DelayedDamage",
         "bulletExplosionBullet":null,
         "bulletExplosionBulletDistance":null,
+        "bulletExplosionItem":null,
         "destroysEnvironment":true,
         "pushbackStrength":50,
         "pushbackStrengthSelf":null,
@@ -865,7 +1012,7 @@
         "shouldShowEvenIfOutsideScreen":null,
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
-        "id":47
+        "id":51
     },
     {
         "name":"BlackHoleUltiSuck",
@@ -886,6 +1033,7 @@
         "type":"Pushback",
         "bulletExplosionBullet":null,
         "bulletExplosionBulletDistance":null,
+        "bulletExplosionItem":null,
         "destroysEnvironment":null,
         "pushbackStrength":-150,
         "pushbackStrengthSelf":null,
@@ -893,7 +1041,7 @@
         "shouldShowEvenIfOutsideScreen":null,
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
-        "id":48
+        "id":52
     },
     {
         "name":"ArtilleryDudeTurretExplosion",
@@ -914,6 +1062,7 @@
         "type":"Damage",
         "bulletExplosionBullet":null,
         "bulletExplosionBulletDistance":null,
+        "bulletExplosionItem":null,
         "destroysEnvironment":null,
         "pushbackStrength":null,
         "pushbackStrengthSelf":null,
@@ -921,7 +1070,7 @@
         "shouldShowEvenIfOutsideScreen":null,
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
-        "id":49
+        "id":53
     },
     {
         "name":"SelfDestructExplosion",
@@ -942,6 +1091,7 @@
         "type":"Damage",
         "bulletExplosionBullet":null,
         "bulletExplosionBulletDistance":null,
+        "bulletExplosionItem":null,
         "destroysEnvironment":null,
         "pushbackStrength":null,
         "pushbackStrengthSelf":null,
@@ -949,7 +1099,7 @@
         "shouldShowEvenIfOutsideScreen":null,
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
-        "id":50
+        "id":54
     },
     {
         "name":"HealWithAutoAttack",
@@ -970,6 +1120,7 @@
         "type":"Heal",
         "bulletExplosionBullet":null,
         "bulletExplosionBulletDistance":null,
+        "bulletExplosionItem":null,
         "destroysEnvironment":null,
         "pushbackStrength":null,
         "pushbackStrengthSelf":null,
@@ -977,7 +1128,7 @@
         "shouldShowEvenIfOutsideScreen":null,
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
-        "id":51
+        "id":55
     },
     {
         "name":"BurnMainAttack",
@@ -998,6 +1149,7 @@
         "type":"Dot",
         "bulletExplosionBullet":null,
         "bulletExplosionBulletDistance":null,
+        "bulletExplosionItem":null,
         "destroysEnvironment":null,
         "pushbackStrength":null,
         "pushbackStrengthSelf":null,
@@ -1005,7 +1157,7 @@
         "shouldShowEvenIfOutsideScreen":null,
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
-        "id":52
+        "id":56
     },
     {
         "name":"PowerupSpawn",
@@ -1026,6 +1178,7 @@
         "type":"Effect",
         "bulletExplosionBullet":null,
         "bulletExplosionBulletDistance":null,
+        "bulletExplosionItem":null,
         "destroysEnvironment":null,
         "pushbackStrength":null,
         "pushbackStrengthSelf":null,
@@ -1033,7 +1186,7 @@
         "shouldShowEvenIfOutsideScreen":true,
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
-        "id":53
+        "id":57
     },
     {
         "name":"BossSpawn",
@@ -1054,6 +1207,7 @@
         "type":"Effect",
         "bulletExplosionBullet":null,
         "bulletExplosionBulletDistance":null,
+        "bulletExplosionItem":null,
         "destroysEnvironment":null,
         "pushbackStrength":null,
         "pushbackStrengthSelf":null,
@@ -1061,7 +1215,7 @@
         "shouldShowEvenIfOutsideScreen":true,
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
-        "id":54
+        "id":58
     },
     {
         "name":"EventExplosion",
@@ -1076,12 +1230,13 @@
         "loopingEffect":null,
         "scale":185,
         "timeMs":700,
-        "radius":1000,
+        "radius":1200,
         "damage":2000,
         "customValue":null,
         "type":"Damage",
         "bulletExplosionBullet":null,
         "bulletExplosionBulletDistance":null,
+        "bulletExplosionItem":null,
         "destroysEnvironment":true,
         "pushbackStrength":150,
         "pushbackStrengthSelf":250,
@@ -1089,7 +1244,7 @@
         "shouldShowEvenIfOutsideScreen":null,
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
-        "id":55
+        "id":59
     },
     {
         "name":"ExplosionSpawn",
@@ -1102,7 +1257,7 @@
         "exportNameObject":null,
         "effect":"meteor_warning",
         "loopingEffect":null,
-        "scale":105,
+        "scale":126,
         "timeMs":2500,
         "radius":800,
         "damage":null,
@@ -1110,6 +1265,7 @@
         "type":"Effect",
         "bulletExplosionBullet":null,
         "bulletExplosionBulletDistance":null,
+        "bulletExplosionItem":null,
         "destroysEnvironment":null,
         "pushbackStrength":null,
         "pushbackStrengthSelf":null,
@@ -1117,7 +1273,7 @@
         "shouldShowEvenIfOutsideScreen":true,
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
-        "id":56
+        "id":60
     },
     {
         "name":"ClusterBombExplosion",
@@ -1132,12 +1288,13 @@
         "loopingEffect":null,
         "scale":100,
         "timeMs":700,
-        "radius":300,
+        "radius":1000,
         "damage":null,
-        "customValue":6,
+        "customValue":3,
         "type":"BulletExplosion",
-        "bulletExplosionBullet":"ClusterBombProjectile2",
-        "bulletExplosionBulletDistance":12,
+        "bulletExplosionBullet":null,
+        "bulletExplosionBulletDistance":6,
+        "bulletExplosionItem":"ClusterMine",
         "destroysEnvironment":null,
         "pushbackStrength":null,
         "pushbackStrengthSelf":null,
@@ -1145,35 +1302,36 @@
         "shouldShowEvenIfOutsideScreen":null,
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
-        "id":57
+        "id":61
     },
     {
         "name":"ClusterBombExplosion2",
         "fileName":"sc\/effects.sc",
-        "ownExportName":"range450_blue",
-        "blueExportName":"range450_blue",
-        "redExportName":"range450_red",
+        "ownExportName":null,
+        "blueExportName":null,
+        "redExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
         "exportNameObject":null,
-        "effect":"explosion_tnt_dude",
+        "effect":"bo_def_ulti2_explosion",
         "loopingEffect":null,
-        "scale":100,
+        "scale":133,
         "timeMs":700,
-        "radius":450,
-        "damage":null,
+        "radius":600,
+        "damage":99,
         "customValue":null,
         "type":"Damage",
         "bulletExplosionBullet":null,
         "bulletExplosionBulletDistance":null,
-        "destroysEnvironment":true,
+        "bulletExplosionItem":null,
+        "destroysEnvironment":null,
         "pushbackStrength":null,
         "pushbackStrengthSelf":null,
         "freezeStrength":null,
         "shouldShowEvenIfOutsideScreen":null,
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
-        "id":58
+        "id":62
     },
     {
         "name":"SmokeScreen",
@@ -1194,6 +1352,7 @@
         "type":"SmokeScreen",
         "bulletExplosionBullet":null,
         "bulletExplosionBulletDistance":null,
+        "bulletExplosionItem":null,
         "destroysEnvironment":null,
         "pushbackStrength":null,
         "pushbackStrengthSelf":null,
@@ -1201,7 +1360,7 @@
         "shouldShowEvenIfOutsideScreen":null,
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
-        "id":59
+        "id":63
     },
     {
         "name":"EventHealing",
@@ -1222,6 +1381,7 @@
         "type":"Hot",
         "bulletExplosionBullet":null,
         "bulletExplosionBulletDistance":null,
+        "bulletExplosionItem":null,
         "destroysEnvironment":null,
         "pushbackStrength":null,
         "pushbackStrengthSelf":null,
@@ -1229,7 +1389,7 @@
         "shouldShowEvenIfOutsideScreen":null,
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
-        "id":60
+        "id":64
     },
     {
         "name":"HealingSpawn",
@@ -1250,6 +1410,7 @@
         "type":"Effect",
         "bulletExplosionBullet":null,
         "bulletExplosionBulletDistance":null,
+        "bulletExplosionItem":null,
         "destroysEnvironment":null,
         "pushbackStrength":null,
         "pushbackStrengthSelf":null,
@@ -1257,7 +1418,7 @@
         "shouldShowEvenIfOutsideScreen":null,
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
-        "id":61
+        "id":65
     },
     {
         "name":"RaidBossExplosion",
@@ -1278,6 +1439,7 @@
         "type":"Damage",
         "bulletExplosionBullet":null,
         "bulletExplosionBulletDistance":null,
+        "bulletExplosionItem":null,
         "destroysEnvironment":true,
         "pushbackStrength":150,
         "pushbackStrengthSelf":250,
@@ -1285,7 +1447,7 @@
         "shouldShowEvenIfOutsideScreen":null,
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
-        "id":62
+        "id":66
     },
     {
         "name":"RaidBossExplosionSpawn",
@@ -1306,6 +1468,7 @@
         "type":"Effect",
         "bulletExplosionBullet":null,
         "bulletExplosionBulletDistance":null,
+        "bulletExplosionItem":null,
         "destroysEnvironment":null,
         "pushbackStrength":null,
         "pushbackStrengthSelf":null,
@@ -1313,7 +1476,7 @@
         "shouldShowEvenIfOutsideScreen":true,
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
-        "id":63
+        "id":67
     },
     {
         "name":"RaidBossRocketBurn",
@@ -1334,6 +1497,7 @@
         "type":"Dot",
         "bulletExplosionBullet":null,
         "bulletExplosionBulletDistance":null,
+        "bulletExplosionItem":null,
         "destroysEnvironment":null,
         "pushbackStrength":null,
         "pushbackStrengthSelf":null,
@@ -1341,7 +1505,7 @@
         "shouldShowEvenIfOutsideScreen":true,
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
-        "id":64
+        "id":68
     },
     {
         "name":"HeroSpawn",
@@ -1362,6 +1526,7 @@
         "type":"HeroSpawn",
         "bulletExplosionBullet":null,
         "bulletExplosionBulletDistance":null,
+        "bulletExplosionItem":null,
         "destroysEnvironment":null,
         "pushbackStrength":null,
         "pushbackStrengthSelf":null,
@@ -1369,7 +1534,7 @@
         "shouldShowEvenIfOutsideScreen":null,
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
-        "id":65
+        "id":69
     },
     {
         "name":"AutoHeal",
@@ -1390,6 +1555,7 @@
         "type":"Heal",
         "bulletExplosionBullet":null,
         "bulletExplosionBulletDistance":null,
+        "bulletExplosionItem":null,
         "destroysEnvironment":null,
         "pushbackStrength":null,
         "pushbackStrengthSelf":null,
@@ -1397,7 +1563,7 @@
         "shouldShowEvenIfOutsideScreen":null,
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":true,
-        "id":66
+        "id":70
     },
     {
         "name":"RoboWarsBoxSpawn",
@@ -1418,6 +1584,7 @@
         "type":"Effect",
         "bulletExplosionBullet":null,
         "bulletExplosionBulletDistance":null,
+        "bulletExplosionItem":null,
         "destroysEnvironment":null,
         "pushbackStrength":null,
         "pushbackStrengthSelf":null,
@@ -1425,7 +1592,7 @@
         "shouldShowEvenIfOutsideScreen":null,
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
-        "id":67
+        "id":71
     },
     {
         "name":"RoboWarsBaseExplosion",
@@ -1446,6 +1613,7 @@
         "type":"Damage",
         "bulletExplosionBullet":null,
         "bulletExplosionBulletDistance":null,
+        "bulletExplosionItem":null,
         "destroysEnvironment":null,
         "pushbackStrength":null,
         "pushbackStrengthSelf":null,
@@ -1453,7 +1621,7 @@
         "shouldShowEvenIfOutsideScreen":null,
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
-        "id":68
+        "id":72
     },
     {
         "name":"RoboWarsBaseAreaIndicator",
@@ -1474,6 +1642,7 @@
         "type":"Effect",
         "bulletExplosionBullet":null,
         "bulletExplosionBulletDistance":null,
+        "bulletExplosionItem":null,
         "destroysEnvironment":null,
         "pushbackStrength":null,
         "pushbackStrengthSelf":null,
@@ -1481,6 +1650,35 @@
         "shouldShowEvenIfOutsideScreen":null,
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
-        "id":69
+        "id":73
+    },
+    {
+        "name":"ClusterBombPetExplosion",
+        "fileName":"sc\/effects.sc",
+        "ownExportName":null,
+        "blueExportName":null,
+        "redExportName":null,
+        "layer":"GroundHigh",
+        "exportNameTop":null,
+        "exportNameObject":null,
+        "effect":"bo_def_ulti2_explosion",
+        "loopingEffect":null,
+        "scale":133,
+        "timeMs":700,
+        "radius":600,
+        "damage":99,
+        "customValue":null,
+        "type":"Damage",
+        "bulletExplosionBullet":null,
+        "bulletExplosionBulletDistance":null,
+        "bulletExplosionItem":null,
+        "destroysEnvironment":true,
+        "pushbackStrength":120,
+        "pushbackStrengthSelf":null,
+        "freezeStrength":null,
+        "shouldShowEvenIfOutsideScreen":null,
+        "sameAreaEffectCanNotDamageMs":null,
+        "dontShowToEnemy":null,
+        "id":74
     }
 ]

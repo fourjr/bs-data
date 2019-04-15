@@ -42,5 +42,27 @@
         "particleVariations":null,
         "themeMusic":"Brawl_royale_menu_music",
         "useInLevelSelection":true
+    },
+    {
+        "name":"Easter",
+        "fileName":"sc\/background_basic.sc",
+        "exportName":"bgr",
+        "particleFileName":null,
+        "particleExportName":null,
+        "particleStyle":null,
+        "particleVariations":null,
+        "themeMusic":"MenuMusic",
+        "useInLevelSelection":true
+    },
+    {
+        "name":"GoldenWeek",
+        "fileName":"sc\/background_golden_week.sc",
+        "exportName":"bgr_golden_week",
+        "particleFileName":null,
+        "particleExportName":null,
+        "particleStyle":null,
+        "particleVariations":null,
+        "themeMusic":"Brawl_dawgs_menu",
+        "useInLevelSelection":true
     }
 ]

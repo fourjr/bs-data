@@ -3682,12 +3682,22 @@
     {
         "name":"LINE_ENABLED",
         "numberValue":null,
-        "booleanValue":false,
+        "booleanValue":true,
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
         "altStringArray":null,
         "id":377
+    },
+    {
+        "name":"SELFHELP_ENABLED",
+        "numberValue":null,
+        "booleanValue":false,
+        "textValue":null,
+        "numberArray":null,
+        "stringArray":null,
+        "altStringArray":null,
+        "id":378
     },
     {
         "name":"NEW_HERO_CHANCE",
@@ -3697,7 +3707,7 @@
         "numberArray":null,
         "stringArray":null,
         "altStringArray":null,
-        "id":378
+        "id":379
     },
     {
         "name":"ONLINE_MENU_WAIT_BEFORE_UPDATE_SECS",
@@ -3707,7 +3717,7 @@
         "numberArray":null,
         "stringArray":null,
         "altStringArray":null,
-        "id":379
+        "id":380
     },
     {
         "name":"ONLINE_MENU_AUTO_CLOSE_TIME_SECS",
@@ -3717,7 +3727,7 @@
         "numberArray":null,
         "stringArray":null,
         "altStringArray":null,
-        "id":380
+        "id":381
     },
     {
         "name":"ONLINE_MENU_NEW_ITEM_THROTTLE_SECS",
@@ -3727,7 +3737,7 @@
         "numberArray":null,
         "stringArray":null,
         "altStringArray":null,
-        "id":381
+        "id":382
     },
     {
         "name":"AUTO_OPEN_TEAM_LOOT_BAR",
@@ -3737,7 +3747,7 @@
         "numberArray":null,
         "stringArray":null,
         "altStringArray":null,
-        "id":382
+        "id":383
     },
     {
         "name":"GAME_MODE_VARIATION_COLORS",
@@ -3747,7 +3757,7 @@
         "numberArray":0,
         "stringArray":"0xffd852ff",
         "altStringArray":"Gem Grab",
-        "id":383
+        "id":384
     },
     {
         "name":null,
@@ -3757,7 +3767,7 @@
         "numberArray":2,
         "stringArray":"0xffd852ff",
         "altStringArray":"Heist",
-        "id":384
+        "id":385
     },
     {
         "name":null,
@@ -3767,7 +3777,7 @@
         "numberArray":3,
         "stringArray":"0xff24d6ff",
         "altStringArray":"Bounty",
-        "id":385
+        "id":386
     },
     {
         "name":null,
@@ -3777,7 +3787,7 @@
         "numberArray":6,
         "stringArray":"0xff91e136",
         "altStringArray":"Solo SD",
-        "id":386
+        "id":387
     },
     {
         "name":null,
@@ -3787,7 +3797,7 @@
         "numberArray":5,
         "stringArray":"0xff9ab1fd",
         "altStringArray":"Brawl Ball",
-        "id":387
+        "id":388
     },
     {
         "name":null,
@@ -3797,7 +3807,7 @@
         "numberArray":7,
         "stringArray":"0xffff6847",
         "altStringArray":"Boss Fight",
-        "id":388
+        "id":389
     },
     {
         "name":null,
@@ -3807,7 +3817,7 @@
         "numberArray":8,
         "stringArray":"0xffff6847",
         "altStringArray":"Robo Bumble",
-        "id":389
+        "id":390
     },
     {
         "name":null,
@@ -3817,7 +3827,7 @@
         "numberArray":9,
         "stringArray":"0xff91e136",
         "altStringArray":"Duo SD",
-        "id":390
+        "id":391
     },
     {
         "name":null,
@@ -3827,7 +3837,7 @@
         "numberArray":10,
         "stringArray":"0xffff6847",
         "altStringArray":"Raid Boss",
-        "id":391
+        "id":392
     },
     {
         "name":null,
@@ -3837,7 +3847,7 @@
         "numberArray":11,
         "stringArray":"0xffff6847",
         "altStringArray":"Robo Wars",
-        "id":392
+        "id":393
     },
     {
         "name":"DEFAULT_FONT_COLORS",
@@ -3847,7 +3857,7 @@
         "numberArray":null,
         "stringArray":"0xff4d4848",
         "altStringArray":null,
-        "id":393
+        "id":394
     },
     {
         "name":null,
@@ -3857,7 +3867,7 @@
         "numberArray":null,
         "stringArray":"0xffe1e1e1",
         "altStringArray":null,
-        "id":394
+        "id":395
     },
     {
         "name":null,
@@ -3867,7 +3877,7 @@
         "numberArray":null,
         "stringArray":"0xfffd8067",
         "altStringArray":null,
-        "id":395
+        "id":396
     },
     {
         "name":null,
@@ -3877,7 +3887,7 @@
         "numberArray":null,
         "stringArray":"0xff9aee2d",
         "altStringArray":null,
-        "id":396
+        "id":397
     },
     {
         "name":null,
@@ -3887,7 +3897,7 @@
         "numberArray":null,
         "stringArray":"0xff2766cf",
         "altStringArray":null,
-        "id":397
+        "id":398
     },
     {
         "name":null,
@@ -3897,7 +3907,7 @@
         "numberArray":null,
         "stringArray":"0xff61def1",
         "altStringArray":null,
-        "id":398
+        "id":399
     },
     {
         "name":null,
@@ -3907,7 +3917,7 @@
         "numberArray":null,
         "stringArray":"0xfff871f8",
         "altStringArray":null,
-        "id":399
+        "id":400
     },
     {
         "name":null,
@@ -3917,7 +3927,7 @@
         "numberArray":null,
         "stringArray":"0xffffd156",
         "altStringArray":null,
-        "id":400
+        "id":401
     },
     {
         "name":null,
@@ -3927,7 +3937,7 @@
         "numberArray":null,
         "stringArray":"0xffd16eff",
         "altStringArray":null,
-        "id":401
+        "id":402
     },
     {
         "name":null,
@@ -3937,6 +3947,16 @@
         "numberArray":null,
         "stringArray":"0xfffe6a71",
         "altStringArray":null,
-        "id":402
+        "id":403
+    },
+    {
+        "name":"COLOR_YOU",
+        "numberValue":null,
+        "booleanValue":null,
+        "textValue":"0xff00ff00",
+        "numberArray":null,
+        "stringArray":null,
+        "altStringArray":null,
+        "id":404
     }
 ]

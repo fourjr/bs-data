@@ -1,0 +1,442 @@
+[
+    {
+        "name":1,
+        "tID":"STUKNIJ <ccc0033>czerwony przycisk<\/c>, aby u\u017cy\u0107 SZYBKIEGO STRZA\u0141U w kierunku najbli\u017cszego wroga.",
+        "minXPLevel":1,
+        "maxXPLevel":40,
+        "fileName":null,
+        "exportName":null,
+        "character":null,
+        "rawTID":"HINT_0"
+    },
+    {
+        "name":2,
+        "tID":"STUKNIJ <cff9900>\u017c\u00f3\u0142ty przycisk<\/c>, aby u\u017cy\u0107 SZYBKIEGO STRZA\u0141U w ramach superataku na najbli\u017cszego wroga.",
+        "minXPLevel":1,
+        "maxXPLevel":40,
+        "fileName":null,
+        "exportName":null,
+        "character":null,
+        "rawTID":"HINT_1"
+    },
+    {
+        "name":3,
+        "tID":"PRZECI\u0104GNIJ <ccc0033>czerwony przycisk<\/c>, \u017ceby WYCELOWA\u0106 strza\u0142.",
+        "minXPLevel":1,
+        "maxXPLevel":40,
+        "fileName":null,
+        "exportName":null,
+        "character":null,
+        "rawTID":"HINT_2"
+    },
+    {
+        "name":4,
+        "tID":"PRZECI\u0104GNIJ <cff9900>\u017c\u00f3\u0142ty przycisk<\/c>, \u017ceby WYCELOWA\u0106 superatak.",
+        "minXPLevel":1,
+        "maxXPLevel":40,
+        "fileName":null,
+        "exportName":null,
+        "character":null,
+        "rawTID":"HINT_3"
+    },
+    {
+        "name":5,
+        "tID":"Mo\u017cesz anulowa\u0107 wycelowany strza\u0142, przeci\u0105gaj\u0105c przycisk z powrotem do \u015brodkowego po\u0142o\u017cenia.",
+        "minXPLevel":1,
+        "maxXPLevel":40,
+        "fileName":null,
+        "exportName":null,
+        "character":null,
+        "rawTID":"HINT_4"
+    },
+    {
+        "name":6,
+        "tID":"\u0141\u0105czenie graczy jest oparte na pucharach Zadymiarza, kt\u00f3rego wybra\u0142 gracz, dzi\u0119ki czemu nowo odblokowanemu Zadymiarzowi \u0142atwo zdobywa\u0107 nowe puchary.",
+        "minXPLevel":3,
+        "maxXPLevel":999,
+        "fileName":null,
+        "exportName":null,
+        "character":null,
+        "rawTID":"HINT_5"
+    },
+    {
+        "name":7,
+        "tID":"Aby szybciej awansowa\u0107 w rankingu pucharowym i otrzymywa\u0107 wi\u0119cej nagr\u00f3d, wystarczy zdobywa\u0107 kolejnych Zadymiarzy.",
+        "minXPLevel":3,
+        "maxXPLevel":999,
+        "fileName":null,
+        "exportName":null,
+        "character":null,
+        "rawTID":"HINT_6"
+    },
+    {
+        "name":8,
+        "tID":"Strza\u0142y Piper zadaj\u0105 tym wi\u0119ksze obra\u017cenia, im dalej lec\u0105.",
+        "minXPLevel":20,
+        "maxXPLevel":999,
+        "fileName":null,
+        "exportName":null,
+        "character":null,
+        "rawTID":"HINT_7"
+    },
+    {
+        "name":9,
+        "tID":"Superatak Barleya jest wyj\u0105tkowo pot\u0119\u017cny z bliskiej odleg\u0142o\u015bci, poniewa\u017c butelki l\u0105duj\u0105 na niewielkim obszarze.",
+        "minXPLevel":999,
+        "maxXPLevel":999,
+        "fileName":null,
+        "exportName":null,
+        "character":null,
+        "rawTID":"HINT_8"
+    },
+    {
+        "name":10,
+        "tID":"Za ka\u017cdym razem gdy kule Rico odbijaj\u0105 si\u0119, nabieraj\u0105 wi\u0119kszej szybko\u015bci.",
+        "minXPLevel":20,
+        "maxXPLevel":999,
+        "fileName":null,
+        "exportName":null,
+        "character":null,
+        "rawTID":"HINT_9"
+    },
+    {
+        "name":11,
+        "tID":"Aby wystrzeli\u0107, aktywuj <ccc0033>czerwony przycisk<\/c> w dowolnym miejscu z prawej strony ekranu.",
+        "minXPLevel":1,
+        "maxXPLevel":40,
+        "fileName":null,
+        "exportName":null,
+        "character":null,
+        "rawTID":"HINT_10"
+    },
+    {
+        "name":12,
+        "tID":"Zar\u00f3wno atak g\u0142\u00f3wny, jak i superatak twojego Zadymiarza maj\u0105 dwa tryby strza\u0142u: STUKNIJ, aby u\u017cy\u0107 SZYBKIEGO STRZA\u0141U i PRZECI\u0104GNIJ, aby WYCELOWA\u0106.",
+        "minXPLevel":1,
+        "maxXPLevel":40,
+        "fileName":null,
+        "exportName":null,
+        "character":null,
+        "rawTID":"HINT_11"
+    },
+    {
+        "name":13,
+        "tID":"Celowane strza\u0142y przydaj\u0105 si\u0119, je\u015bli chcemy trafi\u0107 w ruchomy cel.",
+        "minXPLevel":3,
+        "maxXPLevel":60,
+        "fileName":null,
+        "exportName":null,
+        "character":null,
+        "rawTID":"HINT_12"
+    },
+    {
+        "name":14,
+        "tID":"SZYBKI STRZA\u0141 najlepiej sprawdza si\u0119 w dynamicznych akcjach, gdy nie masz czasu na celowanie.",
+        "minXPLevel":3,
+        "maxXPLevel":60,
+        "fileName":null,
+        "exportName":null,
+        "character":null,
+        "rawTID":"HINT_13"
+    },
+    {
+        "name":15,
+        "tID":"SZYBKI STRZA\u0141 dzia\u0142a najlepiej na wrog\u00f3w znajduj\u0105cych si\u0119 blisko.",
+        "minXPLevel":3,
+        "maxXPLevel":60,
+        "fileName":null,
+        "exportName":null,
+        "character":null,
+        "rawTID":"HINT_14"
+    },
+    {
+        "name":16,
+        "tID":"Je\u015bli ukrywasz si\u0119 w g\u0105szczu, wrogowie mog\u0105 nadal ci\u0119 zobaczy\u0107, je\u015bli tylko podejd\u0105 wystarczaj\u0105co blisko.",
+        "minXPLevel":3,
+        "maxXPLevel":60,
+        "fileName":null,
+        "exportName":null,
+        "character":null,
+        "rawTID":"HINT_15"
+    },
+    {
+        "name":17,
+        "tID":"SZYBKI STRZA\u0141 leci w kierunku najbli\u017cszego wroga, a jego ruchy nie s\u0105 brane pod uwag\u0119.",
+        "minXPLevel":3,
+        "maxXPLevel":60,
+        "fileName":null,
+        "exportName":null,
+        "character":null,
+        "rawTID":"HINT_16"
+    },
+    {
+        "name":18,
+        "tID":"Dobrze jest strzela\u0107 w g\u0105szcz, aby sprawdzi\u0107, czy nie ukrywaj\u0105 si\u0119 tam wrogowie.",
+        "minXPLevel":3,
+        "maxXPLevel":60,
+        "fileName":null,
+        "exportName":null,
+        "character":null,
+        "rawTID":"HINT_17"
+    },
+    {
+        "name":19,
+        "tID":"SZYBKI STRZA\u0141 dobrze si\u0119 sprawdza w przypadku wrog\u00f3w stoj\u0105cych w miejscu.",
+        "minXPLevel":3,
+        "maxXPLevel":60,
+        "fileName":null,
+        "exportName":null,
+        "character":null,
+        "rawTID":"HINT_18"
+    },
+    {
+        "name":20,
+        "tID":"SZYBKI STRZA\u0141 dzia\u0142a dobrze na wrog\u00f3w, kt\u00f3rzy poruszaj\u0105 si\u0119 w twoim kierunku lub w przeciwnym.",
+        "minXPLevel":3,
+        "maxXPLevel":60,
+        "fileName":null,
+        "exportName":null,
+        "character":null,
+        "rawTID":"HINT_19"
+    },
+    {
+        "name":21,
+        "tID":"Kiedy ukrywasz si\u0119 w g\u0105szczu, wrogowie mog\u0105 ci\u0119 zobaczy\u0107, je\u015bli ich zaatakujesz albo odniesiesz obra\u017cenia.",
+        "minXPLevel":3,
+        "maxXPLevel":60,
+        "fileName":null,
+        "exportName":null,
+        "character":null,
+        "rawTID":"HINT_20"
+    },
+    {
+        "name":22,
+        "tID":"Aby ukry\u0107 si\u0119 przed wrogami, mo\u017cesz schowa\u0107 si\u0119 w g\u0105szczu.",
+        "minXPLevel":1,
+        "maxXPLevel":40,
+        "fileName":null,
+        "exportName":null,
+        "character":null,
+        "rawTID":"HINT_21"
+    },
+    {
+        "name":23,
+        "tID":"Gdy u\u017cywasz SZYBKIEGO STRZA\u0141U, Twoja bro\u0144 wystrzeli, nawet je\u015bli nie ma w zasi\u0119gu \u017cadnych wrog\u00f3w.",
+        "minXPLevel":1,
+        "maxXPLevel":40,
+        "fileName":null,
+        "exportName":null,
+        "character":null,
+        "rawTID":"HINT_22"
+    },
+    {
+        "name":24,
+        "tID":"W zale\u017cno\u015bci od specyfiki mapy i wydarzenia, niekt\u00f3rzy Zadymiarze sprawdz\u0105 si\u0119 lepiej od pozosta\u0142ych.",
+        "minXPLevel":3,
+        "maxXPLevel":60,
+        "fileName":null,
+        "exportName":null,
+        "character":null,
+        "rawTID":"HINT_23"
+    },
+    {
+        "name":25,
+        "tID":"Postaci dysponuj\u0105ce atakami o dalekim zasi\u0119gu z regu\u0142y lepiej sobie radz\u0105 na otwartych mapach.",
+        "minXPLevel":3,
+        "maxXPLevel":60,
+        "fileName":null,
+        "exportName":null,
+        "character":null,
+        "rawTID":"HINT_24"
+    },
+    {
+        "name":26,
+        "tID":"Natomiast walcz\u0105cy w bliskiej odleg\u0142o\u015bci najlepiej sprawdz\u0105 si\u0119 na mapach z wi\u0119ksz\u0105 ilo\u015bci\u0105 os\u0142on i g\u0105szczy.",
+        "minXPLevel":3,
+        "maxXPLevel":60,
+        "fileName":null,
+        "exportName":null,
+        "character":null,
+        "rawTID":"HINT_25"
+    },
+    {
+        "name":27,
+        "tID":"Penny mo\u017ce zada\u0107 du\u017ce obra\u017cenia swoim atakiem obszarowym, je\u015bli jej cele ustawi\u0105 si\u0119 w rz\u0119dzie.",
+        "minXPLevel":20,
+        "maxXPLevel":999,
+        "fileName":null,
+        "exportName":null,
+        "character":null,
+        "rawTID":"HINT_26"
+    },
+    {
+        "name":28,
+        "tID":"Zebranie dru\u017cyny przed rozgrywk\u0105 umo\u017cliwi zaplanowanie dzia\u0142a\u0144 i wybranie dobrej kombinacji Zadymiarzy.",
+        "minXPLevel":3,
+        "maxXPLevel":999,
+        "fileName":null,
+        "exportName":null,
+        "character":null,
+        "rawTID":"HINT_27"
+    },
+    {
+        "name":29,
+        "tID":"Spr\u00f3buj zagra\u0107 w gry dla znajomych, aby \u0107wiczy\u0107 przed konkretnymi wydarzeniami, organizowa\u0107 konkursy dla znajomych itp.",
+        "minXPLevel":3,
+        "maxXPLevel":999,
+        "fileName":null,
+        "exportName":null,
+        "character":null,
+        "rawTID":"HINT_28"
+    },
+    {
+        "name":30,
+        "tID":"Po udanej rozgrywce z nowymi cz\u0142onkami dru\u017cyny mo\u017cesz nacisn\u0105\u0107 przycisk Zagraj ponownie, aby zagra\u0107 z nimi jeszcze raz.",
+        "minXPLevel":3,
+        "maxXPLevel":60,
+        "fileName":null,
+        "exportName":null,
+        "character":null,
+        "rawTID":"HINT_29"
+    },
+    {
+        "name":31,
+        "tID":"W grach dla znajomych mo\u017cna wybiera\u0107 dowolne wydarzenia i mapy, a Zadymiarze b\u0119d\u0105 w pe\u0142ni rozwini\u0119ci!",
+        "minXPLevel":3,
+        "maxXPLevel":999,
+        "fileName":null,
+        "exportName":null,
+        "character":null,
+        "rawTID":"HINT_30"
+    },
+    {
+        "name":32,
+        "tID":"Frank przestaje atakowa\u0107 i wykonywa\u0107 superatak, daj\u0105c przeciwnikom mo\u017cliwo\u015b\u0107 wycofania si\u0119 poza jego zasi\u0119g.",
+        "minXPLevel":20,
+        "maxXPLevel":999,
+        "fileName":null,
+        "exportName":null,
+        "character":null,
+        "rawTID":"HINT_31"
+    },
+    {
+        "name":33,
+        "tID":"Wydarzenia biletowane nie zu\u017cywaj\u0105 paska \u017ceton\u00f3w. Zamiast tego potrzebne s\u0105 na nie bilety.",
+        "minXPLevel":3,
+        "maxXPLevel":60,
+        "fileName":null,
+        "exportName":null,
+        "character":null,
+        "rawTID":"HINT_32"
+    },
+    {
+        "name":34,
+        "tID":"Korzystaj\u0105c z listy cz\u0142onk\u00f3w klubu, mo\u017cesz zaprosi\u0107 wybrane osoby do grona swoich znajomych.",
+        "minXPLevel":3,
+        "maxXPLevel":999,
+        "fileName":null,
+        "exportName":null,
+        "character":null,
+        "rawTID":"HINT_33"
+    },
+    {
+        "name":35,
+        "tID":"Do grona znajomych mo\u017cesz zaprosi\u0107 osoby ze swojej dru\u017cyny.",
+        "minXPLevel":3,
+        "maxXPLevel":999,
+        "fileName":null,
+        "exportName":null,
+        "character":null,
+        "rawTID":"HINT_34"
+    },
+    {
+        "name":36,
+        "tID":"Po kilku udanych grach z dan\u0105 osob\u0105 mo\u017cesz zaprosi\u0107 j\u0105 do znajomych z listy sugerowanych znajomych.",
+        "minXPLevel":3,
+        "maxXPLevel":999,
+        "fileName":null,
+        "exportName":null,
+        "character":null,
+        "rawTID":"HINT_35"
+    },
+    {
+        "name":37,
+        "tID":"Do grona znajomych mo\u017cesz zaprosi\u0107 osoby ze swojej dru\u017cyny.",
+        "minXPLevel":3,
+        "maxXPLevel":999,
+        "fileName":null,
+        "exportName":null,
+        "character":null,
+        "rawTID":"HINT_36"
+    },
+    {
+        "name":38,
+        "tID":"Mo\u017cesz u\u017cy\u0107 przycisku og\u0142oszenia, \u017ceby zareklamowa\u0107 swoj\u0105 dru\u017cyn\u0119 znajomym i cz\u0142onkom klubu.",
+        "minXPLevel":999,
+        "maxXPLevel":999,
+        "fileName":null,
+        "exportName":null,
+        "character":null,
+        "rawTID":"HINT_37"
+    },
+    {
+        "name":39,
+        "tID":"Obracaj\u0105cy si\u0119 niebieski okr\u0105g pod Zadymiarzem oznacza, \u017ce jego superatak jest gotowy.",
+        "minXPLevel":7,
+        "maxXPLevel":999,
+        "fileName":null,
+        "exportName":null,
+        "character":null,
+        "rawTID":"HINT_38"
+    },
+    {
+        "name":40,
+        "tID":"Obracaj\u0105cy si\u0119 \u017c\u00f3\u0142ty okr\u0105g pod Zadymiarzem oznacza, \u017ce obecnie pr\u00f3buje wycelowa\u0107 sw\u00f3j superatak.",
+        "minXPLevel":7,
+        "maxXPLevel":999,
+        "fileName":null,
+        "exportName":null,
+        "character":null,
+        "rawTID":"HINT_39"
+    },
+    {
+        "name":41,
+        "tID":"Po\u0142\u0105cz konto z identyfikatorem Supercell na ekranie ustawie\u0144, aby zapewni\u0107 bezpiecze\u0144stwo konta i gra\u0107 na r\u00f3\u017cnych urz\u0105dzeniach. W nagrod\u0119 otrzymasz tak\u017ce darmowe przebranie!",
+        "minXPLevel":3,
+        "maxXPLevel":999,
+        "fileName":null,
+        "exportName":null,
+        "character":null,
+        "rawTID":"HINT_40"
+    },
+    {
+        "name":42,
+        "tID":"Liczba wszystkich puchar\u00f3w jest sum\u0105 puchar\u00f3w zdobytych przez twoich Zadymiarzy.",
+        "minXPLevel":7,
+        "maxXPLevel":999,
+        "fileName":null,
+        "exportName":null,
+        "character":null,
+        "rawTID":"HINT_41"
+    },
+    {
+        "name":43,
+        "tID":"Gdy Zadymiarz nie atakuje ani nie odnosi przez pewien czas obra\u017ce\u0144, zaczyna si\u0119 leczy\u0107.",
+        "minXPLevel":1,
+        "maxXPLevel":40,
+        "fileName":null,
+        "exportName":null,
+        "character":null,
+        "rawTID":"HINT_42"
+    },
+    {
+        "name":44,
+        "tID":"Gdy kilof Carla napotyka przeszkod\u0119, odbija si\u0119 i wraca do w\u0142a\u015bciciela. Carl mo\u017ce teraz rzuci\u0107 nim ponownie z wi\u0119ksz\u0105 pr\u0119dko\u015bci\u0105.",
+        "minXPLevel":20,
+        "maxXPLevel":999,
+        "fileName":null,
+        "exportName":null,
+        "character":null,
+        "rawTID":"HINT_43"
+    }
+]

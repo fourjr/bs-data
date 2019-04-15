@@ -1,26 +1,5 @@
 [
     {
-        "name":"Laser_loading_jingle",
-        "fileNames":"sfx\/laser_load_02.ogg",
-        "minVolume":40,
-        "maxVolume":40,
-        "minPitch":200,
-        "maxPitch":200,
-        "priority":1,
-        "maximumByType":1,
-        "maxRepeatMs":4000,
-        "loop":null,
-        "playVariationsInSequence":null,
-        "playVariationsInSequenceManualReset":null,
-        "startDelayMinMs":null,
-        "startDelayMaxMs":null,
-        "playOnlyWhenInView":null,
-        "maxVolumeScaleLimit":null,
-        "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":4
-    },
-    {
         "name":"ButtonClick2",
         "fileNames":"sfx\/menu_click_08.ogg",
         "minVolume":60,
@@ -39,7 +18,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":5
+        "id":4
     },
     {
         "name":"Menu_goback",
@@ -60,7 +39,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":6
+        "id":5
     },
     {
         "name":"Menu_dismiss",
@@ -81,7 +60,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":7
+        "id":6
     },
     {
         "name":"LaserShot01",
@@ -102,7 +81,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":8
+        "id":7
     },
     {
         "name":"Orb_spawn",
@@ -123,28 +102,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":9
-    },
-    {
-        "name":"Orb_land",
-        "fileNames":"sfx\/pickup_land_01.ogg",
-        "minVolume":40,
-        "maxVolume":40,
-        "minPitch":100,
-        "maxPitch":100,
-        "priority":1,
-        "maximumByType":4,
-        "maxRepeatMs":null,
-        "loop":null,
-        "playVariationsInSequence":null,
-        "playVariationsInSequenceManualReset":null,
-        "startDelayMinMs":null,
-        "startDelayMaxMs":null,
-        "playOnlyWhenInView":null,
-        "maxVolumeScaleLimit":null,
-        "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":10
+        "id":8
     },
     {
         "name":"Orb_get",
@@ -165,7 +123,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":11
+        "id":9
     },
     {
         "name":"Orb_glow_loop",
@@ -186,28 +144,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":12
-    },
-    {
-        "name":"Tap_direction",
-        "fileNames":"sfx\/tap_direction_03.ogg",
-        "minVolume":15,
-        "maxVolume":20,
-        "minPitch":96,
-        "maxPitch":104,
-        "priority":1,
-        "maximumByType":3,
-        "maxRepeatMs":null,
-        "loop":null,
-        "playVariationsInSequence":null,
-        "playVariationsInSequenceManualReset":null,
-        "startDelayMinMs":null,
-        "startDelayMaxMs":null,
-        "playOnlyWhenInView":null,
-        "maxVolumeScaleLimit":null,
-        "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":13
+        "id":10
     },
     {
         "name":"Sound_Gen_explosion",
@@ -228,7 +165,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":14
+        "id":11
     },
     {
         "name":"Sound_TNT_explosion",
@@ -249,7 +186,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":15
+        "id":12
     },
     {
         "name":"Sound_Gen_small_explosion",
@@ -270,7 +207,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":16
+        "id":13
     },
     {
         "name":"TNT_reload",
@@ -291,133 +228,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":17
-    },
-    {
-        "name":"Skill_select",
-        "fileNames":"sfx\/skill_select_01.ogg",
-        "minVolume":40,
-        "maxVolume":40,
-        "minPitch":100,
-        "maxPitch":100,
-        "priority":1,
-        "maximumByType":3,
-        "maxRepeatMs":null,
-        "loop":null,
-        "playVariationsInSequence":null,
-        "playVariationsInSequenceManualReset":null,
-        "startDelayMinMs":null,
-        "startDelayMaxMs":null,
-        "playOnlyWhenInView":null,
-        "maxVolumeScaleLimit":null,
-        "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":18
-    },
-    {
-        "name":"Skill_deselect",
-        "fileNames":"sfx\/unselect_01.ogg",
-        "minVolume":30,
-        "maxVolume":30,
-        "minPitch":100,
-        "maxPitch":100,
-        "priority":1,
-        "maximumByType":3,
-        "maxRepeatMs":null,
-        "loop":null,
-        "playVariationsInSequence":null,
-        "playVariationsInSequenceManualReset":null,
-        "startDelayMinMs":null,
-        "startDelayMaxMs":null,
-        "playOnlyWhenInView":null,
-        "maxVolumeScaleLimit":null,
-        "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":19
-    },
-    {
-        "name":"Metal_swipe",
-        "fileNames":"sfx\/metal_swipe_03.ogg",
-        "minVolume":35,
-        "maxVolume":45,
-        "minPitch":94,
-        "maxPitch":106,
-        "priority":1,
-        "maximumByType":5,
-        "maxRepeatMs":null,
-        "loop":null,
-        "playVariationsInSequence":null,
-        "playVariationsInSequenceManualReset":null,
-        "startDelayMinMs":null,
-        "startDelayMaxMs":null,
-        "playOnlyWhenInView":null,
-        "maxVolumeScaleLimit":null,
-        "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":20
-    },
-    {
-        "name":"Hazzard_atk",
-        "fileNames":"sfx\/hazzard_fire_01.ogg",
-        "minVolume":40,
-        "maxVolume":50,
-        "minPitch":95,
-        "maxPitch":105,
-        "priority":1,
-        "maximumByType":3,
-        "maxRepeatMs":null,
-        "loop":null,
-        "playVariationsInSequence":null,
-        "playVariationsInSequenceManualReset":null,
-        "startDelayMinMs":null,
-        "startDelayMaxMs":null,
-        "playOnlyWhenInView":null,
-        "maxVolumeScaleLimit":null,
-        "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":21
-    },
-    {
-        "name":"Sound_Deadeye_atk",
-        "fileNames":"sfx\/deadyey_shot_01.ogg",
-        "minVolume":55,
-        "maxVolume":55,
-        "minPitch":96,
-        "maxPitch":104,
-        "priority":1,
-        "maximumByType":3,
-        "maxRepeatMs":null,
-        "loop":null,
-        "playVariationsInSequence":null,
-        "playVariationsInSequenceManualReset":null,
-        "startDelayMinMs":null,
-        "startDelayMaxMs":null,
-        "playOnlyWhenInView":null,
-        "maxVolumeScaleLimit":null,
-        "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":22
-    },
-    {
-        "name":"Sound_poison_bomb",
-        "fileNames":"sfx\/poison_loop_01.ogg",
-        "minVolume":25,
-        "maxVolume":25,
-        "minPitch":100,
-        "maxPitch":100,
-        "priority":1,
-        "maximumByType":1,
-        "maxRepeatMs":null,
-        "loop":true,
-        "playVariationsInSequence":null,
-        "playVariationsInSequenceManualReset":null,
-        "startDelayMinMs":null,
-        "startDelayMaxMs":null,
-        "playOnlyWhenInView":null,
-        "maxVolumeScaleLimit":null,
-        "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":23
+        "id":14
     },
     {
         "name":"Sound_Blink",
@@ -438,28 +249,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":24
-    },
-    {
-        "name":"Sound_Armor",
-        "fileNames":"sfx\/shield_03.ogg",
-        "minVolume":55,
-        "maxVolume":55,
-        "minPitch":98,
-        "maxPitch":102,
-        "priority":1,
-        "maximumByType":3,
-        "maxRepeatMs":null,
-        "loop":null,
-        "playVariationsInSequence":null,
-        "playVariationsInSequenceManualReset":null,
-        "startDelayMinMs":null,
-        "startDelayMaxMs":null,
-        "playOnlyWhenInView":null,
-        "maxVolumeScaleLimit":null,
-        "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":25
+        "id":15
     },
     {
         "name":"Sound_Heal",
@@ -480,7 +270,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":26
+        "id":16
     },
     {
         "name":"Sound_Grenade",
@@ -501,7 +291,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":27
+        "id":17
     },
     {
         "name":"Skill_activated",
@@ -522,7 +312,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":28
+        "id":18
     },
     {
         "name":"Ulti_gain",
@@ -543,7 +333,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":29
+        "id":19
     },
     {
         "name":"Ulti_ready",
@@ -564,7 +354,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":30
+        "id":20
     },
     {
         "name":"10_sec_panic",
@@ -585,7 +375,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":31
+        "id":21
     },
     {
         "name":"Laser_Count_15",
@@ -606,7 +396,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":32
+        "id":22
     },
     {
         "name":"Laser_Count_14",
@@ -627,7 +417,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":33
+        "id":23
     },
     {
         "name":"Laser_Count_13",
@@ -648,7 +438,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":34
+        "id":24
     },
     {
         "name":"Laser_Count_12",
@@ -669,7 +459,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":35
+        "id":25
     },
     {
         "name":"Laser_Count_11",
@@ -690,7 +480,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":36
+        "id":26
     },
     {
         "name":"Laser_Count_10",
@@ -711,7 +501,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":37
+        "id":27
     },
     {
         "name":"Laser_Count_9",
@@ -732,7 +522,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":38
+        "id":28
     },
     {
         "name":"Laser_Count_8",
@@ -753,7 +543,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":39
+        "id":29
     },
     {
         "name":"Laser_Count_7",
@@ -774,7 +564,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":40
+        "id":30
     },
     {
         "name":"Laser_Count_6",
@@ -795,7 +585,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":41
+        "id":31
     },
     {
         "name":"Laser_Count_5",
@@ -816,7 +606,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":42
+        "id":32
     },
     {
         "name":"Laser_Count_4",
@@ -837,7 +627,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":43
+        "id":33
     },
     {
         "name":"Laser_Count_3",
@@ -858,7 +648,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":44
+        "id":34
     },
     {
         "name":"Laser_Count_2",
@@ -879,7 +669,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":45
+        "id":35
     },
     {
         "name":"Laser_Count_1",
@@ -900,7 +690,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":46
+        "id":36
     },
     {
         "name":"Laser_Count_0",
@@ -921,7 +711,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":47
+        "id":37
     },
     {
         "name":"Low_health_1_loop",
@@ -942,7 +732,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":48
+        "id":38
     },
     {
         "name":"Low_health_2_loop",
@@ -963,7 +753,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":49
+        "id":39
     },
     {
         "name":"bandit_reload",
@@ -984,7 +774,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":50
+        "id":40
     },
     {
         "name":"gunslinger_fire",
@@ -1005,7 +795,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":51
+        "id":41
     },
     {
         "name":"gunslinger_fire_ulti",
@@ -1026,7 +816,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":52
+        "id":42
     },
     {
         "name":"explosion_rocket_rose",
@@ -1047,7 +837,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":53
+        "id":43
     },
     {
         "name":"explosion_rocket_rose_ulti",
@@ -1068,7 +858,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":54
+        "id":44
     },
     {
         "name":"tnt_attack",
@@ -1089,7 +879,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":55
+        "id":45
     },
     {
         "name":"tnt_attack_ulti",
@@ -1110,7 +900,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":56
+        "id":46
     },
     {
         "name":"No_ammo_shotgungirl",
@@ -1131,7 +921,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":57
+        "id":47
     },
     {
         "name":"Dry_fire_shotgungirl",
@@ -1152,7 +942,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":58
+        "id":48
     },
     {
         "name":"Rhinocharge",
@@ -1173,7 +963,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":59
+        "id":49
     },
     {
         "name":"Rhinofire",
@@ -1194,7 +984,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":60
+        "id":50
     },
     {
         "name":"Rhinostep",
@@ -1215,7 +1005,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":61
+        "id":51
     },
     {
         "name":"Robotfire",
@@ -1236,7 +1026,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":62
+        "id":52
     },
     {
         "name":"Rocketgirlspecial",
@@ -1257,7 +1047,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":63
+        "id":53
     },
     {
         "name":"Roboturret",
@@ -1278,7 +1068,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":64
+        "id":54
     },
     {
         "name":"Robocon",
@@ -1299,7 +1089,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":65
+        "id":55
     },
     {
         "name":"Timedgrenade",
@@ -1320,7 +1110,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":66
+        "id":56
     },
     {
         "name":"Shotgun",
@@ -1341,7 +1131,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":67
+        "id":57
     },
     {
         "name":"Utilshotgun",
@@ -1362,7 +1152,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":68
+        "id":58
     },
     {
         "name":"Utilshotgun_Vo",
@@ -1383,7 +1173,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":69
+        "id":59
     },
     {
         "name":null,
@@ -1404,7 +1194,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":70
+        "id":60
     },
     {
         "name":null,
@@ -1425,7 +1215,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":71
+        "id":61
     },
     {
         "name":null,
@@ -1446,7 +1236,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":72
+        "id":62
     },
     {
         "name":"ShellyTakedamge_Vo",
@@ -1467,7 +1257,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":73
+        "id":63
     },
     {
         "name":null,
@@ -1488,7 +1278,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":74
+        "id":64
     },
     {
         "name":null,
@@ -1509,7 +1299,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":75
+        "id":65
     },
     {
         "name":null,
@@ -1530,7 +1320,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":76
+        "id":66
     },
     {
         "name":null,
@@ -1551,7 +1341,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":77
+        "id":67
     },
     {
         "name":"Shelly_Die",
@@ -1572,7 +1362,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":78
+        "id":68
     },
     {
         "name":null,
@@ -1593,7 +1383,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":79
+        "id":69
     },
     {
         "name":null,
@@ -1614,7 +1404,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":80
+        "id":70
     },
     {
         "name":null,
@@ -1635,7 +1425,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":81
+        "id":71
     },
     {
         "name":"Shelly_Kill",
@@ -1656,7 +1446,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":82
+        "id":72
     },
     {
         "name":null,
@@ -1677,7 +1467,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":83
+        "id":73
     },
     {
         "name":null,
@@ -1698,7 +1488,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":84
+        "id":74
     },
     {
         "name":null,
@@ -1719,7 +1509,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":85
+        "id":75
     },
     {
         "name":null,
@@ -1740,7 +1530,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":86
+        "id":76
     },
     {
         "name":"Shelly_Lead",
@@ -1761,7 +1551,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":87
+        "id":77
     },
     {
         "name":null,
@@ -1782,7 +1572,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":88
+        "id":78
     },
     {
         "name":null,
@@ -1803,7 +1593,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":89
+        "id":79
     },
     {
         "name":null,
@@ -1824,7 +1614,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":90
+        "id":80
     },
     {
         "name":"Shelly_Start",
@@ -1845,7 +1635,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":91
+        "id":81
     },
     {
         "name":null,
@@ -1866,7 +1656,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":92
+        "id":82
     },
     {
         "name":null,
@@ -1887,7 +1677,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":93
+        "id":83
     },
     {
         "name":null,
@@ -1908,7 +1698,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":94
+        "id":84
     },
     {
         "name":"Jess_ulti",
@@ -1929,7 +1719,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":95
+        "id":85
     },
     {
         "name":null,
@@ -1950,7 +1740,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":96
+        "id":86
     },
     {
         "name":null,
@@ -1971,7 +1761,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":97
+        "id":87
     },
     {
         "name":null,
@@ -1992,7 +1782,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":98
+        "id":88
     },
     {
         "name":null,
@@ -2013,7 +1803,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":99
+        "id":89
     },
     {
         "name":null,
@@ -2034,7 +1824,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":100
+        "id":90
     },
     {
         "name":"Bull_takedamage_vo",
@@ -2055,7 +1845,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":101
+        "id":91
     },
     {
         "name":null,
@@ -2076,7 +1866,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":102
+        "id":92
     },
     {
         "name":null,
@@ -2097,7 +1887,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":103
+        "id":93
     },
     {
         "name":null,
@@ -2118,7 +1908,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":104
+        "id":94
     },
     {
         "name":null,
@@ -2139,7 +1929,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":105
+        "id":95
     },
     {
         "name":"Bull_die",
@@ -2160,7 +1950,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":106
+        "id":96
     },
     {
         "name":null,
@@ -2181,7 +1971,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":107
+        "id":97
     },
     {
         "name":null,
@@ -2202,7 +1992,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":108
+        "id":98
     },
     {
         "name":null,
@@ -2223,7 +2013,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":109
+        "id":99
     },
     {
         "name":"Bull_kill",
@@ -2244,7 +2034,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":110
+        "id":100
     },
     {
         "name":null,
@@ -2265,7 +2055,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":111
+        "id":101
     },
     {
         "name":null,
@@ -2286,7 +2076,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":112
+        "id":102
     },
     {
         "name":null,
@@ -2307,7 +2097,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":113
+        "id":103
     },
     {
         "name":"Bull_lead",
@@ -2328,7 +2118,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":114
+        "id":104
     },
     {
         "name":null,
@@ -2349,7 +2139,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":115
+        "id":105
     },
     {
         "name":null,
@@ -2370,7 +2160,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":116
+        "id":106
     },
     {
         "name":null,
@@ -2391,7 +2181,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":117
+        "id":107
     },
     {
         "name":"Bull_start",
@@ -2412,7 +2202,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":118
+        "id":108
     },
     {
         "name":null,
@@ -2433,7 +2223,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":119
+        "id":109
     },
     {
         "name":null,
@@ -2454,7 +2244,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":120
+        "id":110
     },
     {
         "name":"Bull_ulti",
@@ -2475,7 +2265,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":121
+        "id":111
     },
     {
         "name":null,
@@ -2496,7 +2286,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":122
+        "id":112
     },
     {
         "name":null,
@@ -2517,7 +2307,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":123
+        "id":113
     },
     {
         "name":null,
@@ -2538,7 +2328,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":124
+        "id":114
     },
     {
         "name":"Brock_start_vo",
@@ -2559,7 +2349,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":125
+        "id":115
     },
     {
         "name":null,
@@ -2580,7 +2370,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":126
+        "id":116
     },
     {
         "name":null,
@@ -2601,7 +2391,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":127
+        "id":117
     },
     {
         "name":null,
@@ -2622,7 +2412,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":128
+        "id":118
     },
     {
         "name":null,
@@ -2643,7 +2433,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":129
+        "id":119
     },
     {
         "name":null,
@@ -2664,7 +2454,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":130
+        "id":120
     },
     {
         "name":null,
@@ -2685,7 +2475,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":131
+        "id":121
     },
     {
         "name":"Brock_die_vo",
@@ -2706,7 +2496,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":132
+        "id":122
     },
     {
         "name":null,
@@ -2727,7 +2517,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":133
+        "id":123
     },
     {
         "name":null,
@@ -2748,7 +2538,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":134
+        "id":124
     },
     {
         "name":null,
@@ -2769,7 +2559,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":135
+        "id":125
     },
     {
         "name":"Brock_hurt_vo",
@@ -2790,7 +2580,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":136
+        "id":126
     },
     {
         "name":null,
@@ -2811,7 +2601,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":137
+        "id":127
     },
     {
         "name":null,
@@ -2832,7 +2622,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":138
+        "id":128
     },
     {
         "name":null,
@@ -2853,7 +2643,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":139
+        "id":129
     },
     {
         "name":null,
@@ -2874,7 +2664,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":140
+        "id":130
     },
     {
         "name":"Brock_kill_vo",
@@ -2895,7 +2685,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":141
+        "id":131
     },
     {
         "name":null,
@@ -2916,7 +2706,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":142
+        "id":132
     },
     {
         "name":null,
@@ -2937,7 +2727,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":143
+        "id":133
     },
     {
         "name":null,
@@ -2958,7 +2748,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":144
+        "id":134
     },
     {
         "name":"Brock_lead_vo",
@@ -2979,7 +2769,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":145
+        "id":135
     },
     {
         "name":null,
@@ -3000,7 +2790,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":146
+        "id":136
     },
     {
         "name":null,
@@ -3021,7 +2811,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":147
+        "id":137
     },
     {
         "name":null,
@@ -3042,7 +2832,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":148
+        "id":138
     },
     {
         "name":null,
@@ -3063,7 +2853,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":149
+        "id":139
     },
     {
         "name":null,
@@ -3084,7 +2874,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":150
+        "id":140
     },
     {
         "name":"Brock_ulti_vo",
@@ -3105,7 +2895,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":151
+        "id":141
     },
     {
         "name":null,
@@ -3126,7 +2916,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":152
+        "id":142
     },
     {
         "name":null,
@@ -3147,7 +2937,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":153
+        "id":143
     },
     {
         "name":null,
@@ -3168,7 +2958,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":154
+        "id":144
     },
     {
         "name":null,
@@ -3189,7 +2979,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":155
+        "id":145
     },
     {
         "name":"Jess_takedamage",
@@ -3210,7 +3000,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":156
+        "id":146
     },
     {
         "name":null,
@@ -3231,7 +3021,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":157
+        "id":147
     },
     {
         "name":null,
@@ -3252,7 +3042,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":158
+        "id":148
     },
     {
         "name":null,
@@ -3273,7 +3063,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":159
+        "id":149
     },
     {
         "name":null,
@@ -3294,7 +3084,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":160
+        "id":150
     },
     {
         "name":null,
@@ -3315,7 +3105,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":161
+        "id":151
     },
     {
         "name":"Jess_die",
@@ -3336,7 +3126,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":162
+        "id":152
     },
     {
         "name":null,
@@ -3357,7 +3147,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":163
+        "id":153
     },
     {
         "name":null,
@@ -3378,7 +3168,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":164
+        "id":154
     },
     {
         "name":null,
@@ -3399,7 +3189,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":165
+        "id":155
     },
     {
         "name":"Jess_kill",
@@ -3420,7 +3210,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":166
+        "id":156
     },
     {
         "name":null,
@@ -3441,7 +3231,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":167
+        "id":157
     },
     {
         "name":null,
@@ -3462,7 +3252,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":168
+        "id":158
     },
     {
         "name":null,
@@ -3483,7 +3273,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":169
+        "id":159
     },
     {
         "name":null,
@@ -3504,7 +3294,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":170
+        "id":160
     },
     {
         "name":null,
@@ -3525,7 +3315,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":171
+        "id":161
     },
     {
         "name":null,
@@ -3546,7 +3336,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":172
+        "id":162
     },
     {
         "name":"Jess_lead",
@@ -3567,7 +3357,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":173
+        "id":163
     },
     {
         "name":null,
@@ -3588,7 +3378,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":174
+        "id":164
     },
     {
         "name":null,
@@ -3609,7 +3399,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":175
+        "id":165
     },
     {
         "name":null,
@@ -3630,7 +3420,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":176
+        "id":166
     },
     {
         "name":null,
@@ -3651,7 +3441,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":177
+        "id":167
     },
     {
         "name":"Jess_start",
@@ -3672,7 +3462,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":178
+        "id":168
     },
     {
         "name":null,
@@ -3693,7 +3483,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":179
+        "id":169
     },
     {
         "name":null,
@@ -3714,7 +3504,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":180
+        "id":170
     },
     {
         "name":null,
@@ -3735,7 +3525,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":181
+        "id":171
     },
     {
         "name":null,
@@ -3756,7 +3546,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":182
+        "id":172
     },
     {
         "name":"Hotshot_Takedamge_Vo",
@@ -3777,7 +3567,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":183
+        "id":173
     },
     {
         "name":null,
@@ -3798,7 +3588,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":184
+        "id":174
     },
     {
         "name":null,
@@ -3819,7 +3609,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":185
+        "id":175
     },
     {
         "name":null,
@@ -3840,7 +3630,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":186
+        "id":176
     },
     {
         "name":null,
@@ -3861,7 +3651,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":187
+        "id":177
     },
     {
         "name":null,
@@ -3882,7 +3672,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":188
+        "id":178
     },
     {
         "name":null,
@@ -3903,7 +3693,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":189
+        "id":179
     },
     {
         "name":null,
@@ -3924,7 +3714,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":190
+        "id":180
     },
     {
         "name":"Hotshot_Die",
@@ -3945,7 +3735,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":191
+        "id":181
     },
     {
         "name":null,
@@ -3966,7 +3756,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":192
+        "id":182
     },
     {
         "name":null,
@@ -3987,7 +3777,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":193
+        "id":183
     },
     {
         "name":null,
@@ -4008,7 +3798,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":194
+        "id":184
     },
     {
         "name":"Hotshot_Kill",
@@ -4029,7 +3819,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":195
+        "id":185
     },
     {
         "name":null,
@@ -4050,7 +3840,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":196
+        "id":186
     },
     {
         "name":null,
@@ -4071,7 +3861,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":197
+        "id":187
     },
     {
         "name":null,
@@ -4092,7 +3882,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":198
+        "id":188
     },
     {
         "name":null,
@@ -4113,7 +3903,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":199
+        "id":189
     },
     {
         "name":null,
@@ -4134,7 +3924,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":200
+        "id":190
     },
     {
         "name":null,
@@ -4155,7 +3945,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":201
+        "id":191
     },
     {
         "name":"Hotshot_Lead",
@@ -4176,7 +3966,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":202
+        "id":192
     },
     {
         "name":null,
@@ -4197,7 +3987,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":203
+        "id":193
     },
     {
         "name":null,
@@ -4218,7 +4008,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":204
+        "id":194
     },
     {
         "name":null,
@@ -4239,7 +4029,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":205
+        "id":195
     },
     {
         "name":null,
@@ -4260,7 +4050,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":206
+        "id":196
     },
     {
         "name":"Hotshot_Start",
@@ -4281,7 +4071,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":207
+        "id":197
     },
     {
         "name":null,
@@ -4302,7 +4092,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":208
+        "id":198
     },
     {
         "name":null,
@@ -4323,7 +4113,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":209
+        "id":199
     },
     {
         "name":null,
@@ -4344,7 +4134,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":210
+        "id":200
     },
     {
         "name":"Hotshot_Ulti",
@@ -4365,7 +4155,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":211
+        "id":201
     },
     {
         "name":null,
@@ -4386,7 +4176,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":212
+        "id":202
     },
     {
         "name":null,
@@ -4407,7 +4197,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":213
+        "id":203
     },
     {
         "name":null,
@@ -4428,7 +4218,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":214
+        "id":204
     },
     {
         "name":"Piper_Takedamage",
@@ -4449,7 +4239,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":215
+        "id":205
     },
     {
         "name":null,
@@ -4470,7 +4260,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":216
+        "id":206
     },
     {
         "name":null,
@@ -4491,7 +4281,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":217
+        "id":207
     },
     {
         "name":null,
@@ -4512,7 +4302,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":218
+        "id":208
     },
     {
         "name":null,
@@ -4533,7 +4323,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":219
+        "id":209
     },
     {
         "name":null,
@@ -4554,7 +4344,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":220
+        "id":210
     },
     {
         "name":"Piper_Die",
@@ -4575,7 +4365,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":221
+        "id":211
     },
     {
         "name":null,
@@ -4596,7 +4386,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":222
+        "id":212
     },
     {
         "name":null,
@@ -4617,7 +4407,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":223
+        "id":213
     },
     {
         "name":"Piper_Kill",
@@ -4638,7 +4428,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":224
+        "id":214
     },
     {
         "name":null,
@@ -4659,7 +4449,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":225
+        "id":215
     },
     {
         "name":null,
@@ -4680,7 +4470,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":226
+        "id":216
     },
     {
         "name":null,
@@ -4701,7 +4491,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":227
+        "id":217
     },
     {
         "name":"Piper_Lead",
@@ -4722,7 +4512,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":228
+        "id":218
     },
     {
         "name":null,
@@ -4743,7 +4533,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":229
+        "id":219
     },
     {
         "name":null,
@@ -4764,7 +4554,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":230
+        "id":220
     },
     {
         "name":"Piper_Start",
@@ -4785,7 +4575,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":231
+        "id":221
     },
     {
         "name":null,
@@ -4806,7 +4596,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":232
+        "id":222
     },
     {
         "name":null,
@@ -4827,7 +4617,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":233
+        "id":223
     },
     {
         "name":null,
@@ -4848,7 +4638,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":234
+        "id":224
     },
     {
         "name":"Piper_Ulti",
@@ -4869,7 +4659,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":235
+        "id":225
     },
     {
         "name":null,
@@ -4890,7 +4680,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":236
+        "id":226
     },
     {
         "name":"Barley_Hurt",
@@ -4911,7 +4701,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":237
+        "id":227
     },
     {
         "name":null,
@@ -4932,7 +4722,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":238
+        "id":228
     },
     {
         "name":null,
@@ -4953,7 +4743,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":239
+        "id":229
     },
     {
         "name":null,
@@ -4974,7 +4764,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":240
+        "id":230
     },
     {
         "name":"Barley_Die",
@@ -4995,7 +4785,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":241
+        "id":231
     },
     {
         "name":null,
@@ -5016,7 +4806,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":242
+        "id":232
     },
     {
         "name":"Barley_Kill",
@@ -5037,7 +4827,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":243
+        "id":233
     },
     {
         "name":null,
@@ -5058,7 +4848,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":244
+        "id":234
     },
     {
         "name":null,
@@ -5079,7 +4869,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":245
+        "id":235
     },
     {
         "name":null,
@@ -5100,7 +4890,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":246
+        "id":236
     },
     {
         "name":"Barley_Lead",
@@ -5121,7 +4911,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":247
+        "id":237
     },
     {
         "name":"Barley_Start",
@@ -5142,7 +4932,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":248
+        "id":238
     },
     {
         "name":null,
@@ -5163,7 +4953,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":249
+        "id":239
     },
     {
         "name":null,
@@ -5184,7 +4974,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":250
+        "id":240
     },
     {
         "name":null,
@@ -5205,7 +4995,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":251
+        "id":241
     },
     {
         "name":"Barley_Ulti",
@@ -5226,7 +5016,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":252
+        "id":242
     },
     {
         "name":null,
@@ -5247,7 +5037,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":253
+        "id":243
     },
     {
         "name":"Barley_throw",
@@ -5268,7 +5058,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":254
+        "id":244
     },
     {
         "name":null,
@@ -5289,7 +5079,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":255
+        "id":245
     },
     {
         "name":"Rick_start",
@@ -5310,7 +5100,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":256
+        "id":246
     },
     {
         "name":null,
@@ -5331,7 +5121,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":257
+        "id":247
     },
     {
         "name":null,
@@ -5352,7 +5142,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":258
+        "id":248
     },
     {
         "name":null,
@@ -5373,7 +5163,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":259
+        "id":249
     },
     {
         "name":null,
@@ -5394,7 +5184,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":260
+        "id":250
     },
     {
         "name":null,
@@ -5415,7 +5205,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":261
+        "id":251
     },
     {
         "name":"Rick_kill",
@@ -5436,7 +5226,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":262
+        "id":252
     },
     {
         "name":null,
@@ -5457,7 +5247,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":263
+        "id":253
     },
     {
         "name":null,
@@ -5478,7 +5268,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":264
+        "id":254
     },
     {
         "name":null,
@@ -5499,7 +5289,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":265
+        "id":255
     },
     {
         "name":null,
@@ -5520,7 +5310,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":266
+        "id":256
     },
     {
         "name":null,
@@ -5541,7 +5331,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":267
+        "id":257
     },
     {
         "name":null,
@@ -5562,7 +5352,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":268
+        "id":258
     },
     {
         "name":"Rick_hurt",
@@ -5583,7 +5373,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":269
+        "id":259
     },
     {
         "name":null,
@@ -5604,7 +5394,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":270
+        "id":260
     },
     {
         "name":null,
@@ -5625,7 +5415,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":271
+        "id":261
     },
     {
         "name":null,
@@ -5646,7 +5436,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":272
+        "id":262
     },
     {
         "name":null,
@@ -5667,7 +5457,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":273
+        "id":263
     },
     {
         "name":"Rick_ulti",
@@ -5688,7 +5478,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":274
+        "id":264
     },
     {
         "name":null,
@@ -5709,7 +5499,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":275
+        "id":265
     },
     {
         "name":null,
@@ -5730,7 +5520,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":276
+        "id":266
     },
     {
         "name":null,
@@ -5751,7 +5541,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":277
+        "id":267
     },
     {
         "name":null,
@@ -5772,7 +5562,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":278
+        "id":268
     },
     {
         "name":null,
@@ -5793,7 +5583,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":279
+        "id":269
     },
     {
         "name":"Rick_lead",
@@ -5814,7 +5604,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":280
+        "id":270
     },
     {
         "name":null,
@@ -5835,7 +5625,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":281
+        "id":271
     },
     {
         "name":null,
@@ -5856,7 +5646,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":282
+        "id":272
     },
     {
         "name":null,
@@ -5877,7 +5667,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":283
+        "id":273
     },
     {
         "name":null,
@@ -5898,7 +5688,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":284
+        "id":274
     },
     {
         "name":"Rick_die",
@@ -5919,7 +5709,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":285
+        "id":275
     },
     {
         "name":null,
@@ -5940,7 +5730,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":286
+        "id":276
     },
     {
         "name":null,
@@ -5961,7 +5751,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":287
+        "id":277
     },
     {
         "name":null,
@@ -5982,7 +5772,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":288
+        "id":278
     },
     {
         "name":null,
@@ -6003,7 +5793,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":289
+        "id":279
     },
     {
         "name":"El_primo_start",
@@ -6024,7 +5814,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":290
+        "id":280
     },
     {
         "name":null,
@@ -6045,7 +5835,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":291
+        "id":281
     },
     {
         "name":null,
@@ -6066,7 +5856,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":292
+        "id":282
     },
     {
         "name":null,
@@ -6087,7 +5877,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":293
+        "id":283
     },
     {
         "name":null,
@@ -6108,7 +5898,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":294
+        "id":284
     },
     {
         "name":null,
@@ -6129,7 +5919,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":295
+        "id":285
     },
     {
         "name":null,
@@ -6150,7 +5940,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":296
+        "id":286
     },
     {
         "name":"El_primo_kill",
@@ -6171,7 +5961,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":297
+        "id":287
     },
     {
         "name":null,
@@ -6192,7 +5982,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":298
+        "id":288
     },
     {
         "name":null,
@@ -6213,7 +6003,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":299
+        "id":289
     },
     {
         "name":"El_primo_hurt",
@@ -6234,7 +6024,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":300
+        "id":290
     },
     {
         "name":null,
@@ -6255,7 +6045,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":301
+        "id":291
     },
     {
         "name":null,
@@ -6276,7 +6066,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":302
+        "id":292
     },
     {
         "name":null,
@@ -6297,7 +6087,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":303
+        "id":293
     },
     {
         "name":"El_primo_lead",
@@ -6318,7 +6108,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":304
+        "id":294
     },
     {
         "name":null,
@@ -6339,7 +6129,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":305
+        "id":295
     },
     {
         "name":null,
@@ -6360,7 +6150,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":306
+        "id":296
     },
     {
         "name":"El_primo_die",
@@ -6381,7 +6171,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":307
+        "id":297
     },
     {
         "name":null,
@@ -6402,7 +6192,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":308
+        "id":298
     },
     {
         "name":null,
@@ -6423,7 +6213,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":309
+        "id":299
     },
     {
         "name":null,
@@ -6444,7 +6234,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":310
+        "id":300
     },
     {
         "name":"El_primo_ulti",
@@ -6465,7 +6255,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":311
+        "id":301
     },
     {
         "name":"El_primo_ulti_land",
@@ -6486,7 +6276,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":312
+        "id":302
     },
     {
         "name":"El_primo_atk",
@@ -6507,7 +6297,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":313
+        "id":303
     },
     {
         "name":null,
@@ -6528,7 +6318,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":314
+        "id":304
     },
     {
         "name":null,
@@ -6549,7 +6339,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":315
+        "id":305
     },
     {
         "name":null,
@@ -6570,7 +6360,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":316
+        "id":306
     },
     {
         "name":null,
@@ -6591,7 +6381,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":317
+        "id":307
     },
     {
         "name":"Crow_Takedamage",
@@ -6612,7 +6402,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":318
+        "id":308
     },
     {
         "name":null,
@@ -6633,7 +6423,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":319
+        "id":309
     },
     {
         "name":null,
@@ -6654,7 +6444,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":320
+        "id":310
     },
     {
         "name":null,
@@ -6675,7 +6465,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":321
+        "id":311
     },
     {
         "name":null,
@@ -6696,7 +6486,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":322
+        "id":312
     },
     {
         "name":null,
@@ -6717,7 +6507,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":323
+        "id":313
     },
     {
         "name":"Crow_Die",
@@ -6738,7 +6528,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":324
+        "id":314
     },
     {
         "name":"Crow_Kill",
@@ -6759,7 +6549,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":325
+        "id":315
     },
     {
         "name":null,
@@ -6780,7 +6570,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":326
+        "id":316
     },
     {
         "name":null,
@@ -6801,7 +6591,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":327
+        "id":317
     },
     {
         "name":"Crow_Lead",
@@ -6822,7 +6612,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":328
+        "id":318
     },
     {
         "name":null,
@@ -6843,7 +6633,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":329
+        "id":319
     },
     {
         "name":"Crow_Start",
@@ -6864,7 +6654,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":330
+        "id":320
     },
     {
         "name":null,
@@ -6885,7 +6675,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":331
+        "id":321
     },
     {
         "name":null,
@@ -6906,7 +6696,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":332
+        "id":322
     },
     {
         "name":"Crow_Ulti",
@@ -6927,7 +6717,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":333
+        "id":323
     },
     {
         "name":"Penny_takedamage",
@@ -6948,7 +6738,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":334
+        "id":324
     },
     {
         "name":null,
@@ -6969,7 +6759,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":335
+        "id":325
     },
     {
         "name":null,
@@ -6990,7 +6780,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":336
+        "id":326
     },
     {
         "name":"Penny_die",
@@ -7011,7 +6801,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":337
+        "id":327
     },
     {
         "name":null,
@@ -7032,7 +6822,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":338
+        "id":328
     },
     {
         "name":null,
@@ -7053,7 +6843,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":339
+        "id":329
     },
     {
         "name":"Penny_kill",
@@ -7074,7 +6864,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":340
+        "id":330
     },
     {
         "name":null,
@@ -7095,7 +6885,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":341
+        "id":331
     },
     {
         "name":null,
@@ -7116,7 +6906,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":342
+        "id":332
     },
     {
         "name":null,
@@ -7137,7 +6927,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":343
+        "id":333
     },
     {
         "name":null,
@@ -7158,7 +6948,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":344
+        "id":334
     },
     {
         "name":"Penny_start",
@@ -7179,7 +6969,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":345
+        "id":335
     },
     {
         "name":null,
@@ -7200,7 +6990,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":346
+        "id":336
     },
     {
         "name":null,
@@ -7221,7 +7011,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":347
+        "id":337
     },
     {
         "name":"Penny_ulti",
@@ -7242,7 +7032,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":348
+        "id":338
     },
     {
         "name":null,
@@ -7263,7 +7053,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":349
+        "id":339
     },
     {
         "name":null,
@@ -7284,7 +7074,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":350
+        "id":340
     },
     {
         "name":"Penny_lead",
@@ -7305,7 +7095,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":351
+        "id":341
     },
     {
         "name":null,
@@ -7326,7 +7116,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":352
+        "id":342
     },
     {
         "name":null,
@@ -7347,7 +7137,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":353
+        "id":343
     },
     {
         "name":"Poco_start",
@@ -7368,7 +7158,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":354
+        "id":344
     },
     {
         "name":null,
@@ -7389,7 +7179,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":355
+        "id":345
     },
     {
         "name":null,
@@ -7410,7 +7200,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":356
+        "id":346
     },
     {
         "name":null,
@@ -7431,7 +7221,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":357
+        "id":347
     },
     {
         "name":"Poco_hurt",
@@ -7452,7 +7242,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":358
+        "id":348
     },
     {
         "name":null,
@@ -7473,7 +7263,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":359
+        "id":349
     },
     {
         "name":null,
@@ -7494,7 +7284,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":360
+        "id":350
     },
     {
         "name":null,
@@ -7515,7 +7305,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":361
+        "id":351
     },
     {
         "name":"Poco_kill",
@@ -7536,7 +7326,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":362
+        "id":352
     },
     {
         "name":null,
@@ -7557,7 +7347,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":363
+        "id":353
     },
     {
         "name":null,
@@ -7578,7 +7368,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":364
+        "id":354
     },
     {
         "name":"Poco_die",
@@ -7599,7 +7389,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":365
+        "id":355
     },
     {
         "name":null,
@@ -7620,7 +7410,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":366
+        "id":356
     },
     {
         "name":null,
@@ -7641,7 +7431,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":367
+        "id":357
     },
     {
         "name":"Poco_ulti_vo",
@@ -7662,7 +7452,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":368
+        "id":358
     },
     {
         "name":null,
@@ -7683,7 +7473,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":369
+        "id":359
     },
     {
         "name":null,
@@ -7704,7 +7494,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":370
+        "id":360
     },
     {
         "name":null,
@@ -7725,7 +7515,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":371
+        "id":361
     },
     {
         "name":"Poco_lead",
@@ -7746,7 +7536,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":372
+        "id":362
     },
     {
         "name":null,
@@ -7767,7 +7557,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":373
+        "id":363
     },
     {
         "name":null,
@@ -7788,7 +7578,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":374
+        "id":364
     },
     {
         "name":"Roll",
@@ -7809,7 +7599,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":375
+        "id":365
     },
     {
         "name":"Reveal",
@@ -7830,7 +7620,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":376
+        "id":366
     },
     {
         "name":"Upgrade",
@@ -7851,7 +7641,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":377
+        "id":367
     },
     {
         "name":"Male_1_death",
@@ -7872,7 +7662,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":378
+        "id":368
     },
     {
         "name":null,
@@ -7893,7 +7683,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":379
+        "id":369
     },
     {
         "name":"Male_2_death",
@@ -7914,7 +7704,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":380
+        "id":370
     },
     {
         "name":null,
@@ -7935,7 +7725,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":381
+        "id":371
     },
     {
         "name":"Female_1_death",
@@ -7956,7 +7746,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":382
+        "id":372
     },
     {
         "name":null,
@@ -7977,7 +7767,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":383
+        "id":373
     },
     {
         "name":"Rhino_death",
@@ -7998,7 +7788,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":384
+        "id":374
     },
     {
         "name":null,
@@ -8019,7 +7809,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":385
+        "id":375
     },
     {
         "name":"Robo_death",
@@ -8040,7 +7830,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":386
+        "id":376
     },
     {
         "name":null,
@@ -8061,7 +7851,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":387
+        "id":377
     },
     {
         "name":"Bo_start",
@@ -8082,7 +7872,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":388
+        "id":378
     },
     {
         "name":null,
@@ -8103,7 +7893,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":389
+        "id":379
     },
     {
         "name":null,
@@ -8124,7 +7914,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":390
+        "id":380
     },
     {
         "name":null,
@@ -8145,7 +7935,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":391
+        "id":381
     },
     {
         "name":null,
@@ -8166,7 +7956,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":392
+        "id":382
     },
     {
         "name":"Bo_kill",
@@ -8187,7 +7977,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":393
+        "id":383
     },
     {
         "name":null,
@@ -8208,7 +7998,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":394
+        "id":384
     },
     {
         "name":null,
@@ -8229,7 +8019,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":395
+        "id":385
     },
     {
         "name":null,
@@ -8250,7 +8040,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":396
+        "id":386
     },
     {
         "name":"Bo_hurt",
@@ -8271,7 +8061,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":397
+        "id":387
     },
     {
         "name":null,
@@ -8292,7 +8082,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":398
+        "id":388
     },
     {
         "name":null,
@@ -8313,7 +8103,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":399
+        "id":389
     },
     {
         "name":null,
@@ -8334,7 +8124,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":400
+        "id":390
     },
     {
         "name":"Bo_lead",
@@ -8355,7 +8145,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":401
+        "id":391
     },
     {
         "name":null,
@@ -8376,7 +8166,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":402
+        "id":392
     },
     {
         "name":null,
@@ -8397,7 +8187,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":403
+        "id":393
     },
     {
         "name":null,
@@ -8418,7 +8208,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":404
+        "id":394
     },
     {
         "name":"Bo_die",
@@ -8439,7 +8229,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":405
+        "id":395
     },
     {
         "name":null,
@@ -8460,7 +8250,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":406
+        "id":396
     },
     {
         "name":null,
@@ -8481,7 +8271,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":407
+        "id":397
     },
     {
         "name":null,
@@ -8502,7 +8292,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":408
+        "id":398
     },
     {
         "name":"Bo_ulti_vo",
@@ -8523,7 +8313,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":409
+        "id":399
     },
     {
         "name":null,
@@ -8544,7 +8334,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":410
+        "id":400
     },
     {
         "name":null,
@@ -8565,7 +8355,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":411
+        "id":401
     },
     {
         "name":null,
@@ -8586,7 +8376,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":412
+        "id":402
     },
     {
         "name":"Bo_atk_vo",
@@ -8607,7 +8397,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":413
+        "id":403
     },
     {
         "name":null,
@@ -8628,7 +8418,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":414
+        "id":404
     },
     {
         "name":null,
@@ -8649,7 +8439,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":415
+        "id":405
     },
     {
         "name":null,
@@ -8670,7 +8460,637 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
+        "id":406
+    },
+    {
+        "name":"Carl_start_vo",
+        "fileNames":"sfx\/carl_start_vo_01.ogg",
+        "minVolume":55,
+        "maxVolume":55,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":null,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":407
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/carl_start_vo_02.ogg",
+        "minVolume":55,
+        "maxVolume":55,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":null,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":408
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/carl_start_vo_03.ogg",
+        "minVolume":55,
+        "maxVolume":55,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":null,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":409
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/carl_start_vo_04.ogg",
+        "minVolume":55,
+        "maxVolume":55,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":null,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":410
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/carl_start_vo_05.ogg",
+        "minVolume":55,
+        "maxVolume":55,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":null,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":411
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/carl_start_vo_06.ogg",
+        "minVolume":55,
+        "maxVolume":55,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":null,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":412
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/carl_start_vo_07.ogg",
+        "minVolume":55,
+        "maxVolume":55,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":null,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":413
+    },
+    {
+        "name":"Carl_kill_vo",
+        "fileNames":"sfx\/carl_kill_vo_01.ogg",
+        "minVolume":55,
+        "maxVolume":55,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":15000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":414
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/carl_kill_vo_02.ogg",
+        "minVolume":55,
+        "maxVolume":55,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":15000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":415
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/carl_kill_vo_03.ogg",
+        "minVolume":40,
+        "maxVolume":50,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":15000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
         "id":416
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/carl_kill_vo_04.ogg",
+        "minVolume":40,
+        "maxVolume":50,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":15000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":417
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/carl_kill_vo_05.ogg",
+        "minVolume":40,
+        "maxVolume":50,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":15000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":418
+    },
+    {
+        "name":"Carl_hurt_vo",
+        "fileNames":"sfx\/carl_hurt_vo_01.ogg",
+        "minVolume":50,
+        "maxVolume":50,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":12000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":419
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/carl_hurt_vo_02.ogg",
+        "minVolume":50,
+        "maxVolume":50,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":12000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":420
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/carl_hurt_vo_03.ogg",
+        "minVolume":50,
+        "maxVolume":50,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":12000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":421
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/carl_hurt_vo_04.ogg",
+        "minVolume":50,
+        "maxVolume":50,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":12000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":422
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/carl_hurt_vo_05.ogg",
+        "minVolume":50,
+        "maxVolume":50,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":12000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":423
+    },
+    {
+        "name":"Carl_die_vo",
+        "fileNames":"sfx\/carl_death_vo_01.ogg",
+        "minVolume":55,
+        "maxVolume":65,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":15000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":424
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/carl_death_vo_02.ogg",
+        "minVolume":55,
+        "maxVolume":65,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":15000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":425
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/carl_death_vo_03.ogg",
+        "minVolume":55,
+        "maxVolume":65,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":15000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":426
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/carl_death_vo_04.ogg",
+        "minVolume":55,
+        "maxVolume":65,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":15000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":427
+    },
+    {
+        "name":"Carl_ulti_vo",
+        "fileNames":"sfx\/carl_ulti_vo_01.ogg",
+        "minVolume":60,
+        "maxVolume":60,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":15000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":428
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/carl_ulti_vo_02.ogg",
+        "minVolume":60,
+        "maxVolume":60,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":15000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":429
+    },
+    {
+        "name":"Carl_lead_vo",
+        "fileNames":"sfx\/carl_lead_vo_01.ogg",
+        "minVolume":55,
+        "maxVolume":65,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":20000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":430
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/carl_lead_vo_02.ogg",
+        "minVolume":55,
+        "maxVolume":65,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":20000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":431
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/carl_lead_vo_03.ogg",
+        "minVolume":55,
+        "maxVolume":65,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":20000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":432
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/carl_lead_vo_04.ogg",
+        "minVolume":55,
+        "maxVolume":65,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":20000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":433
+    },
+    {
+        "name":"Carl_atk_vo",
+        "fileNames":"sfx\/carl_atk_vo_01.ogg",
+        "minVolume":50,
+        "maxVolume":50,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":15000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":434
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/carl_atk_vo_02.ogg",
+        "minVolume":50,
+        "maxVolume":50,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":15000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":435
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/carl_atk_vo_03.ogg",
+        "minVolume":50,
+        "maxVolume":50,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":15000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":436
     },
     {
         "name":"laser_panic_jingle",
@@ -8691,7 +9111,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":417
+        "id":437
     },
     {
         "name":"laser_panic_bad_jingle",
@@ -8712,7 +9132,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":418
+        "id":438
     },
     {
         "name":"ui_coin_gain",
@@ -8733,7 +9153,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":419
+        "id":439
     },
     {
         "name":"ui_firstcoin",
@@ -8754,7 +9174,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":420
+        "id":440
     },
     {
         "name":"ui_collect_coins",
@@ -8775,7 +9195,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":421
+        "id":441
     },
     {
         "name":"ui_tapbottomitem",
@@ -8796,7 +9216,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":422
+        "id":442
     },
     {
         "name":"ui_tapbottomguns",
@@ -8817,7 +9237,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":423
+        "id":443
     },
     {
         "name":"ui_upgradium_gain",
@@ -8838,7 +9258,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":424
+        "id":444
     },
     {
         "name":"ui_dust_gain",
@@ -8859,7 +9279,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":425
+        "id":445
     },
     {
         "name":"ui_battle_end_xp_gain",
@@ -8880,7 +9300,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":426
+        "id":446
     },
     {
         "name":"ui_battle_end_trophy_gain",
@@ -8901,7 +9321,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":427
+        "id":447
     },
     {
         "name":"ui_battle_end_trophy_loss",
@@ -8922,7 +9342,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":428
+        "id":448
     },
     {
         "name":"ui_battle_end_rank_up",
@@ -8943,7 +9363,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":429
+        "id":449
     },
     {
         "name":"ui_battle_end_level_up",
@@ -8964,7 +9384,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":430
+        "id":450
     },
     {
         "name":"ui_battle_end_element_slide",
@@ -8985,7 +9405,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":431
+        "id":451
     },
     {
         "name":"ui_battle_end_victory",
@@ -9006,7 +9426,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":432
+        "id":452
     },
     {
         "name":"ui_battle_end_defeat",
@@ -9027,7 +9447,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":433
+        "id":453
     },
     {
         "name":"ui_battle_end_draw",
@@ -9048,7 +9468,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":434
+        "id":454
     },
     {
         "name":"ui_battle_end_transition",
@@ -9069,7 +9489,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":435
+        "id":455
     },
     {
         "name":"ui_battle_end_mvp_you",
@@ -9090,7 +9510,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":436
+        "id":456
     },
     {
         "name":"ui_battle_end_mvp_enemy",
@@ -9111,7 +9531,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":437
+        "id":457
     },
     {
         "name":"ui_battle_end_mvp_other_friendly",
@@ -9132,7 +9552,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":438
+        "id":458
     },
     {
         "name":"ui_battle_end_score_decrease_appear",
@@ -9153,7 +9573,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":439
+        "id":459
     },
     {
         "name":"ui_battle_end_score_increase_appear",
@@ -9174,7 +9594,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":440
+        "id":460
     },
     {
         "name":"ui_battle_end_coin_element_appear",
@@ -9195,7 +9615,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":441
+        "id":461
     },
     {
         "name":"can_not_cast_ulti_tutorial",
@@ -9216,7 +9636,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":442
+        "id":462
     },
     {
         "name":"Bullet_rico_metal",
@@ -9237,7 +9657,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":443
+        "id":463
     },
     {
         "name":"Bullet_rico_rock",
@@ -9258,7 +9678,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":444
+        "id":464
     },
     {
         "name":"Bullet_rico_wood",
@@ -9279,7 +9699,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":445
+        "id":465
     },
     {
         "name":"Bullet_rico_grass",
@@ -9300,7 +9720,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":446
+        "id":466
     },
     {
         "name":"Chest_loop",
@@ -9321,7 +9741,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":447
+        "id":467
     },
     {
         "name":"Ulti_button_press",
@@ -9342,7 +9762,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":448
+        "id":468
     },
     {
         "name":"Ulti_button_cancel",
@@ -9363,7 +9783,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":449
+        "id":469
     },
     {
         "name":"Slugfest_go",
@@ -9384,7 +9804,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":450
+        "id":470
     },
     {
         "name":"Tick_tock",
@@ -9405,7 +9825,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":451
+        "id":471
     },
     {
         "name":"Bad_kill",
@@ -9426,7 +9846,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":452
+        "id":472
     },
     {
         "name":"Good_kill",
@@ -9447,7 +9867,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":453
+        "id":473
     },
     {
         "name":"Select_char",
@@ -9468,7 +9888,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":454
+        "id":474
     },
     {
         "name":"Wind_gust",
@@ -9489,7 +9909,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":455
+        "id":475
     },
     {
         "name":"Jess_shoot",
@@ -9510,7 +9930,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":456
+        "id":476
     },
     {
         "name":"Jess_hit",
@@ -9531,7 +9951,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":457
+        "id":477
     },
     {
         "name":"Jess_throw",
@@ -9552,7 +9972,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":458
+        "id":478
     },
     {
         "name":"Jess_dryfire",
@@ -9573,7 +9993,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":459
+        "id":479
     },
     {
         "name":"Jess_reload",
@@ -9594,7 +10014,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":460
+        "id":480
     },
     {
         "name":"Brock_dryfire",
@@ -9615,7 +10035,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":461
+        "id":481
     },
     {
         "name":"Brock_reload",
@@ -9636,7 +10056,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":462
+        "id":482
     },
     {
         "name":"Lucha_punch",
@@ -9657,7 +10077,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":463
+        "id":483
     },
     {
         "name":"Lucha_ulti",
@@ -9678,7 +10098,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":464
+        "id":484
     },
     {
         "name":"Punch_impact",
@@ -9699,7 +10119,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":465
+        "id":485
     },
     {
         "name":null,
@@ -9720,7 +10140,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":466
+        "id":486
     },
     {
         "name":"Trickshot_fire",
@@ -9741,7 +10161,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":467
+        "id":487
     },
     {
         "name":"Trickshot_bullet",
@@ -9762,7 +10182,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":468
+        "id":488
     },
     {
         "name":"Trickshot_fire_ulti",
@@ -9783,7 +10203,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":469
+        "id":489
     },
     {
         "name":"Bow_fire",
@@ -9804,7 +10224,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":470
+        "id":490
     },
     {
         "name":"Bow_reload",
@@ -9825,7 +10245,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":471
+        "id":491
     },
     {
         "name":"Bow_dryfire",
@@ -9846,7 +10266,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":472
+        "id":492
     },
     {
         "name":"Earth_atk",
@@ -9867,7 +10287,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":473
+        "id":493
     },
     {
         "name":"Crow_throw",
@@ -9888,7 +10308,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":474
+        "id":494
     },
     {
         "name":"crow_reload",
@@ -9909,7 +10329,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":475
+        "id":495
     },
     {
         "name":"crow_dryfire",
@@ -9930,7 +10350,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":476
+        "id":496
     },
     {
         "name":"spike_atk",
@@ -9951,7 +10371,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":477
+        "id":497
     },
     {
         "name":"Spike_reload",
@@ -9972,7 +10392,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":478
+        "id":498
     },
     {
         "name":"Cactus_explo",
@@ -9993,7 +10413,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":479
+        "id":499
     },
     {
         "name":"Mortis_atk",
@@ -10014,7 +10434,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":480
+        "id":500
     },
     {
         "name":"Mortis_ulti",
@@ -10035,7 +10455,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":481
+        "id":501
     },
     {
         "name":"Mortis_reload",
@@ -10056,7 +10476,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":482
+        "id":502
     },
     {
         "name":"Barkeep_atk",
@@ -10077,7 +10497,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":483
+        "id":503
     },
     {
         "name":"Barkeep_bottle_hit",
@@ -10098,7 +10518,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":484
+        "id":504
     },
     {
         "name":"Barkeep_reload",
@@ -10119,7 +10539,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":485
+        "id":505
     },
     {
         "name":"Barkeep_ulti_throw",
@@ -10140,7 +10560,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":486
+        "id":506
     },
     {
         "name":"Barkeep_ulti_hit",
@@ -10161,7 +10581,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":487
+        "id":507
     },
     {
         "name":"Barkeep_dryfire",
@@ -10182,7 +10602,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":488
+        "id":508
     },
     {
         "name":"Poco_reload",
@@ -10203,7 +10623,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":489
+        "id":509
     },
     {
         "name":"Poco_atk",
@@ -10224,7 +10644,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":490
+        "id":510
     },
     {
         "name":null,
@@ -10245,7 +10665,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":491
+        "id":511
     },
     {
         "name":null,
@@ -10266,7 +10686,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":492
+        "id":512
     },
     {
         "name":"Poco_ulti",
@@ -10287,7 +10707,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":493
+        "id":513
     },
     {
         "name":"Tnt_guy_start_vo",
@@ -10308,7 +10728,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":494
+        "id":514
     },
     {
         "name":null,
@@ -10329,7 +10749,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":495
+        "id":515
     },
     {
         "name":null,
@@ -10350,7 +10770,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":496
+        "id":516
     },
     {
         "name":null,
@@ -10371,7 +10791,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":497
+        "id":517
     },
     {
         "name":"Tnt_guy_lead_vo",
@@ -10392,7 +10812,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":498
+        "id":518
     },
     {
         "name":null,
@@ -10413,7 +10833,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":499
+        "id":519
     },
     {
         "name":"Tnt_guy_kill_vo",
@@ -10434,7 +10854,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":500
+        "id":520
     },
     {
         "name":null,
@@ -10455,7 +10875,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":501
+        "id":521
     },
     {
         "name":null,
@@ -10476,7 +10896,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":502
+        "id":522
     },
     {
         "name":null,
@@ -10497,7 +10917,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":503
+        "id":523
     },
     {
         "name":"Tnt_guy_hurt_vo",
@@ -10518,7 +10938,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":504
+        "id":524
     },
     {
         "name":null,
@@ -10539,7 +10959,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":505
+        "id":525
     },
     {
         "name":null,
@@ -10560,7 +10980,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":506
+        "id":526
     },
     {
         "name":null,
@@ -10581,7 +11001,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":507
+        "id":527
     },
     {
         "name":null,
@@ -10602,7 +11022,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":508
+        "id":528
     },
     {
         "name":"Tnt_guy_ulti_vo",
@@ -10623,7 +11043,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":509
+        "id":529
     },
     {
         "name":null,
@@ -10644,7 +11064,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":510
+        "id":530
     },
     {
         "name":"Tnt_guy_die_vo",
@@ -10665,7 +11085,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":511
+        "id":531
     },
     {
         "name":null,
@@ -10686,7 +11106,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":512
+        "id":532
     },
     {
         "name":null,
@@ -10707,7 +11127,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":513
+        "id":533
     },
     {
         "name":null,
@@ -10728,7 +11148,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":514
+        "id":534
     },
     {
         "name":null,
@@ -10749,7 +11169,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":515
+        "id":535
     },
     {
         "name":"Nita_ulti_throw",
@@ -10770,7 +11190,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":516
+        "id":536
     },
     {
         "name":"Nita_ulti_bear",
@@ -10791,7 +11211,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":517
+        "id":537
     },
     {
         "name":"Nita_kill",
@@ -10812,7 +11232,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":518
+        "id":538
     },
     {
         "name":null,
@@ -10833,7 +11253,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":519
+        "id":539
     },
     {
         "name":null,
@@ -10854,7 +11274,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":520
+        "id":540
     },
     {
         "name":"Nita_lead",
@@ -10875,7 +11295,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":521
+        "id":541
     },
     {
         "name":null,
@@ -10896,7 +11316,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":522
+        "id":542
     },
     {
         "name":null,
@@ -10917,7 +11337,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":523
+        "id":543
     },
     {
         "name":"Nita_start",
@@ -10938,7 +11358,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":524
+        "id":544
     },
     {
         "name":null,
@@ -10959,7 +11379,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":525
+        "id":545
     },
     {
         "name":null,
@@ -10980,7 +11400,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":526
+        "id":546
     },
     {
         "name":"Nita_ulti",
@@ -11001,7 +11421,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":527
+        "id":547
     },
     {
         "name":null,
@@ -11022,7 +11442,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":528
+        "id":548
     },
     {
         "name":null,
@@ -11043,7 +11463,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":529
+        "id":549
     },
     {
         "name":"Nita_hurt",
@@ -11064,7 +11484,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":530
+        "id":550
     },
     {
         "name":null,
@@ -11085,7 +11505,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":531
+        "id":551
     },
     {
         "name":null,
@@ -11106,7 +11526,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":532
+        "id":552
     },
     {
         "name":null,
@@ -11127,7 +11547,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":533
+        "id":553
     },
     {
         "name":null,
@@ -11148,7 +11568,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":534
+        "id":554
     },
     {
         "name":"Nita_death",
@@ -11169,7 +11589,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":535
+        "id":555
     },
     {
         "name":null,
@@ -11190,7 +11610,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":536
+        "id":556
     },
     {
         "name":"Nita_atk_vo",
@@ -11211,7 +11631,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":537
+        "id":557
     },
     {
         "name":null,
@@ -11232,7 +11652,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":538
+        "id":558
     },
     {
         "name":null,
@@ -11253,7 +11673,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":539
+        "id":559
     },
     {
         "name":null,
@@ -11274,7 +11694,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":540
+        "id":560
     },
     {
         "name":null,
@@ -11295,7 +11715,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":541
+        "id":561
     },
     {
         "name":"Pam_start",
@@ -11316,7 +11736,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":542
+        "id":562
     },
     {
         "name":null,
@@ -11337,7 +11757,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":543
+        "id":563
     },
     {
         "name":null,
@@ -11358,7 +11778,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":544
+        "id":564
     },
     {
         "name":null,
@@ -11379,7 +11799,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":545
+        "id":565
     },
     {
         "name":"Pam_hurt",
@@ -11400,7 +11820,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":546
+        "id":566
     },
     {
         "name":null,
@@ -11421,7 +11841,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":547
+        "id":567
     },
     {
         "name":null,
@@ -11442,7 +11862,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":548
+        "id":568
     },
     {
         "name":null,
@@ -11463,7 +11883,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":549
+        "id":569
     },
     {
         "name":null,
@@ -11484,7 +11904,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":550
+        "id":570
     },
     {
         "name":"Pam_kill",
@@ -11505,7 +11925,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":551
+        "id":571
     },
     {
         "name":null,
@@ -11526,7 +11946,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":552
+        "id":572
     },
     {
         "name":null,
@@ -11547,7 +11967,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":553
+        "id":573
     },
     {
         "name":null,
@@ -11568,7 +11988,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":554
+        "id":574
     },
     {
         "name":"Pam_lead",
@@ -11589,7 +12009,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":555
+        "id":575
     },
     {
         "name":null,
@@ -11610,7 +12030,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":556
+        "id":576
     },
     {
         "name":null,
@@ -11631,7 +12051,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":557
+        "id":577
     },
     {
         "name":null,
@@ -11652,7 +12072,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":558
+        "id":578
     },
     {
         "name":"Pam_ulti",
@@ -11673,7 +12093,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":559
+        "id":579
     },
     {
         "name":null,
@@ -11694,7 +12114,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":560
+        "id":580
     },
     {
         "name":null,
@@ -11715,7 +12135,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":561
+        "id":581
     },
     {
         "name":null,
@@ -11736,7 +12156,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":562
+        "id":582
     },
     {
         "name":"Pam_die",
@@ -11757,7 +12177,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":563
+        "id":583
     },
     {
         "name":null,
@@ -11778,7 +12198,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":564
+        "id":584
     },
     {
         "name":null,
@@ -11799,7 +12219,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":565
+        "id":585
     },
     {
         "name":null,
@@ -11820,7 +12240,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":566
+        "id":586
     },
     {
         "name":"Mortis_start",
@@ -11841,7 +12261,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":567
+        "id":587
     },
     {
         "name":null,
@@ -11862,7 +12282,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":568
+        "id":588
     },
     {
         "name":null,
@@ -11883,7 +12303,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":569
+        "id":589
     },
     {
         "name":null,
@@ -11904,7 +12324,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":570
+        "id":590
     },
     {
         "name":"Mortis_hurt",
@@ -11925,7 +12345,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":571
+        "id":591
     },
     {
         "name":null,
@@ -11946,7 +12366,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":572
+        "id":592
     },
     {
         "name":null,
@@ -11967,7 +12387,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":573
+        "id":593
     },
     {
         "name":null,
@@ -11988,7 +12408,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":574
+        "id":594
     },
     {
         "name":"Mortis_kill",
@@ -12009,7 +12429,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":575
+        "id":595
     },
     {
         "name":null,
@@ -12030,7 +12450,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":576
+        "id":596
     },
     {
         "name":null,
@@ -12051,7 +12471,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":577
+        "id":597
     },
     {
         "name":null,
@@ -12072,7 +12492,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":578
+        "id":598
     },
     {
         "name":"Mortis_lead",
@@ -12093,7 +12513,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":579
+        "id":599
     },
     {
         "name":null,
@@ -12114,7 +12534,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":580
+        "id":600
     },
     {
         "name":null,
@@ -12135,7 +12555,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":581
+        "id":601
     },
     {
         "name":null,
@@ -12156,7 +12576,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":582
+        "id":602
     },
     {
         "name":null,
@@ -12177,7 +12597,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":583
+        "id":603
     },
     {
         "name":"Mortis_ulti_vo",
@@ -12198,7 +12618,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":584
+        "id":604
     },
     {
         "name":null,
@@ -12219,7 +12639,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":585
+        "id":605
     },
     {
         "name":null,
@@ -12240,7 +12660,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":586
+        "id":606
     },
     {
         "name":null,
@@ -12261,7 +12681,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":587
+        "id":607
     },
     {
         "name":null,
@@ -12282,7 +12702,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":588
+        "id":608
     },
     {
         "name":"Mortis_die",
@@ -12303,7 +12723,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":589
+        "id":609
     },
     {
         "name":null,
@@ -12324,7 +12744,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":590
+        "id":610
     },
     {
         "name":null,
@@ -12345,7 +12765,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":591
+        "id":611
     },
     {
         "name":null,
@@ -12366,7 +12786,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":592
+        "id":612
     },
     {
         "name":null,
@@ -12387,7 +12807,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":593
+        "id":613
     },
     {
         "name":"Mortis_atk_vo",
@@ -12408,7 +12828,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":594
+        "id":614
     },
     {
         "name":null,
@@ -12429,7 +12849,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":595
+        "id":615
     },
     {
         "name":null,
@@ -12450,7 +12870,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":596
+        "id":616
     },
     {
         "name":null,
@@ -12471,7 +12891,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":597
+        "id":617
     },
     {
         "name":"Bomb_bleeps",
@@ -12492,7 +12912,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":598
+        "id":618
     },
     {
         "name":"Bomb_bleeps_friend",
@@ -12513,7 +12933,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":599
+        "id":619
     },
     {
         "name":"Tutorial_circle",
@@ -12534,7 +12954,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":600
+        "id":620
     },
     {
         "name":"Reveal_common",
@@ -12555,7 +12975,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":601
+        "id":621
     },
     {
         "name":"Reveal_rare",
@@ -12576,7 +12996,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":602
+        "id":622
     },
     {
         "name":"Reveal_epic",
@@ -12597,7 +13017,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":603
+        "id":623
     },
     {
         "name":"Reveal_legendary",
@@ -12618,7 +13038,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":604
+        "id":624
     },
     {
         "name":"Reveal_loop",
@@ -12639,7 +13059,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":605
+        "id":625
     },
     {
         "name":"Bo_mine_spawn",
@@ -12660,7 +13080,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":606
+        "id":626
     },
     {
         "name":"Buy_gems",
@@ -12681,7 +13101,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":607
+        "id":627
     },
     {
         "name":"Become_chips",
@@ -12702,7 +13122,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":608
+        "id":628
     },
     {
         "name":"Safe_open_elixir",
@@ -12723,7 +13143,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":609
+        "id":629
     },
     {
         "name":"Safe_open_char",
@@ -12744,7 +13164,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":610
+        "id":630
     },
     {
         "name":"Getting_healed",
@@ -12765,7 +13185,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":611
+        "id":631
     },
     {
         "name":"Sniper_atk",
@@ -12786,7 +13206,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":612
+        "id":632
     },
     {
         "name":"Sniper_trail",
@@ -12807,7 +13227,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":613
+        "id":633
     },
     {
         "name":"Sniper_reload",
@@ -12828,7 +13248,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":614
+        "id":634
     },
     {
         "name":"Sniper_ulti",
@@ -12849,7 +13269,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":615
+        "id":635
     },
     {
         "name":"Piper_mine_drop",
@@ -12870,7 +13290,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":616
+        "id":636
     },
     {
         "name":"Sniper_land",
@@ -12891,7 +13311,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":617
+        "id":637
     },
     {
         "name":"Throw_bawl",
@@ -12912,7 +13332,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":618
+        "id":638
     },
     {
         "name":"Throw_bawl_ulti",
@@ -12933,7 +13353,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":619
+        "id":639
     },
     {
         "name":"Catch_bawl",
@@ -12954,7 +13374,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":620
+        "id":640
     },
     {
         "name":"Mystic_atk",
@@ -12975,7 +13395,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":621
+        "id":641
     },
     {
         "name":"Black_hole",
@@ -12996,7 +13416,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":622
+        "id":642
     },
     {
         "name":"Mystic_reload",
@@ -13017,7 +13437,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":623
+        "id":643
     },
     {
         "name":"Mystic_ulti_deploy",
@@ -13038,7 +13458,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":624
+        "id":644
     },
     {
         "name":"Mystic_dryfire",
@@ -13059,7 +13479,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":625
+        "id":645
     },
     {
         "name":"Overtime",
@@ -13080,7 +13500,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":626
+        "id":646
     },
     {
         "name":"MiniG_fire",
@@ -13101,7 +13521,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":627
+        "id":647
     },
     {
         "name":"MiniG_reload",
@@ -13122,7 +13542,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":628
+        "id":648
     },
     {
         "name":"Minig_dryfire",
@@ -13143,7 +13563,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":629
+        "id":649
     },
     {
         "name":"MiniG_ulti",
@@ -13164,7 +13584,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":630
+        "id":650
     },
     {
         "name":"Pve_wave_01",
@@ -13185,7 +13605,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":631
+        "id":651
     },
     {
         "name":"Pve_boss_01",
@@ -13206,7 +13626,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":632
+        "id":652
     },
     {
         "name":"Barrel_bot_ulti",
@@ -13227,7 +13647,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":633
+        "id":653
     },
     {
         "name":"Get_100coins",
@@ -13248,7 +13668,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":634
+        "id":654
     },
     {
         "name":"Trophy_rank_up",
@@ -13269,7 +13689,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":635
+        "id":655
     },
     {
         "name":"Craft_rarity_01",
@@ -13290,7 +13710,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":636
+        "id":656
     },
     {
         "name":"Craft_rarity_02",
@@ -13311,7 +13731,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":637
+        "id":657
     },
     {
         "name":"Craft_rarity_03",
@@ -13332,7 +13752,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":638
+        "id":658
     },
     {
         "name":"Craft_rarity_04",
@@ -13353,7 +13773,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":639
+        "id":659
     },
     {
         "name":"Craft_rarity_05",
@@ -13374,7 +13794,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":640
+        "id":660
     },
     {
         "name":"Brawl_button",
@@ -13395,7 +13815,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":641
+        "id":661
     },
     {
         "name":"Select_brawler",
@@ -13416,7 +13836,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":642
+        "id":662
     },
     {
         "name":"Barrelbot_step",
@@ -13437,7 +13857,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":643
+        "id":663
     },
     {
         "name":"Char_rollout",
@@ -13458,7 +13878,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":644
+        "id":664
     },
     {
         "name":"Brawler_intro",
@@ -13479,7 +13899,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":645
+        "id":665
     },
     {
         "name":"Brawl_intro",
@@ -13500,7 +13920,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":646
+        "id":666
     },
     {
         "name":"Upgrade_count",
@@ -13521,7 +13941,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":647
+        "id":667
     },
     {
         "name":"Count_powerpoints",
@@ -13542,7 +13962,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":648
+        "id":668
     },
     {
         "name":"Emit_powerpoints",
@@ -13563,7 +13983,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":649
+        "id":669
     },
     {
         "name":"Gatcha_end_screen",
@@ -13584,7 +14004,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":650
+        "id":670
     },
     {
         "name":"Gatcha_star_power",
@@ -13605,7 +14025,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":651
+        "id":671
     },
     {
         "name":"Buy_from_shop",
@@ -13626,7 +14046,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":652
+        "id":672
     },
     {
         "name":"Shop_item_appear",
@@ -13647,7 +14067,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":653
+        "id":673
     },
     {
         "name":"Coins_gatcha",
@@ -13668,7 +14088,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":654
+        "id":674
     },
     {
         "name":"Upgrade_unlocked",
@@ -13689,7 +14109,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":655
+        "id":675
     },
     {
         "name":"2x_gatcha",
@@ -13710,7 +14130,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":656
+        "id":676
     },
     {
         "name":"Get_powerpoints_small",
@@ -13731,7 +14151,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":657
+        "id":677
     },
     {
         "name":"Get_powerpoints_medium",
@@ -13752,7 +14172,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":658
+        "id":678
     },
     {
         "name":"Get_powerpoints_big",
@@ -13773,7 +14193,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":659
+        "id":679
     },
     {
         "name":"Get_powerpoints_accent",
@@ -13794,7 +14214,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":660
+        "id":680
     },
     {
         "name":"Get_powerpoints_accent_2",
@@ -13815,7 +14235,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":661
+        "id":681
     },
     {
         "name":"Friend_online",
@@ -13836,7 +14256,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":662
+        "id":682
     },
     {
         "name":"Ticket_gatcha",
@@ -13857,7 +14277,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":663
+        "id":683
     },
     {
         "name":"Bad_brawler",
@@ -13878,7 +14298,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":664
+        "id":684
     },
     {
         "name":"Tut_speech",
@@ -13899,7 +14319,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":665
+        "id":685
     },
     {
         "name":"Marig_nohit",
@@ -13920,7 +14340,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":666
+        "id":686
     },
     {
         "name":"Marig_hit",
@@ -13941,7 +14361,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":667
+        "id":687
     },
     {
         "name":"Marig_fire",
@@ -13962,7 +14382,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":668
+        "id":688
     },
     {
         "name":"Marig_ulti",
@@ -13983,7 +14403,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":669
+        "id":689
     },
     {
         "name":"Hammer_atk",
@@ -14004,7 +14424,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":670
+        "id":690
     },
     {
         "name":"Hammer_hit",
@@ -14025,7 +14445,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":671
+        "id":691
     },
     {
         "name":"Hammer_u_atk",
@@ -14046,7 +14466,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":672
+        "id":692
     },
     {
         "name":"Hammer_u_hit",
@@ -14067,7 +14487,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":673
+        "id":693
     },
     {
         "name":"New_reward_home",
@@ -14088,7 +14508,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":674
+        "id":694
     },
     {
         "name":"Trophy_rank_up_home",
@@ -14109,7 +14529,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":675
+        "id":695
     },
     {
         "name":"Unlock_event_slot",
@@ -14130,7 +14550,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":676
+        "id":696
     },
     {
         "name":"Frank_vo",
@@ -14151,7 +14571,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":677
+        "id":697
     },
     {
         "name":null,
@@ -14172,7 +14592,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":678
+        "id":698
     },
     {
         "name":null,
@@ -14193,7 +14613,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":679
+        "id":699
     },
     {
         "name":null,
@@ -14214,7 +14634,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":680
+        "id":700
     },
     {
         "name":null,
@@ -14235,7 +14655,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":681
+        "id":701
     },
     {
         "name":null,
@@ -14256,7 +14676,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":682
+        "id":702
     },
     {
         "name":"Emit_coins",
@@ -14277,7 +14697,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":683
+        "id":703
     },
     {
         "name":"Emit_gems",
@@ -14298,7 +14718,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":684
+        "id":704
     },
     {
         "name":"ui_gem_gain",
@@ -14319,7 +14739,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":685
+        "id":705
     },
     {
         "name":"Emit_tickets",
@@ -14340,7 +14760,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":686
+        "id":706
     },
     {
         "name":"ui_ticket_gain",
@@ -14361,7 +14781,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":687
+        "id":707
     },
     {
         "name":"Emit_keys",
@@ -14382,7 +14802,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":688
+        "id":708
     },
     {
         "name":"ui_key_gain",
@@ -14403,7 +14823,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":689
+        "id":709
     },
     {
         "name":"Emit_star_keys",
@@ -14424,7 +14844,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":690
+        "id":710
     },
     {
         "name":"ui_star_key_gain",
@@ -14445,7 +14865,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":691
+        "id":711
     },
     {
         "name":"Emit_trophies",
@@ -14466,7 +14886,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":692
+        "id":712
     },
     {
         "name":"ui_trophy_gain",
@@ -14487,7 +14907,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":693
+        "id":713
     },
     {
         "name":"Gems_gatcha",
@@ -14508,7 +14928,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":694
+        "id":714
     },
     {
         "name":"Meteor_seq",
@@ -14529,7 +14949,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":695
+        "id":715
     },
     {
         "name":null,
@@ -14550,7 +14970,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":696
+        "id":716
     },
     {
         "name":null,
@@ -14571,7 +14991,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":697
+        "id":717
     },
     {
         "name":"Powerup_seq",
@@ -14592,7 +15012,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":698
+        "id":718
     },
     {
         "name":"Boss_seq",
@@ -14613,7 +15033,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":699
+        "id":719
     },
     {
         "name":"Emit_drops",
@@ -14634,7 +15054,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":700
+        "id":720
     },
     {
         "name":"Get_powerup",
@@ -14655,7 +15075,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":701
+        "id":721
     },
     {
         "name":"Join_game_room",
@@ -14676,7 +15096,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":702
+        "id":722
     },
     {
         "name":"Leave_game_room",
@@ -14697,7 +15117,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":703
+        "id":723
     },
     {
         "name":"raidboss_warning",
@@ -14718,7 +15138,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":704
+        "id":724
     },
     {
         "name":null,
@@ -14739,7 +15159,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":705
+        "id":725
     },
     {
         "name":null,
@@ -14760,7 +15180,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":706
+        "id":726
     },
     {
         "name":null,
@@ -14781,7 +15201,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":707
+        "id":727
     },
     {
         "name":"raidboss_attack",
@@ -14802,7 +15222,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":708
+        "id":728
     },
     {
         "name":"raidboss_rocket_attack",
@@ -14823,7 +15243,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":709
+        "id":729
     },
     {
         "name":"Shrooms",
@@ -14844,7 +15264,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":710
+        "id":730
     },
     {
         "name":"Char_respawn",
@@ -14865,7 +15285,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":711
+        "id":731
     },
     {
         "name":"Enemy_char_respawn",
@@ -14886,7 +15306,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":712
+        "id":732
     },
     {
         "name":"Respawn_count_3",
@@ -14907,7 +15327,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":713
+        "id":733
     },
     {
         "name":"Respawn_count_2",
@@ -14928,7 +15348,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":714
+        "id":734
     },
     {
         "name":"Respawn_count_1",
@@ -14949,7 +15369,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":715
+        "id":735
     },
     {
         "name":"Respawn_count_0",
@@ -14970,7 +15390,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":716
+        "id":736
     },
     {
         "name":"Leon_atk",
@@ -14991,7 +15411,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":717
+        "id":737
     },
     {
         "name":"Leon_ulti",
@@ -15012,7 +15432,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":718
+        "id":738
     },
     {
         "name":"Leon_ulti_end",
@@ -15033,7 +15453,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":719
+        "id":739
     },
     {
         "name":"Leon_reload",
@@ -15054,7 +15474,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":720
+        "id":740
     },
     {
         "name":"Dry_fire_leon",
@@ -15075,7 +15495,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":721
+        "id":741
     },
     {
         "name":"Wiz_barley_fireball",
@@ -15096,7 +15516,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":722
+        "id":742
     },
     {
         "name":"Wiz_barley_fireball_hit",
@@ -15117,7 +15537,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":723
+        "id":743
     },
     {
         "name":"Gene_atk",
@@ -15138,7 +15558,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":724
+        "id":744
     },
     {
         "name":"Gene_atk_dry",
@@ -15159,7 +15579,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":725
+        "id":745
     },
     {
         "name":"Gene_atk_reload",
@@ -15180,7 +15600,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":726
+        "id":746
     },
     {
         "name":"Gene_atk_split",
@@ -15201,7 +15621,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":727
+        "id":747
     },
     {
         "name":"Penny_turret_spawn",
@@ -15222,7 +15642,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":728
+        "id":748
     },
     {
         "name":"Gene_ulti",
@@ -15243,7 +15663,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":729
+        "id":749
     },
     {
         "name":"Gene_ulti_hit",
@@ -15264,7 +15684,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":730
+        "id":750
     },
     {
         "name":"Gene_atk_hit",
@@ -15285,7 +15705,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":731
+        "id":751
     },
     {
         "name":"Gene_atk_hit_2",
@@ -15306,7 +15726,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":732
+        "id":752
     },
     {
         "name":"Gene_vo",
@@ -15327,7 +15747,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":733
+        "id":753
     },
     {
         "name":null,
@@ -15348,7 +15768,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":734
+        "id":754
     },
     {
         "name":null,
@@ -15369,7 +15789,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":735
+        "id":755
     },
     {
         "name":null,
@@ -15390,7 +15810,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":736
+        "id":756
     },
     {
         "name":null,
@@ -15411,7 +15831,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":737
+        "id":757
     },
     {
         "name":null,
@@ -15432,7 +15852,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":738
+        "id":758
     },
     {
         "name":null,
@@ -15453,7 +15873,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":739
+        "id":759
     },
     {
         "name":null,
@@ -15474,7 +15894,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":740
+        "id":760
     },
     {
         "name":null,
@@ -15495,7 +15915,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":741
+        "id":761
     },
     {
         "name":null,
@@ -15516,7 +15936,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":742
+        "id":762
     },
     {
         "name":null,
@@ -15537,7 +15957,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":743
+        "id":763
     },
     {
         "name":null,
@@ -15558,7 +15978,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":744
+        "id":764
     },
     {
         "name":null,
@@ -15579,7 +15999,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":745
+        "id":765
     },
     {
         "name":null,
@@ -15600,7 +16020,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":746
+        "id":766
     },
     {
         "name":"Springboard_charge",
@@ -15621,7 +16041,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":747
+        "id":767
     },
     {
         "name":"Springboard_jump",
@@ -15642,7 +16062,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":748
+        "id":768
     },
     {
         "name":"Carl_atk",
@@ -15663,7 +16083,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":749
+        "id":769
     },
     {
         "name":"Carl_reload",
@@ -15684,7 +16104,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":750
+        "id":770
     },
     {
         "name":"Carl_no_ammo",
@@ -15705,7 +16125,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":751
+        "id":771
     },
     {
         "name":"Carl_ulti",
@@ -15726,7 +16146,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":752
+        "id":772
     },
     {
         "name":"Carl_atk_return",
@@ -15747,7 +16167,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":753
+        "id":773
     },
     {
         "name":"Carl_atk_hit_return",
@@ -15768,6 +16188,111 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":754
+        "id":774
+    },
+    {
+        "name":"Train_warning",
+        "fileNames":"sfx\/troll_train_warn_01.ogg",
+        "minVolume":50,
+        "maxVolume":50,
+        "minPitch":100,
+        "maxPitch":100,
+        "priority":1,
+        "maximumByType":3,
+        "maxRepeatMs":null,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":775
+    },
+    {
+        "name":"Nita_dog_summon",
+        "fileNames":"sfx\/Nita_dog_summon_01.ogg",
+        "minVolume":50,
+        "maxVolume":60,
+        "minPitch":95,
+        "maxPitch":105,
+        "priority":1,
+        "maximumByType":3,
+        "maxRepeatMs":null,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":776
+    },
+    {
+        "name":"Rosa_ulti",
+        "fileNames":"sfx\/Rosa_ulti_01.ogg",
+        "minVolume":70,
+        "maxVolume":70,
+        "minPitch":100,
+        "maxPitch":100,
+        "priority":1,
+        "maximumByType":3,
+        "maxRepeatMs":null,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":777
+    },
+    {
+        "name":"Rosa_punch",
+        "fileNames":"sfx\/Rosa_punch_01.ogg",
+        "minVolume":20,
+        "maxVolume":40,
+        "minPitch":90,
+        "maxPitch":110,
+        "priority":1,
+        "maximumByType":10,
+        "maxRepeatMs":null,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":778
+    },
+    {
+        "name":"Rosa_reload",
+        "fileNames":"sfx\/Rosa_reload_01.ogg",
+        "minVolume":40,
+        "maxVolume":40,
+        "minPitch":100,
+        "maxPitch":100,
+        "priority":1,
+        "maximumByType":3,
+        "maxRepeatMs":null,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":779
     }
 ]

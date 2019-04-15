@@ -6,6 +6,7 @@
         "maxXPLevel":40,
         "fileName":null,
         "exportName":null,
+        "character":null,
         "rawTID":"HINT_0"
     },
     {
@@ -15,6 +16,7 @@
         "maxXPLevel":40,
         "fileName":null,
         "exportName":null,
+        "character":null,
         "rawTID":"HINT_1"
     },
     {
@@ -24,6 +26,7 @@
         "maxXPLevel":40,
         "fileName":null,
         "exportName":null,
+        "character":null,
         "rawTID":"HINT_2"
     },
     {
@@ -33,6 +36,7 @@
         "maxXPLevel":40,
         "fileName":null,
         "exportName":null,
+        "character":null,
         "rawTID":"HINT_3"
     },
     {
@@ -42,6 +46,7 @@
         "maxXPLevel":40,
         "fileName":null,
         "exportName":null,
+        "character":null,
         "rawTID":"HINT_4"
     },
     {
@@ -51,6 +56,7 @@
         "maxXPLevel":999,
         "fileName":null,
         "exportName":null,
+        "character":null,
         "rawTID":"HINT_5"
     },
     {
@@ -60,6 +66,7 @@
         "maxXPLevel":999,
         "fileName":null,
         "exportName":null,
+        "character":null,
         "rawTID":"HINT_6"
     },
     {
@@ -69,6 +76,7 @@
         "maxXPLevel":999,
         "fileName":null,
         "exportName":null,
+        "character":null,
         "rawTID":"HINT_7"
     },
     {
@@ -78,6 +86,7 @@
         "maxXPLevel":999,
         "fileName":null,
         "exportName":null,
+        "character":null,
         "rawTID":"HINT_8"
     },
     {
@@ -87,6 +96,7 @@
         "maxXPLevel":999,
         "fileName":null,
         "exportName":null,
+        "character":null,
         "rawTID":"HINT_9"
     },
     {
@@ -96,6 +106,7 @@
         "maxXPLevel":40,
         "fileName":null,
         "exportName":null,
+        "character":null,
         "rawTID":"HINT_10"
     },
     {
@@ -105,6 +116,7 @@
         "maxXPLevel":40,
         "fileName":null,
         "exportName":null,
+        "character":null,
         "rawTID":"HINT_11"
     },
     {
@@ -114,6 +126,7 @@
         "maxXPLevel":60,
         "fileName":null,
         "exportName":null,
+        "character":null,
         "rawTID":"HINT_12"
     },
     {
@@ -123,6 +136,7 @@
         "maxXPLevel":60,
         "fileName":null,
         "exportName":null,
+        "character":null,
         "rawTID":"HINT_13"
     },
     {
@@ -132,6 +146,7 @@
         "maxXPLevel":60,
         "fileName":null,
         "exportName":null,
+        "character":null,
         "rawTID":"HINT_14"
     },
     {
@@ -141,6 +156,7 @@
         "maxXPLevel":60,
         "fileName":null,
         "exportName":null,
+        "character":null,
         "rawTID":"HINT_15"
     },
     {
@@ -150,6 +166,7 @@
         "maxXPLevel":60,
         "fileName":null,
         "exportName":null,
+        "character":null,
         "rawTID":"HINT_16"
     },
     {
@@ -159,6 +176,7 @@
         "maxXPLevel":60,
         "fileName":null,
         "exportName":null,
+        "character":null,
         "rawTID":"HINT_17"
     },
     {
@@ -168,6 +186,7 @@
         "maxXPLevel":60,
         "fileName":null,
         "exportName":null,
+        "character":null,
         "rawTID":"HINT_18"
     },
     {
@@ -177,6 +196,7 @@
         "maxXPLevel":60,
         "fileName":null,
         "exportName":null,
+        "character":null,
         "rawTID":"HINT_19"
     },
     {
@@ -186,6 +206,7 @@
         "maxXPLevel":60,
         "fileName":null,
         "exportName":null,
+        "character":null,
         "rawTID":"HINT_20"
     },
     {
@@ -195,6 +216,7 @@
         "maxXPLevel":40,
         "fileName":null,
         "exportName":null,
+        "character":null,
         "rawTID":"HINT_21"
     },
     {
@@ -204,6 +226,7 @@
         "maxXPLevel":40,
         "fileName":null,
         "exportName":null,
+        "character":null,
         "rawTID":"HINT_22"
     },
     {
@@ -213,6 +236,7 @@
         "maxXPLevel":60,
         "fileName":null,
         "exportName":null,
+        "character":null,
         "rawTID":"HINT_23"
     },
     {
@@ -222,6 +246,7 @@
         "maxXPLevel":60,
         "fileName":null,
         "exportName":null,
+        "character":null,
         "rawTID":"HINT_24"
     },
     {
@@ -231,6 +256,7 @@
         "maxXPLevel":60,
         "fileName":null,
         "exportName":null,
+        "character":null,
         "rawTID":"HINT_25"
     },
     {
@@ -240,6 +266,7 @@
         "maxXPLevel":999,
         "fileName":null,
         "exportName":null,
+        "character":null,
         "rawTID":"HINT_26"
     },
     {
@@ -249,6 +276,7 @@
         "maxXPLevel":999,
         "fileName":null,
         "exportName":null,
+        "character":null,
         "rawTID":"HINT_27"
     },
     {
@@ -258,6 +286,7 @@
         "maxXPLevel":999,
         "fileName":null,
         "exportName":null,
+        "character":null,
         "rawTID":"HINT_28"
     },
     {
@@ -267,6 +296,7 @@
         "maxXPLevel":60,
         "fileName":null,
         "exportName":null,
+        "character":null,
         "rawTID":"HINT_29"
     },
     {
@@ -276,6 +306,7 @@
         "maxXPLevel":999,
         "fileName":null,
         "exportName":null,
+        "character":null,
         "rawTID":"HINT_30"
     },
     {
@@ -285,6 +316,7 @@
         "maxXPLevel":999,
         "fileName":null,
         "exportName":null,
+        "character":null,
         "rawTID":"HINT_31"
     },
     {
@@ -294,6 +326,7 @@
         "maxXPLevel":60,
         "fileName":null,
         "exportName":null,
+        "character":null,
         "rawTID":"HINT_32"
     },
     {
@@ -303,6 +336,7 @@
         "maxXPLevel":999,
         "fileName":null,
         "exportName":null,
+        "character":null,
         "rawTID":"HINT_33"
     },
     {
@@ -312,6 +346,7 @@
         "maxXPLevel":999,
         "fileName":null,
         "exportName":null,
+        "character":null,
         "rawTID":"HINT_34"
     },
     {
@@ -321,6 +356,7 @@
         "maxXPLevel":999,
         "fileName":null,
         "exportName":null,
+        "character":null,
         "rawTID":"HINT_35"
     },
     {
@@ -330,6 +366,7 @@
         "maxXPLevel":999,
         "fileName":null,
         "exportName":null,
+        "character":null,
         "rawTID":"HINT_36"
     },
     {
@@ -339,6 +376,7 @@
         "maxXPLevel":999,
         "fileName":null,
         "exportName":null,
+        "character":null,
         "rawTID":"HINT_37"
     },
     {
@@ -348,6 +386,7 @@
         "maxXPLevel":999,
         "fileName":null,
         "exportName":null,
+        "character":null,
         "rawTID":"HINT_38"
     },
     {
@@ -357,6 +396,7 @@
         "maxXPLevel":999,
         "fileName":null,
         "exportName":null,
+        "character":null,
         "rawTID":"HINT_39"
     },
     {
@@ -366,6 +406,7 @@
         "maxXPLevel":999,
         "fileName":null,
         "exportName":null,
+        "character":null,
         "rawTID":"HINT_40"
     },
     {
@@ -375,6 +416,7 @@
         "maxXPLevel":999,
         "fileName":null,
         "exportName":null,
+        "character":null,
         "rawTID":"HINT_41"
     },
     {
@@ -384,6 +426,7 @@
         "maxXPLevel":40,
         "fileName":null,
         "exportName":null,
+        "character":null,
         "rawTID":"HINT_42"
     },
     {
@@ -393,6 +436,7 @@
         "maxXPLevel":999,
         "fileName":null,
         "exportName":null,
+        "character":null,
         "rawTID":"HINT_43"
     }
 ]
