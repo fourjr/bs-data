@@ -7110,7 +7110,7 @@
         "id":95
     },
     {
-        "name":"RosaProjectile",
+        "name":"",
         "speed":5000,
         "fileName":"sc\/effects_brawler.sc",
         "blueSCW":"sc3d\/rosa_def_atk_projectile_blue.scw",
@@ -7167,7 +7167,7 @@
         "lifeStealPercent":null,
         "passesEnvironment":null,
         "poisonDamagePercent":null,
-        "sameProjectileCanNotDamageMS":250,
+        "sameProjectileCanNotDamageMS":150,
         "healOwnPercent":null,
         "canGrowStronger":null,
         "hideFaster":true,
