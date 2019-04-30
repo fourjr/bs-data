@@ -14,11 +14,13 @@ except ImportError:
 
 import requests
 import yaml
+from argparse import ArgumentParser
 
-try:
-    arg_lang = sys.argv[1]
-except IndexError:
-    arg_lang = None
+parser = ArgumentParser(description='Parse CSV files from Brawl Stars')
+parser.add_argument('-l', '--language', dest='language')
+parser.add_argument('-f', '--files', nargs='*', dest='files')
+
+args = parser.parse_args()
 
 if __name__ == '__main__':
     TID = {}
@@ -66,8 +68,12 @@ if __name__ == '__main__':
 
         print('CSV Files synced')
 
-    csv_files = [('csv/csv_client/' + i, i) for i in os.listdir('csv/csv_client') if i.endswith('.csv')] + \
-                [('csv/csv_logic/' + i, i) for i in os.listdir('csv/csv_logic') if i.endswith('.csv')]
+    if args.files:
+        csv_files = [('csv/csv_client/' + i, i) for i in os.listdir('csv/csv_client') if i.endswith('.csv') and i in args.files] + \
+                    [('csv/csv_logic/' + i, i) for i in os.listdir('csv/csv_logic') if i.endswith('.csv') and i in args.files]
+    else:
+        csv_files = [('csv/csv_client/' + i, i) for i in os.listdir('csv/csv_client') if i.endswith('.csv')] + \
+                    [('csv/csv_logic/' + i, i) for i in os.listdir('csv/csv_logic') if i.endswith('.csv')]
 
     for fp, fn in csv_files:
         with open(fp, encoding='utf-8') as f:
@@ -134,8 +140,8 @@ if __name__ == '__main__':
             # languages
             if fn != 'maps.csv':
                 for lang in TID:
-                    if arg_lang:
-                        lang = arg_lang
+                    if args.language:
+                        lang = args.language
                     change_data = copy.deepcopy(data)  # might be able to remove
                     for n, i in enumerate(change_data):
                         i_keys = list(i.keys())
@@ -150,15 +156,15 @@ if __name__ == '__main__':
                         json.dump(change_data, f, indent=4)
 
                     all_data[lang][fn.replace('.csv', '')] = copy.deepcopy(change_data)
-                    if arg_lang:
+                    if args.language:
                         break
             else:
                 for lang in TID:
-                    if arg_lang:
-                        lang = arg_lang
+                    if args.language:
+                        lang = args.language
                     with open(f"json/{lang}/{fn.replace('.csv', '.json')}", 'w+') as f:
                         json.dump(data, f, indent=4)
-                    if arg_lang:
+                    if args.language:
                         break
 
                     all_data[lang][fn.replace('.csv', '')] = data
@@ -166,22 +172,23 @@ if __name__ == '__main__':
         print(fp)
 
     # tid.json
-    for i in TID:
-        if arg_lang:
-            i = arg_lang
-        with open(f'json/{i}/tid.json', 'w+') as f:
-            print(f'json/{i}/tid.json')
-            all_data[i]['tid'] = {j[4:]: TID[i][j] for j in TID[i]}
-            json.dump(TID[i], f, indent=4)
-        if arg_lang:
-            break
+    if not args.files:
+        for i in TID:
+            if args.language:
+                i = args.language
+            with open(f'json/{i}/tid.json', 'w+') as f:
+                print(f'json/{i}/tid.json')
+                all_data[i]['tid'] = {j[4:]: TID[i][j] for j in TID[i]}
+                json.dump(TID[i], f, indent=4)
+            if args.language:
+                break
 
     # all.json
     for i in TID:
-        if arg_lang:
-            i = arg_lang
+        if args.language:
+            i = args.language
         with open(f'json/{i}/all.json', 'w+') as f:
             print(f'json/{i}/all.json')
             json.dump(all_data[i], f, indent=4)
-        if arg_lang:
+        if args.language:
             break

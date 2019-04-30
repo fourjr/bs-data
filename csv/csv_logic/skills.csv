@@ -60,7 +60,7 @@
 "NinjaWeapon","Attack","true","true","true",50,450,,29,,1900,3,440,100,35,2,1,"true","true",,,,,,,,,"NinjaProjectile",,,,,,,,,"sc/ui.sc","rapid_fire_button","ninja_attack",,,,,,,
 "NinjaUlti","Invisibility","true",,"true",50,7000,,,,,,,,,,,,,,,,,,"true",1200,,,,,,,,,,,"sc/ui.sc","button_sprint",,,,,,,,
 "RosaWeapon","Attack","true","true","true",50,800,,11,,1000,3,480,250,130,,3,"true","true",,,,,,,,,"RosaProjectile",,,,,,,,,"sc/ui.sc","rapid_fire_button","rosa_def_atk",,,,,,,
-"RosaUlti","Shield","true",,"true",50,6000,,,,,,,80,,,,,,,,,,,,,,,,,,,,,,,"sc/ui.sc","button_sprint",,"rosa_def_ulti",,"rosa_def_ulti_loop",,,,
+"RosaUlti","Shield","true",,"true",50,4000,,,,,,,70,,,,,,,,,,,,,,,,,,,,,,,"sc/ui.sc","button_sprint",,"rosa_def_ulti",,"rosa_def_ulti_loop",,,,
 "SmokeScreenUlti","Attack","true","true","true",250,150,,22,,,,,100,0,,1,,"true",,,,,,,,,"SmokeScreenUltiProjectile",,,,,,"skillicon_dynamite_ulti",,,"sc/ui.sc","plasma_bomb_button","tnt_attack_ulti",,,,,,,
 "RaidBossRapidFire","Attack",,"true",,50,1850,1250,60,,1250,3,1200,300,100,2,1,,"true",,,,,,,,,"RaidBossProjectileRed",,,,,,,,,"sc/ui.sc","rapid_fire_button","raid_boss_ranged_attack","raidboss_skill_warning_long",,,,,,"true"
 "RaidBossRapidFire2","Attack",,"true",,50,1850,1000,60,,1250,3,1400,200,150,2,1,,"true",,,,,,,,,"RaidBossProjectileRed",,,,,,,,,"sc/ui.sc","rapid_fire_button","raid_boss_ranged_attack","raidboss_skill_warning_medium",,,,,,"true"
