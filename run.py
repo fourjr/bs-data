@@ -21,6 +21,7 @@ parser.add_argument('-l', '--language', dest='language')
 parser.add_argument('-f', '--files', nargs='*', dest='files')
 
 args = parser.parse_args()
+print(args.files)
 
 if __name__ == '__main__':
     TID = {}
@@ -68,12 +69,8 @@ if __name__ == '__main__':
 
         print('CSV Files synced')
 
-    if args.files:
-        csv_files = [('csv/csv_client/' + i, i) for i in os.listdir('csv/csv_client') if i.endswith('.csv') and i in args.files] + \
-                    [('csv/csv_logic/' + i, i) for i in os.listdir('csv/csv_logic') if i.endswith('.csv') and i in args.files]
-    else:
-        csv_files = [('csv/csv_client/' + i, i) for i in os.listdir('csv/csv_client') if i.endswith('.csv')] + \
-                    [('csv/csv_logic/' + i, i) for i in os.listdir('csv/csv_logic') if i.endswith('.csv')]
+    csv_files = [('csv/csv_client/' + i, i) for i in os.listdir('csv/csv_client') if i.endswith('.csv')] + \
+                [('csv/csv_logic/' + i, i) for i in os.listdir('csv/csv_logic') if i.endswith('.csv')]
 
     for fp, fn in csv_files:
         with open(fp, encoding='utf-8') as f:
@@ -152,8 +149,9 @@ if __name__ == '__main__':
                                 except KeyError:
                                     pass
 
-                    with open(f"json/{lang}/{fn.replace('.csv', '.json')}", 'w+') as f:
-                        json.dump(change_data, f, indent=4)
+                    if args.files and fn in args.files:
+                        with open(f"json/{lang}/{fn.replace('.csv', '.json')}", 'w+') as f:
+                            json.dump(change_data, f, indent=4)
 
                     all_data[lang][fn.replace('.csv', '')] = copy.deepcopy(change_data)
                     if args.language:
@@ -162,8 +160,11 @@ if __name__ == '__main__':
                 for lang in TID:
                     if args.language:
                         lang = args.language
-                    with open(f"json/{lang}/{fn.replace('.csv', '.json')}", 'w+') as f:
-                        json.dump(data, f, indent=4)
+
+                    if args.files and fn in args.files:
+                        with open(f"json/{lang}/{fn.replace('.csv', '.json')}", 'w+') as f:
+                            json.dump(data, f, indent=4)
+
                     if args.language:
                         break
 
@@ -172,7 +173,7 @@ if __name__ == '__main__':
         print(fp)
 
     # tid.json
-    if not args.files:
+    if args.files and 'tid.csv' in args.files:
         for i in TID:
             if args.language:
                 i = args.language
