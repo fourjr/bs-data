@@ -11,7 +11,7 @@
     },
     {
         "name":2,
-        "tID":"Du kannst den <cff9900>gelben Joystick<\/c> antippen, um deinen Super automatisch gegen den n\u00e4chsten Feind einzusetzen.",
+        "tID":"Du kannst den <cff9900>gelben Joystick<\/c> antippen, um deinen Superskill automatisch gegen den n\u00e4chsten Feind einzusetzen.",
         "minXPLevel":1,
         "maxXPLevel":40,
         "fileName":null,
@@ -31,7 +31,7 @@
     },
     {
         "name":4,
-        "tID":"Du kannst den <cff9900>GELBEN JOYSTICK<\/c> gedr\u00fcckt halten und bewegen, um zu zielen!",
+        "tID":"Du kannst den <cff9900>gelben Joystick<\/c> gedr\u00fcckt halten und bewegen, um zu zielen!",
         "minXPLevel":1,
         "maxXPLevel":40,
         "fileName":null,
@@ -101,7 +101,7 @@
     },
     {
         "name":11,
-        "tID":"Du kannst den <ccc0033>roten Joystick<\/c> \u00fcberall auf der rechten Seite des Bildschirms aktivieren.",
+        "tID":"Du kannst den <ccc0033>roten Joystick<\/c> \u00fcberall auf der rechten Seite des Bildschirms aktivieren, um zu schie\u00dfen.",
         "minXPLevel":1,
         "maxXPLevel":40,
         "fileName":null,
@@ -111,7 +111,7 @@
     },
     {
         "name":12,
-        "tID":"Deinen normalen Angriff sowie deinen Superskill kannst du auf zwei verschiedene Weisen einsetzen: Indem du tippst und so AUTOMATISCH einsetzt, oder mithilfe des Joysticks ZIELST.",
+        "tID":"Deinen normalen Angriff sowie deinen Superskill kannst du auf zwei verschiedene Weisen einsetzen: Indem du tippst und so AUTOMATISCH einsetzt oder mithilfe des Joysticks ZIELST.",
         "minXPLevel":1,
         "maxXPLevel":40,
         "fileName":null,
@@ -161,7 +161,7 @@
     },
     {
         "name":17,
-        "tID":"AUTOMATISCHES SCHIESSEN feuert eine Attacke in einer geraden Linie und berechnet nicht die Bewegungen des Gegners mit ein.",
+        "tID":"AUTOMATISCHES SCHIESSEN feuert eine Attacke in einer geraden Linie auf den n\u00e4chsten Feind und berechnet nicht die Bewegungen des Gegners mit ein.",
         "minXPLevel":3,
         "maxXPLevel":60,
         "fileName":null,
@@ -411,7 +411,7 @@
     },
     {
         "name":42,
-        "tID":"Deine Gesamttroph\u00e4en setzen sich aus den Troph\u00e4enmengen aller deiner Brawler zusammen.",
+        "tID":"Deine Gesamttroph\u00e4en setzen sich aus den addierten Troph\u00e4en aller deiner Brawler zusammen.",
         "minXPLevel":7,
         "maxXPLevel":999,
         "fileName":null,

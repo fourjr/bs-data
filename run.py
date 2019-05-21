@@ -21,7 +21,6 @@ parser.add_argument('-l', '--language', dest='language')
 parser.add_argument('-f', '--files', nargs='*', dest='files')
 
 args = parser.parse_args()
-print(args.files)
 
 if __name__ == '__main__':
     TID = {}
@@ -149,7 +148,7 @@ if __name__ == '__main__':
                                 except KeyError:
                                     pass
 
-                    if args.files and fn in args.files:
+                    if (args.files and fn in args.files) or (not args.files):
                         with open(f"json/{lang}/{fn.replace('.csv', '.json')}", 'w+') as f:
                             json.dump(change_data, f, indent=4)
 
@@ -161,7 +160,7 @@ if __name__ == '__main__':
                     if args.language:
                         lang = args.language
 
-                    if args.files and fn in args.files:
+                    if (args.files and fn in args.files) or (not args.files):
                         with open(f"json/{lang}/{fn.replace('.csv', '.json')}", 'w+') as f:
                             json.dump(data, f, indent=4)
 
@@ -173,7 +172,7 @@ if __name__ == '__main__':
         print(fp)
 
     # tid.json
-    if args.files and 'tid.csv' in args.files:
+    if (args.files and 'tid.csv' in args.files) or (not args.files):
         for i in TID:
             if args.language:
                 i = args.language

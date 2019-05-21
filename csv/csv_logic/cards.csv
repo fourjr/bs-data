@@ -124,7 +124,7 @@
 "Rosa_hp","sc/ui.sc","health_icon","Rosa",1,,"hp",,,,"common","TID_ARMOR","TID_ARMOR_STAT",,"genicon_health",,
 "Rosa_abi","sc/ui.sc","attack_icon","Rosa",2,,"skill","RosaWeapon",,,"common","TID_ROSA_WEAPON","TID_STAT_DAMAGE_PER_STRIKE",,"genicon_damage",,
 "Rosa_ulti","sc/ui.sc","ulti_icon","Rosa",3,,"skill","RosaUlti",,,"common","TID_ROSA_ULTI","TID_STAT_SHIELD",,"genicon_damage",,
-"Rosa_unique","sc/ui.sc","icon_eiuD","Rosa",4,,"heal_forest",,300,,"common","TID_SPEC_ABI_HEAL_FOREST",,,"genicon_health",,
+"Rosa_unique","sc/ui.sc","icon_eiuD","Rosa",4,,"heal_forest",,200,,"common","TID_SPEC_ABI_HEAL_FOREST",,,"genicon_health",,
 "Whirlwind_unlock","sc/ui.sc",,"Whirlwind",0,,"unlock",,,,"super_rare",,,,,,15
 "Whirlwind_hp","sc/ui.sc","health_icon","Whirlwind",1,,"hp",,,,"common","TID_ARMOR","TID_ARMOR_STAT",,"genicon_health",,
 "Whirlwind_abi","sc/ui.sc","attack_icon","Whirlwind",2,,"skill","WhirlwindWeapon",,,"common","TID_WHIRLWIND_WEAPON","TID_STAT_DAMAGE_EACH_WAY",,"genicon_damage",,

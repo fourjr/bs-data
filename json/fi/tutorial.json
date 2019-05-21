@@ -657,7 +657,7 @@
         "animationMovieClip2":null,
         "speechBubbleCharacterSWF":"sc\/ui.sc",
         "speechBubbleCharacterMovieClip":"tutorial_character_top",
-        "speechBubbleTIDs":"K\u00e4yt\u00e4 nyt supervoimaasi sein\u00e4n takana olevan pomon ampumiseen! <cff9900>Ved\u00e4<\/c> <cff9900>keltaista ohjainta<\/c> t\u00e4hd\u00e4t\u00e4ksesi supervoimasi, ja laukaise irrottamalla ote!",
+        "speechBubbleTIDs":"K\u00e4yt\u00e4 nyt supervoimaasi sein\u00e4n takana olevan pomon ampumiseen! T\u00e4ht\u00e4\u00e4 supervoimasi <cff9900>vet\u00e4m\u00e4ll\u00e4<\/c> <cff9900>keltaista ohjainta<\/c> ja laukaise irrottamalla ote!",
         "startSound":"Tut_speech",
         "spawnCharacter":null,
         "spawnLocationX":null,

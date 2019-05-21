@@ -301,7 +301,7 @@
     },
     {
         "name":31,
-        "tID":"Dostluk ma\u00e7lar\u0131nda istedi\u011fin etkinli\u011fi ve haritay\u0131 se\u00e7ebilirsin. Sava\u015f\u00e7\u0131lar da maksimum y\u00fckseltilmi\u015f olur!",
+        "tID":"Dostluk ma\u00e7lar\u0131nda istedi\u011fin etkinli\u011fi ve haritay\u0131 se\u00e7ebilirsin. Sava\u015f\u00e7\u0131lar da maksimum seviyede olur!",
         "minXPLevel":3,
         "maxXPLevel":999,
         "fileName":null,
@@ -391,7 +391,7 @@
     },
     {
         "name":40,
-        "tID":"Sava\u015f\u00e7\u0131n\u0131n alt\u0131nda d\u00f6nen sar\u0131 bir \u00e7ember varsa S\u00fcper g\u00fcc\u00fcn\u00fc hedefliyor demektir!",
+        "tID":"Sava\u015f\u00e7\u0131n\u0131n alt\u0131nda d\u00f6nen sar\u0131 bir \u00e7ember varsa bu, S\u00fcper g\u00fcc\u00fcyle ni\u015fan ald\u0131\u011f\u0131n\u0131 g\u00f6sterir!",
         "minXPLevel":7,
         "maxXPLevel":999,
         "fileName":null,

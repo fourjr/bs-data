@@ -17,7 +17,7 @@
     },
     {
         "name":"Gold",
-        "tID":"TID_GOLD",
+        "tID":"\ud1a0\ud070",
         "iconSWF":"sc\/ui.sc",
         "collectEffect":"Collect Gold",
         "iconExportName":"genicon_coin",
@@ -29,7 +29,7 @@
         "textBlue":192,
         "cap":null,
         "id":6,
-        "rawTID":"GOLD"
+        "rawTID":"TOKENS"
     },
     {
         "name":"owcAny",
@@ -129,7 +129,7 @@
     },
     {
         "name":"HeroLvlUpMaterial",
-        "tID":"TID_HERO_LVL_UP_MATERIAL",
+        "tID":"\ucf54\uc778",
         "iconSWF":"sc\/ui.sc",
         "collectEffect":null,
         "iconExportName":"genicon_upgradium",
@@ -145,7 +145,7 @@
     },
     {
         "name":"FirstWins",
-        "tID":"TID_FIRST_WINS",
+        "tID":"\uc2a4\ud0c0 \ud1a0\ud070",
         "iconSWF":"sc\/ui.sc",
         "collectEffect":null,
         "iconExportName":"genicon_upgradium",

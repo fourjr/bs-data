@@ -1027,6 +1027,164 @@
         "id":18
     },
     {
+        "name":"Brock003Projectile",
+        "speed":3044,
+        "fileName":"sc\/effects_brawler.sc",
+        "blueSCW":"sc3d\/brock_003_atk_blue.scw",
+        "redSCW":"sc3d\/brock_003_atk_red.scw",
+        "blueExportName":"brock_def_atk_tail_blue",
+        "redExportName":"brock_def_atk_tail_red",
+        "shadowExportName":"shadow_normal_circle",
+        "blueGroundGlowExportName":null,
+        "redGroundGlowExportName":null,
+        "preExplosionBlueExportName":null,
+        "preExplosionRedExportName":null,
+        "preExplosionTimeMs":null,
+        "hitEffectEnv":"Gen_hit",
+        "hitEffectChar":"Gen_hit",
+        "maxRangeReachedEffect":null,
+        "radius":101,
+        "indirect":null,
+        "constantFlyTime":null,
+        "triggerWithDelayMs":null,
+        "bouncePercent":null,
+        "gravity":0,
+        "earlyTicks":2,
+        "hideTime":0,
+        "scale":120,
+        "randomStartFrame":null,
+        "spawnAreaEffectObject":"Brock_def_atk_area",
+        "spawnAreaEffectObject2":null,
+        "spawnCharacter":null,
+        "spawnItem":null,
+        "trailEffect":"brock_def_atk_trail",
+        "shotByHero":true,
+        "isBeam":null,
+        "isBouncing":null,
+        "distanceAddFromBounce":null,
+        "rendering":"UseZFrames",
+        "piercesCharacters":null,
+        "piercesEnvironment":null,
+        "piercesEnvironmentLikeButter":null,
+        "pushbackStrength":null,
+        "chainsToEnemies":null,
+        "chainBullets":null,
+        "chainSpread":null,
+        "chainTravelDistance":null,
+        "chainBullet":null,
+        "executeChainOnNoHit":null,
+        "damagePercentStart":null,
+        "damagePercentEnd":null,
+        "damagesConstantlyTickDelay":null,
+        "freezeStrength":null,
+        "stunLengthMS":null,
+        "scaleStart":null,
+        "scaleEnd":null,
+        "attractsPet":null,
+        "lifeStealPercent":null,
+        "passesEnvironment":null,
+        "poisonDamagePercent":null,
+        "sameProjectileCanNotDamageMS":null,
+        "healOwnPercent":null,
+        "canGrowStronger":null,
+        "hideFaster":null,
+        "grapplesEnemy":null,
+        "kickBack":null,
+        "useColorMod":null,
+        "redAdd":null,
+        "greenAdd":null,
+        "blueAdd":null,
+        "redMul":null,
+        "greenMul":null,
+        "blueMul":null,
+        "groundBasis":null,
+        "minDistanceForSpread":null,
+        "isFriendlyHomingMissile":null,
+        "isBoomerang":null,
+        "canHitAgainAfterBounce":null,
+        "isHomingMissile":null,
+        "id":19
+    },
+    {
+        "name":"Brock003UltiProjectile",
+        "speed":870,
+        "fileName":"sc\/effects_brawler.sc",
+        "blueSCW":"sc3d\/brock_003_atk_blue.scw",
+        "redSCW":"sc3d\/brock_003_atk_red.scw",
+        "blueExportName":"brock_def_ulti_tail_blue",
+        "redExportName":"brock_def_ulti_tail_red",
+        "shadowExportName":"shadow_normal_circle",
+        "blueGroundGlowExportName":null,
+        "redGroundGlowExportName":null,
+        "preExplosionBlueExportName":null,
+        "preExplosionRedExportName":null,
+        "preExplosionTimeMs":null,
+        "hitEffectEnv":"Gen_hit",
+        "hitEffectChar":"Gen_hit",
+        "maxRangeReachedEffect":null,
+        "radius":0,
+        "indirect":true,
+        "constantFlyTime":true,
+        "triggerWithDelayMs":null,
+        "bouncePercent":null,
+        "gravity":93,
+        "earlyTicks":2,
+        "hideTime":0,
+        "scale":120,
+        "randomStartFrame":null,
+        "spawnAreaEffectObject":"Brock_def_ulti_area",
+        "spawnAreaEffectObject2":null,
+        "spawnCharacter":null,
+        "spawnItem":null,
+        "trailEffect":"brock_def_ulti_trail",
+        "shotByHero":true,
+        "isBeam":null,
+        "isBouncing":null,
+        "distanceAddFromBounce":null,
+        "rendering":"UseZFrames",
+        "piercesCharacters":null,
+        "piercesEnvironment":null,
+        "piercesEnvironmentLikeButter":null,
+        "pushbackStrength":null,
+        "chainsToEnemies":null,
+        "chainBullets":null,
+        "chainSpread":null,
+        "chainTravelDistance":null,
+        "chainBullet":null,
+        "executeChainOnNoHit":null,
+        "damagePercentStart":null,
+        "damagePercentEnd":null,
+        "damagesConstantlyTickDelay":null,
+        "freezeStrength":null,
+        "stunLengthMS":null,
+        "scaleStart":null,
+        "scaleEnd":null,
+        "attractsPet":null,
+        "lifeStealPercent":null,
+        "passesEnvironment":null,
+        "poisonDamagePercent":null,
+        "sameProjectileCanNotDamageMS":null,
+        "healOwnPercent":null,
+        "canGrowStronger":null,
+        "hideFaster":null,
+        "grapplesEnemy":null,
+        "kickBack":null,
+        "useColorMod":null,
+        "redAdd":null,
+        "greenAdd":null,
+        "blueAdd":null,
+        "redMul":null,
+        "greenMul":null,
+        "blueMul":null,
+        "groundBasis":null,
+        "minDistanceForSpread":null,
+        "isFriendlyHomingMissile":null,
+        "isBoomerang":null,
+        "canHitAgainAfterBounce":null,
+        "isHomingMissile":null,
+        "id":20
+    },
+    {
         "name":"TrickshotDudeProjectile",
         "speed":3478,
         "fileName":"sc\/effects_brawler.sc",
@@ -1103,7 +1261,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":19
+        "id":21
     },
     {
         "name":"TrickshotDudeUltiProjectile",
@@ -1182,7 +1340,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":20
+        "id":22
     },
     {
         "name":"Rico002Projectile",
@@ -1261,7 +1419,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":21
+        "id":23
     },
     {
         "name":"Rico002UltiProjectile",
@@ -1340,7 +1498,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":22
+        "id":24
     },
     {
         "name":"Rico003Projectile",
@@ -1419,7 +1577,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":23
+        "id":25
     },
     {
         "name":"Rico003UltiProjectile",
@@ -1498,7 +1656,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":24
+        "id":26
     },
     {
         "name":"CactusProjectile",
@@ -1577,7 +1735,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":25
+        "id":27
     },
     {
         "name":"CactusUltiProjectile",
@@ -1656,7 +1814,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":26
+        "id":28
     },
     {
         "name":"CactusSpike",
@@ -1735,7 +1893,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":27
+        "id":29
     },
     {
         "name":"Spike002Projectile",
@@ -1814,7 +1972,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":28
+        "id":30
     },
     {
         "name":"Spike002UltiProjectile",
@@ -1893,7 +2051,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":29
+        "id":31
     },
     {
         "name":"Spike002Spike",
@@ -1972,7 +2130,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":30
+        "id":32
     },
     {
         "name":"MechanicProjectile1",
@@ -2051,7 +2209,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":31
+        "id":33
     },
     {
         "name":"MechanicProjectile2",
@@ -2130,7 +2288,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":32
+        "id":34
     },
     {
         "name":"MechanicProjectile3",
@@ -2209,7 +2367,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":33
+        "id":35
     },
     {
         "name":"MechanicUltiProjectile",
@@ -2288,7 +2446,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":34
+        "id":36
     },
     {
         "name":"ShamanProjectile",
@@ -2367,7 +2525,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":35
+        "id":37
     },
     {
         "name":"ShamanUltiProjectile",
@@ -2446,7 +2604,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":36
+        "id":38
     },
     {
         "name":"BarkeepProjectile",
@@ -2525,7 +2683,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":37
+        "id":39
     },
     {
         "name":"BarkeepUltiProjectile",
@@ -2604,7 +2762,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":38
+        "id":40
     },
     {
         "name":"Barley002Projectile",
@@ -2683,7 +2841,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":39
+        "id":41
     },
     {
         "name":"Barley002UltiProjectile",
@@ -2762,7 +2920,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":40
+        "id":42
     },
     {
         "name":"Barley003Projectile",
@@ -2841,7 +2999,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":41
+        "id":43
     },
     {
         "name":"Barley003UltiProjectile",
@@ -2920,7 +3078,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":42
+        "id":44
     },
     {
         "name":"Barley004Projectile",
@@ -2999,7 +3157,244 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":43
+        "id":45
+    },
+    {
+        "name":"Barley004UltiProjectile",
+        "speed":1504,
+        "fileName":"sc\/effects_brawler.sc",
+        "blueSCW":null,
+        "redSCW":null,
+        "blueExportName":"barley_004_ulti_projectile",
+        "redExportName":"barley_004_ulti_projectile_red",
+        "shadowExportName":"shadow_normal_circle",
+        "blueGroundGlowExportName":null,
+        "redGroundGlowExportName":null,
+        "preExplosionBlueExportName":null,
+        "preExplosionRedExportName":null,
+        "preExplosionTimeMs":null,
+        "hitEffectEnv":"Gen_hit",
+        "hitEffectChar":"Gen_hit",
+        "maxRangeReachedEffect":null,
+        "radius":0,
+        "indirect":true,
+        "constantFlyTime":null,
+        "triggerWithDelayMs":null,
+        "bouncePercent":null,
+        "gravity":170,
+        "earlyTicks":1,
+        "hideTime":0,
+        "scale":100,
+        "randomStartFrame":1,
+        "spawnAreaEffectObject":"Barley_004_ulti",
+        "spawnAreaEffectObject2":null,
+        "spawnCharacter":null,
+        "spawnItem":null,
+        "trailEffect":"barley_004_atk_trail",
+        "shotByHero":true,
+        "isBeam":null,
+        "isBouncing":null,
+        "distanceAddFromBounce":null,
+        "rendering":"UseZFrames",
+        "piercesCharacters":null,
+        "piercesEnvironment":null,
+        "piercesEnvironmentLikeButter":null,
+        "pushbackStrength":null,
+        "chainsToEnemies":null,
+        "chainBullets":null,
+        "chainSpread":null,
+        "chainTravelDistance":null,
+        "chainBullet":null,
+        "executeChainOnNoHit":null,
+        "damagePercentStart":null,
+        "damagePercentEnd":null,
+        "damagesConstantlyTickDelay":null,
+        "freezeStrength":null,
+        "stunLengthMS":null,
+        "scaleStart":null,
+        "scaleEnd":null,
+        "attractsPet":null,
+        "lifeStealPercent":null,
+        "passesEnvironment":null,
+        "poisonDamagePercent":null,
+        "sameProjectileCanNotDamageMS":null,
+        "healOwnPercent":null,
+        "canGrowStronger":null,
+        "hideFaster":null,
+        "grapplesEnemy":null,
+        "kickBack":null,
+        "useColorMod":null,
+        "redAdd":null,
+        "greenAdd":null,
+        "blueAdd":null,
+        "redMul":null,
+        "greenMul":null,
+        "blueMul":null,
+        "groundBasis":null,
+        "minDistanceForSpread":2100,
+        "isFriendlyHomingMissile":null,
+        "isBoomerang":null,
+        "canHitAgainAfterBounce":null,
+        "isHomingMissile":null,
+        "id":46
+    },
+    {
+        "name":"Barley005Projectile",
+        "speed":1750,
+        "fileName":"sc\/effects_brawler.sc",
+        "blueSCW":"sc3d\/barley_005_atk_blue.scw",
+        "redSCW":"sc3d\/barley_005_atk_red.scw",
+        "blueExportName":null,
+        "redExportName":null,
+        "shadowExportName":"shadow_normal_circle",
+        "blueGroundGlowExportName":null,
+        "redGroundGlowExportName":null,
+        "preExplosionBlueExportName":null,
+        "preExplosionRedExportName":null,
+        "preExplosionTimeMs":null,
+        "hitEffectEnv":"Gen_hit",
+        "hitEffectChar":"Gen_hit",
+        "maxRangeReachedEffect":null,
+        "radius":0,
+        "indirect":true,
+        "constantFlyTime":null,
+        "triggerWithDelayMs":null,
+        "bouncePercent":null,
+        "gravity":240,
+        "earlyTicks":1,
+        "hideTime":0,
+        "scale":100,
+        "randomStartFrame":1,
+        "spawnAreaEffectObject":"Barley_005_atk",
+        "spawnAreaEffectObject2":null,
+        "spawnCharacter":null,
+        "spawnItem":null,
+        "trailEffect":"barley_005_atk_trail",
+        "shotByHero":true,
+        "isBeam":null,
+        "isBouncing":null,
+        "distanceAddFromBounce":null,
+        "rendering":null,
+        "piercesCharacters":null,
+        "piercesEnvironment":null,
+        "piercesEnvironmentLikeButter":null,
+        "pushbackStrength":null,
+        "chainsToEnemies":null,
+        "chainBullets":null,
+        "chainSpread":null,
+        "chainTravelDistance":null,
+        "chainBullet":null,
+        "executeChainOnNoHit":null,
+        "damagePercentStart":null,
+        "damagePercentEnd":null,
+        "damagesConstantlyTickDelay":null,
+        "freezeStrength":null,
+        "stunLengthMS":null,
+        "scaleStart":null,
+        "scaleEnd":null,
+        "attractsPet":null,
+        "lifeStealPercent":null,
+        "passesEnvironment":null,
+        "poisonDamagePercent":null,
+        "sameProjectileCanNotDamageMS":null,
+        "healOwnPercent":null,
+        "canGrowStronger":null,
+        "hideFaster":null,
+        "grapplesEnemy":null,
+        "kickBack":null,
+        "useColorMod":null,
+        "redAdd":null,
+        "greenAdd":null,
+        "blueAdd":null,
+        "redMul":null,
+        "greenMul":null,
+        "blueMul":null,
+        "groundBasis":null,
+        "minDistanceForSpread":null,
+        "isFriendlyHomingMissile":null,
+        "isBoomerang":null,
+        "canHitAgainAfterBounce":null,
+        "isHomingMissile":null,
+        "id":47
+    },
+    {
+        "name":"Barley005UltiProjectile",
+        "speed":1504,
+        "fileName":"sc\/effects_brawler.sc",
+        "blueSCW":"sc3d\/barley_005_atk_blue.scw",
+        "redSCW":"sc3d\/barley_005_atk_red.scw",
+        "blueExportName":null,
+        "redExportName":null,
+        "shadowExportName":"shadow_normal_circle",
+        "blueGroundGlowExportName":null,
+        "redGroundGlowExportName":null,
+        "preExplosionBlueExportName":null,
+        "preExplosionRedExportName":null,
+        "preExplosionTimeMs":null,
+        "hitEffectEnv":"Gen_hit",
+        "hitEffectChar":"Gen_hit",
+        "maxRangeReachedEffect":null,
+        "radius":0,
+        "indirect":true,
+        "constantFlyTime":null,
+        "triggerWithDelayMs":null,
+        "bouncePercent":null,
+        "gravity":170,
+        "earlyTicks":1,
+        "hideTime":0,
+        "scale":100,
+        "randomStartFrame":1,
+        "spawnAreaEffectObject":"Barley_005_ulti",
+        "spawnAreaEffectObject2":null,
+        "spawnCharacter":null,
+        "spawnItem":null,
+        "trailEffect":"barley_005_ulti_trail",
+        "shotByHero":true,
+        "isBeam":null,
+        "isBouncing":null,
+        "distanceAddFromBounce":null,
+        "rendering":"UseZFrames",
+        "piercesCharacters":null,
+        "piercesEnvironment":null,
+        "piercesEnvironmentLikeButter":null,
+        "pushbackStrength":null,
+        "chainsToEnemies":null,
+        "chainBullets":null,
+        "chainSpread":null,
+        "chainTravelDistance":null,
+        "chainBullet":null,
+        "executeChainOnNoHit":null,
+        "damagePercentStart":null,
+        "damagePercentEnd":null,
+        "damagesConstantlyTickDelay":null,
+        "freezeStrength":null,
+        "stunLengthMS":null,
+        "scaleStart":null,
+        "scaleEnd":null,
+        "attractsPet":null,
+        "lifeStealPercent":null,
+        "passesEnvironment":null,
+        "poisonDamagePercent":null,
+        "sameProjectileCanNotDamageMS":null,
+        "healOwnPercent":null,
+        "canGrowStronger":null,
+        "hideFaster":null,
+        "grapplesEnemy":null,
+        "kickBack":null,
+        "useColorMod":null,
+        "redAdd":null,
+        "greenAdd":null,
+        "blueAdd":null,
+        "redMul":null,
+        "greenMul":null,
+        "blueMul":null,
+        "groundBasis":null,
+        "minDistanceForSpread":2100,
+        "isFriendlyHomingMissile":null,
+        "isBoomerang":null,
+        "canHitAgainAfterBounce":null,
+        "isHomingMissile":null,
+        "id":48
     },
     {
         "name":"TntDudeProjectile",
@@ -3078,7 +3473,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":44
+        "id":49
     },
     {
         "name":"TntDudeUltiProjectile",
@@ -3157,7 +3552,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":45
+        "id":50
     },
     {
         "name":"TntDudeSantaProjectile",
@@ -3236,7 +3631,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":46
+        "id":51
     },
     {
         "name":"TntDudeSantaUltiProjectile",
@@ -3315,7 +3710,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":47
+        "id":52
     },
     {
         "name":"TntDudeChefProjectile",
@@ -3394,7 +3789,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":48
+        "id":53
     },
     {
         "name":"TntDudeChefUltiProjectile",
@@ -3473,7 +3868,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":49
+        "id":54
     },
     {
         "name":"BoneThrowerProjectile",
@@ -3552,7 +3947,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":50
+        "id":55
     },
     {
         "name":"BoneThrowerUltiProjectile",
@@ -3631,7 +4026,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":51
+        "id":56
     },
     {
         "name":"DummyProjectileForLaserBall",
@@ -3710,7 +4105,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":52
+        "id":57
     },
     {
         "name":"MechanicTurretProjectile",
@@ -3789,7 +4184,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":53
+        "id":58
     },
     {
         "name":"UndertakerUltiProjectile",
@@ -3868,7 +4263,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":54
+        "id":59
     },
     {
         "name":"CrowProjectile",
@@ -3947,7 +4342,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":55
+        "id":60
     },
     {
         "name":"CrowUltiProjectile",
@@ -4026,7 +4421,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":56
+        "id":61
     },
     {
         "name":"DeadMariachiProjectile",
@@ -4105,7 +4500,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":57
+        "id":62
     },
     {
         "name":"DeadMariachiUltiProjectile",
@@ -4184,7 +4579,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":58
+        "id":63
     },
     {
         "name":"Poco002Projectile",
@@ -4263,7 +4658,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":59
+        "id":64
     },
     {
         "name":"Poco002UltiProjectile",
@@ -4342,7 +4737,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":60
+        "id":65
     },
     {
         "name":"BowDudeSpawnMineProjectile",
@@ -4421,7 +4816,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":61
+        "id":66
     },
     {
         "name":"BowDudeProjectile",
@@ -4500,7 +4895,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":62
+        "id":67
     },
     {
         "name":"SniperProjectile",
@@ -4579,7 +4974,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":63
+        "id":68
     },
     {
         "name":"MinigunDudeProjectile",
@@ -4658,7 +5053,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":64
+        "id":69
     },
     {
         "name":"MinigunDudeUltiProjectile",
@@ -4737,7 +5132,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":65
+        "id":70
     },
     {
         "name":"LuchadorProjectile",
@@ -4816,7 +5211,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":66
+        "id":71
     },
     {
         "name":"BlackHoleProjectile",
@@ -4895,7 +5290,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":67
+        "id":72
     },
     {
         "name":"BlackHoleUltiProjectile",
@@ -4974,7 +5369,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":68
+        "id":73
     },
     {
         "name":"BarrelBotProjectile",
@@ -5053,7 +5448,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":69
+        "id":74
     },
     {
         "name":"Darryl002Projectile",
@@ -5132,7 +5527,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":70
+        "id":75
     },
     {
         "name":"ArtilleryDudeProjectile",
@@ -5211,7 +5606,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":71
+        "id":76
     },
     {
         "name":"ArtilleryDudeProjectile2",
@@ -5290,7 +5685,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":72
+        "id":77
     },
     {
         "name":"ArtilleryDudeUltiProjectile",
@@ -5369,7 +5764,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":73
+        "id":78
     },
     {
         "name":"ArtilleryDudeTurretProjectile",
@@ -5448,7 +5843,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":74
+        "id":79
     },
     {
         "name":"Penny002Projectile",
@@ -5527,7 +5922,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":75
+        "id":80
     },
     {
         "name":"Penny002Projectile2",
@@ -5606,7 +6001,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":76
+        "id":81
     },
     {
         "name":"Penny002UltiProjectile",
@@ -5685,7 +6080,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":77
+        "id":82
     },
     {
         "name":"Penny002TurretProjectile",
@@ -5764,7 +6159,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":78
+        "id":83
     },
     {
         "name":"Penny003Projectile",
@@ -5843,7 +6238,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":79
+        "id":84
     },
     {
         "name":"Penny003Projectile2",
@@ -5922,7 +6317,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":80
+        "id":85
     },
     {
         "name":"Penny003UltiProjectile",
@@ -6001,7 +6396,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":81
+        "id":86
     },
     {
         "name":"ShotgunGirlPetProjectile",
@@ -6080,7 +6475,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":82
+        "id":87
     },
     {
         "name":"BlackHolePetProjectile",
@@ -6159,7 +6554,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":83
+        "id":88
     },
     {
         "name":"HammerDudeProjectile",
@@ -6238,7 +6633,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":84
+        "id":89
     },
     {
         "name":"HammerDudeUltiProjectile",
@@ -6317,7 +6712,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":85
+        "id":90
     },
     {
         "name":"CrowProjectileFlame",
@@ -6396,7 +6791,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":86
+        "id":91
     },
     {
         "name":"CrowUltiProjectileFlame",
@@ -6475,7 +6870,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":87
+        "id":92
     },
     {
         "name":"HookProjectile",
@@ -6554,7 +6949,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":88
+        "id":93
     },
     {
         "name":"HookProjectile2",
@@ -6633,7 +7028,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":89
+        "id":94
     },
     {
         "name":"HookUltiProjectile",
@@ -6712,7 +7107,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":90
+        "id":95
     },
     {
         "name":"HookUltiProjectile2",
@@ -6791,7 +7186,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":91
+        "id":96
     },
     {
         "name":"ClusterBombProjectile",
@@ -6870,16 +7265,16 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":92
+        "id":97
     },
     {
         "name":"ClusterBombProjectile2",
-        "speed":3100,
+        "speed":4130,
         "fileName":"sc\/effects_brawler.sc",
         "blueSCW":null,
         "redSCW":null,
-        "blueExportName":"bullet_shotgun_def_blue_long",
-        "redExportName":"bullet_shotgun_def_red_long",
+        "blueExportName":"bullet_shotgun_ulti_blue",
+        "redExportName":"bullet_shotgun_ulti_red",
         "shadowExportName":"shadow_normal_circle",
         "blueGroundGlowExportName":null,
         "redGroundGlowExportName":null,
@@ -6888,8 +7283,8 @@
         "preExplosionTimeMs":null,
         "hitEffectEnv":"Gen_hit",
         "hitEffectChar":"Gen_hit",
-        "maxRangeReachedEffect":"bull_def_atk_reached",
-        "radius":0,
+        "maxRangeReachedEffect":"shelly_def_ulti_reached",
+        "radius":50,
         "indirect":null,
         "constantFlyTime":null,
         "triggerWithDelayMs":null,
@@ -6909,10 +7304,10 @@
         "isBouncing":null,
         "distanceAddFromBounce":null,
         "rendering":null,
-        "piercesCharacters":null,
-        "piercesEnvironment":null,
+        "piercesCharacters":true,
+        "piercesEnvironment":true,
         "piercesEnvironmentLikeButter":null,
-        "pushbackStrength":null,
+        "pushbackStrength":70,
         "chainsToEnemies":null,
         "chainBullets":null,
         "chainSpread":null,
@@ -6949,7 +7344,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":93
+        "id":98
     },
     {
         "name":"AutorifleProjectile",
@@ -7028,7 +7423,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":94
+        "id":99
     },
     {
         "name":"NinjaProjectile",
@@ -7107,10 +7502,10 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":95
+        "id":100
     },
     {
-        "name":"",
+        "name":"RosaProjectile",
         "speed":5000,
         "fileName":"sc\/effects_brawler.sc",
         "blueSCW":"sc3d\/rosa_def_atk_projectile_blue.scw",
@@ -7170,7 +7565,7 @@
         "sameProjectileCanNotDamageMS":150,
         "healOwnPercent":null,
         "canGrowStronger":null,
-        "hideFaster":true,
+        "hideFaster":null,
         "grapplesEnemy":null,
         "kickBack":null,
         "useColorMod":null,
@@ -7186,7 +7581,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":96
+        "id":101
     },
     {
         "name":"SmokeScreenUltiProjectile",
@@ -7265,7 +7660,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":97
+        "id":102
     },
     {
         "name":"CoopRangedEnemyProjectile",
@@ -7344,7 +7739,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":98
+        "id":103
     },
     {
         "name":"BossProjectile",
@@ -7423,7 +7818,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":99
+        "id":104
     },
     {
         "name":"RaidBossRangedEnemyProjectile",
@@ -7502,7 +7897,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":100
+        "id":105
     },
     {
         "name":"RaidBossProjectileRed",
@@ -7581,7 +7976,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":101
+        "id":106
     },
     {
         "name":"RaidBossProjectileRedDestroyEnv",
@@ -7660,7 +8055,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":102
+        "id":107
     },
     {
         "name":"RaidBossProjectileGold",
@@ -7739,7 +8134,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":103
+        "id":108
     },
     {
         "name":"RaidBossRocketProjectile",
@@ -7818,7 +8213,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":104
+        "id":109
     },
     {
         "name":"ShamanStarPowerProjectile",
@@ -7897,7 +8292,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":105
+        "id":110
     },
     {
         "name":"UndertakerStarPowerProjectile",
@@ -7976,7 +8371,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":106
+        "id":111
     },
     {
         "name":"HammerDudeStarPowerProjectile",
@@ -8055,7 +8450,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":107
+        "id":112
     },
     {
         "name":"RoboWarsBaseProjectile",
@@ -8084,7 +8479,7 @@
         "hideTime":0,
         "scale":100,
         "randomStartFrame":1,
-        "spawnAreaEffectObject":null,
+        "spawnAreaEffectObject":"RoboWarsBaseExplosion",
         "spawnAreaEffectObject2":null,
         "spawnCharacter":null,
         "spawnItem":null,
@@ -8134,7 +8529,7 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":true,
-        "id":108
+        "id":113
     },
     {
         "name":"WhirlwindProjectile",
@@ -8213,7 +8608,7 @@
         "isBoomerang":true,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":109
+        "id":114
     },
     {
         "name":"WhirlwindProjectile2",
@@ -8292,32 +8687,190 @@
         "isBoomerang":true,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":110
+        "id":115
+    },
+    {
+        "name":"Carl002Projectile",
+        "speed":2500,
+        "fileName":"sc\/effects_brawler.sc",
+        "blueSCW":null,
+        "redSCW":null,
+        "blueExportName":"carl_002_atk_projectile",
+        "redExportName":"carl_002_atk_projectile_red",
+        "shadowExportName":"carl_def_atk_projectile_shadow",
+        "blueGroundGlowExportName":null,
+        "redGroundGlowExportName":null,
+        "preExplosionBlueExportName":null,
+        "preExplosionRedExportName":null,
+        "preExplosionTimeMs":null,
+        "hitEffectEnv":"Carl_hitEnv",
+        "hitEffectChar":"Gen_hit",
+        "maxRangeReachedEffect":null,
+        "radius":250,
+        "indirect":null,
+        "constantFlyTime":null,
+        "triggerWithDelayMs":null,
+        "bouncePercent":null,
+        "gravity":0,
+        "earlyTicks":1,
+        "hideTime":0,
+        "scale":100,
+        "randomStartFrame":null,
+        "spawnAreaEffectObject":null,
+        "spawnAreaEffectObject2":null,
+        "spawnCharacter":null,
+        "spawnItem":null,
+        "trailEffect":"carl_def_atk_trail",
+        "shotByHero":true,
+        "isBeam":null,
+        "isBouncing":null,
+        "distanceAddFromBounce":null,
+        "rendering":"DoNotRotateClip",
+        "piercesCharacters":true,
+        "piercesEnvironment":null,
+        "piercesEnvironmentLikeButter":null,
+        "pushbackStrength":null,
+        "chainsToEnemies":null,
+        "chainBullets":null,
+        "chainSpread":null,
+        "chainTravelDistance":null,
+        "chainBullet":"Carl002Projectile2",
+        "executeChainOnNoHit":null,
+        "damagePercentStart":null,
+        "damagePercentEnd":null,
+        "damagesConstantlyTickDelay":null,
+        "freezeStrength":null,
+        "stunLengthMS":null,
+        "scaleStart":null,
+        "scaleEnd":null,
+        "attractsPet":null,
+        "lifeStealPercent":null,
+        "passesEnvironment":null,
+        "poisonDamagePercent":null,
+        "sameProjectileCanNotDamageMS":50,
+        "healOwnPercent":null,
+        "canGrowStronger":null,
+        "hideFaster":null,
+        "grapplesEnemy":null,
+        "kickBack":null,
+        "useColorMod":null,
+        "redAdd":null,
+        "greenAdd":null,
+        "blueAdd":null,
+        "redMul":null,
+        "greenMul":null,
+        "blueMul":null,
+        "groundBasis":null,
+        "minDistanceForSpread":null,
+        "isFriendlyHomingMissile":null,
+        "isBoomerang":true,
+        "canHitAgainAfterBounce":null,
+        "isHomingMissile":null,
+        "id":116
+    },
+    {
+        "name":"Carl002Projectile2",
+        "speed":2500,
+        "fileName":"sc\/effects_brawler.sc",
+        "blueSCW":null,
+        "redSCW":null,
+        "blueExportName":"carl_002_atk_projectile",
+        "redExportName":"carl_002_atk_projectile_red",
+        "shadowExportName":"carl_def_atk_projectile_shadow",
+        "blueGroundGlowExportName":null,
+        "redGroundGlowExportName":null,
+        "preExplosionBlueExportName":null,
+        "preExplosionRedExportName":null,
+        "preExplosionTimeMs":null,
+        "hitEffectEnv":"Gen_hit",
+        "hitEffectChar":"Gen_hit",
+        "maxRangeReachedEffect":null,
+        "radius":250,
+        "indirect":null,
+        "constantFlyTime":null,
+        "triggerWithDelayMs":null,
+        "bouncePercent":null,
+        "gravity":0,
+        "earlyTicks":1,
+        "hideTime":0,
+        "scale":100,
+        "randomStartFrame":null,
+        "spawnAreaEffectObject":null,
+        "spawnAreaEffectObject2":null,
+        "spawnCharacter":null,
+        "spawnItem":null,
+        "trailEffect":"carl_def_atk_trail_return",
+        "shotByHero":true,
+        "isBeam":null,
+        "isBouncing":null,
+        "distanceAddFromBounce":null,
+        "rendering":"DoNotRotateClip",
+        "piercesCharacters":true,
+        "piercesEnvironment":null,
+        "piercesEnvironmentLikeButter":null,
+        "pushbackStrength":null,
+        "chainsToEnemies":null,
+        "chainBullets":null,
+        "chainSpread":null,
+        "chainTravelDistance":null,
+        "chainBullet":null,
+        "executeChainOnNoHit":null,
+        "damagePercentStart":null,
+        "damagePercentEnd":null,
+        "damagesConstantlyTickDelay":null,
+        "freezeStrength":null,
+        "stunLengthMS":null,
+        "scaleStart":null,
+        "scaleEnd":null,
+        "attractsPet":null,
+        "lifeStealPercent":null,
+        "passesEnvironment":true,
+        "poisonDamagePercent":null,
+        "sameProjectileCanNotDamageMS":null,
+        "healOwnPercent":null,
+        "canGrowStronger":null,
+        "hideFaster":null,
+        "grapplesEnemy":null,
+        "kickBack":null,
+        "useColorMod":null,
+        "redAdd":null,
+        "greenAdd":null,
+        "blueAdd":null,
+        "redMul":null,
+        "greenMul":null,
+        "blueMul":null,
+        "groundBasis":null,
+        "minDistanceForSpread":null,
+        "isFriendlyHomingMissile":null,
+        "isBoomerang":true,
+        "canHitAgainAfterBounce":null,
+        "isHomingMissile":null,
+        "id":117
     },
     {
         "name":"BaseballUltiProjectile",
-        "speed":3100,
+        "speed":3000,
         "fileName":"sc\/effects_brawler.sc",
         "blueSCW":null,
         "redSCW":null,
-        "blueExportName":"bullet_shotgun_def_blue_long",
-        "redExportName":"bullet_shotgun_def_red_long",
-        "shadowExportName":"shadow_normal_circle",
+        "blueExportName":"bibi_def_ulti_projectile",
+        "redExportName":"bibi_def_ulti_projectile_red",
+        "shadowExportName":"shadow_normal_circle_huge",
         "blueGroundGlowExportName":null,
         "redGroundGlowExportName":null,
         "preExplosionBlueExportName":null,
         "preExplosionRedExportName":null,
         "preExplosionTimeMs":null,
-        "hitEffectEnv":"Gen_hit",
-        "hitEffectChar":"Gen_hit",
-        "maxRangeReachedEffect":"bull_def_atk_reached",
-        "radius":0,
+        "hitEffectEnv":"bibi_def_ulti_hitEffect",
+        "hitEffectChar":"bibi_def_ulti_hitEffect_char",
+        "maxRangeReachedEffect":"bibi_def_ulti_reached",
+        "radius":250,
         "indirect":null,
         "constantFlyTime":null,
         "triggerWithDelayMs":null,
         "bouncePercent":null,
         "gravity":0,
-        "earlyTicks":2,
+        "earlyTicks":3,
         "hideTime":0,
         "scale":100,
         "randomStartFrame":null,
@@ -8325,13 +8878,13 @@
         "spawnAreaEffectObject2":null,
         "spawnCharacter":null,
         "spawnItem":null,
-        "trailEffect":null,
+        "trailEffect":"bibi_def_ulti_trail",
         "shotByHero":true,
         "isBeam":null,
-        "isBouncing":null,
+        "isBouncing":true,
         "distanceAddFromBounce":null,
-        "rendering":null,
-        "piercesCharacters":null,
+        "rendering":"DoNotRotateClip",
+        "piercesCharacters":true,
         "piercesEnvironment":null,
         "piercesEnvironmentLikeButter":null,
         "pushbackStrength":null,
@@ -8343,7 +8896,7 @@
         "executeChainOnNoHit":null,
         "damagePercentStart":null,
         "damagePercentEnd":null,
-        "damagesConstantlyTickDelay":null,
+        "damagesConstantlyTickDelay":10,
         "freezeStrength":null,
         "stunLengthMS":null,
         "scaleStart":null,
@@ -8371,26 +8924,26 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":111
+        "id":118
     },
     {
         "name":"ClusterBombSummonProjectile",
-        "speed":3100,
+        "speed":5000,
         "fileName":"sc\/effects_brawler.sc",
         "blueSCW":null,
         "redSCW":null,
-        "blueExportName":"bullet_shotgun_def_blue_long",
-        "redExportName":"bullet_shotgun_def_red_long",
-        "shadowExportName":"shadow_normal_circle",
+        "blueExportName":null,
+        "redExportName":null,
+        "shadowExportName":null,
         "blueGroundGlowExportName":null,
         "redGroundGlowExportName":null,
         "preExplosionBlueExportName":null,
         "preExplosionRedExportName":null,
         "preExplosionTimeMs":null,
-        "hitEffectEnv":"Gen_hit",
-        "hitEffectChar":"Gen_hit",
-        "maxRangeReachedEffect":"bull_def_atk_reached",
-        "radius":0,
+        "hitEffectEnv":null,
+        "hitEffectChar":"Lucha_hit",
+        "maxRangeReachedEffect":null,
+        "radius":350,
         "indirect":null,
         "constantFlyTime":null,
         "triggerWithDelayMs":null,
@@ -8398,7 +8951,7 @@
         "gravity":0,
         "earlyTicks":2,
         "hideTime":0,
-        "scale":100,
+        "scale":80,
         "randomStartFrame":null,
         "spawnAreaEffectObject":null,
         "spawnAreaEffectObject2":null,
@@ -8409,11 +8962,11 @@
         "isBeam":null,
         "isBouncing":null,
         "distanceAddFromBounce":null,
-        "rendering":null,
-        "piercesCharacters":null,
+        "rendering":"UseZFrames",
+        "piercesCharacters":true,
         "piercesEnvironment":null,
         "piercesEnvironmentLikeButter":null,
-        "pushbackStrength":null,
+        "pushbackStrength":200,
         "chainsToEnemies":null,
         "chainBullets":null,
         "chainSpread":null,
@@ -8431,7 +8984,7 @@
         "lifeStealPercent":null,
         "passesEnvironment":null,
         "poisonDamagePercent":null,
-        "sameProjectileCanNotDamageMS":null,
+        "sameProjectileCanNotDamageMS":250,
         "healOwnPercent":null,
         "canGrowStronger":null,
         "hideFaster":null,
@@ -8450,85 +9003,6 @@
         "isBoomerang":null,
         "canHitAgainAfterBounce":null,
         "isHomingMissile":null,
-        "id":112
-    },
-    {
-        "name":"BaseballProjectile",
-        "speed":3100,
-        "fileName":"sc\/effects_brawler.sc",
-        "blueSCW":null,
-        "redSCW":null,
-        "blueExportName":"bullet_shotgun_def_blue_long",
-        "redExportName":"bullet_shotgun_def_red_long",
-        "shadowExportName":"shadow_normal_circle",
-        "blueGroundGlowExportName":null,
-        "redGroundGlowExportName":null,
-        "preExplosionBlueExportName":null,
-        "preExplosionRedExportName":null,
-        "preExplosionTimeMs":null,
-        "hitEffectEnv":"Gen_hit",
-        "hitEffectChar":"Gen_hit",
-        "maxRangeReachedEffect":"bull_def_atk_reached",
-        "radius":0,
-        "indirect":null,
-        "constantFlyTime":null,
-        "triggerWithDelayMs":null,
-        "bouncePercent":null,
-        "gravity":0,
-        "earlyTicks":2,
-        "hideTime":0,
-        "scale":100,
-        "randomStartFrame":null,
-        "spawnAreaEffectObject":null,
-        "spawnAreaEffectObject2":null,
-        "spawnCharacter":null,
-        "spawnItem":null,
-        "trailEffect":null,
-        "shotByHero":true,
-        "isBeam":null,
-        "isBouncing":null,
-        "distanceAddFromBounce":null,
-        "rendering":null,
-        "piercesCharacters":null,
-        "piercesEnvironment":null,
-        "piercesEnvironmentLikeButter":null,
-        "pushbackStrength":null,
-        "chainsToEnemies":null,
-        "chainBullets":null,
-        "chainSpread":null,
-        "chainTravelDistance":null,
-        "chainBullet":null,
-        "executeChainOnNoHit":null,
-        "damagePercentStart":null,
-        "damagePercentEnd":null,
-        "damagesConstantlyTickDelay":null,
-        "freezeStrength":null,
-        "stunLengthMS":null,
-        "scaleStart":null,
-        "scaleEnd":null,
-        "attractsPet":null,
-        "lifeStealPercent":null,
-        "passesEnvironment":null,
-        "poisonDamagePercent":null,
-        "sameProjectileCanNotDamageMS":null,
-        "healOwnPercent":null,
-        "canGrowStronger":null,
-        "hideFaster":null,
-        "grapplesEnemy":null,
-        "kickBack":null,
-        "useColorMod":null,
-        "redAdd":null,
-        "greenAdd":null,
-        "blueAdd":null,
-        "redMul":null,
-        "greenMul":null,
-        "blueMul":null,
-        "groundBasis":null,
-        "minDistanceForSpread":null,
-        "isFriendlyHomingMissile":null,
-        "isBoomerang":null,
-        "canHitAgainAfterBounce":null,
-        "isHomingMissile":null,
-        "id":113
+        "id":119
     }
 ]

@@ -1739,7 +1739,7 @@
         "name":"HE",
         "iconSWF":"sc\/ui.sc",
         "iconExportName":"flag_gb",
-        "localizedName":"Hebrew",
+        "localizedName":"\u05e2\u05d1\u05e8\u05d9\u05ea",
         "sortOrder":20,
         "enabled":true,
         "fileName":"localization\/he.csv",

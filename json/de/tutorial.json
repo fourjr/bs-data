@@ -342,7 +342,7 @@
         "animationMovieClip2":null,
         "speechBubbleCharacterSWF":"sc\/ui.sc",
         "speechBubbleCharacterMovieClip":"tutorial_character_top",
-        "speechBubbleTIDs":"Gut gemacht! Die <cff6633>orangen Balken<\/c> stellen deine Munition dar. Ich lade so schnell wie m\u00f6glich nach.",
+        "speechBubbleTIDs":"Gut gemacht! Die <cff6633>ORANGEN BALKEN<\/c> stellen deine Munition dar. Ich lade so schnell wie m\u00f6glich nach.",
         "startSound":"Tutorial_circle",
         "spawnCharacter":null,
         "spawnLocationX":null,

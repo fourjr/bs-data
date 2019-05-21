@@ -120,6 +120,36 @@
         "id":23
     },
     {
+        "name":"Retropolis_battle",
+        "fileName":"music\/retro_brawl_ingame_02.ogg",
+        "volume":70,
+        "loop":true,
+        "playCount":null,
+        "fadeOutTimeSec":null,
+        "durationSec":65,
+        "id":24
+    },
+    {
+        "name":null,
+        "fileName":"music\/retro_brawl_ingame_01.ogg",
+        "volume":70,
+        "loop":true,
+        "playCount":null,
+        "fadeOutTimeSec":null,
+        "durationSec":55,
+        "id":25
+    },
+    {
+        "name":"Retropolis_menu",
+        "fileName":"music\/brawl_retro_menu_01.ogg",
+        "volume":60,
+        "loop":true,
+        "playCount":null,
+        "fadeOutTimeSec":null,
+        "durationSec":66,
+        "id":26
+    },
+    {
         "name":"MenuMusic",
         "fileName":"music\/brawl_stars_menu_01.ogg",
         "volume":60,
@@ -127,7 +157,7 @@
         "playCount":null,
         "fadeOutTimeSec":null,
         "durationSec":153,
-        "id":24
+        "id":27
     },
     {
         "name":"Cnymenu_music",
@@ -137,7 +167,7 @@
         "playCount":null,
         "fadeOutTimeSec":null,
         "durationSec":178,
-        "id":25
+        "id":28
     },
     {
         "name":"Brawl_royale_menu_music",
@@ -147,7 +177,7 @@
         "playCount":null,
         "fadeOutTimeSec":null,
         "durationSec":91,
-        "id":26
+        "id":29
     },
     {
         "name":"Brawl_dawgs_menu",
@@ -157,7 +187,7 @@
         "playCount":null,
         "fadeOutTimeSec":null,
         "durationSec":95,
-        "id":27
+        "id":30
     },
     {
         "name":"WinJingle",
@@ -167,7 +197,7 @@
         "playCount":1,
         "fadeOutTimeSec":null,
         "durationSec":null,
-        "id":28
+        "id":31
     },
     {
         "name":"LoseJingle",
@@ -177,7 +207,7 @@
         "playCount":1,
         "fadeOutTimeSec":null,
         "durationSec":null,
-        "id":29
+        "id":32
     },
     {
         "name":"DrawJingle",
@@ -187,7 +217,7 @@
         "playCount":1,
         "fadeOutTimeSec":null,
         "durationSec":null,
-        "id":30
+        "id":33
     },
     {
         "name":"Win_loop",
@@ -197,7 +227,7 @@
         "playCount":null,
         "fadeOutTimeSec":null,
         "durationSec":30,
-        "id":31
+        "id":34
     },
     {
         "name":"Draw_loop",
@@ -207,7 +237,7 @@
         "playCount":null,
         "fadeOutTimeSec":null,
         "durationSec":34,
-        "id":32
+        "id":35
     },
     {
         "name":"Lose_loop",
@@ -217,7 +247,7 @@
         "playCount":null,
         "fadeOutTimeSec":null,
         "durationSec":28,
-        "id":33
+        "id":36
     },
     {
         "name":"Brawlbawl_goal",
@@ -227,7 +257,7 @@
         "playCount":1,
         "fadeOutTimeSec":null,
         "durationSec":null,
-        "id":34
+        "id":37
     },
     {
         "name":"Brawlbawl_other_goal",
@@ -237,7 +267,7 @@
         "playCount":1,
         "fadeOutTimeSec":null,
         "durationSec":null,
-        "id":35
+        "id":38
     },
     {
         "name":"30_sec_panic",
@@ -247,6 +277,6 @@
         "playCount":null,
         "fadeOutTimeSec":null,
         "durationSec":30,
-        "id":36
+        "id":39
     }
 ]

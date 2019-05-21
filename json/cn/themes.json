@@ -64,5 +64,16 @@
         "particleVariations":null,
         "themeMusic":"Brawl_dawgs_menu",
         "useInLevelSelection":true
+    },
+    {
+        "name":"Retropolis",
+        "fileName":"sc\/background_retropolis.sc",
+        "exportName":"bgr_retropolis",
+        "particleFileName":null,
+        "particleExportName":null,
+        "particleStyle":null,
+        "particleVariations":null,
+        "themeMusic":"Retropolis_menu",
+        "useInLevelSelection":true
     }
 ]

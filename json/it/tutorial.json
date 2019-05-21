@@ -342,7 +342,7 @@
         "animationMovieClip2":null,
         "speechBubbleCharacterSWF":"sc\/ui.sc",
         "speechBubbleCharacterMovieClip":"tutorial_character_top",
-        "speechBubbleTIDs":"Bel lavoro! Gli <cff6633>indicatori arancioni<\/c> mostrano le munizioni. Sar\u00f2 un lampo a ricaricare, non temere!",
+        "speechBubbleTIDs":"Bel lavoro! Gli <cff6633>INDICATORI ARANCIONI<\/c> mostrano le munizioni. Sar\u00f2 un lampo a ricaricare, non temere!",
         "startSound":"Tutorial_circle",
         "spawnCharacter":null,
         "spawnLocationX":null,

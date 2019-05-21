@@ -657,7 +657,7 @@
         "animationMovieClip2":null,
         "speechBubbleCharacterSWF":"sc\/ui.sc",
         "speechBubbleCharacterMovieClip":"tutorial_character_top",
-        "speechBubbleTIDs":"B\u00e2y gi\u1edd h\u00e3y s\u1eed d\u1ee5ng Tuy\u1ec7t chi\u00eau c\u1ee7a b\u1ea1n \u0111\u1ec3 b\u1eafn t\u00ean TR\u00d9M \u1edf ph\u00eda sau b\u1ee9c t\u01b0\u1eddng! <cff9900>K\u00c9O N\u00daT \u0110I\u1ec0U KHI\u1ec2N M\u00c0U V\u00c0NG<\/c> \u0111\u1ec3 nh\u1eafm m\u1ee5c ti\u00eau cho Tuy\u1ec7t chi\u00eau c\u1ee7a b\u1ea1n v\u00e0 th\u1ea3 ra \u0111\u1ec3 b\u1eafn!",
+        "speechBubbleTIDs":"B\u00e2y gi\u1edd, h\u00e3y s\u1eed d\u1ee5ng Tuy\u1ec7t chi\u00eau c\u1ee7a b\u1ea1n \u0111\u1ec3 b\u1eafn t\u00ean TR\u00d9M \u1edf ph\u00eda sau b\u1ee9c t\u01b0\u1eddng! <cff9900>K\u00c9O<\/c> <cff9900>N\u00daT \u0110I\u1ec0U KHI\u1ec2N M\u00c0U V\u00c0NG<\/c> \u0111\u1ec3 nh\u1eafm m\u1ee5c ti\u00eau, v\u00e0 th\u1ea3 ra \u0111\u1ec3 b\u1eafn!",
         "startSound":"Tut_speech",
         "spawnCharacter":null,
         "spawnLocationX":null,

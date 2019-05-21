@@ -1,7 +1,7 @@
 [
     {
         "name":1,
-        "tID":"TOCCA la <ccc0033>levetta rossa<\/c> per ATTACCARE RAPIDAMENTE il nemico pi\u00f9 vicino.",
+        "tID":"TOCCA la <ccc0033>levetta rossa<\/c> per COLPIRE RAPIDAMENTE il nemico pi\u00f9 vicino.",
         "minXPLevel":1,
         "maxXPLevel":40,
         "fileName":null,
@@ -11,7 +11,7 @@
     },
     {
         "name":2,
-        "tID":"TOCCA la <cff9900>levetta gialla<\/c> per SFERRARE RAPIDAMENTE LA SUPER contro il nemico pi\u00f9 vicino.",
+        "tID":"TOCCA la <cff9900>levetta gialla<\/c> per COLPIRE RAPIDAMENTE il nemico pi\u00f9 vicino con la super.",
         "minXPLevel":1,
         "maxXPLevel":40,
         "fileName":null,
@@ -41,7 +41,7 @@
     },
     {
         "name":5,
-        "tID":"se non vuoi attaccare quando hai gi\u00e0 preso la mira, trascina la levetta alla posizione iniziale.",
+        "tID":"Se non vuoi attaccare quando hai gi\u00e0 preso la mira, trascina la levetta alla posizione iniziale.",
         "minXPLevel":1,
         "maxXPLevel":40,
         "fileName":null,
@@ -51,7 +51,7 @@
     },
     {
         "name":6,
-        "tID":"il matchmaking si basa sul numero di trofei vinti con il brawler in uso, il che rende pi\u00f9 facile ottenere trofei utilizzando brawler sbloccati di recente.",
+        "tID":"Il matchmaking si basa sul numero di trofei vinti con il brawler in uso, il che rende pi\u00f9 facile ottenere trofei utilizzando brawler sbloccati di recente.",
         "minXPLevel":3,
         "maxXPLevel":999,
         "fileName":null,
@@ -61,7 +61,7 @@
     },
     {
         "name":7,
-        "tID":"trova nuovi brawler per aumentare il numero totale dei trofei pi\u00f9 facilmente e ottenere pi\u00f9 premi.",
+        "tID":"Trova nuovi brawler per aumentare il numero totale dei trofei pi\u00f9 facilmente e ottenere pi\u00f9 premi.",
         "minXPLevel":3,
         "maxXPLevel":999,
         "fileName":null,
@@ -71,7 +71,7 @@
     },
     {
         "name":8,
-        "tID":"i colpi di Piper provocano pi\u00f9 danni se percorrono lunghe distanze.",
+        "tID":"I colpi di Piper provocano pi\u00f9 danni se percorrono lunghe distanze.",
         "minXPLevel":20,
         "maxXPLevel":999,
         "fileName":null,
@@ -81,7 +81,7 @@
     },
     {
         "name":9,
-        "tID":"la super di Bombardino causa un sacco di danni se usata da vicino, perch\u00e9 le bottiglie coprono un'area pi\u00f9 ristretta.",
+        "tID":"La super di Bombardino causa un sacco di danni se usata da vicino, perch\u00e9 le bottiglie coprono un'area pi\u00f9 ristretta.",
         "minXPLevel":999,
         "maxXPLevel":999,
         "fileName":null,
@@ -91,7 +91,7 @@
     },
     {
         "name":10,
-        "tID":"i proiettili di Stecca percorrono maggiori distanze quando rimbalzano.",
+        "tID":"I proiettili di Stecca percorrono maggiori distanze quando rimbalzano.",
         "minXPLevel":20,
         "maxXPLevel":999,
         "fileName":null,
@@ -101,7 +101,7 @@
     },
     {
         "name":11,
-        "tID":"la <ccc0033>levetta rossa<\/c> \u00e8 attivabile in qualsiasi punto del lato destro dello schermo.",
+        "tID":"La <ccc0033>levetta rossa<\/c> \u00e8 attivabile in qualsiasi punto del lato destro dello schermo.",
         "minXPLevel":1,
         "maxXPLevel":40,
         "fileName":null,
@@ -111,7 +111,7 @@
     },
     {
         "name":12,
-        "tID":"che tu stia usando un attacco base o una super, TOCCA la levetta corrispondente per un COLPO RAPIDO e TRASCINALA per MIRARE.",
+        "tID":"Che tu stia usando un attacco base o una super, TOCCA la levetta corrispondente per un COLPO RAPIDO e TRASCINALA per MIRARE.",
         "minXPLevel":1,
         "maxXPLevel":40,
         "fileName":null,
@@ -121,7 +121,7 @@
     },
     {
         "name":13,
-        "tID":"prendere la mira \u00e8 ideale, se il bersaglio \u00e8 in movimento.",
+        "tID":"Prendere la mira \u00e8 ideale, se il bersaglio \u00e8 in movimento.",
         "minXPLevel":3,
         "maxXPLevel":60,
         "fileName":null,
@@ -131,7 +131,7 @@
     },
     {
         "name":14,
-        "tID":"il COLPO RAPIDO \u00e8 perfetto in situazioni in cui serve pi\u00f9 reattivit\u00e0 e non hai tempo per mirare.",
+        "tID":"Il COLPO RAPIDO \u00e8 perfetto in situazioni in cui serve pi\u00f9 reattivit\u00e0 e non hai tempo per mirare.",
         "minXPLevel":3,
         "maxXPLevel":60,
         "fileName":null,
@@ -141,7 +141,7 @@
     },
     {
         "name":15,
-        "tID":"il COLPO RAPIDO funziona alla grande coi nemici vicini.",
+        "tID":"Il COLPO RAPIDO funziona alla grande coi nemici vicini.",
         "minXPLevel":3,
         "maxXPLevel":60,
         "fileName":null,
@@ -151,7 +151,7 @@
     },
     {
         "name":16,
-        "tID":"se ti nascondi in un cespuglio, ricordati che i nemici possono vederti, se si avvicinano abbastanza.",
+        "tID":"Se ti nascondi in un cespuglio, ricordati che i nemici possono vederti, se si avvicinano abbastanza.",
         "minXPLevel":3,
         "maxXPLevel":60,
         "fileName":null,
@@ -161,7 +161,7 @@
     },
     {
         "name":17,
-        "tID":"il COLPO RAPIDO bersaglia il nemico pi\u00f9 vicino, ma non tiene in considerazione il suo movimento.",
+        "tID":"Il COLPO RAPIDO bersaglia il nemico pi\u00f9 vicino, ma non tiene in considerazione il suo movimento.",
         "minXPLevel":3,
         "maxXPLevel":60,
         "fileName":null,
@@ -171,7 +171,7 @@
     },
     {
         "name":18,
-        "tID":"usare i colpi mirati \u00e8 consigliabile, se vuoi scovare i nemici nascosti nei cespugli.",
+        "tID":"Usare i colpi mirati \u00e8 consigliabile, se vuoi scovare i nemici nascosti nei cespugli.",
         "minXPLevel":3,
         "maxXPLevel":60,
         "fileName":null,
@@ -181,7 +181,7 @@
     },
     {
         "name":19,
-        "tID":"il COLPO RAPIDO funziona alla grande coi nemici immobili.",
+        "tID":"Il COLPO RAPIDO funziona alla grande coi nemici immobili.",
         "minXPLevel":3,
         "maxXPLevel":60,
         "fileName":null,
@@ -191,7 +191,7 @@
     },
     {
         "name":20,
-        "tID":"il COLPO RAPIDO funziona alla grande coi nemici che si muovono direttamente verso di te o provano a sfuggirti.",
+        "tID":"Il COLPO RAPIDO funziona alla grande coi nemici che si muovono direttamente verso di te o provano a sfuggirti.",
         "minXPLevel":3,
         "maxXPLevel":60,
         "fileName":null,
@@ -201,7 +201,7 @@
     },
     {
         "name":21,
-        "tID":"se attacchi o ricevi danni mentre sei in un cespuglio, i nemici ti possono vedere.",
+        "tID":"Se attacchi o ricevi danni mentre sei in un cespuglio, i nemici ti possono vedere.",
         "minXPLevel":3,
         "maxXPLevel":60,
         "fileName":null,
@@ -211,7 +211,7 @@
     },
     {
         "name":22,
-        "tID":"usa i cespugli per nasconderti.",
+        "tID":"Usa i cespugli per nasconderti.",
         "minXPLevel":1,
         "maxXPLevel":40,
         "fileName":null,
@@ -221,7 +221,7 @@
     },
     {
         "name":23,
-        "tID":"col COLPO RAPIDO sferri un attacco anche se non ci sono nemici nei paraggi.",
+        "tID":"Col COLPO RAPIDO sferri un attacco anche se non ci sono nemici nei paraggi.",
         "minXPLevel":1,
         "maxXPLevel":40,
         "fileName":null,
@@ -231,7 +231,7 @@
     },
     {
         "name":24,
-        "tID":"alcuni brawler se la cavano meglio di altri in alcuni eventi e mappe.",
+        "tID":"Alcuni brawler se la cavano meglio di altri in alcuni eventi e mappe.",
         "minXPLevel":3,
         "maxXPLevel":60,
         "fileName":null,
@@ -241,7 +241,7 @@
     },
     {
         "name":25,
-        "tID":"i brawler che attaccano dalla lunga distanza sono ideali in mappe con spazi aperti.",
+        "tID":"I brawler che attaccano dalla lunga distanza sono ideali in mappe con spazi aperti.",
         "minXPLevel":3,
         "maxXPLevel":60,
         "fileName":null,
@@ -251,7 +251,7 @@
     },
     {
         "name":26,
-        "tID":"i brawler con attacchi a corto raggio sono i migliori nelle mappe con ostacoli e cespugli.",
+        "tID":"I brawler con attacchi a corto raggio sono i migliori nelle mappe con ostacoli e cespugli.",
         "minXPLevel":3,
         "maxXPLevel":60,
         "fileName":null,
@@ -271,7 +271,7 @@
     },
     {
         "name":28,
-        "tID":"creare una squadra ti consente di pianificare la partita e scegliere il gruppo di brawler ideale.",
+        "tID":"Creare una squadra ti consente di pianificare la partita e scegliere il gruppo di brawler ideale.",
         "minXPLevel":3,
         "maxXPLevel":999,
         "fileName":null,
@@ -281,7 +281,7 @@
     },
     {
         "name":29,
-        "tID":"gioca alle partite amichevoli per far pratica negli eventi, giocare con gli amici e tanto altro ancora.",
+        "tID":"Gioca alle partite amichevoli per far pratica negli eventi, giocare con gli amici e tanto altro ancora.",
         "minXPLevel":3,
         "maxXPLevel":999,
         "fileName":null,
@@ -291,7 +291,7 @@
     },
     {
         "name":30,
-        "tID":"se hai fatto una bella partita in squadra con altri giocatori, puoi continuare a giocare con loro toccando il pulsante \\qGIOCA ANCORA\\q.",
+        "tID":"Se hai fatto una bella partita in squadra con altri giocatori, puoi continuare a giocare con loro toccando il pulsante \\qGIOCA ANCORA\\q.",
         "minXPLevel":3,
         "maxXPLevel":60,
         "fileName":null,
@@ -301,7 +301,7 @@
     },
     {
         "name":31,
-        "tID":"nelle amichevoli, puoi scegliere qualsiasi mappa ed evento e giocare con brawler potenziati al massimo!",
+        "tID":"Nelle amichevoli, puoi scegliere qualsiasi mappa ed evento e giocare con brawler potenziati al massimo!",
         "minXPLevel":3,
         "maxXPLevel":999,
         "fileName":null,
@@ -311,7 +311,7 @@
     },
     {
         "name":32,
-        "tID":"prima di qualsiasi attacco, Frank si ferma per un istante, dando cos\u00ec agli avversari la possibilit\u00e0 di allontanarsi.",
+        "tID":"Prima di qualsiasi attacco, Frank si ferma per un istante, dando cos\u00ec agli avversari la possibilit\u00e0 di allontanarsi.",
         "minXPLevel":20,
         "maxXPLevel":999,
         "fileName":null,
@@ -321,7 +321,7 @@
     },
     {
         "name":33,
-        "tID":"gli eventi accessibili coi biglietti non svuotano l'indicatore dei gettoni, ma richiedono biglietti per essere giocati.",
+        "tID":"Gli eventi accessibili coi biglietti non svuotano l'indicatore dei gettoni, ma richiedono biglietti per essere giocati.",
         "minXPLevel":3,
         "maxXPLevel":60,
         "fileName":null,
@@ -331,7 +331,7 @@
     },
     {
         "name":34,
-        "tID":"puoi mandare una richiesta di amicizia ai soci del club dalla lista dei soci.",
+        "tID":"Puoi mandare una richiesta di amicizia ai soci del club dalla lista dei soci.",
         "minXPLevel":3,
         "maxXPLevel":999,
         "fileName":null,
@@ -341,7 +341,7 @@
     },
     {
         "name":35,
-        "tID":"puoi mandare una richiesta di amicizia ai membri della squadra.",
+        "tID":"Puoi mandare una richiesta di amicizia ai membri della squadra.",
         "minXPLevel":3,
         "maxXPLevel":999,
         "fileName":null,
@@ -351,7 +351,7 @@
     },
     {
         "name":36,
-        "tID":"se hai giocato delle belle partite con altri giocatori, questi compariranno tra le amicizie consigliate.",
+        "tID":"Se hai giocato delle belle partite con altri giocatori, questi compariranno tra le amicizie consigliate.",
         "minXPLevel":3,
         "maxXPLevel":999,
         "fileName":null,
@@ -361,7 +361,7 @@
     },
     {
         "name":37,
-        "tID":"puoi mandare una richiesta di amicizia ai membri della squadra.",
+        "tID":"Puoi mandare una richiesta di amicizia ai membri della squadra.",
         "minXPLevel":3,
         "maxXPLevel":999,
         "fileName":null,
@@ -371,7 +371,7 @@
     },
     {
         "name":38,
-        "tID":"usa il tasto \\qPUBBLICIZZA\\q per far sapere agli amici e ai soci del club che hai creato una squadra.",
+        "tID":"Usa il tasto \\qPUBBLICIZZA\\q per far sapere agli amici e ai soci del club che hai creato una squadra.",
         "minXPLevel":999,
         "maxXPLevel":999,
         "fileName":null,
@@ -381,7 +381,7 @@
     },
     {
         "name":39,
-        "tID":"il cerchio blu rotante sotto a un brawler indica che la sua super \u00e8 pronta!",
+        "tID":"Il cerchio blu rotante sotto a un brawler indica che la sua super \u00e8 pronta!",
         "minXPLevel":7,
         "maxXPLevel":999,
         "fileName":null,
@@ -391,7 +391,7 @@
     },
     {
         "name":40,
-        "tID":"il cerchio giallo rotante sotto a un brawler indica che sta mirando la super!",
+        "tID":"Il cerchio giallo rotante sotto a un brawler indica che sta mirando la super!",
         "minXPLevel":7,
         "maxXPLevel":999,
         "fileName":null,
@@ -401,7 +401,7 @@
     },
     {
         "name":41,
-        "tID":"collegati a Supercell ID dalle impostazioni per tenere al sicuro il tuo account e giocare su pi\u00f9 dispositivi. Inoltre, se lo fai, riceverai una skin gratuita!",
+        "tID":"Collegati a Supercell ID dalle impostazioni per tenere al sicuro il tuo account e giocare su pi\u00f9 dispositivi. Inoltre, se lo fai, riceverai una skin gratuita!",
         "minXPLevel":3,
         "maxXPLevel":999,
         "fileName":null,
@@ -411,7 +411,7 @@
     },
     {
         "name":42,
-        "tID":"i trofei totali sono la somma dei trofei di ogni tuo brawler.",
+        "tID":"I trofei totali sono la somma dei trofei di ogni tuo brawler.",
         "minXPLevel":7,
         "maxXPLevel":999,
         "fileName":null,
@@ -421,7 +421,7 @@
     },
     {
         "name":43,
-        "tID":"se il brawler non attacca o non subisce danni per un po', la sua salute si rigenera.",
+        "tID":"Se il brawler non attacca o non subisce danni per un po', la sua salute si rigenera.",
         "minXPLevel":1,
         "maxXPLevel":40,
         "fileName":null,
@@ -431,7 +431,7 @@
     },
     {
         "name":44,
-        "tID":"il piccone di Carl rimbalza e torna indietro subito quando colpisce un ostacolo, permettendoti cos\u00ec di rilanciarlo pi\u00f9 velocemente.",
+        "tID":"Il piccone di Carl rimbalza e torna indietro subito quando colpisce un ostacolo, permettendoti cos\u00ec di rilanciarlo pi\u00f9 velocemente.",
         "minXPLevel":20,
         "maxXPLevel":999,
         "fileName":null,

@@ -71,7 +71,7 @@
     },
     {
         "name":8,
-        "tID":"Piperin laukaukset tekev\u00e4t sit\u00e4 enemm\u00e4n tuhoa mit\u00e4 pidemm\u00e4lle ne lent\u00e4v\u00e4t.",
+        "tID":"Piperin laukaukset tekev\u00e4t sit\u00e4 enemm\u00e4n tuhoa, mit\u00e4 pidemm\u00e4lle ne lent\u00e4v\u00e4t.",
         "minXPLevel":20,
         "maxXPLevel":999,
         "fileName":null,
@@ -121,7 +121,7 @@
     },
     {
         "name":13,
-        "tID":"Laukaustesi t\u00e4ht\u00e4\u00e4minen on hyv\u00e4 liikkuvaan kohteeseen osumiseksi.",
+        "tID":"Laukausten t\u00e4ht\u00e4\u00e4minen sopii hyvin ennakon ottamiseen liikkuvaa kohdetta ammuttaessa.",
         "minXPLevel":3,
         "maxXPLevel":60,
         "fileName":null,

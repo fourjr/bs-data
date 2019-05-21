@@ -2107,55 +2107,6 @@
         "id":62
     },
     {
-        "name":"BaseballUlti",
-        "behaviorType":"Attack",
-        "canMoveAtSameTime":true,
-        "targeted":true,
-        "canAutoShoot":true,
-        "cooldown":250,
-        "activeTime":150,
-        "castingTime":null,
-        "castingRange":23,
-        "maxCastingRange":null,
-        "rechargeTime":null,
-        "maxCharge":null,
-        "damage":320,
-        "msBetweenAttacks":100,
-        "spread":100,
-        "attackPattern":null,
-        "numBulletsInOneAttack":9,
-        "twoGuns":null,
-        "executeFirstAttackImmediately":true,
-        "chargePushback":null,
-        "chargeSpeed":null,
-        "chargeType":null,
-        "numSpawns":null,
-        "maxSpawns":null,
-        "breakInvisibilityOnAttack":null,
-        "seeInvisibilityDistance":null,
-        "alwaysCastAtMaxRange":null,
-        "projectile":"ShotgunGirlUltiProjectile",
-        "summonedCharacter":null,
-        "areaEffectObject":null,
-        "areaEffectObject2":null,
-        "spawnedItem":null,
-        "iconSWF":null,
-        "iconExportName":"skillicon_megablast",
-        "largeIconSWF":null,
-        "largeIconExportName":null,
-        "buttonSWF":"sc\/ui.sc",
-        "buttonExportName":"rapid_fire_button",
-        "attackEffect":"shelly_def_ulti",
-        "useEffect":null,
-        "endEffect":null,
-        "loopEffect":null,
-        "loopEffect2":null,
-        "chargeMoveSound":null,
-        "multiShot":null,
-        "skillCanChange":null,
-        "id":63
-    },
-    {
         "name":"DummySkillForLaserBall",
         "behaviorType":"Attack",
         "canMoveAtSameTime":true,
@@ -2202,7 +2153,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
-        "id":64
+        "id":63
     },
     {
         "name":"DummyUltiSkillForLaserBall",
@@ -2251,7 +2202,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
-        "id":65
+        "id":64
     },
     {
         "name":"BossRapidFire",
@@ -2300,7 +2251,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
-        "id":66
+        "id":65
     },
     {
         "name":"BossCharge",
@@ -2349,7 +2300,7 @@
         "chargeMoveSound":"Rhinostep",
         "multiShot":null,
         "skillCanChange":null,
-        "id":67
+        "id":66
     },
     {
         "name":"MeleeEnemyCharge",
@@ -2398,7 +2349,7 @@
         "chargeMoveSound":"Rhinostep",
         "multiShot":null,
         "skillCanChange":null,
-        "id":68
+        "id":67
     },
     {
         "name":"HammerDudeWeapon",
@@ -2447,7 +2398,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
-        "id":69
+        "id":68
     },
     {
         "name":"HammerDudeUlti",
@@ -2496,7 +2447,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
-        "id":70
+        "id":69
     },
     {
         "name":"HookWeapon",
@@ -2545,7 +2496,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
-        "id":71
+        "id":70
     },
     {
         "name":"HookUlti",
@@ -2594,7 +2545,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
-        "id":72
+        "id":71
     },
     {
         "name":"ClusterBombDudeWeapon",
@@ -2643,7 +2594,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
-        "id":73
+        "id":72
     },
     {
         "name":"ClusterBombDudeUlti",
@@ -2692,7 +2643,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
-        "id":74
+        "id":73
     },
     {
         "name":"BoneThrowerWeapon",
@@ -2741,7 +2692,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
-        "id":75
+        "id":74
     },
     {
         "name":"BoneThrowerUlti",
@@ -2790,7 +2741,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
-        "id":76
+        "id":75
     },
     {
         "name":"NinjaWeapon",
@@ -2839,7 +2790,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
-        "id":77
+        "id":76
     },
     {
         "name":"NinjaUlti",
@@ -2888,7 +2839,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
-        "id":78
+        "id":77
     },
     {
         "name":"RosaWeapon",
@@ -2937,7 +2888,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
-        "id":79
+        "id":78
     },
     {
         "name":"RosaUlti",
@@ -2946,7 +2897,7 @@
         "targeted":null,
         "canAutoShoot":true,
         "cooldown":50,
-        "activeTime":4000,
+        "activeTime":3000,
         "castingTime":null,
         "castingRange":null,
         "maxCastingRange":null,
@@ -2986,7 +2937,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
-        "id":80
+        "id":79
     },
     {
         "name":"SmokeScreenUlti",
@@ -3035,7 +2986,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
-        "id":81
+        "id":80
     },
     {
         "name":"RaidBossRapidFire",
@@ -3084,7 +3035,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":true,
-        "id":82
+        "id":81
     },
     {
         "name":"RaidBossRapidFire2",
@@ -3133,7 +3084,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":true,
-        "id":83
+        "id":82
     },
     {
         "name":"RaidBossRapidFire3",
@@ -3182,7 +3133,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":true,
-        "id":84
+        "id":83
     },
     {
         "name":"RaidBossRapidFire4",
@@ -3231,7 +3182,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":true,
-        "id":85
+        "id":84
     },
     {
         "name":"RaidBossCharge",
@@ -3280,7 +3231,7 @@
         "chargeMoveSound":"Rhinostep",
         "multiShot":null,
         "skillCanChange":true,
-        "id":86
+        "id":85
     },
     {
         "name":"RaidBossCharge2",
@@ -3329,7 +3280,7 @@
         "chargeMoveSound":"Rhinostep",
         "multiShot":null,
         "skillCanChange":true,
-        "id":87
+        "id":86
     },
     {
         "name":"RaidBossCharge3",
@@ -3378,7 +3329,7 @@
         "chargeMoveSound":"Rhinostep",
         "multiShot":null,
         "skillCanChange":true,
-        "id":88
+        "id":87
     },
     {
         "name":"RaidBossCharge4",
@@ -3427,7 +3378,7 @@
         "chargeMoveSound":"Rhinostep",
         "multiShot":null,
         "skillCanChange":true,
-        "id":89
+        "id":88
     },
     {
         "name":"BossRapidFire2",
@@ -3476,7 +3427,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
-        "id":90
+        "id":89
     },
     {
         "name":"BossRapidFire3",
@@ -3525,7 +3476,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
-        "id":91
+        "id":90
     },
     {
         "name":"WhirlwindWeapon",
@@ -3533,7 +3484,7 @@
         "canMoveAtSameTime":true,
         "targeted":true,
         "canAutoShoot":true,
-        "cooldown":500,
+        "cooldown":50,
         "activeTime":150,
         "castingTime":null,
         "castingRange":23,
@@ -3574,7 +3525,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
-        "id":92
+        "id":91
     },
     {
         "name":"WhirlwindUlti",
@@ -3597,8 +3548,8 @@
         "twoGuns":null,
         "executeFirstAttackImmediately":null,
         "chargePushback":null,
-        "chargeSpeed":2700,
-        "chargeType":4,
+        "chargeSpeed":null,
+        "chargeType":null,
         "numSpawns":null,
         "maxSpawns":null,
         "breakInvisibilityOnAttack":null,
@@ -3623,7 +3574,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
-        "id":93
+        "id":92
     },
     {
         "name":"BaseballWeapon",
@@ -3631,29 +3582,29 @@
         "canMoveAtSameTime":true,
         "targeted":true,
         "canAutoShoot":true,
-        "cooldown":250,
-        "activeTime":150,
+        "cooldown":50,
+        "activeTime":700,
         "castingTime":null,
-        "castingRange":23,
+        "castingRange":11,
         "maxCastingRange":null,
-        "rechargeTime":1500,
+        "rechargeTime":800,
         "maxCharge":3,
-        "damage":300,
-        "msBetweenAttacks":100,
-        "spread":60,
+        "damage":1300,
+        "msBetweenAttacks":600,
+        "spread":300,
         "attackPattern":null,
-        "numBulletsInOneAttack":5,
+        "numBulletsInOneAttack":1,
         "twoGuns":null,
-        "executeFirstAttackImmediately":true,
-        "chargePushback":null,
-        "chargeSpeed":null,
+        "executeFirstAttackImmediately":null,
+        "chargePushback":200,
+        "chargeSpeed":2000,
         "chargeType":null,
         "numSpawns":null,
         "maxSpawns":null,
         "breakInvisibilityOnAttack":null,
         "seeInvisibilityDistance":null,
         "alwaysCastAtMaxRange":null,
-        "projectile":"ShotgunGirlProjectile",
+        "projectile":null,
         "summonedCharacter":null,
         "areaEffectObject":null,
         "areaEffectObject2":null,
@@ -3664,7 +3615,56 @@
         "largeIconExportName":null,
         "buttonSWF":"sc\/ui.sc",
         "buttonExportName":"rapid_fire_button",
-        "attackEffect":"shelly_def_atk",
+        "attackEffect":"bibi_def_atk",
+        "useEffect":"bibi_swing",
+        "endEffect":null,
+        "loopEffect":null,
+        "loopEffect2":null,
+        "chargeMoveSound":null,
+        "multiShot":null,
+        "skillCanChange":null,
+        "id":93
+    },
+    {
+        "name":"BaseballUlti",
+        "behaviorType":"Attack",
+        "canMoveAtSameTime":true,
+        "targeted":true,
+        "canAutoShoot":true,
+        "cooldown":50,
+        "activeTime":150,
+        "castingTime":null,
+        "castingRange":120,
+        "maxCastingRange":null,
+        "rechargeTime":null,
+        "maxCharge":null,
+        "damage":1000,
+        "msBetweenAttacks":100,
+        "spread":null,
+        "attackPattern":null,
+        "numBulletsInOneAttack":null,
+        "twoGuns":null,
+        "executeFirstAttackImmediately":true,
+        "chargePushback":null,
+        "chargeSpeed":null,
+        "chargeType":null,
+        "numSpawns":null,
+        "maxSpawns":null,
+        "breakInvisibilityOnAttack":null,
+        "seeInvisibilityDistance":null,
+        "alwaysCastAtMaxRange":null,
+        "projectile":"BaseballUltiProjectile",
+        "summonedCharacter":null,
+        "areaEffectObject":null,
+        "areaEffectObject2":null,
+        "spawnedItem":null,
+        "iconSWF":null,
+        "iconExportName":"skillicon_powercharge",
+        "largeIconSWF":null,
+        "largeIconExportName":null,
+        "buttonSWF":"sc\/ui.sc",
+        "buttonExportName":"rapid_fire_button",
+        "attackEffect":"bibi_def_ulti",
         "useEffect":null,
         "endEffect":null,
         "loopEffect":null,

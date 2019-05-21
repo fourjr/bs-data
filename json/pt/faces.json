@@ -172,5 +172,53 @@
         "fileName":"characters.sc",
         "exportName":"carl_angry_loop",
         "id":58
+    },
+    {
+        "name":"BarleyMsFace",
+        "fileName":"characters.sc",
+        "exportName":"barley_ms_face",
+        "id":59
+    },
+    {
+        "name":"BarleyMsLose",
+        "fileName":"characters.sc",
+        "exportName":"barley_ms_lose",
+        "id":60
+    },
+    {
+        "name":"BarleyMsLoseloop",
+        "fileName":"characters.sc",
+        "exportName":"barley_ms_loseloop",
+        "id":61
+    },
+    {
+        "name":"CarlHotrodIdle",
+        "fileName":"characters.sc",
+        "exportName":"hotrod_carl_idle",
+        "id":62
+    },
+    {
+        "name":"CarlHotrodAngry",
+        "fileName":"characters.sc",
+        "exportName":"hotrod_carl_angry",
+        "id":63
+    },
+    {
+        "name":"CarlHotrodAngryloop",
+        "fileName":"characters.sc",
+        "exportName":"hotrod_carl_angry_loop",
+        "id":64
+    },
+    {
+        "name":"Bibi_Idle",
+        "fileName":"characters.sc",
+        "exportName":"bibi_face",
+        "id":65
+    },
+    {
+        "name":"Bibi_Win",
+        "fileName":"characters.sc",
+        "exportName":"bibi_win",
+        "id":66
     }
 ]

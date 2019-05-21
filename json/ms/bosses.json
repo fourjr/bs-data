@@ -31,7 +31,7 @@
     },
     {
         "name":"boss3",
-        "tID":"Marah Kasar",
+        "tID":"Medan Meradang",
         "playerCount":3,
         "requiredCampaignProgressToUnlock":18,
         "location":"Planet3",

@@ -501,7 +501,7 @@
         "layer":"GroundHigh",
         "exportNameTop":null,
         "exportNameObject":null,
-        "effect":"barley_def_ulti",
+        "effect":"barley_004_ulti",
         "loopingEffect":null,
         "scale":55,
         "timeMs":3900,
@@ -520,6 +520,64 @@
         "sameAreaEffectCanNotDamageMs":1000,
         "dontShowToEnemy":null,
         "id":34
+    },
+    {
+        "name":"Barley_005_atk",
+        "fileName":"sc\/effects.sc",
+        "ownExportName":null,
+        "blueExportName":null,
+        "redExportName":null,
+        "layer":"GroundHigh",
+        "exportNameTop":null,
+        "exportNameObject":null,
+        "effect":"barley_005_atk",
+        "loopingEffect":null,
+        "scale":55,
+        "timeMs":1900,
+        "radius":600,
+        "damage":null,
+        "customValue":null,
+        "type":"Dot",
+        "bulletExplosionBullet":null,
+        "bulletExplosionBulletDistance":null,
+        "bulletExplosionItem":null,
+        "destroysEnvironment":null,
+        "pushbackStrength":null,
+        "pushbackStrengthSelf":null,
+        "freezeStrength":null,
+        "shouldShowEvenIfOutsideScreen":null,
+        "sameAreaEffectCanNotDamageMs":null,
+        "dontShowToEnemy":null,
+        "id":35
+    },
+    {
+        "name":"Barley_005_ulti",
+        "fileName":"sc\/effects.sc",
+        "ownExportName":null,
+        "blueExportName":null,
+        "redExportName":null,
+        "layer":"GroundHigh",
+        "exportNameTop":null,
+        "exportNameObject":null,
+        "effect":"barley_005_ulti",
+        "loopingEffect":null,
+        "scale":55,
+        "timeMs":3900,
+        "radius":600,
+        "damage":null,
+        "customValue":null,
+        "type":"Dot",
+        "bulletExplosionBullet":null,
+        "bulletExplosionBulletDistance":null,
+        "bulletExplosionItem":null,
+        "destroysEnvironment":null,
+        "pushbackStrength":null,
+        "pushbackStrengthSelf":null,
+        "freezeStrength":null,
+        "shouldShowEvenIfOutsideScreen":null,
+        "sameAreaEffectCanNotDamageMs":1000,
+        "dontShowToEnemy":null,
+        "id":36
     },
     {
         "name":"Bo_def_ulti1_area",
@@ -548,7 +606,7 @@
         "shouldShowEvenIfOutsideScreen":null,
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
-        "id":35
+        "id":37
     },
     {
         "name":"Bo_def_ulti2_area",
@@ -577,7 +635,7 @@
         "shouldShowEvenIfOutsideScreen":null,
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
-        "id":36
+        "id":38
     },
     {
         "name":"BarkeepExplosion",
@@ -606,7 +664,7 @@
         "shouldShowEvenIfOutsideScreen":null,
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
-        "id":37
+        "id":39
     },
     {
         "name":"BarkeepWizardExplosion",
@@ -635,7 +693,7 @@
         "shouldShowEvenIfOutsideScreen":null,
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
-        "id":38
+        "id":40
     },
     {
         "name":"BarkeepUltiExplosion",
@@ -664,7 +722,7 @@
         "shouldShowEvenIfOutsideScreen":null,
         "sameAreaEffectCanNotDamageMs":1000,
         "dontShowToEnemy":null,
-        "id":39
+        "id":41
     },
     {
         "name":"BarkeepWizardUltiExplosion",
@@ -693,7 +751,7 @@
         "shouldShowEvenIfOutsideScreen":null,
         "sameAreaEffectCanNotDamageMs":1000,
         "dontShowToEnemy":null,
-        "id":40
+        "id":42
     },
     {
         "name":"ExplodingBarrelExplosion",
@@ -722,7 +780,7 @@
         "shouldShowEvenIfOutsideScreen":null,
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
-        "id":41
+        "id":43
     },
     {
         "name":"PoisonBarrelExplosion",
@@ -751,7 +809,7 @@
         "shouldShowEvenIfOutsideScreen":null,
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
-        "id":42
+        "id":44
     },
     {
         "name":"TntDudeExplosion",
@@ -780,7 +838,7 @@
         "shouldShowEvenIfOutsideScreen":null,
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
-        "id":43
+        "id":45
     },
     {
         "name":"TntDudeUltiExplosion",
@@ -809,7 +867,7 @@
         "shouldShowEvenIfOutsideScreen":null,
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
-        "id":44
+        "id":46
     },
     {
         "name":"BowDudeExplosion",
@@ -838,7 +896,7 @@
         "shouldShowEvenIfOutsideScreen":null,
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
-        "id":45
+        "id":47
     },
     {
         "name":"CrowUltiKnifes",
@@ -867,7 +925,7 @@
         "shouldShowEvenIfOutsideScreen":null,
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
-        "id":46
+        "id":48
     },
     {
         "name":"HealingStationHeal",
@@ -896,7 +954,7 @@
         "shouldShowEvenIfOutsideScreen":null,
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
-        "id":47
+        "id":49
     },
     {
         "name":"Heal",
@@ -925,7 +983,7 @@
         "shouldShowEvenIfOutsideScreen":null,
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
-        "id":48
+        "id":50
     },
     {
         "name":"MineExplosion",
@@ -954,7 +1012,7 @@
         "shouldShowEvenIfOutsideScreen":null,
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
-        "id":49
+        "id":51
     },
     {
         "name":"SniperBombExplosion",
@@ -983,7 +1041,7 @@
         "shouldShowEvenIfOutsideScreen":null,
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
-        "id":50
+        "id":52
     },
     {
         "name":"BlackHoleUltiExplosion",
@@ -1012,7 +1070,7 @@
         "shouldShowEvenIfOutsideScreen":null,
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
-        "id":51
+        "id":53
     },
     {
         "name":"BlackHoleUltiSuck",
@@ -1041,7 +1099,7 @@
         "shouldShowEvenIfOutsideScreen":null,
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
-        "id":52
+        "id":54
     },
     {
         "name":"ArtilleryDudeTurretExplosion",
@@ -1070,7 +1128,7 @@
         "shouldShowEvenIfOutsideScreen":null,
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
-        "id":53
+        "id":55
     },
     {
         "name":"SelfDestructExplosion",
@@ -1099,7 +1157,7 @@
         "shouldShowEvenIfOutsideScreen":null,
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
-        "id":54
+        "id":56
     },
     {
         "name":"HealWithAutoAttack",
@@ -1128,7 +1186,7 @@
         "shouldShowEvenIfOutsideScreen":null,
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
-        "id":55
+        "id":57
     },
     {
         "name":"BurnMainAttack",
@@ -1157,7 +1215,7 @@
         "shouldShowEvenIfOutsideScreen":null,
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
-        "id":56
+        "id":58
     },
     {
         "name":"PowerupSpawn",
@@ -1186,7 +1244,7 @@
         "shouldShowEvenIfOutsideScreen":true,
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
-        "id":57
+        "id":59
     },
     {
         "name":"BossSpawn",
@@ -1215,7 +1273,7 @@
         "shouldShowEvenIfOutsideScreen":true,
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
-        "id":58
+        "id":60
     },
     {
         "name":"EventExplosion",
@@ -1244,7 +1302,7 @@
         "shouldShowEvenIfOutsideScreen":null,
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
-        "id":59
+        "id":61
     },
     {
         "name":"ExplosionSpawn",
@@ -1273,7 +1331,7 @@
         "shouldShowEvenIfOutsideScreen":true,
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
-        "id":60
+        "id":62
     },
     {
         "name":"ClusterBombExplosion",
@@ -1284,41 +1342,12 @@
         "layer":"GroundHigh",
         "exportNameTop":null,
         "exportNameObject":null,
-        "effect":"explosion_cluster_bomb_air",
+        "effect":"brock_def_explosion_blue",
         "loopingEffect":null,
-        "scale":100,
+        "scale":70,
         "timeMs":700,
-        "radius":1000,
+        "radius":300,
         "damage":null,
-        "customValue":3,
-        "type":"BulletExplosion",
-        "bulletExplosionBullet":null,
-        "bulletExplosionBulletDistance":6,
-        "bulletExplosionItem":"ClusterMine",
-        "destroysEnvironment":null,
-        "pushbackStrength":null,
-        "pushbackStrengthSelf":null,
-        "freezeStrength":null,
-        "shouldShowEvenIfOutsideScreen":null,
-        "sameAreaEffectCanNotDamageMs":null,
-        "dontShowToEnemy":null,
-        "id":61
-    },
-    {
-        "name":"ClusterBombExplosion2",
-        "fileName":"sc\/effects.sc",
-        "ownExportName":null,
-        "blueExportName":null,
-        "redExportName":null,
-        "layer":"GroundHigh",
-        "exportNameTop":null,
-        "exportNameObject":null,
-        "effect":"bo_def_ulti2_explosion",
-        "loopingEffect":null,
-        "scale":133,
-        "timeMs":700,
-        "radius":600,
-        "damage":99,
         "customValue":null,
         "type":"Damage",
         "bulletExplosionBullet":null,
@@ -1331,7 +1360,36 @@
         "shouldShowEvenIfOutsideScreen":null,
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
-        "id":62
+        "id":63
+    },
+    {
+        "name":"ClusterBombExplosion2",
+        "fileName":"sc\/effects.sc",
+        "ownExportName":null,
+        "blueExportName":null,
+        "redExportName":null,
+        "layer":"GroundHigh",
+        "exportNameTop":null,
+        "exportNameObject":null,
+        "effect":"brock_def_explosion_blue",
+        "loopingEffect":null,
+        "scale":70,
+        "timeMs":700,
+        "radius":300,
+        "damage":null,
+        "customValue":null,
+        "type":"Damage",
+        "bulletExplosionBullet":null,
+        "bulletExplosionBulletDistance":null,
+        "bulletExplosionItem":null,
+        "destroysEnvironment":null,
+        "pushbackStrength":null,
+        "pushbackStrengthSelf":null,
+        "freezeStrength":null,
+        "shouldShowEvenIfOutsideScreen":null,
+        "sameAreaEffectCanNotDamageMs":null,
+        "dontShowToEnemy":null,
+        "id":64
     },
     {
         "name":"SmokeScreen",
@@ -1360,7 +1418,7 @@
         "shouldShowEvenIfOutsideScreen":null,
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
-        "id":63
+        "id":65
     },
     {
         "name":"EventHealing",
@@ -1389,7 +1447,7 @@
         "shouldShowEvenIfOutsideScreen":null,
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
-        "id":64
+        "id":66
     },
     {
         "name":"HealingSpawn",
@@ -1418,7 +1476,7 @@
         "shouldShowEvenIfOutsideScreen":null,
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
-        "id":65
+        "id":67
     },
     {
         "name":"RaidBossExplosion",
@@ -1447,7 +1505,7 @@
         "shouldShowEvenIfOutsideScreen":null,
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
-        "id":66
+        "id":68
     },
     {
         "name":"RaidBossExplosionSpawn",
@@ -1476,13 +1534,13 @@
         "shouldShowEvenIfOutsideScreen":true,
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
-        "id":67
+        "id":69
     },
     {
         "name":"RaidBossRocketBurn",
         "fileName":"sc\/effects.sc",
-        "ownExportName":"brock_ground_fire",
-        "blueExportName":"brock_ground_fire",
+        "ownExportName":"brock_ground_fire_red",
+        "blueExportName":"brock_ground_fire_red",
         "redExportName":"brock_ground_fire_red",
         "layer":"GroundHigh",
         "exportNameTop":null,
@@ -1505,7 +1563,7 @@
         "shouldShowEvenIfOutsideScreen":true,
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
-        "id":68
+        "id":70
     },
     {
         "name":"HeroSpawn",
@@ -1534,7 +1592,7 @@
         "shouldShowEvenIfOutsideScreen":null,
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
-        "id":69
+        "id":71
     },
     {
         "name":"AutoHeal",
@@ -1563,7 +1621,7 @@
         "shouldShowEvenIfOutsideScreen":null,
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":true,
-        "id":70
+        "id":72
     },
     {
         "name":"RoboWarsBoxSpawn",
@@ -1592,7 +1650,7 @@
         "shouldShowEvenIfOutsideScreen":null,
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
-        "id":71
+        "id":73
     },
     {
         "name":"RoboWarsBaseExplosion",
@@ -1610,7 +1668,7 @@
         "radius":300,
         "damage":null,
         "customValue":null,
-        "type":"Damage",
+        "type":"Effect",
         "bulletExplosionBullet":null,
         "bulletExplosionBulletDistance":null,
         "bulletExplosionItem":null,
@@ -1621,7 +1679,7 @@
         "shouldShowEvenIfOutsideScreen":null,
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
-        "id":72
+        "id":74
     },
     {
         "name":"RoboWarsBaseAreaIndicator",
@@ -1650,7 +1708,7 @@
         "shouldShowEvenIfOutsideScreen":null,
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
-        "id":73
+        "id":75
     },
     {
         "name":"ClusterBombPetExplosion",
@@ -1661,24 +1719,24 @@
         "layer":"GroundHigh",
         "exportNameTop":null,
         "exportNameObject":null,
-        "effect":"bo_def_ulti2_explosion",
+        "effect":"brock_def_explosion_blue",
         "loopingEffect":null,
-        "scale":133,
+        "scale":70,
         "timeMs":700,
-        "radius":600,
-        "damage":99,
+        "radius":300,
+        "damage":null,
         "customValue":null,
         "type":"Damage",
         "bulletExplosionBullet":null,
         "bulletExplosionBulletDistance":null,
         "bulletExplosionItem":null,
-        "destroysEnvironment":true,
-        "pushbackStrength":120,
+        "destroysEnvironment":null,
+        "pushbackStrength":null,
         "pushbackStrengthSelf":null,
         "freezeStrength":null,
         "shouldShowEvenIfOutsideScreen":null,
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
-        "id":74
+        "id":76
     }
 ]
