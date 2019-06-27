@@ -3958,5 +3958,15 @@
         "stringArray":null,
         "altStringArray":null,
         "id":404
+    },
+    {
+        "name":"NEWS_VIDEO_TAB_ENABLED",
+        "numberValue":null,
+        "booleanValue":false,
+        "textValue":null,
+        "numberArray":null,
+        "stringArray":null,
+        "altStringArray":null,
+        "id":405
     }
 ]

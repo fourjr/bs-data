@@ -158,5 +158,21 @@
         "cap":null,
         "id":14,
         "rawTID":"FIRST_WINS"
+    },
+    {
+        "name":"LegendaryTrophies",
+        "tID":"Gwiezdne punkty",
+        "iconSWF":"sc\/ui.sc",
+        "collectEffect":null,
+        "iconExportName":"genicon_upgradium",
+        "type":null,
+        "rarity":null,
+        "premiumCurrency":null,
+        "textRed":null,
+        "textGreen":null,
+        "textBlue":null,
+        "cap":null,
+        "id":15,
+        "rawTID":"LEGENDARY_TROPHIES"
     }
 ]

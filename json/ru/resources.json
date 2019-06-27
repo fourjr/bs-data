@@ -158,5 +158,21 @@
         "cap":null,
         "id":14,
         "rawTID":"FIRST_WINS"
+    },
+    {
+        "name":"LegendaryTrophies",
+        "tID":"\u0437\u0432\u0451\u0437\u0434\u043d\u044b\u0435 \u043e\u0447\u043a\u0438",
+        "iconSWF":"sc\/ui.sc",
+        "collectEffect":null,
+        "iconExportName":"genicon_upgradium",
+        "type":null,
+        "rarity":null,
+        "premiumCurrency":null,
+        "textRed":null,
+        "textGreen":null,
+        "textBlue":null,
+        "cap":null,
+        "id":15,
+        "rawTID":"LEGENDARY_TROPHIES"
     }
 ]

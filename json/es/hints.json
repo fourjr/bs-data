@@ -111,7 +111,7 @@
     },
     {
         "name":12,
-        "tID":"El ataque principal y el s\u00faper se pueden disparar de dos formas: toca para autodisparar y arrastra para apuntar.",
+        "tID":"El ataque y el s\u00faper se pueden disparar de dos formas: toca para autodisparar y arrastra para apuntar.",
         "minXPLevel":1,
         "maxXPLevel":40,
         "fileName":null,

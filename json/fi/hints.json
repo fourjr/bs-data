@@ -111,7 +111,7 @@
     },
     {
         "name":12,
-        "tID":"Perushy\u00f6kk\u00e4yksell\u00e4si ja superillasi on kaksi ampumistapaa: pikatulitus napauttamalla ja t\u00e4ht\u00e4ys vet\u00e4m\u00e4ll\u00e4.",
+        "tID":"Hy\u00f6kk\u00e4yksell\u00e4 ja superilla on kaksi ampumistapaa: pikatulitus napauttamalla ja t\u00e4ht\u00e4ys vet\u00e4m\u00e4ll\u00e4.",
         "minXPLevel":1,
         "maxXPLevel":40,
         "fileName":null,
@@ -411,7 +411,7 @@
     },
     {
         "name":42,
-        "tID":"Pokaaliesi kokonaism\u00e4\u00e4r\u00e4 tarkoittaa kaikkien r\u00e4m\u00e4p\u00e4idesi pokaaleita yhteens\u00e4.",
+        "tID":"Pokaalien kokonaism\u00e4\u00e4r\u00e4 tarkoittaa kaikkien r\u00e4m\u00e4p\u00e4idesi pokaaleita yhteens\u00e4.",
         "minXPLevel":7,
         "maxXPLevel":999,
         "fileName":null,

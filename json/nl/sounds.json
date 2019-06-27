@@ -6720,6 +6720,342 @@
         "id":323
     },
     {
+        "name":"RoboCrow_Takedamage",
+        "fileNames":"sfx\/mech_crow_get_hit_01.ogg",
+        "minVolume":45,
+        "maxVolume":50,
+        "minPitch":100,
+        "maxPitch":100,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":3000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":324
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/mech_crow_get_hit_02.ogg",
+        "minVolume":45,
+        "maxVolume":50,
+        "minPitch":100,
+        "maxPitch":100,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":3000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":325
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/mech_crow_get_hit_03.ogg",
+        "minVolume":45,
+        "maxVolume":50,
+        "minPitch":100,
+        "maxPitch":100,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":3000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":326
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/mech_crow_get_hit_04.ogg",
+        "minVolume":45,
+        "maxVolume":50,
+        "minPitch":100,
+        "maxPitch":100,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":3000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":327
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/mech_crow_get_hit_05.ogg",
+        "minVolume":45,
+        "maxVolume":50,
+        "minPitch":100,
+        "maxPitch":100,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":3000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":328
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/mech_crow_get_hit_06.ogg",
+        "minVolume":45,
+        "maxVolume":50,
+        "minPitch":100,
+        "maxPitch":100,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":3000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":329
+    },
+    {
+        "name":"RoboCrow_Die",
+        "fileNames":"sfx\/mech_crow_dies_01.ogg",
+        "minVolume":45,
+        "maxVolume":50,
+        "minPitch":100,
+        "maxPitch":100,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":null,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":330
+    },
+    {
+        "name":"RoboCrow_Kill",
+        "fileNames":"sfx\/mech_crow_kills_01.ogg",
+        "minVolume":45,
+        "maxVolume":50,
+        "minPitch":100,
+        "maxPitch":100,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":15000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":331
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/mech_crow_kills_02.ogg",
+        "minVolume":45,
+        "maxVolume":50,
+        "minPitch":100,
+        "maxPitch":100,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":15000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":332
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/mech_crow_kills_03.ogg",
+        "minVolume":45,
+        "maxVolume":50,
+        "minPitch":100,
+        "maxPitch":100,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":15000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":333
+    },
+    {
+        "name":"RoboCrow_Lead",
+        "fileNames":"sfx\/mech_crow_lead_01.ogg",
+        "minVolume":45,
+        "maxVolume":50,
+        "minPitch":100,
+        "maxPitch":100,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":20000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":334
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/mech_crow_lead_02.ogg",
+        "minVolume":45,
+        "maxVolume":50,
+        "minPitch":100,
+        "maxPitch":100,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":20000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":335
+    },
+    {
+        "name":"RoboCrow_Start",
+        "fileNames":"sfx\/mech_crow_start_01.ogg",
+        "minVolume":45,
+        "maxVolume":50,
+        "minPitch":100,
+        "maxPitch":100,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":null,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":336
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/mech_crow_start_02.ogg",
+        "minVolume":45,
+        "maxVolume":50,
+        "minPitch":100,
+        "maxPitch":100,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":null,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":337
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/mech_crow_start_03.ogg",
+        "minVolume":45,
+        "maxVolume":50,
+        "minPitch":100,
+        "maxPitch":100,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":null,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":338
+    },
+    {
+        "name":"RoboCrow_Ulti_vo",
+        "fileNames":"sfx\/mech_crow_ulti_vo_01.ogg",
+        "minVolume":45,
+        "maxVolume":50,
+        "minPitch":100,
+        "maxPitch":100,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":10000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":339
+    },
+    {
         "name":"Penny_takedamage",
         "fileNames":"sfx\/penny_hurt_vo_01.ogg",
         "minVolume":45,
@@ -6738,7 +7074,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":324
+        "id":340
     },
     {
         "name":null,
@@ -6759,7 +7095,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":325
+        "id":341
     },
     {
         "name":null,
@@ -6780,7 +7116,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":326
+        "id":342
     },
     {
         "name":"Penny_die",
@@ -6801,7 +7137,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":327
+        "id":343
     },
     {
         "name":null,
@@ -6822,7 +7158,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":328
+        "id":344
     },
     {
         "name":null,
@@ -6843,7 +7179,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":329
+        "id":345
     },
     {
         "name":"Penny_kill",
@@ -6864,7 +7200,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":330
+        "id":346
     },
     {
         "name":null,
@@ -6885,7 +7221,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":331
+        "id":347
     },
     {
         "name":null,
@@ -6906,7 +7242,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":332
+        "id":348
     },
     {
         "name":null,
@@ -6927,7 +7263,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":333
+        "id":349
     },
     {
         "name":null,
@@ -6948,7 +7284,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":334
+        "id":350
     },
     {
         "name":"Penny_start",
@@ -6969,7 +7305,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":335
+        "id":351
     },
     {
         "name":null,
@@ -6990,7 +7326,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":336
+        "id":352
     },
     {
         "name":null,
@@ -7011,7 +7347,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":337
+        "id":353
     },
     {
         "name":"Penny_ulti",
@@ -7032,7 +7368,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":338
+        "id":354
     },
     {
         "name":null,
@@ -7053,7 +7389,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":339
+        "id":355
     },
     {
         "name":null,
@@ -7074,7 +7410,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":340
+        "id":356
     },
     {
         "name":"Penny_lead",
@@ -7095,7 +7431,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":341
+        "id":357
     },
     {
         "name":null,
@@ -7116,7 +7452,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":342
+        "id":358
     },
     {
         "name":null,
@@ -7137,7 +7473,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":343
+        "id":359
     },
     {
         "name":"Poco_start",
@@ -7158,7 +7494,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":344
+        "id":360
     },
     {
         "name":null,
@@ -7179,7 +7515,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":345
+        "id":361
     },
     {
         "name":null,
@@ -7200,7 +7536,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":346
+        "id":362
     },
     {
         "name":null,
@@ -7221,7 +7557,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":347
+        "id":363
     },
     {
         "name":"Poco_hurt",
@@ -7242,7 +7578,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":348
+        "id":364
     },
     {
         "name":null,
@@ -7263,7 +7599,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":349
+        "id":365
     },
     {
         "name":null,
@@ -7284,7 +7620,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":350
+        "id":366
     },
     {
         "name":null,
@@ -7305,7 +7641,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":351
+        "id":367
     },
     {
         "name":"Poco_kill",
@@ -7326,7 +7662,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":352
+        "id":368
     },
     {
         "name":null,
@@ -7347,7 +7683,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":353
+        "id":369
     },
     {
         "name":null,
@@ -7368,7 +7704,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":354
+        "id":370
     },
     {
         "name":"Poco_die",
@@ -7389,7 +7725,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":355
+        "id":371
     },
     {
         "name":null,
@@ -7410,7 +7746,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":356
+        "id":372
     },
     {
         "name":null,
@@ -7431,7 +7767,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":357
+        "id":373
     },
     {
         "name":"Poco_ulti_vo",
@@ -7452,7 +7788,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":358
+        "id":374
     },
     {
         "name":null,
@@ -7473,7 +7809,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":359
+        "id":375
     },
     {
         "name":null,
@@ -7494,7 +7830,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":360
+        "id":376
     },
     {
         "name":null,
@@ -7515,7 +7851,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":361
+        "id":377
     },
     {
         "name":"Poco_lead",
@@ -7536,7 +7872,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":362
+        "id":378
     },
     {
         "name":null,
@@ -7557,7 +7893,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":363
+        "id":379
     },
     {
         "name":null,
@@ -7578,7 +7914,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":364
+        "id":380
     },
     {
         "name":"Rosa_hurt",
@@ -7599,7 +7935,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":365
+        "id":381
     },
     {
         "name":null,
@@ -7620,7 +7956,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":366
+        "id":382
     },
     {
         "name":null,
@@ -7641,7 +7977,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":367
+        "id":383
     },
     {
         "name":null,
@@ -7662,7 +7998,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":368
+        "id":384
     },
     {
         "name":null,
@@ -7683,7 +8019,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":369
+        "id":385
     },
     {
         "name":null,
@@ -7704,7 +8040,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":370
+        "id":386
     },
     {
         "name":null,
@@ -7725,7 +8061,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":371
+        "id":387
     },
     {
         "name":"Rosa_die",
@@ -7746,7 +8082,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":372
+        "id":388
     },
     {
         "name":null,
@@ -7767,7 +8103,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":373
+        "id":389
     },
     {
         "name":null,
@@ -7788,7 +8124,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":374
+        "id":390
     },
     {
         "name":null,
@@ -7809,7 +8145,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":375
+        "id":391
     },
     {
         "name":"Rosa_kill",
@@ -7830,7 +8166,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":376
+        "id":392
     },
     {
         "name":null,
@@ -7851,7 +8187,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":377
+        "id":393
     },
     {
         "name":null,
@@ -7872,7 +8208,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":378
+        "id":394
     },
     {
         "name":null,
@@ -7893,7 +8229,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":379
+        "id":395
     },
     {
         "name":null,
@@ -7914,7 +8250,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":380
+        "id":396
     },
     {
         "name":"Rosa_lead",
@@ -7935,7 +8271,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":381
+        "id":397
     },
     {
         "name":null,
@@ -7956,7 +8292,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":382
+        "id":398
     },
     {
         "name":null,
@@ -7977,7 +8313,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":383
+        "id":399
     },
     {
         "name":"Rosa_start",
@@ -7998,7 +8334,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":384
+        "id":400
     },
     {
         "name":null,
@@ -8019,7 +8355,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":385
+        "id":401
     },
     {
         "name":null,
@@ -8040,7 +8376,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":386
+        "id":402
     },
     {
         "name":null,
@@ -8061,7 +8397,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":387
+        "id":403
     },
     {
         "name":"Rosa_ulti_vo",
@@ -8082,7 +8418,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":388
+        "id":404
     },
     {
         "name":null,
@@ -8103,7 +8439,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":389
+        "id":405
     },
     {
         "name":null,
@@ -8124,7 +8460,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":390
+        "id":406
     },
     {
         "name":null,
@@ -8145,7 +8481,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":391
+        "id":407
     },
     {
         "name":"Roll",
@@ -8166,7 +8502,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":392
+        "id":408
     },
     {
         "name":"Reveal",
@@ -8187,7 +8523,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":393
+        "id":409
     },
     {
         "name":"Upgrade",
@@ -8208,7 +8544,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":394
+        "id":410
     },
     {
         "name":"Male_1_death",
@@ -8229,7 +8565,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":395
+        "id":411
     },
     {
         "name":null,
@@ -8250,7 +8586,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":396
+        "id":412
     },
     {
         "name":"Male_2_death",
@@ -8271,7 +8607,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":397
+        "id":413
     },
     {
         "name":null,
@@ -8292,7 +8628,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":398
+        "id":414
     },
     {
         "name":"Female_1_death",
@@ -8313,7 +8649,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":399
+        "id":415
     },
     {
         "name":null,
@@ -8334,7 +8670,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":400
+        "id":416
     },
     {
         "name":"Rhino_death",
@@ -8355,7 +8691,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":401
+        "id":417
     },
     {
         "name":null,
@@ -8376,7 +8712,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":402
+        "id":418
     },
     {
         "name":"Robo_death",
@@ -8397,7 +8733,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":403
+        "id":419
     },
     {
         "name":null,
@@ -8418,7 +8754,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":404
+        "id":420
     },
     {
         "name":"Bo_start",
@@ -8439,7 +8775,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":405
+        "id":421
     },
     {
         "name":null,
@@ -8460,7 +8796,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":406
+        "id":422
     },
     {
         "name":null,
@@ -8481,7 +8817,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":407
+        "id":423
     },
     {
         "name":null,
@@ -8502,7 +8838,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":408
+        "id":424
     },
     {
         "name":null,
@@ -8523,7 +8859,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":409
+        "id":425
     },
     {
         "name":"Bo_kill",
@@ -8544,7 +8880,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":410
+        "id":426
     },
     {
         "name":null,
@@ -8565,7 +8901,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":411
+        "id":427
     },
     {
         "name":null,
@@ -8586,7 +8922,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":412
+        "id":428
     },
     {
         "name":null,
@@ -8607,7 +8943,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":413
+        "id":429
     },
     {
         "name":"Bo_hurt",
@@ -8628,7 +8964,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":414
+        "id":430
     },
     {
         "name":null,
@@ -8649,7 +8985,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":415
+        "id":431
     },
     {
         "name":null,
@@ -8670,7 +9006,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":416
+        "id":432
     },
     {
         "name":null,
@@ -8691,7 +9027,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":417
+        "id":433
     },
     {
         "name":"Bo_lead",
@@ -8712,7 +9048,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":418
+        "id":434
     },
     {
         "name":null,
@@ -8733,7 +9069,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":419
+        "id":435
     },
     {
         "name":null,
@@ -8754,7 +9090,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":420
+        "id":436
     },
     {
         "name":null,
@@ -8775,7 +9111,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":421
+        "id":437
     },
     {
         "name":"Bo_die",
@@ -8796,7 +9132,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":422
+        "id":438
     },
     {
         "name":null,
@@ -8817,7 +9153,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":423
+        "id":439
     },
     {
         "name":null,
@@ -8838,7 +9174,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":424
+        "id":440
     },
     {
         "name":null,
@@ -8859,7 +9195,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":425
+        "id":441
     },
     {
         "name":"Bo_ulti_vo",
@@ -8880,7 +9216,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":426
+        "id":442
     },
     {
         "name":null,
@@ -8901,7 +9237,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":427
+        "id":443
     },
     {
         "name":null,
@@ -8922,7 +9258,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":428
+        "id":444
     },
     {
         "name":null,
@@ -8943,7 +9279,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":429
+        "id":445
     },
     {
         "name":"Bo_atk_vo",
@@ -8964,7 +9300,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":430
+        "id":446
     },
     {
         "name":null,
@@ -8985,7 +9321,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":431
+        "id":447
     },
     {
         "name":null,
@@ -9006,7 +9342,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":432
+        "id":448
     },
     {
         "name":null,
@@ -9027,7 +9363,616 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":433
+        "id":449
+    },
+    {
+        "name":"Mech_Bo_start",
+        "fileNames":"sfx\/robo_bo_start_vo_01.ogg",
+        "minVolume":55,
+        "maxVolume":65,
+        "minPitch":100,
+        "maxPitch":100,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":null,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":450
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/robo_bo_start_vo_02.ogg",
+        "minVolume":55,
+        "maxVolume":65,
+        "minPitch":100,
+        "maxPitch":100,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":null,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":451
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/robo_bo_start_vo_03.ogg",
+        "minVolume":55,
+        "maxVolume":65,
+        "minPitch":100,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":null,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":452
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/robo_bo_start_vo_04.ogg",
+        "minVolume":55,
+        "maxVolume":65,
+        "minPitch":100,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":null,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":453
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/robo_bo_start_vo_05.ogg",
+        "minVolume":55,
+        "maxVolume":65,
+        "minPitch":100,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":null,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":454
+    },
+    {
+        "name":"Mech_Bo_kill",
+        "fileNames":"sfx\/robo_bo_kill_vo_01.ogg",
+        "minVolume":55,
+        "maxVolume":65,
+        "minPitch":100,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":15000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":455
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/robo_bo_kill_vo_02.ogg",
+        "minVolume":55,
+        "maxVolume":65,
+        "minPitch":100,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":15000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":456
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/robo_bo_kill_vo_03.ogg",
+        "minVolume":55,
+        "maxVolume":65,
+        "minPitch":100,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":15000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":457
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/robo_bo_kill_vo_04.ogg",
+        "minVolume":55,
+        "maxVolume":65,
+        "minPitch":100,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":15000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":458
+    },
+    {
+        "name":"Mech_Bo_hurt",
+        "fileNames":"sfx\/robo_bo_hurt_01.ogg",
+        "minVolume":55,
+        "maxVolume":65,
+        "minPitch":100,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":10000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":459
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/robo_bo_hurt_02.ogg",
+        "minVolume":55,
+        "maxVolume":65,
+        "minPitch":100,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":10000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":460
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/robo_bo_hurt_03.ogg",
+        "minVolume":55,
+        "maxVolume":65,
+        "minPitch":100,
+        "maxPitch":100,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":10000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":461
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/robo_bo_hurt_04.ogg",
+        "minVolume":55,
+        "maxVolume":65,
+        "minPitch":100,
+        "maxPitch":100,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":10000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":462
+    },
+    {
+        "name":"Mech_Bo_lead",
+        "fileNames":"sfx\/robo_bo_lead_vo_01.ogg",
+        "minVolume":55,
+        "maxVolume":65,
+        "minPitch":100,
+        "maxPitch":100,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":20000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":463
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/robo_bo_lead_vo_02.ogg",
+        "minVolume":55,
+        "maxVolume":65,
+        "minPitch":100,
+        "maxPitch":100,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":20000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":464
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/robo_bo_lead_vo_03.ogg",
+        "minVolume":55,
+        "maxVolume":65,
+        "minPitch":100,
+        "maxPitch":100,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":20000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":465
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/robo_bo_lead_vo_04.ogg",
+        "minVolume":55,
+        "maxVolume":65,
+        "minPitch":100,
+        "maxPitch":100,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":20000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":466
+    },
+    {
+        "name":"Mech_Bo_die",
+        "fileNames":"sfx\/robo_bo_die_01.ogg",
+        "minVolume":55,
+        "maxVolume":65,
+        "minPitch":100,
+        "maxPitch":100,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":15000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":467
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/robo_bo_die_02.ogg",
+        "minVolume":55,
+        "maxVolume":65,
+        "minPitch":100,
+        "maxPitch":100,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":15000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":468
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/robo_bo_die_03.ogg",
+        "minVolume":55,
+        "maxVolume":65,
+        "minPitch":100,
+        "maxPitch":100,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":15000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":469
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/robo_bo_die_04.ogg",
+        "minVolume":55,
+        "maxVolume":65,
+        "minPitch":100,
+        "maxPitch":100,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":15000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":470
+    },
+    {
+        "name":"Mech_Bo_ulti_vo",
+        "fileNames":"sfx\/robo_bo_ulti_vo_01.ogg",
+        "minVolume":55,
+        "maxVolume":65,
+        "minPitch":100,
+        "maxPitch":100,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":15000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":471
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/robo_bo_ulti_vo_02.ogg",
+        "minVolume":55,
+        "maxVolume":65,
+        "minPitch":100,
+        "maxPitch":100,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":15000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":472
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/robo_bo_ulti_vo_03.ogg",
+        "minVolume":55,
+        "maxVolume":65,
+        "minPitch":100,
+        "maxPitch":100,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":15000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":473
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/robo_bo_ulti_vo_04.ogg",
+        "minVolume":55,
+        "maxVolume":65,
+        "minPitch":100,
+        "maxPitch":100,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":15000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":474
+    },
+    {
+        "name":"Mech_Bo_atk_vo",
+        "fileNames":"sfx\/robo_bo_fire_vo_01.ogg",
+        "minVolume":55,
+        "maxVolume":65,
+        "minPitch":100,
+        "maxPitch":100,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":10000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":475
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/robo_bo_fire_vo_02.ogg",
+        "minVolume":55,
+        "maxVolume":65,
+        "minPitch":100,
+        "maxPitch":100,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":10000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":476
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/robo_bo_fire_vo_03.ogg",
+        "minVolume":55,
+        "maxVolume":65,
+        "minPitch":100,
+        "maxPitch":100,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":10000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":477
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/robo_bo_fire_vo_04.ogg",
+        "minVolume":55,
+        "maxVolume":65,
+        "minPitch":100,
+        "maxPitch":100,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":10000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":478
     },
     {
         "name":"Carl_start_vo",
@@ -9048,7 +9993,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":434
+        "id":479
     },
     {
         "name":null,
@@ -9069,7 +10014,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":435
+        "id":480
     },
     {
         "name":null,
@@ -9090,7 +10035,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":436
+        "id":481
     },
     {
         "name":null,
@@ -9111,7 +10056,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":437
+        "id":482
     },
     {
         "name":null,
@@ -9132,7 +10077,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":438
+        "id":483
     },
     {
         "name":null,
@@ -9153,7 +10098,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":439
+        "id":484
     },
     {
         "name":null,
@@ -9174,7 +10119,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":440
+        "id":485
     },
     {
         "name":"Carl_kill_vo",
@@ -9195,7 +10140,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":441
+        "id":486
     },
     {
         "name":null,
@@ -9216,7 +10161,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":442
+        "id":487
     },
     {
         "name":null,
@@ -9237,7 +10182,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":443
+        "id":488
     },
     {
         "name":null,
@@ -9258,7 +10203,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":444
+        "id":489
     },
     {
         "name":null,
@@ -9279,7 +10224,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":445
+        "id":490
     },
     {
         "name":"Carl_hurt_vo",
@@ -9300,7 +10245,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":446
+        "id":491
     },
     {
         "name":null,
@@ -9321,7 +10266,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":447
+        "id":492
     },
     {
         "name":null,
@@ -9342,7 +10287,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":448
+        "id":493
     },
     {
         "name":null,
@@ -9363,7 +10308,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":449
+        "id":494
     },
     {
         "name":null,
@@ -9384,7 +10329,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":450
+        "id":495
     },
     {
         "name":"Carl_die_vo",
@@ -9405,7 +10350,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":451
+        "id":496
     },
     {
         "name":null,
@@ -9426,7 +10371,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":452
+        "id":497
     },
     {
         "name":null,
@@ -9447,7 +10392,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":453
+        "id":498
     },
     {
         "name":null,
@@ -9468,7 +10413,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":454
+        "id":499
     },
     {
         "name":"Carl_ulti_vo",
@@ -9489,7 +10434,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":455
+        "id":500
     },
     {
         "name":null,
@@ -9510,7 +10455,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":456
+        "id":501
     },
     {
         "name":"Carl_lead_vo",
@@ -9531,7 +10476,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":457
+        "id":502
     },
     {
         "name":null,
@@ -9552,7 +10497,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":458
+        "id":503
     },
     {
         "name":null,
@@ -9573,7 +10518,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":459
+        "id":504
     },
     {
         "name":null,
@@ -9594,7 +10539,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":460
+        "id":505
     },
     {
         "name":"Carl_atk_vo",
@@ -9615,7 +10560,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":461
+        "id":506
     },
     {
         "name":null,
@@ -9636,7 +10581,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":462
+        "id":507
     },
     {
         "name":null,
@@ -9657,7 +10602,889 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":463
+        "id":508
+    },
+    {
+        "name":"Tara_start_vo",
+        "fileNames":"sfx\/tara_start_vo_01.ogg",
+        "minVolume":62,
+        "maxVolume":62,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":null,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":509
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/tara_start_vo_02.ogg",
+        "minVolume":62,
+        "maxVolume":62,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":null,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":510
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/tara_start_vo_03.ogg",
+        "minVolume":62,
+        "maxVolume":62,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":null,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":511
+    },
+    {
+        "name":"Tara_kill_vo",
+        "fileNames":"sfx\/tara_kill_vo_01.ogg",
+        "minVolume":62,
+        "maxVolume":62,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":15000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":512
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/tara_kill_vo_02.ogg",
+        "minVolume":62,
+        "maxVolume":62,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":15000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":513
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/tara_kill_vo_03.ogg",
+        "minVolume":62,
+        "maxVolume":62,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":15000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":514
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/tara_kill_vo_04.ogg",
+        "minVolume":62,
+        "maxVolume":62,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":15000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":515
+    },
+    {
+        "name":"Tara_die_vo",
+        "fileNames":"sfx\/tara_die_vo_01.ogg",
+        "minVolume":62,
+        "maxVolume":62,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":15000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":516
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/tara_die_vo_02.ogg",
+        "minVolume":62,
+        "maxVolume":62,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":15000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":517
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/tara_die_vo_03.ogg",
+        "minVolume":62,
+        "maxVolume":62,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":15000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":518
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/tara_die_vo_04.ogg",
+        "minVolume":62,
+        "maxVolume":62,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":15000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":519
+    },
+    {
+        "name":"Tara_hurt_vo",
+        "fileNames":"sfx\/tara_hurt_vo_01.ogg",
+        "minVolume":62,
+        "maxVolume":62,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":12000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":520
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/tara_hurt_vo_02.ogg",
+        "minVolume":62,
+        "maxVolume":62,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":12000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":521
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/tara_hurt_vo_03.ogg",
+        "minVolume":62,
+        "maxVolume":62,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":12000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":522
+    },
+    {
+        "name":"Tara_lead_vo",
+        "fileNames":"sfx\/tara_lead_vo_01.ogg",
+        "minVolume":62,
+        "maxVolume":62,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":20000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":523
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/tara_lead_vo_02.ogg",
+        "minVolume":62,
+        "maxVolume":62,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":20000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":524
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/tara_lead_vo_03.ogg",
+        "minVolume":62,
+        "maxVolume":62,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":20000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":525
+    },
+    {
+        "name":"Bibi_start_vo",
+        "fileNames":"sfx\/bibi_start_vo_01.ogg",
+        "minVolume":55,
+        "maxVolume":60,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":null,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":526
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/bibi_start_vo_02.ogg",
+        "minVolume":55,
+        "maxVolume":60,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":null,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":527
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/bibi_start_vo_03.ogg",
+        "minVolume":55,
+        "maxVolume":60,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":null,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":528
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/bibi_start_vo_04.ogg",
+        "minVolume":55,
+        "maxVolume":60,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":null,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":529
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/bibi_start_vo_05.ogg",
+        "minVolume":55,
+        "maxVolume":60,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":null,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":530
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/bibi_start_vo_06.ogg",
+        "minVolume":55,
+        "maxVolume":60,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":null,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":531
+    },
+    {
+        "name":"Bibi_lead_vo",
+        "fileNames":"sfx\/bibi_lead_vo_01.ogg",
+        "minVolume":55,
+        "maxVolume":60,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":20000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":532
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/bibi_lead_vo_02.ogg",
+        "minVolume":55,
+        "maxVolume":60,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":20000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":533
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/bibi_lead_vo_03.ogg",
+        "minVolume":55,
+        "maxVolume":60,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":20000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":534
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/bibi_lead_vo_04.ogg",
+        "minVolume":55,
+        "maxVolume":60,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":20000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":535
+    },
+    {
+        "name":"Bibi_kill_vo",
+        "fileNames":"sfx\/bibi_kill_vo_01.ogg",
+        "minVolume":55,
+        "maxVolume":60,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":15000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":536
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/bibi_kill_vo_02.ogg",
+        "minVolume":55,
+        "maxVolume":60,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":15000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":537
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/bibi_kill_vo_03.ogg",
+        "minVolume":55,
+        "maxVolume":60,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":15000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":538
+    },
+    {
+        "name":"Bibi_hurt_vo",
+        "fileNames":"sfx\/bibi_hurt_vo_01.ogg",
+        "minVolume":55,
+        "maxVolume":60,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":15000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":539
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/bibi_hurt_vo_02.ogg",
+        "minVolume":55,
+        "maxVolume":60,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":15000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":540
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/bibi_hurt_vo_03.ogg",
+        "minVolume":55,
+        "maxVolume":60,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":15000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":541
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/bibi_hurt_vo_04.ogg",
+        "minVolume":55,
+        "maxVolume":60,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":15000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":542
+    },
+    {
+        "name":"Bibi_die_vo",
+        "fileNames":"sfx\/bibi_die_vo_01.ogg",
+        "minVolume":55,
+        "maxVolume":60,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":15000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":543
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/bibi_die_vo_02.ogg",
+        "minVolume":55,
+        "maxVolume":60,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":15000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":544
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/bibi_die_vo_03.ogg",
+        "minVolume":55,
+        "maxVolume":60,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":15000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":545
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/bibi_die_vo_04.ogg",
+        "minVolume":55,
+        "maxVolume":60,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":15000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":546
+    },
+    {
+        "name":"Bibi_ulti_vo",
+        "fileNames":"sfx\/bibi_ulti_vo_01.ogg",
+        "minVolume":55,
+        "maxVolume":60,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":null,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":547
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/bibi_ulti_vo_02.ogg",
+        "minVolume":55,
+        "maxVolume":60,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":null,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":548
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/bibi_ulti_vo_03.ogg",
+        "minVolume":55,
+        "maxVolume":60,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":null,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":549
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/bibi_ulti_vo_04.ogg",
+        "minVolume":55,
+        "maxVolume":60,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":null,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":550
     },
     {
         "name":"laser_panic_jingle",
@@ -9678,7 +11505,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":464
+        "id":551
     },
     {
         "name":"laser_panic_bad_jingle",
@@ -9699,7 +11526,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":465
+        "id":552
     },
     {
         "name":"ui_coin_gain",
@@ -9720,7 +11547,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":466
+        "id":553
     },
     {
         "name":"ui_firstcoin",
@@ -9741,7 +11568,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":467
+        "id":554
     },
     {
         "name":"ui_collect_coins",
@@ -9762,7 +11589,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":468
+        "id":555
     },
     {
         "name":"ui_tapbottomitem",
@@ -9783,7 +11610,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":469
+        "id":556
     },
     {
         "name":"ui_tapbottomguns",
@@ -9804,7 +11631,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":470
+        "id":557
     },
     {
         "name":"ui_upgradium_gain",
@@ -9825,7 +11652,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":471
+        "id":558
     },
     {
         "name":"ui_dust_gain",
@@ -9846,7 +11673,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":472
+        "id":559
     },
     {
         "name":"ui_battle_end_xp_gain",
@@ -9867,7 +11694,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":473
+        "id":560
     },
     {
         "name":"ui_battle_end_trophy_gain",
@@ -9888,7 +11715,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":474
+        "id":561
     },
     {
         "name":"ui_battle_end_trophy_loss",
@@ -9909,7 +11736,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":475
+        "id":562
     },
     {
         "name":"ui_battle_end_rank_up",
@@ -9930,7 +11757,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":476
+        "id":563
     },
     {
         "name":"ui_battle_end_level_up",
@@ -9951,7 +11778,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":477
+        "id":564
     },
     {
         "name":"ui_battle_end_element_slide",
@@ -9972,7 +11799,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":478
+        "id":565
     },
     {
         "name":"ui_battle_end_victory",
@@ -9993,7 +11820,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":479
+        "id":566
     },
     {
         "name":"ui_battle_end_defeat",
@@ -10014,7 +11841,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":480
+        "id":567
     },
     {
         "name":"ui_battle_end_draw",
@@ -10035,7 +11862,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":481
+        "id":568
     },
     {
         "name":"ui_battle_end_transition",
@@ -10056,7 +11883,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":482
+        "id":569
     },
     {
         "name":"ui_battle_end_mvp_you",
@@ -10077,7 +11904,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":483
+        "id":570
     },
     {
         "name":"ui_battle_end_mvp_enemy",
@@ -10098,7 +11925,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":484
+        "id":571
     },
     {
         "name":"ui_battle_end_mvp_other_friendly",
@@ -10119,7 +11946,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":485
+        "id":572
     },
     {
         "name":"ui_battle_end_score_decrease_appear",
@@ -10140,7 +11967,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":486
+        "id":573
     },
     {
         "name":"ui_battle_end_score_increase_appear",
@@ -10161,7 +11988,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":487
+        "id":574
     },
     {
         "name":"ui_battle_end_coin_element_appear",
@@ -10182,7 +12009,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":488
+        "id":575
     },
     {
         "name":"can_not_cast_ulti_tutorial",
@@ -10203,7 +12030,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":489
+        "id":576
     },
     {
         "name":"Bullet_rico_metal",
@@ -10224,7 +12051,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":490
+        "id":577
     },
     {
         "name":"Bullet_rico_rock",
@@ -10245,7 +12072,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":491
+        "id":578
     },
     {
         "name":"Bullet_rico_wood",
@@ -10266,7 +12093,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":492
+        "id":579
     },
     {
         "name":"Bullet_rico_grass",
@@ -10287,7 +12114,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":493
+        "id":580
     },
     {
         "name":"Chest_loop",
@@ -10308,7 +12135,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":494
+        "id":581
     },
     {
         "name":"Ulti_button_press",
@@ -10329,7 +12156,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":495
+        "id":582
     },
     {
         "name":"Ulti_button_cancel",
@@ -10350,7 +12177,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":496
+        "id":583
     },
     {
         "name":"Slugfest_go",
@@ -10371,7 +12198,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":497
+        "id":584
     },
     {
         "name":"Tick_tock",
@@ -10392,7 +12219,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":498
+        "id":585
     },
     {
         "name":"Bad_kill",
@@ -10413,7 +12240,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":499
+        "id":586
     },
     {
         "name":"Good_kill",
@@ -10434,7 +12261,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":500
+        "id":587
     },
     {
         "name":"Select_char",
@@ -10455,7 +12282,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":501
+        "id":588
     },
     {
         "name":"Wind_gust",
@@ -10476,7 +12303,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":502
+        "id":589
     },
     {
         "name":"Jess_shoot",
@@ -10497,7 +12324,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":503
+        "id":590
     },
     {
         "name":"Jess_hit",
@@ -10518,7 +12345,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":504
+        "id":591
     },
     {
         "name":"Jess_throw",
@@ -10539,7 +12366,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":505
+        "id":592
     },
     {
         "name":"Jess_dryfire",
@@ -10560,7 +12387,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":506
+        "id":593
     },
     {
         "name":"Jess_reload",
@@ -10581,7 +12408,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":507
+        "id":594
     },
     {
         "name":"Brock_dryfire",
@@ -10602,7 +12429,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":508
+        "id":595
     },
     {
         "name":"Brock_reload",
@@ -10623,7 +12450,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":509
+        "id":596
     },
     {
         "name":"Lucha_punch",
@@ -10644,7 +12471,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":510
+        "id":597
     },
     {
         "name":"Lucha_ulti",
@@ -10665,7 +12492,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":511
+        "id":598
     },
     {
         "name":"Punch_impact",
@@ -10686,7 +12513,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":512
+        "id":599
     },
     {
         "name":null,
@@ -10707,7 +12534,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":513
+        "id":600
     },
     {
         "name":"Trickshot_fire",
@@ -10728,7 +12555,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":514
+        "id":601
     },
     {
         "name":"Trickshot_bullet",
@@ -10749,7 +12576,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":515
+        "id":602
     },
     {
         "name":"Trickshot_fire_ulti",
@@ -10770,7 +12597,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":516
+        "id":603
     },
     {
         "name":"Bow_fire",
@@ -10791,7 +12618,70 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":517
+        "id":604
+    },
+    {
+        "name":"Mech_bo_fire",
+        "fileNames":"sfx\/mech_bo_fire_01.ogg",
+        "minVolume":20,
+        "maxVolume":40,
+        "minPitch":90,
+        "maxPitch":100,
+        "priority":1,
+        "maximumByType":12,
+        "maxRepeatMs":50,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":605
+    },
+    {
+        "name":"Mech_bo_ulti",
+        "fileNames":"sfx\/mech_bo_ulti_01.ogg",
+        "minVolume":50,
+        "maxVolume":60,
+        "minPitch":95,
+        "maxPitch":105,
+        "priority":1,
+        "maximumByType":3,
+        "maxRepeatMs":null,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":606
+    },
+    {
+        "name":"Mech_bo_reload",
+        "fileNames":"sfx\/mech_bo_reload_01.ogg",
+        "minVolume":30,
+        "maxVolume":35,
+        "minPitch":96,
+        "maxPitch":104,
+        "priority":1,
+        "maximumByType":3,
+        "maxRepeatMs":null,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":607
     },
     {
         "name":"Bow_reload",
@@ -10812,7 +12702,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":518
+        "id":608
     },
     {
         "name":"Bow_dryfire",
@@ -10833,7 +12723,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":519
+        "id":609
     },
     {
         "name":"Earth_atk",
@@ -10854,7 +12744,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":520
+        "id":610
     },
     {
         "name":"Crow_throw",
@@ -10875,7 +12765,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":521
+        "id":611
     },
     {
         "name":"crow_reload",
@@ -10896,7 +12786,49 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":522
+        "id":612
+    },
+    {
+        "name":"Mech_crow_ulti",
+        "fileNames":"sfx\/mech_crow_ulti_01.ogg",
+        "minVolume":60,
+        "maxVolume":70,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":3,
+        "maxRepeatMs":null,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":613
+    },
+    {
+        "name":"Mech_crow_atk",
+        "fileNames":"sfx\/mech_crow_atk_01.ogg",
+        "minVolume":30,
+        "maxVolume":40,
+        "minPitch":95,
+        "maxPitch":105,
+        "priority":1,
+        "maximumByType":12,
+        "maxRepeatMs":null,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":614
     },
     {
         "name":"crow_dryfire",
@@ -10917,7 +12849,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":523
+        "id":615
     },
     {
         "name":"spike_atk",
@@ -10938,7 +12870,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":524
+        "id":616
     },
     {
         "name":"Spike_reload",
@@ -10959,7 +12891,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":525
+        "id":617
     },
     {
         "name":"Cactus_explo",
@@ -10980,7 +12912,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":526
+        "id":618
     },
     {
         "name":"Mortis_atk",
@@ -11001,7 +12933,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":527
+        "id":619
     },
     {
         "name":"Mortis_ulti",
@@ -11022,7 +12954,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":528
+        "id":620
     },
     {
         "name":"Mortis_reload",
@@ -11043,7 +12975,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":529
+        "id":621
     },
     {
         "name":"Barkeep_atk",
@@ -11064,7 +12996,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":530
+        "id":622
     },
     {
         "name":"Barkeep_bottle_hit",
@@ -11085,7 +13017,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":531
+        "id":623
     },
     {
         "name":"Barkeep_reload",
@@ -11106,7 +13038,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":532
+        "id":624
     },
     {
         "name":"Barkeep_ulti_throw",
@@ -11127,7 +13059,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":533
+        "id":625
     },
     {
         "name":"Barkeep_ulti_hit",
@@ -11148,7 +13080,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":534
+        "id":626
     },
     {
         "name":"Barkeep_dryfire",
@@ -11169,7 +13101,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":535
+        "id":627
     },
     {
         "name":"Poco_reload",
@@ -11190,7 +13122,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":536
+        "id":628
     },
     {
         "name":"Poco_atk",
@@ -11211,7 +13143,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":537
+        "id":629
     },
     {
         "name":null,
@@ -11232,7 +13164,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":538
+        "id":630
     },
     {
         "name":null,
@@ -11253,7 +13185,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":539
+        "id":631
     },
     {
         "name":"Poco_ulti",
@@ -11274,7 +13206,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":540
+        "id":632
     },
     {
         "name":"Tnt_guy_start_vo",
@@ -11295,7 +13227,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":541
+        "id":633
     },
     {
         "name":null,
@@ -11316,7 +13248,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":542
+        "id":634
     },
     {
         "name":null,
@@ -11337,7 +13269,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":543
+        "id":635
     },
     {
         "name":null,
@@ -11358,7 +13290,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":544
+        "id":636
     },
     {
         "name":"Tnt_guy_lead_vo",
@@ -11379,7 +13311,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":545
+        "id":637
     },
     {
         "name":null,
@@ -11400,7 +13332,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":546
+        "id":638
     },
     {
         "name":"Tnt_guy_kill_vo",
@@ -11421,7 +13353,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":547
+        "id":639
     },
     {
         "name":null,
@@ -11442,7 +13374,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":548
+        "id":640
     },
     {
         "name":null,
@@ -11463,7 +13395,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":549
+        "id":641
     },
     {
         "name":null,
@@ -11484,7 +13416,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":550
+        "id":642
     },
     {
         "name":"Tnt_guy_hurt_vo",
@@ -11505,7 +13437,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":551
+        "id":643
     },
     {
         "name":null,
@@ -11526,7 +13458,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":552
+        "id":644
     },
     {
         "name":null,
@@ -11547,7 +13479,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":553
+        "id":645
     },
     {
         "name":null,
@@ -11568,7 +13500,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":554
+        "id":646
     },
     {
         "name":null,
@@ -11589,7 +13521,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":555
+        "id":647
     },
     {
         "name":"Tnt_guy_ulti_vo",
@@ -11610,7 +13542,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":556
+        "id":648
     },
     {
         "name":null,
@@ -11631,7 +13563,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":557
+        "id":649
     },
     {
         "name":"Tnt_guy_die_vo",
@@ -11652,7 +13584,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":558
+        "id":650
     },
     {
         "name":null,
@@ -11673,7 +13605,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":559
+        "id":651
     },
     {
         "name":null,
@@ -11694,7 +13626,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":560
+        "id":652
     },
     {
         "name":null,
@@ -11715,7 +13647,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":561
+        "id":653
     },
     {
         "name":null,
@@ -11736,7 +13668,469 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":562
+        "id":654
+    },
+    {
+        "name":"Mech_Mike_start_vo",
+        "fileNames":"sfx\/mech_mike_start_vo_01.ogg",
+        "minVolume":45,
+        "maxVolume":50,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":null,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":655
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/mech_mike_start_vo_02.ogg",
+        "minVolume":45,
+        "maxVolume":50,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":null,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":656
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/mech_mike_start_vo_03.ogg",
+        "minVolume":45,
+        "maxVolume":50,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":null,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":657
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/mech_mike_start_vo_04.ogg",
+        "minVolume":45,
+        "maxVolume":50,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":null,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":658
+    },
+    {
+        "name":"Mech_Mike_lead_vo",
+        "fileNames":"sfx\/mech_mike_lead_vo_01.ogg",
+        "minVolume":45,
+        "maxVolume":50,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":20000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":659
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/mech_mike_lead_vo_02.ogg",
+        "minVolume":45,
+        "maxVolume":50,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":20000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":660
+    },
+    {
+        "name":"Mech_Mike_kill_vo",
+        "fileNames":"sfx\/mech_mike_kill_vo_01.ogg",
+        "minVolume":45,
+        "maxVolume":50,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":15000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":661
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/mech_mike_kill_vo_02.ogg",
+        "minVolume":45,
+        "maxVolume":50,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":15000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":662
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/mech_mike_kill_vo_03.ogg",
+        "minVolume":45,
+        "maxVolume":50,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":15000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":663
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/mech_mike_kill_vo_04.ogg",
+        "minVolume":45,
+        "maxVolume":50,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":15000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":664
+    },
+    {
+        "name":"Mech_Mike_hurt_vo",
+        "fileNames":"sfx\/mech_mike_hurt_vo_01.ogg",
+        "minVolume":45,
+        "maxVolume":50,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":3000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":665
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/mech_mike_hurt_vo_02.ogg",
+        "minVolume":45,
+        "maxVolume":50,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":3000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":666
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/mech_mike_hurt_vo_03.ogg",
+        "minVolume":45,
+        "maxVolume":50,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":3000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":667
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/mech_mike_hurt_vo_04.ogg",
+        "minVolume":45,
+        "maxVolume":50,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":3000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":668
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/mech_mike_hurt_vo_05.ogg",
+        "minVolume":45,
+        "maxVolume":50,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":3000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":669
+    },
+    {
+        "name":"Mech_Mike_ulti_vo",
+        "fileNames":"sfx\/mech_mike_ulti_vo_01.ogg",
+        "minVolume":45,
+        "maxVolume":50,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":null,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":670
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/mech_mike_ulti_vo_02.ogg",
+        "minVolume":45,
+        "maxVolume":50,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":null,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":671
+    },
+    {
+        "name":"Mech_Mike_die_vo",
+        "fileNames":"sfx\/mech_mike_die_vo_01.ogg",
+        "minVolume":45,
+        "maxVolume":50,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":null,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":672
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/mech_mike_die_vo_02.ogg",
+        "minVolume":45,
+        "maxVolume":50,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":null,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":673
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/mech_mike_die_vo_03.ogg",
+        "minVolume":45,
+        "maxVolume":50,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":null,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":674
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/mech_mike_die_vo_04.ogg",
+        "minVolume":45,
+        "maxVolume":50,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":null,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":675
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/mech_mike_die_vo_05.ogg",
+        "minVolume":45,
+        "maxVolume":50,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":1,
+        "maxRepeatMs":null,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":676
     },
     {
         "name":"Nita_ulti_throw",
@@ -11757,7 +14151,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":563
+        "id":677
     },
     {
         "name":"Nita_ulti_bear",
@@ -11778,7 +14172,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":564
+        "id":678
     },
     {
         "name":"Nita_kill",
@@ -11799,7 +14193,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":565
+        "id":679
     },
     {
         "name":null,
@@ -11820,7 +14214,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":566
+        "id":680
     },
     {
         "name":null,
@@ -11841,7 +14235,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":567
+        "id":681
     },
     {
         "name":"Nita_lead",
@@ -11862,7 +14256,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":568
+        "id":682
     },
     {
         "name":null,
@@ -11883,7 +14277,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":569
+        "id":683
     },
     {
         "name":null,
@@ -11904,7 +14298,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":570
+        "id":684
     },
     {
         "name":"Nita_start",
@@ -11925,7 +14319,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":571
+        "id":685
     },
     {
         "name":null,
@@ -11946,7 +14340,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":572
+        "id":686
     },
     {
         "name":null,
@@ -11967,7 +14361,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":573
+        "id":687
     },
     {
         "name":"Nita_ulti",
@@ -11988,7 +14382,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":574
+        "id":688
     },
     {
         "name":null,
@@ -12009,7 +14403,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":575
+        "id":689
     },
     {
         "name":null,
@@ -12030,7 +14424,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":576
+        "id":690
     },
     {
         "name":"Nita_hurt",
@@ -12051,7 +14445,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":577
+        "id":691
     },
     {
         "name":null,
@@ -12072,7 +14466,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":578
+        "id":692
     },
     {
         "name":null,
@@ -12093,7 +14487,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":579
+        "id":693
     },
     {
         "name":null,
@@ -12114,7 +14508,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":580
+        "id":694
     },
     {
         "name":null,
@@ -12135,7 +14529,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":581
+        "id":695
     },
     {
         "name":"Nita_death",
@@ -12156,7 +14550,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":582
+        "id":696
     },
     {
         "name":null,
@@ -12177,7 +14571,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":583
+        "id":697
     },
     {
         "name":"Nita_atk_vo",
@@ -12198,7 +14592,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":584
+        "id":698
     },
     {
         "name":null,
@@ -12219,7 +14613,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":585
+        "id":699
     },
     {
         "name":null,
@@ -12240,7 +14634,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":586
+        "id":700
     },
     {
         "name":null,
@@ -12261,7 +14655,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":587
+        "id":701
     },
     {
         "name":null,
@@ -12282,7 +14676,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":588
+        "id":702
     },
     {
         "name":"Pam_start",
@@ -12303,7 +14697,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":589
+        "id":703
     },
     {
         "name":null,
@@ -12324,7 +14718,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":590
+        "id":704
     },
     {
         "name":null,
@@ -12345,7 +14739,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":591
+        "id":705
     },
     {
         "name":null,
@@ -12366,7 +14760,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":592
+        "id":706
     },
     {
         "name":"Pam_hurt",
@@ -12387,7 +14781,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":593
+        "id":707
     },
     {
         "name":null,
@@ -12408,7 +14802,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":594
+        "id":708
     },
     {
         "name":null,
@@ -12429,7 +14823,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":595
+        "id":709
     },
     {
         "name":null,
@@ -12450,7 +14844,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":596
+        "id":710
     },
     {
         "name":null,
@@ -12471,7 +14865,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":597
+        "id":711
     },
     {
         "name":"Pam_kill",
@@ -12492,7 +14886,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":598
+        "id":712
     },
     {
         "name":null,
@@ -12513,7 +14907,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":599
+        "id":713
     },
     {
         "name":null,
@@ -12534,7 +14928,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":600
+        "id":714
     },
     {
         "name":null,
@@ -12555,7 +14949,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":601
+        "id":715
     },
     {
         "name":"Pam_lead",
@@ -12576,7 +14970,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":602
+        "id":716
     },
     {
         "name":null,
@@ -12597,7 +14991,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":603
+        "id":717
     },
     {
         "name":null,
@@ -12618,7 +15012,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":604
+        "id":718
     },
     {
         "name":null,
@@ -12639,7 +15033,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":605
+        "id":719
     },
     {
         "name":"Pam_ulti",
@@ -12660,7 +15054,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":606
+        "id":720
     },
     {
         "name":null,
@@ -12681,7 +15075,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":607
+        "id":721
     },
     {
         "name":null,
@@ -12702,7 +15096,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":608
+        "id":722
     },
     {
         "name":null,
@@ -12723,7 +15117,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":609
+        "id":723
     },
     {
         "name":"Pam_die",
@@ -12744,7 +15138,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":610
+        "id":724
     },
     {
         "name":null,
@@ -12765,7 +15159,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":611
+        "id":725
     },
     {
         "name":null,
@@ -12786,7 +15180,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":612
+        "id":726
     },
     {
         "name":null,
@@ -12807,7 +15201,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":613
+        "id":727
     },
     {
         "name":"Mortis_start",
@@ -12828,7 +15222,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":614
+        "id":728
     },
     {
         "name":null,
@@ -12849,7 +15243,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":615
+        "id":729
     },
     {
         "name":null,
@@ -12870,7 +15264,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":616
+        "id":730
     },
     {
         "name":null,
@@ -12891,7 +15285,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":617
+        "id":731
     },
     {
         "name":"Mortis_hurt",
@@ -12912,7 +15306,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":618
+        "id":732
     },
     {
         "name":null,
@@ -12933,7 +15327,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":619
+        "id":733
     },
     {
         "name":null,
@@ -12954,7 +15348,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":620
+        "id":734
     },
     {
         "name":null,
@@ -12975,7 +15369,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":621
+        "id":735
     },
     {
         "name":"Mortis_kill",
@@ -12996,7 +15390,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":622
+        "id":736
     },
     {
         "name":null,
@@ -13017,7 +15411,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":623
+        "id":737
     },
     {
         "name":null,
@@ -13038,7 +15432,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":624
+        "id":738
     },
     {
         "name":null,
@@ -13059,7 +15453,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":625
+        "id":739
     },
     {
         "name":"Mortis_lead",
@@ -13080,7 +15474,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":626
+        "id":740
     },
     {
         "name":null,
@@ -13101,7 +15495,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":627
+        "id":741
     },
     {
         "name":null,
@@ -13122,7 +15516,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":628
+        "id":742
     },
     {
         "name":null,
@@ -13143,7 +15537,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":629
+        "id":743
     },
     {
         "name":null,
@@ -13164,7 +15558,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":630
+        "id":744
     },
     {
         "name":"Mortis_ulti_vo",
@@ -13185,7 +15579,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":631
+        "id":745
     },
     {
         "name":null,
@@ -13206,7 +15600,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":632
+        "id":746
     },
     {
         "name":null,
@@ -13227,7 +15621,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":633
+        "id":747
     },
     {
         "name":null,
@@ -13248,7 +15642,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":634
+        "id":748
     },
     {
         "name":null,
@@ -13269,7 +15663,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":635
+        "id":749
     },
     {
         "name":"Mortis_die",
@@ -13290,7 +15684,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":636
+        "id":750
     },
     {
         "name":null,
@@ -13311,7 +15705,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":637
+        "id":751
     },
     {
         "name":null,
@@ -13332,7 +15726,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":638
+        "id":752
     },
     {
         "name":null,
@@ -13353,7 +15747,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":639
+        "id":753
     },
     {
         "name":null,
@@ -13374,7 +15768,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":640
+        "id":754
     },
     {
         "name":"Mortis_atk_vo",
@@ -13395,7 +15789,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":641
+        "id":755
     },
     {
         "name":null,
@@ -13416,7 +15810,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":642
+        "id":756
     },
     {
         "name":null,
@@ -13437,7 +15831,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":643
+        "id":757
     },
     {
         "name":null,
@@ -13458,7 +15852,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":644
+        "id":758
     },
     {
         "name":"Bomb_bleeps",
@@ -13479,7 +15873,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":645
+        "id":759
     },
     {
         "name":"Bomb_bleeps_friend",
@@ -13500,7 +15894,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":646
+        "id":760
     },
     {
         "name":"Tutorial_circle",
@@ -13521,7 +15915,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":647
+        "id":761
     },
     {
         "name":"Reveal_common",
@@ -13542,7 +15936,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":648
+        "id":762
     },
     {
         "name":"Reveal_rare",
@@ -13563,7 +15957,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":649
+        "id":763
     },
     {
         "name":"Reveal_epic",
@@ -13584,7 +15978,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":650
+        "id":764
     },
     {
         "name":"Reveal_legendary",
@@ -13605,7 +15999,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":651
+        "id":765
     },
     {
         "name":"Reveal_loop",
@@ -13626,7 +16020,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":652
+        "id":766
     },
     {
         "name":"Bo_mine_spawn",
@@ -13647,7 +16041,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":653
+        "id":767
     },
     {
         "name":"Buy_gems",
@@ -13668,7 +16062,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":654
+        "id":768
     },
     {
         "name":"Become_chips",
@@ -13689,7 +16083,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":655
+        "id":769
     },
     {
         "name":"Safe_open_elixir",
@@ -13710,7 +16104,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":656
+        "id":770
     },
     {
         "name":"Safe_open_char",
@@ -13731,7 +16125,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":657
+        "id":771
     },
     {
         "name":"Getting_healed",
@@ -13752,7 +16146,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":658
+        "id":772
     },
     {
         "name":"Sniper_atk",
@@ -13773,7 +16167,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":659
+        "id":773
     },
     {
         "name":"Sniper_trail",
@@ -13794,7 +16188,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":660
+        "id":774
     },
     {
         "name":"Sniper_reload",
@@ -13815,7 +16209,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":661
+        "id":775
     },
     {
         "name":"Sniper_ulti",
@@ -13836,7 +16230,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":662
+        "id":776
     },
     {
         "name":"Piper_mine_drop",
@@ -13857,7 +16251,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":663
+        "id":777
     },
     {
         "name":"Sniper_land",
@@ -13878,7 +16272,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":664
+        "id":778
     },
     {
         "name":"Throw_bawl",
@@ -13899,7 +16293,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":665
+        "id":779
     },
     {
         "name":"Throw_bawl_ulti",
@@ -13920,7 +16314,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":666
+        "id":780
     },
     {
         "name":"Catch_bawl",
@@ -13941,7 +16335,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":667
+        "id":781
     },
     {
         "name":"Mystic_atk",
@@ -13962,7 +16356,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":668
+        "id":782
     },
     {
         "name":"Black_hole",
@@ -13983,7 +16377,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":669
+        "id":783
     },
     {
         "name":"Mystic_reload",
@@ -14004,7 +16398,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":670
+        "id":784
     },
     {
         "name":"Mystic_ulti_deploy",
@@ -14025,7 +16419,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":671
+        "id":785
     },
     {
         "name":"Mystic_dryfire",
@@ -14046,7 +16440,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":672
+        "id":786
     },
     {
         "name":"Overtime",
@@ -14067,7 +16461,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":673
+        "id":787
     },
     {
         "name":"MiniG_fire",
@@ -14088,7 +16482,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":674
+        "id":788
     },
     {
         "name":"MiniG_reload",
@@ -14109,7 +16503,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":675
+        "id":789
     },
     {
         "name":"Minig_dryfire",
@@ -14130,7 +16524,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":676
+        "id":790
     },
     {
         "name":"MiniG_ulti",
@@ -14151,7 +16545,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":677
+        "id":791
     },
     {
         "name":"Pve_wave_01",
@@ -14172,7 +16566,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":678
+        "id":792
     },
     {
         "name":"Pve_boss_01",
@@ -14193,7 +16587,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":679
+        "id":793
     },
     {
         "name":"Barrel_bot_ulti",
@@ -14214,7 +16608,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":680
+        "id":794
     },
     {
         "name":"Get_100coins",
@@ -14235,7 +16629,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":681
+        "id":795
     },
     {
         "name":"Trophy_rank_up",
@@ -14256,7 +16650,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":682
+        "id":796
     },
     {
         "name":"Craft_rarity_01",
@@ -14277,7 +16671,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":683
+        "id":797
     },
     {
         "name":"Craft_rarity_02",
@@ -14298,7 +16692,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":684
+        "id":798
     },
     {
         "name":"Craft_rarity_03",
@@ -14319,7 +16713,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":685
+        "id":799
     },
     {
         "name":"Craft_rarity_04",
@@ -14340,7 +16734,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":686
+        "id":800
     },
     {
         "name":"Craft_rarity_05",
@@ -14361,7 +16755,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":687
+        "id":801
     },
     {
         "name":"Brawl_button",
@@ -14382,7 +16776,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":688
+        "id":802
     },
     {
         "name":"Select_brawler",
@@ -14403,7 +16797,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":689
+        "id":803
     },
     {
         "name":"Barrelbot_step",
@@ -14424,7 +16818,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":690
+        "id":804
     },
     {
         "name":"Char_rollout",
@@ -14445,7 +16839,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":691
+        "id":805
     },
     {
         "name":"Brawler_intro",
@@ -14466,7 +16860,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":692
+        "id":806
     },
     {
         "name":"Brawl_intro",
@@ -14487,7 +16881,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":693
+        "id":807
     },
     {
         "name":"Upgrade_count",
@@ -14508,7 +16902,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":694
+        "id":808
     },
     {
         "name":"Count_powerpoints",
@@ -14529,7 +16923,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":695
+        "id":809
     },
     {
         "name":"Emit_powerpoints",
@@ -14550,7 +16944,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":696
+        "id":810
     },
     {
         "name":"Gatcha_end_screen",
@@ -14571,7 +16965,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":697
+        "id":811
     },
     {
         "name":"Gatcha_star_power",
@@ -14592,7 +16986,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":698
+        "id":812
     },
     {
         "name":"Buy_from_shop",
@@ -14613,7 +17007,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":699
+        "id":813
     },
     {
         "name":"Shop_item_appear",
@@ -14634,7 +17028,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":700
+        "id":814
     },
     {
         "name":"Coins_gatcha",
@@ -14655,7 +17049,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":701
+        "id":815
     },
     {
         "name":"Upgrade_unlocked",
@@ -14676,7 +17070,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":702
+        "id":816
     },
     {
         "name":"2x_gatcha",
@@ -14697,7 +17091,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":703
+        "id":817
     },
     {
         "name":"Get_powerpoints_small",
@@ -14718,7 +17112,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":704
+        "id":818
     },
     {
         "name":"Get_powerpoints_medium",
@@ -14739,7 +17133,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":705
+        "id":819
     },
     {
         "name":"Get_powerpoints_big",
@@ -14760,7 +17154,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":706
+        "id":820
     },
     {
         "name":"Get_powerpoints_accent",
@@ -14781,7 +17175,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":707
+        "id":821
     },
     {
         "name":"Get_powerpoints_accent_2",
@@ -14802,7 +17196,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":708
+        "id":822
     },
     {
         "name":"Friend_online",
@@ -14823,7 +17217,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":709
+        "id":823
     },
     {
         "name":"Ticket_gatcha",
@@ -14844,7 +17238,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":710
+        "id":824
     },
     {
         "name":"Bad_brawler",
@@ -14865,7 +17259,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":711
+        "id":825
     },
     {
         "name":"Tut_speech",
@@ -14886,7 +17280,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":712
+        "id":826
     },
     {
         "name":"Marig_nohit",
@@ -14907,7 +17301,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":713
+        "id":827
     },
     {
         "name":"Marig_hit",
@@ -14928,7 +17322,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":714
+        "id":828
     },
     {
         "name":"Marig_fire",
@@ -14949,7 +17343,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":715
+        "id":829
     },
     {
         "name":"Marig_ulti",
@@ -14970,7 +17364,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":716
+        "id":830
     },
     {
         "name":"Hammer_atk",
@@ -14991,7 +17385,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":717
+        "id":831
     },
     {
         "name":"Hammer_hit",
@@ -15012,7 +17406,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":718
+        "id":832
     },
     {
         "name":"Hammer_u_atk",
@@ -15033,7 +17427,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":719
+        "id":833
     },
     {
         "name":"Hammer_u_hit",
@@ -15054,7 +17448,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":720
+        "id":834
     },
     {
         "name":"New_reward_home",
@@ -15075,7 +17469,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":721
+        "id":835
     },
     {
         "name":"Trophy_rank_up_home",
@@ -15096,7 +17490,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":722
+        "id":836
     },
     {
         "name":"Unlock_event_slot",
@@ -15117,7 +17511,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":723
+        "id":837
     },
     {
         "name":"Frank_vo",
@@ -15138,7 +17532,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":724
+        "id":838
     },
     {
         "name":null,
@@ -15159,7 +17553,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":725
+        "id":839
     },
     {
         "name":null,
@@ -15180,7 +17574,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":726
+        "id":840
     },
     {
         "name":null,
@@ -15201,7 +17595,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":727
+        "id":841
     },
     {
         "name":null,
@@ -15222,7 +17616,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":728
+        "id":842
     },
     {
         "name":null,
@@ -15243,7 +17637,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":729
+        "id":843
     },
     {
         "name":"Emit_coins",
@@ -15264,7 +17658,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":730
+        "id":844
     },
     {
         "name":"Emit_gems",
@@ -15285,7 +17679,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":731
+        "id":845
     },
     {
         "name":"ui_gem_gain",
@@ -15306,7 +17700,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":732
+        "id":846
     },
     {
         "name":"Emit_tickets",
@@ -15327,7 +17721,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":733
+        "id":847
     },
     {
         "name":"ui_ticket_gain",
@@ -15348,7 +17742,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":734
+        "id":848
     },
     {
         "name":"Emit_keys",
@@ -15369,7 +17763,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":735
+        "id":849
     },
     {
         "name":"ui_key_gain",
@@ -15390,7 +17784,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":736
+        "id":850
     },
     {
         "name":"Emit_star_keys",
@@ -15411,7 +17805,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":737
+        "id":851
     },
     {
         "name":"ui_star_key_gain",
@@ -15432,7 +17826,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":738
+        "id":852
     },
     {
         "name":"Emit_trophies",
@@ -15453,7 +17847,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":739
+        "id":853
     },
     {
         "name":"ui_trophy_gain",
@@ -15474,7 +17868,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":740
+        "id":854
     },
     {
         "name":"Gems_gatcha",
@@ -15495,7 +17889,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":741
+        "id":855
     },
     {
         "name":"Meteor_seq",
@@ -15516,7 +17910,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":742
+        "id":856
     },
     {
         "name":null,
@@ -15537,7 +17931,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":743
+        "id":857
     },
     {
         "name":null,
@@ -15558,7 +17952,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":744
+        "id":858
     },
     {
         "name":"Powerup_seq",
@@ -15579,7 +17973,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":745
+        "id":859
     },
     {
         "name":"Boss_seq",
@@ -15600,7 +17994,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":746
+        "id":860
     },
     {
         "name":"Emit_drops",
@@ -15621,7 +18015,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":747
+        "id":861
     },
     {
         "name":"Get_powerup",
@@ -15642,7 +18036,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":748
+        "id":862
     },
     {
         "name":"Join_game_room",
@@ -15663,7 +18057,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":749
+        "id":863
     },
     {
         "name":"Leave_game_room",
@@ -15684,7 +18078,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":750
+        "id":864
     },
     {
         "name":"raidboss_warning",
@@ -15705,7 +18099,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":751
+        "id":865
     },
     {
         "name":null,
@@ -15726,7 +18120,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":752
+        "id":866
     },
     {
         "name":null,
@@ -15747,7 +18141,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":753
+        "id":867
     },
     {
         "name":null,
@@ -15768,7 +18162,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":754
+        "id":868
     },
     {
         "name":"raidboss_attack",
@@ -15789,7 +18183,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":755
+        "id":869
     },
     {
         "name":"raidboss_rocket_attack",
@@ -15810,7 +18204,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":756
+        "id":870
     },
     {
         "name":"Shrooms",
@@ -15831,7 +18225,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":757
+        "id":871
     },
     {
         "name":"Char_respawn",
@@ -15852,7 +18246,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":758
+        "id":872
     },
     {
         "name":"Enemy_char_respawn",
@@ -15873,7 +18267,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":759
+        "id":873
     },
     {
         "name":"Respawn_count_3",
@@ -15894,7 +18288,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":760
+        "id":874
     },
     {
         "name":"Respawn_count_2",
@@ -15915,7 +18309,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":761
+        "id":875
     },
     {
         "name":"Respawn_count_1",
@@ -15936,7 +18330,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":762
+        "id":876
     },
     {
         "name":"Respawn_count_0",
@@ -15957,7 +18351,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":763
+        "id":877
     },
     {
         "name":"Leon_atk",
@@ -15978,7 +18372,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":764
+        "id":878
     },
     {
         "name":"Leon_ulti",
@@ -15999,7 +18393,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":765
+        "id":879
     },
     {
         "name":"Leon_ulti_end",
@@ -16020,7 +18414,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":766
+        "id":880
     },
     {
         "name":"Leon_reload",
@@ -16041,7 +18435,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":767
+        "id":881
     },
     {
         "name":"Dry_fire_leon",
@@ -16062,7 +18456,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":768
+        "id":882
     },
     {
         "name":"Wiz_barley_fireball",
@@ -16083,7 +18477,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":769
+        "id":883
     },
     {
         "name":"Wiz_barley_fireball_hit",
@@ -16104,7 +18498,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":770
+        "id":884
     },
     {
         "name":"Gene_atk",
@@ -16125,7 +18519,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":771
+        "id":885
     },
     {
         "name":"Gene_atk_dry",
@@ -16146,7 +18540,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":772
+        "id":886
     },
     {
         "name":"Gene_atk_reload",
@@ -16167,7 +18561,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":773
+        "id":887
     },
     {
         "name":"Gene_atk_split",
@@ -16188,7 +18582,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":774
+        "id":888
     },
     {
         "name":"Penny_turret_spawn",
@@ -16209,7 +18603,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":775
+        "id":889
     },
     {
         "name":"Gene_ulti",
@@ -16230,7 +18624,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":776
+        "id":890
     },
     {
         "name":"Gene_ulti_hit",
@@ -16251,7 +18645,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":777
+        "id":891
     },
     {
         "name":"Gene_atk_hit",
@@ -16272,7 +18666,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":778
+        "id":892
     },
     {
         "name":"Gene_atk_hit_2",
@@ -16293,7 +18687,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":779
+        "id":893
     },
     {
         "name":"Gene_vo",
@@ -16314,7 +18708,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":780
+        "id":894
     },
     {
         "name":null,
@@ -16335,7 +18729,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":781
+        "id":895
     },
     {
         "name":null,
@@ -16356,7 +18750,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":782
+        "id":896
     },
     {
         "name":null,
@@ -16377,7 +18771,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":783
+        "id":897
     },
     {
         "name":null,
@@ -16398,7 +18792,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":784
+        "id":898
     },
     {
         "name":null,
@@ -16419,7 +18813,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":785
+        "id":899
     },
     {
         "name":null,
@@ -16440,7 +18834,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":786
+        "id":900
     },
     {
         "name":null,
@@ -16461,7 +18855,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":787
+        "id":901
     },
     {
         "name":null,
@@ -16482,7 +18876,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":788
+        "id":902
     },
     {
         "name":null,
@@ -16503,7 +18897,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":789
+        "id":903
     },
     {
         "name":null,
@@ -16524,7 +18918,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":790
+        "id":904
     },
     {
         "name":null,
@@ -16545,7 +18939,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":791
+        "id":905
     },
     {
         "name":null,
@@ -16566,7 +18960,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":792
+        "id":906
     },
     {
         "name":null,
@@ -16587,7 +18981,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":793
+        "id":907
     },
     {
         "name":"Springboard_charge",
@@ -16608,7 +19002,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":794
+        "id":908
     },
     {
         "name":"Springboard_jump",
@@ -16629,7 +19023,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":795
+        "id":909
     },
     {
         "name":"Carl_atk",
@@ -16650,7 +19044,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":796
+        "id":910
     },
     {
         "name":"Carl_reload",
@@ -16671,7 +19065,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":797
+        "id":911
     },
     {
         "name":"Carl_no_ammo",
@@ -16692,7 +19086,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":798
+        "id":912
     },
     {
         "name":"Carl_ulti",
@@ -16713,7 +19107,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":799
+        "id":913
     },
     {
         "name":"Carl_atk_return",
@@ -16734,7 +19128,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":800
+        "id":914
     },
     {
         "name":"Carl_atk_hit_return",
@@ -16755,7 +19149,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":801
+        "id":915
     },
     {
         "name":"Train_warning",
@@ -16776,7 +19170,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":802
+        "id":916
     },
     {
         "name":"Nita_dog_summon",
@@ -16797,7 +19191,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":803
+        "id":917
     },
     {
         "name":"Rosa_ulti",
@@ -16818,7 +19212,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":804
+        "id":918
     },
     {
         "name":"Rosa_punch",
@@ -16839,7 +19233,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":805
+        "id":919
     },
     {
         "name":"Rosa_reload",
@@ -16860,7 +19254,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":806
+        "id":920
     },
     {
         "name":"bibi_atk",
@@ -16881,7 +19275,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":807
+        "id":921
     },
     {
         "name":"Bibi_reload",
@@ -16902,7 +19296,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":808
+        "id":922
     },
     {
         "name":"Bibi_bat_hit",
@@ -16923,7 +19317,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":809
+        "id":923
     },
     {
         "name":"bibi_bubble_hit",
@@ -16944,7 +19338,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":810
+        "id":924
     },
     {
         "name":"bibi_ulti",
@@ -16965,7 +19359,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":811
+        "id":925
     },
     {
         "name":"bibi_ulti_hit",
@@ -16986,7 +19380,7 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":812
+        "id":926
     },
     {
         "name":"bibi_bubble_pop",
@@ -17007,6 +19401,510 @@
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
         "padEmpyToEndMs":null,
-        "id":813
+        "id":927
+    },
+    {
+        "name":"Bull_berserk",
+        "fileNames":"sfx\/bull_berserk_01.ogg",
+        "minVolume":70,
+        "maxVolume":70,
+        "minPitch":100,
+        "maxPitch":100,
+        "priority":1,
+        "maximumByType":3,
+        "maxRepeatMs":null,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":928
+    },
+    {
+        "name":"Starpower_speed",
+        "fileNames":"sfx\/starpower_speed_01.ogg",
+        "minVolume":70,
+        "maxVolume":70,
+        "minPitch":100,
+        "maxPitch":100,
+        "priority":1,
+        "maximumByType":3,
+        "maxRepeatMs":null,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":929
+    },
+    {
+        "name":"Starpower_shield",
+        "fileNames":"sfx\/starpower_shield_01.ogg",
+        "minVolume":70,
+        "maxVolume":70,
+        "minPitch":100,
+        "maxPitch":100,
+        "priority":1,
+        "maximumByType":3,
+        "maxRepeatMs":null,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":930
+    },
+    {
+        "name":"Tick_vo_1",
+        "fileNames":"sfx\/tick_vo_01v2.ogg",
+        "minVolume":55,
+        "maxVolume":65,
+        "minPitch":95,
+        "maxPitch":105,
+        "priority":1,
+        "maximumByType":3,
+        "maxRepeatMs":15000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":931
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/tick_vo_02v2.ogg",
+        "minVolume":55,
+        "maxVolume":65,
+        "minPitch":95,
+        "maxPitch":105,
+        "priority":1,
+        "maximumByType":3,
+        "maxRepeatMs":15000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":932
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/tick_vo_03v2.ogg",
+        "minVolume":55,
+        "maxVolume":65,
+        "minPitch":95,
+        "maxPitch":105,
+        "priority":1,
+        "maximumByType":3,
+        "maxRepeatMs":15000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":933
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/tick_vo_04v2.ogg",
+        "minVolume":55,
+        "maxVolume":65,
+        "minPitch":95,
+        "maxPitch":105,
+        "priority":1,
+        "maximumByType":3,
+        "maxRepeatMs":15000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":934
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/tick_vo_05v2.ogg",
+        "minVolume":55,
+        "maxVolume":65,
+        "minPitch":95,
+        "maxPitch":105,
+        "priority":1,
+        "maximumByType":3,
+        "maxRepeatMs":15000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":935
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/tick_vo_06v2.ogg",
+        "minVolume":55,
+        "maxVolume":65,
+        "minPitch":95,
+        "maxPitch":105,
+        "priority":1,
+        "maximumByType":3,
+        "maxRepeatMs":15000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":936
+    },
+    {
+        "name":"Tick_vo_hurt",
+        "fileNames":"sfx\/tick_vo_05hurt.ogg",
+        "minVolume":55,
+        "maxVolume":65,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":3,
+        "maxRepeatMs":15000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":937
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/tick_vo_06hurt.ogg",
+        "minVolume":55,
+        "maxVolume":65,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":3,
+        "maxRepeatMs":15000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":938
+    },
+    {
+        "name":null,
+        "fileNames":"sfx\/tick_vo_07hurt.ogg",
+        "minVolume":55,
+        "maxVolume":65,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":3,
+        "maxRepeatMs":15000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":939
+    },
+    {
+        "name":"Tick_vo_die",
+        "fileNames":"sfx\/tick_vo_08die.ogg",
+        "minVolume":55,
+        "maxVolume":65,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":3,
+        "maxRepeatMs":15000,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":940
+    },
+    {
+        "name":"Star_power_equip",
+        "fileNames":"sfx\/star_power_equip_01.ogg",
+        "minVolume":70,
+        "maxVolume":70,
+        "minPitch":100,
+        "maxPitch":100,
+        "priority":1,
+        "maximumByType":3,
+        "maxRepeatMs":null,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":941
+    },
+    {
+        "name":"Get_star_points",
+        "fileNames":"sfx\/get_star_points_01.ogg",
+        "minVolume":60,
+        "maxVolume":60,
+        "minPitch":100,
+        "maxPitch":100,
+        "priority":1,
+        "maximumByType":3,
+        "maxRepeatMs":null,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":942
+    },
+    {
+        "name":"Get_star_points_season_end",
+        "fileNames":"sfx\/get_star_points_01.ogg",
+        "minVolume":40,
+        "maxVolume":40,
+        "minPitch":100,
+        "maxPitch":100,
+        "priority":1,
+        "maximumByType":6,
+        "maxRepeatMs":null,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":943
+    },
+    {
+        "name":"Tick_atk",
+        "fileNames":"sfx\/tick_atk_01.ogg",
+        "minVolume":40,
+        "maxVolume":50,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":5,
+        "maxRepeatMs":null,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":944
+    },
+    {
+        "name":"Tick_ulti",
+        "fileNames":"sfx\/tick_ulti_01.ogg",
+        "minVolume":60,
+        "maxVolume":70,
+        "minPitch":100,
+        "maxPitch":100,
+        "priority":1,
+        "maximumByType":3,
+        "maxRepeatMs":null,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":945
+    },
+    {
+        "name":"Tick_reload",
+        "fileNames":"sfx\/tick_reload_01.ogg",
+        "minVolume":40,
+        "maxVolume":50,
+        "minPitch":95,
+        "maxPitch":105,
+        "priority":1,
+        "maximumByType":3,
+        "maxRepeatMs":null,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":946
+    },
+    {
+        "name":"Tick_atk_split",
+        "fileNames":"sfx\/tick_atk_split_02.ogg",
+        "minVolume":55,
+        "maxVolume":60,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":3,
+        "maxRepeatMs":null,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":947
+    },
+    {
+        "name":"Mech_mike_ulti",
+        "fileNames":"sfx\/mech_mike_ulti_01.ogg",
+        "minVolume":60,
+        "maxVolume":70,
+        "minPitch":100,
+        "maxPitch":100,
+        "priority":1,
+        "maximumByType":3,
+        "maxRepeatMs":null,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":948
+    },
+    {
+        "name":"Mech_mike_atk",
+        "fileNames":"sfx\/mech_mike_atk_01.ogg",
+        "minVolume":50,
+        "maxVolume":60,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":4,
+        "maxRepeatMs":null,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":949
+    },
+    {
+        "name":"Mech_spike_atk",
+        "fileNames":"sfx\/mech_spike_atk_01.ogg",
+        "minVolume":60,
+        "maxVolume":65,
+        "minPitch":98,
+        "maxPitch":102,
+        "priority":1,
+        "maximumByType":4,
+        "maxRepeatMs":null,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":950
+    },
+    {
+        "name":"Mech_spike_ulti",
+        "fileNames":"sfx\/mech_spike_ulti_01.ogg",
+        "minVolume":70,
+        "maxVolume":80,
+        "minPitch":100,
+        "maxPitch":100,
+        "priority":1,
+        "maximumByType":3,
+        "maxRepeatMs":null,
+        "loop":null,
+        "playVariationsInSequence":null,
+        "playVariationsInSequenceManualReset":null,
+        "startDelayMinMs":null,
+        "startDelayMaxMs":null,
+        "playOnlyWhenInView":null,
+        "maxVolumeScaleLimit":null,
+        "noSoundScaleLimit":null,
+        "padEmpyToEndMs":null,
+        "id":951
     }
 ]

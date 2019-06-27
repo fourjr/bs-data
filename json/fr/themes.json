@@ -75,5 +75,16 @@
         "particleVariations":null,
         "themeMusic":"Retropolis_menu",
         "useInLevelSelection":true
+    },
+    {
+        "name":"Mecha",
+        "fileName":"sc\/background_mecha.sc",
+        "exportName":"bgr_mecha",
+        "particleFileName":null,
+        "particleExportName":null,
+        "particleStyle":null,
+        "particleVariations":null,
+        "themeMusic":"MechMenuMusic",
+        "useInLevelSelection":true
     }
 ]

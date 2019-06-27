@@ -25,6 +25,8 @@ args = parser.parse_args()
 if __name__ == '__main__':
     TID = {}
     for i in os.listdir('csv/localization'):
+        if i == 'texts_patch.csv':
+            continue
         with open(f'csv/localization/{i}', encoding='utf-8') as f:
             reader = csv.DictReader(f)
 

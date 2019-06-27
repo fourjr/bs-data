@@ -111,7 +111,7 @@
     },
     {
         "name":12,
-        "tID":"Os ataques regulares e os Supers contam com dois modos: TOQUE para TIRO R\u00c1PIDO e ARRASTE para MIRAR.",
+        "tID":"Tanto o ataque regular quanto o Super contam com dois modos: TOCAR para TIRO R\u00c1PIDO e ARRASTAR para MIRAR.",
         "minXPLevel":1,
         "maxXPLevel":40,
         "fileName":null,
