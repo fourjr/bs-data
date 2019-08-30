@@ -21,7 +21,7 @@
     },
     {
         "name":3,
-        "tID":"Voit vet\u00e4\u00e4 <ccc0033>punaista ohjainta<\/c> t\u00e4hd\u00e4t\u00e4ksesi laukauksesi.",
+        "tID":"<ccc0033>Punaista ohjainta<\/c> vet\u00e4m\u00e4ll\u00e4 voit t\u00e4hd\u00e4t\u00e4 laukauksesi.",
         "minXPLevel":1,
         "maxXPLevel":40,
         "fileName":null,
@@ -31,7 +31,7 @@
     },
     {
         "name":4,
-        "tID":"Voit vet\u00e4\u00e4 <cff9900>keltaista ohjainta<\/c> t\u00e4hd\u00e4t\u00e4ksesi supervoimasi.",
+        "tID":"<cff9900>Keltaista ohjainta<\/c> vet\u00e4m\u00e4ll\u00e4 voit t\u00e4hd\u00e4t\u00e4 supervoimasi.",
         "minXPLevel":1,
         "maxXPLevel":40,
         "fileName":null,
@@ -151,7 +151,7 @@
     },
     {
         "name":16,
-        "tID":"Kun olet piilossa pensaassa, vastustaja voi huomata sinut, jos tulee tarpeeksi l\u00e4helle.",
+        "tID":"Kun olet piilossa pensaassa, tarpeeksi l\u00e4helle tuleva vastustaja voi huomata sinut.",
         "minXPLevel":3,
         "maxXPLevel":60,
         "fileName":null,
@@ -311,7 +311,7 @@
     },
     {
         "name":32,
-        "tID":"Frank pys\u00e4htyy hy\u00f6kk\u00e4yst\u00e4\u00e4n ja superhy\u00f6kk\u00e4yst\u00e4\u00e4n varten, joten h\u00e4nen vastustajallaan on mahdollisuus p\u00e4\u00e4st\u00e4 pois kantomatkalta.",
+        "tID":"Frank pys\u00e4htyy hy\u00f6kk\u00e4yst\u00e4\u00e4n ja superiaan varten, joten h\u00e4nen vastustajillaan on mahdollisuus ehti\u00e4 pois alta.",
         "minXPLevel":20,
         "maxXPLevel":999,
         "fileName":null,

@@ -342,7 +342,7 @@
         "animationMovieClip2":null,
         "speechBubbleCharacterSWF":"sc\/ui.sc",
         "speechBubbleCharacterMovieClip":"tutorial_character_top",
-        "speechBubbleTIDs":"Hyvin tehty! <cff6633>Oranssi palkki<\/c> n\u00e4ytt\u00e4\u00e4 ammuksesi. Lataan niin nopeasti, kuin pystyn!",
+        "speechBubbleTIDs":"Hyvin menee! <cff6633>Oranssi palkki<\/c> n\u00e4ytt\u00e4\u00e4 ammuksesi. Lataan niin nopeasti, kuin pystyn!",
         "startSound":"Tutorial_circle",
         "spawnCharacter":null,
         "spawnLocationX":null,

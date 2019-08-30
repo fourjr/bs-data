@@ -42,225 +42,279 @@
         "id":36
     },
     {
+        "name":"JunkerStillFace",
+        "fileName":"characters.sc",
+        "exportName":"jessie_still_face",
+        "id":37
+    },
+    {
         "name":"JunkerFace",
         "fileName":"characters.sc",
         "exportName":"jessie_face",
-        "id":37
+        "id":38
     },
     {
         "name":"JunkerDreamyFace",
         "fileName":"characters.sc",
         "exportName":"jessie_dreamy_face",
-        "id":38
+        "id":39
     },
     {
         "name":"ColtFace",
         "fileName":"characters.sc",
         "exportName":"colt_face",
-        "id":39
+        "id":40
     },
     {
         "name":"BullFace",
         "fileName":"characters.sc",
         "exportName":"bull_face",
-        "id":40
+        "id":41
     },
     {
         "name":"PamFace",
         "fileName":"characters.sc",
         "exportName":"pam_face",
-        "id":41
+        "id":42
     },
     {
         "name":"CrowFace",
         "fileName":"characters.sc",
         "exportName":"crow_face",
-        "id":42
+        "id":43
     },
     {
         "name":"TaraFaceIdle",
         "fileName":"characters.sc",
         "exportName":"tara_idle",
-        "id":43
+        "id":44
     },
     {
         "name":"TaraFaceWin",
         "fileName":"characters.sc",
         "exportName":"tara_win",
-        "id":44
+        "id":45
     },
     {
         "name":"TaraFaceWinLoop",
         "fileName":"characters.sc",
         "exportName":"tara_winloop",
-        "id":45
+        "id":46
     },
     {
         "name":"TaraFaceLose",
         "fileName":"characters.sc",
         "exportName":"tara_lose",
-        "id":46
+        "id":47
     },
     {
         "name":"TaraFaceLoseloop",
         "fileName":"characters.sc",
         "exportName":"tara_loseloop",
-        "id":47
+        "id":48
     },
     {
         "name":"MortisFace",
         "fileName":"characters.sc",
         "exportName":"mortis_face",
-        "id":48
+        "id":49
     },
     {
         "name":"MortisWin",
         "fileName":"characters.sc",
         "exportName":"mortis_win",
-        "id":49
+        "id":50
     },
     {
         "name":"MortisWinloop",
         "fileName":"characters.sc",
         "exportName":"mortis_winloop",
-        "id":50
+        "id":51
     },
     {
         "name":"PennyFace",
         "fileName":"characters.sc",
         "exportName":"penny_face",
-        "id":51
+        "id":52
     },
     {
         "name":"LeonIdle",
         "fileName":"characters.sc",
         "exportName":"leon_idle",
-        "id":52
+        "id":53
     },
     {
         "name":"LeonWin",
         "fileName":"characters.sc",
         "exportName":"leon_win",
-        "id":53
+        "id":54
     },
     {
         "name":"LeonWinLoop",
         "fileName":"characters.sc",
         "exportName":"leon_winloop",
-        "id":54
+        "id":55
     },
     {
         "name":"LeonLose",
         "fileName":"characters.sc",
         "exportName":"leon_lose",
-        "id":55
+        "id":56
     },
     {
         "name":"LeonLoseLoop",
         "fileName":"characters.sc",
         "exportName":"leon_loseloop",
-        "id":56
+        "id":57
     },
     {
         "name":"MortisNightwitchWin",
         "fileName":"characters.sc",
         "exportName":"mortis_nightwitch_win",
-        "id":57
+        "id":58
     },
     {
         "name":"MortisNightwitchFace",
         "fileName":"characters.sc",
         "exportName":"mortis_nightwitch_face",
-        "id":58
+        "id":59
     },
     {
         "name":"MortisNightwitchWinloop",
         "fileName":"characters.sc",
         "exportName":"mortis_nightwitch_winloop",
-        "id":59
+        "id":60
     },
     {
         "name":"CarlIdle",
         "fileName":"characters.sc",
         "exportName":"carl_idle",
-        "id":60
+        "id":61
     },
     {
         "name":"CarlAngry",
         "fileName":"characters.sc",
         "exportName":"carl_angry",
-        "id":61
+        "id":62
     },
     {
         "name":"CarlAngryloop",
         "fileName":"characters.sc",
         "exportName":"carl_angry_loop",
-        "id":62
+        "id":63
     },
     {
         "name":"BarleyMsFace",
         "fileName":"characters.sc",
         "exportName":"barley_ms_face",
-        "id":63
+        "id":64
     },
     {
         "name":"BarleyMsLose",
         "fileName":"characters.sc",
         "exportName":"barley_ms_lose",
-        "id":64
+        "id":65
     },
     {
         "name":"BarleyMsLoseloop",
         "fileName":"characters.sc",
         "exportName":"barley_ms_loseloop",
-        "id":65
+        "id":66
     },
     {
         "name":"CarlHotrodIdle",
         "fileName":"characters.sc",
         "exportName":"hotrod_carl_idle",
-        "id":66
+        "id":67
     },
     {
         "name":"CarlHotrodAngry",
         "fileName":"characters.sc",
         "exportName":"hotrod_carl_angry",
-        "id":67
+        "id":68
     },
     {
         "name":"CarlHotrodAngryloop",
         "fileName":"characters.sc",
         "exportName":"hotrod_carl_angry_loop",
-        "id":68
+        "id":69
     },
     {
         "name":"Bibi_Idle",
         "fileName":"characters.sc",
         "exportName":"bibi_face",
-        "id":69
+        "id":70
     },
     {
         "name":"Bibi_Win",
         "fileName":"characters.sc",
         "exportName":"bibi_win",
-        "id":70
+        "id":71
     },
     {
         "name":"DynamikeRoboFace",
         "fileName":"characters.sc",
         "exportName":"mecha_mike_face",
-        "id":71
+        "id":72
     },
     {
         "name":"DynamikeRoboLose",
         "fileName":"characters.sc",
         "exportName":"mecha_mike_lose",
-        "id":72
+        "id":73
     },
     {
         "name":"DynamikeRoboLoseloop",
         "fileName":"characters.sc",
         "exportName":"mecha_mike_loseloop",
-        "id":73
+        "id":74
+    },
+    {
+        "name":"8bitFace",
+        "fileName":"characters.sc",
+        "exportName":"bit_angry",
+        "id":75
+    },
+    {
+        "name":"8bitLose",
+        "fileName":"characters.sc",
+        "exportName":"bit_continue",
+        "id":76
+    },
+    {
+        "name":"8bitLooseloop",
+        "fileName":"characters.sc",
+        "exportName":"bit_gameover",
+        "id":77
+    },
+    {
+        "name":"8bitClassicFace",
+        "fileName":"characters.sc",
+        "exportName":"bit_classic_angry",
+        "id":78
+    },
+    {
+        "name":"PiperIdleOpen",
+        "fileName":"characters.sc",
+        "exportName":"piper_idle_open",
+        "id":79
+    },
+    {
+        "name":"PiperIdleClosed",
+        "fileName":"characters.sc",
+        "exportName":"piper_idle_closed",
+        "id":80
+    },
+    {
+        "name":"PiperWin",
+        "fileName":"characters.sc",
+        "exportName":"piper_win",
+        "id":81
+    },
+    {
+        "name":"PiperWinLoop",
+        "fileName":"characters.sc",
+        "exportName":"piper_idle_closed",
+        "id":82
     }
 ]

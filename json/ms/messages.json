@@ -1,100 +1,86 @@
 [
     {
         "name":"message1",
-        "tID":"TID_PREMADE_MSG_1",
+        "tID":null,
         "fileName":null,
-        "exportName":null,
-        "rawTID":"PREMADE_MSG_1"
+        "exportName":null
     },
     {
         "name":"message2",
-        "tID":"TID_PREMADE_MSG_2",
+        "tID":null,
         "fileName":null,
-        "exportName":null,
-        "rawTID":"PREMADE_MSG_2"
+        "exportName":null
     },
     {
         "name":"message3",
-        "tID":"TID_PREMADE_MSG_3",
+        "tID":null,
         "fileName":null,
-        "exportName":null,
-        "rawTID":"PREMADE_MSG_3"
+        "exportName":null
     },
     {
         "name":"message4",
-        "tID":"TID_PREMADE_MSG_4",
+        "tID":null,
         "fileName":null,
-        "exportName":null,
-        "rawTID":"PREMADE_MSG_4"
+        "exportName":null
     },
     {
         "name":"message5",
-        "tID":"TID_PREMADE_MSG_5",
+        "tID":null,
         "fileName":null,
-        "exportName":null,
-        "rawTID":"PREMADE_MSG_5"
+        "exportName":null
     },
     {
         "name":"message6",
-        "tID":"TID_PREMADE_MSG_6",
+        "tID":null,
         "fileName":null,
-        "exportName":null,
-        "rawTID":"PREMADE_MSG_6"
+        "exportName":null
     },
     {
         "name":"message7",
-        "tID":"TID_PREMADE_MSG_7",
+        "tID":null,
         "fileName":null,
-        "exportName":null,
-        "rawTID":"PREMADE_MSG_7"
+        "exportName":null
     },
     {
         "name":"message8",
-        "tID":"TID_PREMADE_MSG_8",
+        "tID":null,
         "fileName":null,
-        "exportName":null,
-        "rawTID":"PREMADE_MSG_8"
+        "exportName":null
     },
     {
         "name":"message9",
-        "tID":"TID_PREMADE_MSG_9",
+        "tID":null,
         "fileName":null,
-        "exportName":null,
-        "rawTID":"PREMADE_MSG_9"
+        "exportName":null
     },
     {
         "name":"message10",
-        "tID":"TID_PREMADE_MSG_10",
+        "tID":null,
         "fileName":null,
-        "exportName":null,
-        "rawTID":"PREMADE_MSG_10"
+        "exportName":null
     },
     {
         "name":"message11",
-        "tID":"TID_PREMADE_MSG_11",
+        "tID":null,
         "fileName":null,
-        "exportName":null,
-        "rawTID":"PREMADE_MSG_11"
+        "exportName":null
     },
     {
         "name":"message12",
-        "tID":"TID_PREMADE_MSG_12",
+        "tID":null,
         "fileName":null,
-        "exportName":null,
-        "rawTID":"PREMADE_MSG_12"
+        "exportName":null
     },
     {
         "name":"message13",
-        "tID":"TID_PREMADE_MSG_13",
+        "tID":null,
         "fileName":null,
-        "exportName":null,
-        "rawTID":"PREMADE_MSG_13"
+        "exportName":null
     },
     {
         "name":"message14",
-        "tID":"TID_PREMADE_MSG_14",
+        "tID":null,
         "fileName":null,
-        "exportName":null,
-        "rawTID":"PREMADE_MSG_14"
+        "exportName":null
     }
 ]

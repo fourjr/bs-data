@@ -1,7 +1,7 @@
 [
     {
         "name":"Diamonds",
-        "tID":"TID_DIAMONDS",
+        "tID":"Juwelen",
         "iconSWF":"sc\/ui.sc",
         "collectEffect":null,
         "iconExportName":"genicon_gem",
@@ -33,7 +33,7 @@
     },
     {
         "name":"owcAny",
-        "tID":"TID_OFFER_WILDCARD_ANY",
+        "tID":null,
         "iconSWF":"sc\/ui.sc",
         "collectEffect":null,
         "iconExportName":"icon_owcAny",
@@ -44,12 +44,11 @@
         "textGreen":null,
         "textBlue":null,
         "cap":null,
-        "id":7,
-        "rawTID":"OFFER_WILDCARD_ANY"
+        "id":7
     },
     {
         "name":"owcRareOrBetter",
-        "tID":"TID_OFFER_WILDCARD_RARE_OR_BETTER",
+        "tID":null,
         "iconSWF":"sc\/ui.sc",
         "collectEffect":null,
         "iconExportName":"icon_owcRareOrBetter",
@@ -60,12 +59,11 @@
         "textGreen":null,
         "textBlue":null,
         "cap":null,
-        "id":8,
-        "rawTID":"OFFER_WILDCARD_RARE_OR_BETTER"
+        "id":8
     },
     {
         "name":"owcEpicOrBetter",
-        "tID":"TID_OFFER_WILDCARD_EPIC_OR_BETTER",
+        "tID":null,
         "iconSWF":"sc\/ui.sc",
         "collectEffect":null,
         "iconExportName":"icon_owcEpicOrBetter",
@@ -76,12 +74,11 @@
         "textGreen":null,
         "textBlue":null,
         "cap":null,
-        "id":9,
-        "rawTID":"OFFER_WILDCARD_EPIC_OR_BETTER"
+        "id":9
     },
     {
         "name":"Dust",
-        "tID":"TID_DUST",
+        "tID":null,
         "iconSWF":"sc\/ui.sc",
         "collectEffect":null,
         "iconExportName":"genicon_dust",
@@ -92,12 +89,11 @@
         "textGreen":null,
         "textBlue":null,
         "cap":null,
-        "id":10,
-        "rawTID":"DUST"
+        "id":10
     },
     {
         "name":"Upgradium",
-        "tID":"TID_UPGRADIUM",
+        "tID":null,
         "iconSWF":"sc\/ui.sc",
         "collectEffect":null,
         "iconExportName":"genicon_upgradium",
@@ -108,12 +104,11 @@
         "textGreen":null,
         "textBlue":null,
         "cap":null,
-        "id":11,
-        "rawTID":"UPGRADIUM"
+        "id":11
     },
     {
         "name":"Bolts",
-        "tID":"TID_BOLTS",
+        "tID":null,
         "iconSWF":"sc\/ui.sc",
         "collectEffect":null,
         "iconExportName":"genicon_upgradium",
@@ -124,8 +119,7 @@
         "textGreen":null,
         "textBlue":null,
         "cap":null,
-        "id":12,
-        "rawTID":"BOLTS"
+        "id":12
     },
     {
         "name":"HeroLvlUpMaterial",

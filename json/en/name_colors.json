@@ -2,6 +2,7 @@
     {
         "name":"default",
         "colorCode":"0xffffffff",
+        "gradient":null,
         "requiredExpLevel":null,
         "requiredTotalTrophies":null,
         "requiredSeasonPoints":null,
@@ -12,6 +13,7 @@
     {
         "name":1,
         "colorCode":"0xff4ddba2",
+        "gradient":null,
         "requiredExpLevel":null,
         "requiredTotalTrophies":null,
         "requiredSeasonPoints":null,
@@ -22,6 +24,7 @@
     {
         "name":2,
         "colorCode":"0xffffce89",
+        "gradient":null,
         "requiredExpLevel":null,
         "requiredTotalTrophies":null,
         "requiredSeasonPoints":null,
@@ -32,6 +35,7 @@
     {
         "name":3,
         "colorCode":"0xfff9c908",
+        "gradient":null,
         "requiredExpLevel":null,
         "requiredTotalTrophies":null,
         "requiredSeasonPoints":null,
@@ -42,6 +46,7 @@
     {
         "name":4,
         "colorCode":"0xffff9727",
+        "gradient":null,
         "requiredExpLevel":null,
         "requiredTotalTrophies":null,
         "requiredSeasonPoints":null,
@@ -52,6 +57,7 @@
     {
         "name":5,
         "colorCode":"0xfff9775d",
+        "gradient":null,
         "requiredExpLevel":null,
         "requiredTotalTrophies":null,
         "requiredSeasonPoints":null,
@@ -62,6 +68,7 @@
     {
         "name":6,
         "colorCode":"0xfff05637",
+        "gradient":null,
         "requiredExpLevel":null,
         "requiredTotalTrophies":null,
         "requiredSeasonPoints":null,
@@ -72,6 +79,7 @@
     {
         "name":7,
         "colorCode":"0xffff8afb",
+        "gradient":null,
         "requiredExpLevel":null,
         "requiredTotalTrophies":null,
         "requiredSeasonPoints":null,
@@ -82,6 +90,7 @@
     {
         "name":8,
         "colorCode":"0xffa2e3fe",
+        "gradient":null,
         "requiredExpLevel":null,
         "requiredTotalTrophies":null,
         "requiredSeasonPoints":null,
@@ -92,6 +101,7 @@
     {
         "name":9,
         "colorCode":"0xff1ba5f5",
+        "gradient":null,
         "requiredExpLevel":null,
         "requiredTotalTrophies":null,
         "requiredSeasonPoints":null,
@@ -102,6 +112,7 @@
     {
         "name":10,
         "colorCode":"0xffcb5aff",
+        "gradient":null,
         "requiredExpLevel":null,
         "requiredTotalTrophies":null,
         "requiredSeasonPoints":null,
@@ -112,6 +123,7 @@
     {
         "name":11,
         "colorCode":"0xffa8e132",
+        "gradient":null,
         "requiredExpLevel":null,
         "requiredTotalTrophies":null,
         "requiredSeasonPoints":null,

@@ -91,7 +91,7 @@
     },
     {
         "name":"boss7",
-        "tID":"TID_BOSS_7",
+        "tID":null,
         "playerCount":3,
         "requiredCampaignProgressToUnlock":54,
         "location":"Planet7",
@@ -101,7 +101,6 @@
         "map":"Pvp4",
         "boss":"Boss2",
         "bossLevel":20,
-        "id":28,
-        "rawTID":"BOSS_7"
+        "id":28
     }
 ]

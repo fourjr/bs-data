@@ -75,4 +75,5 @@
 "WhirlwindUlti","Ww","true",,"true",50,3000,,7,,,,400,600,,,,,,,,,,,,,"true",,,,,,,,,,"sc/ui.sc","button_sprint",,,,"carl_def_ulti_loop","carl_def_ulti_ground",,,
 "BaseballWeapon","Attack","true","true","true",50,700,,11,,800,3,1300,600,300,,1,,,200,2000,,,,,,,,,,,,,,,,"sc/ui.sc","rapid_fire_button","bibi_def_atk","bibi_swing",,,,,,
 "BaseballUlti","Attack","true","true","true",50,150,,120,,,,1000,100,,,,,"true",,,,,,,,,"BaseballUltiProjectile",,,,,,"skillicon_powercharge",,,"sc/ui.sc","rapid_fire_button","bibi_def_ulti",,,,,,,
-"Rifle","Attack","true","true","true",50,650,,30,,1800,3,320,100,18,3,1,,"true",,,,,,,,,"AutorifleProjectile",,,,,,,,,"sc/ui.sc","rapid_fire_button","gunslinger_attack",,,,,,,
+"ArcadeWeapon","Attack","true","true","true",50,650,,30,,1300,3,340,100,18,3,1,,"true",,,,,,,,,"ArcadeProjectile",,,,,,,,,"sc/ui.sc","rapid_fire_button","arcade_def_atk",,,,,,,
+"ArcadeUlti","Attack","true","true","true",50,250,,15,,,,,200,,,1,,"true",,,,1,1,,,,"ArcadeUltiProjectile","DamageBooster",,,,,"skillicon_build_bigger_turret",,,"sc/ui.sc","button_mine",,"arcade_def_ulti_atk",,,,,,

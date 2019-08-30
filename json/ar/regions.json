@@ -1829,7 +1829,7 @@
     },
     {
         "name":"CUSTOM1",
-        "tID":"TID_REGION_CUSTOM1",
+        "tID":"",
         "displayName":null,
         "isCountry":false,
         "id":275,
@@ -1837,7 +1837,7 @@
     },
     {
         "name":"CUSTOM2",
-        "tID":"TID_REGION_CUSTOM2",
+        "tID":"",
         "displayName":null,
         "isCountry":false,
         "id":276,
@@ -1845,7 +1845,7 @@
     },
     {
         "name":"CUSTOM3",
-        "tID":"TID_REGION_CUSTOM3",
+        "tID":"",
         "displayName":null,
         "isCountry":false,
         "id":277,
@@ -1853,7 +1853,7 @@
     },
     {
         "name":"CUSTOM4",
-        "tID":"TID_REGION_CUSTOM4",
+        "tID":"",
         "displayName":null,
         "isCountry":false,
         "id":278,
@@ -1861,7 +1861,7 @@
     },
     {
         "name":"CUSTOM5",
-        "tID":"TID_REGION_CUSTOM5",
+        "tID":"",
         "displayName":null,
         "isCountry":false,
         "id":279,

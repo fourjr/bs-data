@@ -1,7 +1,7 @@
 [
     {
         "name":"Campaign_tutorial_1",
-        "tID":"TID_CAMPAIGN_1",
+        "tID":null,
         "location":"Planet1",
         "allowedHeroes":"GenericSoldier",
         "reward":"Diamonds:3:",
@@ -18,12 +18,11 @@
         "numTowers":0,
         "towerLevel":1,
         "requiredStars":3,
-        "id":21,
-        "rawTID":"CAMPAIGN_1"
+        "id":21
     },
     {
         "name":"Campaign_tutorial_2",
-        "tID":"TID_CAMPAIGN_1",
+        "tID":null,
         "location":"Planet1",
         "allowedHeroes":"GenericSoldier",
         "reward":"Diamonds:3:",
@@ -40,12 +39,11 @@
         "numTowers":0,
         "towerLevel":1,
         "requiredStars":4,
-        "id":22,
-        "rawTID":"CAMPAIGN_1"
+        "id":22
     },
     {
         "name":"Campaign_tutorial_3",
-        "tID":"TID_CAMPAIGN_1",
+        "tID":null,
         "location":"Planet1",
         "allowedHeroes":"GenericSoldier",
         "reward":"Diamonds:3:",
@@ -62,12 +60,11 @@
         "numTowers":0,
         "towerLevel":1,
         "requiredStars":5,
-        "id":23,
-        "rawTID":"CAMPAIGN_1"
+        "id":23
     },
     {
         "name":"Campaign_1",
-        "tID":"TID_CAMPAIGN_1",
+        "tID":null,
         "location":"Planet1",
         "allowedHeroes":"GenericSoldier",
         "reward":"Diamonds:3:",
@@ -84,12 +81,11 @@
         "numTowers":2,
         "towerLevel":4,
         "requiredStars":10,
-        "id":24,
-        "rawTID":"CAMPAIGN_1"
+        "id":24
     },
     {
         "name":"Campaign_2",
-        "tID":"TID_CAMPAIGN_1",
+        "tID":null,
         "location":"Planet1",
         "allowedHeroes":"GenericSoldier",
         "reward":"Diamonds:3:",
@@ -106,12 +102,11 @@
         "numTowers":3,
         "towerLevel":3,
         "requiredStars":9,
-        "id":25,
-        "rawTID":"CAMPAIGN_1"
+        "id":25
     },
     {
         "name":"Campaign_3",
-        "tID":"TID_CAMPAIGN_1",
+        "tID":null,
         "location":"Planet1",
         "allowedHeroes":"GenericSoldier",
         "reward":"Diamonds:3:",
@@ -128,12 +123,11 @@
         "numTowers":0,
         "towerLevel":5,
         "requiredStars":7,
-        "id":26,
-        "rawTID":"CAMPAIGN_1"
+        "id":26
     },
     {
         "name":"Campaign_4",
-        "tID":"TID_CAMPAIGN_1",
+        "tID":null,
         "location":"Planet2",
         "allowedHeroes":"GenericSoldier",
         "reward":"Diamonds:3:",
@@ -150,12 +144,11 @@
         "numTowers":0,
         "towerLevel":1,
         "requiredStars":6,
-        "id":27,
-        "rawTID":"CAMPAIGN_1"
+        "id":27
     },
     {
         "name":"Campaign_4_1",
-        "tID":"TID_CAMPAIGN_1",
+        "tID":null,
         "location":"Planet2",
         "allowedHeroes":"GenericSoldier",
         "reward":"Diamonds:3:",
@@ -172,12 +165,11 @@
         "numTowers":2,
         "towerLevel":6,
         "requiredStars":12,
-        "id":28,
-        "rawTID":"CAMPAIGN_1"
+        "id":28
     },
     {
         "name":"Campaign_5",
-        "tID":"TID_CAMPAIGN_1",
+        "tID":null,
         "location":"Planet2",
         "allowedHeroes":"GenericSoldier",
         "reward":"Diamonds:3:",
@@ -194,12 +186,11 @@
         "numTowers":3,
         "towerLevel":6,
         "requiredStars":12,
-        "id":29,
-        "rawTID":"CAMPAIGN_1"
+        "id":29
     },
     {
         "name":"Campaign_6",
-        "tID":"TID_CAMPAIGN_1",
+        "tID":null,
         "location":"Planet2",
         "allowedHeroes":"GenericSoldier",
         "reward":"Diamonds:3:",
@@ -216,12 +207,11 @@
         "numTowers":0,
         "towerLevel":8,
         "requiredStars":10,
-        "id":30,
-        "rawTID":"CAMPAIGN_1"
+        "id":30
     },
     {
         "name":"Campaign_7",
-        "tID":"TID_CAMPAIGN_1",
+        "tID":null,
         "location":"Planet2",
         "allowedHeroes":"GenericSoldier",
         "reward":"Diamonds:3:",
@@ -238,12 +228,11 @@
         "numTowers":0,
         "towerLevel":3,
         "requiredStars":9,
-        "id":31,
-        "rawTID":"CAMPAIGN_1"
+        "id":31
     },
     {
         "name":"Campaign_8",
-        "tID":"TID_CAMPAIGN_1",
+        "tID":null,
         "location":"Planet2",
         "allowedHeroes":"GenericSoldier",
         "reward":"Diamonds:3:",
@@ -260,12 +249,11 @@
         "numTowers":2,
         "towerLevel":8,
         "requiredStars":14,
-        "id":32,
-        "rawTID":"CAMPAIGN_1"
+        "id":32
     },
     {
         "name":"Campaign_9",
-        "tID":"TID_CAMPAIGN_1",
+        "tID":null,
         "location":"Planet3",
         "allowedHeroes":"GenericSoldier",
         "reward":"Diamonds:3:",
@@ -282,12 +270,11 @@
         "numTowers":3,
         "towerLevel":8,
         "requiredStars":14,
-        "id":33,
-        "rawTID":"CAMPAIGN_1"
+        "id":33
     },
     {
         "name":"Campaign_10",
-        "tID":"TID_CAMPAIGN_1",
+        "tID":null,
         "location":"Planet3",
         "allowedHeroes":"GenericSoldier",
         "reward":"Diamonds:3:",
@@ -304,12 +291,11 @@
         "numTowers":0,
         "towerLevel":9,
         "requiredStars":11,
-        "id":34,
-        "rawTID":"CAMPAIGN_1"
+        "id":34
     },
     {
         "name":"Campaign_11",
-        "tID":"TID_CAMPAIGN_1",
+        "tID":null,
         "location":"Planet3",
         "allowedHeroes":"GenericSoldier",
         "reward":"Diamonds:3:",
@@ -326,12 +312,11 @@
         "numTowers":0,
         "towerLevel":4,
         "requiredStars":10,
-        "id":35,
-        "rawTID":"CAMPAIGN_1"
+        "id":35
     },
     {
         "name":"Campaign_12",
-        "tID":"TID_CAMPAIGN_1",
+        "tID":null,
         "location":"Planet3",
         "allowedHeroes":"GenericSoldier",
         "reward":"Diamonds:3:",
@@ -348,12 +333,11 @@
         "numTowers":2,
         "towerLevel":10,
         "requiredStars":16,
-        "id":36,
-        "rawTID":"CAMPAIGN_1"
+        "id":36
     },
     {
         "name":"Campaign_13",
-        "tID":"TID_CAMPAIGN_1",
+        "tID":null,
         "location":"Planet3",
         "allowedHeroes":"GenericSoldier",
         "reward":"Diamonds:3:",
@@ -370,12 +354,11 @@
         "numTowers":3,
         "towerLevel":9,
         "requiredStars":15,
-        "id":37,
-        "rawTID":"CAMPAIGN_1"
+        "id":37
     },
     {
         "name":"Campaign_14",
-        "tID":"TID_CAMPAIGN_1",
+        "tID":null,
         "location":"Planet3",
         "allowedHeroes":"GenericSoldier",
         "reward":"Diamonds:3:",
@@ -392,12 +375,11 @@
         "numTowers":0,
         "towerLevel":10,
         "requiredStars":12,
-        "id":38,
-        "rawTID":"CAMPAIGN_1"
+        "id":38
     },
     {
         "name":"Campaign_15",
-        "tID":"TID_CAMPAIGN_1",
+        "tID":null,
         "location":"Planet4",
         "allowedHeroes":"GenericSoldier",
         "reward":"Diamonds:3:",
@@ -414,12 +396,11 @@
         "numTowers":0,
         "towerLevel":6,
         "requiredStars":12,
-        "id":39,
-        "rawTID":"CAMPAIGN_1"
+        "id":39
     },
     {
         "name":"Campaign_16",
-        "tID":"TID_CAMPAIGN_1",
+        "tID":null,
         "location":"Planet4",
         "allowedHeroes":"GenericSoldier",
         "reward":"Diamonds:3:",
@@ -436,12 +417,11 @@
         "numTowers":2,
         "towerLevel":11,
         "requiredStars":17,
-        "id":40,
-        "rawTID":"CAMPAIGN_1"
+        "id":40
     },
     {
         "name":"Campaign_17",
-        "tID":"TID_CAMPAIGN_1",
+        "tID":null,
         "location":"Planet4",
         "allowedHeroes":"GenericSoldier",
         "reward":"Diamonds:3:",
@@ -458,12 +438,11 @@
         "numTowers":3,
         "towerLevel":10,
         "requiredStars":16,
-        "id":41,
-        "rawTID":"CAMPAIGN_1"
+        "id":41
     },
     {
         "name":"Campaign_18",
-        "tID":"TID_CAMPAIGN_1",
+        "tID":null,
         "location":"Planet4",
         "allowedHeroes":"GenericSoldier",
         "reward":"Diamonds:3:",
@@ -480,12 +459,11 @@
         "numTowers":0,
         "towerLevel":12,
         "requiredStars":14,
-        "id":42,
-        "rawTID":"CAMPAIGN_1"
+        "id":42
     },
     {
         "name":"Campaign_19",
-        "tID":"TID_CAMPAIGN_1",
+        "tID":null,
         "location":"Planet4",
         "allowedHeroes":"GenericSoldier",
         "reward":"Diamonds:3:",
@@ -502,12 +480,11 @@
         "numTowers":0,
         "towerLevel":6,
         "requiredStars":12,
-        "id":43,
-        "rawTID":"CAMPAIGN_1"
+        "id":43
     },
     {
         "name":"Campaign_20",
-        "tID":"TID_CAMPAIGN_1",
+        "tID":null,
         "location":"Planet4",
         "allowedHeroes":"GenericSoldier",
         "reward":"Diamonds:3:",
@@ -524,12 +501,11 @@
         "numTowers":2,
         "towerLevel":12,
         "requiredStars":18,
-        "id":44,
-        "rawTID":"CAMPAIGN_1"
+        "id":44
     },
     {
         "name":"Campaign_21",
-        "tID":"TID_CAMPAIGN_1",
+        "tID":null,
         "location":"Planet5",
         "allowedHeroes":"GenericSoldier",
         "reward":"Diamonds:3:",
@@ -546,12 +522,11 @@
         "numTowers":3,
         "towerLevel":11,
         "requiredStars":17,
-        "id":45,
-        "rawTID":"CAMPAIGN_1"
+        "id":45
     },
     {
         "name":"Campaign_22",
-        "tID":"TID_CAMPAIGN_1",
+        "tID":null,
         "location":"Planet5",
         "allowedHeroes":"GenericSoldier",
         "reward":"Diamonds:3:",
@@ -568,12 +543,11 @@
         "numTowers":0,
         "towerLevel":12,
         "requiredStars":14,
-        "id":46,
-        "rawTID":"CAMPAIGN_1"
+        "id":46
     },
     {
         "name":"Campaign_23",
-        "tID":"TID_CAMPAIGN_1",
+        "tID":null,
         "location":"Planet5",
         "allowedHeroes":"GenericSoldier",
         "reward":"Diamonds:3:",
@@ -590,12 +564,11 @@
         "numTowers":0,
         "towerLevel":8,
         "requiredStars":14,
-        "id":47,
-        "rawTID":"CAMPAIGN_1"
+        "id":47
     },
     {
         "name":"Campaign_24",
-        "tID":"TID_CAMPAIGN_1",
+        "tID":null,
         "location":"Planet5",
         "allowedHeroes":"GenericSoldier",
         "reward":"Diamonds:3:",
@@ -612,12 +585,11 @@
         "numTowers":2,
         "towerLevel":13,
         "requiredStars":19,
-        "id":48,
-        "rawTID":"CAMPAIGN_1"
+        "id":48
     },
     {
         "name":"Campaign_25",
-        "tID":"TID_CAMPAIGN_1",
+        "tID":null,
         "location":"Planet5",
         "allowedHeroes":"GenericSoldier",
         "reward":"Diamonds:3:",
@@ -634,12 +606,11 @@
         "numTowers":3,
         "towerLevel":12,
         "requiredStars":18,
-        "id":49,
-        "rawTID":"CAMPAIGN_1"
+        "id":49
     },
     {
         "name":"Campaign_26",
-        "tID":"TID_CAMPAIGN_1",
+        "tID":null,
         "location":"Planet5",
         "allowedHeroes":"GenericSoldier",
         "reward":"Diamonds:3:",
@@ -656,12 +627,11 @@
         "numTowers":0,
         "towerLevel":14,
         "requiredStars":16,
-        "id":50,
-        "rawTID":"CAMPAIGN_1"
+        "id":50
     },
     {
         "name":"Campaign_27",
-        "tID":"TID_CAMPAIGN_1",
+        "tID":null,
         "location":"Planet6",
         "allowedHeroes":"GenericSoldier",
         "reward":"Diamonds:3:",
@@ -678,12 +648,11 @@
         "numTowers":0,
         "towerLevel":8,
         "requiredStars":14,
-        "id":51,
-        "rawTID":"CAMPAIGN_1"
+        "id":51
     },
     {
         "name":"Campaign_28",
-        "tID":"TID_CAMPAIGN_1",
+        "tID":null,
         "location":"Planet6",
         "allowedHeroes":"GenericSoldier",
         "reward":"Diamonds:3:",
@@ -700,12 +669,11 @@
         "numTowers":2,
         "towerLevel":14,
         "requiredStars":20,
-        "id":52,
-        "rawTID":"CAMPAIGN_1"
+        "id":52
     },
     {
         "name":"Campaign_29",
-        "tID":"TID_CAMPAIGN_1",
+        "tID":null,
         "location":"Planet6",
         "allowedHeroes":"GenericSoldier",
         "reward":"Diamonds:3:",
@@ -722,12 +690,11 @@
         "numTowers":3,
         "towerLevel":13,
         "requiredStars":19,
-        "id":53,
-        "rawTID":"CAMPAIGN_1"
+        "id":53
     },
     {
         "name":"Campaign_30",
-        "tID":"TID_CAMPAIGN_1",
+        "tID":null,
         "location":"Planet6",
         "allowedHeroes":"GenericSoldier",
         "reward":"Diamonds:3:",
@@ -744,12 +711,11 @@
         "numTowers":0,
         "towerLevel":14,
         "requiredStars":16,
-        "id":54,
-        "rawTID":"CAMPAIGN_1"
+        "id":54
     },
     {
         "name":"Campaign_31",
-        "tID":"TID_CAMPAIGN_1",
+        "tID":null,
         "location":"Planet6",
         "allowedHeroes":"GenericSoldier",
         "reward":"Diamonds:3:",
@@ -766,12 +732,11 @@
         "numTowers":0,
         "towerLevel":9,
         "requiredStars":15,
-        "id":55,
-        "rawTID":"CAMPAIGN_1"
+        "id":55
     },
     {
         "name":"Campaign_32",
-        "tID":"TID_CAMPAIGN_1",
+        "tID":null,
         "location":"Planet6",
         "allowedHeroes":"GenericSoldier",
         "reward":"Diamonds:3:",
@@ -788,12 +753,11 @@
         "numTowers":2,
         "towerLevel":15,
         "requiredStars":21,
-        "id":56,
-        "rawTID":"CAMPAIGN_1"
+        "id":56
     },
     {
         "name":"Campaign_33",
-        "tID":"TID_CAMPAIGN_1",
+        "tID":null,
         "location":"Planet7",
         "allowedHeroes":"GenericSoldier",
         "reward":"Diamonds:3:",
@@ -810,12 +774,11 @@
         "numTowers":3,
         "towerLevel":14,
         "requiredStars":20,
-        "id":57,
-        "rawTID":"CAMPAIGN_1"
+        "id":57
     },
     {
         "name":"Campaign_34",
-        "tID":"TID_CAMPAIGN_1",
+        "tID":null,
         "location":"Planet7",
         "allowedHeroes":"GenericSoldier",
         "reward":"Diamonds:3:",
@@ -832,12 +795,11 @@
         "numTowers":0,
         "towerLevel":15,
         "requiredStars":17,
-        "id":58,
-        "rawTID":"CAMPAIGN_1"
+        "id":58
     },
     {
         "name":"Campaign_35",
-        "tID":"TID_CAMPAIGN_1",
+        "tID":null,
         "location":"Planet7",
         "allowedHeroes":"GenericSoldier",
         "reward":"Diamonds:3:",
@@ -854,12 +816,11 @@
         "numTowers":0,
         "towerLevel":10,
         "requiredStars":16,
-        "id":59,
-        "rawTID":"CAMPAIGN_1"
+        "id":59
     },
     {
         "name":"Campaign_36",
-        "tID":"TID_CAMPAIGN_1",
+        "tID":null,
         "location":"Planet7",
         "allowedHeroes":"GenericSoldier",
         "reward":"Diamonds:3:",
@@ -876,12 +837,11 @@
         "numTowers":2,
         "towerLevel":16,
         "requiredStars":22,
-        "id":60,
-        "rawTID":"CAMPAIGN_1"
+        "id":60
     },
     {
         "name":"Campaign_37",
-        "tID":"TID_CAMPAIGN_1",
+        "tID":null,
         "location":"Planet7",
         "allowedHeroes":"GenericSoldier",
         "reward":"Diamonds:3:",
@@ -898,12 +858,11 @@
         "numTowers":3,
         "towerLevel":14,
         "requiredStars":20,
-        "id":61,
-        "rawTID":"CAMPAIGN_1"
+        "id":61
     },
     {
         "name":"Campaign_38",
-        "tID":"TID_CAMPAIGN_1",
+        "tID":null,
         "location":"Planet7",
         "allowedHeroes":"GenericSoldier",
         "reward":"Diamonds:3:",
@@ -920,12 +879,11 @@
         "numTowers":0,
         "towerLevel":16,
         "requiredStars":18,
-        "id":62,
-        "rawTID":"CAMPAIGN_1"
+        "id":62
     },
     {
         "name":"Campaign_39",
-        "tID":"TID_CAMPAIGN_1",
+        "tID":null,
         "location":"Planet7",
         "allowedHeroes":"GenericSoldier",
         "reward":"Diamonds:3:",
@@ -942,12 +900,11 @@
         "numTowers":0,
         "towerLevel":11,
         "requiredStars":17,
-        "id":63,
-        "rawTID":"CAMPAIGN_1"
+        "id":63
     },
     {
         "name":"Campaign_40",
-        "tID":"TID_CAMPAIGN_1",
+        "tID":null,
         "location":"Planet7",
         "allowedHeroes":"GenericSoldier",
         "reward":"Diamonds:3:",
@@ -964,12 +921,11 @@
         "numTowers":4,
         "towerLevel":15,
         "requiredStars":21,
-        "id":64,
-        "rawTID":"CAMPAIGN_1"
+        "id":64
     },
     {
         "name":"Campaign_41",
-        "tID":"TID_CAMPAIGN_1",
+        "tID":null,
         "location":"Planet7",
         "allowedHeroes":"GenericSoldier",
         "reward":"Diamonds:3:",
@@ -986,12 +942,11 @@
         "numTowers":4,
         "towerLevel":15,
         "requiredStars":22,
-        "id":65,
-        "rawTID":"CAMPAIGN_1"
+        "id":65
     },
     {
         "name":"Campaign_42",
-        "tID":"TID_CAMPAIGN_1",
+        "tID":null,
         "location":"Planet7",
         "allowedHeroes":"GenericSoldier",
         "reward":"Diamonds:3:",
@@ -1008,12 +963,11 @@
         "numTowers":4,
         "towerLevel":15,
         "requiredStars":23,
-        "id":66,
-        "rawTID":"CAMPAIGN_1"
+        "id":66
     },
     {
         "name":"Campaign_43",
-        "tID":"TID_CAMPAIGN_1",
+        "tID":null,
         "location":"Planet7",
         "allowedHeroes":"GenericSoldier",
         "reward":"Diamonds:3:",
@@ -1030,12 +984,11 @@
         "numTowers":4,
         "towerLevel":15,
         "requiredStars":24,
-        "id":67,
-        "rawTID":"CAMPAIGN_1"
+        "id":67
     },
     {
         "name":"Campaign_44",
-        "tID":"TID_CAMPAIGN_1",
+        "tID":null,
         "location":"Planet7",
         "allowedHeroes":"GenericSoldier",
         "reward":"Diamonds:3:",
@@ -1052,12 +1005,11 @@
         "numTowers":4,
         "towerLevel":15,
         "requiredStars":25,
-        "id":68,
-        "rawTID":"CAMPAIGN_1"
+        "id":68
     },
     {
         "name":"Campaign_45",
-        "tID":"TID_CAMPAIGN_1",
+        "tID":null,
         "location":"Planet7",
         "allowedHeroes":"GenericSoldier",
         "reward":"Diamonds:3:",
@@ -1074,12 +1026,11 @@
         "numTowers":4,
         "towerLevel":15,
         "requiredStars":26,
-        "id":69,
-        "rawTID":"CAMPAIGN_1"
+        "id":69
     },
     {
         "name":"Campaign_46",
-        "tID":"TID_CAMPAIGN_1",
+        "tID":null,
         "location":"Planet7",
         "allowedHeroes":"GenericSoldier",
         "reward":"Diamonds:3:",
@@ -1096,12 +1047,11 @@
         "numTowers":4,
         "towerLevel":15,
         "requiredStars":27,
-        "id":70,
-        "rawTID":"CAMPAIGN_1"
+        "id":70
     },
     {
         "name":"Campaign_47",
-        "tID":"TID_CAMPAIGN_1",
+        "tID":null,
         "location":"Planet7",
         "allowedHeroes":"GenericSoldier",
         "reward":"Diamonds:3:",
@@ -1118,12 +1068,11 @@
         "numTowers":4,
         "towerLevel":15,
         "requiredStars":27,
-        "id":71,
-        "rawTID":"CAMPAIGN_1"
+        "id":71
     },
     {
         "name":"Campaign_48",
-        "tID":"TID_CAMPAIGN_1",
+        "tID":null,
         "location":"Planet7",
         "allowedHeroes":"GenericSoldier",
         "reward":"Diamonds:3:",
@@ -1140,12 +1089,11 @@
         "numTowers":4,
         "towerLevel":15,
         "requiredStars":27,
-        "id":72,
-        "rawTID":"CAMPAIGN_1"
+        "id":72
     },
     {
         "name":"Campaign_49",
-        "tID":"TID_CAMPAIGN_1",
+        "tID":null,
         "location":"Planet7",
         "allowedHeroes":"GenericSoldier",
         "reward":"Diamonds:3:",
@@ -1162,12 +1110,11 @@
         "numTowers":4,
         "towerLevel":15,
         "requiredStars":27,
-        "id":73,
-        "rawTID":"CAMPAIGN_1"
+        "id":73
     },
     {
         "name":"Campaign_50",
-        "tID":"TID_CAMPAIGN_1",
+        "tID":null,
         "location":"Planet7",
         "allowedHeroes":"GenericSoldier",
         "reward":"Diamonds:3:",
@@ -1184,7 +1131,6 @@
         "numTowers":4,
         "towerLevel":15,
         "requiredStars":27,
-        "id":74,
-        "rawTID":"CAMPAIGN_1"
+        "id":74
     }
 ]
