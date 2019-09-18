@@ -526,5 +526,17 @@
         "sortOrder":25,
         "id":71,
         "scId":28000043
+    },
+    {
+        "name":"hero29",
+        "requiredExpLevel":0,
+        "requiredTotalTrophies":0,
+        "requiredSeasonPoints":null,
+        "requiredHero":"Sandstorm",
+        "iconSWF":"sc\/ui.sc",
+        "iconExportName":"player_icon_sandy",
+        "sortOrder":44,
+        "id":72,
+        "scId":28000044
     }
 ]

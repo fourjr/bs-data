@@ -3850,13 +3850,13 @@
         "id":393
     },
     {
-        "name":"DEFAULT_FONT_COLORS",
+        "name":null,
         "numberValue":null,
         "booleanValue":null,
         "textValue":null,
-        "numberArray":null,
-        "stringArray":"0xff4d4848",
-        "altStringArray":null,
+        "numberArray":14,
+        "stringArray":"0xff3891ff",
+        "altStringArray":"Takedown",
         "id":394
     },
     {
@@ -3864,18 +3864,18 @@
         "numberValue":null,
         "booleanValue":null,
         "textValue":null,
-        "numberArray":null,
-        "stringArray":"0xffe1e1e1",
-        "altStringArray":null,
+        "numberArray":15,
+        "stringArray":"0xffe24e5a",
+        "altStringArray":"Lone Star",
         "id":395
     },
     {
-        "name":null,
+        "name":"DEFAULT_FONT_COLORS",
         "numberValue":null,
         "booleanValue":null,
         "textValue":null,
         "numberArray":null,
-        "stringArray":"0xfffd8067",
+        "stringArray":"0xff4d4848",
         "altStringArray":null,
         "id":396
     },
@@ -3885,7 +3885,7 @@
         "booleanValue":null,
         "textValue":null,
         "numberArray":null,
-        "stringArray":"0xff9aee2d",
+        "stringArray":"0xffe1e1e1",
         "altStringArray":null,
         "id":397
     },
@@ -3895,7 +3895,7 @@
         "booleanValue":null,
         "textValue":null,
         "numberArray":null,
-        "stringArray":"0xff2766cf",
+        "stringArray":"0xfffd8067",
         "altStringArray":null,
         "id":398
     },
@@ -3905,7 +3905,7 @@
         "booleanValue":null,
         "textValue":null,
         "numberArray":null,
-        "stringArray":"0xff61def1",
+        "stringArray":"0xff9aee2d",
         "altStringArray":null,
         "id":399
     },
@@ -3915,7 +3915,7 @@
         "booleanValue":null,
         "textValue":null,
         "numberArray":null,
-        "stringArray":"0xfff871f8",
+        "stringArray":"0xff2766cf",
         "altStringArray":null,
         "id":400
     },
@@ -3925,7 +3925,7 @@
         "booleanValue":null,
         "textValue":null,
         "numberArray":null,
-        "stringArray":"0xffffd156",
+        "stringArray":"0xff61def1",
         "altStringArray":null,
         "id":401
     },
@@ -3935,7 +3935,7 @@
         "booleanValue":null,
         "textValue":null,
         "numberArray":null,
-        "stringArray":"0xffd16eff",
+        "stringArray":"0xfff871f8",
         "altStringArray":null,
         "id":402
     },
@@ -3945,9 +3945,29 @@
         "booleanValue":null,
         "textValue":null,
         "numberArray":null,
-        "stringArray":"0xfffe6a71",
+        "stringArray":"0xffffd156",
         "altStringArray":null,
         "id":403
+    },
+    {
+        "name":null,
+        "numberValue":null,
+        "booleanValue":null,
+        "textValue":null,
+        "numberArray":null,
+        "stringArray":"0xffd16eff",
+        "altStringArray":null,
+        "id":404
+    },
+    {
+        "name":null,
+        "numberValue":null,
+        "booleanValue":null,
+        "textValue":null,
+        "numberArray":null,
+        "stringArray":"0xfffe6a71",
+        "altStringArray":null,
+        "id":405
     },
     {
         "name":"COLOR_YOU",
@@ -3957,6 +3977,6 @@
         "numberArray":null,
         "stringArray":null,
         "altStringArray":null,
-        "id":404
+        "id":406
     }
 ]

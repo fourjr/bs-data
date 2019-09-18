@@ -1,6 +1,7 @@
 [
     {
         "name":"Health",
+        "parentItemForSkin":null,
         "fileName":"sc\/effects.sc",
         "exportName":"soul",
         "exportNameEnemy":"soul",
@@ -20,6 +21,7 @@
     },
     {
         "name":"Speed",
+        "parentItemForSkin":null,
         "fileName":"sc\/effects.sc",
         "exportName":"red_pickup",
         "exportNameEnemy":"red_pickup",
@@ -39,6 +41,7 @@
     },
     {
         "name":"DamageAndSpeed",
+        "parentItemForSkin":null,
         "fileName":"sc\/effects.sc",
         "exportName":null,
         "exportNameEnemy":null,
@@ -58,6 +61,7 @@
     },
     {
         "name":"Point",
+        "parentItemForSkin":null,
         "fileName":"sc\/effects.sc",
         "exportName":"blob_pickup",
         "exportNameEnemy":"blob_pickup",
@@ -77,6 +81,7 @@
     },
     {
         "name":"Corpse",
+        "parentItemForSkin":null,
         "fileName":"sc\/effects.sc",
         "exportName":"soul",
         "exportNameEnemy":"soul",
@@ -96,6 +101,7 @@
     },
     {
         "name":"OrbSpawner",
+        "parentItemForSkin":null,
         "fileName":null,
         "exportName":null,
         "exportNameEnemy":null,
@@ -115,6 +121,7 @@
     },
     {
         "name":"Mine",
+        "parentItemForSkin":null,
         "fileName":"sc\/effects_brawler.sc",
         "exportName":"bo_def_mine_blue",
         "exportNameEnemy":"bo_def_mine_red",
@@ -134,6 +141,7 @@
     },
     {
         "name":"SupplyCrate",
+        "parentItemForSkin":null,
         "fileName":"sc\/effects.sc",
         "exportName":"red_pickup",
         "exportNameEnemy":"red_pickup",
@@ -153,6 +161,7 @@
     },
     {
         "name":"BoxOfMines",
+        "parentItemForSkin":null,
         "fileName":"sc\/effects.sc",
         "exportName":"red_pickup",
         "exportNameEnemy":"red_pickup",
@@ -172,6 +181,7 @@
     },
     {
         "name":"BattleRoyaleBuff",
+        "parentItemForSkin":null,
         "fileName":"sc\/effects.sc",
         "exportName":null,
         "exportNameEnemy":null,
@@ -191,6 +201,7 @@
     },
     {
         "name":"Money",
+        "parentItemForSkin":null,
         "fileName":"sc\/effects.sc",
         "exportName":"wanted_star_pickup",
         "exportNameEnemy":"wanted_star_pickup",
@@ -210,6 +221,7 @@
     },
     {
         "name":"BoxOfBombs",
+        "parentItemForSkin":null,
         "fileName":"sc\/effects.sc",
         "exportName":"red_pickup",
         "exportNameEnemy":"red_pickup",
@@ -229,6 +241,7 @@
     },
     {
         "name":"Bomb",
+        "parentItemForSkin":null,
         "fileName":"sc\/effects.sc",
         "exportName":"grenade_01",
         "exportNameEnemy":"grenade_01_red",
@@ -248,6 +261,7 @@
     },
     {
         "name":"BoxOfSelfDestructBombs",
+        "parentItemForSkin":null,
         "fileName":"sc\/effects.sc",
         "exportName":"red_pickup",
         "exportNameEnemy":"red_pickup",
@@ -267,6 +281,7 @@
     },
     {
         "name":"SelfDestructBomb",
+        "parentItemForSkin":null,
         "fileName":"sc\/effects.sc",
         "exportName":"cannon_projectile_blue",
         "exportNameEnemy":"cannon_projectile_red",
@@ -286,6 +301,7 @@
     },
     {
         "name":"Scrap",
+        "parentItemForSkin":null,
         "fileName":"sc\/effects.sc",
         "exportName":null,
         "exportNameEnemy":null,
@@ -305,6 +321,7 @@
     },
     {
         "name":"SpringBoardLeft",
+        "parentItemForSkin":null,
         "fileName":null,
         "exportName":null,
         "exportNameEnemy":null,
@@ -324,6 +341,7 @@
     },
     {
         "name":"SpringBoardRight",
+        "parentItemForSkin":null,
         "fileName":null,
         "exportName":null,
         "exportNameEnemy":null,
@@ -343,6 +361,7 @@
     },
     {
         "name":"SpringBoardUp",
+        "parentItemForSkin":null,
         "fileName":null,
         "exportName":null,
         "exportNameEnemy":null,
@@ -362,6 +381,7 @@
     },
     {
         "name":"SpringBoardDown",
+        "parentItemForSkin":null,
         "fileName":null,
         "exportName":null,
         "exportNameEnemy":null,
@@ -381,6 +401,7 @@
     },
     {
         "name":"SpringBoardUpLeft",
+        "parentItemForSkin":null,
         "fileName":null,
         "exportName":null,
         "exportNameEnemy":null,
@@ -400,6 +421,7 @@
     },
     {
         "name":"SpringBoardUpRight",
+        "parentItemForSkin":null,
         "fileName":null,
         "exportName":null,
         "exportNameEnemy":null,
@@ -419,6 +441,7 @@
     },
     {
         "name":"SpringBoardDownLeft",
+        "parentItemForSkin":null,
         "fileName":null,
         "exportName":null,
         "exportNameEnemy":null,
@@ -438,6 +461,7 @@
     },
     {
         "name":"SpringBoardDownRight",
+        "parentItemForSkin":null,
         "fileName":null,
         "exportName":null,
         "exportNameEnemy":null,
@@ -457,6 +481,7 @@
     },
     {
         "name":"TrainSpawner",
+        "parentItemForSkin":null,
         "fileName":null,
         "exportName":null,
         "exportNameEnemy":null,
@@ -476,6 +501,7 @@
     },
     {
         "name":"ClusterMine",
+        "parentItemForSkin":null,
         "fileName":"sc\/effects_brawler.sc",
         "exportName":"tick_def_atk2",
         "exportNameEnemy":"tick_def_atk2_red",
@@ -495,17 +521,18 @@
     },
     {
         "name":"MineMecha",
+        "parentItemForSkin":"Mine",
         "fileName":"sc\/effects_brawler.sc",
         "exportName":"bo_002_mine_blue",
         "exportNameEnemy":"bo_002_mine_red",
         "shadowExportName":null,
         "groundGlowExportName":null,
         "loopingEffect":null,
-        "value":800,
-        "value2":1150,
-        "triggerRangeSubTiles":3,
+        "value":null,
+        "value2":null,
+        "triggerRangeSubTiles":null,
         "triggerAreaEffect":"Bo_def_ulti2_area",
-        "canBePickedUp":true,
+        "canBePickedUp":null,
         "spawnEffect":"bo_def_ulti2_spawn",
         "sCW":null,
         "sCWEnemy":null,

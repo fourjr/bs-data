@@ -32,7 +32,7 @@
 "BowDudeUlti","Attack","true","true","true",50,250,,26,,,,1440,200,,,1,,"true",,,,1,1,,,,"BowDudeSpawnMineProjectile",,,,"BoxOfMines",,"skillicon_build_bigger_turret",,,"sc/ui.sc","button_mine","bo_def_ulti_attack",,,,,,,
 "SniperWeapon","Attack","true","true","true",500,150,,30,,2300,3,1640,100,,,1,,"true",,,,,,,,,"SniperProjectile",,,,,,,,,"sc/ui.sc","rapid_fire_button","sniper_attack",,,,,,,
 "SniperUlti","Charge",,"true","true",50,,,26,,,,900,,,,,,,0,1500,6,1,1,,,,,,,,"BoxOfBombs",,"skillicon_hammer_ulti",,,"sc/ui.sc","charge_button",,"sniper_ulti","sniper_landing_smoke_ring",,,,,
-"MinigunDudeWeapon","Attack","true","true","true",50,950,,27,,1300,3,240,100,60,3,1,,"true",,,,,,,,,"MinigunDudeProjectile",,,,,,,,,"sc/ui.sc","rapid_fire_button","pam_def_atk",,,,,,,
+"MinigunDudeWeapon","Attack","true","true","true",50,950,,27,,1300,3,260,100,60,3,1,,"true",,,,,,,,,"MinigunDudeProjectile",,,,,,,,,"sc/ui.sc","rapid_fire_button","pam_def_atk",,,,,,,
 "MinigunDudeUlti","Attack","true","true","true",50,250,,15,,,,,200,,,1,,"true",,,,1,1,,,,"MinigunDudeUltiProjectile","HealingStation",,,,,"skillicon_build_bigger_turret",,,"sc/ui.sc","button_mine","minigun_ulti",,,,,,,
 "BlackHoleWeapon","Attack","true","true","true",250,150,,24,,2000,3,380,100,50,,3,,"true",,,,,,,,,"BlackHoleProjectile",,,,,,,,,"sc/ui.sc","rapid_fire_button","blackhole_attack",,,,,,,
 "BlackHoleUlti","Attack","true","true","true",250,150,,20,,,,800,100,0,,1,,"true",,,,,,,,,"BlackHoleUltiProjectile",,,,,,"skillicon_bullet_storm",,,"sc/ui.sc","rapid_fire_button","blackhole_ulti",,,,,,,
@@ -60,7 +60,7 @@
 "NinjaUlti","Invisibility","true",,"true",50,7000,,,,,,,,,,,,,,,,,,"true",1200,,,,,,,,,,,"sc/ui.sc","button_sprint",,,,,,,,
 "RosaWeapon","Attack","true","true","true",50,800,,11,,1000,3,460,250,130,,3,"true","true",,,,,,,,,"RosaProjectile",,,,,,,,,"sc/ui.sc","rapid_fire_button","rosa_def_atk",,,,,,,
 "RosaUlti","Shield","true",,"true",50,3000,,,,,,,70,,,,,,,,,,,,,,,,,,,,,,,"sc/ui.sc","button_sprint",,"rosa_def_ulti",,"rosa_def_ulti_loop",,,,
-"SmokeScreenUlti","Attack","true","true","true",250,150,,22,,,,,100,0,,1,,"true",,,,,,,,,"SmokeScreenUltiProjectile",,,,,,"skillicon_dynamite_ulti",,,"sc/ui.sc","plasma_bomb_button","tnt_attack_ulti",,,,,,,
+"SandstormUlti","Attack","true","true","true",250,150,,22,,,,,100,0,,1,,"true",,,,,,,,,"SandstormUltiProjectile",,,,,,"skillicon_dynamite_ulti",,,"sc/ui.sc","plasma_bomb_button","tnt_attack_ulti",,,,,,,
 "RaidBossRapidFire","Attack",,"true",,50,1850,1250,60,,1250,3,1200,300,100,2,1,,"true",,,,,,,,,"RaidBossProjectileRed",,,,,,,,,"sc/ui.sc","rapid_fire_button","raid_boss_ranged_attack","raidboss_skill_warning_long",,,,,,"true"
 "RaidBossRapidFire2","Attack",,"true",,50,1850,1000,60,,1250,3,1400,200,150,2,1,,"true",,,,,,,,,"RaidBossProjectileRed",,,,,,,,,"sc/ui.sc","rapid_fire_button","raid_boss_ranged_attack","raidboss_skill_warning_medium",,,,,,"true"
 "RaidBossRapidFire3","Attack",,"true",,50,1850,750,60,,1250,3,1700,100,250,2,1,,"true",,,,,,,,,"RaidBossProjectileRedDestroyEnv",,,,,,,,,"sc/ui.sc","rapid_fire_button","raid_boss_ranged_attack","raidboss_skill_warning_short",,,,,,"true"
@@ -71,9 +71,14 @@
 "RaidBossCharge4","Charge",,"true",,50,,750,60,,,,2000,,,,,,,130,3000,1,,,,,"true",,,,,,,"skillicon_powercharge",,,"sc/ui.sc","charge_button",,"raidboss_skill_warning_short",,"bull_dude_ulti_loop",,"Rhinostep",,"true"
 "BossRapidFire2","Attack",,"true",,50,1850,1250,32,,1250,3,900,300,90,3,1,,"true",,,,,,,,,"BossProjectile",,,,,,,,,"sc/ui.sc","rapid_fire_button","raid_boss_ranged_attack","raidboss_skill_warning_long",,,,,,
 "BossRapidFire3","Attack",,"true",,50,1850,1250,32,,1250,3,900,300,90,3,1,,"true",,,,,,,,,"BossProjectile",,,,,,,,,"sc/ui.sc","rapid_fire_button","raid_boss_ranged_attack","raidboss_skill_warning_long",,,,,,
-"WhirlwindWeapon","Attack","true","true","true",50,150,,23,,0,1,580,100,0,,1,,"true",,,,,,,,,"WhirlwindProjectile",,,,,,,,,"sc/ui.sc","rapid_fire_button","whirlwind_attack",,,,,,,
+"WhirlwindWeapon","Attack","true","true","true",500,150,,23,,0,1,600,100,0,,1,,"true",,,,,,,,,"WhirlwindProjectile",,,,,,,,,"sc/ui.sc","rapid_fire_button","whirlwind_attack",,,,,,,
 "WhirlwindUlti","Ww","true",,"true",50,3000,,7,,,,400,600,,,,,,,,,,,,,"true",,,,,,,,,,"sc/ui.sc","button_sprint",,,,"carl_def_ulti_loop","carl_def_ulti_ground",,,
 "BaseballWeapon","Attack","true","true","true",50,700,,11,,800,3,1300,600,300,,1,,,200,2000,,,,,,,,,,,,,,,,"sc/ui.sc","rapid_fire_button","bibi_def_atk","bibi_swing",,,,,,
 "BaseballUlti","Attack","true","true","true",50,150,,120,,,,1000,100,,,,,"true",,,,,,,,,"BaseballUltiProjectile",,,,,,"skillicon_powercharge",,,"sc/ui.sc","rapid_fire_button","bibi_def_ulti",,,,,,,
-"ArcadeWeapon","Attack","true","true","true",50,650,,30,,1300,3,340,100,18,3,1,,"true",,,,,,,,,"ArcadeProjectile",,,,,,,,,"sc/ui.sc","rapid_fire_button","arcade_def_atk",,,,,,,
+"ArcadeWeapon","Attack","true","true","true",50,650,,30,,1500,3,340,100,18,3,1,,"true",,,,,,,,,"ArcadeProjectile",,,,,,,,,"sc/ui.sc","rapid_fire_button","arcade_def_atk",,,,,,,
 "ArcadeUlti","Attack","true","true","true",50,250,,15,,,,,200,,,1,,"true",,,,1,1,,,,"ArcadeUltiProjectile","DamageBooster",,,,,"skillicon_build_bigger_turret",,,"sc/ui.sc","button_mine",,"arcade_def_ulti_atk",,,,,,
+"SandstormWeapon","Attack","true","true","true",250,150,,18,,1800,3,900,100,80,4,3,,"true",,,,,,,,,"SandstormProjectile",,,,,,,,,"sc/ui.sc","rapid_fire_button","poco_def_atk_direct",,,,,,,
+"BeeSniperWeapon","Attack","true","true","true",500,150,,30,,2300,3,1640,100,,,1,,"true",,,,,,,,,"SniperProjectile",,,,,,,,,"sc/ui.sc","rapid_fire_button","sniper_attack",,,,,,,
+"BeeSniperUlti","Attack","true","true","true",50,250,,15,,,,,200,,,1,,"true",,,,1,1,,,,"BeeSniperUltiProjectile","BeePet",,,,,"skillicon_build_bigger_turret",,,"sc/ui.sc","turret_button","shaman_ulti",,,,,,,
+"BossRaceBossRapidFire","Attack",,"true",,50,1850,750,60,,1250,3,1400,200,150,2,1,,"true",,,,,,,,,"RaidBossProjectileRed",,,,,,,,,"sc/ui.sc","rapid_fire_button","raid_boss_ranged_attack","bossrace_skill_warning",,,,,,
+"BossRaceBossCharge","Charge",,"true",,50,,750,50,,,,1400,,,,,,,130,2500,1,,,,,"true",,,,,,,"skillicon_powercharge",,,"sc/ui.sc","charge_button",,"bossrace_skill_warning",,"bull_dude_ulti_loop",,"Rhinostep",,

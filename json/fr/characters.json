@@ -1746,7 +1746,7 @@
         "autoAttackProjectile":null,
         "autoAttackRange":12,
         "regeneratePerSecond":null,
-        "ultiChargeMul":112,
+        "ultiChargeMul":105,
         "ultiChargeUltiMul":130,
         "type":"Hero",
         "damagerPercentFromAliens":null,
@@ -2600,7 +2600,7 @@
         "ultimateSkill":"RosaUlti",
         "pet":null,
         "speed":770,
-        "hitpoints":5200,
+        "hitpoints":5400,
         "meleeAutoAttackSplashDamage":null,
         "autoAttackSpeedMs":null,
         "autoAttackDamage":null,
@@ -3024,6 +3024,222 @@
         "rawHeroBundleTID":"HERO_BUNDLE_ARCADE"
     },
     {
+        "name":"Sandstorm",
+        "lockedForChronos":true,
+        "disabled":null,
+        "itemName":"sandy",
+        "weaponSkill":"SandstormWeapon",
+        "ultimateSkill":"SandstormUlti",
+        "pet":null,
+        "speed":770,
+        "hitpoints":4000,
+        "meleeAutoAttackSplashDamage":null,
+        "autoAttackSpeedMs":null,
+        "autoAttackDamage":null,
+        "autoAttackBulletsPerShot":null,
+        "autoAttackMode":null,
+        "autoAttackProjectileSpread":null,
+        "autoAttackProjectile":null,
+        "autoAttackRange":12,
+        "regeneratePerSecond":null,
+        "ultiChargeMul":90,
+        "ultiChargeUltiMul":100,
+        "type":"Hero",
+        "damagerPercentFromAliens":null,
+        "defaultSkin":"SandstormDefault",
+        "fileName":null,
+        "blueExportName":null,
+        "redExportName":null,
+        "shadowExportName":null,
+        "areaEffect":null,
+        "deathAreaEffect":null,
+        "takeDamageEffect":"takedamage_gen",
+        "deathEffect":"death_rosa",
+        "moveEffect":"Gen_move_fx",
+        "reloadEffect":"reload_sandy",
+        "outOfAmmoEffect":"No_ammo_shotgungirl",
+        "dryFireEffect":"Dry_fire_sandy",
+        "spawnEffect":null,
+        "meleeHitEffect":null,
+        "autoAttackStartEffect":null,
+        "boneEffect1":null,
+        "boneEffect2":null,
+        "boneEffect3":null,
+        "boneEffect4":null,
+        "boneEffectUse":null,
+        "loopedEffect":null,
+        "loopedEffect2":null,
+        "killCelebrationSoundVO":"Sandy_kill_vo",
+        "inLeadCelebrationSoundVO":"Sandy_lead_vo",
+        "startSoundVO":"Sandy_start_vo",
+        "useUltiSoundVO":"Sandy_ulti_vo",
+        "takeDamageSoundVO":"Sandy_hurt_vo",
+        "deathSoundVO":"Sandy_die_vo",
+        "attackSoundVO":null,
+        "attackStartEffectOffset":50,
+        "twoWeaponAttackEffectOffset":null,
+        "shadowScaleX":80,
+        "shadowScaleY":80,
+        "shadowX":null,
+        "shadowY":null,
+        "shadowSkew":35,
+        "scale":116,
+        "heroScreenScale":190,
+        "fitToBoxScale":330,
+        "endScreenScale":80,
+        "gatchaScreenScale":150,
+        "homeScreenScale":270,
+        "heroScreenXOffset":null,
+        "heroScreenZOffset":null,
+        "collisionRadius":145,
+        "healthBar":"Medium",
+        "healthBarOffsetY":-55,
+        "flyingHeight":null,
+        "projectileStartZ":400,
+        "stopMovementAfterMS":null,
+        "waitMS":null,
+        "tID":"\u00c9MERI",
+        "heroBundleTID":"Ch\u00e2teau d'\u00c9meri",
+        "forceAttackAnimationToEnd":null,
+        "iconSWF":"sc\/ui.sc",
+        "iconExportName":"hero_icon_sandy",
+        "recoilAmount":0,
+        "homeworld":"human",
+        "footstepClip":"footstep",
+        "differentFootstepOffset":30,
+        "footstepIntervalMS":400,
+        "attackingWeaponScale":130,
+        "useThrowingLeftWeaponBoneScaling":null,
+        "useThrowingRightWeaponBoneScaling":null,
+        "showEnemyInMenus":null,
+        "commonSetUpgradeBonus":3,
+        "rareSetUpgradeBonus":2,
+        "superRareSetUpgradeBonus":1,
+        "canWalkOverWater":null,
+        "useColorMod":null,
+        "redAdd":null,
+        "greenAdd":null,
+        "blueAdd":null,
+        "redMul":null,
+        "greenMul":null,
+        "blueMul":null,
+        "chargeUltiAutomatically":null,
+        "videoLink":null,
+        "shouldEncodePetStatus":null,
+        "id":44,
+        "scId":1600028,
+        "rawTID":"SANDSTORM",
+        "rawHeroBundleTID":"HERO_BUNDLE_SANDSTORM"
+    },
+    {
+        "name":"BeeSniper",
+        "lockedForChronos":null,
+        "disabled":true,
+        "itemName":"beesniper",
+        "weaponSkill":"BeeSniperWeapon",
+        "ultimateSkill":"BeeSniperUlti",
+        "pet":null,
+        "speed":720,
+        "hitpoints":2400,
+        "meleeAutoAttackSplashDamage":null,
+        "autoAttackSpeedMs":null,
+        "autoAttackDamage":null,
+        "autoAttackBulletsPerShot":null,
+        "autoAttackMode":null,
+        "autoAttackProjectileSpread":null,
+        "autoAttackProjectile":null,
+        "autoAttackRange":12,
+        "regeneratePerSecond":null,
+        "ultiChargeMul":100,
+        "ultiChargeUltiMul":100,
+        "type":"Hero",
+        "damagerPercentFromAliens":null,
+        "defaultSkin":"BeeSniperDefault",
+        "fileName":null,
+        "blueExportName":null,
+        "redExportName":null,
+        "shadowExportName":null,
+        "areaEffect":null,
+        "deathAreaEffect":null,
+        "takeDamageEffect":"takedamage_gen",
+        "deathEffect":"death_sniper",
+        "moveEffect":"Gen_move_fx",
+        "reloadEffect":"reload_sniper",
+        "outOfAmmoEffect":"No_ammo_shotgungirl",
+        "dryFireEffect":"Minig_dryfire",
+        "spawnEffect":null,
+        "meleeHitEffect":null,
+        "autoAttackStartEffect":null,
+        "boneEffect1":null,
+        "boneEffect2":null,
+        "boneEffect3":null,
+        "boneEffect4":null,
+        "boneEffectUse":null,
+        "loopedEffect":null,
+        "loopedEffect2":null,
+        "killCelebrationSoundVO":null,
+        "inLeadCelebrationSoundVO":null,
+        "startSoundVO":null,
+        "useUltiSoundVO":null,
+        "takeDamageSoundVO":null,
+        "deathSoundVO":null,
+        "attackSoundVO":null,
+        "attackStartEffectOffset":45,
+        "twoWeaponAttackEffectOffset":null,
+        "shadowScaleX":80,
+        "shadowScaleY":80,
+        "shadowX":null,
+        "shadowY":null,
+        "shadowSkew":35,
+        "scale":116,
+        "heroScreenScale":200,
+        "fitToBoxScale":320,
+        "endScreenScale":90,
+        "gatchaScreenScale":190,
+        "homeScreenScale":260,
+        "heroScreenXOffset":null,
+        "heroScreenZOffset":null,
+        "collisionRadius":120,
+        "healthBar":"Medium",
+        "healthBarOffsetY":-46,
+        "flyingHeight":null,
+        "projectileStartZ":450,
+        "stopMovementAfterMS":null,
+        "waitMS":null,
+        "tID":"ABEILLE SNIPER",
+        "heroBundleTID":"TODO",
+        "forceAttackAnimationToEnd":null,
+        "iconSWF":"sc\/ui.sc",
+        "iconExportName":"hero_icon_piper",
+        "recoilAmount":100,
+        "homeworld":"human",
+        "footstepClip":"footstep",
+        "differentFootstepOffset":25,
+        "footstepIntervalMS":400,
+        "attackingWeaponScale":160,
+        "useThrowingLeftWeaponBoneScaling":null,
+        "useThrowingRightWeaponBoneScaling":null,
+        "showEnemyInMenus":null,
+        "commonSetUpgradeBonus":2,
+        "rareSetUpgradeBonus":3,
+        "superRareSetUpgradeBonus":1,
+        "canWalkOverWater":null,
+        "useColorMod":null,
+        "redAdd":null,
+        "greenAdd":null,
+        "blueAdd":null,
+        "redMul":null,
+        "greenMul":null,
+        "blueMul":null,
+        "chargeUltiAutomatically":null,
+        "videoLink":null,
+        "shouldEncodePetStatus":null,
+        "id":45,
+        "scId":1600029,
+        "rawTID":"BEE_SNIPER",
+        "rawHeroBundleTID":"HERO_BUNDLE_BEE_SNIPER"
+    },
+    {
         "name":"TutorialDummy",
         "lockedForChronos":null,
         "disabled":null,
@@ -3126,8 +3342,8 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "shouldEncodePetStatus":null,
-        "id":44,
-        "scId":1600028
+        "id":46,
+        "scId":1600030
     },
     {
         "name":"TutorialDummy2",
@@ -3232,8 +3448,8 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "shouldEncodePetStatus":null,
-        "id":45,
-        "scId":1600029
+        "id":47,
+        "scId":1600031
     },
     {
         "name":"MechanicTurret",
@@ -3338,8 +3554,8 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "shouldEncodePetStatus":null,
-        "id":46,
-        "scId":1600030
+        "id":48,
+        "scId":1600032
     },
     {
         "name":"HealingStation",
@@ -3444,8 +3660,8 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "shouldEncodePetStatus":null,
-        "id":47,
-        "scId":1600031
+        "id":49,
+        "scId":1600033
     },
     {
         "name":"Safe",
@@ -3550,8 +3766,8 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "shouldEncodePetStatus":null,
-        "id":48,
-        "scId":1600032
+        "id":50,
+        "scId":1600034
     },
     {
         "name":"ExplodingBarrel",
@@ -3656,8 +3872,8 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "shouldEncodePetStatus":null,
-        "id":49,
-        "scId":1600033
+        "id":51,
+        "scId":1600035
     },
     {
         "name":"PoisonBarrel",
@@ -3762,8 +3978,8 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "shouldEncodePetStatus":null,
-        "id":50,
-        "scId":1600034
+        "id":52,
+        "scId":1600036
     },
     {
         "name":"ShamanPet",
@@ -3868,8 +4084,8 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "shouldEncodePetStatus":null,
-        "id":51,
-        "scId":1600035
+        "id":53,
+        "scId":1600037
     },
     {
         "name":"BoneThrowerPet",
@@ -3974,8 +4190,8 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "shouldEncodePetStatus":null,
-        "id":52,
-        "scId":1600036
+        "id":54,
+        "scId":1600038
     },
     {
         "name":"LaserBall",
@@ -4080,8 +4296,8 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "shouldEncodePetStatus":null,
-        "id":53,
-        "scId":1600037
+        "id":55,
+        "scId":1600039
     },
     {
         "name":"LootBox",
@@ -4186,8 +4402,8 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "shouldEncodePetStatus":null,
-        "id":54,
-        "scId":1600038
+        "id":56,
+        "scId":1600040
     },
     {
         "name":"TutorialDummy3",
@@ -4292,8 +4508,8 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "shouldEncodePetStatus":null,
-        "id":55,
-        "scId":1600039
+        "id":57,
+        "scId":1600041
     },
     {
         "name":"ArtilleryDudeTurret",
@@ -4398,8 +4614,8 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "shouldEncodePetStatus":null,
-        "id":56,
-        "scId":1600040
+        "id":58,
+        "scId":1600042
     },
     {
         "name":"CoopMeleeEnemy1",
@@ -4504,8 +4720,8 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "shouldEncodePetStatus":null,
-        "id":57,
-        "scId":1600041
+        "id":59,
+        "scId":1600043
     },
     {
         "name":"CoopMeleeEnemy2",
@@ -4610,8 +4826,8 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "shouldEncodePetStatus":null,
-        "id":58,
-        "scId":1600042
+        "id":60,
+        "scId":1600044
     },
     {
         "name":"CoopMeleeEnemy3",
@@ -4716,8 +4932,8 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "shouldEncodePetStatus":null,
-        "id":59,
-        "scId":1600043
+        "id":61,
+        "scId":1600045
     },
     {
         "name":"CoopMeleeEnemy4",
@@ -4822,8 +5038,8 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "shouldEncodePetStatus":null,
-        "id":60,
-        "scId":1600044
+        "id":62,
+        "scId":1600046
     },
     {
         "name":"CoopFastMeleeEnemy1",
@@ -4928,8 +5144,8 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "shouldEncodePetStatus":null,
-        "id":61,
-        "scId":1600045
+        "id":63,
+        "scId":1600047
     },
     {
         "name":"CoopFastMeleeEnemy2",
@@ -5034,8 +5250,8 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "shouldEncodePetStatus":null,
-        "id":62,
-        "scId":1600046
+        "id":64,
+        "scId":1600048
     },
     {
         "name":"CoopFastMeleeEnemy3",
@@ -5140,8 +5356,8 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "shouldEncodePetStatus":null,
-        "id":63,
-        "scId":1600047
+        "id":65,
+        "scId":1600049
     },
     {
         "name":"CoopFastMeleeEnemy4",
@@ -5246,8 +5462,8 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "shouldEncodePetStatus":null,
-        "id":64,
-        "scId":1600048
+        "id":66,
+        "scId":1600050
     },
     {
         "name":"CoopRangedEnemy1",
@@ -5352,8 +5568,8 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "shouldEncodePetStatus":null,
-        "id":65,
-        "scId":1600049
+        "id":67,
+        "scId":1600051
     },
     {
         "name":"CoopRangedEnemy2",
@@ -5458,8 +5674,8 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "shouldEncodePetStatus":null,
-        "id":66,
-        "scId":1600050
+        "id":68,
+        "scId":1600052
     },
     {
         "name":"CoopRangedEnemy3",
@@ -5564,8 +5780,8 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "shouldEncodePetStatus":null,
-        "id":67,
-        "scId":1600051
+        "id":69,
+        "scId":1600053
     },
     {
         "name":"CoopRangedEnemy4",
@@ -5670,8 +5886,8 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "shouldEncodePetStatus":null,
-        "id":68,
-        "scId":1600052
+        "id":70,
+        "scId":1600054
     },
     {
         "name":"TntPet",
@@ -5776,8 +5992,8 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "shouldEncodePetStatus":null,
-        "id":69,
-        "scId":1600053
+        "id":71,
+        "scId":1600055
     },
     {
         "name":"BlackHolePet",
@@ -5882,8 +6098,8 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "shouldEncodePetStatus":null,
-        "id":70,
-        "scId":1600054
+        "id":72,
+        "scId":1600056
     },
     {
         "name":"CoopBoss1",
@@ -5988,8 +6204,8 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "shouldEncodePetStatus":null,
-        "id":71,
-        "scId":1600055
+        "id":73,
+        "scId":1600057
     },
     {
         "name":"CoopBoss2",
@@ -6094,8 +6310,8 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "shouldEncodePetStatus":null,
-        "id":72,
-        "scId":1600056
+        "id":74,
+        "scId":1600058
     },
     {
         "name":"CoopBoss3",
@@ -6200,8 +6416,8 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "shouldEncodePetStatus":null,
-        "id":73,
-        "scId":1600057
+        "id":75,
+        "scId":1600059
     },
     {
         "name":"TutorialExplodingBarrel",
@@ -6306,8 +6522,8 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "shouldEncodePetStatus":null,
-        "id":74,
-        "scId":1600058
+        "id":76,
+        "scId":1600060
     },
     {
         "name":"EventModifierBoss",
@@ -6412,8 +6628,8 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "shouldEncodePetStatus":null,
-        "id":75,
-        "scId":1600059
+        "id":77,
+        "scId":1600061
     },
     {
         "name":"RaidBoss",
@@ -6518,8 +6734,8 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "shouldEncodePetStatus":null,
-        "id":76,
-        "scId":1600060
+        "id":78,
+        "scId":1600062
     },
     {
         "name":"RaidBossMeleeEnemy1",
@@ -6624,8 +6840,8 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "shouldEncodePetStatus":null,
-        "id":77,
-        "scId":1600061
+        "id":79,
+        "scId":1600063
     },
     {
         "name":"RaidBossMeleeEnemy2",
@@ -6730,8 +6946,8 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "shouldEncodePetStatus":null,
-        "id":78,
-        "scId":1600062
+        "id":80,
+        "scId":1600064
     },
     {
         "name":"RaidBossMeleeEnemy3",
@@ -6836,8 +7052,8 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "shouldEncodePetStatus":null,
-        "id":79,
-        "scId":1600063
+        "id":81,
+        "scId":1600065
     },
     {
         "name":"RaidBossMeleeEnemy4",
@@ -6942,8 +7158,8 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "shouldEncodePetStatus":null,
-        "id":80,
-        "scId":1600064
+        "id":82,
+        "scId":1600066
     },
     {
         "name":"RaidBossFastMeleeEnemy1",
@@ -7048,8 +7264,8 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "shouldEncodePetStatus":null,
-        "id":81,
-        "scId":1600065
+        "id":83,
+        "scId":1600067
     },
     {
         "name":"RaidBossFastMeleeEnemy2",
@@ -7154,8 +7370,8 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "shouldEncodePetStatus":null,
-        "id":82,
-        "scId":1600066
+        "id":84,
+        "scId":1600068
     },
     {
         "name":"RaidBossFastMeleeEnemy3",
@@ -7260,8 +7476,8 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "shouldEncodePetStatus":null,
-        "id":83,
-        "scId":1600067
+        "id":85,
+        "scId":1600069
     },
     {
         "name":"RaidBossFastMeleeEnemy4",
@@ -7366,8 +7582,8 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "shouldEncodePetStatus":null,
-        "id":84,
-        "scId":1600068
+        "id":86,
+        "scId":1600070
     },
     {
         "name":"RaidBossRangedEnemy1",
@@ -7472,8 +7688,8 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "shouldEncodePetStatus":null,
-        "id":85,
-        "scId":1600069
+        "id":87,
+        "scId":1600071
     },
     {
         "name":"RaidBossRangedEnemy2",
@@ -7578,8 +7794,8 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "shouldEncodePetStatus":null,
-        "id":86,
-        "scId":1600070
+        "id":88,
+        "scId":1600072
     },
     {
         "name":"RaidBossRangedEnemy3",
@@ -7684,8 +7900,8 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "shouldEncodePetStatus":null,
-        "id":87,
-        "scId":1600071
+        "id":89,
+        "scId":1600073
     },
     {
         "name":"RaidBossRangedEnemy4",
@@ -7790,8 +8006,8 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "shouldEncodePetStatus":null,
-        "id":88,
-        "scId":1600072
+        "id":90,
+        "scId":1600074
     },
     {
         "name":"RoboWarsBase",
@@ -7896,8 +8112,8 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "shouldEncodePetStatus":null,
-        "id":89,
-        "scId":1600073
+        "id":91,
+        "scId":1600075
     },
     {
         "name":"RoboWarsBox",
@@ -8002,8 +8218,8 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "shouldEncodePetStatus":null,
-        "id":90,
-        "scId":1600074
+        "id":92,
+        "scId":1600076
     },
     {
         "name":"RoboWarsRobo",
@@ -8108,8 +8324,8 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "shouldEncodePetStatus":null,
-        "id":91,
-        "scId":1600075
+        "id":93,
+        "scId":1600077
     },
     {
         "name":"TrainingDummySmall",
@@ -8214,8 +8430,8 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "shouldEncodePetStatus":null,
-        "id":92,
-        "scId":1600076
+        "id":94,
+        "scId":1600078
     },
     {
         "name":"TrainingDummyMedium",
@@ -8320,8 +8536,8 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "shouldEncodePetStatus":null,
-        "id":93,
-        "scId":1600077
+        "id":95,
+        "scId":1600079
     },
     {
         "name":"TrainingDummyBig",
@@ -8426,8 +8642,8 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "shouldEncodePetStatus":null,
-        "id":94,
-        "scId":1600078
+        "id":96,
+        "scId":1600080
     },
     {
         "name":"TrainingDummyShooting",
@@ -8532,8 +8748,8 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "shouldEncodePetStatus":null,
-        "id":95,
-        "scId":1600079
+        "id":97,
+        "scId":1600081
     },
     {
         "name":"Train0",
@@ -8638,8 +8854,8 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "shouldEncodePetStatus":null,
-        "id":96,
-        "scId":1600080
+        "id":98,
+        "scId":1600082
     },
     {
         "name":"Train1",
@@ -8744,8 +8960,8 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "shouldEncodePetStatus":null,
-        "id":97,
-        "scId":1600081
+        "id":99,
+        "scId":1600083
     },
     {
         "name":"Train2",
@@ -8850,8 +9066,8 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "shouldEncodePetStatus":null,
-        "id":98,
-        "scId":1600082
+        "id":100,
+        "scId":1600084
     },
     {
         "name":"Train3",
@@ -8956,8 +9172,8 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "shouldEncodePetStatus":null,
-        "id":99,
-        "scId":1600083
+        "id":101,
+        "scId":1600085
     },
     {
         "name":"Train4",
@@ -9062,8 +9278,8 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "shouldEncodePetStatus":null,
-        "id":100,
-        "scId":1600084
+        "id":102,
+        "scId":1600086
     },
     {
         "name":"ClusterBombPet",
@@ -9168,8 +9384,8 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "shouldEncodePetStatus":null,
-        "id":101,
-        "scId":1600085
+        "id":103,
+        "scId":1600087
     },
     {
         "name":"BlackHolePet2",
@@ -9274,8 +9490,8 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "shouldEncodePetStatus":null,
-        "id":102,
-        "scId":1600086
+        "id":104,
+        "scId":1600088
     },
     {
         "name":"MechanicTurretWalking",
@@ -9380,8 +9596,8 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "shouldEncodePetStatus":null,
-        "id":103,
-        "scId":1600087
+        "id":105,
+        "scId":1600089
     },
     {
         "name":"DamageBooster",
@@ -9486,7 +9702,219 @@
         "chargeUltiAutomatically":null,
         "videoLink":null,
         "shouldEncodePetStatus":null,
-        "id":104,
-        "scId":1600088
+        "id":106,
+        "scId":1600090
+    },
+    {
+        "name":"BeePet",
+        "lockedForChronos":null,
+        "disabled":null,
+        "itemName":null,
+        "weaponSkill":null,
+        "ultimateSkill":null,
+        "pet":null,
+        "speed":770,
+        "hitpoints":2800,
+        "meleeAutoAttackSplashDamage":null,
+        "autoAttackSpeedMs":600,
+        "autoAttackDamage":500,
+        "autoAttackBulletsPerShot":null,
+        "autoAttackMode":null,
+        "autoAttackProjectileSpread":20,
+        "autoAttackProjectile":"BeeProjectile",
+        "autoAttackRange":30,
+        "regeneratePerSecond":null,
+        "ultiChargeMul":null,
+        "ultiChargeUltiMul":null,
+        "type":"Minion_FollowOwner",
+        "damagerPercentFromAliens":null,
+        "defaultSkin":"TurretDefault",
+        "fileName":null,
+        "blueExportName":null,
+        "redExportName":null,
+        "shadowExportName":null,
+        "areaEffect":null,
+        "deathAreaEffect":null,
+        "takeDamageEffect":"nuts_bolts_metal_small",
+        "deathEffect":"nuts_bolts_metal_explosion",
+        "moveEffect":null,
+        "reloadEffect":null,
+        "outOfAmmoEffect":null,
+        "dryFireEffect":null,
+        "spawnEffect":"SpawnTurret",
+        "meleeHitEffect":null,
+        "autoAttackStartEffect":"jessie_def_turret_atk",
+        "boneEffect1":null,
+        "boneEffect2":null,
+        "boneEffect3":null,
+        "boneEffect4":null,
+        "boneEffectUse":null,
+        "loopedEffect":null,
+        "loopedEffect2":null,
+        "killCelebrationSoundVO":null,
+        "inLeadCelebrationSoundVO":null,
+        "startSoundVO":null,
+        "useUltiSoundVO":null,
+        "takeDamageSoundVO":null,
+        "deathSoundVO":null,
+        "attackSoundVO":null,
+        "attackStartEffectOffset":35,
+        "twoWeaponAttackEffectOffset":null,
+        "shadowScaleX":75,
+        "shadowScaleY":75,
+        "shadowX":null,
+        "shadowY":null,
+        "shadowSkew":25,
+        "scale":116,
+        "heroScreenScale":220,
+        "fitToBoxScale":297,
+        "endScreenScale":null,
+        "gatchaScreenScale":null,
+        "homeScreenScale":null,
+        "heroScreenXOffset":1000,
+        "heroScreenZOffset":-400,
+        "collisionRadius":120,
+        "healthBar":"Medium",
+        "healthBarOffsetY":-32,
+        "flyingHeight":null,
+        "projectileStartZ":220,
+        "stopMovementAfterMS":null,
+        "waitMS":null,
+        "tID":null,
+        "heroBundleTID":null,
+        "forceAttackAnimationToEnd":null,
+        "iconSWF":null,
+        "iconExportName":null,
+        "recoilAmount":null,
+        "homeworld":null,
+        "footstepClip":"footstep",
+        "differentFootstepOffset":25,
+        "footstepIntervalMS":400,
+        "attackingWeaponScale":160,
+        "useThrowingLeftWeaponBoneScaling":null,
+        "useThrowingRightWeaponBoneScaling":null,
+        "showEnemyInMenus":null,
+        "commonSetUpgradeBonus":null,
+        "rareSetUpgradeBonus":null,
+        "superRareSetUpgradeBonus":null,
+        "canWalkOverWater":null,
+        "useColorMod":null,
+        "redAdd":null,
+        "greenAdd":null,
+        "blueAdd":null,
+        "redMul":null,
+        "greenMul":null,
+        "blueMul":null,
+        "chargeUltiAutomatically":null,
+        "videoLink":null,
+        "shouldEncodePetStatus":null,
+        "id":107,
+        "scId":1600091
+    },
+    {
+        "name":"BossRaceBoss",
+        "lockedForChronos":null,
+        "disabled":null,
+        "itemName":null,
+        "weaponSkill":"BossRaceBossRapidFire",
+        "ultimateSkill":"BossRaceBossCharge",
+        "pet":null,
+        "speed":500,
+        "hitpoints":260000,
+        "meleeAutoAttackSplashDamage":null,
+        "autoAttackSpeedMs":400,
+        "autoAttackDamage":800,
+        "autoAttackBulletsPerShot":null,
+        "autoAttackMode":null,
+        "autoAttackProjectileSpread":null,
+        "autoAttackProjectile":null,
+        "autoAttackRange":9,
+        "regeneratePerSecond":null,
+        "ultiChargeMul":null,
+        "ultiChargeUltiMul":null,
+        "type":"Npc_Boss",
+        "damagerPercentFromAliens":null,
+        "defaultSkin":"BossRaceBossDefault",
+        "fileName":null,
+        "blueExportName":null,
+        "redExportName":null,
+        "shadowExportName":null,
+        "areaEffect":null,
+        "deathAreaEffect":null,
+        "takeDamageEffect":"nuts_bolts_metal_small",
+        "deathEffect":"boss_explosion",
+        "moveEffect":"Gen_move_fx",
+        "reloadEffect":null,
+        "outOfAmmoEffect":null,
+        "dryFireEffect":null,
+        "spawnEffect":"robo_spawn",
+        "meleeHitEffect":null,
+        "autoAttackStartEffect":"coop_melee_attack",
+        "boneEffect1":null,
+        "boneEffect2":null,
+        "boneEffect3":null,
+        "boneEffect4":null,
+        "boneEffectUse":null,
+        "loopedEffect":null,
+        "loopedEffect2":null,
+        "killCelebrationSoundVO":null,
+        "inLeadCelebrationSoundVO":null,
+        "startSoundVO":null,
+        "useUltiSoundVO":null,
+        "takeDamageSoundVO":null,
+        "deathSoundVO":null,
+        "attackSoundVO":null,
+        "attackStartEffectOffset":30,
+        "twoWeaponAttackEffectOffset":150,
+        "shadowScaleX":85,
+        "shadowScaleY":80,
+        "shadowX":null,
+        "shadowY":null,
+        "shadowSkew":25,
+        "scale":300,
+        "heroScreenScale":200,
+        "fitToBoxScale":270,
+        "endScreenScale":null,
+        "gatchaScreenScale":null,
+        "homeScreenScale":null,
+        "heroScreenXOffset":null,
+        "heroScreenZOffset":null,
+        "collisionRadius":280,
+        "healthBar":"Medium",
+        "healthBarOffsetY":-130,
+        "flyingHeight":null,
+        "projectileStartZ":500,
+        "stopMovementAfterMS":null,
+        "waitMS":null,
+        "tID":null,
+        "heroBundleTID":null,
+        "forceAttackAnimationToEnd":null,
+        "iconSWF":null,
+        "iconExportName":null,
+        "recoilAmount":null,
+        "homeworld":null,
+        "footstepClip":"footstep",
+        "differentFootstepOffset":60,
+        "footstepIntervalMS":400,
+        "attackingWeaponScale":160,
+        "useThrowingLeftWeaponBoneScaling":null,
+        "useThrowingRightWeaponBoneScaling":null,
+        "showEnemyInMenus":null,
+        "commonSetUpgradeBonus":null,
+        "rareSetUpgradeBonus":null,
+        "superRareSetUpgradeBonus":null,
+        "canWalkOverWater":null,
+        "useColorMod":null,
+        "redAdd":null,
+        "greenAdd":null,
+        "blueAdd":null,
+        "redMul":null,
+        "greenMul":null,
+        "blueMul":null,
+        "chargeUltiAutomatically":null,
+        "videoLink":null,
+        "shouldEncodePetStatus":null,
+        "id":108,
+        "scId":1600092
     }
 ]

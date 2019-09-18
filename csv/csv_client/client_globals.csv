@@ -385,6 +385,8 @@
 ,,,,9,"0xff91e136","Duo SD"
 ,,,,10,"0xffff6847","Raid Boss"
 ,,,,11,"0xffff6847","Robo Wars"
+,,,,14,"0xff3891ff","Takedown"
+,,,,15,"0xffe24e5a","Lone Star"
 "DEFAULT_FONT_COLORS",,,,,"0xff4d4848",
 ,,,,,"0xffe1e1e1",
 ,,,,,"0xfffd8067",

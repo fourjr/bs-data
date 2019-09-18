@@ -316,5 +316,41 @@
         "fileName":"characters.sc",
         "exportName":"piper_idle_closed",
         "id":82
+    },
+    {
+        "name":"PrimoElreyIdle",
+        "fileName":"characters.sc",
+        "exportName":"primo_elrey_idle",
+        "id":83
+    },
+    {
+        "name":"SandyIdle",
+        "fileName":"characters.sc",
+        "exportName":"sandy_idle",
+        "id":84
+    },
+    {
+        "name":"SandyWin",
+        "fileName":"characters.sc",
+        "exportName":"sandy_win",
+        "id":85
+    },
+    {
+        "name":"SandyWinloop",
+        "fileName":"characters.sc",
+        "exportName":"sandy_winloop",
+        "id":86
+    },
+    {
+        "name":"SandyWalk",
+        "fileName":"characters.sc",
+        "exportName":"sandy_walk",
+        "id":87
+    },
+    {
+        "name":"SandyProfile",
+        "fileName":"characters.sc",
+        "exportName":"sandy_profile",
+        "id":88
     }
 ]
