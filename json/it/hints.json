@@ -438,5 +438,15 @@
         "exportName":null,
         "character":null,
         "rawTID":"HINT_43"
+    },
+    {
+        "name":45,
+        "tID":"Quando giochi a SETE DI POTERE, ti verranno abbinati degli avversari in base ai punti che possiedi nella stagione attuale.",
+        "minXPLevel":20,
+        "maxXPLevel":999,
+        "fileName":null,
+        "exportName":null,
+        "character":null,
+        "rawTID":"HINT_44"
     }
 ]

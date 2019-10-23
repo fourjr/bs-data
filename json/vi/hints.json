@@ -438,5 +438,15 @@
         "exportName":null,
         "character":null,
         "rawTID":"HINT_43"
+    },
+    {
+        "name":45,
+        "tID":"Khi ch\u01a1i SO T\u00c0I S\u1ee8C M\u1ea0NH, vi\u1ec7c gh\u00e9p tr\u1eadn s\u1ebd ph\u1ee5 thu\u1ed9c v\u00e0o s\u1ed1 \u0110i\u1ec3m b\u1ea1n \u0111ang c\u00f3 trong m\u00f9a gi\u1ea3i SO T\u00c0I S\u1ee8C M\u1ea0NH.",
+        "minXPLevel":20,
+        "maxXPLevel":999,
+        "fileName":null,
+        "exportName":null,
+        "character":null,
+        "rawTID":"HINT_44"
     }
 ]

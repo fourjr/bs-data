@@ -438,5 +438,15 @@
         "exportName":null,
         "character":null,
         "rawTID":"HINT_43"
+    },
+    {
+        "name":45,
+        "tID":"Ao jogar SEDE DE PODER, o sistema de combina\u00e7\u00e3o de batalhas \u00e9 baseado na pontua\u00e7\u00e3o atual dos jogadores na temporada.",
+        "minXPLevel":20,
+        "maxXPLevel":999,
+        "fileName":null,
+        "exportName":null,
+        "character":null,
+        "rawTID":"HINT_44"
     }
 ]

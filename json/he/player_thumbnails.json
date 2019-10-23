@@ -115,7 +115,7 @@
         "requiredHero":"Luchador",
         "iconSWF":"sc\/ui.sc",
         "iconExportName":"player_icon_primo",
-        "sortOrder":26,
+        "sortOrder":27,
         "id":37,
         "scId":28000009
     },
@@ -139,7 +139,7 @@
         "requiredHero":"TrickshotDude",
         "iconSWF":"sc\/ui.sc",
         "iconExportName":"player_icon_rick",
-        "sortOrder":30,
+        "sortOrder":31,
         "id":39,
         "scId":28000011
     },
@@ -151,7 +151,7 @@
         "requiredHero":"Barkeep",
         "iconSWF":"sc\/ui.sc",
         "iconExportName":"player_icon_barley",
-        "sortOrder":27,
+        "sortOrder":28,
         "id":40,
         "scId":28000012
     },
@@ -163,7 +163,7 @@
         "requiredHero":"DeadMariachi",
         "iconSWF":"sc\/ui.sc",
         "iconExportName":"player_icon_poco",
-        "sortOrder":28,
+        "sortOrder":29,
         "id":41,
         "scId":28000013
     },
@@ -175,7 +175,7 @@
         "requiredHero":"Undertaker",
         "iconSWF":"sc\/ui.sc",
         "iconExportName":"player_icon_mortis",
-        "sortOrder":38,
+        "sortOrder":39,
         "id":42,
         "scId":28000014
     },
@@ -199,7 +199,7 @@
         "requiredHero":"Cactus",
         "iconSWF":"sc\/ui.sc",
         "iconExportName":"player_icon_spike",
-        "sortOrder":41,
+        "sortOrder":42,
         "id":44,
         "scId":28000016
     },
@@ -211,7 +211,7 @@
         "requiredHero":"Crow",
         "iconSWF":"sc\/ui.sc",
         "iconExportName":"player_icon_crow",
-        "sortOrder":42,
+        "sortOrder":43,
         "id":45,
         "scId":28000017
     },
@@ -223,7 +223,7 @@
         "requiredHero":"Sniper",
         "iconSWF":"sc\/ui.sc",
         "iconExportName":"player_icon_piper",
-        "sortOrder":34,
+        "sortOrder":35,
         "id":46,
         "scId":28000018
     },
@@ -343,7 +343,7 @@
         "requiredHero":"MinigunDude",
         "iconSWF":"sc\/ui.sc",
         "iconExportName":"player_icon_mj",
-        "sortOrder":35,
+        "sortOrder":36,
         "id":56,
         "scId":28000028
     },
@@ -355,7 +355,7 @@
         "requiredHero":"BlackHole",
         "iconSWF":"sc\/ui.sc",
         "iconExportName":"player_icon_taro",
-        "sortOrder":39,
+        "sortOrder":40,
         "id":57,
         "scId":28000029
     },
@@ -415,7 +415,7 @@
         "requiredHero":"BarrelBot",
         "iconSWF":"sc\/ui.sc",
         "iconExportName":"player_icon_barrelbot",
-        "sortOrder":31,
+        "sortOrder":32,
         "id":62,
         "scId":28000034
     },
@@ -427,7 +427,7 @@
         "requiredHero":"ArtilleryDude",
         "iconSWF":"sc\/ui.sc",
         "iconExportName":"player_icon_penny",
-        "sortOrder":32,
+        "sortOrder":33,
         "id":63,
         "scId":28000035
     },
@@ -439,7 +439,7 @@
         "requiredHero":"HammerDude",
         "iconSWF":"sc\/ui.sc",
         "iconExportName":"player_icon_frank",
-        "sortOrder":36,
+        "sortOrder":37,
         "id":64,
         "scId":28000036
     },
@@ -451,7 +451,7 @@
         "requiredHero":"Ninja",
         "iconSWF":"sc\/ui.sc",
         "iconExportName":"player_icon_leon",
-        "sortOrder":43,
+        "sortOrder":44,
         "id":65,
         "scId":28000037
     },
@@ -463,7 +463,7 @@
         "requiredHero":"HookDude",
         "iconSWF":"sc\/ui.sc",
         "iconExportName":"player_icon_gene",
-        "sortOrder":40,
+        "sortOrder":41,
         "id":66,
         "scId":28000038
     },
@@ -475,7 +475,7 @@
         "requiredHero":"Whirlwind",
         "iconSWF":"sc\/ui.sc",
         "iconExportName":"player_icon_carl",
-        "sortOrder":33,
+        "sortOrder":34,
         "id":67,
         "scId":28000039
     },
@@ -487,7 +487,7 @@
         "requiredHero":"Rosa",
         "iconSWF":"sc\/ui.sc",
         "iconExportName":"player_icon_rosa",
-        "sortOrder":29,
+        "sortOrder":30,
         "id":68,
         "scId":28000040
     },
@@ -499,7 +499,7 @@
         "requiredHero":"Baseball",
         "iconSWF":"sc\/ui.sc",
         "iconExportName":"player_icon_bibi",
-        "sortOrder":37,
+        "sortOrder":38,
         "id":69,
         "scId":28000041
     },
@@ -535,8 +535,20 @@
         "requiredHero":"Sandstorm",
         "iconSWF":"sc\/ui.sc",
         "iconExportName":"player_icon_sandy",
-        "sortOrder":44,
+        "sortOrder":45,
         "id":72,
         "scId":28000044
+    },
+    {
+        "name":"hero30",
+        "requiredExpLevel":0,
+        "requiredTotalTrophies":0,
+        "requiredSeasonPoints":null,
+        "requiredHero":"Mummy",
+        "iconSWF":"sc\/ui.sc",
+        "iconExportName":"player_icon_emz",
+        "sortOrder":26,
+        "id":73,
+        "scId":28000045
     }
 ]

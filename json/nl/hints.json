@@ -438,5 +438,15 @@
         "exportName":null,
         "character":null,
         "rawTID":"HINT_43"
+    },
+    {
+        "name":45,
+        "tID":"Bij KRACHTSPEL word je gekoppeld aan andere spelers op basis van je huidige punten in het KRACHTSPEL-seizoen.",
+        "minXPLevel":20,
+        "maxXPLevel":999,
+        "fileName":null,
+        "exportName":null,
+        "character":null,
+        "rawTID":"HINT_44"
     }
 ]

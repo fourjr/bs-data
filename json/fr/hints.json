@@ -438,5 +438,15 @@
         "exportName":null,
         "character":null,
         "rawTID":"HINT_43"
+    },
+    {
+        "name":45,
+        "tID":"Lorsque vous participez au Marathon star, la recherche d'adversaire se base sur votre nombre de points de la saison Marathon star.",
+        "minXPLevel":20,
+        "maxXPLevel":999,
+        "fileName":null,
+        "exportName":null,
+        "character":null,
+        "rawTID":"HINT_44"
     }
 ]

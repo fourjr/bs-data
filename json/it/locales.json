@@ -22,9 +22,14 @@
         "laserboxStagingUrl":"https:\/\/staging.inbox.brawlstars.com\/",
         "laserboxCommunityUrl":"https:\/\/inbox.brawlstars.com\/community\/",
         "laserboxCommunityStagingUrl":"https:\/\/staging.inbox.brawlstars.com\/community\/",
+        "faqUrl_ios":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=ios&l=en",
+        "faqUrl_android":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=android&l=en",
+        "contactUsUrl_ios":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=ios&contact=1&l=en",
+        "contactUsUrl_android":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=android&contact=1&l=en",
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
+        "separateThousandsWithSpaces":null,
         "id":1
     },
     {
@@ -50,9 +55,14 @@
         "laserboxStagingUrl":"https:\/\/testbrawlstars.scinbox.qq.com\/",
         "laserboxCommunityUrl":"https:\/\/inbox.brawlstars.com\/community\/",
         "laserboxCommunityStagingUrl":"https:\/\/staging.inbox.brawlstars.com\/community\/",
+        "faqUrl_ios":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=ios&l=zh",
+        "faqUrl_android":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=android&l=zh",
+        "contactUsUrl_ios":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=ios&contact=1&l=zh",
+        "contactUsUrl_android":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=android&contact=1&l=zh",
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
+        "separateThousandsWithSpaces":null,
         "id":2
     },
     {
@@ -78,9 +88,14 @@
         "laserboxStagingUrl":"https:\/\/staging.inbox.brawlstars.com\/ar\/",
         "laserboxCommunityUrl":"https:\/\/inbox.brawlstars.com\/community\/",
         "laserboxCommunityStagingUrl":"https:\/\/staging.inbox.brawlstars.com\/community\/",
+        "faqUrl_ios":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=ios&l=ar",
+        "faqUrl_android":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=android&l=ar",
+        "contactUsUrl_ios":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=ios&contact=1&l=ar",
+        "contactUsUrl_android":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=android&contact=1&l=ar",
         "laserboxEnabled":null,
         "isRTL":true,
         "isNounAdj":null,
+        "separateThousandsWithSpaces":null,
         "id":3
     },
     {
@@ -106,9 +121,14 @@
         "laserboxStagingUrl":"https:\/\/staging.inbox.brawlstars.com\/fr\/",
         "laserboxCommunityUrl":"https:\/\/inbox.brawlstars.com\/community\/",
         "laserboxCommunityStagingUrl":"https:\/\/staging.inbox.brawlstars.com\/community\/",
+        "faqUrl_ios":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=ios&l=fr",
+        "faqUrl_android":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=android&l=fr",
+        "contactUsUrl_ios":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=ios&contact=1&l=fr",
+        "contactUsUrl_android":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=android&contact=1&l=fr",
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":true,
+        "separateThousandsWithSpaces":true,
         "id":4
     },
     {
@@ -134,9 +154,14 @@
         "laserboxStagingUrl":"https:\/\/staging.inbox.brawlstars.com\/",
         "laserboxCommunityUrl":"https:\/\/inbox.brawlstars.com\/community\/",
         "laserboxCommunityStagingUrl":"https:\/\/staging.inbox.brawlstars.com\/community\/",
+        "faqUrl_ios":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=ios&l=en",
+        "faqUrl_android":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=android&l=en",
+        "contactUsUrl_ios":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=ios&contact=1&l=en",
+        "contactUsUrl_android":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=android&contact=1&l=en",
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
+        "separateThousandsWithSpaces":null,
         "id":5
     },
     {
@@ -162,9 +187,14 @@
         "laserboxStagingUrl":"https:\/\/staging.inbox.brawlstars.com\/",
         "laserboxCommunityUrl":"https:\/\/inbox.brawlstars.com\/community\/",
         "laserboxCommunityStagingUrl":"https:\/\/staging.inbox.brawlstars.com\/community\/",
+        "faqUrl_ios":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=ios&l=en",
+        "faqUrl_android":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=android&l=en",
+        "contactUsUrl_ios":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=ios&contact=1&l=en",
+        "contactUsUrl_android":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=android&contact=1&l=en",
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
+        "separateThousandsWithSpaces":null,
         "id":6
     },
     {
@@ -190,9 +220,14 @@
         "laserboxStagingUrl":"https:\/\/staging.inbox.brawlstars.com\/",
         "laserboxCommunityUrl":"https:\/\/inbox.brawlstars.com\/community\/",
         "laserboxCommunityStagingUrl":"https:\/\/staging.inbox.brawlstars.com\/community\/",
+        "faqUrl_ios":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=ios&l=en",
+        "faqUrl_android":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=android&l=en",
+        "contactUsUrl_ios":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=ios&contact=1&l=en",
+        "contactUsUrl_android":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=android&contact=1&l=en",
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
+        "separateThousandsWithSpaces":null,
         "id":7
     },
     {
@@ -218,9 +253,14 @@
         "laserboxStagingUrl":"https:\/\/staging.inbox.brawlstars.com\/",
         "laserboxCommunityUrl":"https:\/\/inbox.brawlstars.com\/community\/",
         "laserboxCommunityStagingUrl":"https:\/\/staging.inbox.brawlstars.com\/community\/",
+        "faqUrl_ios":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=ios&l=en",
+        "faqUrl_android":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=android&l=en",
+        "contactUsUrl_ios":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=ios&contact=1&l=en",
+        "contactUsUrl_android":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=android&contact=1&l=en",
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
+        "separateThousandsWithSpaces":null,
         "id":8
     },
     {
@@ -246,9 +286,14 @@
         "laserboxStagingUrl":null,
         "laserboxCommunityUrl":null,
         "laserboxCommunityStagingUrl":null,
+        "faqUrl_ios":null,
+        "faqUrl_android":null,
+        "contactUsUrl_ios":null,
+        "contactUsUrl_android":null,
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
+        "separateThousandsWithSpaces":null,
         "id":9
     },
     {
@@ -274,9 +319,14 @@
         "laserboxStagingUrl":null,
         "laserboxCommunityUrl":null,
         "laserboxCommunityStagingUrl":null,
+        "faqUrl_ios":null,
+        "faqUrl_android":null,
+        "contactUsUrl_ios":null,
+        "contactUsUrl_android":null,
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
+        "separateThousandsWithSpaces":null,
         "id":10
     },
     {
@@ -302,9 +352,14 @@
         "laserboxStagingUrl":null,
         "laserboxCommunityUrl":null,
         "laserboxCommunityStagingUrl":null,
+        "faqUrl_ios":null,
+        "faqUrl_android":null,
+        "contactUsUrl_ios":null,
+        "contactUsUrl_android":null,
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
+        "separateThousandsWithSpaces":null,
         "id":11
     },
     {
@@ -330,9 +385,14 @@
         "laserboxStagingUrl":null,
         "laserboxCommunityUrl":null,
         "laserboxCommunityStagingUrl":null,
+        "faqUrl_ios":null,
+        "faqUrl_android":null,
+        "contactUsUrl_ios":null,
+        "contactUsUrl_android":null,
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
+        "separateThousandsWithSpaces":null,
         "id":12
     },
     {
@@ -358,9 +418,14 @@
         "laserboxStagingUrl":null,
         "laserboxCommunityUrl":null,
         "laserboxCommunityStagingUrl":null,
+        "faqUrl_ios":null,
+        "faqUrl_android":null,
+        "contactUsUrl_ios":null,
+        "contactUsUrl_android":null,
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
+        "separateThousandsWithSpaces":null,
         "id":13
     },
     {
@@ -386,9 +451,14 @@
         "laserboxStagingUrl":"https:\/\/staging.inbox.brawlstars.com\/",
         "laserboxCommunityUrl":"https:\/\/inbox.brawlstars.com\/community\/",
         "laserboxCommunityStagingUrl":"https:\/\/staging.inbox.brawlstars.com\/community\/",
+        "faqUrl_ios":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=ios&l=en",
+        "faqUrl_android":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=android&l=en",
+        "contactUsUrl_ios":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=ios&contact=1&l=en",
+        "contactUsUrl_android":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=android&contact=1&l=en",
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
+        "separateThousandsWithSpaces":null,
         "id":14
     },
     {
@@ -414,9 +484,14 @@
         "laserboxStagingUrl":null,
         "laserboxCommunityUrl":null,
         "laserboxCommunityStagingUrl":null,
+        "faqUrl_ios":null,
+        "faqUrl_android":null,
+        "contactUsUrl_ios":null,
+        "contactUsUrl_android":null,
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
+        "separateThousandsWithSpaces":null,
         "id":15
     },
     {
@@ -442,9 +517,14 @@
         "laserboxStagingUrl":null,
         "laserboxCommunityUrl":null,
         "laserboxCommunityStagingUrl":null,
+        "faqUrl_ios":null,
+        "faqUrl_android":null,
+        "contactUsUrl_ios":null,
+        "contactUsUrl_android":null,
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
+        "separateThousandsWithSpaces":null,
         "id":16
     },
     {
@@ -470,9 +550,14 @@
         "laserboxStagingUrl":null,
         "laserboxCommunityUrl":null,
         "laserboxCommunityStagingUrl":null,
+        "faqUrl_ios":null,
+        "faqUrl_android":null,
+        "contactUsUrl_ios":null,
+        "contactUsUrl_android":null,
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
+        "separateThousandsWithSpaces":null,
         "id":17
     },
     {
@@ -498,9 +583,14 @@
         "laserboxStagingUrl":null,
         "laserboxCommunityUrl":null,
         "laserboxCommunityStagingUrl":null,
+        "faqUrl_ios":null,
+        "faqUrl_android":null,
+        "contactUsUrl_ios":null,
+        "contactUsUrl_android":null,
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
+        "separateThousandsWithSpaces":null,
         "id":18
     },
     {
@@ -526,9 +616,14 @@
         "laserboxStagingUrl":null,
         "laserboxCommunityUrl":null,
         "laserboxCommunityStagingUrl":null,
+        "faqUrl_ios":null,
+        "faqUrl_android":null,
+        "contactUsUrl_ios":null,
+        "contactUsUrl_android":null,
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
+        "separateThousandsWithSpaces":null,
         "id":19
     },
     {
@@ -554,9 +649,14 @@
         "laserboxStagingUrl":"https:\/\/staging.inbox.brawlstars.com\/de\/",
         "laserboxCommunityUrl":"https:\/\/inbox.brawlstars.com\/community\/",
         "laserboxCommunityStagingUrl":"https:\/\/staging.inbox.brawlstars.com\/community\/",
+        "faqUrl_ios":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=ios&l=de",
+        "faqUrl_android":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=android&l=de",
+        "contactUsUrl_ios":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=ios&contact=1&l=de",
+        "contactUsUrl_android":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=android&contact=1&l=de",
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
+        "separateThousandsWithSpaces":true,
         "id":20
     },
     {
@@ -582,9 +682,14 @@
         "laserboxStagingUrl":"https:\/\/staging.inbox.brawlstars.com\/es\/",
         "laserboxCommunityUrl":"https:\/\/inbox.brawlstars.com\/community\/",
         "laserboxCommunityStagingUrl":"https:\/\/staging.inbox.brawlstars.com\/community\/",
+        "faqUrl_ios":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=ios&l=es",
+        "faqUrl_android":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=android&l=es",
+        "contactUsUrl_ios":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=ios&contact=1&l=es",
+        "contactUsUrl_android":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=android&contact=1&l=es",
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
+        "separateThousandsWithSpaces":null,
         "id":21
     },
     {
@@ -610,9 +715,14 @@
         "laserboxStagingUrl":"https:\/\/staging.inbox.brawlstars.com\/it\/",
         "laserboxCommunityUrl":"https:\/\/inbox.brawlstars.com\/community\/",
         "laserboxCommunityStagingUrl":"https:\/\/staging.inbox.brawlstars.com\/community\/",
+        "faqUrl_ios":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=ios&l=it",
+        "faqUrl_android":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=android&l=it",
+        "contactUsUrl_ios":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=ios&contact=1&l=it",
+        "contactUsUrl_android":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=android&contact=1&l=it",
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
+        "separateThousandsWithSpaces":null,
         "id":22
     },
     {
@@ -638,9 +748,14 @@
         "laserboxStagingUrl":"https:\/\/staging.inbox.brawlstars.com\/ja\/",
         "laserboxCommunityUrl":"https:\/\/inbox.brawlstars.com\/community\/",
         "laserboxCommunityStagingUrl":"https:\/\/staging.inbox.brawlstars.com\/community\/",
+        "faqUrl_ios":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=ios&l=ja",
+        "faqUrl_android":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=android&l=ja",
+        "contactUsUrl_ios":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=ios&contact=1&l=ja",
+        "contactUsUrl_android":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=android&contact=1&l=ja",
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
+        "separateThousandsWithSpaces":null,
         "id":23
     },
     {
@@ -666,9 +781,14 @@
         "laserboxStagingUrl":"https:\/\/staging.inbox.brawlstars.com\/zh\/",
         "laserboxCommunityUrl":"https:\/\/inbox.brawlstars.com\/community\/",
         "laserboxCommunityStagingUrl":"https:\/\/staging.inbox.brawlstars.com\/community\/",
+        "faqUrl_ios":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=ios&l=zh-hant",
+        "faqUrl_android":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=android&l=zh-hant",
+        "contactUsUrl_ios":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=ios&contact=1&l=zh-hant",
+        "contactUsUrl_android":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=android&contact=1&l=zh-hant",
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
+        "separateThousandsWithSpaces":null,
         "id":24
     },
     {
@@ -694,9 +814,14 @@
         "laserboxStagingUrl":"https:\/\/staging.inbox.brawlstars.com\/ko\/",
         "laserboxCommunityUrl":"https:\/\/inbox.brawlstars.com\/community\/",
         "laserboxCommunityStagingUrl":"https:\/\/staging.inbox.brawlstars.com\/community\/",
+        "faqUrl_ios":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=ios&l=ko",
+        "faqUrl_android":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=android&l=ko",
+        "contactUsUrl_ios":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=ios&contact=1&l=ko",
+        "contactUsUrl_android":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=android&contact=1&l=ko",
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
+        "separateThousandsWithSpaces":null,
         "id":25
     },
     {
@@ -722,9 +847,14 @@
         "laserboxStagingUrl":"https:\/\/staging.inbox.brawlstars.com\/nl\/",
         "laserboxCommunityUrl":"https:\/\/inbox.brawlstars.com\/community\/",
         "laserboxCommunityStagingUrl":"https:\/\/staging.inbox.brawlstars.com\/community\/",
+        "faqUrl_ios":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=ios&l=nl",
+        "faqUrl_android":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=android&l=nl",
+        "contactUsUrl_ios":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=ios&contact=1&l=nl",
+        "contactUsUrl_android":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=android&contact=1&l=nl",
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
+        "separateThousandsWithSpaces":null,
         "id":26
     },
     {
@@ -750,9 +880,14 @@
         "laserboxStagingUrl":"https:\/\/staging.inbox.brawlstars.com\/pt\/",
         "laserboxCommunityUrl":"https:\/\/inbox.brawlstars.com\/community\/",
         "laserboxCommunityStagingUrl":"https:\/\/staging.inbox.brawlstars.com\/community\/",
+        "faqUrl_ios":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=ios&l=pt",
+        "faqUrl_android":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=android&l=pt",
+        "contactUsUrl_ios":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=ios&contact=1&l=pt",
+        "contactUsUrl_android":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=android&contact=1&l=pt",
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
+        "separateThousandsWithSpaces":null,
         "id":27
     },
     {
@@ -778,9 +913,14 @@
         "laserboxStagingUrl":"https:\/\/staging.inbox.brawlstars.com\/ru\/",
         "laserboxCommunityUrl":"https:\/\/inbox.brawlstars.com\/community\/",
         "laserboxCommunityStagingUrl":"https:\/\/staging.inbox.brawlstars.com\/community\/",
+        "faqUrl_ios":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=ios&l=ru",
+        "faqUrl_android":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=android&l=ru",
+        "contactUsUrl_ios":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=ios&contact=1&l=ru",
+        "contactUsUrl_android":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=android&contact=1&l=ru",
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
+        "separateThousandsWithSpaces":true,
         "id":28
     },
     {
@@ -806,9 +946,14 @@
         "laserboxStagingUrl":"https:\/\/staging.inbox.brawlstars.com\/tr\/",
         "laserboxCommunityUrl":"https:\/\/inbox.brawlstars.com\/community\/",
         "laserboxCommunityStagingUrl":"https:\/\/staging.inbox.brawlstars.com\/community\/",
+        "faqUrl_ios":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=ios&l=tr",
+        "faqUrl_android":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=android&l=tr",
+        "contactUsUrl_ios":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=ios&contact=1&l=tr",
+        "contactUsUrl_android":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=android&contact=1&l=tr",
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
+        "separateThousandsWithSpaces":null,
         "id":29
     },
     {
@@ -830,13 +975,18 @@
         "termsAndServiceUrl":"http:\/\/supercell.com\/en\/terms-of-service\/id",
         "parentsGuideUrl":"http:\/\/www.supercell.com\/en\/parents\/id",
         "privacyPolicyUrl":"http:\/\/www.supercell.com\/en\/privacy-policy\/",
-        "laserboxUrl":"https:\/\/inbox.brawlstars.com\/",
+        "laserboxUrl":"https:\/\/inbox.brawlstars.com\/id\/",
         "laserboxStagingUrl":"https:\/\/staging.inbox.brawlstars.com\/id\/",
         "laserboxCommunityUrl":"https:\/\/inbox.brawlstars.com\/community\/",
         "laserboxCommunityStagingUrl":"https:\/\/staging.inbox.brawlstars.com\/community\/",
+        "faqUrl_ios":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=ios&l=id",
+        "faqUrl_android":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=android&l=id",
+        "contactUsUrl_ios":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=ios&contact=1&l=id",
+        "contactUsUrl_android":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=android&contact=1&l=id",
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
+        "separateThousandsWithSpaces":null,
         "id":30
     },
     {
@@ -862,9 +1012,14 @@
         "laserboxStagingUrl":"https:\/\/staging.inbox.brawlstars.com\/ms\/",
         "laserboxCommunityUrl":"https:\/\/inbox.brawlstars.com\/community\/",
         "laserboxCommunityStagingUrl":"https:\/\/staging.inbox.brawlstars.com\/community\/",
+        "faqUrl_ios":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=ios&l=ms",
+        "faqUrl_android":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=android&l=ms",
+        "contactUsUrl_ios":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=ios&contact=1&l=ms",
+        "contactUsUrl_android":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=android&contact=1&l=ms",
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
+        "separateThousandsWithSpaces":null,
         "id":31
     },
     {
@@ -890,9 +1045,14 @@
         "laserboxStagingUrl":"https:\/\/staging.inbox.brawlstars.com\/vi\/",
         "laserboxCommunityUrl":"https:\/\/inbox.brawlstars.com\/community\/",
         "laserboxCommunityStagingUrl":"https:\/\/staging.inbox.brawlstars.com\/community\/",
+        "faqUrl_ios":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=ios&l=vi",
+        "faqUrl_android":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=android&l=vi",
+        "contactUsUrl_ios":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=ios&contact=1&l=vi",
+        "contactUsUrl_android":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=android&contact=1&l=vi",
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
+        "separateThousandsWithSpaces":null,
         "id":32
     },
     {
@@ -918,9 +1078,14 @@
         "laserboxStagingUrl":"https:\/\/staging.inbox.brawlstars.com\/th\/",
         "laserboxCommunityUrl":"https:\/\/inbox.brawlstars.com\/community\/",
         "laserboxCommunityStagingUrl":"https:\/\/staging.inbox.brawlstars.com\/community\/",
+        "faqUrl_ios":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=ios&l=th",
+        "faqUrl_android":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=android&l=th",
+        "contactUsUrl_ios":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=ios&contact=1&l=th",
+        "contactUsUrl_android":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=android&contact=1&l=th",
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
+        "separateThousandsWithSpaces":null,
         "id":33
     },
     {
@@ -946,9 +1111,14 @@
         "laserboxStagingUrl":"https:\/\/staging.inbox.brawlstars.com\/fi\/",
         "laserboxCommunityUrl":"https:\/\/inbox.brawlstars.com\/community\/",
         "laserboxCommunityStagingUrl":"https:\/\/staging.inbox.brawlstars.com\/community\/",
+        "faqUrl_ios":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=ios&l=fi",
+        "faqUrl_android":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=android&l=fi",
+        "contactUsUrl_ios":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=ios&contact=1&l=fi",
+        "contactUsUrl_android":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=android&contact=1&l=fi",
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
+        "separateThousandsWithSpaces":true,
         "id":34
     },
     {
@@ -974,9 +1144,14 @@
         "laserboxStagingUrl":"https:\/\/staging.inbox.brawlstars.com\/",
         "laserboxCommunityUrl":"https:\/\/inbox.brawlstars.com\/community\/",
         "laserboxCommunityStagingUrl":"https:\/\/staging.inbox.brawlstars.com\/community\/",
+        "faqUrl_ios":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=ios&l=en",
+        "faqUrl_android":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=android&l=en",
+        "contactUsUrl_ios":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=ios&contact=1&l=en",
+        "contactUsUrl_android":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=android&contact=1&l=en",
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
+        "separateThousandsWithSpaces":null,
         "id":35
     },
     {
@@ -1002,9 +1177,14 @@
         "laserboxStagingUrl":null,
         "laserboxCommunityUrl":null,
         "laserboxCommunityStagingUrl":null,
+        "faqUrl_ios":null,
+        "faqUrl_android":null,
+        "contactUsUrl_ios":null,
+        "contactUsUrl_android":null,
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
+        "separateThousandsWithSpaces":null,
         "id":36
     },
     {
@@ -1030,9 +1210,14 @@
         "laserboxStagingUrl":null,
         "laserboxCommunityUrl":null,
         "laserboxCommunityStagingUrl":null,
+        "faqUrl_ios":null,
+        "faqUrl_android":null,
+        "contactUsUrl_ios":null,
+        "contactUsUrl_android":null,
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
+        "separateThousandsWithSpaces":null,
         "id":37
     },
     {
@@ -1058,9 +1243,14 @@
         "laserboxStagingUrl":null,
         "laserboxCommunityUrl":null,
         "laserboxCommunityStagingUrl":null,
+        "faqUrl_ios":null,
+        "faqUrl_android":null,
+        "contactUsUrl_ios":null,
+        "contactUsUrl_android":null,
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
+        "separateThousandsWithSpaces":null,
         "id":38
     },
     {
@@ -1086,9 +1276,14 @@
         "laserboxStagingUrl":null,
         "laserboxCommunityUrl":null,
         "laserboxCommunityStagingUrl":null,
+        "faqUrl_ios":null,
+        "faqUrl_android":null,
+        "contactUsUrl_ios":null,
+        "contactUsUrl_android":null,
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
+        "separateThousandsWithSpaces":null,
         "id":39
     },
     {
@@ -1114,9 +1309,14 @@
         "laserboxStagingUrl":null,
         "laserboxCommunityUrl":null,
         "laserboxCommunityStagingUrl":null,
+        "faqUrl_ios":null,
+        "faqUrl_android":null,
+        "contactUsUrl_ios":null,
+        "contactUsUrl_android":null,
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
+        "separateThousandsWithSpaces":null,
         "id":40
     },
     {
@@ -1142,9 +1342,14 @@
         "laserboxStagingUrl":null,
         "laserboxCommunityUrl":null,
         "laserboxCommunityStagingUrl":null,
+        "faqUrl_ios":null,
+        "faqUrl_android":null,
+        "contactUsUrl_ios":null,
+        "contactUsUrl_android":null,
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
+        "separateThousandsWithSpaces":null,
         "id":41
     },
     {
@@ -1170,9 +1375,14 @@
         "laserboxStagingUrl":null,
         "laserboxCommunityUrl":null,
         "laserboxCommunityStagingUrl":null,
+        "faqUrl_ios":null,
+        "faqUrl_android":null,
+        "contactUsUrl_ios":null,
+        "contactUsUrl_android":null,
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
+        "separateThousandsWithSpaces":null,
         "id":42
     },
     {
@@ -1198,9 +1408,14 @@
         "laserboxStagingUrl":null,
         "laserboxCommunityUrl":null,
         "laserboxCommunityStagingUrl":null,
+        "faqUrl_ios":null,
+        "faqUrl_android":null,
+        "contactUsUrl_ios":null,
+        "contactUsUrl_android":null,
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
+        "separateThousandsWithSpaces":null,
         "id":43
     },
     {
@@ -1226,9 +1441,14 @@
         "laserboxStagingUrl":null,
         "laserboxCommunityUrl":null,
         "laserboxCommunityStagingUrl":null,
+        "faqUrl_ios":null,
+        "faqUrl_android":null,
+        "contactUsUrl_ios":null,
+        "contactUsUrl_android":null,
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
+        "separateThousandsWithSpaces":null,
         "id":44
     },
     {
@@ -1254,9 +1474,14 @@
         "laserboxStagingUrl":null,
         "laserboxCommunityUrl":null,
         "laserboxCommunityStagingUrl":null,
+        "faqUrl_ios":null,
+        "faqUrl_android":null,
+        "contactUsUrl_ios":null,
+        "contactUsUrl_android":null,
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
+        "separateThousandsWithSpaces":null,
         "id":45
     },
     {
@@ -1282,9 +1507,14 @@
         "laserboxStagingUrl":null,
         "laserboxCommunityUrl":null,
         "laserboxCommunityStagingUrl":null,
+        "faqUrl_ios":null,
+        "faqUrl_android":null,
+        "contactUsUrl_ios":null,
+        "contactUsUrl_android":null,
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
+        "separateThousandsWithSpaces":null,
         "id":46
     },
     {
@@ -1310,9 +1540,14 @@
         "laserboxStagingUrl":"https:\/\/staging.inbox.brawlstars.com\/",
         "laserboxCommunityUrl":"https:\/\/inbox.brawlstars.com\/",
         "laserboxCommunityStagingUrl":"https:\/\/staging.inbox.brawlstars.com\/",
+        "faqUrl_ios":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=ios&l=en",
+        "faqUrl_android":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=android&l=en",
+        "contactUsUrl_ios":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=ios&contact=1&l=en",
+        "contactUsUrl_android":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=android&contact=1&l=en",
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
+        "separateThousandsWithSpaces":null,
         "id":47
     },
     {
@@ -1338,9 +1573,14 @@
         "laserboxStagingUrl":null,
         "laserboxCommunityUrl":null,
         "laserboxCommunityStagingUrl":null,
+        "faqUrl_ios":null,
+        "faqUrl_android":null,
+        "contactUsUrl_ios":null,
+        "contactUsUrl_android":null,
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
+        "separateThousandsWithSpaces":null,
         "id":48
     },
     {
@@ -1366,9 +1606,14 @@
         "laserboxStagingUrl":null,
         "laserboxCommunityUrl":null,
         "laserboxCommunityStagingUrl":null,
+        "faqUrl_ios":null,
+        "faqUrl_android":null,
+        "contactUsUrl_ios":null,
+        "contactUsUrl_android":null,
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
+        "separateThousandsWithSpaces":null,
         "id":49
     },
     {
@@ -1394,9 +1639,14 @@
         "laserboxStagingUrl":null,
         "laserboxCommunityUrl":null,
         "laserboxCommunityStagingUrl":null,
+        "faqUrl_ios":null,
+        "faqUrl_android":null,
+        "contactUsUrl_ios":null,
+        "contactUsUrl_android":null,
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
+        "separateThousandsWithSpaces":null,
         "id":50
     },
     {
@@ -1422,9 +1672,14 @@
         "laserboxStagingUrl":null,
         "laserboxCommunityUrl":null,
         "laserboxCommunityStagingUrl":null,
+        "faqUrl_ios":null,
+        "faqUrl_android":null,
+        "contactUsUrl_ios":null,
+        "contactUsUrl_android":null,
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
+        "separateThousandsWithSpaces":null,
         "id":51
     },
     {
@@ -1450,9 +1705,14 @@
         "laserboxStagingUrl":null,
         "laserboxCommunityUrl":null,
         "laserboxCommunityStagingUrl":null,
+        "faqUrl_ios":null,
+        "faqUrl_android":null,
+        "contactUsUrl_ios":null,
+        "contactUsUrl_android":null,
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
+        "separateThousandsWithSpaces":null,
         "id":52
     },
     {
@@ -1478,9 +1738,14 @@
         "laserboxStagingUrl":null,
         "laserboxCommunityUrl":null,
         "laserboxCommunityStagingUrl":null,
+        "faqUrl_ios":null,
+        "faqUrl_android":null,
+        "contactUsUrl_ios":null,
+        "contactUsUrl_android":null,
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
+        "separateThousandsWithSpaces":null,
         "id":53
     },
     {
@@ -1506,9 +1771,14 @@
         "laserboxStagingUrl":null,
         "laserboxCommunityUrl":null,
         "laserboxCommunityStagingUrl":null,
+        "faqUrl_ios":null,
+        "faqUrl_android":null,
+        "contactUsUrl_ios":null,
+        "contactUsUrl_android":null,
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
+        "separateThousandsWithSpaces":null,
         "id":54
     },
     {
@@ -1534,9 +1804,14 @@
         "laserboxStagingUrl":null,
         "laserboxCommunityUrl":null,
         "laserboxCommunityStagingUrl":null,
+        "faqUrl_ios":null,
+        "faqUrl_android":null,
+        "contactUsUrl_ios":null,
+        "contactUsUrl_android":null,
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
+        "separateThousandsWithSpaces":null,
         "id":55
     },
     {
@@ -1562,9 +1837,14 @@
         "laserboxStagingUrl":null,
         "laserboxCommunityUrl":null,
         "laserboxCommunityStagingUrl":null,
+        "faqUrl_ios":null,
+        "faqUrl_android":null,
+        "contactUsUrl_ios":null,
+        "contactUsUrl_android":null,
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
+        "separateThousandsWithSpaces":null,
         "id":56
     },
     {
@@ -1590,9 +1870,14 @@
         "laserboxStagingUrl":null,
         "laserboxCommunityUrl":null,
         "laserboxCommunityStagingUrl":null,
+        "faqUrl_ios":null,
+        "faqUrl_android":null,
+        "contactUsUrl_ios":null,
+        "contactUsUrl_android":null,
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
+        "separateThousandsWithSpaces":null,
         "id":57
     },
     {
@@ -1618,9 +1903,14 @@
         "laserboxStagingUrl":null,
         "laserboxCommunityUrl":null,
         "laserboxCommunityStagingUrl":null,
+        "faqUrl_ios":null,
+        "faqUrl_android":null,
+        "contactUsUrl_ios":null,
+        "contactUsUrl_android":null,
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
+        "separateThousandsWithSpaces":null,
         "id":58
     },
     {
@@ -1646,9 +1936,14 @@
         "laserboxStagingUrl":null,
         "laserboxCommunityUrl":null,
         "laserboxCommunityStagingUrl":null,
+        "faqUrl_ios":null,
+        "faqUrl_android":null,
+        "contactUsUrl_ios":null,
+        "contactUsUrl_android":null,
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
+        "separateThousandsWithSpaces":null,
         "id":59
     },
     {
@@ -1674,9 +1969,14 @@
         "laserboxStagingUrl":null,
         "laserboxCommunityUrl":null,
         "laserboxCommunityStagingUrl":null,
+        "faqUrl_ios":null,
+        "faqUrl_android":null,
+        "contactUsUrl_ios":null,
+        "contactUsUrl_android":null,
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
+        "separateThousandsWithSpaces":null,
         "id":60
     },
     {
@@ -1702,9 +2002,14 @@
         "laserboxStagingUrl":null,
         "laserboxCommunityUrl":null,
         "laserboxCommunityStagingUrl":null,
+        "faqUrl_ios":null,
+        "faqUrl_android":null,
+        "contactUsUrl_ios":null,
+        "contactUsUrl_android":null,
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
+        "separateThousandsWithSpaces":null,
         "id":61
     },
     {
@@ -1730,9 +2035,14 @@
         "laserboxStagingUrl":"https:\/\/staging.inbox.brawlstars.com\/fi\/",
         "laserboxCommunityUrl":"https:\/\/inbox.brawlstars.com\/community\/",
         "laserboxCommunityStagingUrl":"https:\/\/staging.inbox.brawlstars.com\/community\/",
+        "faqUrl_ios":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=ios&l=pl",
+        "faqUrl_android":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=android&l=pl",
+        "contactUsUrl_ios":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=ios&contact=1&l=pl",
+        "contactUsUrl_android":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=android&contact=1&l=pl",
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
+        "separateThousandsWithSpaces":null,
         "id":62
     },
     {
@@ -1758,9 +2068,14 @@
         "laserboxStagingUrl":"https:\/\/staging.inbox.brawlstars.com\/fi\/",
         "laserboxCommunityUrl":"https:\/\/inbox.brawlstars.com\/community\/",
         "laserboxCommunityStagingUrl":"https:\/\/staging.inbox.brawlstars.com\/community\/",
+        "faqUrl_ios":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=ios&l=he",
+        "faqUrl_android":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=android&l=he",
+        "contactUsUrl_ios":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=ios&contact=1&l=he",
+        "contactUsUrl_android":"https:\/\/supercell.helpshift.com\/a\/brawl-stars\/?p=android&contact=1&l=he",
         "laserboxEnabled":null,
         "isRTL":true,
         "isNounAdj":null,
+        "separateThousandsWithSpaces":null,
         "id":63
     }
 ]

@@ -438,5 +438,15 @@
         "exportName":null,
         "character":null,
         "rawTID":"HINT_43"
+    },
+    {
+        "name":45,
+        "tID":"\u0412 \u0421\u0418\u041b\u041e\u0412\u041e\u0419 \u0413\u041e\u041d\u041a\u0415 \u043f\u043e\u0434\u0431\u043e\u0440 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u043e\u0432 \u043e\u0441\u043d\u043e\u0432\u0430\u043d \u043d\u0430 \u0442\u0432\u043e\u0451\u043c \u0442\u0435\u043a\u0443\u0449\u0435\u043c \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u0435 \u043e\u0447\u043a\u043e\u0432 \u0432 \u0441\u0435\u0437\u043e\u043d\u0435 \u0421\u0418\u041b\u041e\u0412\u041e\u0419 \u0413\u041e\u041d\u041a\u0418.",
+        "minXPLevel":20,
+        "maxXPLevel":999,
+        "fileName":null,
+        "exportName":null,
+        "character":null,
+        "rawTID":"HINT_44"
     }
 ]

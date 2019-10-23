@@ -438,5 +438,15 @@
         "exportName":null,
         "character":null,
         "rawTID":"HINT_43"
+    },
+    {
+        "name":45,
+        "tID":"\u5728\u661f\u5fbd\u7ade\u6280\u573a\u4e2d\uff0c\u7cfb\u7edf\u4f1a\u6839\u636e\u60a8\u76ee\u524d\u7684\u661f\u5fbd\u7ade\u6280\u573a\u79ef\u5206\u4e3a\u60a8\u5339\u914d\u5bf9\u624b\u3002",
+        "minXPLevel":20,
+        "maxXPLevel":999,
+        "fileName":null,
+        "exportName":null,
+        "character":null,
+        "rawTID":"HINT_44"
     }
 ]

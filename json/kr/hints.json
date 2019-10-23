@@ -438,5 +438,15 @@
         "exportName":null,
         "character":null,
         "rawTID":"HINT_43"
+    },
+    {
+        "name":45,
+        "tID":"\ud30c\uc6cc \ud50c\ub808\uc774 \ub9e4\uce58\uba54\uc774\uce6d\uc740 \ud604\uc7ac \ubcf4\uc720\ud55c \ud30c\uc6cc \ud50c\ub808\uc774 \uc2dc\uc98c \ud3ec\uc778\ud2b8\ub97c \uae30\uc900\uc73c\ub85c \uacb0\uc815\ub429\ub2c8\ub2e4.",
+        "minXPLevel":20,
+        "maxXPLevel":999,
+        "fileName":null,
+        "exportName":null,
+        "character":null,
+        "rawTID":"HINT_44"
     }
 ]

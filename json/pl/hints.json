@@ -438,5 +438,15 @@
         "exportName":null,
         "character":null,
         "rawTID":"HINT_43"
+    },
+    {
+        "name":45,
+        "tID":"Podczas IGRZYSK MOCY \u0142\u0105czenie graczy odbywa si\u0119 na podstawie aktualnie posiadanych punkt\u00f3w w danym sezonie IGRZYSK.",
+        "minXPLevel":20,
+        "maxXPLevel":999,
+        "fileName":null,
+        "exportName":null,
+        "character":null,
+        "rawTID":"HINT_44"
     }
 ]

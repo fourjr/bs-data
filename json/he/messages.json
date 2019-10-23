@@ -2,84 +2,112 @@
     {
         "name":"message1",
         "tID":null,
+        "messageType":1,
         "fileName":null,
         "exportName":null
     },
     {
         "name":"message2",
         "tID":null,
+        "messageType":2,
         "fileName":null,
         "exportName":null
     },
     {
         "name":"message3",
         "tID":null,
+        "messageType":null,
         "fileName":null,
         "exportName":null
     },
     {
         "name":"message4",
         "tID":null,
+        "messageType":null,
         "fileName":null,
         "exportName":null
     },
     {
         "name":"message5",
         "tID":null,
+        "messageType":null,
         "fileName":null,
         "exportName":null
     },
     {
         "name":"message6",
         "tID":null,
+        "messageType":null,
         "fileName":null,
         "exportName":null
     },
     {
         "name":"message7",
         "tID":null,
+        "messageType":null,
         "fileName":null,
         "exportName":null
     },
     {
         "name":"message8",
         "tID":null,
+        "messageType":null,
         "fileName":null,
         "exportName":null
     },
     {
         "name":"message9",
         "tID":null,
+        "messageType":null,
         "fileName":null,
         "exportName":null
     },
     {
         "name":"message10",
         "tID":null,
+        "messageType":null,
         "fileName":null,
         "exportName":null
     },
     {
         "name":"message11",
         "tID":null,
+        "messageType":null,
         "fileName":null,
         "exportName":null
     },
     {
         "name":"message12",
         "tID":null,
+        "messageType":null,
         "fileName":null,
         "exportName":null
     },
     {
         "name":"message13",
         "tID":null,
+        "messageType":null,
         "fileName":null,
         "exportName":null
     },
     {
         "name":"message14",
         "tID":null,
+        "messageType":null,
+        "fileName":null,
+        "exportName":null
+    },
+    {
+        "name":"message15",
+        "tID":null,
+        "messageType":null,
+        "fileName":null,
+        "exportName":null
+    },
+    {
+        "name":"message16",
+        "tID":null,
+        "messageType":null,
         "fileName":null,
         "exportName":null
     }

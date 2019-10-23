@@ -438,5 +438,15 @@
         "exportName":null,
         "character":null,
         "rawTID":"HINT_43"
+    },
+    {
+        "name":45,
+        "tID":"T\u00e4htitaistelussa ottelunmuodostus perustuu t\u00e4htitaistelukauden senhetkiseen pistem\u00e4\u00e4r\u00e4\u00e4si.",
+        "minXPLevel":20,
+        "maxXPLevel":999,
+        "fileName":null,
+        "exportName":null,
+        "character":null,
+        "rawTID":"HINT_44"
     }
 ]

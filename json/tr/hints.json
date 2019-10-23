@@ -438,5 +438,15 @@
         "exportName":null,
         "character":null,
         "rawTID":"HINT_43"
+    },
+    {
+        "name":45,
+        "tID":"POWER PLAY liginde oynarken e\u015fle\u015ftirme, POWER PLAY sezonundaki puan\u0131na g\u00f6re yap\u0131l\u0131r.",
+        "minXPLevel":20,
+        "maxXPLevel":999,
+        "fileName":null,
+        "exportName":null,
+        "character":null,
+        "rawTID":"HINT_44"
     }
 ]

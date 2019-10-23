@@ -46,6 +46,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
+        "showTimerBar":null,
         "id":20
     },
     {
@@ -95,6 +96,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
+        "showTimerBar":null,
         "id":21
     },
     {
@@ -144,6 +146,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
+        "showTimerBar":null,
         "id":22
     },
     {
@@ -193,6 +196,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
+        "showTimerBar":null,
         "id":23
     },
     {
@@ -242,6 +246,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
+        "showTimerBar":null,
         "id":24
     },
     {
@@ -291,6 +296,7 @@
         "chargeMoveSound":"Rhinostep",
         "multiShot":null,
         "skillCanChange":null,
+        "showTimerBar":null,
         "id":25
     },
     {
@@ -340,6 +346,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
+        "showTimerBar":null,
         "id":26
     },
     {
@@ -389,6 +396,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
+        "showTimerBar":null,
         "id":27
     },
     {
@@ -438,6 +446,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
+        "showTimerBar":null,
         "id":28
     },
     {
@@ -487,6 +496,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
+        "showTimerBar":null,
         "id":29
     },
     {
@@ -536,6 +546,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
+        "showTimerBar":null,
         "id":30
     },
     {
@@ -585,6 +596,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
+        "showTimerBar":null,
         "id":31
     },
     {
@@ -634,6 +646,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
+        "showTimerBar":null,
         "id":32
     },
     {
@@ -683,6 +696,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
+        "showTimerBar":null,
         "id":33
     },
     {
@@ -698,7 +712,7 @@
         "maxCastingRange":null,
         "rechargeTime":1800,
         "maxCharge":3,
-        "damage":820,
+        "damage":840,
         "msBetweenAttacks":100,
         "spread":0,
         "attackPattern":null,
@@ -732,6 +746,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
+        "showTimerBar":null,
         "id":34
     },
     {
@@ -781,6 +796,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
+        "showTimerBar":null,
         "id":35
     },
     {
@@ -796,7 +812,7 @@
         "maxCastingRange":null,
         "rechargeTime":1250,
         "maxCharge":3,
-        "damage":740,
+        "damage":800,
         "msBetweenAttacks":100,
         "spread":0,
         "attackPattern":null,
@@ -830,6 +846,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
+        "showTimerBar":null,
         "id":36
     },
     {
@@ -879,6 +896,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
+        "showTimerBar":null,
         "id":37
     },
     {
@@ -928,6 +946,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
+        "showTimerBar":null,
         "id":38
     },
     {
@@ -977,6 +996,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
+        "showTimerBar":null,
         "id":39
     },
     {
@@ -1026,6 +1046,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
+        "showTimerBar":null,
         "id":40
     },
     {
@@ -1075,6 +1096,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
+        "showTimerBar":null,
         "id":41
     },
     {
@@ -1124,6 +1146,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
+        "showTimerBar":null,
         "id":42
     },
     {
@@ -1173,6 +1196,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
+        "showTimerBar":null,
         "id":43
     },
     {
@@ -1188,7 +1212,7 @@
         "maxCastingRange":null,
         "rechargeTime":1400,
         "maxCharge":3,
-        "damage":300,
+        "damage":320,
         "msBetweenAttacks":100,
         "spread":45,
         "attackPattern":null,
@@ -1222,6 +1246,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
+        "showTimerBar":null,
         "id":44
     },
     {
@@ -1237,7 +1262,7 @@
         "maxCastingRange":null,
         "rechargeTime":null,
         "maxCharge":null,
-        "damage":300,
+        "damage":320,
         "msBetweenAttacks":null,
         "spread":null,
         "attackPattern":null,
@@ -1271,6 +1296,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
+        "showTimerBar":null,
         "id":45
     },
     {
@@ -1320,6 +1346,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
+        "showTimerBar":null,
         "id":46
     },
     {
@@ -1369,6 +1396,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
+        "showTimerBar":null,
         "id":47
     },
     {
@@ -1418,6 +1446,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
+        "showTimerBar":null,
         "id":48
     },
     {
@@ -1467,6 +1496,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
+        "showTimerBar":null,
         "id":49
     },
     {
@@ -1482,7 +1512,7 @@
         "maxCastingRange":null,
         "rechargeTime":2300,
         "maxCharge":3,
-        "damage":1640,
+        "damage":1600,
         "msBetweenAttacks":100,
         "spread":null,
         "attackPattern":null,
@@ -1516,6 +1546,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
+        "showTimerBar":null,
         "id":50
     },
     {
@@ -1565,6 +1596,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
+        "showTimerBar":null,
         "id":51
     },
     {
@@ -1614,6 +1646,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
+        "showTimerBar":null,
         "id":52
     },
     {
@@ -1663,6 +1696,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
+        "showTimerBar":null,
         "id":53
     },
     {
@@ -1678,7 +1712,7 @@
         "maxCastingRange":null,
         "rechargeTime":2000,
         "maxCharge":3,
-        "damage":380,
+        "damage":420,
         "msBetweenAttacks":100,
         "spread":50,
         "attackPattern":null,
@@ -1712,6 +1746,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
+        "showTimerBar":null,
         "id":54
     },
     {
@@ -1761,6 +1796,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
+        "showTimerBar":null,
         "id":55
     },
     {
@@ -1810,6 +1846,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
+        "showTimerBar":null,
         "id":56
     },
     {
@@ -1859,6 +1896,7 @@
         "chargeMoveSound":"Barrelbot_step",
         "multiShot":null,
         "skillCanChange":null,
+        "showTimerBar":null,
         "id":57
     },
     {
@@ -1874,7 +1912,7 @@
         "maxCastingRange":null,
         "rechargeTime":2000,
         "maxCharge":3,
-        "damage":840,
+        "damage":900,
         "msBetweenAttacks":100,
         "spread":0,
         "attackPattern":null,
@@ -1908,6 +1946,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
+        "showTimerBar":null,
         "id":58
     },
     {
@@ -1957,6 +1996,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
+        "showTimerBar":null,
         "id":59
     },
     {
@@ -2006,6 +2046,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
+        "showTimerBar":null,
         "id":60
     },
     {
@@ -2055,6 +2096,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
+        "showTimerBar":null,
         "id":61
     },
     {
@@ -2104,6 +2146,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
+        "showTimerBar":null,
         "id":62
     },
     {
@@ -2153,6 +2196,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
+        "showTimerBar":null,
         "id":63
     },
     {
@@ -2202,6 +2246,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
+        "showTimerBar":null,
         "id":64
     },
     {
@@ -2251,6 +2296,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
+        "showTimerBar":null,
         "id":65
     },
     {
@@ -2300,6 +2346,7 @@
         "chargeMoveSound":"Rhinostep",
         "multiShot":null,
         "skillCanChange":null,
+        "showTimerBar":null,
         "id":66
     },
     {
@@ -2349,6 +2396,7 @@
         "chargeMoveSound":"Rhinostep",
         "multiShot":null,
         "skillCanChange":null,
+        "showTimerBar":null,
         "id":67
     },
     {
@@ -2398,6 +2446,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
+        "showTimerBar":null,
         "id":68
     },
     {
@@ -2447,6 +2496,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
+        "showTimerBar":null,
         "id":69
     },
     {
@@ -2496,6 +2546,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
+        "showTimerBar":null,
         "id":70
     },
     {
@@ -2545,6 +2596,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
+        "showTimerBar":null,
         "id":71
     },
     {
@@ -2594,6 +2646,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
+        "showTimerBar":null,
         "id":72
     },
     {
@@ -2643,6 +2696,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
+        "showTimerBar":null,
         "id":73
     },
     {
@@ -2692,6 +2746,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
+        "showTimerBar":null,
         "id":74
     },
     {
@@ -2741,6 +2796,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
+        "showTimerBar":null,
         "id":75
     },
     {
@@ -2790,6 +2846,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
+        "showTimerBar":null,
         "id":76
     },
     {
@@ -2799,7 +2856,7 @@
         "targeted":null,
         "canAutoShoot":true,
         "cooldown":50,
-        "activeTime":7000,
+        "activeTime":6000,
         "castingTime":null,
         "castingRange":null,
         "maxCastingRange":null,
@@ -2839,6 +2896,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
+        "showTimerBar":true,
         "id":77
     },
     {
@@ -2888,6 +2946,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
+        "showTimerBar":null,
         "id":78
     },
     {
@@ -2937,6 +2996,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
+        "showTimerBar":true,
         "id":79
     },
     {
@@ -2986,6 +3046,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
+        "showTimerBar":null,
         "id":80
     },
     {
@@ -3035,6 +3096,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":true,
+        "showTimerBar":null,
         "id":81
     },
     {
@@ -3084,6 +3146,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":true,
+        "showTimerBar":null,
         "id":82
     },
     {
@@ -3133,6 +3196,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":true,
+        "showTimerBar":null,
         "id":83
     },
     {
@@ -3182,6 +3246,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":true,
+        "showTimerBar":null,
         "id":84
     },
     {
@@ -3231,6 +3296,7 @@
         "chargeMoveSound":"Rhinostep",
         "multiShot":null,
         "skillCanChange":true,
+        "showTimerBar":null,
         "id":85
     },
     {
@@ -3280,6 +3346,7 @@
         "chargeMoveSound":"Rhinostep",
         "multiShot":null,
         "skillCanChange":true,
+        "showTimerBar":null,
         "id":86
     },
     {
@@ -3329,6 +3396,7 @@
         "chargeMoveSound":"Rhinostep",
         "multiShot":null,
         "skillCanChange":true,
+        "showTimerBar":null,
         "id":87
     },
     {
@@ -3378,6 +3446,7 @@
         "chargeMoveSound":"Rhinostep",
         "multiShot":null,
         "skillCanChange":true,
+        "showTimerBar":null,
         "id":88
     },
     {
@@ -3427,6 +3496,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
+        "showTimerBar":null,
         "id":89
     },
     {
@@ -3476,6 +3546,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
+        "showTimerBar":null,
         "id":90
     },
     {
@@ -3525,6 +3596,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
+        "showTimerBar":null,
         "id":91
     },
     {
@@ -3574,6 +3646,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
+        "showTimerBar":true,
         "id":92
     },
     {
@@ -3623,6 +3696,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
+        "showTimerBar":null,
         "id":93
     },
     {
@@ -3638,7 +3712,7 @@
         "maxCastingRange":null,
         "rechargeTime":null,
         "maxCharge":null,
-        "damage":1000,
+        "damage":900,
         "msBetweenAttacks":100,
         "spread":null,
         "attackPattern":null,
@@ -3672,6 +3746,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
+        "showTimerBar":null,
         "id":94
     },
     {
@@ -3687,7 +3762,7 @@
         "maxCastingRange":null,
         "rechargeTime":1500,
         "maxCharge":3,
-        "damage":340,
+        "damage":320,
         "msBetweenAttacks":100,
         "spread":18,
         "attackPattern":3,
@@ -3721,6 +3796,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
+        "showTimerBar":null,
         "id":95
     },
     {
@@ -3770,6 +3846,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
+        "showTimerBar":null,
         "id":96
     },
     {
@@ -3819,6 +3896,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
+        "showTimerBar":null,
         "id":97
     },
     {
@@ -3827,18 +3905,18 @@
         "canMoveAtSameTime":true,
         "targeted":true,
         "canAutoShoot":true,
-        "cooldown":500,
+        "cooldown":250,
         "activeTime":150,
         "castingTime":null,
-        "castingRange":30,
+        "castingRange":23,
         "maxCastingRange":null,
-        "rechargeTime":2300,
+        "rechargeTime":1500,
         "maxCharge":3,
-        "damage":1640,
+        "damage":300,
         "msBetweenAttacks":100,
-        "spread":null,
+        "spread":60,
         "attackPattern":null,
-        "numBulletsInOneAttack":1,
+        "numBulletsInOneAttack":5,
         "twoGuns":null,
         "executeFirstAttackImmediately":true,
         "chargePushback":null,
@@ -3849,7 +3927,7 @@
         "breakInvisibilityOnAttack":null,
         "seeInvisibilityDistance":null,
         "alwaysCastAtMaxRange":null,
-        "projectile":"SniperProjectile",
+        "projectile":"ShotgunGirlProjectile",
         "summonedCharacter":null,
         "areaEffectObject":null,
         "areaEffectObject2":null,
@@ -3860,7 +3938,7 @@
         "largeIconExportName":null,
         "buttonSWF":"sc\/ui.sc",
         "buttonExportName":"rapid_fire_button",
-        "attackEffect":"sniper_attack",
+        "attackEffect":"shelly_def_atk",
         "useEffect":null,
         "endEffect":null,
         "loopEffect":null,
@@ -3868,6 +3946,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
+        "showTimerBar":null,
         "id":98
     },
     {
@@ -3876,40 +3955,40 @@
         "canMoveAtSameTime":true,
         "targeted":true,
         "canAutoShoot":true,
-        "cooldown":50,
-        "activeTime":250,
+        "cooldown":250,
+        "activeTime":150,
         "castingTime":null,
-        "castingRange":15,
+        "castingRange":23,
         "maxCastingRange":null,
         "rechargeTime":null,
         "maxCharge":null,
-        "damage":null,
-        "msBetweenAttacks":200,
-        "spread":null,
+        "damage":320,
+        "msBetweenAttacks":100,
+        "spread":100,
         "attackPattern":null,
-        "numBulletsInOneAttack":1,
+        "numBulletsInOneAttack":9,
         "twoGuns":null,
         "executeFirstAttackImmediately":true,
         "chargePushback":null,
         "chargeSpeed":null,
         "chargeType":null,
-        "numSpawns":1,
-        "maxSpawns":1,
+        "numSpawns":null,
+        "maxSpawns":null,
         "breakInvisibilityOnAttack":null,
         "seeInvisibilityDistance":null,
         "alwaysCastAtMaxRange":null,
-        "projectile":"BeeSniperUltiProjectile",
-        "summonedCharacter":"BeePet",
+        "projectile":"ShotgunGirlUltiProjectile",
+        "summonedCharacter":null,
         "areaEffectObject":null,
         "areaEffectObject2":null,
         "spawnedItem":null,
         "iconSWF":null,
-        "iconExportName":"skillicon_build_bigger_turret",
+        "iconExportName":"skillicon_megablast",
         "largeIconSWF":null,
         "largeIconExportName":null,
         "buttonSWF":"sc\/ui.sc",
-        "buttonExportName":"turret_button",
-        "attackEffect":"shaman_ulti",
+        "buttonExportName":"rapid_fire_button",
+        "attackEffect":"shelly_def_ulti",
         "useEffect":null,
         "endEffect":null,
         "loopEffect":null,
@@ -3917,6 +3996,7 @@
         "chargeMoveSound":null,
         "multiShot":null,
         "skillCanChange":null,
+        "showTimerBar":null,
         "id":99
     },
     {
@@ -3947,7 +4027,7 @@
         "breakInvisibilityOnAttack":null,
         "seeInvisibilityDistance":null,
         "alwaysCastAtMaxRange":null,
-        "projectile":"RaidBossProjectileRed",
+        "projectile":"BossRaceBossProjectile",
         "summonedCharacter":null,
         "areaEffectObject":null,
         "areaEffectObject2":null,
@@ -3965,7 +4045,8 @@
         "loopEffect2":null,
         "chargeMoveSound":null,
         "multiShot":null,
-        "skillCanChange":null,
+        "skillCanChange":true,
+        "showTimerBar":null,
         "id":100
     },
     {
@@ -4008,13 +4089,264 @@
         "buttonSWF":"sc\/ui.sc",
         "buttonExportName":"charge_button",
         "attackEffect":null,
-        "useEffect":"bossrace_skill_warning",
+        "useEffect":null,
         "endEffect":null,
         "loopEffect":"bull_dude_ulti_loop",
         "loopEffect2":null,
         "chargeMoveSound":"Rhinostep",
         "multiShot":null,
         "skillCanChange":null,
+        "showTimerBar":null,
         "id":101
+    },
+    {
+        "name":"MummyWeapon",
+        "behaviorType":"Attack",
+        "canMoveAtSameTime":true,
+        "targeted":true,
+        "canAutoShoot":true,
+        "cooldown":250,
+        "activeTime":150,
+        "castingTime":null,
+        "castingRange":20,
+        "maxCastingRange":null,
+        "rechargeTime":2100,
+        "maxCharge":3,
+        "damage":500,
+        "msBetweenAttacks":100,
+        "spread":80,
+        "attackPattern":5,
+        "numBulletsInOneAttack":5,
+        "twoGuns":null,
+        "executeFirstAttackImmediately":true,
+        "chargePushback":null,
+        "chargeSpeed":null,
+        "chargeType":null,
+        "numSpawns":null,
+        "maxSpawns":null,
+        "breakInvisibilityOnAttack":null,
+        "seeInvisibilityDistance":null,
+        "alwaysCastAtMaxRange":null,
+        "projectile":"MummyProjectile",
+        "summonedCharacter":null,
+        "areaEffectObject":null,
+        "areaEffectObject2":null,
+        "spawnedItem":null,
+        "iconSWF":null,
+        "iconExportName":null,
+        "largeIconSWF":null,
+        "largeIconExportName":null,
+        "buttonSWF":"sc\/ui.sc",
+        "buttonExportName":"rapid_fire_button",
+        "attackEffect":"emz_def_atk",
+        "useEffect":null,
+        "endEffect":null,
+        "loopEffect":null,
+        "loopEffect2":null,
+        "chargeMoveSound":null,
+        "multiShot":null,
+        "skillCanChange":null,
+        "showTimerBar":null,
+        "id":102
+    },
+    {
+        "name":"MummyUlti",
+        "behaviorType":"AreaBuff",
+        "canMoveAtSameTime":true,
+        "targeted":null,
+        "canAutoShoot":true,
+        "cooldown":50,
+        "activeTime":5000,
+        "castingTime":null,
+        "castingRange":null,
+        "maxCastingRange":null,
+        "rechargeTime":null,
+        "maxCharge":null,
+        "damage":200,
+        "msBetweenAttacks":70,
+        "spread":null,
+        "attackPattern":null,
+        "numBulletsInOneAttack":null,
+        "twoGuns":null,
+        "executeFirstAttackImmediately":null,
+        "chargePushback":null,
+        "chargeSpeed":null,
+        "chargeType":null,
+        "numSpawns":null,
+        "maxSpawns":null,
+        "breakInvisibilityOnAttack":null,
+        "seeInvisibilityDistance":null,
+        "alwaysCastAtMaxRange":null,
+        "projectile":null,
+        "summonedCharacter":null,
+        "areaEffectObject":"MummyUltiArea",
+        "areaEffectObject2":null,
+        "spawnedItem":null,
+        "iconSWF":null,
+        "iconExportName":null,
+        "largeIconSWF":null,
+        "largeIconExportName":null,
+        "buttonSWF":"sc\/ui.sc",
+        "buttonExportName":"button_sprint",
+        "attackEffect":null,
+        "useEffect":"emz_def_ulti_use",
+        "endEffect":null,
+        "loopEffect":"Dummy_effect",
+        "loopEffect2":null,
+        "chargeMoveSound":null,
+        "multiShot":null,
+        "skillCanChange":null,
+        "showTimerBar":true,
+        "id":103
+    },
+    {
+        "name":"BossRaceBossChainLightning",
+        "behaviorType":"Attack",
+        "canMoveAtSameTime":null,
+        "targeted":true,
+        "canAutoShoot":null,
+        "cooldown":50,
+        "activeTime":1050,
+        "castingTime":750,
+        "castingRange":60,
+        "maxCastingRange":null,
+        "rechargeTime":1250,
+        "maxCharge":3,
+        "damage":1400,
+        "msBetweenAttacks":200,
+        "spread":150,
+        "attackPattern":2,
+        "numBulletsInOneAttack":1,
+        "twoGuns":null,
+        "executeFirstAttackImmediately":true,
+        "chargePushback":null,
+        "chargeSpeed":null,
+        "chargeType":null,
+        "numSpawns":null,
+        "maxSpawns":null,
+        "breakInvisibilityOnAttack":null,
+        "seeInvisibilityDistance":null,
+        "alwaysCastAtMaxRange":null,
+        "projectile":"BossRaceBossLightningProjectile1",
+        "summonedCharacter":null,
+        "areaEffectObject":null,
+        "areaEffectObject2":null,
+        "spawnedItem":null,
+        "iconSWF":null,
+        "iconExportName":null,
+        "largeIconSWF":null,
+        "largeIconExportName":null,
+        "buttonSWF":"sc\/ui.sc",
+        "buttonExportName":"rapid_fire_button",
+        "attackEffect":"raid_boss_ranged_attack",
+        "useEffect":"bossrace_skill_warning",
+        "endEffect":null,
+        "loopEffect":null,
+        "loopEffect2":null,
+        "chargeMoveSound":null,
+        "multiShot":null,
+        "skillCanChange":true,
+        "showTimerBar":null,
+        "id":104
+    },
+    {
+        "name":"BossRaceBossRockets",
+        "behaviorType":"Attack",
+        "canMoveAtSameTime":null,
+        "targeted":true,
+        "canAutoShoot":null,
+        "cooldown":50,
+        "activeTime":1050,
+        "castingTime":750,
+        "castingRange":60,
+        "maxCastingRange":null,
+        "rechargeTime":1250,
+        "maxCharge":3,
+        "damage":700,
+        "msBetweenAttacks":200,
+        "spread":750,
+        "attackPattern":null,
+        "numBulletsInOneAttack":1,
+        "twoGuns":null,
+        "executeFirstAttackImmediately":true,
+        "chargePushback":null,
+        "chargeSpeed":null,
+        "chargeType":null,
+        "numSpawns":null,
+        "maxSpawns":null,
+        "breakInvisibilityOnAttack":null,
+        "seeInvisibilityDistance":null,
+        "alwaysCastAtMaxRange":null,
+        "projectile":"BossRaceBossRocketProjectile",
+        "summonedCharacter":null,
+        "areaEffectObject":null,
+        "areaEffectObject2":null,
+        "spawnedItem":null,
+        "iconSWF":null,
+        "iconExportName":null,
+        "largeIconSWF":null,
+        "largeIconExportName":null,
+        "buttonSWF":"sc\/ui.sc",
+        "buttonExportName":"rapid_fire_button",
+        "attackEffect":"raid_boss_ranged_attack",
+        "useEffect":"bossrace_skill_warning",
+        "endEffect":null,
+        "loopEffect":null,
+        "loopEffect2":null,
+        "chargeMoveSound":null,
+        "multiShot":null,
+        "skillCanChange":true,
+        "showTimerBar":null,
+        "id":105
+    },
+    {
+        "name":"SpawnerDudeUlti",
+        "behaviorType":"Attack",
+        "canMoveAtSameTime":true,
+        "targeted":true,
+        "canAutoShoot":true,
+        "cooldown":250,
+        "activeTime":150,
+        "castingTime":null,
+        "castingRange":23,
+        "maxCastingRange":null,
+        "rechargeTime":1500,
+        "maxCharge":3,
+        "damage":300,
+        "msBetweenAttacks":100,
+        "spread":60,
+        "attackPattern":null,
+        "numBulletsInOneAttack":5,
+        "twoGuns":null,
+        "executeFirstAttackImmediately":true,
+        "chargePushback":null,
+        "chargeSpeed":null,
+        "chargeType":null,
+        "numSpawns":null,
+        "maxSpawns":null,
+        "breakInvisibilityOnAttack":null,
+        "seeInvisibilityDistance":null,
+        "alwaysCastAtMaxRange":null,
+        "projectile":"ShotgunGirlProjectile",
+        "summonedCharacter":null,
+        "areaEffectObject":null,
+        "areaEffectObject2":null,
+        "spawnedItem":null,
+        "iconSWF":null,
+        "iconExportName":null,
+        "largeIconSWF":null,
+        "largeIconExportName":null,
+        "buttonSWF":"sc\/ui.sc",
+        "buttonExportName":"rapid_fire_button",
+        "attackEffect":"shelly_def_atk",
+        "useEffect":null,
+        "endEffect":null,
+        "loopEffect":null,
+        "loopEffect2":null,
+        "chargeMoveSound":null,
+        "multiShot":null,
+        "skillCanChange":null,
+        "showTimerBar":null,
+        "id":106
     }
 ]
