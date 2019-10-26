@@ -19,8 +19,14 @@
     {
         "name":"UpgradeMaterial",
         "offerType":1,
-        "iconFrameNumber":0,
-        "maxResourcePerFrame":200,
+        "iconFrameNumber":[
+            0,
+            1
+        ],
+        "maxResourcePerFrame":[
+            10,
+            50
+        ],
         "fileName":"sc\/ui.sc",
         "shopItemAsset":"shop_item_resourses_coins",
         "shopItemBg":"shop_price_wrapper_1",
@@ -36,8 +42,8 @@
     {
         "name":null,
         "offerType":null,
-        "iconFrameNumber":1,
-        "maxResourcePerFrame":500,
+        "iconFrameNumber":null,
+        "maxResourcePerFrame":null,
         "fileName":null,
         "shopItemAsset":null,
         "shopItemBg":null,
@@ -53,8 +59,8 @@
     {
         "name":null,
         "offerType":null,
-        "iconFrameNumber":2,
-        "maxResourcePerFrame":1500,
+        "iconFrameNumber":null,
+        "maxResourcePerFrame":null,
         "fileName":null,
         "shopItemAsset":null,
         "shopItemBg":null,
@@ -70,8 +76,8 @@
     {
         "name":null,
         "offerType":null,
-        "iconFrameNumber":3,
-        "maxResourcePerFrame":-1,
+        "iconFrameNumber":null,
+        "maxResourcePerFrame":null,
         "fileName":null,
         "shopItemAsset":null,
         "shopItemBg":null,
@@ -172,8 +178,16 @@
     {
         "name":"Ticket",
         "offerType":7,
-        "iconFrameNumber":0,
-        "maxResourcePerFrame":10,
+        "iconFrameNumber":[
+            0,
+            1,
+            2
+        ],
+        "maxResourcePerFrame":[
+            10,
+            50,
+            -1
+        ],
         "fileName":"sc\/ui.sc",
         "shopItemAsset":"shop_item_resourses_tickets",
         "shopItemBg":"shop_price_wrapper_1",
@@ -189,8 +203,8 @@
     {
         "name":null,
         "offerType":null,
-        "iconFrameNumber":1,
-        "maxResourcePerFrame":50,
+        "iconFrameNumber":null,
+        "maxResourcePerFrame":null,
         "fileName":null,
         "shopItemAsset":null,
         "shopItemBg":null,
@@ -206,8 +220,8 @@
     {
         "name":null,
         "offerType":null,
-        "iconFrameNumber":2,
-        "maxResourcePerFrame":-1,
+        "iconFrameNumber":null,
+        "maxResourcePerFrame":null,
         "fileName":null,
         "shopItemAsset":null,
         "shopItemBg":null,

@@ -6,7 +6,6 @@ Generate data JSON from APK CSV source.
 import copy
 import csv
 import os
-import sys
 try:
     import ujson as json
 except ImportError:
@@ -15,6 +14,39 @@ except ImportError:
 import requests
 import yaml
 from argparse import ArgumentParser
+
+def cleanup(value):
+    if isinstance(value, str):
+        # Typing
+        if value.startswith('TID_'):
+            i['raw' + j[0].upper() + j[1:]] = value.replace('TID_', '')
+
+        elif '.' in value:
+            try:
+                value = float(value)
+            except ValueError:
+                pass
+        else:
+            try:
+                value = int(value)
+            except ValueError:
+                pass
+
+        if isinstance(value, str):
+            if value.lower() == 'true':
+                value = True
+            elif value.lower() == 'false':
+                value = False
+
+    if value == '':
+        value = None
+
+    # Clean
+    elif isinstance(value, str):
+        value = value.strip()
+
+    return value
+
 
 parser = ArgumentParser(description='Parse CSV files from Brawl Stars')
 parser.add_argument('-l', '--language', dest='language')
@@ -87,42 +119,37 @@ if __name__ == '__main__':
 
             sc_id_index = 0
             for n, i in enumerate(data):
+                i_keys = list(i.keys())
+                if not i.get('name', True):
+                    for j in i_keys:
+                        i[j] = cleanup(i[j])
+                        if i[j]:
+                            offset = 0
+                            for k in range(1, n):
+                                if data[n - k].get('name'):
+                                    offset = k
+                                    offset = n - k
+                                    break
+                            if isinstance(data[n - offset][j], list):
+                                data[n - offset][j].append(i[j])
+                            if isinstance(data[offset][j], list):
+                                data[offset][j].append(i[j])
+                            else:
+                                data[n - offset][j] = [data[n - 1][j], i[j]]
+                                data[offset][j] = [data[n - 1][j], i[j]]
+                            i[j] = None
+
                 if fn in config['id']:
                     i['id'] = config['id'][fn] + n
                 if fn in config['scId']:
-                    if i.get('name', True):
+                    if not i.get('tID') or TID['en'].get(i['tID']):
                         i['scId'] = config['scId'][fn] + sc_id_index
                         sc_id_index += 1
-                i_keys = list(i.keys())
+                    else:
+                        i['scId'] = 0
+
                 for j in i_keys:
-                    if isinstance(i[j], str):
-                        # Typing
-                        if i[j].startswith('TID_'):
-                            i['raw' + j[0].upper() + j[1:]] = i[j].replace('TID_', '')
-
-                        elif '.' in i[j]:
-                            try:
-                                i[j] = float(i[j])
-                            except ValueError:
-                                pass
-                        else:
-                            try:
-                                i[j] = int(i[j])
-                            except ValueError:
-                                pass
-
-                        if isinstance(i[j], str):
-                            if i[j].lower() == 'true':
-                                i[j] = True
-                            elif i[j].lower() == 'false':
-                                i[j] = False
-
-                    if i[j] == '':
-                        i[j] = None
-
-                    # Clean
-                    elif isinstance(i[j], str):
-                        i[j] = i[j].strip()
+                    i[j] = cleanup(i[j])
 
             if fn == 'maps.csv':
                 # make maps look cool

@@ -14,9 +14,18 @@
         "numberValue":null,
         "booleanValue":null,
         "textValue":null,
-        "numberArray":null,
-        "stringArray":null,
-        "altStringArray":null,
+        "numberArray":[
+            0,
+            2
+        ],
+        "stringArray":[
+            "0xff4d4848",
+            "0xffe1e1e1"
+        ],
+        "altStringArray":[
+            "Gem Grab",
+            "Heist"
+        ],
         "id":10
     },
     {
@@ -135,7 +144,21 @@
         "booleanValue":null,
         "textValue":null,
         "numberArray":null,
-        "stringArray":"EN",
+        "stringArray":[
+            "EN",
+            "DE",
+            "IT",
+            "FR",
+            "ES",
+            "PT",
+            "NL",
+            "CN",
+            "JP",
+            "KR",
+            "TR",
+            "NO",
+            "RU"
+        ],
         "altStringArray":null,
         "id":22
     },
@@ -145,7 +168,7 @@
         "booleanValue":null,
         "textValue":null,
         "numberArray":null,
-        "stringArray":"DE",
+        "stringArray":null,
         "altStringArray":null,
         "id":23
     },
@@ -155,7 +178,7 @@
         "booleanValue":null,
         "textValue":null,
         "numberArray":null,
-        "stringArray":"IT",
+        "stringArray":null,
         "altStringArray":null,
         "id":24
     },
@@ -165,7 +188,7 @@
         "booleanValue":null,
         "textValue":null,
         "numberArray":null,
-        "stringArray":"FR",
+        "stringArray":null,
         "altStringArray":null,
         "id":25
     },
@@ -175,7 +198,7 @@
         "booleanValue":null,
         "textValue":null,
         "numberArray":null,
-        "stringArray":"ES",
+        "stringArray":null,
         "altStringArray":null,
         "id":26
     },
@@ -185,7 +208,7 @@
         "booleanValue":null,
         "textValue":null,
         "numberArray":null,
-        "stringArray":"PT",
+        "stringArray":null,
         "altStringArray":null,
         "id":27
     },
@@ -195,7 +218,7 @@
         "booleanValue":null,
         "textValue":null,
         "numberArray":null,
-        "stringArray":"NL",
+        "stringArray":null,
         "altStringArray":null,
         "id":28
     },
@@ -205,7 +228,7 @@
         "booleanValue":null,
         "textValue":null,
         "numberArray":null,
-        "stringArray":"CN",
+        "stringArray":null,
         "altStringArray":null,
         "id":29
     },
@@ -215,7 +238,7 @@
         "booleanValue":null,
         "textValue":null,
         "numberArray":null,
-        "stringArray":"JP",
+        "stringArray":null,
         "altStringArray":null,
         "id":30
     },
@@ -225,7 +248,7 @@
         "booleanValue":null,
         "textValue":null,
         "numberArray":null,
-        "stringArray":"KR",
+        "stringArray":null,
         "altStringArray":null,
         "id":31
     },
@@ -235,7 +258,7 @@
         "booleanValue":null,
         "textValue":null,
         "numberArray":null,
-        "stringArray":"TR",
+        "stringArray":null,
         "altStringArray":null,
         "id":32
     },
@@ -245,7 +268,7 @@
         "booleanValue":null,
         "textValue":null,
         "numberArray":null,
-        "stringArray":"NO",
+        "stringArray":null,
         "altStringArray":null,
         "id":33
     },
@@ -255,7 +278,7 @@
         "booleanValue":null,
         "textValue":null,
         "numberArray":null,
-        "stringArray":"RU",
+        "stringArray":null,
         "altStringArray":null,
         "id":34
     },
@@ -295,7 +318,14 @@
         "booleanValue":null,
         "textValue":null,
         "numberArray":null,
-        "stringArray":"Purchasing Issue",
+        "stringArray":[
+            "Purchasing Issue",
+            "Connection Issue",
+            "Report Problem",
+            "Feedback",
+            "Lost Village",
+            "Account Locked"
+        ],
         "altStringArray":null,
         "id":38
     },
@@ -305,7 +335,7 @@
         "booleanValue":null,
         "textValue":null,
         "numberArray":null,
-        "stringArray":"Connection Issue",
+        "stringArray":null,
         "altStringArray":null,
         "id":39
     },
@@ -315,7 +345,7 @@
         "booleanValue":null,
         "textValue":null,
         "numberArray":null,
-        "stringArray":"Report Problem",
+        "stringArray":null,
         "altStringArray":null,
         "id":40
     },
@@ -325,7 +355,7 @@
         "booleanValue":null,
         "textValue":null,
         "numberArray":null,
-        "stringArray":"Feedback",
+        "stringArray":null,
         "altStringArray":null,
         "id":41
     },
@@ -335,7 +365,7 @@
         "booleanValue":null,
         "textValue":null,
         "numberArray":null,
-        "stringArray":"Lost Village",
+        "stringArray":null,
         "altStringArray":null,
         "id":42
     },
@@ -345,7 +375,7 @@
         "booleanValue":null,
         "textValue":null,
         "numberArray":null,
-        "stringArray":"Account Locked",
+        "stringArray":null,
         "altStringArray":null,
         "id":43
     },
@@ -425,7 +455,15 @@
         "booleanValue":null,
         "textValue":null,
         "numberArray":null,
-        "stringArray":"iPod1",
+        "stringArray":[
+            "iPod1",
+            "iPod2",
+            "iPod3",
+            "iPod4",
+            "iPad1",
+            "iPhone2",
+            "st25i"
+        ],
         "altStringArray":null,
         "id":51
     },
@@ -435,7 +473,7 @@
         "booleanValue":null,
         "textValue":null,
         "numberArray":null,
-        "stringArray":"iPod2",
+        "stringArray":null,
         "altStringArray":null,
         "id":52
     },
@@ -445,7 +483,7 @@
         "booleanValue":null,
         "textValue":null,
         "numberArray":null,
-        "stringArray":"iPod3",
+        "stringArray":null,
         "altStringArray":null,
         "id":53
     },
@@ -455,7 +493,7 @@
         "booleanValue":null,
         "textValue":null,
         "numberArray":null,
-        "stringArray":"iPod4",
+        "stringArray":null,
         "altStringArray":null,
         "id":54
     },
@@ -465,7 +503,7 @@
         "booleanValue":null,
         "textValue":null,
         "numberArray":null,
-        "stringArray":"iPad1",
+        "stringArray":null,
         "altStringArray":null,
         "id":55
     },
@@ -475,7 +513,7 @@
         "booleanValue":null,
         "textValue":null,
         "numberArray":null,
-        "stringArray":"iPhone2",
+        "stringArray":null,
         "altStringArray":null,
         "id":56
     },
@@ -485,7 +523,7 @@
         "booleanValue":null,
         "textValue":null,
         "numberArray":null,
-        "stringArray":"st25i",
+        "stringArray":null,
         "altStringArray":null,
         "id":57
     },
@@ -495,7 +533,13 @@
         "booleanValue":null,
         "textValue":null,
         "numberArray":null,
-        "stringArray":"iPad2,1",
+        "stringArray":[
+            "iPad2,1",
+            "iPad2,2",
+            "iPad2,3",
+            "iPad2,4",
+            "iPod5"
+        ],
         "altStringArray":null,
         "id":58
     },
@@ -505,7 +549,7 @@
         "booleanValue":null,
         "textValue":null,
         "numberArray":null,
-        "stringArray":"iPad2,2",
+        "stringArray":null,
         "altStringArray":null,
         "id":59
     },
@@ -515,7 +559,7 @@
         "booleanValue":null,
         "textValue":null,
         "numberArray":null,
-        "stringArray":"iPad2,3",
+        "stringArray":null,
         "altStringArray":null,
         "id":60
     },
@@ -525,7 +569,7 @@
         "booleanValue":null,
         "textValue":null,
         "numberArray":null,
-        "stringArray":"iPad2,4",
+        "stringArray":null,
         "altStringArray":null,
         "id":61
     },
@@ -535,7 +579,7 @@
         "booleanValue":null,
         "textValue":null,
         "numberArray":null,
-        "stringArray":"iPod5",
+        "stringArray":null,
         "altStringArray":null,
         "id":62
     },
@@ -545,7 +589,19 @@
         "booleanValue":null,
         "textValue":null,
         "numberArray":null,
-        "stringArray":"iPod1",
+        "stringArray":[
+            "iPod1",
+            "iPod2",
+            "iPod3",
+            "iPod4",
+            "iPad1",
+            "iPhone2",
+            "iPhone3",
+            "iPhone4",
+            "iPad2,5",
+            "iPad2,6",
+            "iPad2,7"
+        ],
         "altStringArray":null,
         "id":63
     },
@@ -555,7 +611,7 @@
         "booleanValue":null,
         "textValue":null,
         "numberArray":null,
-        "stringArray":"iPod2",
+        "stringArray":null,
         "altStringArray":null,
         "id":64
     },
@@ -565,7 +621,7 @@
         "booleanValue":null,
         "textValue":null,
         "numberArray":null,
-        "stringArray":"iPod3",
+        "stringArray":null,
         "altStringArray":null,
         "id":65
     },
@@ -575,7 +631,7 @@
         "booleanValue":null,
         "textValue":null,
         "numberArray":null,
-        "stringArray":"iPod4",
+        "stringArray":null,
         "altStringArray":null,
         "id":66
     },
@@ -585,7 +641,7 @@
         "booleanValue":null,
         "textValue":null,
         "numberArray":null,
-        "stringArray":"iPad1",
+        "stringArray":null,
         "altStringArray":null,
         "id":67
     },
@@ -595,7 +651,7 @@
         "booleanValue":null,
         "textValue":null,
         "numberArray":null,
-        "stringArray":"iPhone2",
+        "stringArray":null,
         "altStringArray":null,
         "id":68
     },
@@ -605,7 +661,7 @@
         "booleanValue":null,
         "textValue":null,
         "numberArray":null,
-        "stringArray":"iPhone3",
+        "stringArray":null,
         "altStringArray":null,
         "id":69
     },
@@ -615,7 +671,7 @@
         "booleanValue":null,
         "textValue":null,
         "numberArray":null,
-        "stringArray":"iPhone4",
+        "stringArray":null,
         "altStringArray":null,
         "id":70
     },
@@ -625,7 +681,7 @@
         "booleanValue":null,
         "textValue":null,
         "numberArray":null,
-        "stringArray":"iPad2,5",
+        "stringArray":null,
         "altStringArray":null,
         "id":71
     },
@@ -635,7 +691,7 @@
         "booleanValue":null,
         "textValue":null,
         "numberArray":null,
-        "stringArray":"iPad2,6",
+        "stringArray":null,
         "altStringArray":null,
         "id":72
     },
@@ -645,7 +701,7 @@
         "booleanValue":null,
         "textValue":null,
         "numberArray":null,
-        "stringArray":"iPad2,7",
+        "stringArray":null,
         "altStringArray":null,
         "id":73
     },
@@ -785,7 +841,12 @@
         "booleanValue":null,
         "textValue":null,
         "numberArray":null,
-        "stringArray":"GT-N7000",
+        "stringArray":[
+            "GT-N7000",
+            "GT-i8190N",
+            "U8950",
+            "SM-T211"
+        ],
         "altStringArray":null,
         "id":87
     },
@@ -795,7 +856,7 @@
         "booleanValue":null,
         "textValue":null,
         "numberArray":null,
-        "stringArray":"GT-i8190N",
+        "stringArray":null,
         "altStringArray":null,
         "id":88
     },
@@ -805,7 +866,7 @@
         "booleanValue":null,
         "textValue":null,
         "numberArray":null,
-        "stringArray":"U8950",
+        "stringArray":null,
         "altStringArray":null,
         "id":89
     },
@@ -815,7 +876,7 @@
         "booleanValue":null,
         "textValue":null,
         "numberArray":null,
-        "stringArray":"SM-T211",
+        "stringArray":null,
         "altStringArray":null,
         "id":90
     },
@@ -1544,7 +1605,13 @@
         "numberValue":null,
         "booleanValue":null,
         "textValue":null,
-        "numberArray":10,
+        "numberArray":[
+            10,
+            50,
+            100,
+            150,
+            200
+        ],
         "stringArray":null,
         "altStringArray":null,
         "id":163
@@ -1554,7 +1621,7 @@
         "numberValue":null,
         "booleanValue":null,
         "textValue":null,
-        "numberArray":50,
+        "numberArray":null,
         "stringArray":null,
         "altStringArray":null,
         "id":164
@@ -1564,7 +1631,7 @@
         "numberValue":null,
         "booleanValue":null,
         "textValue":null,
-        "numberArray":100,
+        "numberArray":null,
         "stringArray":null,
         "altStringArray":null,
         "id":165
@@ -1574,7 +1641,7 @@
         "numberValue":null,
         "booleanValue":null,
         "textValue":null,
-        "numberArray":150,
+        "numberArray":null,
         "stringArray":null,
         "altStringArray":null,
         "id":166
@@ -1584,7 +1651,7 @@
         "numberValue":null,
         "booleanValue":null,
         "textValue":null,
-        "numberArray":200,
+        "numberArray":null,
         "stringArray":null,
         "altStringArray":null,
         "id":167
@@ -3275,7 +3342,10 @@
         "booleanValue":null,
         "textValue":null,
         "numberArray":null,
-        "stringArray":"EN",
+        "stringArray":[
+            "EN",
+            "CN"
+        ],
         "altStringArray":null,
         "id":336
     },
@@ -3285,7 +3355,7 @@
         "booleanValue":null,
         "textValue":null,
         "numberArray":null,
-        "stringArray":"CN",
+        "stringArray":null,
         "altStringArray":null,
         "id":337
     },
@@ -3435,7 +3505,10 @@
         "booleanValue":null,
         "textValue":null,
         "numberArray":null,
-        "stringArray":"https:\/\/www.youtube.com\/embed\/",
+        "stringArray":[
+            "https:\/\/www.youtube.com\/embed\/",
+            "about:blank"
+        ],
         "altStringArray":null,
         "id":352
     },
@@ -3445,7 +3518,7 @@
         "booleanValue":null,
         "textValue":null,
         "numberArray":null,
-        "stringArray":"about:blank",
+        "stringArray":null,
         "altStringArray":null,
         "id":353
     },
@@ -3455,7 +3528,13 @@
         "booleanValue":null,
         "textValue":null,
         "numberArray":null,
-        "stringArray":"kunlun-cdn.com",
+        "stringArray":[
+            "kunlun-cdn.com",
+            "accounts.google.com",
+            "video.qq.com",
+            "v.qq.com",
+            "qualtrics.com"
+        ],
         "altStringArray":null,
         "id":354
     },
@@ -3465,7 +3544,7 @@
         "booleanValue":null,
         "textValue":null,
         "numberArray":null,
-        "stringArray":"accounts.google.com",
+        "stringArray":null,
         "altStringArray":null,
         "id":355
     },
@@ -3475,7 +3554,7 @@
         "booleanValue":null,
         "textValue":null,
         "numberArray":null,
-        "stringArray":"video.qq.com",
+        "stringArray":null,
         "altStringArray":null,
         "id":356
     },
@@ -3485,7 +3564,7 @@
         "booleanValue":null,
         "textValue":null,
         "numberArray":null,
-        "stringArray":"v.qq.com",
+        "stringArray":null,
         "altStringArray":null,
         "id":357
     },
@@ -3495,7 +3574,7 @@
         "booleanValue":null,
         "textValue":null,
         "numberArray":null,
-        "stringArray":"qualtrics.com",
+        "stringArray":null,
         "altStringArray":null,
         "id":358
     },
@@ -3764,9 +3843,48 @@
         "numberValue":null,
         "booleanValue":null,
         "textValue":null,
-        "numberArray":0,
-        "stringArray":"0xffd852ff",
-        "altStringArray":"Gem Grab",
+        "numberArray":[
+            0,
+            2,
+            3,
+            6,
+            5,
+            7,
+            8,
+            9,
+            10,
+            11,
+            14,
+            15
+        ],
+        "stringArray":[
+            "0xffd852ff",
+            "0xffd852ff",
+            "0xff24d6ff",
+            "0xff91e136",
+            "0xff9ab1fd",
+            "0xffff6847",
+            "0xffff6847",
+            "0xff91e136",
+            "0xffff6847",
+            "0xffff6847",
+            "0xff3891ff",
+            "0xffe24e5a"
+        ],
+        "altStringArray":[
+            "Gem Grab",
+            "Heist",
+            "Bounty",
+            "Solo SD",
+            "Brawl Ball",
+            "Boss Fight",
+            "Robo Bumble",
+            "Duo SD",
+            "Raid Boss",
+            "Robo Wars",
+            "Takedown",
+            "Lone Star"
+        ],
         "id":385
     },
     {
@@ -3774,9 +3892,9 @@
         "numberValue":null,
         "booleanValue":null,
         "textValue":null,
-        "numberArray":2,
-        "stringArray":"0xffd852ff",
-        "altStringArray":"Heist",
+        "numberArray":null,
+        "stringArray":null,
+        "altStringArray":null,
         "id":386
     },
     {
@@ -3784,9 +3902,9 @@
         "numberValue":null,
         "booleanValue":null,
         "textValue":null,
-        "numberArray":3,
-        "stringArray":"0xff24d6ff",
-        "altStringArray":"Bounty",
+        "numberArray":null,
+        "stringArray":null,
+        "altStringArray":null,
         "id":387
     },
     {
@@ -3794,9 +3912,9 @@
         "numberValue":null,
         "booleanValue":null,
         "textValue":null,
-        "numberArray":6,
-        "stringArray":"0xff91e136",
-        "altStringArray":"Solo SD",
+        "numberArray":null,
+        "stringArray":null,
+        "altStringArray":null,
         "id":388
     },
     {
@@ -3804,9 +3922,9 @@
         "numberValue":null,
         "booleanValue":null,
         "textValue":null,
-        "numberArray":5,
-        "stringArray":"0xff9ab1fd",
-        "altStringArray":"Brawl Ball",
+        "numberArray":null,
+        "stringArray":null,
+        "altStringArray":null,
         "id":389
     },
     {
@@ -3814,9 +3932,9 @@
         "numberValue":null,
         "booleanValue":null,
         "textValue":null,
-        "numberArray":7,
-        "stringArray":"0xffff6847",
-        "altStringArray":"Boss Fight",
+        "numberArray":null,
+        "stringArray":null,
+        "altStringArray":null,
         "id":390
     },
     {
@@ -3824,9 +3942,9 @@
         "numberValue":null,
         "booleanValue":null,
         "textValue":null,
-        "numberArray":8,
-        "stringArray":"0xffff6847",
-        "altStringArray":"Robo Bumble",
+        "numberArray":null,
+        "stringArray":null,
+        "altStringArray":null,
         "id":391
     },
     {
@@ -3834,9 +3952,9 @@
         "numberValue":null,
         "booleanValue":null,
         "textValue":null,
-        "numberArray":9,
-        "stringArray":"0xff91e136",
-        "altStringArray":"Duo SD",
+        "numberArray":null,
+        "stringArray":null,
+        "altStringArray":null,
         "id":392
     },
     {
@@ -3844,9 +3962,9 @@
         "numberValue":null,
         "booleanValue":null,
         "textValue":null,
-        "numberArray":10,
-        "stringArray":"0xffff6847",
-        "altStringArray":"Raid Boss",
+        "numberArray":null,
+        "stringArray":null,
+        "altStringArray":null,
         "id":393
     },
     {
@@ -3854,9 +3972,9 @@
         "numberValue":null,
         "booleanValue":null,
         "textValue":null,
-        "numberArray":11,
-        "stringArray":"0xffff6847",
-        "altStringArray":"Robo Wars",
+        "numberArray":null,
+        "stringArray":null,
+        "altStringArray":null,
         "id":394
     },
     {
@@ -3864,9 +3982,9 @@
         "numberValue":null,
         "booleanValue":null,
         "textValue":null,
-        "numberArray":14,
-        "stringArray":"0xff3891ff",
-        "altStringArray":"Takedown",
+        "numberArray":null,
+        "stringArray":null,
+        "altStringArray":null,
         "id":395
     },
     {
@@ -3874,9 +3992,9 @@
         "numberValue":null,
         "booleanValue":null,
         "textValue":null,
-        "numberArray":15,
-        "stringArray":"0xffe24e5a",
-        "altStringArray":"Lone Star",
+        "numberArray":null,
+        "stringArray":null,
+        "altStringArray":null,
         "id":396
     },
     {
@@ -3885,7 +4003,18 @@
         "booleanValue":null,
         "textValue":null,
         "numberArray":null,
-        "stringArray":"0xff4d4848",
+        "stringArray":[
+            "0xff4d4848",
+            "0xffe1e1e1",
+            "0xfffd8067",
+            "0xff9aee2d",
+            "0xff2766cf",
+            "0xff61def1",
+            "0xfff871f8",
+            "0xffffd156",
+            "0xffd16eff",
+            "0xfffe6a71"
+        ],
         "altStringArray":null,
         "id":397
     },
@@ -3895,7 +4024,7 @@
         "booleanValue":null,
         "textValue":null,
         "numberArray":null,
-        "stringArray":"0xffe1e1e1",
+        "stringArray":null,
         "altStringArray":null,
         "id":398
     },
@@ -3905,7 +4034,7 @@
         "booleanValue":null,
         "textValue":null,
         "numberArray":null,
-        "stringArray":"0xfffd8067",
+        "stringArray":null,
         "altStringArray":null,
         "id":399
     },
@@ -3915,7 +4044,7 @@
         "booleanValue":null,
         "textValue":null,
         "numberArray":null,
-        "stringArray":"0xff9aee2d",
+        "stringArray":null,
         "altStringArray":null,
         "id":400
     },
@@ -3925,7 +4054,7 @@
         "booleanValue":null,
         "textValue":null,
         "numberArray":null,
-        "stringArray":"0xff2766cf",
+        "stringArray":null,
         "altStringArray":null,
         "id":401
     },
@@ -3935,7 +4064,7 @@
         "booleanValue":null,
         "textValue":null,
         "numberArray":null,
-        "stringArray":"0xff61def1",
+        "stringArray":null,
         "altStringArray":null,
         "id":402
     },
@@ -3945,7 +4074,7 @@
         "booleanValue":null,
         "textValue":null,
         "numberArray":null,
-        "stringArray":"0xfff871f8",
+        "stringArray":null,
         "altStringArray":null,
         "id":403
     },
@@ -3955,7 +4084,7 @@
         "booleanValue":null,
         "textValue":null,
         "numberArray":null,
-        "stringArray":"0xffffd156",
+        "stringArray":null,
         "altStringArray":null,
         "id":404
     },
@@ -3965,7 +4094,7 @@
         "booleanValue":null,
         "textValue":null,
         "numberArray":null,
-        "stringArray":"0xffd16eff",
+        "stringArray":null,
         "altStringArray":null,
         "id":405
     },
@@ -3975,7 +4104,7 @@
         "booleanValue":null,
         "textValue":null,
         "numberArray":null,
-        "stringArray":"0xfffe6a71",
+        "stringArray":null,
         "altStringArray":null,
         "id":406
     },

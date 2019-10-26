@@ -1,103 +1,130 @@
 [
     {
         "name":"FreeOffer",
-        "colors":"0xFF9FFF72",
+        "colors":[
+            "0xFF9FFF72",
+            [
+                "0xFF9FFF72",
+                "0xFF68E524"
+            ],
+            "0xFF68E524",
+            "0xFF9FFF72",
+            "0xFFE0FFA0"
+        ],
         "speed":40,
         "scale":100
     },
     {
         "name":null,
-        "colors":"0xFF68E524",
+        "colors":[
+            "0xFFFFDAAC",
+            "0xFFFFD12E"
+        ],
         "speed":null,
         "scale":null
     },
     {
         "name":null,
-        "colors":"0xFF68E524",
+        "colors":null,
         "speed":null,
         "scale":null
     },
     {
         "name":null,
-        "colors":"0xFF9FFF72",
+        "colors":null,
         "speed":null,
         "scale":null
     },
     {
         "name":null,
-        "colors":"0xFFE0FFA0",
+        "colors":null,
         "speed":null,
         "scale":null
     },
     {
         "name":"Golden",
-        "colors":"0xFFFFFABC",
+        "colors":[
+            "0xFFFFFABC",
+            "0xFFFFD12E",
+            "0xFFF29928",
+            "0xFFFFD12E"
+        ],
         "speed":50,
         "scale":100
     },
     {
         "name":null,
-        "colors":"0xFFFFD12E",
+        "colors":null,
         "speed":null,
         "scale":null
     },
     {
         "name":null,
-        "colors":"0xFFF29928",
+        "colors":null,
         "speed":null,
         "scale":null
     },
     {
         "name":null,
-        "colors":"0xFFFFD12E",
+        "colors":null,
         "speed":null,
         "scale":null
     },
     {
         "name":"Purple",
-        "colors":"0xFFFABCFF",
+        "colors":[
+            "0xFFFABCFF",
+            "0xFFD12EFF",
+            "0xFF9928F2",
+            "0xFFD12EFF"
+        ],
         "speed":50,
         "scale":100
     },
     {
         "name":null,
-        "colors":"0xFFD12EFF",
+        "colors":null,
         "speed":null,
         "scale":null
     },
     {
         "name":null,
-        "colors":"0xFF9928F2",
+        "colors":null,
         "speed":null,
         "scale":null
     },
     {
         "name":null,
-        "colors":"0xFFD12EFF",
+        "colors":null,
         "speed":null,
         "scale":null
     },
     {
         "name":"DoubleTokenGold",
-        "colors":"0xFFFFDAAC",
+        "colors":[
+            "0xFFFFDAAC",
+            "0xFFFFD12E",
+            "0xFFF29928",
+            "0xFFFFD12E"
+        ],
         "speed":50,
         "scale":70
     },
     {
         "name":null,
-        "colors":"0xFFFFD12E",
+        "colors":null,
         "speed":null,
         "scale":null
     },
     {
         "name":null,
-        "colors":"0xFFF29928",
+        "colors":null,
         "speed":null,
         "scale":null
     },
     {
         "name":null,
-        "colors":"0xFFFFD12E",
+        "colors":null,
         "speed":null,
         "scale":null
     }

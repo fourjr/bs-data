@@ -1,142 +1,238 @@
 [
     {
         "name":"BattleMusic",
-        "fileName":"music\/Slugfest_ingame_02.ogg",
-        "volume":70,
-        "loop":true,
+        "fileName":[
+            "music\/Slugfest_ingame_02.ogg",
+            [
+                "music\/Slugfest_ingame_02.ogg",
+                "music\/Slugfest_ingame_03.ogg"
+            ],
+            "music\/Slugfest_ingame_04.ogg",
+            "music\/Slugfest_ingame_06.ogg",
+            "music\/Slugfest_ingame_01.ogg",
+            "music\/Slugfest_ingame_07.ogg",
+            "music\/Slugfest_ingame_08.ogg"
+        ],
+        "volume":[
+            70,
+            [
+                70,
+                70
+            ],
+            70,
+            70,
+            70,
+            70,
+            70
+        ],
+        "loop":[
+            true,
+            [
+                true,
+                true
+            ],
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
         "playCount":null,
         "fadeOutTimeSec":null,
-        "durationSec":60,
+        "durationSec":[
+            60,
+            [
+                60,
+                90
+            ],
+            57,
+            75,
+            60,
+            71,
+            57
+        ],
         "id":12
     },
     {
         "name":null,
-        "fileName":"music\/Slugfest_ingame_03.ogg",
-        "volume":70,
-        "loop":true,
+        "fileName":[
+            "music\/brawloween_ingame_01.ogg",
+            "music\/brawloween_ingame_02.ogg"
+        ],
+        "volume":[
+            70,
+            70
+        ],
+        "loop":[
+            true,
+            true
+        ],
         "playCount":null,
         "fadeOutTimeSec":null,
-        "durationSec":90,
+        "durationSec":[
+            52,
+            56
+        ],
         "id":13
     },
     {
         "name":null,
-        "fileName":"music\/Slugfest_ingame_04.ogg",
-        "volume":70,
-        "loop":true,
+        "fileName":null,
+        "volume":null,
+        "loop":null,
         "playCount":null,
         "fadeOutTimeSec":null,
-        "durationSec":57,
+        "durationSec":null,
         "id":14
     },
     {
         "name":null,
-        "fileName":"music\/Slugfest_ingame_06.ogg",
-        "volume":70,
-        "loop":true,
+        "fileName":null,
+        "volume":null,
+        "loop":null,
         "playCount":null,
         "fadeOutTimeSec":null,
-        "durationSec":75,
+        "durationSec":null,
         "id":15
     },
     {
         "name":null,
-        "fileName":"music\/Slugfest_ingame_01.ogg",
-        "volume":70,
-        "loop":true,
+        "fileName":null,
+        "volume":null,
+        "loop":null,
         "playCount":null,
         "fadeOutTimeSec":null,
-        "durationSec":60,
+        "durationSec":null,
         "id":16
     },
     {
         "name":null,
-        "fileName":"music\/Slugfest_ingame_07.ogg",
-        "volume":70,
-        "loop":true,
+        "fileName":null,
+        "volume":null,
+        "loop":null,
         "playCount":null,
         "fadeOutTimeSec":null,
-        "durationSec":71,
+        "durationSec":null,
         "id":17
     },
     {
         "name":null,
-        "fileName":"music\/Slugfest_ingame_08.ogg",
-        "volume":70,
-        "loop":true,
+        "fileName":null,
+        "volume":null,
+        "loop":null,
         "playCount":null,
         "fadeOutTimeSec":null,
-        "durationSec":57,
+        "durationSec":null,
         "id":18
     },
     {
         "name":"Snow_brawl",
-        "fileName":"music\/Snow_brawl_01.ogg",
-        "volume":70,
-        "loop":true,
+        "fileName":[
+            "music\/Snow_brawl_01.ogg",
+            "music\/Snow_brawl_02.ogg",
+            "music\/Snow_brawl_03.ogg"
+        ],
+        "volume":[
+            70,
+            70,
+            70
+        ],
+        "loop":[
+            true,
+            true,
+            true
+        ],
         "playCount":null,
         "fadeOutTimeSec":null,
-        "durationSec":57,
+        "durationSec":[
+            57,
+            65,
+            57
+        ],
         "id":19
     },
     {
         "name":null,
-        "fileName":"music\/Snow_brawl_02.ogg",
-        "volume":70,
-        "loop":true,
+        "fileName":null,
+        "volume":null,
+        "loop":null,
         "playCount":null,
         "fadeOutTimeSec":null,
-        "durationSec":65,
+        "durationSec":null,
         "id":20
     },
     {
         "name":null,
-        "fileName":"music\/Snow_brawl_03.ogg",
-        "volume":70,
-        "loop":true,
+        "fileName":null,
+        "volume":null,
+        "loop":null,
         "playCount":null,
         "fadeOutTimeSec":null,
-        "durationSec":57,
+        "durationSec":null,
         "id":21
     },
     {
         "name":"Cny_levels",
-        "fileName":"music\/cny_ingame_01.ogg",
-        "volume":70,
-        "loop":true,
+        "fileName":[
+            "music\/cny_ingame_01.ogg",
+            "music\/cny_ingame_02.ogg"
+        ],
+        "volume":[
+            70,
+            70
+        ],
+        "loop":[
+            true,
+            true
+        ],
         "playCount":null,
         "fadeOutTimeSec":null,
-        "durationSec":64,
+        "durationSec":[
+            64,
+            56
+        ],
         "id":22
     },
     {
         "name":null,
-        "fileName":"music\/cny_ingame_02.ogg",
-        "volume":70,
-        "loop":true,
+        "fileName":null,
+        "volume":null,
+        "loop":null,
         "playCount":null,
         "fadeOutTimeSec":null,
-        "durationSec":56,
+        "durationSec":null,
         "id":23
     },
     {
         "name":"Retropolis_battle",
-        "fileName":"music\/retro_brawl_ingame_02.ogg",
-        "volume":70,
-        "loop":true,
+        "fileName":[
+            "music\/retro_brawl_ingame_02.ogg",
+            "music\/retro_brawl_ingame_01.ogg"
+        ],
+        "volume":[
+            70,
+            70
+        ],
+        "loop":[
+            true,
+            true
+        ],
         "playCount":null,
         "fadeOutTimeSec":null,
-        "durationSec":65,
+        "durationSec":[
+            65,
+            55
+        ],
         "id":24
     },
     {
         "name":null,
-        "fileName":"music\/retro_brawl_ingame_01.ogg",
-        "volume":70,
-        "loop":true,
+        "fileName":null,
+        "volume":null,
+        "loop":null,
         "playCount":null,
         "fadeOutTimeSec":null,
-        "durationSec":55,
+        "durationSec":null,
         "id":25
     },
     {
@@ -161,22 +257,34 @@
     },
     {
         "name":"Halloween_ingame",
-        "fileName":"music\/brawloween_ingame_01.ogg",
-        "volume":70,
-        "loop":true,
+        "fileName":[
+            "music\/brawloween_ingame_01.ogg",
+            "music\/brawloween_ingame_02.ogg"
+        ],
+        "volume":[
+            70,
+            70
+        ],
+        "loop":[
+            true,
+            true
+        ],
         "playCount":null,
         "fadeOutTimeSec":null,
-        "durationSec":52,
+        "durationSec":[
+            52,
+            56
+        ],
         "id":28
     },
     {
         "name":null,
-        "fileName":"music\/brawloween_ingame_02.ogg",
-        "volume":70,
-        "loop":true,
+        "fileName":null,
+        "volume":null,
+        "loop":null,
         "playCount":null,
         "fadeOutTimeSec":null,
-        "durationSec":56,
+        "durationSec":null,
         "id":29
     },
     {
