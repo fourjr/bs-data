@@ -15,12 +15,12 @@
         "booleanValue":null,
         "textValue":null,
         "numberArray":[
-            0,
-            2
+            90,
+            90
         ],
         "stringArray":[
-            "0xff4d4848",
-            "0xffe1e1e1"
+            "GM1913",
+            "HD1913"
         ],
         "altStringArray":[
             "Gem Grab",
@@ -2929,7 +2929,7 @@
     {
         "name":"SHOW_INGAME_MAINTENANCE_SCREEN",
         "numberValue":null,
-        "booleanValue":false,
+        "booleanValue":true,
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
@@ -3789,6 +3789,16 @@
         "id":379
     },
     {
+        "name":"RETRY_LOGIN_DURING_MAINTENANCE",
+        "numberValue":null,
+        "booleanValue":true,
+        "textValue":null,
+        "numberArray":null,
+        "stringArray":null,
+        "altStringArray":null,
+        "id":380
+    },
+    {
         "name":"NEW_HERO_CHANCE",
         "numberValue":48,
         "booleanValue":null,
@@ -3796,7 +3806,7 @@
         "numberArray":null,
         "stringArray":null,
         "altStringArray":null,
-        "id":380
+        "id":381
     },
     {
         "name":"ONLINE_MENU_WAIT_BEFORE_UPDATE_SECS",
@@ -3806,7 +3816,7 @@
         "numberArray":null,
         "stringArray":null,
         "altStringArray":null,
-        "id":381
+        "id":382
     },
     {
         "name":"ONLINE_MENU_AUTO_CLOSE_TIME_SECS",
@@ -3816,7 +3826,7 @@
         "numberArray":null,
         "stringArray":null,
         "altStringArray":null,
-        "id":382
+        "id":383
     },
     {
         "name":"ONLINE_MENU_NEW_ITEM_THROTTLE_SECS",
@@ -3826,7 +3836,7 @@
         "numberArray":null,
         "stringArray":null,
         "altStringArray":null,
-        "id":383
+        "id":384
     },
     {
         "name":"AUTO_OPEN_TEAM_LOOT_BAR",
@@ -3836,7 +3846,7 @@
         "numberArray":null,
         "stringArray":null,
         "altStringArray":null,
-        "id":384
+        "id":385
     },
     {
         "name":"GAME_MODE_VARIATION_COLORS",
@@ -3885,16 +3895,6 @@
             "Takedown",
             "Lone Star"
         ],
-        "id":385
-    },
-    {
-        "name":null,
-        "numberValue":null,
-        "booleanValue":null,
-        "textValue":null,
-        "numberArray":null,
-        "stringArray":null,
-        "altStringArray":null,
         "id":386
     },
     {
@@ -3998,6 +3998,16 @@
         "id":396
     },
     {
+        "name":null,
+        "numberValue":null,
+        "booleanValue":null,
+        "textValue":null,
+        "numberArray":null,
+        "stringArray":null,
+        "altStringArray":null,
+        "id":397
+    },
+    {
         "name":"DEFAULT_FONT_COLORS",
         "numberValue":null,
         "booleanValue":null,
@@ -4015,16 +4025,6 @@
             "0xffd16eff",
             "0xfffe6a71"
         ],
-        "altStringArray":null,
-        "id":397
-    },
-    {
-        "name":null,
-        "numberValue":null,
-        "booleanValue":null,
-        "textValue":null,
-        "numberArray":null,
-        "stringArray":null,
         "altStringArray":null,
         "id":398
     },
@@ -4109,6 +4109,16 @@
         "id":406
     },
     {
+        "name":null,
+        "numberValue":null,
+        "booleanValue":null,
+        "textValue":null,
+        "numberArray":null,
+        "stringArray":null,
+        "altStringArray":null,
+        "id":407
+    },
+    {
         "name":"COLOR_YOU",
         "numberValue":null,
         "booleanValue":null,
@@ -4116,6 +4126,104 @@
         "numberArray":null,
         "stringArray":null,
         "altStringArray":null,
-        "id":407
+        "id":408
+    },
+    {
+        "name":"BATTLE_FRAME_RATE",
+        "numberValue":null,
+        "booleanValue":null,
+        "textValue":null,
+        "numberArray":[
+            90,
+            90,
+            90,
+            90,
+            90,
+            90,
+            90,
+            120
+        ],
+        "stringArray":[
+            "GM1913",
+            "HD1913",
+            "HD1903",
+            "Phone 2",
+            "NX629J",
+            "PCLM10",
+            "RMX1931",
+            "ASUS_I001DC"
+        ],
+        "altStringArray":null,
+        "id":409
+    },
+    {
+        "name":null,
+        "numberValue":null,
+        "booleanValue":null,
+        "textValue":null,
+        "numberArray":null,
+        "stringArray":null,
+        "altStringArray":null,
+        "id":410
+    },
+    {
+        "name":null,
+        "numberValue":null,
+        "booleanValue":null,
+        "textValue":null,
+        "numberArray":null,
+        "stringArray":null,
+        "altStringArray":null,
+        "id":411
+    },
+    {
+        "name":null,
+        "numberValue":null,
+        "booleanValue":null,
+        "textValue":null,
+        "numberArray":null,
+        "stringArray":null,
+        "altStringArray":null,
+        "id":412
+    },
+    {
+        "name":null,
+        "numberValue":null,
+        "booleanValue":null,
+        "textValue":null,
+        "numberArray":null,
+        "stringArray":null,
+        "altStringArray":null,
+        "id":413
+    },
+    {
+        "name":null,
+        "numberValue":null,
+        "booleanValue":null,
+        "textValue":null,
+        "numberArray":null,
+        "stringArray":null,
+        "altStringArray":null,
+        "id":414
+    },
+    {
+        "name":null,
+        "numberValue":null,
+        "booleanValue":null,
+        "textValue":null,
+        "numberArray":null,
+        "stringArray":null,
+        "altStringArray":null,
+        "id":415
+    },
+    {
+        "name":null,
+        "numberValue":null,
+        "booleanValue":null,
+        "textValue":null,
+        "numberArray":null,
+        "stringArray":null,
+        "altStringArray":null,
+        "id":416
     }
 ]

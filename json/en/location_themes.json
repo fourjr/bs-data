@@ -1699,7 +1699,7 @@
         "respawningWallSCW":"sc3d\/ball_cactus.scw",
         "respawningWallMesh":"ball_cactus",
         "respawningWallAngleStep":1,
-        "respawningForestSCW":"sc3d\/grass3.scw",
+        "respawningForestSCW":"sc3d\/grass2.scw",
         "forestSCW":"sc3d\/grass3.scw",
         "destructableSCW":[
             "sc3d\/bone_single.scw",

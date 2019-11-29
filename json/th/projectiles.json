@@ -80,6 +80,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":6
     },
     {
@@ -163,6 +167,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":7
     },
     {
@@ -246,6 +254,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":8
     },
     {
@@ -329,6 +341,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":9
     },
     {
@@ -412,6 +428,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":10
     },
     {
@@ -495,6 +515,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":11
     },
     {
@@ -578,6 +602,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":12
     },
     {
@@ -661,6 +689,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":13
     },
     {
@@ -744,6 +776,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":14
     },
     {
@@ -827,6 +863,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":15
     },
     {
@@ -910,6 +950,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":16
     },
     {
@@ -993,6 +1037,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":17
     },
     {
@@ -1076,6 +1124,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":18
     },
     {
@@ -1159,6 +1211,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":19
     },
     {
@@ -1242,6 +1298,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":20
     },
     {
@@ -1325,6 +1385,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":21
     },
     {
@@ -1408,6 +1472,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":22
     },
     {
@@ -1491,6 +1559,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":23
     },
     {
@@ -1574,6 +1646,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":24
     },
     {
@@ -1657,6 +1733,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":25
     },
     {
@@ -1740,6 +1820,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":26
     },
     {
@@ -1823,6 +1907,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":27
     },
     {
@@ -1906,6 +1994,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":28
     },
     {
@@ -1989,6 +2081,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":29
     },
     {
@@ -2072,6 +2168,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":30
     },
     {
@@ -2155,6 +2255,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":31
     },
     {
@@ -2238,6 +2342,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":32
     },
     {
@@ -2321,6 +2429,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":33
     },
     {
@@ -2404,6 +2516,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":34
     },
     {
@@ -2487,6 +2603,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":35
     },
     {
@@ -2570,6 +2690,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":36
     },
     {
@@ -2653,6 +2777,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":37
     },
     {
@@ -2736,6 +2864,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":38
     },
     {
@@ -2819,6 +2951,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":39
     },
     {
@@ -2902,6 +3038,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":40
     },
     {
@@ -2985,6 +3125,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":41
     },
     {
@@ -3068,6 +3212,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":42
     },
     {
@@ -3151,6 +3299,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":43
     },
     {
@@ -3234,6 +3386,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":44
     },
     {
@@ -3317,6 +3473,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":45
     },
     {
@@ -3400,6 +3560,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":46
     },
     {
@@ -3483,6 +3647,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":47
     },
     {
@@ -3566,6 +3734,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":48
     },
     {
@@ -3649,6 +3821,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":49
     },
     {
@@ -3732,6 +3908,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":50
     },
     {
@@ -3815,6 +3995,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":51
     },
     {
@@ -3898,6 +4082,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":52
     },
     {
@@ -3981,6 +4169,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":53
     },
     {
@@ -4064,6 +4256,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":54
     },
     {
@@ -4147,6 +4343,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":55
     },
     {
@@ -4230,6 +4430,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":56
     },
     {
@@ -4313,6 +4517,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":57
     },
     {
@@ -4396,6 +4604,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":58
     },
     {
@@ -4479,6 +4691,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":59
     },
     {
@@ -4562,6 +4778,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":60
     },
     {
@@ -4645,6 +4865,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":61
     },
     {
@@ -4728,6 +4952,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":62
     },
     {
@@ -4811,6 +5039,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":63
     },
     {
@@ -4894,6 +5126,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":64
     },
     {
@@ -4977,6 +5213,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":65
     },
     {
@@ -5060,6 +5300,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":66
     },
     {
@@ -5143,6 +5387,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":67
     },
     {
@@ -5226,6 +5474,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":68
     },
     {
@@ -5309,6 +5561,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":69
     },
     {
@@ -5392,6 +5648,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":70
     },
     {
@@ -5475,6 +5735,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":71
     },
     {
@@ -5558,6 +5822,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":72
     },
     {
@@ -5641,6 +5909,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":73
     },
     {
@@ -5724,6 +5996,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":74
     },
     {
@@ -5807,6 +6083,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":75
     },
     {
@@ -5890,6 +6170,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":76
     },
     {
@@ -5973,6 +6257,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":77
     },
     {
@@ -6056,6 +6344,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":78
     },
     {
@@ -6139,6 +6431,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":79
     },
     {
@@ -6222,6 +6518,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":80
     },
     {
@@ -6305,6 +6605,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":81
     },
     {
@@ -6388,6 +6692,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":82
     },
     {
@@ -6471,6 +6779,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":83
     },
     {
@@ -6554,6 +6866,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":84
     },
     {
@@ -6637,6 +6953,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":85
     },
     {
@@ -6720,6 +7040,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":86
     },
     {
@@ -6803,6 +7127,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":87
     },
     {
@@ -6886,6 +7214,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":88
     },
     {
@@ -6969,6 +7301,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":89
     },
     {
@@ -7052,6 +7388,10 @@
         "blockUltiCharge":null,
         "poisonType":1,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":90
     },
     {
@@ -7135,6 +7475,10 @@
         "blockUltiCharge":null,
         "poisonType":1,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":91
     },
     {
@@ -7218,6 +7562,10 @@
         "blockUltiCharge":null,
         "poisonType":3,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":92
     },
     {
@@ -7236,7 +7584,7 @@
         "preExplosionRedExportName":null,
         "preExplosionTimeMs":null,
         "hitEffectEnv":"Gen_hit",
-        "hitEffectChar":"Poison_hit",
+        "hitEffectChar":"crow_002_hit",
         "maxRangeReachedEffect":"crow_002_atk_reachaed",
         "radius":50,
         "indirect":null,
@@ -7301,6 +7649,10 @@
         "blockUltiCharge":null,
         "poisonType":3,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":93
     },
     {
@@ -7384,6 +7736,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":94
     },
     {
@@ -7467,6 +7823,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":95
     },
     {
@@ -7550,6 +7910,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":96
     },
     {
@@ -7633,6 +7997,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":97
     },
     {
@@ -7716,6 +8084,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":98
     },
     {
@@ -7799,6 +8171,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":99
     },
     {
@@ -7882,6 +8258,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":100
     },
     {
@@ -7965,6 +8345,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":101
     },
     {
@@ -8048,6 +8432,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":102
     },
     {
@@ -8131,6 +8519,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":103
     },
     {
@@ -8214,10 +8606,14 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":104
     },
     {
-        "name":"LuchadorProjectile",
+        "name":"PrimoDefProjectile",
         "parentProjectileForSkin":null,
         "speed":3261,
         "fileName":"sc\/effects_brawler.sc",
@@ -8297,7 +8693,98 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
         "id":105
+    },
+    {
+        "name":"Primo003Projectile",
+        "parentProjectileForSkin":"PrimoDefProjectile",
+        "speed":null,
+        "fileName":"sc\/effects_brawler.sc",
+        "blueSCW":"sc3d\/primo_003_atk_projectile_blue.scw",
+        "redSCW":"sc3d\/primo_003_atk_projectile_red.scw",
+        "blueExportName":null,
+        "redExportName":null,
+        "shadowExportName":"shadow_normal_circle_big",
+        "blueGroundGlowExportName":null,
+        "redGroundGlowExportName":null,
+        "preExplosionBlueExportName":null,
+        "preExplosionRedExportName":null,
+        "preExplosionTimeMs":null,
+        "hitEffectEnv":null,
+        "hitEffectChar":"primo_003_atk_hit",
+        "maxRangeReachedEffect":null,
+        "radius":150,
+        "indirect":null,
+        "constantFlyTime":null,
+        "triggerWithDelayMs":null,
+        "bouncePercent":null,
+        "gravity":0,
+        "earlyTicks":1,
+        "hideTime":0,
+        "scale":80,
+        "randomStartFrame":null,
+        "spawnAreaEffectObject":null,
+        "spawnAreaEffectObject2":null,
+        "spawnCharacter":null,
+        "spawnItem":null,
+        "trailEffect":"primo_003_atk",
+        "shotByHero":true,
+        "isBeam":null,
+        "isBouncing":null,
+        "distanceAddFromBounce":null,
+        "rendering":"UseZFrames",
+        "piercesCharacters":true,
+        "piercesEnvironment":null,
+        "piercesEnvironmentLikeButter":null,
+        "pushbackStrength":null,
+        "chainsToEnemies":null,
+        "chainBullets":null,
+        "chainSpread":null,
+        "chainTravelDistance":null,
+        "chainBullet":null,
+        "executeChainOnNoHit":null,
+        "damagePercentStart":null,
+        "damagePercentEnd":null,
+        "damagesConstantlyTickDelay":null,
+        "freezeStrength":null,
+        "stunLengthMS":null,
+        "scaleStart":20,
+        "scaleEnd":100,
+        "attractsPet":null,
+        "lifeStealPercent":null,
+        "passesEnvironment":null,
+        "poisonDamagePercent":null,
+        "damageOnlyWithOneProj":null,
+        "healOwnPercent":null,
+        "canGrowStronger":null,
+        "hideFaster":true,
+        "grapplesEnemy":null,
+        "kickBack":null,
+        "useColorMod":null,
+        "redAdd":null,
+        "greenAdd":null,
+        "blueAdd":null,
+        "redMul":null,
+        "greenMul":null,
+        "blueMul":null,
+        "groundBasis":null,
+        "minDistanceForSpread":null,
+        "isFriendlyHomingMissile":null,
+        "isBoomerang":null,
+        "canHitAgainAfterBounce":null,
+        "isHomingMissile":null,
+        "blockUltiCharge":null,
+        "poisonType":null,
+        "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
+        "id":106
     },
     {
         "name":"BlackHoleProjectile",
@@ -8380,7 +8867,11 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
-        "id":106
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
+        "id":107
     },
     {
         "name":"BlackHoleUltiProjectile",
@@ -8463,7 +8954,11 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
-        "id":107
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
+        "id":108
     },
     {
         "name":"BarrelBotProjectile",
@@ -8546,7 +9041,11 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
-        "id":108
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
+        "id":109
     },
     {
         "name":"Darryl002Projectile",
@@ -8629,7 +9128,11 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
-        "id":109
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
+        "id":110
     },
     {
         "name":"ArtilleryDudeProjectile",
@@ -8712,7 +9215,11 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
-        "id":110
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
+        "id":111
     },
     {
         "name":"ArtilleryDudeProjectile2",
@@ -8795,7 +9302,11 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
-        "id":111
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
+        "id":112
     },
     {
         "name":"ArtilleryDudeUltiProjectile",
@@ -8878,7 +9389,11 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
-        "id":112
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
+        "id":113
     },
     {
         "name":"ArtilleryDudeTurretProjectile",
@@ -8961,7 +9476,11 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
-        "id":113
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
+        "id":114
     },
     {
         "name":"Penny002Projectile",
@@ -9044,7 +9563,11 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
-        "id":114
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
+        "id":115
     },
     {
         "name":"Penny002Projectile2",
@@ -9127,7 +9650,11 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
-        "id":115
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
+        "id":116
     },
     {
         "name":"Penny002UltiProjectile",
@@ -9210,7 +9737,11 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
-        "id":116
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
+        "id":117
     },
     {
         "name":"Penny002TurretProjectile",
@@ -9293,7 +9824,11 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
-        "id":117
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
+        "id":118
     },
     {
         "name":"Penny003Projectile",
@@ -9376,7 +9911,11 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
-        "id":118
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
+        "id":119
     },
     {
         "name":"Penny003Projectile2",
@@ -9459,7 +9998,11 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
-        "id":119
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
+        "id":120
     },
     {
         "name":"Penny003UltiProjectile",
@@ -9542,7 +10085,11 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
-        "id":120
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
+        "id":121
     },
     {
         "name":"ShotgunGirlPetProjectile",
@@ -9625,7 +10172,11 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
-        "id":121
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
+        "id":122
     },
     {
         "name":"BlackHolePetProjectile",
@@ -9708,7 +10259,11 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
-        "id":122
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
+        "id":123
     },
     {
         "name":"HammerDudeProjectile",
@@ -9791,7 +10346,11 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
-        "id":123
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
+        "id":124
     },
     {
         "name":"HammerDudeUltiProjectile",
@@ -9874,7 +10433,11 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
-        "id":124
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
+        "id":125
     },
     {
         "name":"CrowProjectileFlame",
@@ -9957,7 +10520,11 @@
         "blockUltiCharge":null,
         "poisonType":2,
         "travelType":null,
-        "id":125
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
+        "id":126
     },
     {
         "name":"CrowUltiProjectileFlame",
@@ -10040,7 +10607,11 @@
         "blockUltiCharge":null,
         "poisonType":2,
         "travelType":null,
-        "id":126
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
+        "id":127
     },
     {
         "name":"HookProjectile",
@@ -10123,7 +10694,11 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
-        "id":127
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
+        "id":128
     },
     {
         "name":"HookProjectile2",
@@ -10206,7 +10781,11 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
-        "id":128
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
+        "id":129
     },
     {
         "name":"HookUltiProjectile",
@@ -10289,7 +10868,11 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
-        "id":129
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
+        "id":130
     },
     {
         "name":"HookUltiProjectile2",
@@ -10372,7 +10955,11 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
-        "id":130
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
+        "id":131
     },
     {
         "name":"ClusterBombProjectile",
@@ -10455,7 +11042,11 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
-        "id":131
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
+        "id":132
     },
     {
         "name":"ClusterBombProjectile2",
@@ -10538,7 +11129,11 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
-        "id":132
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
+        "id":133
     },
     {
         "name":"ArcadeProjectile",
@@ -10621,10 +11216,14 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
-        "id":133
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
+        "id":134
     },
     {
-        "name":"NinjaProjectile",
+        "name":"LeonDefProjectile",
         "parentProjectileForSkin":null,
         "speed":3500,
         "fileName":"sc\/effects_brawler.sc",
@@ -10704,12 +11303,16 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
-        "id":134
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
+        "id":135
     },
     {
         "name":"Leon002Projectile",
-        "parentProjectileForSkin":"NinjaProjectile",
-        "speed":3500,
+        "parentProjectileForSkin":"LeonDefProjectile",
+        "speed":null,
         "fileName":"sc\/effects_brawler.sc",
         "blueSCW":null,
         "redSCW":null,
@@ -10724,14 +11327,14 @@
         "hitEffectEnv":"leon_002_atk_hitEnv",
         "hitEffectChar":"leon_002_atk_hit",
         "maxRangeReachedEffect":"leon_002_atk_reachaed",
-        "radius":100,
+        "radius":null,
         "indirect":null,
         "constantFlyTime":null,
         "triggerWithDelayMs":null,
         "bouncePercent":null,
-        "gravity":0,
-        "earlyTicks":2,
-        "hideTime":0,
+        "gravity":null,
+        "earlyTicks":null,
+        "hideTime":null,
         "scale":80,
         "randomStartFrame":null,
         "spawnAreaEffectObject":null,
@@ -10739,7 +11342,7 @@
         "spawnCharacter":null,
         "spawnItem":null,
         "trailEffect":"leon_002_atk_trail",
-        "shotByHero":true,
+        "shotByHero":null,
         "isBeam":null,
         "isBouncing":null,
         "distanceAddFromBounce":null,
@@ -10754,8 +11357,8 @@
         "chainTravelDistance":null,
         "chainBullet":null,
         "executeChainOnNoHit":null,
-        "damagePercentStart":100,
-        "damagePercentEnd":10,
+        "damagePercentStart":null,
+        "damagePercentEnd":null,
         "damagesConstantlyTickDelay":null,
         "freezeStrength":null,
         "stunLengthMS":null,
@@ -10787,7 +11390,98 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
-        "id":135
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
+        "id":136
+    },
+    {
+        "name":"Leon003Projectile",
+        "parentProjectileForSkin":"LeonDefProjectile",
+        "speed":null,
+        "fileName":"sc\/effects_brawler.sc",
+        "blueSCW":null,
+        "redSCW":null,
+        "blueExportName":"leon_003_atk_projectile",
+        "redExportName":"leon_003_atk_projectile_red",
+        "shadowExportName":"shadow_normal_circle",
+        "blueGroundGlowExportName":null,
+        "redGroundGlowExportName":null,
+        "preExplosionBlueExportName":null,
+        "preExplosionRedExportName":null,
+        "preExplosionTimeMs":null,
+        "hitEffectEnv":"leon_003_atk_hitEnv",
+        "hitEffectChar":"leon_003_atk_hit",
+        "maxRangeReachedEffect":"leon_003_atk_reachaed",
+        "radius":null,
+        "indirect":null,
+        "constantFlyTime":null,
+        "triggerWithDelayMs":null,
+        "bouncePercent":null,
+        "gravity":null,
+        "earlyTicks":null,
+        "hideTime":null,
+        "scale":80,
+        "randomStartFrame":null,
+        "spawnAreaEffectObject":null,
+        "spawnAreaEffectObject2":null,
+        "spawnCharacter":null,
+        "spawnItem":null,
+        "trailEffect":"leon_003_atk_trail",
+        "shotByHero":null,
+        "isBeam":null,
+        "isBouncing":null,
+        "distanceAddFromBounce":null,
+        "rendering":null,
+        "piercesCharacters":null,
+        "piercesEnvironment":null,
+        "piercesEnvironmentLikeButter":null,
+        "pushbackStrength":null,
+        "chainsToEnemies":null,
+        "chainBullets":null,
+        "chainSpread":null,
+        "chainTravelDistance":null,
+        "chainBullet":null,
+        "executeChainOnNoHit":null,
+        "damagePercentStart":null,
+        "damagePercentEnd":null,
+        "damagesConstantlyTickDelay":null,
+        "freezeStrength":null,
+        "stunLengthMS":null,
+        "scaleStart":null,
+        "scaleEnd":null,
+        "attractsPet":null,
+        "lifeStealPercent":null,
+        "passesEnvironment":null,
+        "poisonDamagePercent":null,
+        "damageOnlyWithOneProj":null,
+        "healOwnPercent":null,
+        "canGrowStronger":null,
+        "hideFaster":null,
+        "grapplesEnemy":null,
+        "kickBack":null,
+        "useColorMod":null,
+        "redAdd":null,
+        "greenAdd":null,
+        "blueAdd":null,
+        "redMul":null,
+        "greenMul":null,
+        "blueMul":null,
+        "groundBasis":null,
+        "minDistanceForSpread":null,
+        "isFriendlyHomingMissile":null,
+        "isBoomerang":null,
+        "canHitAgainAfterBounce":null,
+        "isHomingMissile":null,
+        "blockUltiCharge":null,
+        "poisonType":null,
+        "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
+        "id":137
     },
     {
         "name":"RosaProjectile",
@@ -10870,7 +11564,11 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
-        "id":136
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
+        "id":138
     },
     {
         "name":"SandstormUltiProjectile",
@@ -10953,7 +11651,11 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
-        "id":137
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
+        "id":139
     },
     {
         "name":"CoopRangedEnemyProjectile",
@@ -11036,7 +11738,11 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
-        "id":138
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
+        "id":140
     },
     {
         "name":"BossProjectile",
@@ -11119,7 +11825,11 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
-        "id":139
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
+        "id":141
     },
     {
         "name":"RaidBossRangedEnemyProjectile",
@@ -11202,7 +11912,11 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
-        "id":140
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
+        "id":142
     },
     {
         "name":"RaidBossProjectileRed",
@@ -11285,7 +11999,11 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
-        "id":141
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
+        "id":143
     },
     {
         "name":"RaidBossProjectileRedDestroyEnv",
@@ -11368,7 +12086,11 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
-        "id":142
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
+        "id":144
     },
     {
         "name":"RaidBossProjectileGold",
@@ -11451,7 +12173,11 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
-        "id":143
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
+        "id":145
     },
     {
         "name":"RaidBossRocketProjectile",
@@ -11534,7 +12260,11 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
-        "id":144
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
+        "id":146
     },
     {
         "name":"ShamanStarPowerProjectile",
@@ -11617,7 +12347,11 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
-        "id":145
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
+        "id":147
     },
     {
         "name":"UndertakerStarPowerProjectile",
@@ -11700,7 +12434,11 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
-        "id":146
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
+        "id":148
     },
     {
         "name":"HammerDudeStarPowerProjectile",
@@ -11783,7 +12521,11 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
-        "id":147
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
+        "id":149
     },
     {
         "name":"RoboWarsBaseProjectile",
@@ -11866,7 +12608,11 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
-        "id":148
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
+        "id":150
     },
     {
         "name":"WhirlwindProjectile",
@@ -11949,7 +12695,11 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
-        "id":149
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
+        "id":151
     },
     {
         "name":"WhirlwindProjectile2",
@@ -12032,7 +12782,11 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
-        "id":150
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
+        "id":152
     },
     {
         "name":"Carl002Projectile",
@@ -12115,7 +12869,11 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
-        "id":151
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
+        "id":153
     },
     {
         "name":"Carl002Projectile2",
@@ -12198,7 +12956,11 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
-        "id":152
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
+        "id":154
     },
     {
         "name":"Carl003Projectile",
@@ -12281,7 +13043,11 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
-        "id":153
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
+        "id":155
     },
     {
         "name":"Carl003Projectile2",
@@ -12364,7 +13130,185 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
-        "id":154
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
+        "id":156
+    },
+    {
+        "name":"Carl004Projectile",
+        "parentProjectileForSkin":"WhirlwindProjectile",
+        "speed":null,
+        "fileName":"sc\/effects_brawler.sc",
+        "blueSCW":null,
+        "redSCW":null,
+        "blueExportName":"carl_004_atk_projectile",
+        "redExportName":"carl_004_atk_projectile_red",
+        "shadowExportName":"carl_003_atk_projectile_shadow",
+        "blueGroundGlowExportName":null,
+        "redGroundGlowExportName":null,
+        "preExplosionBlueExportName":null,
+        "preExplosionRedExportName":null,
+        "preExplosionTimeMs":null,
+        "hitEffectEnv":"carl_004_atk_hitEnv",
+        "hitEffectChar":"carl_004_atk_hit",
+        "maxRangeReachedEffect":null,
+        "radius":null,
+        "indirect":null,
+        "constantFlyTime":null,
+        "triggerWithDelayMs":null,
+        "bouncePercent":null,
+        "gravity":0,
+        "earlyTicks":null,
+        "hideTime":0,
+        "scale":100,
+        "randomStartFrame":null,
+        "spawnAreaEffectObject":null,
+        "spawnAreaEffectObject2":null,
+        "spawnCharacter":null,
+        "spawnItem":null,
+        "trailEffect":"carl_004_atk_trail",
+        "shotByHero":true,
+        "isBeam":null,
+        "isBouncing":null,
+        "distanceAddFromBounce":null,
+        "rendering":"DoNotRotateClip",
+        "piercesCharacters":null,
+        "piercesEnvironment":null,
+        "piercesEnvironmentLikeButter":null,
+        "pushbackStrength":null,
+        "chainsToEnemies":null,
+        "chainBullets":null,
+        "chainSpread":null,
+        "chainTravelDistance":null,
+        "chainBullet":"Carl004Projectile2",
+        "executeChainOnNoHit":null,
+        "damagePercentStart":null,
+        "damagePercentEnd":null,
+        "damagesConstantlyTickDelay":null,
+        "freezeStrength":null,
+        "stunLengthMS":null,
+        "scaleStart":null,
+        "scaleEnd":null,
+        "attractsPet":null,
+        "lifeStealPercent":null,
+        "passesEnvironment":null,
+        "poisonDamagePercent":null,
+        "damageOnlyWithOneProj":null,
+        "healOwnPercent":null,
+        "canGrowStronger":null,
+        "hideFaster":null,
+        "grapplesEnemy":null,
+        "kickBack":null,
+        "useColorMod":null,
+        "redAdd":null,
+        "greenAdd":null,
+        "blueAdd":null,
+        "redMul":null,
+        "greenMul":null,
+        "blueMul":null,
+        "groundBasis":null,
+        "minDistanceForSpread":null,
+        "isFriendlyHomingMissile":null,
+        "isBoomerang":null,
+        "canHitAgainAfterBounce":null,
+        "isHomingMissile":null,
+        "blockUltiCharge":null,
+        "poisonType":null,
+        "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
+        "id":157
+    },
+    {
+        "name":"Carl004Projectile2",
+        "parentProjectileForSkin":"WhirlwindProjectile2",
+        "speed":null,
+        "fileName":"sc\/effects_brawler.sc",
+        "blueSCW":null,
+        "redSCW":null,
+        "blueExportName":"carl_004_atk_projectile",
+        "redExportName":"carl_004_atk_projectile_red",
+        "shadowExportName":"carl_003_atk_projectile_shadow",
+        "blueGroundGlowExportName":null,
+        "redGroundGlowExportName":null,
+        "preExplosionBlueExportName":null,
+        "preExplosionRedExportName":null,
+        "preExplosionTimeMs":null,
+        "hitEffectEnv":"carl_004_atk_hitEnv",
+        "hitEffectChar":"carl_004_atk_hit",
+        "maxRangeReachedEffect":null,
+        "radius":null,
+        "indirect":null,
+        "constantFlyTime":null,
+        "triggerWithDelayMs":null,
+        "bouncePercent":null,
+        "gravity":0,
+        "earlyTicks":null,
+        "hideTime":0,
+        "scale":100,
+        "randomStartFrame":null,
+        "spawnAreaEffectObject":null,
+        "spawnAreaEffectObject2":null,
+        "spawnCharacter":null,
+        "spawnItem":null,
+        "trailEffect":"carl_004_atk_trail",
+        "shotByHero":true,
+        "isBeam":null,
+        "isBouncing":null,
+        "distanceAddFromBounce":null,
+        "rendering":"DoNotRotateClip",
+        "piercesCharacters":null,
+        "piercesEnvironment":null,
+        "piercesEnvironmentLikeButter":null,
+        "pushbackStrength":null,
+        "chainsToEnemies":null,
+        "chainBullets":null,
+        "chainSpread":null,
+        "chainTravelDistance":null,
+        "chainBullet":null,
+        "executeChainOnNoHit":null,
+        "damagePercentStart":null,
+        "damagePercentEnd":null,
+        "damagesConstantlyTickDelay":null,
+        "freezeStrength":null,
+        "stunLengthMS":null,
+        "scaleStart":null,
+        "scaleEnd":null,
+        "attractsPet":null,
+        "lifeStealPercent":null,
+        "passesEnvironment":null,
+        "poisonDamagePercent":null,
+        "damageOnlyWithOneProj":null,
+        "healOwnPercent":null,
+        "canGrowStronger":null,
+        "hideFaster":null,
+        "grapplesEnemy":null,
+        "kickBack":null,
+        "useColorMod":null,
+        "redAdd":null,
+        "greenAdd":null,
+        "blueAdd":null,
+        "redMul":null,
+        "greenMul":null,
+        "blueMul":null,
+        "groundBasis":null,
+        "minDistanceForSpread":null,
+        "isFriendlyHomingMissile":null,
+        "isBoomerang":null,
+        "canHitAgainAfterBounce":null,
+        "isHomingMissile":null,
+        "blockUltiCharge":null,
+        "poisonType":null,
+        "travelType":null,
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
+        "id":158
     },
     {
         "name":"BaseballUltiProjectile",
@@ -12447,7 +13391,11 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
-        "id":155
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
+        "id":159
     },
     {
         "name":"ClusterBombSummonProjectile",
@@ -12530,7 +13478,11 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
-        "id":156
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
+        "id":160
     },
     {
         "name":"TurretElecProj",
@@ -12613,7 +13565,11 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
-        "id":157
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
+        "id":161
     },
     {
         "name":"TurretElecProj2",
@@ -12696,7 +13652,11 @@
         "blockUltiCharge":true,
         "poisonType":null,
         "travelType":null,
-        "id":158
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
+        "id":162
     },
     {
         "name":"TurretElecProj3",
@@ -12779,7 +13739,11 @@
         "blockUltiCharge":true,
         "poisonType":null,
         "travelType":null,
-        "id":159
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
+        "id":163
     },
     {
         "name":"BlackHolePet2Projectile",
@@ -12862,7 +13826,11 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
-        "id":160
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
+        "id":164
     },
     {
         "name":"ArcadeUltiProjectile",
@@ -12945,7 +13913,11 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
-        "id":161
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
+        "id":165
     },
     {
         "name":"BeeSniperUltiProjectile",
@@ -13028,7 +14000,11 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
-        "id":162
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
+        "id":166
     },
     {
         "name":"BeeProjectile",
@@ -13111,7 +14087,11 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
-        "id":163
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
+        "id":167
     },
     {
         "name":"SandstormProjectile",
@@ -13194,7 +14174,11 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
-        "id":164
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
+        "id":168
     },
     {
         "name":"TurretWaterProj",
@@ -13277,7 +14261,11 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
-        "id":165
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
+        "id":169
     },
     {
         "name":"TurretWaterProj2",
@@ -13360,7 +14348,11 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
-        "id":166
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
+        "id":170
     },
     {
         "name":"TurretWaterProj3",
@@ -13443,7 +14435,11 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
-        "id":167
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
+        "id":171
     },
     {
         "name":"MummyProjectile",
@@ -13526,7 +14522,11 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":1,
-        "id":168
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
+        "id":172
     },
     {
         "name":"BossRaceBossProjectile",
@@ -13609,7 +14609,11 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
-        "id":169
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
+        "id":173
     },
     {
         "name":"BossRaceBossLightningProjectile1",
@@ -13692,7 +14696,11 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
-        "id":170
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
+        "id":174
     },
     {
         "name":"BossRaceBossLightningProjectile2",
@@ -13775,7 +14783,11 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
-        "id":171
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
+        "id":175
     },
     {
         "name":"BossRaceBossLightningProjectile3",
@@ -13858,7 +14870,11 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
-        "id":172
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
+        "id":176
     },
     {
         "name":"BossRaceBossRocketProjectile",
@@ -13941,89 +14957,10 @@
         "blockUltiCharge":null,
         "poisonType":null,
         "travelType":null,
-        "id":173
-    },
-    {
-        "name":"SpawnerDudeUltiProjectile",
-        "parentProjectileForSkin":null,
-        "speed":3100,
-        "fileName":"sc\/effects_brawler.sc",
-        "blueSCW":null,
-        "redSCW":null,
-        "blueExportName":"bullet_shotgun_def_blue_long",
-        "redExportName":"bullet_shotgun_def_red_long",
-        "shadowExportName":"shadow_normal_circle",
-        "blueGroundGlowExportName":null,
-        "redGroundGlowExportName":null,
-        "preExplosionBlueExportName":null,
-        "preExplosionRedExportName":null,
-        "preExplosionTimeMs":null,
-        "hitEffectEnv":"Gen_hit",
-        "hitEffectChar":"Gen_hit",
-        "maxRangeReachedEffect":"bull_def_atk_reached",
-        "radius":0,
-        "indirect":null,
-        "constantFlyTime":null,
-        "triggerWithDelayMs":null,
-        "bouncePercent":null,
-        "gravity":0,
-        "earlyTicks":2,
-        "hideTime":0,
-        "scale":100,
-        "randomStartFrame":null,
-        "spawnAreaEffectObject":null,
-        "spawnAreaEffectObject2":null,
-        "spawnCharacter":null,
-        "spawnItem":null,
-        "trailEffect":null,
-        "shotByHero":true,
-        "isBeam":null,
-        "isBouncing":null,
-        "distanceAddFromBounce":null,
-        "rendering":null,
-        "piercesCharacters":null,
-        "piercesEnvironment":null,
-        "piercesEnvironmentLikeButter":null,
-        "pushbackStrength":null,
-        "chainsToEnemies":null,
-        "chainBullets":null,
-        "chainSpread":null,
-        "chainTravelDistance":null,
-        "chainBullet":null,
-        "executeChainOnNoHit":null,
-        "damagePercentStart":null,
-        "damagePercentEnd":null,
-        "damagesConstantlyTickDelay":null,
-        "freezeStrength":null,
-        "stunLengthMS":null,
-        "scaleStart":null,
-        "scaleEnd":null,
-        "attractsPet":null,
-        "lifeStealPercent":null,
-        "passesEnvironment":null,
-        "poisonDamagePercent":null,
-        "damageOnlyWithOneProj":null,
-        "healOwnPercent":null,
-        "canGrowStronger":null,
-        "hideFaster":null,
-        "grapplesEnemy":null,
-        "kickBack":null,
-        "useColorMod":null,
-        "redAdd":null,
-        "greenAdd":null,
-        "blueAdd":null,
-        "redMul":null,
-        "greenMul":null,
-        "blueMul":null,
-        "groundBasis":null,
-        "minDistanceForSpread":null,
-        "isFriendlyHomingMissile":null,
-        "isBoomerang":null,
-        "canHitAgainAfterBounce":null,
-        "isHomingMissile":null,
-        "blockUltiCharge":null,
-        "poisonType":null,
-        "travelType":null,
-        "id":174
+        "homingStrength":null,
+        "homeIgnoreTicks":null,
+        "homeDistance":null,
+        "homeLifeTime":null,
+        "id":177
     }
 ]

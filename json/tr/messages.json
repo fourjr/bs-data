@@ -1,112 +1,80 @@
 [
     {
-        "name":"message1",
+        "name":"msg1",
         "tID":null,
-        "messageType":1,
-        "fileName":null,
-        "exportName":null
-    },
-    {
-        "name":"message2",
-        "tID":null,
-        "messageType":2,
-        "fileName":null,
-        "exportName":null
-    },
-    {
-        "name":"message3",
-        "tID":null,
+        "disabled":null,
         "messageType":null,
         "fileName":null,
         "exportName":null
     },
     {
-        "name":"message4",
+        "name":"msg2",
         "tID":null,
+        "disabled":null,
         "messageType":null,
         "fileName":null,
         "exportName":null
     },
     {
-        "name":"message5",
+        "name":"msg3",
         "tID":null,
+        "disabled":null,
         "messageType":null,
         "fileName":null,
         "exportName":null
     },
     {
-        "name":"message6",
+        "name":"msg4",
         "tID":null,
+        "disabled":null,
         "messageType":null,
         "fileName":null,
         "exportName":null
     },
     {
-        "name":"message7",
+        "name":"msg5",
         "tID":null,
+        "disabled":null,
         "messageType":null,
         "fileName":null,
         "exportName":null
     },
     {
-        "name":"message8",
+        "name":"msg6",
         "tID":null,
+        "disabled":null,
         "messageType":null,
         "fileName":null,
         "exportName":null
     },
     {
-        "name":"message9",
+        "name":"msg7",
         "tID":null,
+        "disabled":null,
         "messageType":null,
         "fileName":null,
         "exportName":null
     },
     {
-        "name":"message10",
+        "name":"msg8",
         "tID":null,
+        "disabled":null,
         "messageType":null,
         "fileName":null,
         "exportName":null
     },
     {
-        "name":"message11",
+        "name":"msg9",
         "tID":null,
+        "disabled":null,
         "messageType":null,
         "fileName":null,
         "exportName":null
     },
     {
-        "name":"message12",
+        "name":"msg10",
         "tID":null,
-        "messageType":null,
-        "fileName":null,
-        "exportName":null
-    },
-    {
-        "name":"message13",
-        "tID":null,
-        "messageType":null,
-        "fileName":null,
-        "exportName":null
-    },
-    {
-        "name":"message14",
-        "tID":null,
-        "messageType":null,
-        "fileName":null,
-        "exportName":null
-    },
-    {
-        "name":"message15",
-        "tID":null,
-        "messageType":null,
-        "fileName":null,
-        "exportName":null
-    },
-    {
-        "name":"message16",
-        "tID":null,
+        "disabled":null,
         "messageType":null,
         "fileName":null,
         "exportName":null

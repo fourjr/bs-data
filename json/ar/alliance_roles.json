@@ -43,7 +43,7 @@
     {
         "name":"Elder",
         "level":5,
-        "tID":"\u0627\u0644\u0648\u0643\u064a\u0644",
+        "tID":"\u0648\u0643\u064a\u0644",
         "canInvite":true,
         "canSendMail":false,
         "canChangeAllianceSettings":false,
