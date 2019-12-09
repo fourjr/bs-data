@@ -143,11 +143,8 @@ if __name__ == '__main__':
                 if fn in config['id']:
                     i['id'] = config['id'][fn] + n
                 if fn in config['scId']:
-                    if i.get('tID', True) or TID['en'].get(i['tID']):
-                        i['scId'] = config['scId'][fn] + sc_id_index
-                        sc_id_index += 1
-                    else:
-                        i['scId'] = 0
+                    i['scId'] = config['scId'][fn] + sc_id_index
+                    sc_id_index += 1
 
                 for j in i_keys:
                     i[j] = cleanup(i[j])
