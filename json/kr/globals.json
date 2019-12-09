@@ -185,8 +185,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":22
+        "numberArray":null
     },
     {
         "name":null,
@@ -194,8 +193,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":23
+        "numberArray":null
     },
     {
         "name":null,
@@ -203,8 +201,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":24
+        "numberArray":null
     },
     {
         "name":null,
@@ -212,8 +209,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":25
+        "numberArray":null
     },
     {
         "name":"STARTING_GOLD",

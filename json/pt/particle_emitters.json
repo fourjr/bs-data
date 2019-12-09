@@ -245,8 +245,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":14
+        "enemyVersion":null
     },
     {
         "name":"magic_native_particle_red",
@@ -425,8 +424,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":19
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -459,8 +457,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":20
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -493,8 +490,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":21
+        "enemyVersion":null
     },
     {
         "name":"slowed_particle",
@@ -669,8 +665,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":26
+        "enemyVersion":null
     },
     {
         "name":"poisoned_particle",
@@ -779,8 +774,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":29
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -813,8 +807,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":30
+        "enemyVersion":null
     },
     {
         "name":"burning_particle_brock_blue",
@@ -889,8 +882,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":32
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -923,8 +915,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":33
+        "enemyVersion":null
     },
     {
         "name":"burning_particle_brock",
@@ -999,8 +990,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":35
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -1033,8 +1023,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":36
+        "enemyVersion":null
     },
     {
         "name":"burning_particle_lucha_super",
@@ -1105,8 +1094,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":38
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -1139,8 +1127,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":39
+        "enemyVersion":null
     },
     {
         "name":"burning_particle",
@@ -1211,8 +1198,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":41
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -1245,8 +1231,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":42
+        "enemyVersion":null
     },
     {
         "name":"sparks",
@@ -1316,8 +1301,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":44
+        "enemyVersion":null
     },
     {
         "name":"gen_round_particle",
@@ -1902,8 +1886,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":61
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -1936,8 +1919,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":62
+        "enemyVersion":null
     },
     {
         "name":"bb_trail_small_particle",
@@ -2180,8 +2162,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":69
+        "enemyVersion":null
     },
     {
         "name":"ground_explosion_small",
@@ -2631,8 +2612,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":82
+        "enemyVersion":null
     },
     {
         "name":"bat_trail_emitter",
@@ -2708,8 +2688,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":84
+        "enemyVersion":null
     },
     {
         "name":"sniper_trail_emitter_special",
@@ -3017,8 +2996,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":93
+        "enemyVersion":null
     },
     {
         "name":"health_fx_particles",
@@ -3365,8 +3343,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":103
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -3399,8 +3376,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":104
+        "enemyVersion":null
     },
     {
         "name":"Toxic_emitter_red",
@@ -3547,8 +3523,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":108
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -3581,8 +3556,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":109
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -3615,8 +3589,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":110
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -3649,8 +3622,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":111
+        "enemyVersion":null
     },
     {
         "name":"trickshot_hit_ring_emitter",
@@ -4133,8 +4105,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":125
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -4167,8 +4138,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":126
+        "enemyVersion":null
     },
     {
         "name":"gen_death_particle",
@@ -4243,8 +4213,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":128
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -4277,8 +4246,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":129
+        "enemyVersion":null
     },
     {
         "name":"barkeep_smoke_red",
@@ -4352,8 +4320,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":131
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -4386,8 +4353,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":132
+        "enemyVersion":null
     },
     {
         "name":"barkeep_smoke_ulti",
@@ -4461,8 +4427,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":134
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -4495,8 +4460,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":135
+        "enemyVersion":null
     },
     {
         "name":"barkeep_smoke",
@@ -4570,8 +4534,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":137
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -4604,8 +4567,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":138
+        "enemyVersion":null
     },
     {
         "name":"Gen_dark_smoke",
@@ -4679,8 +4641,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":140
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -4713,8 +4674,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":141
+        "enemyVersion":null
     },
     {
         "name":"Gen_dust_emitter",
@@ -4787,8 +4747,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":143
+        "enemyVersion":null
     },
     {
         "name":"Gen_dust_emitter_big",
@@ -4861,8 +4820,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":145
+        "enemyVersion":null
     },
     {
         "name":"Death_Dust_emitter_top",
@@ -5073,8 +5031,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":151
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -5107,8 +5064,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":152
+        "enemyVersion":null
     },
     {
         "name":"huge_explosion_streaks_emitter",
@@ -5183,8 +5139,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":154
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -5217,8 +5172,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":155
+        "enemyVersion":null
     },
     {
         "name":"Small_explosion_streaks_emitter",
@@ -5293,8 +5247,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":157
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -5327,8 +5280,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":158
+        "enemyVersion":null
     },
     {
         "name":"Small_Hot_dust_emitter",
@@ -5466,8 +5418,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":162
+        "enemyVersion":null
     },
     {
         "name":"Gen_Big_Debris_emitter",
@@ -5540,8 +5491,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":164
+        "enemyVersion":null
     },
     {
         "name":"Gen_Small_Debris_emitter",
@@ -5614,8 +5564,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":166
+        "enemyVersion":null
     },
     {
         "name":"Hammer_ulti_cracks",
@@ -5688,8 +5637,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":168
+        "enemyVersion":null
     },
     {
         "name":"Hammer_ulti_rocks",
@@ -5764,8 +5712,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":170
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -5798,8 +5745,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":171
+        "enemyVersion":null
     },
     {
         "name":"confetti_explosion",
@@ -5880,8 +5826,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":173
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -5914,8 +5859,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":174
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -5948,8 +5892,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":175
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -5982,8 +5925,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":176
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -6016,8 +5958,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":177
+        "enemyVersion":null
     },
     {
         "name":"confetti_flying",
@@ -6098,8 +6039,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":179
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -6132,8 +6072,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":180
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -6166,8 +6105,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":181
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -6200,8 +6138,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":182
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -6234,8 +6171,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":183
+        "enemyVersion":null
     },
     {
         "name":"one_card_flying",
@@ -6310,8 +6246,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":185
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -6344,8 +6279,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":186
+        "enemyVersion":null
     },
     {
         "name":"trash_hit_particle_enemy",
@@ -6420,8 +6354,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":188
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -6454,8 +6387,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":189
+        "enemyVersion":null
     },
     {
         "name":"trash_hit_particle",
@@ -6530,8 +6462,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":191
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -6564,8 +6495,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":192
+        "enemyVersion":null
     },
     {
         "name":"Cards_flying",
@@ -6640,8 +6570,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":194
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -6674,8 +6603,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":195
+        "enemyVersion":null
     },
     {
         "name":"Gems_flying",
@@ -6784,8 +6712,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":198
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -6818,8 +6745,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":199
+        "enemyVersion":null
     },
     {
         "name":"Hammer_trail_rocks",
@@ -6894,8 +6820,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":201
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -6928,8 +6853,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":202
+        "enemyVersion":null
     },
     {
         "name":"Hammer_trail_dust",
@@ -7002,8 +6926,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":204
+        "enemyVersion":null
     },
     {
         "name":"soundwave_trail_heal_ulti_red",
@@ -7148,8 +7071,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":208
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -7182,8 +7104,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":209
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -7216,8 +7137,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":210
+        "enemyVersion":null
     },
     {
         "name":"soundwave_trail_dust_red",
@@ -7360,8 +7280,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":214
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -7394,8 +7313,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":215
+        "enemyVersion":null
     },
     {
         "name":"Nuts_and_bolts_particle",
@@ -7470,8 +7388,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":217
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -7504,8 +7421,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":218
+        "enemyVersion":null
     },
     {
         "name":"Hammer_trail_particle",
@@ -7578,8 +7494,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":220
+        "enemyVersion":null
     },
     {
         "name":"purple_trail_particle",
@@ -7717,8 +7632,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":224
+        "enemyVersion":null
     },
     {
         "name":"Stunner",
@@ -7829,8 +7743,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":227
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -7863,8 +7776,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":228
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -7897,8 +7809,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":229
+        "enemyVersion":null
     },
     {
         "name":"Death_sparkle2_purple",
@@ -7975,8 +7886,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":231
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -8009,8 +7919,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":232
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -8043,8 +7952,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":233
+        "enemyVersion":null
     },
     {
         "name":"Grass_hit_debris1",
@@ -8117,8 +8025,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":235
+        "enemyVersion":null
     },
     {
         "name":"Grass_hit_big_mine",
@@ -8191,8 +8098,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":237
+        "enemyVersion":null
     },
     {
         "name":"Grass_hit_big_yellow",
@@ -8267,8 +8173,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":239
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -8301,8 +8206,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":240
+        "enemyVersion":null
     },
     {
         "name":"Grass_hit_big",
@@ -8375,8 +8279,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":242
+        "enemyVersion":null
     },
     {
         "name":"Grass_hit_mine",
@@ -8450,8 +8353,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":244
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -8484,8 +8386,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":245
+        "enemyVersion":null
     },
     {
         "name":"Grass_hit_yellow",
@@ -8559,8 +8460,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":247
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -8593,8 +8493,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":248
+        "enemyVersion":null
     },
     {
         "name":"Grass_hit",
@@ -8668,8 +8567,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":250
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -8702,8 +8600,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":251
+        "enemyVersion":null
     },
     {
         "name":"Grass_wind",
@@ -8778,8 +8675,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":253
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -8812,8 +8708,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":254
+        "enemyVersion":null
     },
     {
         "name":"Grass_explo_debris1",
@@ -8888,8 +8783,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":256
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -8922,8 +8816,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":257
+        "enemyVersion":null
     },
     {
         "name":"leaves_on_ground",
@@ -8998,8 +8891,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":259
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -9032,8 +8924,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":260
+        "enemyVersion":null
     },
     {
         "name":"shell",
@@ -9108,8 +8999,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":262
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -9142,8 +9032,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":263
+        "enemyVersion":null
     },
     {
         "name":"shell_shotgun",
@@ -9218,8 +9107,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":265
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -9252,8 +9140,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":266
+        "enemyVersion":null
     },
     {
         "name":"Rock_hit_debris1_mine",
@@ -9328,8 +9215,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":268
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -9362,8 +9248,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":269
+        "enemyVersion":null
     },
     {
         "name":"Rock_hit_debris1",
@@ -9438,8 +9323,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":271
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -9472,8 +9356,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":272
+        "enemyVersion":null
     },
     {
         "name":"splinters_small",
@@ -9548,8 +9431,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":274
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -9582,8 +9464,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":275
+        "enemyVersion":null
     },
     {
         "name":"splinters",
@@ -9660,8 +9541,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":277
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -9694,8 +9574,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":278
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -9728,8 +9607,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":279
+        "enemyVersion":null
     },
     {
         "name":"Rock_explo_debris1_mine",
@@ -9804,8 +9682,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":281
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -9838,8 +9715,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":282
+        "enemyVersion":null
     },
     {
         "name":"fragile_explo_debris_oasis",
@@ -9914,8 +9790,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":284
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -9948,8 +9823,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":285
+        "enemyVersion":null
     },
     {
         "name":"fragile_explo_debris",
@@ -10024,8 +9898,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":287
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -10058,8 +9931,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":288
+        "enemyVersion":null
     },
     {
         "name":"Rock_explo_debris1",
@@ -10134,8 +10006,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":290
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -10168,8 +10039,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":291
+        "enemyVersion":null
     },
     {
         "name":"Hit_dust",
@@ -10242,8 +10112,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":293
+        "enemyVersion":null
     },
     {
         "name":"Explo_dust",
@@ -10316,8 +10185,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":295
+        "enemyVersion":null
     },
     {
         "name":"planks_fly",
@@ -10396,8 +10264,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":297
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -10430,8 +10297,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":298
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -10464,8 +10330,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":299
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -10498,8 +10363,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":300
+        "enemyVersion":null
     },
     {
         "name":"fire_after_explosion",
@@ -10574,8 +10438,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":302
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -10608,8 +10471,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":303
+        "enemyVersion":null
     },
     {
         "name":"planks",
@@ -10686,8 +10548,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":305
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -10720,8 +10581,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":306
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -10754,8 +10614,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":307
+        "enemyVersion":null
     },
     {
         "name":"Rock_explo_debris2_mine",
@@ -10830,8 +10689,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":309
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -10864,8 +10722,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":310
+        "enemyVersion":null
     },
     {
         "name":"Rock_explo_debris2",
@@ -10940,8 +10797,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":312
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -10974,8 +10830,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":313
+        "enemyVersion":null
     },
     {
         "name":"Pix_emitter_red",
@@ -11798,8 +11653,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":337
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -11832,8 +11686,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":338
+        "enemyVersion":null
     },
     {
         "name":"gen_small_smoke_emitter",
@@ -11974,8 +11827,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":342
+        "enemyVersion":null
     },
     {
         "name":"muzzle_flash_smaller",
@@ -12093,8 +11945,7 @@
         "endScale":null,
         "fadeOutDuration":0,
         "inertia":0,
-        "enemyVersion":null,
-        "id":344
+        "enemyVersion":null
     },
     {
         "name":"muzzle_flash",
@@ -12212,8 +12063,7 @@
         "endScale":null,
         "fadeOutDuration":0,
         "inertia":0,
-        "enemyVersion":null,
-        "id":346
+        "enemyVersion":null
     },
     {
         "name":"shooting_spark_emitter",
@@ -12696,8 +12546,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":360
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -12730,8 +12579,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":361
+        "enemyVersion":null
     },
     {
         "name":"ground_splat_small_red",
@@ -12874,8 +12722,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":365
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -12908,8 +12755,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":366
+        "enemyVersion":null
     },
     {
         "name":"barkeep_fire",
@@ -12984,8 +12830,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":368
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -13018,8 +12863,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":369
+        "enemyVersion":null
     },
     {
         "name":"barkeep_splat_red",
@@ -13092,8 +12936,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":371
+        "enemyVersion":null
     },
     {
         "name":"barkeep_splat",
@@ -13166,8 +13009,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":373
+        "enemyVersion":null
     },
     {
         "name":"barkeep_splat_ulti",
@@ -13683,8 +13525,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":388
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -13717,8 +13558,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":389
+        "enemyVersion":null
     },
     {
         "name":"Sharpie_emitter",
@@ -14203,8 +14043,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":403
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -14237,8 +14076,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":404
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -14271,8 +14109,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":405
+        "enemyVersion":null
     },
     {
         "name":"power_up_bottle_sparkle_trail",
@@ -14415,8 +14252,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":409
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -14449,8 +14285,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":410
+        "enemyVersion":null
     },
     {
         "name":"raidboss_skill_warning_short",
@@ -14627,8 +14462,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":415
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -14661,8 +14495,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":416
+        "enemyVersion":null
     },
     {
         "name":"burning_particle_wizard_ulti",
@@ -14737,8 +14570,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":418
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -14771,8 +14603,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":419
+        "enemyVersion":null
     },
     {
         "name":"burning_particle_wizard_blue",
@@ -14847,8 +14678,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":421
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -14881,8 +14711,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":422
+        "enemyVersion":null
     },
     {
         "name":"burning_particle_wizard",
@@ -14957,8 +14786,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":424
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -14991,8 +14819,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":425
+        "enemyVersion":null
     },
     {
         "name":"Rock_hit_debris1_town",
@@ -15067,8 +14894,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":427
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -15101,8 +14927,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":428
+        "enemyVersion":null
     },
     {
         "name":"Rock_explo_debris2_town",
@@ -15177,8 +15002,7 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":430
+        "enemyVersion":null
     },
     {
         "name":null,
@@ -15211,7 +15035,6 @@
         "endScale":null,
         "fadeOutDuration":null,
         "inertia":null,
-        "enemyVersion":null,
-        "id":431
+        "enemyVersion":null
     }
 ]

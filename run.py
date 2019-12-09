@@ -138,11 +138,12 @@ if __name__ == '__main__':
                                 data[n - offset][j] = [data[n - 1][j], i[j]]
                                 data[offset][j] = [data[n - 1][j], i[j]]
                             i[j] = None
+                    continue
 
                 if fn in config['id']:
                     i['id'] = config['id'][fn] + n
                 if fn in config['scId']:
-                    if not i.get('tID') or TID['en'].get(i['tID']):
+                    if i.get('tID', True) or TID['en'].get(i['tID']):
                         i['scId'] = config['scId'][fn] + sc_id_index
                         sc_id_index += 1
                     else:

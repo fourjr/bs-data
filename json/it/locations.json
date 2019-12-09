@@ -671,7 +671,7 @@
         "communityCredit":null,
         "hiddenInFriendly":null,
         "id":35,
-        "scId":1500020
+        "scId":0
     },
     {
         "name":"BossFight1",
@@ -702,7 +702,7 @@
         "communityCredit":null,
         "hiddenInFriendly":null,
         "id":36,
-        "scId":1500021,
+        "scId":1500020,
         "rawTID":"BOSS_4"
     },
     {
@@ -734,7 +734,7 @@
         "communityCredit":null,
         "hiddenInFriendly":null,
         "id":37,
-        "scId":1500022,
+        "scId":1500021,
         "rawTID":"WANTED_8"
     },
     {
@@ -766,7 +766,7 @@
         "communityCredit":null,
         "hiddenInFriendly":null,
         "id":38,
-        "scId":1500023,
+        "scId":1500022,
         "rawTID":"BANKHEIST_4"
     },
     {
@@ -798,7 +798,7 @@
         "communityCredit":null,
         "hiddenInFriendly":null,
         "id":39,
-        "scId":1500024,
+        "scId":1500023,
         "rawTID":"BALL_1"
     },
     {
@@ -830,7 +830,7 @@
         "communityCredit":null,
         "hiddenInFriendly":null,
         "id":40,
-        "scId":1500025,
+        "scId":1500024,
         "rawTID":"BALL_2"
     },
     {
@@ -862,7 +862,7 @@
         "communityCredit":null,
         "hiddenInFriendly":null,
         "id":41,
-        "scId":1500026,
+        "scId":1500025,
         "rawTID":"BALL_3"
     },
     {
@@ -894,7 +894,7 @@
         "communityCredit":null,
         "hiddenInFriendly":null,
         "id":42,
-        "scId":1500027,
+        "scId":1500026,
         "rawTID":"COOP_1"
     },
     {
@@ -926,7 +926,7 @@
         "communityCredit":null,
         "hiddenInFriendly":null,
         "id":43,
-        "scId":1500028,
+        "scId":1500027,
         "rawTID":"BATTLE_ROYALE_7"
     },
     {
@@ -958,7 +958,7 @@
         "communityCredit":null,
         "hiddenInFriendly":null,
         "id":44,
-        "scId":1500029,
+        "scId":1500028,
         "rawTID":"COOP_2"
     },
     {
@@ -990,7 +990,7 @@
         "communityCredit":null,
         "hiddenInFriendly":null,
         "id":45,
-        "scId":1500030,
+        "scId":1500029,
         "rawTID":"BOSS_3"
     },
     {
@@ -1022,7 +1022,7 @@
         "communityCredit":null,
         "hiddenInFriendly":null,
         "id":46,
-        "scId":1500031,
+        "scId":1500030,
         "rawTID":"GOLDRUSH_8"
     },
     {
@@ -1054,7 +1054,7 @@
         "communityCredit":"Mordeus",
         "hiddenInFriendly":null,
         "id":47,
-        "scId":1500032,
+        "scId":1500031,
         "rawTID":"BATTLE_ROYALE_5"
     },
     {
@@ -1086,7 +1086,7 @@
         "communityCredit":null,
         "hiddenInFriendly":null,
         "id":48,
-        "scId":1500033,
+        "scId":1500032,
         "rawTID":"BATTLE_ROYALE_6"
     },
     {
@@ -1118,7 +1118,7 @@
         "communityCredit":null,
         "hiddenInFriendly":null,
         "id":49,
-        "scId":1500034,
+        "scId":1500033,
         "rawTID":"BATTLE_ROYALE_1"
     },
     {
@@ -1150,7 +1150,7 @@
         "communityCredit":"OwenReds",
         "hiddenInFriendly":null,
         "id":50,
-        "scId":1500035,
+        "scId":1500034,
         "rawTID":"BATTLE_ROYALE_2"
     },
     {
@@ -1182,7 +1182,7 @@
         "communityCredit":null,
         "hiddenInFriendly":null,
         "id":51,
-        "scId":1500036,
+        "scId":1500035,
         "rawTID":"BATTLE_ROYALE_3"
     },
     {
@@ -1214,7 +1214,7 @@
         "communityCredit":null,
         "hiddenInFriendly":null,
         "id":52,
-        "scId":1500037,
+        "scId":1500036,
         "rawTID":"BATTLE_ROYALE_4"
     },
     {
@@ -1246,7 +1246,7 @@
         "communityCredit":"Mordeus",
         "hiddenInFriendly":null,
         "id":53,
-        "scId":1500038,
+        "scId":1500037,
         "rawTID":"BATTLE_ROYALE_5"
     },
     {
@@ -1278,7 +1278,7 @@
         "communityCredit":null,
         "hiddenInFriendly":null,
         "id":54,
-        "scId":1500039,
+        "scId":1500038,
         "rawTID":"COOP_6"
     },
     {
@@ -1310,7 +1310,7 @@
         "communityCredit":"DarkKnight",
         "hiddenInFriendly":null,
         "id":55,
-        "scId":1500040,
+        "scId":1500039,
         "rawTID":"GOLDRUSH_7"
     },
     {
@@ -1342,7 +1342,7 @@
         "communityCredit":"Lewinham",
         "hiddenInFriendly":null,
         "id":56,
-        "scId":1500041,
+        "scId":1500040,
         "rawTID":"GOLDRUSH_10"
     },
     {
@@ -1374,7 +1374,7 @@
         "communityCredit":"Rushalisk",
         "hiddenInFriendly":null,
         "id":57,
-        "scId":1500042,
+        "scId":1500041,
         "rawTID":"BANKHEIST_5"
     },
     {
@@ -1406,7 +1406,7 @@
         "communityCredit":null,
         "hiddenInFriendly":null,
         "id":58,
-        "scId":1500043,
+        "scId":1500042,
         "rawTID":"BATTLE_ROYALE_7"
     },
     {
@@ -1438,7 +1438,7 @@
         "communityCredit":null,
         "hiddenInFriendly":null,
         "id":59,
-        "scId":1500044,
+        "scId":1500043,
         "rawTID":"BATTLE_ROYALE_6"
     },
     {
@@ -1470,7 +1470,7 @@
         "communityCredit":"Rushalisk",
         "hiddenInFriendly":null,
         "id":60,
-        "scId":1500045,
+        "scId":1500044,
         "rawTID":"BATTLE_ROYALE_8"
     },
     {
@@ -1502,7 +1502,7 @@
         "communityCredit":"Rushalisk",
         "hiddenInFriendly":null,
         "id":61,
-        "scId":1500046,
+        "scId":1500045,
         "rawTID":"BATTLE_ROYALE_8"
     },
     {
@@ -1534,7 +1534,7 @@
         "communityCredit":"Mordeus",
         "hiddenInFriendly":null,
         "id":62,
-        "scId":1500047,
+        "scId":1500046,
         "rawTID":"BANKHEIST_6"
     },
     {
@@ -1566,7 +1566,7 @@
         "communityCredit":"FatBubblyDragon",
         "hiddenInFriendly":null,
         "id":63,
-        "scId":1500048,
+        "scId":1500047,
         "rawTID":"GOLDRUSH_11"
     },
     {
@@ -1598,7 +1598,7 @@
         "communityCredit":"Schmedricks",
         "hiddenInFriendly":null,
         "id":64,
-        "scId":1500049,
+        "scId":1500048,
         "rawTID":"BANKHEIST_7"
     },
     {
@@ -1630,7 +1630,7 @@
         "communityCredit":"Lex",
         "hiddenInFriendly":null,
         "id":65,
-        "scId":1500050,
+        "scId":1500049,
         "rawTID":"BALL_4"
     },
     {
@@ -1662,7 +1662,7 @@
         "communityCredit":"Mordeus",
         "hiddenInFriendly":null,
         "id":66,
-        "scId":1500051,
+        "scId":1500050,
         "rawTID":"BALL_6"
     },
     {
@@ -1694,7 +1694,7 @@
         "communityCredit":"Lewinham",
         "hiddenInFriendly":null,
         "id":67,
-        "scId":1500052,
+        "scId":1500051,
         "rawTID":"BALL_7"
     },
     {
@@ -1726,7 +1726,7 @@
         "communityCredit":"AlexEsteAdevarat",
         "hiddenInFriendly":null,
         "id":68,
-        "scId":1500053,
+        "scId":1500052,
         "rawTID":"BANKHEIST_18"
     },
     {
@@ -1758,7 +1758,7 @@
         "communityCredit":"thelucas2000",
         "hiddenInFriendly":null,
         "id":69,
-        "scId":1500054,
+        "scId":1500053,
         "rawTID":"WANTED_9"
     },
     {
@@ -1790,7 +1790,7 @@
         "communityCredit":"Tony_A9",
         "hiddenInFriendly":null,
         "id":70,
-        "scId":1500055,
+        "scId":1500054,
         "rawTID":"BATTLE_ROYALE_12"
     },
     {
@@ -1822,7 +1822,7 @@
         "communityCredit":"Tony_A9",
         "hiddenInFriendly":null,
         "id":71,
-        "scId":1500056,
+        "scId":1500055,
         "rawTID":"BATTLE_ROYALE_12"
     },
     {
@@ -1854,7 +1854,7 @@
         "communityCredit":null,
         "hiddenInFriendly":null,
         "id":72,
-        "scId":1500057,
+        "scId":1500056,
         "rawTID":"RAID_2"
     },
     {
@@ -1886,7 +1886,7 @@
         "communityCredit":null,
         "hiddenInFriendly":null,
         "id":73,
-        "scId":1500058,
+        "scId":1500057,
         "rawTID":"GOLDRUSH_XMAS_1"
     },
     {
@@ -1918,7 +1918,7 @@
         "communityCredit":null,
         "hiddenInFriendly":null,
         "id":74,
-        "scId":1500059,
+        "scId":1500058,
         "rawTID":"GOLDRUSH_XMAS_2"
     },
     {
@@ -1950,7 +1950,7 @@
         "communityCredit":null,
         "hiddenInFriendly":null,
         "id":75,
-        "scId":1500060,
+        "scId":1500059,
         "rawTID":"GOLDRUSH_XMAS_3"
     },
     {
@@ -1982,7 +1982,7 @@
         "communityCredit":null,
         "hiddenInFriendly":null,
         "id":76,
-        "scId":1500061,
+        "scId":1500060,
         "rawTID":"GOLDRUSH_XMAS_4"
     },
     {
@@ -2014,7 +2014,7 @@
         "communityCredit":null,
         "hiddenInFriendly":null,
         "id":77,
-        "scId":1500062,
+        "scId":1500061,
         "rawTID":"GOLDRUSH_XMAS_5"
     },
     {
@@ -2046,7 +2046,7 @@
         "communityCredit":null,
         "hiddenInFriendly":null,
         "id":78,
-        "scId":1500063,
+        "scId":1500062,
         "rawTID":"GOLDRUSH_XMAS_6"
     },
     {
@@ -2078,7 +2078,7 @@
         "communityCredit":null,
         "hiddenInFriendly":null,
         "id":79,
-        "scId":1500064,
+        "scId":1500063,
         "rawTID":"GOLDRUSH_XMAS_7"
     },
     {
@@ -2110,7 +2110,7 @@
         "communityCredit":null,
         "hiddenInFriendly":null,
         "id":80,
-        "scId":1500065,
+        "scId":1500064,
         "rawTID":"BOSS_6"
     },
     {
@@ -2142,7 +2142,7 @@
         "communityCredit":null,
         "hiddenInFriendly":null,
         "id":81,
-        "scId":1500066,
+        "scId":1500065,
         "rawTID":"BOSS_5"
     },
     {
@@ -2174,7 +2174,7 @@
         "communityCredit":null,
         "hiddenInFriendly":null,
         "id":82,
-        "scId":1500067,
+        "scId":1500066,
         "rawTID":"RAID_3"
     },
     {
@@ -2206,7 +2206,7 @@
         "communityCredit":null,
         "hiddenInFriendly":null,
         "id":83,
-        "scId":1500068,
+        "scId":1500067,
         "rawTID":"COOP_3"
     },
     {
@@ -2238,7 +2238,7 @@
         "communityCredit":null,
         "hiddenInFriendly":null,
         "id":84,
-        "scId":1500069,
+        "scId":1500068,
         "rawTID":"BANKHEIST_9"
     },
     {
@@ -2270,7 +2270,7 @@
         "communityCredit":null,
         "hiddenInFriendly":null,
         "id":85,
-        "scId":1500070,
+        "scId":1500069,
         "rawTID":"BANKHEIST_10"
     },
     {
@@ -2302,7 +2302,7 @@
         "communityCredit":"AeroNautikks",
         "hiddenInFriendly":null,
         "id":86,
-        "scId":1500071,
+        "scId":1500070,
         "rawTID":"BANKHEIST_11"
     },
     {
@@ -2334,7 +2334,7 @@
         "communityCredit":"Zagibulenka",
         "hiddenInFriendly":null,
         "id":87,
-        "scId":1500072,
+        "scId":1500071,
         "rawTID":"BANKHEIST_12"
     },
     {
@@ -2366,7 +2366,7 @@
         "communityCredit":null,
         "hiddenInFriendly":null,
         "id":88,
-        "scId":1500073,
+        "scId":1500072,
         "rawTID":"BANKHEIST_13"
     },
     {
@@ -2401,7 +2401,7 @@
         "communityCredit":null,
         "hiddenInFriendly":null,
         "id":89,
-        "scId":1500074,
+        "scId":1500073,
         "rawTID":"BANKHEIST_9"
     },
     {
@@ -2431,9 +2431,7 @@
         "shadowA":null,
         "music":null,
         "communityCredit":null,
-        "hiddenInFriendly":null,
-        "id":90,
-        "scId":1500075
+        "hiddenInFriendly":null
     },
     {
         "name":"LNYHeist2",
@@ -2467,7 +2465,7 @@
         "communityCredit":null,
         "hiddenInFriendly":null,
         "id":91,
-        "scId":1500076,
+        "scId":1500074,
         "rawTID":"BANKHEIST_10"
     },
     {
@@ -2497,9 +2495,7 @@
         "shadowA":null,
         "music":null,
         "communityCredit":null,
-        "hiddenInFriendly":null,
-        "id":92,
-        "scId":1500077
+        "hiddenInFriendly":null
     },
     {
         "name":"LNYHeist3",
@@ -2533,7 +2529,7 @@
         "communityCredit":"AeroNautikks",
         "hiddenInFriendly":null,
         "id":93,
-        "scId":1500078,
+        "scId":1500075,
         "rawTID":"BANKHEIST_11"
     },
     {
@@ -2563,9 +2559,7 @@
         "shadowA":null,
         "music":null,
         "communityCredit":null,
-        "hiddenInFriendly":null,
-        "id":94,
-        "scId":1500079
+        "hiddenInFriendly":null
     },
     {
         "name":"LNYHeist4",
@@ -2599,7 +2593,7 @@
         "communityCredit":"Zagibulenka",
         "hiddenInFriendly":null,
         "id":95,
-        "scId":1500080,
+        "scId":1500076,
         "rawTID":"BANKHEIST_12"
     },
     {
@@ -2629,9 +2623,7 @@
         "shadowA":null,
         "music":null,
         "communityCredit":null,
-        "hiddenInFriendly":null,
-        "id":96,
-        "scId":1500081
+        "hiddenInFriendly":null
     },
     {
         "name":"LNYHeist5",
@@ -2665,7 +2657,7 @@
         "communityCredit":null,
         "hiddenInFriendly":null,
         "id":97,
-        "scId":1500082,
+        "scId":1500077,
         "rawTID":"BANKHEIST_13"
     },
     {
@@ -2695,9 +2687,7 @@
         "shadowA":null,
         "music":null,
         "communityCredit":null,
-        "hiddenInFriendly":null,
-        "id":98,
-        "scId":1500083
+        "hiddenInFriendly":null
     },
     {
         "name":"Wanted10",
@@ -2728,7 +2718,7 @@
         "communityCredit":null,
         "hiddenInFriendly":null,
         "id":99,
-        "scId":1500084,
+        "scId":1500078,
         "rawTID":"WANTED_9"
     },
     {
@@ -2760,7 +2750,7 @@
         "communityCredit":null,
         "hiddenInFriendly":null,
         "id":100,
-        "scId":1500085,
+        "scId":1500079,
         "rawTID":"WANTED_11"
     },
     {
@@ -2792,7 +2782,7 @@
         "communityCredit":null,
         "hiddenInFriendly":null,
         "id":101,
-        "scId":1500086,
+        "scId":1500080,
         "rawTID":"WANTED_12"
     },
     {
@@ -2824,7 +2814,7 @@
         "communityCredit":"OwenReds",
         "hiddenInFriendly":null,
         "id":102,
-        "scId":1500087,
+        "scId":1500081,
         "rawTID":"WANTED_13"
     },
     {
@@ -2856,7 +2846,7 @@
         "communityCredit":null,
         "hiddenInFriendly":null,
         "id":103,
-        "scId":1500088,
+        "scId":1500082,
         "rawTID":"WANTED_14"
     },
     {
@@ -2891,7 +2881,7 @@
         "communityCredit":null,
         "hiddenInFriendly":null,
         "id":104,
-        "scId":1500089,
+        "scId":1500083,
         "rawTID":"WANTED_9"
     },
     {
@@ -2921,9 +2911,7 @@
         "shadowA":null,
         "music":null,
         "communityCredit":null,
-        "hiddenInFriendly":null,
-        "id":105,
-        "scId":1500090
+        "hiddenInFriendly":null
     },
     {
         "name":"LNYWanted2",
@@ -2957,7 +2945,7 @@
         "communityCredit":null,
         "hiddenInFriendly":null,
         "id":106,
-        "scId":1500091,
+        "scId":1500084,
         "rawTID":"WANTED_11"
     },
     {
@@ -2987,9 +2975,7 @@
         "shadowA":null,
         "music":null,
         "communityCredit":null,
-        "hiddenInFriendly":null,
-        "id":107,
-        "scId":1500092
+        "hiddenInFriendly":null
     },
     {
         "name":"LNYWanted3",
@@ -3023,7 +3009,7 @@
         "communityCredit":null,
         "hiddenInFriendly":null,
         "id":108,
-        "scId":1500093,
+        "scId":1500085,
         "rawTID":"WANTED_12"
     },
     {
@@ -3053,9 +3039,7 @@
         "shadowA":null,
         "music":null,
         "communityCredit":null,
-        "hiddenInFriendly":null,
-        "id":109,
-        "scId":1500094
+        "hiddenInFriendly":null
     },
     {
         "name":"LNYWanted4",
@@ -3089,7 +3073,7 @@
         "communityCredit":"OwenReds",
         "hiddenInFriendly":null,
         "id":110,
-        "scId":1500095,
+        "scId":1500086,
         "rawTID":"WANTED_13"
     },
     {
@@ -3119,9 +3103,7 @@
         "shadowA":null,
         "music":null,
         "communityCredit":null,
-        "hiddenInFriendly":null,
-        "id":111,
-        "scId":1500096
+        "hiddenInFriendly":null
     },
     {
         "name":"LNYWanted5",
@@ -3155,7 +3137,7 @@
         "communityCredit":null,
         "hiddenInFriendly":null,
         "id":112,
-        "scId":1500097,
+        "scId":1500087,
         "rawTID":"WANTED_14"
     },
     {
@@ -3185,9 +3167,7 @@
         "shadowA":null,
         "music":null,
         "communityCredit":null,
-        "hiddenInFriendly":null,
-        "id":113,
-        "scId":1500098
+        "hiddenInFriendly":null
     },
     {
         "name":"LNYGemgrab1",
@@ -3221,7 +3201,7 @@
         "communityCredit":null,
         "hiddenInFriendly":null,
         "id":114,
-        "scId":1500099,
+        "scId":1500088,
         "rawTID":"GOLDRUSH_4"
     },
     {
@@ -3251,9 +3231,7 @@
         "shadowA":null,
         "music":null,
         "communityCredit":null,
-        "hiddenInFriendly":null,
-        "id":115,
-        "scId":1500100
+        "hiddenInFriendly":null
     },
     {
         "name":"LNYGemgrab2",
@@ -3287,7 +3265,7 @@
         "communityCredit":null,
         "hiddenInFriendly":null,
         "id":116,
-        "scId":1500101,
+        "scId":1500089,
         "rawTID":"GOLDRUSH_5"
     },
     {
@@ -3317,9 +3295,7 @@
         "shadowA":null,
         "music":null,
         "communityCredit":null,
-        "hiddenInFriendly":null,
-        "id":117,
-        "scId":1500102
+        "hiddenInFriendly":null
     },
     {
         "name":"LNYGemgrab3",
@@ -3353,7 +3329,7 @@
         "communityCredit":null,
         "hiddenInFriendly":null,
         "id":118,
-        "scId":1500103,
+        "scId":1500090,
         "rawTID":"GOLDRUSH_6"
     },
     {
@@ -3383,9 +3359,7 @@
         "shadowA":null,
         "music":null,
         "communityCredit":null,
-        "hiddenInFriendly":null,
-        "id":119,
-        "scId":1500104
+        "hiddenInFriendly":null
     },
     {
         "name":"Ball8",
@@ -3416,7 +3390,7 @@
         "communityCredit":null,
         "hiddenInFriendly":null,
         "id":120,
-        "scId":1500105,
+        "scId":1500091,
         "rawTID":"WANTED_10"
     },
     {
@@ -3448,7 +3422,7 @@
         "communityCredit":"Binnyboy",
         "hiddenInFriendly":null,
         "id":121,
-        "scId":1500106,
+        "scId":1500092,
         "rawTID":"BATTLE_ROYALE_10"
     },
     {
@@ -3480,7 +3454,7 @@
         "communityCredit":"Binnyboy",
         "hiddenInFriendly":null,
         "id":122,
-        "scId":1500107,
+        "scId":1500093,
         "rawTID":"BATTLE_ROYALE_10"
     },
     {
@@ -3512,7 +3486,7 @@
         "communityCredit":null,
         "hiddenInFriendly":null,
         "id":123,
-        "scId":1500108,
+        "scId":1500094,
         "rawTID":"BATTLE_ROYALE_D2"
     },
     {
@@ -3544,7 +3518,7 @@
         "communityCredit":null,
         "hiddenInFriendly":null,
         "id":124,
-        "scId":1500109,
+        "scId":1500095,
         "rawTID":"BATTLE_ROYALE_D2"
     },
     {
@@ -3576,7 +3550,7 @@
         "communityCredit":null,
         "hiddenInFriendly":null,
         "id":125,
-        "scId":1500110,
+        "scId":1500096,
         "rawTID":"ROBO_WARS_6"
     },
     {
@@ -3608,7 +3582,7 @@
         "communityCredit":null,
         "hiddenInFriendly":null,
         "id":126,
-        "scId":1500111,
+        "scId":1500097,
         "rawTID":"ROBO_WARS_8"
     },
     {
@@ -3640,7 +3614,7 @@
         "communityCredit":null,
         "hiddenInFriendly":null,
         "id":127,
-        "scId":1500112,
+        "scId":1500098,
         "rawTID":"ROBO_WARS_7"
     },
     {
@@ -3672,7 +3646,7 @@
         "communityCredit":"DuccioCh",
         "hiddenInFriendly":null,
         "id":128,
-        "scId":1500113,
+        "scId":1500099,
         "rawTID":"BANKHEIST_14"
     },
     {
@@ -3704,7 +3678,7 @@
         "communityCredit":"Maxymus",
         "hiddenInFriendly":null,
         "id":129,
-        "scId":1500114,
+        "scId":1500100,
         "rawTID":"BATTLE_ROYALE_17"
     },
     {
@@ -3736,7 +3710,7 @@
         "communityCredit":"Maxymus",
         "hiddenInFriendly":null,
         "id":130,
-        "scId":1500115,
+        "scId":1500101,
         "rawTID":"BATTLE_ROYALE_17"
     },
     {
@@ -3768,7 +3742,7 @@
         "communityCredit":"Mordeus",
         "hiddenInFriendly":null,
         "id":131,
-        "scId":1500116,
+        "scId":1500102,
         "rawTID":"BATTLE_ROYALE_13"
     },
     {
@@ -3800,7 +3774,7 @@
         "communityCredit":"Mordeus",
         "hiddenInFriendly":null,
         "id":132,
-        "scId":1500117,
+        "scId":1500103,
         "rawTID":"BATTLE_ROYALE_13"
     },
     {
@@ -3832,7 +3806,7 @@
         "communityCredit":"Meme-grabbee",
         "hiddenInFriendly":null,
         "id":133,
-        "scId":1500118,
+        "scId":1500104,
         "rawTID":"BATTLE_ROYALE_19"
     },
     {
@@ -3864,7 +3838,7 @@
         "communityCredit":"Meme-grabbee",
         "hiddenInFriendly":null,
         "id":134,
-        "scId":1500119,
+        "scId":1500105,
         "rawTID":"BATTLE_ROYALE_19"
     },
     {
@@ -3896,7 +3870,7 @@
         "communityCredit":"OwenReds",
         "hiddenInFriendly":null,
         "id":135,
-        "scId":1500120,
+        "scId":1500106,
         "rawTID":"BATTLE_ROYALE_23"
     },
     {
@@ -3928,7 +3902,7 @@
         "communityCredit":"OwenReds",
         "hiddenInFriendly":null,
         "id":136,
-        "scId":1500121,
+        "scId":1500107,
         "rawTID":"BATTLE_ROYALE_23"
     },
     {
@@ -3960,7 +3934,7 @@
         "communityCredit":"Pentagonal Cubes",
         "hiddenInFriendly":null,
         "id":137,
-        "scId":1500122,
+        "scId":1500108,
         "rawTID":"BATTLE_ROYALE_21"
     },
     {
@@ -3992,7 +3966,7 @@
         "communityCredit":"Pentagonal Cubes",
         "hiddenInFriendly":null,
         "id":138,
-        "scId":1500123,
+        "scId":1500109,
         "rawTID":"BATTLE_ROYALE_21"
     },
     {
@@ -4024,7 +3998,7 @@
         "communityCredit":"ash",
         "hiddenInFriendly":null,
         "id":139,
-        "scId":1500124,
+        "scId":1500110,
         "rawTID":"GOLDRUSH_12"
     },
     {
@@ -4056,7 +4030,7 @@
         "communityCredit":"Electra Drake",
         "hiddenInFriendly":null,
         "id":140,
-        "scId":1500125,
+        "scId":1500111,
         "rawTID":"GOLDRUSH_13"
     },
     {
@@ -4088,7 +4062,7 @@
         "communityCredit":"Lewinham",
         "hiddenInFriendly":null,
         "id":141,
-        "scId":1500126,
+        "scId":1500112,
         "rawTID":"GOLDRUSH_23"
     },
     {
@@ -4120,7 +4094,7 @@
         "communityCredit":"Mordeus",
         "hiddenInFriendly":null,
         "id":142,
-        "scId":1500127,
+        "scId":1500113,
         "rawTID":"GOLDRUSH_17"
     },
     {
@@ -4152,7 +4126,7 @@
         "communityCredit":"benci",
         "hiddenInFriendly":null,
         "id":143,
-        "scId":1500128,
+        "scId":1500114,
         "rawTID":"GOLDRUSH_25"
     },
     {
@@ -4184,7 +4158,7 @@
         "communityCredit":"Lab2point0",
         "hiddenInFriendly":null,
         "id":144,
-        "scId":1500129,
+        "scId":1500115,
         "rawTID":"GOLDRUSH_24"
     },
     {
@@ -4216,7 +4190,7 @@
         "communityCredit":"freezeemilk",
         "hiddenInFriendly":null,
         "id":145,
-        "scId":1500130,
+        "scId":1500116,
         "rawTID":"GOLDRUSH_19"
     },
     {
@@ -4248,7 +4222,7 @@
         "communityCredit":"Mordeus",
         "hiddenInFriendly":null,
         "id":146,
-        "scId":1500131,
+        "scId":1500117,
         "rawTID":"BALL_15"
     },
     {
@@ -4280,7 +4254,7 @@
         "communityCredit":"OwenReds",
         "hiddenInFriendly":null,
         "id":147,
-        "scId":1500132,
+        "scId":1500118,
         "rawTID":"BOSS_4"
     },
     {
@@ -4312,7 +4286,7 @@
         "communityCredit":"OwenReds",
         "hiddenInFriendly":null,
         "id":148,
-        "scId":1500133,
+        "scId":1500119,
         "rawTID":"BOSS_3"
     },
     {
@@ -4344,7 +4318,7 @@
         "communityCredit":null,
         "hiddenInFriendly":null,
         "id":149,
-        "scId":1500134
+        "scId":0
     },
     {
         "name":"Gemgrab19",
@@ -4382,7 +4356,7 @@
         "communityCredit":null,
         "hiddenInFriendly":null,
         "id":150,
-        "scId":1500135,
+        "scId":1500120,
         "rawTID":"GOLDRUSH_31"
     },
     {
@@ -4412,9 +4386,7 @@
         "shadowA":null,
         "music":null,
         "communityCredit":null,
-        "hiddenInFriendly":null,
-        "id":151,
-        "scId":1500136
+        "hiddenInFriendly":null
     },
     {
         "name":null,
@@ -4443,9 +4415,7 @@
         "shadowA":null,
         "music":null,
         "communityCredit":null,
-        "hiddenInFriendly":null,
-        "id":152,
-        "scId":1500137
+        "hiddenInFriendly":null
     },
     {
         "name":null,
@@ -4474,9 +4444,7 @@
         "shadowA":null,
         "music":null,
         "communityCredit":null,
-        "hiddenInFriendly":null,
-        "id":153,
-        "scId":1500138
+        "hiddenInFriendly":null
     },
     {
         "name":null,
@@ -4505,9 +4473,7 @@
         "shadowA":null,
         "music":null,
         "communityCredit":null,
-        "hiddenInFriendly":null,
-        "id":154,
-        "scId":1500139
+        "hiddenInFriendly":null
     },
     {
         "name":null,
@@ -4536,9 +4502,7 @@
         "shadowA":null,
         "music":null,
         "communityCredit":null,
-        "hiddenInFriendly":null,
-        "id":155,
-        "scId":1500140
+        "hiddenInFriendly":null
     },
     {
         "name":"Survival19",
@@ -4569,7 +4533,7 @@
         "communityCredit":"Mordeus",
         "hiddenInFriendly":null,
         "id":156,
-        "scId":1500141,
+        "scId":1500121,
         "rawTID":"BATTLE_ROYALE_28"
     },
     {
@@ -4601,7 +4565,7 @@
         "communityCredit":"Mordeus",
         "hiddenInFriendly":null,
         "id":157,
-        "scId":1500142,
+        "scId":1500122,
         "rawTID":"BATTLE_ROYALE_28"
     },
     {
@@ -4633,7 +4597,7 @@
         "communityCredit":"OwenReds",
         "hiddenInFriendly":null,
         "id":158,
-        "scId":1500143,
+        "scId":1500123,
         "rawTID":"BATTLE_ROYALE_31"
     },
     {
@@ -4665,7 +4629,7 @@
         "communityCredit":"OwenReds",
         "hiddenInFriendly":null,
         "id":159,
-        "scId":1500144,
+        "scId":1500124,
         "rawTID":"BATTLE_ROYALE_31"
     },
     {
@@ -4697,7 +4661,7 @@
         "communityCredit":"OwenReds",
         "hiddenInFriendly":null,
         "id":160,
-        "scId":1500145,
+        "scId":1500125,
         "rawTID":"ROBO_WARS_13"
     },
     {
@@ -4729,7 +4693,7 @@
         "communityCredit":"Binnyboy",
         "hiddenInFriendly":null,
         "id":161,
-        "scId":1500146,
+        "scId":1500126,
         "rawTID":"ROBO_WARS_11"
     },
     {
@@ -4761,7 +4725,7 @@
         "communityCredit":"Binnyboy",
         "hiddenInFriendly":null,
         "id":162,
-        "scId":1500147,
+        "scId":1500127,
         "rawTID":"ROBO_WARS_10"
     },
     {
@@ -4793,7 +4757,7 @@
         "communityCredit":"OwenReds",
         "hiddenInFriendly":null,
         "id":163,
-        "scId":1500148,
+        "scId":1500128,
         "rawTID":"ROBO_WARS_4"
     },
     {
@@ -4825,7 +4789,7 @@
         "communityCredit":"Mordeus",
         "hiddenInFriendly":null,
         "id":164,
-        "scId":1500149,
+        "scId":1500129,
         "rawTID":"ROBO_WARS_12"
     },
     {
@@ -4857,7 +4821,7 @@
         "communityCredit":"Mordeus",
         "hiddenInFriendly":null,
         "id":165,
-        "scId":1500150,
+        "scId":1500130,
         "rawTID":"BALL_17"
     },
     {
@@ -4889,7 +4853,7 @@
         "communityCredit":null,
         "hiddenInFriendly":null,
         "id":166,
-        "scId":1500151,
+        "scId":1500131,
         "rawTID":"ROBO_WARS_14"
     },
     {
@@ -4921,7 +4885,7 @@
         "communityCredit":"ash",
         "hiddenInFriendly":null,
         "id":167,
-        "scId":1500152,
+        "scId":1500132,
         "rawTID":"BALL_21"
     },
     {
@@ -4953,7 +4917,7 @@
         "communityCredit":"Mordeus",
         "hiddenInFriendly":null,
         "id":168,
-        "scId":1500153,
+        "scId":1500133,
         "rawTID":"BATTLE_ROYALE_16"
     },
     {
@@ -4985,7 +4949,7 @@
         "communityCredit":"Mordeus",
         "hiddenInFriendly":null,
         "id":169,
-        "scId":1500154,
+        "scId":1500134,
         "rawTID":"BATTLE_ROYALE_16"
     },
     {
@@ -5017,7 +4981,7 @@
         "communityCredit":"Lex",
         "hiddenInFriendly":null,
         "id":170,
-        "scId":1500155,
+        "scId":1500135,
         "rawTID":"BANKHEIST_14B"
     },
     {
@@ -5049,7 +5013,7 @@
         "communityCredit":"OwenReds",
         "hiddenInFriendly":null,
         "id":171,
-        "scId":1500156,
+        "scId":1500136,
         "rawTID":"BANKHEIST_15"
     },
     {
@@ -5081,7 +5045,7 @@
         "communityCredit":null,
         "hiddenInFriendly":null,
         "id":172,
-        "scId":1500157,
+        "scId":1500137,
         "rawTID":"GOLDRUSH_21"
     },
     {
@@ -5113,7 +5077,7 @@
         "communityCredit":"Frep",
         "hiddenInFriendly":null,
         "id":173,
-        "scId":1500158,
+        "scId":1500138,
         "rawTID":"GOLDRUSH_21C"
     },
     {
@@ -5145,7 +5109,7 @@
         "communityCredit":"Mr. Lee",
         "hiddenInFriendly":null,
         "id":174,
-        "scId":1500159,
+        "scId":1500139,
         "rawTID":"ROBO_WARS_2"
     },
     {
@@ -5177,7 +5141,7 @@
         "communityCredit":"G.W.B.S.",
         "hiddenInFriendly":null,
         "id":175,
-        "scId":1500160,
+        "scId":1500140,
         "rawTID":"ROBO_WARS_3"
     },
     {
@@ -5209,7 +5173,7 @@
         "communityCredit":"FeFaLah",
         "hiddenInFriendly":null,
         "id":176,
-        "scId":1500161,
+        "scId":1500141,
         "rawTID":"BALL_22"
     },
     {
@@ -5241,7 +5205,7 @@
         "communityCredit":"Chief Pekka",
         "hiddenInFriendly":null,
         "id":177,
-        "scId":1500162,
+        "scId":1500142,
         "rawTID":"BALL_23"
     },
     {
@@ -5273,7 +5237,7 @@
         "communityCredit":"Thomas P.",
         "hiddenInFriendly":null,
         "id":178,
-        "scId":1500163,
+        "scId":1500143,
         "rawTID":"BANKHEIST_16"
     },
     {
@@ -5305,7 +5269,7 @@
         "communityCredit":"GO away",
         "hiddenInFriendly":null,
         "id":179,
-        "scId":1500164,
+        "scId":1500144,
         "rawTID":"BANKHEIST_17"
     },
     {
@@ -5337,7 +5301,7 @@
         "communityCredit":"Milan R.",
         "hiddenInFriendly":null,
         "id":180,
-        "scId":1500165,
+        "scId":1500145,
         "rawTID":"GOLDRUSH_22"
     },
     {
@@ -5369,7 +5333,7 @@
         "communityCredit":"OwenReds",
         "hiddenInFriendly":null,
         "id":181,
-        "scId":1500166,
+        "scId":1500146,
         "rawTID":"GOLDRUSH_33"
     },
     {
@@ -5401,7 +5365,7 @@
         "communityCredit":"Justin W.",
         "hiddenInFriendly":null,
         "id":182,
-        "scId":1500167,
+        "scId":1500147,
         "rawTID":"WANTED_16"
     },
     {
@@ -5433,7 +5397,7 @@
         "communityCredit":"Ossama H.",
         "hiddenInFriendly":null,
         "id":183,
-        "scId":1500168,
+        "scId":1500148,
         "rawTID":"WANTED_17"
     },
     {
@@ -5465,7 +5429,7 @@
         "communityCredit":"Mordeus",
         "hiddenInFriendly":null,
         "id":184,
-        "scId":1500169,
+        "scId":1500149,
         "rawTID":"BANKHEIST_18B"
     },
     {
@@ -5497,7 +5461,7 @@
         "communityCredit":"feimao",
         "hiddenInFriendly":null,
         "id":185,
-        "scId":1500170,
+        "scId":1500150,
         "rawTID":"BATTLE_ROYALE_22A"
     },
     {
@@ -5529,7 +5493,7 @@
         "communityCredit":"feimao",
         "hiddenInFriendly":null,
         "id":186,
-        "scId":1500171,
+        "scId":1500151,
         "rawTID":"BATTLE_ROYALE_22A"
     },
     {
@@ -5561,7 +5525,7 @@
         "communityCredit":"Cloudy",
         "hiddenInFriendly":null,
         "id":187,
-        "scId":1500172,
+        "scId":1500152,
         "rawTID":"BATTLE_ROYALE_23A"
     },
     {
@@ -5593,7 +5557,7 @@
         "communityCredit":"Cloudy",
         "hiddenInFriendly":null,
         "id":188,
-        "scId":1500173,
+        "scId":1500153,
         "rawTID":"BATTLE_ROYALE_23A"
     },
     {
@@ -5625,7 +5589,7 @@
         "communityCredit":"OwenReds",
         "hiddenInFriendly":null,
         "id":189,
-        "scId":1500174,
+        "scId":1500154,
         "rawTID":"BATTLE_ROYALE_24A"
     },
     {
@@ -5657,7 +5621,7 @@
         "communityCredit":"OwenReds",
         "hiddenInFriendly":null,
         "id":190,
-        "scId":1500175,
+        "scId":1500155,
         "rawTID":"BATTLE_ROYALE_24A"
     },
     {
@@ -5689,7 +5653,7 @@
         "communityCredit":"Milan Ryba",
         "hiddenInFriendly":null,
         "id":191,
-        "scId":1500176,
+        "scId":1500156,
         "rawTID":"GOLDRUSH_24A"
     },
     {
@@ -5721,7 +5685,7 @@
         "communityCredit":"ToxinLab",
         "hiddenInFriendly":null,
         "id":192,
-        "scId":1500177,
+        "scId":1500157,
         "rawTID":"WANTED_17A"
     },
     {
@@ -5753,7 +5717,7 @@
         "communityCredit":"OwenReds",
         "hiddenInFriendly":null,
         "id":193,
-        "scId":1500178,
+        "scId":1500158,
         "rawTID":"BALL_14A"
     },
     {
@@ -5785,7 +5749,7 @@
         "communityCredit":"Silver Beast",
         "hiddenInFriendly":null,
         "id":194,
-        "scId":1500179,
+        "scId":1500159,
         "rawTID":"BALL_15A"
     },
     {
@@ -5817,7 +5781,7 @@
         "communityCredit":"Binnyboy",
         "hiddenInFriendly":null,
         "id":195,
-        "scId":1500180,
+        "scId":1500160,
         "rawTID":"BALL_16A"
     },
     {
@@ -5849,7 +5813,7 @@
         "communityCredit":"Ellisimo",
         "hiddenInFriendly":null,
         "id":196,
-        "scId":1500181,
+        "scId":1500161,
         "rawTID":"BALL_17A"
     },
     {
@@ -5881,7 +5845,7 @@
         "communityCredit":"Frep",
         "hiddenInFriendly":null,
         "id":197,
-        "scId":1500182,
+        "scId":1500162,
         "rawTID":"BALL_18A"
     },
     {
@@ -5913,7 +5877,7 @@
         "communityCredit":"Mordeus",
         "hiddenInFriendly":null,
         "id":198,
-        "scId":1500183,
+        "scId":1500163,
         "rawTID":"BATTLE_ROYALE_30A"
     },
     {
@@ -5945,7 +5909,7 @@
         "communityCredit":"Mordeus",
         "hiddenInFriendly":null,
         "id":199,
-        "scId":1500184,
+        "scId":1500164,
         "rawTID":"BATTLE_ROYALE_30A"
     },
     {
@@ -5977,7 +5941,7 @@
         "communityCredit":null,
         "hiddenInFriendly":null,
         "id":200,
-        "scId":1500185,
+        "scId":1500165,
         "rawTID":"BOSS_RACE_1"
     },
     {
@@ -6009,7 +5973,7 @@
         "communityCredit":"Mordeus",
         "hiddenInFriendly":null,
         "id":201,
-        "scId":1500186,
+        "scId":1500166,
         "rawTID":"BOSS_RACE_2"
     },
     {
@@ -6041,7 +6005,7 @@
         "communityCredit":null,
         "hiddenInFriendly":null,
         "id":202,
-        "scId":1500187,
+        "scId":1500167,
         "rawTID":"BOSS_RACE_3"
     },
     {
@@ -6073,7 +6037,7 @@
         "communityCredit":null,
         "hiddenInFriendly":null,
         "id":203,
-        "scId":1500188,
+        "scId":1500168,
         "rawTID":"BOSS_RACE_4"
     },
     {
@@ -6105,7 +6069,7 @@
         "communityCredit":null,
         "hiddenInFriendly":null,
         "id":204,
-        "scId":1500189,
+        "scId":1500169,
         "rawTID":"BOSS_RACE_5"
     },
     {
@@ -6137,7 +6101,7 @@
         "communityCredit":null,
         "hiddenInFriendly":null,
         "id":205,
-        "scId":1500190,
+        "scId":1500170,
         "rawTID":"BOSS_RACE_6"
     },
     {
@@ -6169,7 +6133,7 @@
         "communityCredit":null,
         "hiddenInFriendly":null,
         "id":206,
-        "scId":1500191,
+        "scId":1500171,
         "rawTID":"BOSS_RACE_7"
     },
     {
@@ -6201,7 +6165,7 @@
         "communityCredit":"_Shqdowz_",
         "hiddenInFriendly":null,
         "id":207,
-        "scId":1500192,
+        "scId":1500172,
         "rawTID":"LONESTAR_02"
     },
     {
@@ -6233,7 +6197,7 @@
         "communityCredit":"Cindy",
         "hiddenInFriendly":null,
         "id":208,
-        "scId":1500193,
+        "scId":1500173,
         "rawTID":"LONESTAR_03"
     },
     {
@@ -6265,7 +6229,7 @@
         "communityCredit":"iEnjoy",
         "hiddenInFriendly":null,
         "id":209,
-        "scId":1500194,
+        "scId":1500174,
         "rawTID":"LONESTAR_04"
     },
     {
@@ -6297,7 +6261,7 @@
         "communityCredit":"DustyBud",
         "hiddenInFriendly":null,
         "id":210,
-        "scId":1500195,
+        "scId":1500175,
         "rawTID":"LONESTAR_05"
     },
     {
@@ -6329,7 +6293,7 @@
         "communityCredit":"Frep",
         "hiddenInFriendly":null,
         "id":211,
-        "scId":1500196,
+        "scId":1500176,
         "rawTID":"LONESTAR_06"
     },
     {
@@ -6361,7 +6325,7 @@
         "communityCredit":"ToxinLab",
         "hiddenInFriendly":null,
         "id":212,
-        "scId":1500197,
+        "scId":1500177,
         "rawTID":"LONESTAR_07"
     },
     {
@@ -6393,7 +6357,7 @@
         "communityCredit":"OwenReds",
         "hiddenInFriendly":null,
         "id":213,
-        "scId":1500198,
+        "scId":1500178,
         "rawTID":"LONESTAR_08"
     },
     {
@@ -6428,7 +6392,7 @@
         "communityCredit":"-iLast",
         "hiddenInFriendly":null,
         "id":214,
-        "scId":1500199,
+        "scId":1500179,
         "rawTID":"BOSS_RACE_8"
     },
     {
@@ -6458,9 +6422,7 @@
         "shadowA":null,
         "music":null,
         "communityCredit":null,
-        "hiddenInFriendly":null,
-        "id":215,
-        "scId":1500200
+        "hiddenInFriendly":null
     },
     {
         "name":"BossRace9",
@@ -6494,7 +6456,7 @@
         "communityCredit":"Binnyboy",
         "hiddenInFriendly":null,
         "id":216,
-        "scId":1500201,
+        "scId":1500180,
         "rawTID":"BOSS_RACE_9"
     },
     {
@@ -6524,9 +6486,7 @@
         "shadowA":null,
         "music":null,
         "communityCredit":null,
-        "hiddenInFriendly":null,
-        "id":217,
-        "scId":1500202
+        "hiddenInFriendly":null
     },
     {
         "name":"BossRace10",
@@ -6560,7 +6520,7 @@
         "communityCredit":"OwenReds",
         "hiddenInFriendly":null,
         "id":218,
-        "scId":1500203,
+        "scId":1500181,
         "rawTID":"BOSS_RACE_10"
     },
     {
@@ -6590,9 +6550,7 @@
         "shadowA":null,
         "music":null,
         "communityCredit":null,
-        "hiddenInFriendly":null,
-        "id":219,
-        "scId":1500204
+        "hiddenInFriendly":null
     },
     {
         "name":"BossRace11",
@@ -6626,7 +6584,7 @@
         "communityCredit":"Mordeus",
         "hiddenInFriendly":null,
         "id":220,
-        "scId":1500205,
+        "scId":1500182,
         "rawTID":"BOSS_RACE_11"
     },
     {
@@ -6656,9 +6614,7 @@
         "shadowA":null,
         "music":null,
         "communityCredit":null,
-        "hiddenInFriendly":null,
-        "id":221,
-        "scId":1500206
+        "hiddenInFriendly":null
     },
     {
         "name":"BossRace12",
@@ -6692,7 +6648,7 @@
         "communityCredit":"Chief Pekka",
         "hiddenInFriendly":null,
         "id":222,
-        "scId":1500207,
+        "scId":1500183,
         "rawTID":"BATTLE_ROYALE_18"
     },
     {
@@ -6722,9 +6678,7 @@
         "shadowA":null,
         "music":null,
         "communityCredit":null,
-        "hiddenInFriendly":null,
-        "id":223,
-        "scId":1500208
+        "hiddenInFriendly":null
     },
     {
         "name":"BossRace13",
@@ -6758,7 +6712,7 @@
         "communityCredit":"_Shqdowz_",
         "hiddenInFriendly":null,
         "id":224,
-        "scId":1500209,
+        "scId":1500184,
         "rawTID":"BOSS_RACE_13"
     },
     {
@@ -6788,9 +6742,7 @@
         "shadowA":null,
         "music":null,
         "communityCredit":null,
-        "hiddenInFriendly":null,
-        "id":225,
-        "scId":1500210
+        "hiddenInFriendly":null
     },
     {
         "name":"BossRace14",
@@ -6824,7 +6776,7 @@
         "communityCredit":"Cloudy",
         "hiddenInFriendly":null,
         "id":226,
-        "scId":1500211,
+        "scId":1500185,
         "rawTID":"BOSS_RACE_14"
     },
     {
@@ -6854,9 +6806,7 @@
         "shadowA":null,
         "music":null,
         "communityCredit":null,
-        "hiddenInFriendly":null,
-        "id":227,
-        "scId":1500212
+        "hiddenInFriendly":null
     },
     {
         "name":"Graves1",
@@ -6890,7 +6840,7 @@
         "communityCredit":null,
         "hiddenInFriendly":null,
         "id":228,
-        "scId":1500213,
+        "scId":1500186,
         "rawTID":"BATTLE_ROYALE_1"
     },
     {
@@ -6920,9 +6870,7 @@
         "shadowA":null,
         "music":null,
         "communityCredit":null,
-        "hiddenInFriendly":null,
-        "id":229,
-        "scId":1500214
+        "hiddenInFriendly":null
     },
     {
         "name":"GravesTeam1",
@@ -6956,7 +6904,7 @@
         "communityCredit":null,
         "hiddenInFriendly":null,
         "id":230,
-        "scId":1500215,
+        "scId":1500187,
         "rawTID":"BATTLE_ROYALE_1"
     },
     {
@@ -6986,9 +6934,7 @@
         "shadowA":null,
         "music":null,
         "communityCredit":null,
-        "hiddenInFriendly":null,
-        "id":231,
-        "scId":1500216
+        "hiddenInFriendly":null
     },
     {
         "name":"Graves2",
@@ -7022,7 +6968,7 @@
         "communityCredit":"Tony_A9",
         "hiddenInFriendly":null,
         "id":232,
-        "scId":1500217,
+        "scId":1500188,
         "rawTID":"BATTLE_ROYALE_12"
     },
     {
@@ -7052,9 +6998,7 @@
         "shadowA":null,
         "music":null,
         "communityCredit":null,
-        "hiddenInFriendly":null,
-        "id":233,
-        "scId":1500218
+        "hiddenInFriendly":null
     },
     {
         "name":"GravesTeam2",
@@ -7088,7 +7032,7 @@
         "communityCredit":"Tony_A9",
         "hiddenInFriendly":null,
         "id":234,
-        "scId":1500219,
+        "scId":1500189,
         "rawTID":"BATTLE_ROYALE_12"
     },
     {
@@ -7118,9 +7062,7 @@
         "shadowA":null,
         "music":null,
         "communityCredit":null,
-        "hiddenInFriendly":null,
-        "id":235,
-        "scId":1500220
+        "hiddenInFriendly":null
     },
     {
         "name":"Graves3",
@@ -7154,7 +7096,7 @@
         "communityCredit":"Mordeus",
         "hiddenInFriendly":null,
         "id":236,
-        "scId":1500221,
+        "scId":1500190,
         "rawTID":"BATTLE_ROYALE_5"
     },
     {
@@ -7184,9 +7126,7 @@
         "shadowA":null,
         "music":null,
         "communityCredit":null,
-        "hiddenInFriendly":null,
-        "id":237,
-        "scId":1500222
+        "hiddenInFriendly":null
     },
     {
         "name":"GravesTeam3",
@@ -7220,7 +7160,7 @@
         "communityCredit":"Mordeus",
         "hiddenInFriendly":null,
         "id":238,
-        "scId":1500223,
+        "scId":1500191,
         "rawTID":"BATTLE_ROYALE_5"
     },
     {
@@ -7250,9 +7190,7 @@
         "shadowA":null,
         "music":null,
         "communityCredit":null,
-        "hiddenInFriendly":null,
-        "id":239,
-        "scId":1500224
+        "hiddenInFriendly":null
     },
     {
         "name":"Graves4",
@@ -7286,7 +7224,7 @@
         "communityCredit":"Mordeus",
         "hiddenInFriendly":null,
         "id":240,
-        "scId":1500225,
+        "scId":1500192,
         "rawTID":"BATTLE_ROYALE_13"
     },
     {
@@ -7316,9 +7254,7 @@
         "shadowA":null,
         "music":null,
         "communityCredit":null,
-        "hiddenInFriendly":null,
-        "id":241,
-        "scId":1500226
+        "hiddenInFriendly":null
     },
     {
         "name":"GravesTeam4",
@@ -7352,7 +7288,7 @@
         "communityCredit":"Mordeus",
         "hiddenInFriendly":null,
         "id":242,
-        "scId":1500227,
+        "scId":1500193,
         "rawTID":"BATTLE_ROYALE_13"
     },
     {
@@ -7382,9 +7318,7 @@
         "shadowA":null,
         "music":null,
         "communityCredit":null,
-        "hiddenInFriendly":null,
-        "id":243,
-        "scId":1500228
+        "hiddenInFriendly":null
     },
     {
         "name":"Graves5",
@@ -7418,7 +7352,7 @@
         "communityCredit":"ash",
         "hiddenInFriendly":null,
         "id":244,
-        "scId":1500229,
+        "scId":1500194,
         "rawTID":"LONESTAR_01"
     },
     {
@@ -7448,9 +7382,7 @@
         "shadowA":null,
         "music":null,
         "communityCredit":null,
-        "hiddenInFriendly":null,
-        "id":245,
-        "scId":1500230
+        "hiddenInFriendly":null
     },
     {
         "name":"GravesTeam5",
@@ -7484,7 +7416,7 @@
         "communityCredit":"ash",
         "hiddenInFriendly":null,
         "id":246,
-        "scId":1500231,
+        "scId":1500195,
         "rawTID":"LONESTAR_01"
     },
     {
@@ -7514,9 +7446,7 @@
         "shadowA":null,
         "music":null,
         "communityCredit":null,
-        "hiddenInFriendly":null,
-        "id":247,
-        "scId":1500232
+        "hiddenInFriendly":null
     },
     {
         "name":"Graves6",
@@ -7550,7 +7480,7 @@
         "communityCredit":"Maxymus",
         "hiddenInFriendly":null,
         "id":248,
-        "scId":1500233,
+        "scId":1500196,
         "rawTID":"BATTLE_ROYALE_17"
     },
     {
@@ -7580,9 +7510,7 @@
         "shadowA":null,
         "music":null,
         "communityCredit":null,
-        "hiddenInFriendly":null,
-        "id":249,
-        "scId":1500234
+        "hiddenInFriendly":null
     },
     {
         "name":"GravesTeam6",
@@ -7616,7 +7544,7 @@
         "communityCredit":"Maxymus",
         "hiddenInFriendly":null,
         "id":250,
-        "scId":1500235,
+        "scId":1500197,
         "rawTID":"BATTLE_ROYALE_17"
     },
     {
@@ -7646,9 +7574,7 @@
         "shadowA":null,
         "music":null,
         "communityCredit":null,
-        "hiddenInFriendly":null,
-        "id":251,
-        "scId":1500236
+        "hiddenInFriendly":null
     },
     {
         "name":"Graves7",
@@ -7682,7 +7608,7 @@
         "communityCredit":"Pentagonal Cubes",
         "hiddenInFriendly":null,
         "id":252,
-        "scId":1500237,
+        "scId":1500198,
         "rawTID":"BATTLE_ROYALE_21"
     },
     {
@@ -7712,9 +7638,7 @@
         "shadowA":null,
         "music":null,
         "communityCredit":null,
-        "hiddenInFriendly":null,
-        "id":253,
-        "scId":1500238
+        "hiddenInFriendly":null
     },
     {
         "name":"GravesTeam7",
@@ -7748,7 +7672,7 @@
         "communityCredit":"Pentagonal Cubes",
         "hiddenInFriendly":null,
         "id":254,
-        "scId":1500239,
+        "scId":1500199,
         "rawTID":"BATTLE_ROYALE_21"
     },
     {
@@ -7778,8 +7702,6 @@
         "shadowA":null,
         "music":null,
         "communityCredit":null,
-        "hiddenInFriendly":null,
-        "id":255,
-        "scId":1500240
+        "hiddenInFriendly":null
     }
 ]

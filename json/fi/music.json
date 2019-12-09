@@ -72,8 +72,7 @@
         "durationSec":[
             52,
             56
-        ],
-        "id":13
+        ]
     },
     {
         "name":null,
@@ -82,8 +81,7 @@
         "loop":null,
         "playCount":null,
         "fadeOutTimeSec":null,
-        "durationSec":null,
-        "id":14
+        "durationSec":null
     },
     {
         "name":null,
@@ -92,8 +90,7 @@
         "loop":null,
         "playCount":null,
         "fadeOutTimeSec":null,
-        "durationSec":null,
-        "id":15
+        "durationSec":null
     },
     {
         "name":null,
@@ -102,8 +99,7 @@
         "loop":null,
         "playCount":null,
         "fadeOutTimeSec":null,
-        "durationSec":null,
-        "id":16
+        "durationSec":null
     },
     {
         "name":null,
@@ -112,8 +108,7 @@
         "loop":null,
         "playCount":null,
         "fadeOutTimeSec":null,
-        "durationSec":null,
-        "id":17
+        "durationSec":null
     },
     {
         "name":null,
@@ -122,8 +117,7 @@
         "loop":null,
         "playCount":null,
         "fadeOutTimeSec":null,
-        "durationSec":null,
-        "id":18
+        "durationSec":null
     },
     {
         "name":"Snow_brawl",
@@ -158,8 +152,7 @@
         "loop":null,
         "playCount":null,
         "fadeOutTimeSec":null,
-        "durationSec":null,
-        "id":20
+        "durationSec":null
     },
     {
         "name":null,
@@ -168,8 +161,7 @@
         "loop":null,
         "playCount":null,
         "fadeOutTimeSec":null,
-        "durationSec":null,
-        "id":21
+        "durationSec":null
     },
     {
         "name":"Cny_levels",
@@ -200,8 +192,7 @@
         "loop":null,
         "playCount":null,
         "fadeOutTimeSec":null,
-        "durationSec":null,
-        "id":23
+        "durationSec":null
     },
     {
         "name":"Retropolis_battle",
@@ -232,8 +223,7 @@
         "loop":null,
         "playCount":null,
         "fadeOutTimeSec":null,
-        "durationSec":null,
-        "id":25
+        "durationSec":null
     },
     {
         "name":"Retropolis_menu",
@@ -284,8 +274,7 @@
         "loop":null,
         "playCount":null,
         "fadeOutTimeSec":null,
-        "durationSec":null,
-        "id":29
+        "durationSec":null
     },
     {
         "name":"MenuMusic",

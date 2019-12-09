@@ -169,8 +169,7 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":23
+        "altStringArray":null
     },
     {
         "name":null,
@@ -179,8 +178,7 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":24
+        "altStringArray":null
     },
     {
         "name":null,
@@ -189,8 +187,7 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":25
+        "altStringArray":null
     },
     {
         "name":null,
@@ -199,8 +196,7 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":26
+        "altStringArray":null
     },
     {
         "name":null,
@@ -209,8 +205,7 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":27
+        "altStringArray":null
     },
     {
         "name":null,
@@ -219,8 +214,7 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":28
+        "altStringArray":null
     },
     {
         "name":null,
@@ -229,8 +223,7 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":29
+        "altStringArray":null
     },
     {
         "name":null,
@@ -239,8 +232,7 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":30
+        "altStringArray":null
     },
     {
         "name":null,
@@ -249,8 +241,7 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":31
+        "altStringArray":null
     },
     {
         "name":null,
@@ -259,8 +250,7 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":32
+        "altStringArray":null
     },
     {
         "name":null,
@@ -269,8 +259,7 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":33
+        "altStringArray":null
     },
     {
         "name":null,
@@ -279,8 +268,7 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":34
+        "altStringArray":null
     },
     {
         "name":"FAQ_URL",
@@ -336,8 +324,7 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":39
+        "altStringArray":null
     },
     {
         "name":null,
@@ -346,8 +333,7 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":40
+        "altStringArray":null
     },
     {
         "name":null,
@@ -356,8 +342,7 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":41
+        "altStringArray":null
     },
     {
         "name":null,
@@ -366,8 +351,7 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":42
+        "altStringArray":null
     },
     {
         "name":null,
@@ -376,8 +360,7 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":43
+        "altStringArray":null
     },
     {
         "name":"FEEDBACK_CATEGORY_BANNED",
@@ -474,8 +457,7 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":52
+        "altStringArray":null
     },
     {
         "name":null,
@@ -484,8 +466,7 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":53
+        "altStringArray":null
     },
     {
         "name":null,
@@ -494,8 +475,7 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":54
+        "altStringArray":null
     },
     {
         "name":null,
@@ -504,8 +484,7 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":55
+        "altStringArray":null
     },
     {
         "name":null,
@@ -514,8 +493,7 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":56
+        "altStringArray":null
     },
     {
         "name":null,
@@ -524,8 +502,7 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":57
+        "altStringArray":null
     },
     {
         "name":"MEDIUM_GFX_DEVICES",
@@ -550,8 +527,7 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":59
+        "altStringArray":null
     },
     {
         "name":null,
@@ -560,8 +536,7 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":60
+        "altStringArray":null
     },
     {
         "name":null,
@@ -570,8 +545,7 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":61
+        "altStringArray":null
     },
     {
         "name":null,
@@ -580,8 +554,7 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":62
+        "altStringArray":null
     },
     {
         "name":"LOW_GFX_DEVICES",
@@ -612,8 +585,7 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":64
+        "altStringArray":null
     },
     {
         "name":null,
@@ -622,8 +594,7 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":65
+        "altStringArray":null
     },
     {
         "name":null,
@@ -632,8 +603,7 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":66
+        "altStringArray":null
     },
     {
         "name":null,
@@ -642,8 +612,7 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":67
+        "altStringArray":null
     },
     {
         "name":null,
@@ -652,8 +621,7 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":68
+        "altStringArray":null
     },
     {
         "name":null,
@@ -662,8 +630,7 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":69
+        "altStringArray":null
     },
     {
         "name":null,
@@ -672,8 +639,7 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":70
+        "altStringArray":null
     },
     {
         "name":null,
@@ -682,8 +648,7 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":71
+        "altStringArray":null
     },
     {
         "name":null,
@@ -692,8 +657,7 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":72
+        "altStringArray":null
     },
     {
         "name":null,
@@ -702,8 +666,7 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":73
+        "altStringArray":null
     },
     {
         "name":"DROID_SANS_FALLBACK_ON_LOW_MEM_DEVICES",
@@ -857,8 +820,7 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":88
+        "altStringArray":null
     },
     {
         "name":null,
@@ -867,8 +829,7 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":89
+        "altStringArray":null
     },
     {
         "name":null,
@@ -877,8 +838,7 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":90
+        "altStringArray":null
     },
     {
         "name":"ANDROID_HIGH_MEMORY_LIMIT",
@@ -1623,8 +1583,7 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":164
+        "altStringArray":null
     },
     {
         "name":null,
@@ -1633,8 +1592,7 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":165
+        "altStringArray":null
     },
     {
         "name":null,
@@ -1643,8 +1601,7 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":166
+        "altStringArray":null
     },
     {
         "name":null,
@@ -1653,8 +1610,7 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":167
+        "altStringArray":null
     },
     {
         "name":"SHOW_IAP_NOTIFICATION_POPUP",
@@ -3356,8 +3312,7 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":337
+        "altStringArray":null
     },
     {
         "name":"USE_SHIP_SCREEN_URL",
@@ -3519,8 +3474,7 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":353
+        "altStringArray":null
     },
     {
         "name":"LASER_BOX_DOMAIN_WHITE_LIST",
@@ -3545,8 +3499,7 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":355
+        "altStringArray":null
     },
     {
         "name":null,
@@ -3555,8 +3508,7 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":356
+        "altStringArray":null
     },
     {
         "name":null,
@@ -3565,8 +3517,7 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":357
+        "altStringArray":null
     },
     {
         "name":null,
@@ -3575,8 +3526,7 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":358
+        "altStringArray":null
     },
     {
         "name":"JOYSTICK_AREA_WIDTH",
@@ -3904,8 +3854,7 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":387
+        "altStringArray":null
     },
     {
         "name":null,
@@ -3914,8 +3863,7 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":388
+        "altStringArray":null
     },
     {
         "name":null,
@@ -3924,8 +3872,7 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":389
+        "altStringArray":null
     },
     {
         "name":null,
@@ -3934,8 +3881,7 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":390
+        "altStringArray":null
     },
     {
         "name":null,
@@ -3944,8 +3890,7 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":391
+        "altStringArray":null
     },
     {
         "name":null,
@@ -3954,8 +3899,7 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":392
+        "altStringArray":null
     },
     {
         "name":null,
@@ -3964,8 +3908,7 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":393
+        "altStringArray":null
     },
     {
         "name":null,
@@ -3974,8 +3917,7 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":394
+        "altStringArray":null
     },
     {
         "name":null,
@@ -3984,8 +3926,7 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":395
+        "altStringArray":null
     },
     {
         "name":null,
@@ -3994,8 +3935,7 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":396
+        "altStringArray":null
     },
     {
         "name":null,
@@ -4004,8 +3944,7 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":397
+        "altStringArray":null
     },
     {
         "name":"DEFAULT_FONT_COLORS",
@@ -4035,8 +3974,7 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":399
+        "altStringArray":null
     },
     {
         "name":null,
@@ -4045,8 +3983,7 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":400
+        "altStringArray":null
     },
     {
         "name":null,
@@ -4055,8 +3992,7 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":401
+        "altStringArray":null
     },
     {
         "name":null,
@@ -4065,8 +4001,7 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":402
+        "altStringArray":null
     },
     {
         "name":null,
@@ -4075,8 +4010,7 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":403
+        "altStringArray":null
     },
     {
         "name":null,
@@ -4085,8 +4019,7 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":404
+        "altStringArray":null
     },
     {
         "name":null,
@@ -4095,8 +4028,7 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":405
+        "altStringArray":null
     },
     {
         "name":null,
@@ -4105,8 +4037,7 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":406
+        "altStringArray":null
     },
     {
         "name":null,
@@ -4115,8 +4046,7 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":407
+        "altStringArray":null
     },
     {
         "name":"COLOR_YOU",
@@ -4163,8 +4093,7 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":410
+        "altStringArray":null
     },
     {
         "name":null,
@@ -4173,8 +4102,7 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":411
+        "altStringArray":null
     },
     {
         "name":null,
@@ -4183,8 +4111,7 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":412
+        "altStringArray":null
     },
     {
         "name":null,
@@ -4193,8 +4120,7 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":413
+        "altStringArray":null
     },
     {
         "name":null,
@@ -4203,8 +4129,7 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":414
+        "altStringArray":null
     },
     {
         "name":null,
@@ -4213,8 +4138,7 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":415
+        "altStringArray":null
     },
     {
         "name":null,
@@ -4223,7 +4147,6 @@
         "textValue":null,
         "numberArray":null,
         "stringArray":null,
-        "altStringArray":null,
-        "id":416
+        "altStringArray":null
     }
 ]
