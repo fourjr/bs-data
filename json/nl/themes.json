@@ -97,5 +97,16 @@
         "particleVariations":null,
         "themeMusic":"Halloween_menu",
         "useInLevelSelection":true
+    },
+    {
+        "name":"Brawlidays",
+        "fileName":"sc\/background_brawlidays.sc",
+        "exportName":"bgr_brawlidays",
+        "particleFileName":null,
+        "particleExportName":null,
+        "particleStyle":null,
+        "particleVariations":null,
+        "themeMusic":"Xmas_Pirate_Menu",
+        "useInLevelSelection":true
     }
 ]

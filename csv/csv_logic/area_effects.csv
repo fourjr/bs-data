@@ -73,3 +73,6 @@
 "MummyUltiArea",,"sc/effects_brawler.sc","emz_def_ulti_area","emz_def_ulti_area","emz_def_ulti_area_red","GroundHigh",,,"emz_def_ulti",,350,5000,1700,200,,"Dot",,,,,,,350,,,
 "BossRaceBossRocketExplosion",,"sc/effects.sc","range450_blue","range450_blue","range450_red","GroundHigh",,,"bossrace_rocket_explosion",,185,700,1000,2000,,"Damage",,,,"true",150,250,,,,
 "BossRaceBossRocketBurn",,"sc/effects.sc","brock_ground_fire_red","brock_ground_fire_red","brock_ground_fire_red","GroundHigh",,,"burning_ground_raid_boss",,100,6900,1000,,,"Dot",,,,,,,,"true",,
+"SpeedyUltiArea",,"sc/effects_brawler.sc","max_def_ulti_area","max_def_ulti_area","max_def_ulti_area_red","GroundHigh",,,"max_def_ulti_active",,120,1000,1200,300,80,"SpeedBuff",,,,,,,,,,
+"ReloadBoostPersonal",,"sc/effects_brawler.sc","fireball_ground","fireball_ground","fireball_ground_red","GroundHigh",,,,,90,600000,900,,100,"ReloadBoostPersonal",,,,,,,,,,
+"CTFHomeBase",,"sc/effects_brawler.sc","area_mode_gift","area_mode_gift","area_mode_gift_red","GroundHigh",,,,"mode_gift_aura",250,600000,1000,,,"Effect",,,,,,,,,,

@@ -56,8 +56,8 @@
     {
         "name":null,
         "fileName":[
-            "music\/brawloween_ingame_01.ogg",
-            "music\/brawloween_ingame_02.ogg"
+            "music\/pirate_brawl_ingame_01.ogg",
+            "music\/pirate_brawl_ingame_02.ogg"
         ],
         "volume":[
             70,
@@ -70,8 +70,8 @@
         "playCount":null,
         "fadeOutTimeSec":null,
         "durationSec":[
-            52,
-            56
+            63,
+            71
         ]
     },
     {
@@ -277,6 +277,47 @@
         "durationSec":null
     },
     {
+        "name":"Xmas_Pirate_Menu",
+        "fileName":"music\/brawl_pirate_menu_01.ogg",
+        "volume":60,
+        "loop":true,
+        "playCount":null,
+        "fadeOutTimeSec":null,
+        "durationSec":67,
+        "id":30
+    },
+    {
+        "name":"Pirate_Brawl_Ingame",
+        "fileName":[
+            "music\/pirate_brawl_ingame_01.ogg",
+            "music\/pirate_brawl_ingame_02.ogg"
+        ],
+        "volume":[
+            70,
+            70
+        ],
+        "loop":[
+            true,
+            true
+        ],
+        "playCount":null,
+        "fadeOutTimeSec":null,
+        "durationSec":[
+            63,
+            71
+        ],
+        "id":31
+    },
+    {
+        "name":null,
+        "fileName":null,
+        "volume":null,
+        "loop":null,
+        "playCount":null,
+        "fadeOutTimeSec":null,
+        "durationSec":null
+    },
+    {
         "name":"MenuMusic",
         "fileName":"music\/brawl_stars_menu_01.ogg",
         "volume":60,
@@ -284,7 +325,7 @@
         "playCount":null,
         "fadeOutTimeSec":null,
         "durationSec":153,
-        "id":30
+        "id":33
     },
     {
         "name":"MechMenuMusic",
@@ -294,7 +335,7 @@
         "playCount":null,
         "fadeOutTimeSec":null,
         "durationSec":78,
-        "id":31
+        "id":34
     },
     {
         "name":"Cnymenu_music",
@@ -304,7 +345,7 @@
         "playCount":null,
         "fadeOutTimeSec":null,
         "durationSec":178,
-        "id":32
+        "id":35
     },
     {
         "name":"Brawl_royale_menu_music",
@@ -314,7 +355,7 @@
         "playCount":null,
         "fadeOutTimeSec":null,
         "durationSec":91,
-        "id":33
+        "id":36
     },
     {
         "name":"Brawl_dawgs_menu",
@@ -324,7 +365,7 @@
         "playCount":null,
         "fadeOutTimeSec":null,
         "durationSec":95,
-        "id":34
+        "id":37
     },
     {
         "name":"WinJingle",
@@ -334,7 +375,7 @@
         "playCount":1,
         "fadeOutTimeSec":null,
         "durationSec":null,
-        "id":35
+        "id":38
     },
     {
         "name":"LoseJingle",
@@ -344,7 +385,7 @@
         "playCount":1,
         "fadeOutTimeSec":null,
         "durationSec":null,
-        "id":36
+        "id":39
     },
     {
         "name":"DrawJingle",
@@ -354,7 +395,7 @@
         "playCount":1,
         "fadeOutTimeSec":null,
         "durationSec":null,
-        "id":37
+        "id":40
     },
     {
         "name":"Win_loop",
@@ -364,7 +405,7 @@
         "playCount":null,
         "fadeOutTimeSec":null,
         "durationSec":30,
-        "id":38
+        "id":41
     },
     {
         "name":"Draw_loop",
@@ -374,7 +415,7 @@
         "playCount":null,
         "fadeOutTimeSec":null,
         "durationSec":34,
-        "id":39
+        "id":42
     },
     {
         "name":"Lose_loop",
@@ -384,7 +425,7 @@
         "playCount":null,
         "fadeOutTimeSec":null,
         "durationSec":28,
-        "id":40
+        "id":43
     },
     {
         "name":"Brawlbawl_goal",
@@ -394,7 +435,7 @@
         "playCount":1,
         "fadeOutTimeSec":null,
         "durationSec":null,
-        "id":41
+        "id":44
     },
     {
         "name":"Brawlbawl_other_goal",
@@ -404,7 +445,7 @@
         "playCount":1,
         "fadeOutTimeSec":null,
         "durationSec":null,
-        "id":42
+        "id":45
     },
     {
         "name":"30_sec_panic",
@@ -414,6 +455,26 @@
         "playCount":null,
         "fadeOutTimeSec":null,
         "durationSec":30,
-        "id":43
+        "id":46
+    },
+    {
+        "name":"Brawl_xmas_flag_win",
+        "fileName":"music\/brawl_xmas_flag_win_01.ogg",
+        "volume":70,
+        "loop":null,
+        "playCount":1,
+        "fadeOutTimeSec":null,
+        "durationSec":null,
+        "id":47
+    },
+    {
+        "name":"Brawl_xmas_flag_lose",
+        "fileName":"music\/brawl_xmas_flag_lose_01.ogg",
+        "volume":70,
+        "loop":null,
+        "playCount":1,
+        "fadeOutTimeSec":null,
+        "durationSec":null,
+        "id":48
     }
 ]

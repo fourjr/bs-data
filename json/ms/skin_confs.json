@@ -72,7 +72,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"GunSlingerDefault",
@@ -147,7 +150,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"GunSlingerRockstar",
@@ -222,7 +228,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"BullGuyDefault",
@@ -297,7 +306,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"RocketGirlDefault",
@@ -372,7 +384,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"RocketGirlBeach",
@@ -447,7 +462,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":"BurnMainAttackWater"
+        "incendiaryStarPowerAreaEffect":"BurnMainAttackWater",
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"TntGuyDefault",
@@ -522,7 +540,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"LuchadorDefault",
@@ -597,7 +618,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"TurretDefault",
@@ -672,7 +696,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"TrickshotDefault",
@@ -747,7 +774,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"CactusDefault",
@@ -822,7 +852,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"CactusPink",
@@ -897,7 +930,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"BarkeepDefault",
@@ -972,7 +1008,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"MechanicDefault",
@@ -1047,7 +1086,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"ShamanDefault",
@@ -1122,7 +1164,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"ShamanPanda",
@@ -1197,7 +1242,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"ShamanBearDefault",
@@ -1272,7 +1320,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"ShamanBearPanda",
@@ -1347,7 +1398,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"UndertakerDefault",
@@ -1422,7 +1476,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"CrowDefault",
@@ -1497,7 +1554,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"CrowWhite",
@@ -1572,7 +1632,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"DeadMariachiDefault",
@@ -1647,7 +1710,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"BowDudeDefault",
@@ -1722,7 +1788,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"SniperDefault",
@@ -1797,7 +1866,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"MinigunDudeDefault",
@@ -1872,7 +1944,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"BullGuyHair",
@@ -1947,7 +2022,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"TrickshotGold",
@@ -2022,7 +2100,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"BarkeepGold",
@@ -2097,7 +2178,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"LuchadorRudo",
@@ -2172,7 +2256,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"BanditGirlBandita",
@@ -2247,7 +2334,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"LuchadorRey",
@@ -2322,7 +2412,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"BallDefault",
@@ -2397,7 +2490,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"BlackholeDefault",
@@ -2472,7 +2568,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"HealstationDefault",
@@ -2547,7 +2646,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"BarrelbotDefault",
@@ -2622,7 +2724,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"BlackholePetDefault",
@@ -2697,7 +2802,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"TntPetDefault",
@@ -2772,7 +2880,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"RangedBotDefault",
@@ -2847,7 +2958,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"MeleeFastBotDefault",
@@ -2922,7 +3036,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"MeleeBotDefault",
@@ -2997,7 +3114,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"BossBotDefault",
@@ -3072,7 +3192,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"ArtilleryGalDefault",
@@ -3147,7 +3270,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"FrankDefault",
@@ -3222,7 +3348,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"ArtilleryTurretDefault",
@@ -3297,7 +3426,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"MechanicKnight",
@@ -3372,7 +3504,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"FrankCaveman",
@@ -3447,7 +3582,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"TurretDragon",
@@ -3522,7 +3660,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":"JessieTurret003Projectile",
         "projectileForShockyStarPower":"Turret003Proj",
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"MechanicSummer",
@@ -3597,7 +3738,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"TurretSummertime",
@@ -3672,7 +3816,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":"JessieTurret002Projectile",
         "projectileForShockyStarPower":"TurretWaterProj",
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"CrowPheonix",
@@ -3747,7 +3894,10 @@
         "boneEffectUse":"ulti",
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"UndertakerGreaser",
@@ -3822,7 +3972,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"BigBotDefault",
@@ -3897,7 +4050,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"BanditGirlPrereg",
@@ -3972,7 +4128,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"LootBox",
@@ -4047,7 +4206,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"TntBox",
@@ -4122,7 +4284,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"Safe",
@@ -4197,7 +4362,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"TntGuySanta",
@@ -4272,7 +4440,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"TntGuyChef",
@@ -4347,7 +4518,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"RocketGirlBoombox",
@@ -4422,7 +4596,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"BarkeepWizard",
@@ -4497,7 +4674,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"ShamanReindeer",
@@ -4572,7 +4752,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"ArtilleryGalElf",
@@ -4647,7 +4830,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"NinjaDefault",
@@ -4722,7 +4908,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"UndertakerHat",
@@ -4797,7 +4986,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"BullGuyFootbull",
@@ -4872,7 +5064,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"ShamanBearReindeer",
@@ -4947,7 +5142,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"ArtilleryTurretElf",
@@ -5022,7 +5220,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"HookDefault",
@@ -5097,7 +5298,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"TrickshotPopcorn",
@@ -5172,7 +5376,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"GunSlingerHanbok",
@@ -5247,7 +5454,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"BarrelbotCny",
@@ -5322,7 +5532,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"PocoValentine",
@@ -5376,7 +5589,7 @@
         "ultiAttackEffect":"poco_002_atk_direct",
         "useBlueTextureInMenus":null,
         "mainAttackUseEffect":"poco_002_atk_root",
-        "ultiUseEffect":"poco_002_ulti_root",
+        "ultiUseEffect":"poco_002_atk_root",
         "ultiEndEffect":null,
         "meleeHitEffect":null,
         "spawnEffect":null,
@@ -5397,7 +5610,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"RocketGirlCny",
@@ -5472,7 +5688,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"WhirlwindDefault",
@@ -5547,7 +5766,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"RoboWarsBox",
@@ -5622,7 +5844,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"UndertakerNightwitch",
@@ -5697,7 +5922,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"RoboWarsBaseDefault",
@@ -5772,7 +6000,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"RosaDefault",
@@ -5847,7 +6078,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"MineCart",
@@ -5922,7 +6156,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"ShamanShiba",
@@ -5997,7 +6234,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"ShamanBearShiba",
@@ -6072,7 +6312,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"BaseballDefault",
@@ -6147,7 +6390,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"MineCartB",
@@ -6222,7 +6468,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"MineCartC",
@@ -6297,7 +6546,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"MineCartD",
@@ -6372,7 +6624,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"MineCartE",
@@ -6447,7 +6702,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"ClusterBombDefault",
@@ -6522,7 +6780,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"ClusterBombPetDefault",
@@ -6597,7 +6858,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"ArtilleryGalBunny",
@@ -6672,7 +6936,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"ArtilleryTurretBunny",
@@ -6747,7 +7014,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"BarkeepMs",
@@ -6822,7 +7092,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"RocketGirlHotrod",
@@ -6897,7 +7170,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"WhirlwindHotrod",
@@ -6972,7 +7248,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"BarkeepLumberjack",
@@ -7047,7 +7326,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"BoMecha",
@@ -7122,7 +7404,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"CrowMecha",
@@ -7197,7 +7482,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"Cactusmecha",
@@ -7272,7 +7560,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"TntDudeMecha",
@@ -7347,7 +7638,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"WhirlwindHogrider",
@@ -7387,7 +7681,7 @@
         "heroScreenFace":"CarlIdle",
         "heroScreenLoopFace":"CarlIdle",
         "signatureFace":"CarlIdle",
-        "profileFace":"CarlIdle",
+        "profileFace":"CarlProfile",
         "happyEffect":null,
         "sadEffect":null,
         "headRotationIngame":null,
@@ -7422,7 +7716,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"BallBeach",
@@ -7497,7 +7794,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"ArcadeDefault",
@@ -7572,7 +7872,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"DamageBoosterDefault",
@@ -7647,7 +7950,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"SniperPink",
@@ -7722,7 +8028,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"ArcadeClassic",
@@ -7797,7 +8106,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"NinjaShark",
@@ -7872,7 +8184,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"BlackHoleBlue",
@@ -7947,7 +8262,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"LootBoxMoonFestival",
@@ -8022,7 +8340,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"SandstormDefault",
@@ -8097,45 +8418,48 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"BeeSniperDefault",
         "character":"BeeSniper",
-        "model":"spike_geo.scw",
-        "cameraModel":"spike_base_cam.scw",
-        "idleAnim":"SpikeIdle",
-        "walkAnim":"SpikeWalk",
-        "primarySkillAnim":"SpikePrimary",
-        "secondarySkillAnim":"SpikeSecondary",
-        "primarySkillRecoilAnim":"SpikeRecoil",
+        "model":"bea_geo.scw",
+        "cameraModel":"bea_portrait.scw",
+        "idleAnim":"BeaIdle",
+        "walkAnim":"BeaWalk",
+        "primarySkillAnim":"BeaAttack",
+        "secondarySkillAnim":"BeaAttack",
+        "primarySkillRecoilAnim":"BeaRecoil",
         "primarySkillRecoilAnim2":null,
-        "secondarySkillRecoilAnim":"SpikeRecoil2",
+        "secondarySkillRecoilAnim":"BeaRecoil",
         "secondarySkillRecoilAnim2":null,
-        "reloadingAnim":"SpikeReload",
-        "pushbackAnim":"SpikeIdle",
-        "happyAnim":"SpikeWin",
-        "happyLoopAnim":"SpikeWinloop",
-        "sadAnim":"SpikeLose",
-        "sadLoopAnim":"SpikeLoseloop",
-        "heroScreenIdleAnim":"SpikeIdle",
-        "heroScreenAnim":"SpikeWin",
-        "heroScreenLoopAnim":"SpikeWinloop",
-        "signatureAnim":"SpikeWin",
-        "enterAnim":"SpikeIdle",
-        "profileAnim":"SpikeProfile",
+        "reloadingAnim":"BeaReload",
+        "pushbackAnim":"BeaPushback",
+        "happyAnim":"BeaWin",
+        "happyLoopAnim":"BeaWinloop",
+        "sadAnim":"BeaLose",
+        "sadLoopAnim":"BeaLoseloop",
+        "heroScreenIdleAnim":"BeaIdle",
+        "heroScreenAnim":"BeaWin",
+        "heroScreenLoopAnim":"BeaWinloop",
+        "signatureAnim":"BeaWin",
+        "enterAnim":"BeaIdle",
+        "profileAnim":"BeaPortrait",
         "bossAutoAttackAnim":null,
         "bossAutoAttackRecoilAnim":null,
         "bossAutoAttackRecoilAnim2":null,
-        "idleFace":null,
+        "idleFace":"BeaIdle",
         "walkFace":null,
-        "happyFace":null,
-        "happyLoopFace":null,
-        "sadFace":null,
-        "sadLoopFace":null,
-        "heroScreenIdleFace":null,
-        "heroScreenFace":null,
-        "heroScreenLoopFace":null,
+        "happyFace":"BeaHappy",
+        "happyLoopFace":"BeaIdle",
+        "sadFace":"BeaLose",
+        "sadLoopFace":"BeaLoseloop",
+        "heroScreenIdleFace":"BeaIdle",
+        "heroScreenFace":"BeaHappy",
+        "heroScreenLoopFace":"BeaIdle",
         "signatureFace":null,
         "profileFace":null,
         "happyEffect":null,
@@ -8143,12 +8467,12 @@
         "headRotationIngame":null,
         "hatScaleIngame":100,
         "petInSameSprite":null,
-        "attackLocksAttackAngle":null,
-        "ultiLocksAttackAngle":null,
+        "attackLocksAttackAngle":true,
+        "ultiLocksAttackAngle":true,
         "mainAttackProjectile":null,
         "ultiProjectile":null,
         "mainAttackEffect":null,
-        "ultiAttackEffect":null,
+        "ultiAttackEffect":"bea_def_ulti",
         "useBlueTextureInMenus":null,
         "mainAttackUseEffect":null,
         "ultiUseEffect":null,
@@ -8172,7 +8496,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":"bea_def_atk_charged"
     },
     {
         "name":"BossRaceBossDefault",
@@ -8247,7 +8574,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"BarkeepWizardRed",
@@ -8322,7 +8652,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"HookPirate",
@@ -8397,7 +8730,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"Sandstormsleepy",
@@ -8472,7 +8808,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"MummyDefault",
@@ -8547,7 +8886,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"Sniperrose",
@@ -8622,47 +8964,50 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"SpawnerDudeDefault",
         "character":"SpawnerDude",
-        "model":"mari_geo.scw",
-        "cameraModel":"penny_base_cam.scw",
-        "idleAnim":"ArtilleryGalIdle",
-        "walkAnim":"ArtilleryGalWalk",
-        "primarySkillAnim":"ArtilleryGalPrimary",
-        "secondarySkillAnim":"ArtilleryGalUltiAttack",
-        "primarySkillRecoilAnim":"ArtilleryGalRecoil",
+        "model":"brock_hotrod_geo.scw",
+        "cameraModel":"brock_base_cam.scw",
+        "idleAnim":"BrockHotrodIdle",
+        "walkAnim":"BrockHotrodWalk",
+        "primarySkillAnim":"BrockHotrodPrimary",
+        "secondarySkillAnim":"BrockHotrodSecondary",
+        "primarySkillRecoilAnim":"BrockHotrodRecoil",
         "primarySkillRecoilAnim2":null,
-        "secondarySkillRecoilAnim":"ArtilleryGalUltiRecoil",
+        "secondarySkillRecoilAnim":"BrockHotrodRecoil2",
         "secondarySkillRecoilAnim2":null,
-        "reloadingAnim":"ArtilleryGalReload",
-        "pushbackAnim":"ArtilleryGalPushback",
-        "happyAnim":"ArtilleryGalWin",
-        "happyLoopAnim":"ArtilleryGalWinloop",
-        "sadAnim":"ArtilleryGalLose",
-        "sadLoopAnim":"ArtilleryGalLoseloop",
-        "heroScreenIdleAnim":"ArtilleryGalIdle",
-        "heroScreenAnim":"ArtilleryGalWin",
-        "heroScreenLoopAnim":"ArtilleryGalWinloop",
-        "signatureAnim":"ArtilleryGalWin",
-        "enterAnim":"ArtilleryGalIdle",
-        "profileAnim":"ArtilleryGalProfile",
+        "reloadingAnim":"BrockHotrodIdle",
+        "pushbackAnim":"BrockHotrodPushback",
+        "happyAnim":"BrockHotrodWin",
+        "happyLoopAnim":"BrockHotrodWinloop",
+        "sadAnim":"BrockHotrodLose",
+        "sadLoopAnim":"BrockHotrodLoseloop",
+        "heroScreenIdleAnim":"BrockHotrodIdle",
+        "heroScreenAnim":"BrockHotrodWin",
+        "heroScreenLoopAnim":"BrockHotrodWinloop",
+        "signatureAnim":"BrockHotrodIdle",
+        "enterAnim":"BrockHotrodIdle",
+        "profileAnim":"BrockProfile",
         "bossAutoAttackAnim":null,
         "bossAutoAttackRecoilAnim":null,
         "bossAutoAttackRecoilAnim2":null,
-        "idleFace":"PennyFace",
-        "walkFace":"PennyFace",
-        "happyFace":"PennyFace",
-        "happyLoopFace":"PennyFace",
-        "sadFace":"PennyFace",
-        "sadLoopFace":"PennyFace",
-        "heroScreenIdleFace":"PennyFace",
-        "heroScreenFace":"PennyFace",
-        "heroScreenLoopFace":"PennyFace",
-        "signatureFace":"PennyFace",
-        "profileFace":"PennyFace",
+        "idleFace":null,
+        "walkFace":null,
+        "happyFace":null,
+        "happyLoopFace":null,
+        "sadFace":null,
+        "sadLoopFace":null,
+        "heroScreenIdleFace":null,
+        "heroScreenFace":null,
+        "heroScreenLoopFace":null,
+        "signatureFace":null,
+        "profileFace":null,
         "happyEffect":null,
         "sadEffect":null,
         "headRotationIngame":null,
@@ -8672,8 +9017,8 @@
         "ultiLocksAttackAngle":null,
         "mainAttackProjectile":null,
         "ultiProjectile":null,
-        "mainAttackEffect":null,
-        "ultiAttackEffect":null,
+        "mainAttackEffect":"brock_003_atk",
+        "ultiAttackEffect":"brock_003_atk",
         "useBlueTextureInMenus":null,
         "mainAttackUseEffect":null,
         "ultiUseEffect":null,
@@ -8697,7 +9042,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"ShotgunGirlWitch",
@@ -8772,7 +9120,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"MechanicKnightDark",
@@ -8847,7 +9198,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"TurretDragonDark",
@@ -8922,7 +9276,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":"JessieTurret004Projectile",
         "projectileForShockyStarPower":"Turret004Proj",
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"HammerDudeDJ",
@@ -8997,7 +9354,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"NinjaWolf",
@@ -9072,47 +9432,50 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"SpeedyDefault",
         "character":"Speedy",
-        "model":"crow_geo.scw:crow_accessories1+crow_body1+crow_boots1+crow_hands1+crow_head1",
-        "cameraModel":"crow_base_cam.scw",
-        "idleAnim":"CrowIdle",
-        "walkAnim":"CrowWalk",
-        "primarySkillAnim":"CrowPrimary",
-        "secondarySkillAnim":"CrowSecondary",
-        "primarySkillRecoilAnim":"CrowRecoil",
+        "model":"max_geo.scw",
+        "cameraModel":"max_portrait.scw",
+        "idleAnim":"MaxIdle",
+        "walkAnim":"MaxWalk",
+        "primarySkillAnim":"MaxPrimary",
+        "secondarySkillAnim":"MaxSecondary",
+        "primarySkillRecoilAnim":"MaxRecoil",
         "primarySkillRecoilAnim2":null,
-        "secondarySkillRecoilAnim":"CrowIdle",
+        "secondarySkillRecoilAnim":"MaxSecondaryRecoil",
         "secondarySkillRecoilAnim2":null,
-        "reloadingAnim":"CrowReload",
-        "pushbackAnim":"CrowPushback",
-        "happyAnim":"CrowWin",
-        "happyLoopAnim":"CrowWinloop",
-        "sadAnim":"CrowLose",
-        "sadLoopAnim":"CrowLoseloop",
-        "heroScreenIdleAnim":"CrowIdle",
-        "heroScreenAnim":"CrowWin",
-        "heroScreenLoopAnim":"CrowWinloop",
-        "signatureAnim":"CrowWin",
-        "enterAnim":"CrowIdle",
-        "profileAnim":"CrowProfile",
+        "reloadingAnim":"MaxReload",
+        "pushbackAnim":"MaxPushback",
+        "happyAnim":"MaxWin",
+        "happyLoopAnim":"MaxWinloop",
+        "sadAnim":"MaxLose",
+        "sadLoopAnim":"MaxLoseloop",
+        "heroScreenIdleAnim":"MaxIdle",
+        "heroScreenAnim":"MaxWin",
+        "heroScreenLoopAnim":"MaxWinloop",
+        "signatureAnim":"MaxWin",
+        "enterAnim":"MaxIdle",
+        "profileAnim":"MaxPortrait",
         "bossAutoAttackAnim":null,
         "bossAutoAttackRecoilAnim":null,
         "bossAutoAttackRecoilAnim2":null,
-        "idleFace":"CrowFace",
-        "walkFace":"CrowFace",
-        "happyFace":"CrowFace",
-        "happyLoopFace":"CrowFace",
-        "sadFace":"CrowFace",
-        "sadLoopFace":"CrowFace",
-        "heroScreenIdleFace":"CrowFace",
-        "heroScreenFace":"CrowFace",
-        "heroScreenLoopFace":"CrowFace",
-        "signatureFace":"CrowFace",
-        "profileFace":"CrowFace",
+        "idleFace":"MaxIdle",
+        "walkFace":"MaxIdle",
+        "happyFace":"MaxIdle",
+        "happyLoopFace":"MaxIdle",
+        "sadFace":"MaxLose",
+        "sadLoopFace":"MaxLoseloop",
+        "heroScreenIdleFace":"MaxIdle",
+        "heroScreenFace":"MaxIdle",
+        "heroScreenLoopFace":"MaxIdle",
+        "signatureFace":null,
+        "profileFace":"MaxIdle",
         "happyEffect":null,
         "sadEffect":null,
         "headRotationIngame":null,
@@ -9122,7 +9485,7 @@
         "ultiLocksAttackAngle":null,
         "mainAttackProjectile":null,
         "ultiProjectile":null,
-        "mainAttackEffect":null,
+        "mainAttackEffect":"max_def_atk",
         "ultiAttackEffect":null,
         "useBlueTextureInMenus":null,
         "mainAttackUseEffect":null,
@@ -9147,7 +9510,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"LuchadorBrown",
@@ -9222,7 +9588,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"HomerDefault",
@@ -9297,12 +9666,15 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"TrickshotDudeTotal",
         "character":"TrickshotDude",
-        "model":"rico_geo.scw",
+        "model":"rico_og_geo.scw",
         "cameraModel":"rico_base_cam.scw",
         "idleAnim":"RicoIdle",
         "walkAnim":"RicoWalk",
@@ -9372,7 +9744,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"NinjaSally",
@@ -9447,7 +9822,10 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     },
     {
         "name":"WhirlwindLeonard",
@@ -9488,7 +9866,7 @@
         "heroScreenLoopFace":"CarlLeonardIdle",
         "signatureFace":"CarlLeonardIdle",
         "profileFace":"CarlLeonardIdle",
-        "happyEffect":"carl_004_lose",
+        "happyEffect":null,
         "sadEffect":"carl_004_lose",
         "headRotationIngame":null,
         "hatScaleIngame":100,
@@ -9522,6 +9900,711 @@
         "boneEffectUse":null,
         "autoAttackProjectile":null,
         "projectileForShockyStarPower":null,
-        "incendiaryStarPowerAreaEffect":null
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
+    },
+    {
+        "name":"TntDudeSantaRope",
+        "character":null,
+        "model":"dynamike_santa_rope_geo.scw",
+        "cameraModel":"dynamike_base_cam.scw",
+        "idleAnim":null,
+        "walkAnim":null,
+        "primarySkillAnim":null,
+        "secondarySkillAnim":null,
+        "primarySkillRecoilAnim":null,
+        "primarySkillRecoilAnim2":null,
+        "secondarySkillRecoilAnim":null,
+        "secondarySkillRecoilAnim2":null,
+        "reloadingAnim":null,
+        "pushbackAnim":null,
+        "happyAnim":null,
+        "happyLoopAnim":null,
+        "sadAnim":null,
+        "sadLoopAnim":null,
+        "heroScreenIdleAnim":null,
+        "heroScreenAnim":null,
+        "heroScreenLoopAnim":null,
+        "signatureAnim":null,
+        "enterAnim":null,
+        "profileAnim":null,
+        "bossAutoAttackAnim":null,
+        "bossAutoAttackRecoilAnim":null,
+        "bossAutoAttackRecoilAnim2":null,
+        "idleFace":null,
+        "walkFace":null,
+        "happyFace":null,
+        "happyLoopFace":null,
+        "sadFace":null,
+        "sadLoopFace":null,
+        "heroScreenIdleFace":null,
+        "heroScreenFace":null,
+        "heroScreenLoopFace":null,
+        "signatureFace":null,
+        "profileFace":null,
+        "happyEffect":null,
+        "sadEffect":null,
+        "headRotationIngame":null,
+        "hatScaleIngame":100,
+        "petInSameSprite":null,
+        "attackLocksAttackAngle":null,
+        "ultiLocksAttackAngle":null,
+        "mainAttackProjectile":null,
+        "ultiProjectile":null,
+        "mainAttackEffect":null,
+        "ultiAttackEffect":null,
+        "useBlueTextureInMenus":null,
+        "mainAttackUseEffect":null,
+        "ultiUseEffect":null,
+        "ultiEndEffect":null,
+        "meleeHitEffect":null,
+        "spawnEffect":null,
+        "ultiLoopEffect":null,
+        "ultiLoopEffect2":null,
+        "spawnedItem":null,
+        "killCelebrationSoundVO":null,
+        "inLeadCelebrationSoundVO":null,
+        "startSoundVO":null,
+        "useUltiSoundVO":null,
+        "takeDamageSoundVO":null,
+        "deathSoundVO":null,
+        "attackSoundVO":null,
+        "boneEffect1":null,
+        "boneEffect2":null,
+        "boneEffect3":null,
+        "boneEffect4":null,
+        "boneEffectUse":null,
+        "autoAttackProjectile":null,
+        "projectileForShockyStarPower":null,
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
+    },
+    {
+        "name":"WhirlwindPirate",
+        "character":"Whirlwind",
+        "model":"carl_pirate_geo.scw",
+        "cameraModel":"carl_base_cam.scw",
+        "idleAnim":"CarlPirateIdle",
+        "walkAnim":"CarlPirateWalk",
+        "primarySkillAnim":"CarlPirateAttack",
+        "secondarySkillAnim":"CarlPirateSecondary",
+        "primarySkillRecoilAnim":"CarlPirateAttackRecoil",
+        "primarySkillRecoilAnim2":null,
+        "secondarySkillRecoilAnim":"CarlPirateSecondaryRecoil",
+        "secondarySkillRecoilAnim2":null,
+        "reloadingAnim":"CarlPirateReload",
+        "pushbackAnim":"CarlPiratePushback",
+        "happyAnim":"CarlPirateWin",
+        "happyLoopAnim":"CarlPirateWinloop",
+        "sadAnim":"CarlPirateLose",
+        "sadLoopAnim":"CarlPirateLoseloop",
+        "heroScreenIdleAnim":"CarlPirateIdle",
+        "heroScreenAnim":"CarlPirateWin",
+        "heroScreenLoopAnim":"CarlPirateWinloop",
+        "signatureAnim":"CarlPirateWin",
+        "enterAnim":"CarlPirateIdle",
+        "profileAnim":"CarlPirateProfile",
+        "bossAutoAttackAnim":null,
+        "bossAutoAttackRecoilAnim":null,
+        "bossAutoAttackRecoilAnim2":null,
+        "idleFace":"CarlPirateIdle",
+        "walkFace":"CarlPirateIdle",
+        "happyFace":"CarlPirateIdle",
+        "happyLoopFace":"CarlPirateIdle",
+        "sadFace":"CarlPirateAngry",
+        "sadLoopFace":"CarlPirateAngryloop",
+        "heroScreenIdleFace":"CarlPirateIdle",
+        "heroScreenFace":"CarlPirateIdle",
+        "heroScreenLoopFace":"CarlPirateIdle",
+        "signatureFace":"CarlPirateIdle",
+        "profileFace":"CarlPirateProfile",
+        "happyEffect":null,
+        "sadEffect":null,
+        "headRotationIngame":null,
+        "hatScaleIngame":100,
+        "petInSameSprite":null,
+        "attackLocksAttackAngle":null,
+        "ultiLocksAttackAngle":null,
+        "mainAttackProjectile":"Carl005Projectile",
+        "ultiProjectile":null,
+        "mainAttackEffect":null,
+        "ultiAttackEffect":null,
+        "useBlueTextureInMenus":null,
+        "mainAttackUseEffect":null,
+        "ultiUseEffect":null,
+        "ultiEndEffect":null,
+        "meleeHitEffect":null,
+        "spawnEffect":null,
+        "ultiLoopEffect":null,
+        "ultiLoopEffect2":"carl_005_ulti_ground",
+        "spawnedItem":null,
+        "killCelebrationSoundVO":null,
+        "inLeadCelebrationSoundVO":null,
+        "startSoundVO":null,
+        "useUltiSoundVO":null,
+        "takeDamageSoundVO":null,
+        "deathSoundVO":null,
+        "attackSoundVO":null,
+        "boneEffect1":null,
+        "boneEffect2":null,
+        "boneEffect3":null,
+        "boneEffect4":null,
+        "boneEffectUse":null,
+        "autoAttackProjectile":null,
+        "projectileForShockyStarPower":null,
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":"carl_005_moving",
+        "stillEffect":"carl_005_still",
+        "chargedShotEffect":null
+    },
+    {
+        "name":"GunslingerPirate",
+        "character":"Gunslinger",
+        "model":"colt_pirate_geo.scw",
+        "cameraModel":"colt_base_cam.scw",
+        "idleAnim":"GunslingerPirateIdle",
+        "walkAnim":"GunslingerPirateWalk",
+        "primarySkillAnim":"GunslingerPiratePrimary",
+        "secondarySkillAnim":"GunslingerPiratePrimary",
+        "primarySkillRecoilAnim":"GunslingerPirateRecoil",
+        "primarySkillRecoilAnim2":"GunslingerPirateRecoil2",
+        "secondarySkillRecoilAnim":"GunslingerPirateRecoil",
+        "secondarySkillRecoilAnim2":"GunslingerPirateRecoil2",
+        "reloadingAnim":"GunslingerPirateReload",
+        "pushbackAnim":"GunslingerPiratePushBack",
+        "happyAnim":"GunslingerPirateWin",
+        "happyLoopAnim":"GunslingerPirateWinloop",
+        "sadAnim":"GunslingerPirateLose",
+        "sadLoopAnim":"GunslingerPirateLoseloop",
+        "heroScreenIdleAnim":"GunslingerPirateIdle",
+        "heroScreenAnim":"GunslingerPirateWin",
+        "heroScreenLoopAnim":"GunslingerPirateWinloop",
+        "signatureAnim":"GunslingerPirateWin",
+        "enterAnim":"GunslingerPirateIdle",
+        "profileAnim":"GunslingerPirateProfile",
+        "bossAutoAttackAnim":null,
+        "bossAutoAttackRecoilAnim":null,
+        "bossAutoAttackRecoilAnim2":null,
+        "idleFace":null,
+        "walkFace":null,
+        "happyFace":null,
+        "happyLoopFace":null,
+        "sadFace":null,
+        "sadLoopFace":null,
+        "heroScreenIdleFace":null,
+        "heroScreenFace":null,
+        "heroScreenLoopFace":null,
+        "signatureFace":null,
+        "profileFace":null,
+        "happyEffect":null,
+        "sadEffect":null,
+        "headRotationIngame":null,
+        "hatScaleIngame":100,
+        "petInSameSprite":null,
+        "attackLocksAttackAngle":null,
+        "ultiLocksAttackAngle":null,
+        "mainAttackProjectile":"Colt003Projectile",
+        "ultiProjectile":"Colt003UltiProjectile",
+        "mainAttackEffect":"colt_003_atk",
+        "ultiAttackEffect":"colt_003_ulti",
+        "useBlueTextureInMenus":null,
+        "mainAttackUseEffect":null,
+        "ultiUseEffect":null,
+        "ultiEndEffect":null,
+        "meleeHitEffect":null,
+        "spawnEffect":null,
+        "ultiLoopEffect":null,
+        "ultiLoopEffect2":null,
+        "spawnedItem":null,
+        "killCelebrationSoundVO":null,
+        "inLeadCelebrationSoundVO":null,
+        "startSoundVO":null,
+        "useUltiSoundVO":null,
+        "takeDamageSoundVO":null,
+        "deathSoundVO":null,
+        "attackSoundVO":null,
+        "boneEffect1":null,
+        "boneEffect2":null,
+        "boneEffect3":null,
+        "boneEffect4":null,
+        "boneEffectUse":null,
+        "autoAttackProjectile":null,
+        "projectileForShockyStarPower":null,
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
+    },
+    {
+        "name":"CtfGift",
+        "character":null,
+        "model":"item_present_red.scw",
+        "cameraModel":"portrait_cam.scw",
+        "idleAnim":null,
+        "walkAnim":null,
+        "primarySkillAnim":null,
+        "secondarySkillAnim":null,
+        "primarySkillRecoilAnim":null,
+        "primarySkillRecoilAnim2":null,
+        "secondarySkillRecoilAnim":null,
+        "secondarySkillRecoilAnim2":null,
+        "reloadingAnim":null,
+        "pushbackAnim":null,
+        "happyAnim":null,
+        "happyLoopAnim":null,
+        "sadAnim":null,
+        "sadLoopAnim":null,
+        "heroScreenIdleAnim":null,
+        "heroScreenAnim":null,
+        "heroScreenLoopAnim":null,
+        "signatureAnim":null,
+        "enterAnim":null,
+        "profileAnim":null,
+        "bossAutoAttackAnim":null,
+        "bossAutoAttackRecoilAnim":null,
+        "bossAutoAttackRecoilAnim2":null,
+        "idleFace":null,
+        "walkFace":null,
+        "happyFace":null,
+        "happyLoopFace":null,
+        "sadFace":null,
+        "sadLoopFace":null,
+        "heroScreenIdleFace":null,
+        "heroScreenFace":null,
+        "heroScreenLoopFace":null,
+        "signatureFace":null,
+        "profileFace":null,
+        "happyEffect":null,
+        "sadEffect":null,
+        "headRotationIngame":null,
+        "hatScaleIngame":100,
+        "petInSameSprite":null,
+        "attackLocksAttackAngle":null,
+        "ultiLocksAttackAngle":null,
+        "mainAttackProjectile":null,
+        "ultiProjectile":null,
+        "mainAttackEffect":null,
+        "ultiAttackEffect":null,
+        "useBlueTextureInMenus":null,
+        "mainAttackUseEffect":null,
+        "ultiUseEffect":null,
+        "ultiEndEffect":null,
+        "meleeHitEffect":null,
+        "spawnEffect":null,
+        "ultiLoopEffect":null,
+        "ultiLoopEffect2":null,
+        "spawnedItem":null,
+        "killCelebrationSoundVO":null,
+        "inLeadCelebrationSoundVO":null,
+        "startSoundVO":null,
+        "useUltiSoundVO":null,
+        "takeDamageSoundVO":null,
+        "deathSoundVO":null,
+        "attackSoundVO":null,
+        "boneEffect1":null,
+        "boneEffect2":null,
+        "boneEffect3":null,
+        "boneEffect4":null,
+        "boneEffectUse":null,
+        "autoAttackProjectile":null,
+        "projectileForShockyStarPower":null,
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
+    },
+    {
+        "name":"SpeedyGT",
+        "character":"Speedy",
+        "model":"max_geo.scw",
+        "cameraModel":"max_portrait.scw",
+        "idleAnim":"MaxIdle",
+        "walkAnim":"MaxWalk",
+        "primarySkillAnim":"MaxPrimary",
+        "secondarySkillAnim":"MaxSecondary",
+        "primarySkillRecoilAnim":"MaxRecoil",
+        "primarySkillRecoilAnim2":null,
+        "secondarySkillRecoilAnim":"MaxSecondaryRecoil",
+        "secondarySkillRecoilAnim2":null,
+        "reloadingAnim":"MaxReload",
+        "pushbackAnim":"MaxPushback",
+        "happyAnim":"MaxWin",
+        "happyLoopAnim":"MaxWinloop",
+        "sadAnim":"MaxLose",
+        "sadLoopAnim":"MaxLoseloop",
+        "heroScreenIdleAnim":"MaxIdle",
+        "heroScreenAnim":"MaxWin",
+        "heroScreenLoopAnim":"MaxWinloop",
+        "signatureAnim":"MaxWin",
+        "enterAnim":"MaxIdle",
+        "profileAnim":"MaxPortrait",
+        "bossAutoAttackAnim":null,
+        "bossAutoAttackRecoilAnim":null,
+        "bossAutoAttackRecoilAnim2":null,
+        "idleFace":"MaxIdle",
+        "walkFace":"MaxIdle",
+        "happyFace":"MaxIdle",
+        "happyLoopFace":"MaxIdle",
+        "sadFace":"MaxLose",
+        "sadLoopFace":"MaxLoseloop",
+        "heroScreenIdleFace":"MaxIdle",
+        "heroScreenFace":"MaxIdle",
+        "heroScreenLoopFace":"MaxIdle",
+        "signatureFace":null,
+        "profileFace":"MaxIdle",
+        "happyEffect":null,
+        "sadEffect":null,
+        "headRotationIngame":null,
+        "hatScaleIngame":100,
+        "petInSameSprite":null,
+        "attackLocksAttackAngle":null,
+        "ultiLocksAttackAngle":null,
+        "mainAttackProjectile":null,
+        "ultiProjectile":null,
+        "mainAttackEffect":"max_def_atk",
+        "ultiAttackEffect":null,
+        "useBlueTextureInMenus":null,
+        "mainAttackUseEffect":null,
+        "ultiUseEffect":null,
+        "ultiEndEffect":null,
+        "meleeHitEffect":null,
+        "spawnEffect":null,
+        "ultiLoopEffect":null,
+        "ultiLoopEffect2":null,
+        "spawnedItem":null,
+        "killCelebrationSoundVO":null,
+        "inLeadCelebrationSoundVO":null,
+        "startSoundVO":null,
+        "useUltiSoundVO":null,
+        "takeDamageSoundVO":null,
+        "deathSoundVO":null,
+        "attackSoundVO":null,
+        "boneEffect1":null,
+        "boneEffect2":null,
+        "boneEffect3":null,
+        "boneEffect4":null,
+        "boneEffectUse":null,
+        "autoAttackProjectile":null,
+        "projectileForShockyStarPower":null,
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
+    },
+    {
+        "name":"BeeDefault",
+        "character":null,
+        "model":"bee_geo.scw",
+        "cameraModel":null,
+        "idleAnim":null,
+        "walkAnim":null,
+        "primarySkillAnim":null,
+        "secondarySkillAnim":null,
+        "primarySkillRecoilAnim":null,
+        "primarySkillRecoilAnim2":null,
+        "secondarySkillRecoilAnim":null,
+        "secondarySkillRecoilAnim2":null,
+        "reloadingAnim":null,
+        "pushbackAnim":null,
+        "happyAnim":null,
+        "happyLoopAnim":null,
+        "sadAnim":null,
+        "sadLoopAnim":null,
+        "heroScreenIdleAnim":null,
+        "heroScreenAnim":null,
+        "heroScreenLoopAnim":null,
+        "signatureAnim":null,
+        "enterAnim":null,
+        "profileAnim":null,
+        "bossAutoAttackAnim":null,
+        "bossAutoAttackRecoilAnim":null,
+        "bossAutoAttackRecoilAnim2":null,
+        "idleFace":null,
+        "walkFace":null,
+        "happyFace":null,
+        "happyLoopFace":null,
+        "sadFace":null,
+        "sadLoopFace":null,
+        "heroScreenIdleFace":null,
+        "heroScreenFace":null,
+        "heroScreenLoopFace":null,
+        "signatureFace":null,
+        "profileFace":null,
+        "happyEffect":null,
+        "sadEffect":null,
+        "headRotationIngame":null,
+        "hatScaleIngame":null,
+        "petInSameSprite":null,
+        "attackLocksAttackAngle":null,
+        "ultiLocksAttackAngle":null,
+        "mainAttackProjectile":null,
+        "ultiProjectile":null,
+        "mainAttackEffect":null,
+        "ultiAttackEffect":null,
+        "useBlueTextureInMenus":null,
+        "mainAttackUseEffect":null,
+        "ultiUseEffect":null,
+        "ultiEndEffect":null,
+        "meleeHitEffect":null,
+        "spawnEffect":null,
+        "ultiLoopEffect":null,
+        "ultiLoopEffect2":null,
+        "spawnedItem":null,
+        "killCelebrationSoundVO":null,
+        "inLeadCelebrationSoundVO":null,
+        "startSoundVO":null,
+        "useUltiSoundVO":null,
+        "takeDamageSoundVO":null,
+        "deathSoundVO":null,
+        "attackSoundVO":null,
+        "boneEffect1":null,
+        "boneEffect2":null,
+        "boneEffect3":null,
+        "boneEffect4":null,
+        "boneEffectUse":null,
+        "autoAttackProjectile":null,
+        "projectileForShockyStarPower":null,
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
+    },
+    {
+        "name":"BeeSniperLadyBug",
+        "character":"BeeSniper",
+        "model":"bea_ladybug_geo.scw",
+        "cameraModel":"bea_portrait.scw",
+        "idleAnim":"BeaIdle",
+        "walkAnim":"BeaWalk",
+        "primarySkillAnim":"BeaAttack",
+        "secondarySkillAnim":"BeaAttack",
+        "primarySkillRecoilAnim":"BeaRecoil",
+        "primarySkillRecoilAnim2":null,
+        "secondarySkillRecoilAnim":"BeaRecoil",
+        "secondarySkillRecoilAnim2":null,
+        "reloadingAnim":"BeaReload",
+        "pushbackAnim":"BeaPushback",
+        "happyAnim":"BeaWin",
+        "happyLoopAnim":"BeaWinloop",
+        "sadAnim":"BeaLose",
+        "sadLoopAnim":"BeaLoseloop",
+        "heroScreenIdleAnim":"BeaIdle",
+        "heroScreenAnim":"BeaWin",
+        "heroScreenLoopAnim":"BeaWinloop",
+        "signatureAnim":"BeaWin",
+        "enterAnim":"BeaIdle",
+        "profileAnim":"BeaPortrait",
+        "bossAutoAttackAnim":null,
+        "bossAutoAttackRecoilAnim":null,
+        "bossAutoAttackRecoilAnim2":null,
+        "idleFace":"BeaIdle",
+        "walkFace":null,
+        "happyFace":"BeaHappy",
+        "happyLoopFace":"BeaIdle",
+        "sadFace":"BeaLose",
+        "sadLoopFace":"BeaLoseloop",
+        "heroScreenIdleFace":"BeaIdle",
+        "heroScreenFace":"BeaHappy",
+        "heroScreenLoopFace":"BeaIdle",
+        "signatureFace":null,
+        "profileFace":null,
+        "happyEffect":null,
+        "sadEffect":null,
+        "headRotationIngame":null,
+        "hatScaleIngame":100,
+        "petInSameSprite":null,
+        "attackLocksAttackAngle":true,
+        "ultiLocksAttackAngle":true,
+        "mainAttackProjectile":null,
+        "ultiProjectile":null,
+        "mainAttackEffect":null,
+        "ultiAttackEffect":"bea_def_ulti",
+        "useBlueTextureInMenus":null,
+        "mainAttackUseEffect":null,
+        "ultiUseEffect":null,
+        "ultiEndEffect":null,
+        "meleeHitEffect":null,
+        "spawnEffect":null,
+        "ultiLoopEffect":null,
+        "ultiLoopEffect2":null,
+        "spawnedItem":null,
+        "killCelebrationSoundVO":null,
+        "inLeadCelebrationSoundVO":null,
+        "startSoundVO":null,
+        "useUltiSoundVO":null,
+        "takeDamageSoundVO":null,
+        "deathSoundVO":null,
+        "attackSoundVO":null,
+        "boneEffect1":null,
+        "boneEffect2":null,
+        "boneEffect3":null,
+        "boneEffect4":null,
+        "boneEffectUse":null,
+        "autoAttackProjectile":null,
+        "projectileForShockyStarPower":null,
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":"bea_def_atk_charged"
+    },
+    {
+        "name":"PocoPirate",
+        "character":"DeadMariachi",
+        "model":"poco_pirate_geo.scw",
+        "cameraModel":"poco_base_cam.scw",
+        "idleAnim":"PocoPirateIdle",
+        "walkAnim":"PocoPirateWalk",
+        "primarySkillAnim":"PocoAttack",
+        "secondarySkillAnim":"PocoSecondary",
+        "primarySkillRecoilAnim":"PocoRecoil",
+        "primarySkillRecoilAnim2":null,
+        "secondarySkillRecoilAnim":"PocoRecoil",
+        "secondarySkillRecoilAnim2":null,
+        "reloadingAnim":"PocoReload",
+        "pushbackAnim":"PocoPushback",
+        "happyAnim":"PocoPirateHappy",
+        "happyLoopAnim":"PocoPirateHappyLoop",
+        "sadAnim":"PocoPirateLose",
+        "sadLoopAnim":"PocoPirateLoseloop",
+        "heroScreenIdleAnim":"PocoPirateIdle",
+        "heroScreenAnim":"PocoPirateHappy",
+        "heroScreenLoopAnim":"PocoPirateHappyLoop",
+        "signatureAnim":"PocoPirateHappy",
+        "enterAnim":"PocoPirateIdle",
+        "profileAnim":"PocoPirateProfile",
+        "bossAutoAttackAnim":null,
+        "bossAutoAttackRecoilAnim":null,
+        "bossAutoAttackRecoilAnim2":null,
+        "idleFace":null,
+        "walkFace":null,
+        "happyFace":null,
+        "happyLoopFace":null,
+        "sadFace":null,
+        "sadLoopFace":null,
+        "heroScreenIdleFace":null,
+        "heroScreenFace":null,
+        "heroScreenLoopFace":null,
+        "signatureFace":null,
+        "profileFace":null,
+        "happyEffect":null,
+        "sadEffect":null,
+        "headRotationIngame":null,
+        "hatScaleIngame":100,
+        "petInSameSprite":null,
+        "attackLocksAttackAngle":null,
+        "ultiLocksAttackAngle":null,
+        "mainAttackProjectile":"Poco003Projectile",
+        "ultiProjectile":"Poco003UltiProjectile",
+        "mainAttackEffect":"poco_003_atk_direct",
+        "ultiAttackEffect":null,
+        "useBlueTextureInMenus":null,
+        "mainAttackUseEffect":"poco_003_atk_root",
+        "ultiUseEffect":"poco_003_atk_root",
+        "ultiEndEffect":null,
+        "meleeHitEffect":null,
+        "spawnEffect":null,
+        "ultiLoopEffect":null,
+        "ultiLoopEffect2":null,
+        "spawnedItem":null,
+        "killCelebrationSoundVO":null,
+        "inLeadCelebrationSoundVO":null,
+        "startSoundVO":null,
+        "useUltiSoundVO":null,
+        "takeDamageSoundVO":null,
+        "deathSoundVO":null,
+        "attackSoundVO":null,
+        "boneEffect1":null,
+        "boneEffect2":null,
+        "boneEffect3":null,
+        "boneEffect4":null,
+        "boneEffectUse":null,
+        "autoAttackProjectile":null,
+        "projectileForShockyStarPower":null,
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
+    },
+    {
+        "name":"BeeLadyBug",
+        "character":null,
+        "model":"bee_ladybug_geo.scw",
+        "cameraModel":null,
+        "idleAnim":null,
+        "walkAnim":null,
+        "primarySkillAnim":null,
+        "secondarySkillAnim":null,
+        "primarySkillRecoilAnim":null,
+        "primarySkillRecoilAnim2":null,
+        "secondarySkillRecoilAnim":null,
+        "secondarySkillRecoilAnim2":null,
+        "reloadingAnim":null,
+        "pushbackAnim":null,
+        "happyAnim":null,
+        "happyLoopAnim":null,
+        "sadAnim":null,
+        "sadLoopAnim":null,
+        "heroScreenIdleAnim":null,
+        "heroScreenAnim":null,
+        "heroScreenLoopAnim":null,
+        "signatureAnim":null,
+        "enterAnim":null,
+        "profileAnim":null,
+        "bossAutoAttackAnim":null,
+        "bossAutoAttackRecoilAnim":null,
+        "bossAutoAttackRecoilAnim2":null,
+        "idleFace":null,
+        "walkFace":null,
+        "happyFace":null,
+        "happyLoopFace":null,
+        "sadFace":null,
+        "sadLoopFace":null,
+        "heroScreenIdleFace":null,
+        "heroScreenFace":null,
+        "heroScreenLoopFace":null,
+        "signatureFace":null,
+        "profileFace":null,
+        "happyEffect":null,
+        "sadEffect":null,
+        "headRotationIngame":null,
+        "hatScaleIngame":null,
+        "petInSameSprite":null,
+        "attackLocksAttackAngle":null,
+        "ultiLocksAttackAngle":null,
+        "mainAttackProjectile":null,
+        "ultiProjectile":null,
+        "mainAttackEffect":null,
+        "ultiAttackEffect":null,
+        "useBlueTextureInMenus":null,
+        "mainAttackUseEffect":null,
+        "ultiUseEffect":null,
+        "ultiEndEffect":null,
+        "meleeHitEffect":null,
+        "spawnEffect":null,
+        "ultiLoopEffect":null,
+        "ultiLoopEffect2":null,
+        "spawnedItem":null,
+        "killCelebrationSoundVO":null,
+        "inLeadCelebrationSoundVO":null,
+        "startSoundVO":null,
+        "useUltiSoundVO":null,
+        "takeDamageSoundVO":null,
+        "deathSoundVO":null,
+        "attackSoundVO":null,
+        "boneEffect1":null,
+        "boneEffect2":null,
+        "boneEffect3":null,
+        "boneEffect4":null,
+        "boneEffectUse":null,
+        "autoAttackProjectile":null,
+        "projectileForShockyStarPower":null,
+        "incendiaryStarPowerAreaEffect":null,
+        "moveEffect":null,
+        "stillEffect":null,
+        "chargedShotEffect":null
     }
 ]

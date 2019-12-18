@@ -15,6 +15,8 @@
         "helpshiftSDKLanguageAndroid":null,
         "testExcludes":null,
         "loadAllLanguages":null,
+        "championshipRegisterUrl":"http:\/\/www.supr.cl\/bsc",
+        "championshipLogo":"bsc_logo_en",
         "termsAndServiceUrl":"http:\/\/supercell.com\/en\/terms-of-service\/",
         "parentsGuideUrl":"http:\/\/www.supercell.com\/en\/parents\/",
         "privacyPolicyUrl":"http:\/\/www.supercell.com\/en\/privacy-policy\/",
@@ -30,6 +32,8 @@
         "isRTL":null,
         "isNounAdj":null,
         "separateThousandsWithSpaces":null,
+        "selfHelpUrl":"https:\/\/ingame.help.supercellsupport.com\/brawl-stars\/en\/index.html",
+        "fallbackToHelpshift":null,
         "id":1
     },
     {
@@ -51,6 +55,8 @@
             "DE"
         ],
         "loadAllLanguages":null,
+        "championshipRegisterUrl":"http:\/\/www.supr.cl\/bsc",
+        "championshipLogo":"bsc_logo_cns",
         "termsAndServiceUrl":"http:\/\/supercell.com\/en\/terms-of-service\/cn",
         "parentsGuideUrl":"http:\/\/www.supercell.com\/en\/parents\/cn",
         "privacyPolicyUrl":"http:\/\/www.supercell.com\/en\/privacy-policy\/cn",
@@ -66,6 +72,8 @@
         "isRTL":null,
         "isNounAdj":null,
         "separateThousandsWithSpaces":null,
+        "selfHelpUrl":"https:\/\/ingame.help.supercellsupport.com\/brawl-stars\/zh\/index.html",
+        "fallbackToHelpshift":true,
         "id":2
     },
     {
@@ -84,6 +92,8 @@
         "helpshiftSDKLanguageAndroid":null,
         "testExcludes":null,
         "loadAllLanguages":null,
+        "championshipRegisterUrl":"http:\/\/www.supr.cl\/bsc",
+        "championshipLogo":"bsc_logo_en",
         "termsAndServiceUrl":"http:\/\/supercell.com\/en\/terms-of-service\/",
         "parentsGuideUrl":"http:\/\/www.supercell.com\/en\/parents\/",
         "privacyPolicyUrl":"http:\/\/www.supercell.com\/en\/privacy-policy\/",
@@ -99,6 +109,8 @@
         "isRTL":true,
         "isNounAdj":null,
         "separateThousandsWithSpaces":null,
+        "selfHelpUrl":"https:\/\/ingame.help.supercellsupport.com\/brawl-stars\/ar\/index.html",
+        "fallbackToHelpshift":true,
         "id":3
     },
     {
@@ -117,6 +129,8 @@
         "helpshiftSDKLanguageAndroid":null,
         "testExcludes":null,
         "loadAllLanguages":null,
+        "championshipRegisterUrl":"http:\/\/www.supr.cl\/bsc",
+        "championshipLogo":"bsc_logo_en",
         "termsAndServiceUrl":"http:\/\/supercell.com\/en\/terms-of-service\/fr",
         "parentsGuideUrl":"http:\/\/www.supercell.com\/en\/parents\/",
         "privacyPolicyUrl":"http:\/\/www.supercell.com\/en\/privacy-policy\/fr",
@@ -132,6 +146,8 @@
         "isRTL":null,
         "isNounAdj":true,
         "separateThousandsWithSpaces":true,
+        "selfHelpUrl":"https:\/\/ingame.help.supercellsupport.com\/brawl-stars\/fr\/index.html",
+        "fallbackToHelpshift":true,
         "id":4
     },
     {
@@ -150,6 +166,8 @@
         "helpshiftSDKLanguageAndroid":null,
         "testExcludes":null,
         "loadAllLanguages":null,
+        "championshipRegisterUrl":"http:\/\/www.supr.cl\/bsc",
+        "championshipLogo":"bsc_logo_en",
         "termsAndServiceUrl":"http:\/\/supercell.com\/en\/terms-of-service\/",
         "parentsGuideUrl":"http:\/\/www.supercell.com\/en\/parents\/",
         "privacyPolicyUrl":"http:\/\/www.supercell.com\/en\/privacy-policy\/",
@@ -165,6 +183,8 @@
         "isRTL":null,
         "isNounAdj":null,
         "separateThousandsWithSpaces":null,
+        "selfHelpUrl":"https:\/\/ingame.help.supercellsupport.com\/brawl-stars\/en\/index.html",
+        "fallbackToHelpshift":null,
         "id":5
     },
     {
@@ -183,6 +203,8 @@
         "helpshiftSDKLanguageAndroid":null,
         "testExcludes":null,
         "loadAllLanguages":null,
+        "championshipRegisterUrl":"http:\/\/www.supr.cl\/bsc",
+        "championshipLogo":"bsc_logo_en",
         "termsAndServiceUrl":"http:\/\/supercell.com\/en\/terms-of-service\/",
         "parentsGuideUrl":"http:\/\/www.supercell.com\/en\/parents\/",
         "privacyPolicyUrl":"http:\/\/www.supercell.com\/en\/privacy-policy\/",
@@ -198,6 +220,8 @@
         "isRTL":null,
         "isNounAdj":null,
         "separateThousandsWithSpaces":null,
+        "selfHelpUrl":"https:\/\/ingame.help.supercellsupport.com\/brawl-stars\/en\/index.html",
+        "fallbackToHelpshift":null,
         "id":6
     },
     {
@@ -216,6 +240,8 @@
         "helpshiftSDKLanguageAndroid":null,
         "testExcludes":null,
         "loadAllLanguages":null,
+        "championshipRegisterUrl":"http:\/\/www.supr.cl\/bsc",
+        "championshipLogo":"bsc_logo_en",
         "termsAndServiceUrl":"http:\/\/supercell.com\/en\/terms-of-service\/",
         "parentsGuideUrl":"http:\/\/www.supercell.com\/en\/parents\/",
         "privacyPolicyUrl":"http:\/\/www.supercell.com\/en\/privacy-policy\/",
@@ -231,6 +257,8 @@
         "isRTL":null,
         "isNounAdj":null,
         "separateThousandsWithSpaces":null,
+        "selfHelpUrl":"https:\/\/ingame.help.supercellsupport.com\/brawl-stars\/en\/index.html",
+        "fallbackToHelpshift":null,
         "id":7
     },
     {
@@ -258,6 +286,8 @@
             "ID"
         ],
         "loadAllLanguages":true,
+        "championshipRegisterUrl":"http:\/\/www.supr.cl\/bsc",
+        "championshipLogo":"bsc_logo_en",
         "termsAndServiceUrl":"http:\/\/supercell.com\/en\/terms-of-service\/",
         "parentsGuideUrl":"http:\/\/www.supercell.com\/en\/parents\/",
         "privacyPolicyUrl":"http:\/\/www.supercell.com\/en\/privacy-policy\/",
@@ -273,6 +303,8 @@
         "isRTL":null,
         "isNounAdj":null,
         "separateThousandsWithSpaces":null,
+        "selfHelpUrl":"https:\/\/ingame.help.supercellsupport.com\/brawl-stars\/en\/index.html",
+        "fallbackToHelpshift":null,
         "id":8
     },
     {
@@ -291,6 +323,8 @@
         "helpshiftSDKLanguageAndroid":null,
         "testExcludes":null,
         "loadAllLanguages":null,
+        "championshipRegisterUrl":null,
+        "championshipLogo":null,
         "termsAndServiceUrl":null,
         "parentsGuideUrl":null,
         "privacyPolicyUrl":null,
@@ -305,7 +339,9 @@
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
-        "separateThousandsWithSpaces":null
+        "separateThousandsWithSpaces":null,
+        "selfHelpUrl":null,
+        "fallbackToHelpshift":null
     },
     {
         "name":null,
@@ -323,6 +359,8 @@
         "helpshiftSDKLanguageAndroid":null,
         "testExcludes":null,
         "loadAllLanguages":null,
+        "championshipRegisterUrl":null,
+        "championshipLogo":null,
         "termsAndServiceUrl":null,
         "parentsGuideUrl":null,
         "privacyPolicyUrl":null,
@@ -337,7 +375,9 @@
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
-        "separateThousandsWithSpaces":null
+        "separateThousandsWithSpaces":null,
+        "selfHelpUrl":null,
+        "fallbackToHelpshift":null
     },
     {
         "name":null,
@@ -355,6 +395,8 @@
         "helpshiftSDKLanguageAndroid":null,
         "testExcludes":null,
         "loadAllLanguages":null,
+        "championshipRegisterUrl":null,
+        "championshipLogo":null,
         "termsAndServiceUrl":null,
         "parentsGuideUrl":null,
         "privacyPolicyUrl":null,
@@ -369,7 +411,9 @@
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
-        "separateThousandsWithSpaces":null
+        "separateThousandsWithSpaces":null,
+        "selfHelpUrl":null,
+        "fallbackToHelpshift":null
     },
     {
         "name":null,
@@ -387,6 +431,8 @@
         "helpshiftSDKLanguageAndroid":null,
         "testExcludes":null,
         "loadAllLanguages":null,
+        "championshipRegisterUrl":null,
+        "championshipLogo":null,
         "termsAndServiceUrl":null,
         "parentsGuideUrl":null,
         "privacyPolicyUrl":null,
@@ -401,7 +447,9 @@
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
-        "separateThousandsWithSpaces":null
+        "separateThousandsWithSpaces":null,
+        "selfHelpUrl":null,
+        "fallbackToHelpshift":null
     },
     {
         "name":null,
@@ -419,6 +467,8 @@
         "helpshiftSDKLanguageAndroid":null,
         "testExcludes":null,
         "loadAllLanguages":null,
+        "championshipRegisterUrl":null,
+        "championshipLogo":null,
         "termsAndServiceUrl":null,
         "parentsGuideUrl":null,
         "privacyPolicyUrl":null,
@@ -433,7 +483,9 @@
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
-        "separateThousandsWithSpaces":null
+        "separateThousandsWithSpaces":null,
+        "selfHelpUrl":null,
+        "fallbackToHelpshift":null
     },
     {
         "name":"WORD",
@@ -459,6 +511,8 @@
             "PT"
         ],
         "loadAllLanguages":true,
+        "championshipRegisterUrl":"http:\/\/www.supr.cl\/bsc",
+        "championshipLogo":"bsc_logo_en",
         "termsAndServiceUrl":"http:\/\/supercell.com\/en\/terms-of-service\/",
         "parentsGuideUrl":"http:\/\/www.supercell.com\/en\/parents\/",
         "privacyPolicyUrl":"http:\/\/www.supercell.com\/en\/privacy-policy\/",
@@ -474,6 +528,8 @@
         "isRTL":null,
         "isNounAdj":null,
         "separateThousandsWithSpaces":null,
+        "selfHelpUrl":"https:\/\/ingame.help.supercellsupport.com\/brawl-stars\/en\/index.html",
+        "fallbackToHelpshift":null,
         "id":14
     },
     {
@@ -492,6 +548,8 @@
         "helpshiftSDKLanguageAndroid":null,
         "testExcludes":null,
         "loadAllLanguages":null,
+        "championshipRegisterUrl":null,
+        "championshipLogo":null,
         "termsAndServiceUrl":null,
         "parentsGuideUrl":null,
         "privacyPolicyUrl":null,
@@ -506,7 +564,9 @@
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
-        "separateThousandsWithSpaces":null
+        "separateThousandsWithSpaces":null,
+        "selfHelpUrl":null,
+        "fallbackToHelpshift":null
     },
     {
         "name":null,
@@ -524,6 +584,8 @@
         "helpshiftSDKLanguageAndroid":null,
         "testExcludes":null,
         "loadAllLanguages":null,
+        "championshipRegisterUrl":null,
+        "championshipLogo":null,
         "termsAndServiceUrl":null,
         "parentsGuideUrl":null,
         "privacyPolicyUrl":null,
@@ -538,7 +600,9 @@
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
-        "separateThousandsWithSpaces":null
+        "separateThousandsWithSpaces":null,
+        "selfHelpUrl":null,
+        "fallbackToHelpshift":null
     },
     {
         "name":null,
@@ -556,6 +620,8 @@
         "helpshiftSDKLanguageAndroid":null,
         "testExcludes":null,
         "loadAllLanguages":null,
+        "championshipRegisterUrl":null,
+        "championshipLogo":null,
         "termsAndServiceUrl":null,
         "parentsGuideUrl":null,
         "privacyPolicyUrl":null,
@@ -570,7 +636,9 @@
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
-        "separateThousandsWithSpaces":null
+        "separateThousandsWithSpaces":null,
+        "selfHelpUrl":null,
+        "fallbackToHelpshift":null
     },
     {
         "name":null,
@@ -588,6 +656,8 @@
         "helpshiftSDKLanguageAndroid":null,
         "testExcludes":null,
         "loadAllLanguages":null,
+        "championshipRegisterUrl":null,
+        "championshipLogo":null,
         "termsAndServiceUrl":null,
         "parentsGuideUrl":null,
         "privacyPolicyUrl":null,
@@ -602,7 +672,9 @@
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
-        "separateThousandsWithSpaces":null
+        "separateThousandsWithSpaces":null,
+        "selfHelpUrl":null,
+        "fallbackToHelpshift":null
     },
     {
         "name":null,
@@ -620,6 +692,8 @@
         "helpshiftSDKLanguageAndroid":null,
         "testExcludes":null,
         "loadAllLanguages":null,
+        "championshipRegisterUrl":null,
+        "championshipLogo":null,
         "termsAndServiceUrl":null,
         "parentsGuideUrl":null,
         "privacyPolicyUrl":null,
@@ -634,7 +708,9 @@
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
-        "separateThousandsWithSpaces":null
+        "separateThousandsWithSpaces":null,
+        "selfHelpUrl":null,
+        "fallbackToHelpshift":null
     },
     {
         "name":"DE",
@@ -652,6 +728,8 @@
         "helpshiftSDKLanguageAndroid":null,
         "testExcludes":null,
         "loadAllLanguages":null,
+        "championshipRegisterUrl":"http:\/\/www.supr.cl\/bsc",
+        "championshipLogo":"bsc_logo_en",
         "termsAndServiceUrl":"http:\/\/supercell.com\/en\/terms-of-service\/de",
         "parentsGuideUrl":"http:\/\/www.supercell.com\/en\/parents\/",
         "privacyPolicyUrl":"http:\/\/www.supercell.com\/en\/privacy-policy\/de",
@@ -667,6 +745,8 @@
         "isRTL":null,
         "isNounAdj":null,
         "separateThousandsWithSpaces":true,
+        "selfHelpUrl":"https:\/\/ingame.help.supercellsupport.com\/brawl-stars\/de\/index.html",
+        "fallbackToHelpshift":true,
         "id":20
     },
     {
@@ -685,6 +765,8 @@
         "helpshiftSDKLanguageAndroid":null,
         "testExcludes":null,
         "loadAllLanguages":null,
+        "championshipRegisterUrl":"http:\/\/www.supr.cl\/bsc",
+        "championshipLogo":"bsc_logo_en",
         "termsAndServiceUrl":"http:\/\/supercell.com\/en\/terms-of-service\/es",
         "parentsGuideUrl":"http:\/\/www.supercell.com\/en\/parents\/",
         "privacyPolicyUrl":"http:\/\/www.supercell.com\/en\/privacy-policy\/es",
@@ -700,6 +782,8 @@
         "isRTL":null,
         "isNounAdj":null,
         "separateThousandsWithSpaces":null,
+        "selfHelpUrl":"https:\/\/ingame.help.supercellsupport.com\/brawl-stars\/es\/index.html",
+        "fallbackToHelpshift":true,
         "id":21
     },
     {
@@ -718,6 +802,8 @@
         "helpshiftSDKLanguageAndroid":null,
         "testExcludes":null,
         "loadAllLanguages":null,
+        "championshipRegisterUrl":"http:\/\/www.supr.cl\/bsc",
+        "championshipLogo":"bsc_logo_en",
         "termsAndServiceUrl":"http:\/\/supercell.com\/en\/terms-of-service\/it",
         "parentsGuideUrl":"http:\/\/www.supercell.com\/en\/parents\/",
         "privacyPolicyUrl":"http:\/\/www.supercell.com\/en\/privacy-policy\/it",
@@ -733,6 +819,8 @@
         "isRTL":null,
         "isNounAdj":null,
         "separateThousandsWithSpaces":null,
+        "selfHelpUrl":"https:\/\/ingame.help.supercellsupport.com\/brawl-stars\/it\/index.html",
+        "fallbackToHelpshift":true,
         "id":22
     },
     {
@@ -751,6 +839,8 @@
         "helpshiftSDKLanguageAndroid":null,
         "testExcludes":null,
         "loadAllLanguages":null,
+        "championshipRegisterUrl":"http:\/\/www.supr.cl\/bsc",
+        "championshipLogo":"bsc_logo_jp",
         "termsAndServiceUrl":"http:\/\/supercell.com\/en\/terms-of-service\/jp",
         "parentsGuideUrl":"http:\/\/www.supercell.com\/en\/parents\/jp",
         "privacyPolicyUrl":"http:\/\/www.supercell.com\/en\/privacy-policy\/jp",
@@ -766,6 +856,8 @@
         "isRTL":null,
         "isNounAdj":null,
         "separateThousandsWithSpaces":null,
+        "selfHelpUrl":"https:\/\/ingame.help.supercellsupport.com\/brawl-stars\/ja\/index.html",
+        "fallbackToHelpshift":true,
         "id":23
     },
     {
@@ -784,6 +876,8 @@
         "helpshiftSDKLanguageAndroid":"zh_TW",
         "testExcludes":null,
         "loadAllLanguages":null,
+        "championshipRegisterUrl":"http:\/\/www.supr.cl\/bsc",
+        "championshipLogo":"bsc_logo_cnt",
         "termsAndServiceUrl":"http:\/\/supercell.com\/en\/terms-of-service\/tw",
         "parentsGuideUrl":"http:\/\/www.supercell.com\/en\/parents\/tw",
         "privacyPolicyUrl":"http:\/\/www.supercell.com\/en\/privacy-policy\/tw",
@@ -799,6 +893,8 @@
         "isRTL":null,
         "isNounAdj":null,
         "separateThousandsWithSpaces":null,
+        "selfHelpUrl":"https:\/\/ingame.help.supercellsupport.com\/brawl-stars\/en\/index.html",
+        "fallbackToHelpshift":true,
         "id":24
     },
     {
@@ -817,6 +913,8 @@
         "helpshiftSDKLanguageAndroid":null,
         "testExcludes":null,
         "loadAllLanguages":null,
+        "championshipRegisterUrl":"http:\/\/www.supr.cl\/bsc",
+        "championshipLogo":"bsc_logo_kr",
         "termsAndServiceUrl":"http:\/\/supercell.com\/en\/terms-of-service\/ko",
         "parentsGuideUrl":"http:\/\/www.supercell.com\/en\/parents\/ko",
         "privacyPolicyUrl":"http:\/\/www.supercell.com\/en\/privacy-policy\/ko",
@@ -832,6 +930,8 @@
         "isRTL":null,
         "isNounAdj":null,
         "separateThousandsWithSpaces":null,
+        "selfHelpUrl":"https:\/\/ingame.help.supercellsupport.com\/brawl-stars\/ko\/index.html",
+        "fallbackToHelpshift":true,
         "id":25
     },
     {
@@ -850,6 +950,8 @@
         "helpshiftSDKLanguageAndroid":null,
         "testExcludes":null,
         "loadAllLanguages":null,
+        "championshipRegisterUrl":"http:\/\/www.supr.cl\/bsc",
+        "championshipLogo":"bsc_logo_en",
         "termsAndServiceUrl":"http:\/\/supercell.com\/en\/terms-of-service\/",
         "parentsGuideUrl":"http:\/\/www.supercell.com\/en\/parents\/",
         "privacyPolicyUrl":"http:\/\/www.supercell.com\/en\/privacy-policy\/",
@@ -865,6 +967,8 @@
         "isRTL":null,
         "isNounAdj":null,
         "separateThousandsWithSpaces":null,
+        "selfHelpUrl":"https:\/\/ingame.help.supercellsupport.com\/brawl-stars\/nl\/index.html",
+        "fallbackToHelpshift":true,
         "id":26
     },
     {
@@ -883,6 +987,8 @@
         "helpshiftSDKLanguageAndroid":"pt_Br",
         "testExcludes":null,
         "loadAllLanguages":null,
+        "championshipRegisterUrl":"http:\/\/www.supr.cl\/bsc",
+        "championshipLogo":"bsc_logo_en",
         "termsAndServiceUrl":"http:\/\/supercell.com\/en\/terms-of-service\/pt",
         "parentsGuideUrl":"http:\/\/www.supercell.com\/en\/parents\/",
         "privacyPolicyUrl":"http:\/\/www.supercell.com\/en\/privacy-policy\/pt",
@@ -898,6 +1004,8 @@
         "isRTL":null,
         "isNounAdj":null,
         "separateThousandsWithSpaces":null,
+        "selfHelpUrl":"https:\/\/ingame.help.supercellsupport.com\/brawl-stars\/pt\/index.html",
+        "fallbackToHelpshift":true,
         "id":27
     },
     {
@@ -916,6 +1024,8 @@
         "helpshiftSDKLanguageAndroid":null,
         "testExcludes":null,
         "loadAllLanguages":null,
+        "championshipRegisterUrl":"http:\/\/www.supr.cl\/bsc",
+        "championshipLogo":"bsc_logo_en",
         "termsAndServiceUrl":"http:\/\/supercell.com\/en\/terms-of-service\/ru",
         "parentsGuideUrl":"http:\/\/www.supercell.com\/en\/parents\/",
         "privacyPolicyUrl":"http:\/\/www.supercell.com\/en\/privacy-policy\/ru",
@@ -931,6 +1041,8 @@
         "isRTL":null,
         "isNounAdj":null,
         "separateThousandsWithSpaces":true,
+        "selfHelpUrl":"https:\/\/ingame.help.supercellsupport.com\/brawl-stars\/ru\/index.html",
+        "fallbackToHelpshift":true,
         "id":28
     },
     {
@@ -949,6 +1061,8 @@
         "helpshiftSDKLanguageAndroid":null,
         "testExcludes":null,
         "loadAllLanguages":null,
+        "championshipRegisterUrl":"http:\/\/www.supr.cl\/bsc",
+        "championshipLogo":"bsc_logo_en",
         "termsAndServiceUrl":"http:\/\/supercell.com\/en\/terms-of-service\/tr",
         "parentsGuideUrl":"http:\/\/www.supercell.com\/en\/parents\/",
         "privacyPolicyUrl":"http:\/\/www.supercell.com\/en\/privacy-policy\/tr",
@@ -964,6 +1078,8 @@
         "isRTL":null,
         "isNounAdj":null,
         "separateThousandsWithSpaces":null,
+        "selfHelpUrl":"https:\/\/ingame.help.supercellsupport.com\/brawl-stars\/tr\/index.html",
+        "fallbackToHelpshift":true,
         "id":29
     },
     {
@@ -982,6 +1098,8 @@
         "helpshiftSDKLanguageAndroid":null,
         "testExcludes":null,
         "loadAllLanguages":null,
+        "championshipRegisterUrl":"http:\/\/www.supr.cl\/bsc",
+        "championshipLogo":"bsc_logo_en",
         "termsAndServiceUrl":"http:\/\/supercell.com\/en\/terms-of-service\/id",
         "parentsGuideUrl":"http:\/\/www.supercell.com\/en\/parents\/id",
         "privacyPolicyUrl":"http:\/\/www.supercell.com\/en\/privacy-policy\/",
@@ -997,6 +1115,8 @@
         "isRTL":null,
         "isNounAdj":null,
         "separateThousandsWithSpaces":null,
+        "selfHelpUrl":"https:\/\/ingame.help.supercellsupport.com\/brawl-stars\/id\/index.html",
+        "fallbackToHelpshift":true,
         "id":30
     },
     {
@@ -1015,6 +1135,8 @@
         "helpshiftSDKLanguageAndroid":null,
         "testExcludes":null,
         "loadAllLanguages":null,
+        "championshipRegisterUrl":"http:\/\/www.supr.cl\/bsc",
+        "championshipLogo":"bsc_logo_en",
         "termsAndServiceUrl":"http:\/\/supercell.com\/en\/terms-of-service\/",
         "parentsGuideUrl":"http:\/\/www.supercell.com\/en\/parents\/ms",
         "privacyPolicyUrl":"http:\/\/www.supercell.com\/en\/privacy-policy\/",
@@ -1030,6 +1152,8 @@
         "isRTL":null,
         "isNounAdj":null,
         "separateThousandsWithSpaces":null,
+        "selfHelpUrl":"https:\/\/ingame.help.supercellsupport.com\/brawl-stars\/ms\/index.html",
+        "fallbackToHelpshift":true,
         "id":31
     },
     {
@@ -1048,6 +1172,8 @@
         "helpshiftSDKLanguageAndroid":null,
         "testExcludes":null,
         "loadAllLanguages":null,
+        "championshipRegisterUrl":"http:\/\/www.supr.cl\/bsc",
+        "championshipLogo":"bsc_logo_en",
         "termsAndServiceUrl":"http:\/\/supercell.com\/en\/terms-of-service\/",
         "parentsGuideUrl":"http:\/\/www.supercell.com\/en\/parents\/",
         "privacyPolicyUrl":"http:\/\/www.supercell.com\/en\/privacy-policy\/",
@@ -1063,6 +1189,8 @@
         "isRTL":null,
         "isNounAdj":null,
         "separateThousandsWithSpaces":null,
+        "selfHelpUrl":"https:\/\/ingame.help.supercellsupport.com\/brawl-stars\/vi\/index.html",
+        "fallbackToHelpshift":true,
         "id":32
     },
     {
@@ -1081,6 +1209,8 @@
         "helpshiftSDKLanguageAndroid":null,
         "testExcludes":null,
         "loadAllLanguages":null,
+        "championshipRegisterUrl":"http:\/\/www.supr.cl\/bsc",
+        "championshipLogo":"bsc_logo_en",
         "termsAndServiceUrl":"http:\/\/supercell.com\/en\/terms-of-service\/",
         "parentsGuideUrl":"http:\/\/www.supercell.com\/en\/parents\/",
         "privacyPolicyUrl":"http:\/\/www.supercell.com\/en\/privacy-policy\/",
@@ -1096,6 +1226,8 @@
         "isRTL":null,
         "isNounAdj":null,
         "separateThousandsWithSpaces":null,
+        "selfHelpUrl":"https:\/\/ingame.help.supercellsupport.com\/brawl-stars\/th\/index.html",
+        "fallbackToHelpshift":true,
         "id":33
     },
     {
@@ -1114,6 +1246,8 @@
         "helpshiftSDKLanguageAndroid":null,
         "testExcludes":null,
         "loadAllLanguages":null,
+        "championshipRegisterUrl":"http:\/\/www.supr.cl\/bsc",
+        "championshipLogo":"bsc_logo_en",
         "termsAndServiceUrl":"http:\/\/supercell.com\/en\/terms-of-service\/fi\/",
         "parentsGuideUrl":"http:\/\/supercell.com\/en\/parents\/fi\/",
         "privacyPolicyUrl":"http:\/\/supercell.com\/en\/privacy-policy\/fi\/",
@@ -1129,6 +1263,8 @@
         "isRTL":null,
         "isNounAdj":null,
         "separateThousandsWithSpaces":true,
+        "selfHelpUrl":"https:\/\/ingame.help.supercellsupport.com\/brawl-stars\/fi\/index.html",
+        "fallbackToHelpshift":true,
         "id":34
     },
     {
@@ -1160,6 +1296,8 @@
             "TH"
         ],
         "loadAllLanguages":true,
+        "championshipRegisterUrl":"http:\/\/www.supr.cl\/bsc",
+        "championshipLogo":"bsc_logo_en",
         "termsAndServiceUrl":"http:\/\/supercell.com\/en\/terms-of-service\/",
         "parentsGuideUrl":"http:\/\/www.supercell.com\/en\/parents\/",
         "privacyPolicyUrl":"http:\/\/www.supercell.com\/en\/privacy-policy\/",
@@ -1175,6 +1313,8 @@
         "isRTL":null,
         "isNounAdj":null,
         "separateThousandsWithSpaces":null,
+        "selfHelpUrl":"https:\/\/ingame.help.supercellsupport.com\/brawl-stars\/en\/index.html",
+        "fallbackToHelpshift":true,
         "id":35
     },
     {
@@ -1193,6 +1333,8 @@
         "helpshiftSDKLanguageAndroid":null,
         "testExcludes":null,
         "loadAllLanguages":null,
+        "championshipRegisterUrl":null,
+        "championshipLogo":null,
         "termsAndServiceUrl":null,
         "parentsGuideUrl":null,
         "privacyPolicyUrl":null,
@@ -1207,7 +1349,9 @@
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
-        "separateThousandsWithSpaces":null
+        "separateThousandsWithSpaces":null,
+        "selfHelpUrl":null,
+        "fallbackToHelpshift":null
     },
     {
         "name":null,
@@ -1225,6 +1369,8 @@
         "helpshiftSDKLanguageAndroid":null,
         "testExcludes":null,
         "loadAllLanguages":null,
+        "championshipRegisterUrl":null,
+        "championshipLogo":null,
         "termsAndServiceUrl":null,
         "parentsGuideUrl":null,
         "privacyPolicyUrl":null,
@@ -1239,7 +1385,9 @@
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
-        "separateThousandsWithSpaces":null
+        "separateThousandsWithSpaces":null,
+        "selfHelpUrl":null,
+        "fallbackToHelpshift":null
     },
     {
         "name":null,
@@ -1257,6 +1405,8 @@
         "helpshiftSDKLanguageAndroid":null,
         "testExcludes":null,
         "loadAllLanguages":null,
+        "championshipRegisterUrl":null,
+        "championshipLogo":null,
         "termsAndServiceUrl":null,
         "parentsGuideUrl":null,
         "privacyPolicyUrl":null,
@@ -1271,7 +1421,9 @@
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
-        "separateThousandsWithSpaces":null
+        "separateThousandsWithSpaces":null,
+        "selfHelpUrl":null,
+        "fallbackToHelpshift":null
     },
     {
         "name":null,
@@ -1289,6 +1441,8 @@
         "helpshiftSDKLanguageAndroid":null,
         "testExcludes":null,
         "loadAllLanguages":null,
+        "championshipRegisterUrl":null,
+        "championshipLogo":null,
         "termsAndServiceUrl":null,
         "parentsGuideUrl":null,
         "privacyPolicyUrl":null,
@@ -1303,7 +1457,9 @@
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
-        "separateThousandsWithSpaces":null
+        "separateThousandsWithSpaces":null,
+        "selfHelpUrl":null,
+        "fallbackToHelpshift":null
     },
     {
         "name":null,
@@ -1321,6 +1477,8 @@
         "helpshiftSDKLanguageAndroid":null,
         "testExcludes":null,
         "loadAllLanguages":null,
+        "championshipRegisterUrl":null,
+        "championshipLogo":null,
         "termsAndServiceUrl":null,
         "parentsGuideUrl":null,
         "privacyPolicyUrl":null,
@@ -1335,7 +1493,9 @@
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
-        "separateThousandsWithSpaces":null
+        "separateThousandsWithSpaces":null,
+        "selfHelpUrl":null,
+        "fallbackToHelpshift":null
     },
     {
         "name":null,
@@ -1353,6 +1513,8 @@
         "helpshiftSDKLanguageAndroid":null,
         "testExcludes":null,
         "loadAllLanguages":null,
+        "championshipRegisterUrl":null,
+        "championshipLogo":null,
         "termsAndServiceUrl":null,
         "parentsGuideUrl":null,
         "privacyPolicyUrl":null,
@@ -1367,7 +1529,9 @@
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
-        "separateThousandsWithSpaces":null
+        "separateThousandsWithSpaces":null,
+        "selfHelpUrl":null,
+        "fallbackToHelpshift":null
     },
     {
         "name":null,
@@ -1385,6 +1549,8 @@
         "helpshiftSDKLanguageAndroid":null,
         "testExcludes":null,
         "loadAllLanguages":null,
+        "championshipRegisterUrl":null,
+        "championshipLogo":null,
         "termsAndServiceUrl":null,
         "parentsGuideUrl":null,
         "privacyPolicyUrl":null,
@@ -1399,7 +1565,9 @@
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
-        "separateThousandsWithSpaces":null
+        "separateThousandsWithSpaces":null,
+        "selfHelpUrl":null,
+        "fallbackToHelpshift":null
     },
     {
         "name":null,
@@ -1417,6 +1585,8 @@
         "helpshiftSDKLanguageAndroid":null,
         "testExcludes":null,
         "loadAllLanguages":null,
+        "championshipRegisterUrl":null,
+        "championshipLogo":null,
         "termsAndServiceUrl":null,
         "parentsGuideUrl":null,
         "privacyPolicyUrl":null,
@@ -1431,7 +1601,9 @@
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
-        "separateThousandsWithSpaces":null
+        "separateThousandsWithSpaces":null,
+        "selfHelpUrl":null,
+        "fallbackToHelpshift":null
     },
     {
         "name":null,
@@ -1449,6 +1621,8 @@
         "helpshiftSDKLanguageAndroid":null,
         "testExcludes":null,
         "loadAllLanguages":null,
+        "championshipRegisterUrl":null,
+        "championshipLogo":null,
         "termsAndServiceUrl":null,
         "parentsGuideUrl":null,
         "privacyPolicyUrl":null,
@@ -1463,7 +1637,9 @@
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
-        "separateThousandsWithSpaces":null
+        "separateThousandsWithSpaces":null,
+        "selfHelpUrl":null,
+        "fallbackToHelpshift":null
     },
     {
         "name":null,
@@ -1481,6 +1657,8 @@
         "helpshiftSDKLanguageAndroid":null,
         "testExcludes":null,
         "loadAllLanguages":null,
+        "championshipRegisterUrl":null,
+        "championshipLogo":null,
         "termsAndServiceUrl":null,
         "parentsGuideUrl":null,
         "privacyPolicyUrl":null,
@@ -1495,7 +1673,9 @@
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
-        "separateThousandsWithSpaces":null
+        "separateThousandsWithSpaces":null,
+        "selfHelpUrl":null,
+        "fallbackToHelpshift":null
     },
     {
         "name":null,
@@ -1513,6 +1693,8 @@
         "helpshiftSDKLanguageAndroid":null,
         "testExcludes":null,
         "loadAllLanguages":null,
+        "championshipRegisterUrl":null,
+        "championshipLogo":null,
         "termsAndServiceUrl":null,
         "parentsGuideUrl":null,
         "privacyPolicyUrl":null,
@@ -1527,7 +1709,9 @@
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
-        "separateThousandsWithSpaces":null
+        "separateThousandsWithSpaces":null,
+        "selfHelpUrl":null,
+        "fallbackToHelpshift":null
     },
     {
         "name":"WORD_ASIA",
@@ -1561,6 +1745,8 @@
             "TH"
         ],
         "loadAllLanguages":true,
+        "championshipRegisterUrl":"http:\/\/www.supr.cl\/bsc",
+        "championshipLogo":"bsc_logo_en",
         "termsAndServiceUrl":"http:\/\/supercell.com\/en\/terms-of-service\/",
         "parentsGuideUrl":"http:\/\/www.supercell.com\/en\/parents\/",
         "privacyPolicyUrl":"http:\/\/www.supercell.com\/en\/privacy-policy\/",
@@ -1576,6 +1762,8 @@
         "isRTL":null,
         "isNounAdj":null,
         "separateThousandsWithSpaces":null,
+        "selfHelpUrl":"https:\/\/ingame.help.supercellsupport.com\/brawl-stars\/en\/index.html",
+        "fallbackToHelpshift":true,
         "id":47
     },
     {
@@ -1594,6 +1782,8 @@
         "helpshiftSDKLanguageAndroid":null,
         "testExcludes":null,
         "loadAllLanguages":null,
+        "championshipRegisterUrl":null,
+        "championshipLogo":null,
         "termsAndServiceUrl":null,
         "parentsGuideUrl":null,
         "privacyPolicyUrl":null,
@@ -1608,7 +1798,9 @@
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
-        "separateThousandsWithSpaces":null
+        "separateThousandsWithSpaces":null,
+        "selfHelpUrl":null,
+        "fallbackToHelpshift":null
     },
     {
         "name":null,
@@ -1626,6 +1818,8 @@
         "helpshiftSDKLanguageAndroid":null,
         "testExcludes":null,
         "loadAllLanguages":null,
+        "championshipRegisterUrl":null,
+        "championshipLogo":null,
         "termsAndServiceUrl":null,
         "parentsGuideUrl":null,
         "privacyPolicyUrl":null,
@@ -1640,7 +1834,9 @@
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
-        "separateThousandsWithSpaces":null
+        "separateThousandsWithSpaces":null,
+        "selfHelpUrl":null,
+        "fallbackToHelpshift":null
     },
     {
         "name":null,
@@ -1658,6 +1854,8 @@
         "helpshiftSDKLanguageAndroid":null,
         "testExcludes":null,
         "loadAllLanguages":null,
+        "championshipRegisterUrl":null,
+        "championshipLogo":null,
         "termsAndServiceUrl":null,
         "parentsGuideUrl":null,
         "privacyPolicyUrl":null,
@@ -1672,7 +1870,9 @@
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
-        "separateThousandsWithSpaces":null
+        "separateThousandsWithSpaces":null,
+        "selfHelpUrl":null,
+        "fallbackToHelpshift":null
     },
     {
         "name":null,
@@ -1690,6 +1890,8 @@
         "helpshiftSDKLanguageAndroid":null,
         "testExcludes":null,
         "loadAllLanguages":null,
+        "championshipRegisterUrl":null,
+        "championshipLogo":null,
         "termsAndServiceUrl":null,
         "parentsGuideUrl":null,
         "privacyPolicyUrl":null,
@@ -1704,7 +1906,9 @@
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
-        "separateThousandsWithSpaces":null
+        "separateThousandsWithSpaces":null,
+        "selfHelpUrl":null,
+        "fallbackToHelpshift":null
     },
     {
         "name":null,
@@ -1722,6 +1926,8 @@
         "helpshiftSDKLanguageAndroid":null,
         "testExcludes":null,
         "loadAllLanguages":null,
+        "championshipRegisterUrl":null,
+        "championshipLogo":null,
         "termsAndServiceUrl":null,
         "parentsGuideUrl":null,
         "privacyPolicyUrl":null,
@@ -1736,7 +1942,9 @@
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
-        "separateThousandsWithSpaces":null
+        "separateThousandsWithSpaces":null,
+        "selfHelpUrl":null,
+        "fallbackToHelpshift":null
     },
     {
         "name":null,
@@ -1754,6 +1962,8 @@
         "helpshiftSDKLanguageAndroid":null,
         "testExcludes":null,
         "loadAllLanguages":null,
+        "championshipRegisterUrl":null,
+        "championshipLogo":null,
         "termsAndServiceUrl":null,
         "parentsGuideUrl":null,
         "privacyPolicyUrl":null,
@@ -1768,7 +1978,9 @@
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
-        "separateThousandsWithSpaces":null
+        "separateThousandsWithSpaces":null,
+        "selfHelpUrl":null,
+        "fallbackToHelpshift":null
     },
     {
         "name":null,
@@ -1786,6 +1998,8 @@
         "helpshiftSDKLanguageAndroid":null,
         "testExcludes":null,
         "loadAllLanguages":null,
+        "championshipRegisterUrl":null,
+        "championshipLogo":null,
         "termsAndServiceUrl":null,
         "parentsGuideUrl":null,
         "privacyPolicyUrl":null,
@@ -1800,7 +2014,9 @@
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
-        "separateThousandsWithSpaces":null
+        "separateThousandsWithSpaces":null,
+        "selfHelpUrl":null,
+        "fallbackToHelpshift":null
     },
     {
         "name":null,
@@ -1818,6 +2034,8 @@
         "helpshiftSDKLanguageAndroid":null,
         "testExcludes":null,
         "loadAllLanguages":null,
+        "championshipRegisterUrl":null,
+        "championshipLogo":null,
         "termsAndServiceUrl":null,
         "parentsGuideUrl":null,
         "privacyPolicyUrl":null,
@@ -1832,7 +2050,9 @@
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
-        "separateThousandsWithSpaces":null
+        "separateThousandsWithSpaces":null,
+        "selfHelpUrl":null,
+        "fallbackToHelpshift":null
     },
     {
         "name":null,
@@ -1850,6 +2070,8 @@
         "helpshiftSDKLanguageAndroid":null,
         "testExcludes":null,
         "loadAllLanguages":null,
+        "championshipRegisterUrl":null,
+        "championshipLogo":null,
         "termsAndServiceUrl":null,
         "parentsGuideUrl":null,
         "privacyPolicyUrl":null,
@@ -1864,7 +2086,9 @@
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
-        "separateThousandsWithSpaces":null
+        "separateThousandsWithSpaces":null,
+        "selfHelpUrl":null,
+        "fallbackToHelpshift":null
     },
     {
         "name":null,
@@ -1882,6 +2106,8 @@
         "helpshiftSDKLanguageAndroid":null,
         "testExcludes":null,
         "loadAllLanguages":null,
+        "championshipRegisterUrl":null,
+        "championshipLogo":null,
         "termsAndServiceUrl":null,
         "parentsGuideUrl":null,
         "privacyPolicyUrl":null,
@@ -1896,7 +2122,9 @@
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
-        "separateThousandsWithSpaces":null
+        "separateThousandsWithSpaces":null,
+        "selfHelpUrl":null,
+        "fallbackToHelpshift":null
     },
     {
         "name":null,
@@ -1914,6 +2142,8 @@
         "helpshiftSDKLanguageAndroid":null,
         "testExcludes":null,
         "loadAllLanguages":null,
+        "championshipRegisterUrl":null,
+        "championshipLogo":null,
         "termsAndServiceUrl":null,
         "parentsGuideUrl":null,
         "privacyPolicyUrl":null,
@@ -1928,7 +2158,9 @@
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
-        "separateThousandsWithSpaces":null
+        "separateThousandsWithSpaces":null,
+        "selfHelpUrl":null,
+        "fallbackToHelpshift":null
     },
     {
         "name":null,
@@ -1946,6 +2178,8 @@
         "helpshiftSDKLanguageAndroid":null,
         "testExcludes":null,
         "loadAllLanguages":null,
+        "championshipRegisterUrl":null,
+        "championshipLogo":null,
         "termsAndServiceUrl":null,
         "parentsGuideUrl":null,
         "privacyPolicyUrl":null,
@@ -1960,7 +2194,9 @@
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
-        "separateThousandsWithSpaces":null
+        "separateThousandsWithSpaces":null,
+        "selfHelpUrl":null,
+        "fallbackToHelpshift":null
     },
     {
         "name":null,
@@ -1978,6 +2214,8 @@
         "helpshiftSDKLanguageAndroid":null,
         "testExcludes":null,
         "loadAllLanguages":null,
+        "championshipRegisterUrl":null,
+        "championshipLogo":null,
         "termsAndServiceUrl":null,
         "parentsGuideUrl":null,
         "privacyPolicyUrl":null,
@@ -1992,7 +2230,9 @@
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
-        "separateThousandsWithSpaces":null
+        "separateThousandsWithSpaces":null,
+        "selfHelpUrl":null,
+        "fallbackToHelpshift":null
     },
     {
         "name":null,
@@ -2010,6 +2250,8 @@
         "helpshiftSDKLanguageAndroid":null,
         "testExcludes":null,
         "loadAllLanguages":null,
+        "championshipRegisterUrl":null,
+        "championshipLogo":null,
         "termsAndServiceUrl":null,
         "parentsGuideUrl":null,
         "privacyPolicyUrl":null,
@@ -2024,7 +2266,9 @@
         "laserboxEnabled":null,
         "isRTL":null,
         "isNounAdj":null,
-        "separateThousandsWithSpaces":null
+        "separateThousandsWithSpaces":null,
+        "selfHelpUrl":null,
+        "fallbackToHelpshift":null
     },
     {
         "name":"PL",
@@ -2042,6 +2286,8 @@
         "helpshiftSDKLanguageAndroid":null,
         "testExcludes":null,
         "loadAllLanguages":null,
+        "championshipRegisterUrl":"http:\/\/www.supr.cl\/bsc",
+        "championshipLogo":"bsc_logo_en",
         "termsAndServiceUrl":"http:\/\/supercell.com\/en\/terms-of-service\/fi\/",
         "parentsGuideUrl":"http:\/\/supercell.com\/en\/parents\/fi\/",
         "privacyPolicyUrl":"http:\/\/supercell.com\/en\/privacy-policy\/fi\/",
@@ -2057,6 +2303,8 @@
         "isRTL":null,
         "isNounAdj":null,
         "separateThousandsWithSpaces":null,
+        "selfHelpUrl":"https:\/\/ingame.help.supercellsupport.com\/brawl-stars\/en\/index.html",
+        "fallbackToHelpshift":true,
         "id":62
     },
     {
@@ -2075,6 +2323,8 @@
         "helpshiftSDKLanguageAndroid":null,
         "testExcludes":null,
         "loadAllLanguages":null,
+        "championshipRegisterUrl":"http:\/\/www.supr.cl\/bsc",
+        "championshipLogo":"bsc_logo_en",
         "termsAndServiceUrl":"http:\/\/supercell.com\/en\/terms-of-service\/fi\/",
         "parentsGuideUrl":"http:\/\/supercell.com\/en\/parents\/fi\/",
         "privacyPolicyUrl":"http:\/\/supercell.com\/en\/privacy-policy\/fi\/",
@@ -2090,6 +2340,8 @@
         "isRTL":true,
         "isNounAdj":null,
         "separateThousandsWithSpaces":null,
+        "selfHelpUrl":"https:\/\/ingame.help.supercellsupport.com\/brawl-stars\/en\/index.html",
+        "fallbackToHelpshift":true,
         "id":63
     }
 ]

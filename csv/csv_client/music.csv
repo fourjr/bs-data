@@ -18,6 +18,9 @@
 "Halloween_menu","music/brawloween_menu_01.ogg",60,"true",,,80
 "Halloween_ingame","music/brawloween_ingame_01.ogg",70,"true",,,52
 ,"music/brawloween_ingame_02.ogg",70,"true",,,56
+"Xmas_Pirate_Menu","music/brawl_pirate_menu_01.ogg",60,"true",,,67
+"Pirate_Brawl_Ingame","music/pirate_brawl_ingame_01.ogg",70,"true",,,63
+,"music/pirate_brawl_ingame_02.ogg",70,"true",,,71
 "MenuMusic","music/brawl_stars_menu_01.ogg",60,"true",,,153
 "MechMenuMusic","music/mech_menu_01.ogg",60,"true",,,78
 "Cnymenu_music","music/cny_brawl_menu_01.ogg",60,"true",,,178
@@ -32,3 +35,5 @@
 "Brawlbawl_goal","music/brawl_goal_02.ogg",80,,1,,
 "Brawlbawl_other_goal","music/brawl_other_goal_01.ogg",80,,1,,
 "30_sec_panic","music/brawl_panic_time_01.ogg",75,"true",,,30
+"Brawl_xmas_flag_win","music/brawl_xmas_flag_win_01.ogg",70,,1,,
+"Brawl_xmas_flag_lose","music/brawl_xmas_flag_lose_01.ogg",70,,1,,
