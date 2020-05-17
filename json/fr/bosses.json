@@ -46,7 +46,7 @@
     },
     {
         "name":"boss4",
-        "tID":"\u00c9quipant",
+        "tID":"Travail d'\u00e9quipe",
         "playerCount":3,
         "requiredCampaignProgressToUnlock":24,
         "location":"Planet4",

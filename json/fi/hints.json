@@ -321,7 +321,7 @@
     },
     {
         "name":33,
-        "tID":"Lipputapahtumat eiv\u00e4t vaikuta vaikuta polettikiinti\u00f6\u00f6si. Niiss\u00e4 pelaamiseen k\u00e4ytet\u00e4\u00e4n lippuja.",
+        "tID":"Erikoistapahtumista ei saa pokaaleja. Niiss\u00e4 pelaamalla voit voittaa poletteja Brawl Passia varten.",
         "minXPLevel":3,
         "maxXPLevel":60,
         "fileName":null,

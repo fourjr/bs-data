@@ -1,7 +1,7 @@
 [
     {
         "name":1,
-        "tID":"Touchez <ccc0033>le joystick rouge<\/c> pour faire feu rapidement sur l'ennemi le plus proche.",
+        "tID":"Appuyez sur <ccc0033>le joystick rouge<\/c> pour faire feu rapidement sur l'ennemi le plus proche.",
         "minXPLevel":1,
         "maxXPLevel":40,
         "fileName":null,
@@ -11,7 +11,7 @@
     },
     {
         "name":2,
-        "tID":"Touchez <cff9900>le joystick jaune<\/c> pour faire feu rapidement avec votre super sur l'ennemi le plus proche.",
+        "tID":"Appuyez sur <cff9900>le joystick jaune<\/c> pour faire feu rapidement avec votre super sur l'ennemi le plus proche.",
         "minXPLevel":1,
         "maxXPLevel":40,
         "fileName":null,
@@ -111,7 +111,7 @@
     },
     {
         "name":12,
-        "tID":"Votre attaque principale et votre super ont deux modes de tir\u00a0: toucher pour activer le tir rapide ou viser en faisant glisser le doigt sur l'\u00e9cran.",
+        "tID":"Votre attaque principale et votre super ont deux modes de tir\u00a0: appuyer pour activer le tir rapide ou viser en faisant glisser le doigt sur l'\u00e9cran.",
         "minXPLevel":1,
         "maxXPLevel":40,
         "fileName":null,
@@ -321,7 +321,7 @@
     },
     {
         "name":33,
-        "tID":"Les \u00e9v\u00e9nements \u00e0 tickets ne font pas diminuer la barre de jetons. Pour y acc\u00e9der, il vous faut des tickets.",
+        "tID":"Vous ne recevez pas de troph\u00e9es dans les \u00e9v\u00e9nements sp\u00e9ciaux, mais vous pouvez gagner des jetons pour le Pass Brawl.",
         "minXPLevel":3,
         "maxXPLevel":60,
         "fileName":null,

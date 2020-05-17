@@ -321,7 +321,7 @@
     },
     {
         "name":33,
-        "tID":"Ticketereignisse haben keinen Einfluss auf die Markenleiste. Um sie zu spielen, werden Tickets ben\u00f6tigt.",
+        "tID":"In Sonderereignissen gibt es keine Troph\u00e4en als Belohnung. Wenn du sie spielst, verdienst du dir stattdessen Marken f\u00fcr den Brawlpass!",
         "minXPLevel":3,
         "maxXPLevel":60,
         "fileName":null,

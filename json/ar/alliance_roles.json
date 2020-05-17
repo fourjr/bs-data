@@ -57,7 +57,7 @@
     {
         "name":"Co-leader",
         "level":10,
-        "tID":"\u0627\u0644\u0646\u0627\u0626\u0628",
+        "tID":"\u0646\u0627\u0626\u0628",
         "canInvite":true,
         "canSendMail":true,
         "canChangeAllianceSettings":true,

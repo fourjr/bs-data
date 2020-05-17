@@ -91,7 +91,7 @@
     },
     {
         "name":10,
-        "tID":"A balas do Rico ganham mais impulso e v\u00e3o mais longe a cada ricochete.",
+        "tID":"As balas do Rico ganham mais impulso e v\u00e3o mais longe a cada ricochete.",
         "minXPLevel":20,
         "maxXPLevel":999,
         "fileName":null,
@@ -321,7 +321,7 @@
     },
     {
         "name":33,
-        "tID":"Eventos restritos n\u00e3o consomem a barra de fichas, mas \u00e9 preciso ter ingressos para jogar.",
+        "tID":"Os eventos especiais n\u00e3o d\u00e3o trof\u00e9us, mas concedem fichas do Brawl Pass.",
         "minXPLevel":3,
         "maxXPLevel":60,
         "fileName":null,

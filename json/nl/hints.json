@@ -321,7 +321,7 @@
     },
     {
         "name":33,
-        "tID":"Ticketevenementen maken geen gebruik van de tokenbalk, maar vereisen tickets om te spelen.",
+        "tID":"Bij speciale evenementen word je niet beloond met trofee\u00ebn, maar kun je tokens winnen voor de Brawl Pass.",
         "minXPLevel":3,
         "maxXPLevel":60,
         "fileName":null,
@@ -401,7 +401,7 @@
     },
     {
         "name":41,
-        "tID":"Verbind je spel met Supercell ID via de instellingen van het spel om je account veilig te houden en op meerdere apparaten te spelen. Je krijgt er bovendien een gratis skin voor!",
+        "tID":"Koppel je spel aan een Supercell ID via de instellingen van het spel om je account veilig te stellen en op meerdere apparaten te spelen. Je krijgt er bovendien een gratis skin voor!",
         "minXPLevel":3,
         "maxXPLevel":999,
         "fileName":null,

@@ -321,7 +321,7 @@
     },
     {
         "name":33,
-        "tID":"Los eventos por tiques no se juegan con fichas, sino que hay que usar tiques para jugarlos.",
+        "tID":"Los eventos especiales no otorgan trofeos, sino fichas para el Brawl\u00a0Pass.",
         "minXPLevel":3,
         "maxXPLevel":60,
         "fileName":null,

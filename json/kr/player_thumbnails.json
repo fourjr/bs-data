@@ -574,5 +574,65 @@
         "sortOrder":504,
         "id":75,
         "scId":28000047
+    },
+    {
+        "name":"hero33",
+        "requiredExpLevel":0,
+        "requiredTotalTrophies":0,
+        "requiredSeasonPoints":null,
+        "requiredHero":"SpawnerDude",
+        "iconSWF":"sc\/ui.sc",
+        "iconExportName":"player_icon_mrp",
+        "sortOrder":505,
+        "id":76,
+        "scId":28000048
+    },
+    {
+        "name":"hero34",
+        "requiredExpLevel":0,
+        "requiredTotalTrophies":0,
+        "requiredSeasonPoints":null,
+        "requiredHero":"Driller",
+        "iconSWF":"sc\/ui.sc",
+        "iconExportName":"player_icon_jacky",
+        "sortOrder":305,
+        "id":77,
+        "scId":28000049
+    },
+    {
+        "name":"hero35",
+        "requiredExpLevel":0,
+        "requiredTotalTrophies":0,
+        "requiredSeasonPoints":null,
+        "requiredHero":"Wally",
+        "iconSWF":"sc\/ui.sc",
+        "iconExportName":"player_icon_sprout",
+        "sortOrder":506,
+        "id":78,
+        "scId":28000050
+    },
+    {
+        "name":"hero36",
+        "requiredExpLevel":0,
+        "requiredTotalTrophies":0,
+        "requiredSeasonPoints":null,
+        "requiredHero":"Blower",
+        "iconSWF":"sc\/ui.sc",
+        "iconExportName":"player_icon_gale",
+        "sortOrder":701,
+        "id":79,
+        "scId":28000051
+    },
+    {
+        "name":"hero37",
+        "requiredExpLevel":0,
+        "requiredTotalTrophies":0,
+        "requiredSeasonPoints":null,
+        "requiredHero":"Controller",
+        "iconSWF":"sc\/ui.sc",
+        "iconExportName":"player_icon_nani",
+        "sortOrder":406,
+        "id":80,
+        "scId":28000052
     }
 ]

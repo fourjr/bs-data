@@ -538,7 +538,7 @@
         "animationMovieClip2":null,
         "speechBubbleCharacterSWF":"sc\/ui.sc",
         "speechBubbleCharacterMovieClip":"tutorial_character_top",
-        "speechBubbleTIDs":"Encore des cibles\u00a0! Vous pouvez <ccc0033>toucher<\/c> le <ccc0033>joystick rouge<\/c> pour tirer sur l'ennemi le plus proche. D\u00e9truisez les robots\u00a0!",
+        "speechBubbleTIDs":"Encore des cibles\u00a0! Vous pouvez <ccc0033>appuyer<\/c> sur le <ccc0033>joystick rouge<\/c> pour tirer sur l'ennemi le plus proche. D\u00e9truisez les robots\u00a0!",
         "startSound":"Tut_speech",
         "spawnCharacter":null,
         "spawnLocationX":null,

@@ -258,7 +258,7 @@
     },
     {
         "name":"BOSS_HEALTH_INCREASE",
-        "numberValue":110000,
+        "numberValue":75000,
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
@@ -374,22 +374,13 @@
         "id":43
     },
     {
-        "name":"BOSS_HEALTH_LOSS_DIV",
-        "numberValue":300,
-        "booleanValue":null,
-        "textValue":null,
-        "stringArray":null,
-        "numberArray":null,
-        "id":44
-    },
-    {
         "name":"VISIBILITY_X",
         "numberValue":43,
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
         "numberArray":null,
-        "id":45
+        "id":44
     },
     {
         "name":"VISIBILITY_UP",
@@ -398,7 +389,7 @@
         "textValue":null,
         "stringArray":null,
         "numberArray":null,
-        "id":46
+        "id":45
     },
     {
         "name":"VISIBILITY_DOWN",
@@ -407,7 +398,7 @@
         "textValue":null,
         "stringArray":null,
         "numberArray":null,
-        "id":47
+        "id":46
     },
     {
         "name":"VISIBILITY_HORIZONTAL_MARGIN",
@@ -416,7 +407,7 @@
         "textValue":null,
         "stringArray":null,
         "numberArray":null,
-        "id":48
+        "id":47
     },
     {
         "name":"VISIBILITY_VERTICAL_MARGIN_1",
@@ -425,7 +416,7 @@
         "textValue":null,
         "stringArray":null,
         "numberArray":null,
-        "id":49
+        "id":48
     },
     {
         "name":"VISIBILITY_VERTICAL_MARGIN_2",
@@ -434,7 +425,7 @@
         "textValue":null,
         "stringArray":null,
         "numberArray":null,
-        "id":50
+        "id":49
     },
     {
         "name":"STARTING_HERO_LVL_UP_MATERIAL",
@@ -443,7 +434,7 @@
         "textValue":null,
         "stringArray":null,
         "numberArray":null,
-        "id":51
+        "id":50
     },
     {
         "name":"TRANSFORM_FREE_BOX_TO_AD_BOX",
@@ -452,7 +443,7 @@
         "textValue":null,
         "stringArray":null,
         "numberArray":null,
-        "id":52
+        "id":51
     },
     {
         "name":"VAMPIRES_HEAL_MUL",
@@ -461,7 +452,7 @@
         "textValue":null,
         "stringArray":null,
         "numberArray":null,
-        "id":53
+        "id":52
     },
     {
         "name":"VAMPIRES_HEAL_DIV",
@@ -470,6 +461,33 @@
         "textValue":null,
         "stringArray":null,
         "numberArray":null,
+        "id":53
+    },
+    {
+        "name":"EMOTE_COOLDOWN_TICKS",
+        "numberValue":200,
+        "booleanValue":null,
+        "textValue":null,
+        "stringArray":null,
+        "numberArray":null,
         "id":54
+    },
+    {
+        "name":"EMOTE_COOLDOWN_TICKS_MATCH_END",
+        "numberValue":60,
+        "booleanValue":null,
+        "textValue":null,
+        "stringArray":null,
+        "numberArray":null,
+        "id":55
+    },
+    {
+        "name":"CHINA_BOX_LIMIT",
+        "numberValue":45,
+        "booleanValue":null,
+        "textValue":null,
+        "stringArray":null,
+        "numberArray":null,
+        "id":56
     }
 ]

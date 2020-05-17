@@ -321,7 +321,7 @@
     },
     {
         "name":33,
-        "tID":"Tiket diperlukan untuk bermain di Acara Tiket. Acara ini tidak menggunakan Bilah Token.",
+        "tID":"Acara Spesial tidak memberikan Trofi. Sebagai gantinya, kamu akan meraih Token untuk Brawl Pass.",
         "minXPLevel":3,
         "maxXPLevel":60,
         "fileName":null,

@@ -321,7 +321,7 @@
     },
     {
         "name":33,
-        "tID":"Biletli etkinliklerinde jeton yerine bilet kullan\u0131l\u0131r.",
+        "tID":"\u00d6zel etkinlikler kupa kazand\u0131rmaz. Bu etkinlikler Brawl Pass i\u00e7in jeton verir.",
         "minXPLevel":3,
         "maxXPLevel":60,
         "fileName":null,

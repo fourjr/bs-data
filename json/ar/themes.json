@@ -62,7 +62,7 @@
         "particleExportName":null,
         "particleStyle":null,
         "particleVariations":null,
-        "themeMusic":"Brawl_dawgs_menu",
+        "themeMusic":"MenuMusic",
         "useInLevelSelection":true
     },
     {
@@ -107,6 +107,50 @@
         "particleStyle":null,
         "particleVariations":null,
         "themeMusic":"Xmas_Pirate_Menu",
+        "useInLevelSelection":true
+    },
+    {
+        "name":"LNY20",
+        "fileName":"sc\/background_lny_20.sc",
+        "exportName":"bgr_lny20",
+        "particleFileName":null,
+        "particleExportName":null,
+        "particleStyle":null,
+        "particleVariations":null,
+        "themeMusic":"Brawlcade_Menu",
+        "useInLevelSelection":true
+    },
+    {
+        "name":"PSG",
+        "fileName":"sc\/background_psg.sc",
+        "exportName":"bgr_psg",
+        "particleFileName":"sc\/ui.sc",
+        "particleExportName":null,
+        "particleStyle":null,
+        "particleVariations":null,
+        "themeMusic":"Footbrawl_menu_muzak",
+        "useInLevelSelection":true
+    },
+    {
+        "name":"SC10",
+        "fileName":"sc\/background_s_anniversary.sc",
+        "exportName":"bgr_s_anniversary",
+        "particleFileName":null,
+        "particleExportName":null,
+        "particleStyle":null,
+        "particleVariations":null,
+        "themeMusic":"10th_Anniversary_Menu",
+        "useInLevelSelection":true
+    },
+    {
+        "name":"Bazaar",
+        "fileName":"sc\/background_t_bazaar.sc",
+        "exportName":"bgr_t_bazaar",
+        "particleFileName":null,
+        "particleExportName":null,
+        "particleStyle":null,
+        "particleVariations":null,
+        "themeMusic":"Brawzaar_menu_muzak",
         "useInLevelSelection":true
     }
 ]

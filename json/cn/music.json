@@ -2,16 +2,12 @@
     {
         "name":"BattleMusic",
         "fileName":[
-            "music\/Slugfest_ingame_02.ogg",
+            "music\/Slugfest_ingame_01.ogg",
             [
-                "music\/Slugfest_ingame_02.ogg",
+                "music\/Slugfest_ingame_01.ogg",
                 "music\/Slugfest_ingame_03.ogg"
             ],
-            "music\/Slugfest_ingame_04.ogg",
-            "music\/Slugfest_ingame_06.ogg",
-            "music\/Slugfest_ingame_01.ogg",
-            "music\/Slugfest_ingame_07.ogg",
-            "music\/Slugfest_ingame_08.ogg"
+            "music\/Slugfest_ingame_06.ogg"
         ],
         "volume":[
             70,
@@ -19,10 +15,6 @@
                 70,
                 70
             ],
-            70,
-            70,
-            70,
-            70,
             70
         ],
         "loop":[
@@ -31,10 +23,6 @@
                 true,
                 true
             ],
-            true,
-            true,
-            true,
-            true,
             true
         ],
         "playCount":null,
@@ -45,19 +33,15 @@
                 60,
                 90
             ],
-            57,
-            75,
-            60,
-            71,
-            57
+            75
         ],
         "id":12
     },
     {
         "name":null,
         "fileName":[
-            "music\/pirate_brawl_ingame_01.ogg",
-            "music\/pirate_brawl_ingame_02.ogg"
+            "music\/brawlcade_ingame_01.ogg",
+            "music\/brawlcade_ingame_02.ogg"
         ],
         "volume":[
             70,
@@ -70,8 +54,8 @@
         "playCount":null,
         "fadeOutTimeSec":null,
         "durationSec":[
-            63,
-            71
+            57,
+            62
         ]
     },
     {
@@ -84,31 +68,56 @@
         "durationSec":null
     },
     {
-        "name":null,
-        "fileName":null,
-        "volume":null,
-        "loop":null,
+        "name":"Footbrawl_ingame_muzak",
+        "fileName":"music\/footbrawl_ingame_muzak_01.ogg",
+        "volume":70,
+        "loop":true,
         "playCount":null,
         "fadeOutTimeSec":null,
-        "durationSec":null
+        "durationSec":59,
+        "id":15
     },
     {
-        "name":null,
-        "fileName":null,
-        "volume":null,
-        "loop":null,
+        "name":"Footbrawl_menu_muzak",
+        "fileName":"music\/footbrawl_menu_muzak_01.ogg",
+        "volume":60,
+        "loop":true,
         "playCount":null,
         "fadeOutTimeSec":null,
-        "durationSec":null
+        "durationSec":70,
+        "id":16
     },
     {
-        "name":null,
-        "fileName":null,
-        "volume":null,
-        "loop":null,
+        "name":"Brawzaar_menu_muzak",
+        "fileName":"music\/brawzaar_menu_01.ogg",
+        "volume":60,
+        "loop":true,
         "playCount":null,
         "fadeOutTimeSec":null,
-        "durationSec":null
+        "durationSec":126,
+        "id":17
+    },
+    {
+        "name":"Brawzaar_ingame_muzak",
+        "fileName":[
+            "music\/brawzaar_ingame_01.ogg",
+            "music\/brawzaar_ingame_02.ogg"
+        ],
+        "volume":[
+            70,
+            70
+        ],
+        "loop":[
+            true,
+            true
+        ],
+        "playCount":null,
+        "fadeOutTimeSec":null,
+        "durationSec":[
+            59,
+            63
+        ],
+        "id":18
     },
     {
         "name":null,
@@ -143,7 +152,7 @@
             65,
             57
         ],
-        "id":19
+        "id":20
     },
     {
         "name":null,
@@ -183,7 +192,7 @@
             64,
             56
         ],
-        "id":22
+        "id":23
     },
     {
         "name":null,
@@ -196,34 +205,13 @@
     },
     {
         "name":"Retropolis_battle",
-        "fileName":[
-            "music\/retro_brawl_ingame_02.ogg",
-            "music\/retro_brawl_ingame_01.ogg"
-        ],
-        "volume":[
-            70,
-            70
-        ],
-        "loop":[
-            true,
-            true
-        ],
+        "fileName":"music\/retro_brawl_ingame_01.ogg",
+        "volume":70,
+        "loop":true,
         "playCount":null,
         "fadeOutTimeSec":null,
-        "durationSec":[
-            65,
-            55
-        ],
-        "id":24
-    },
-    {
-        "name":null,
-        "fileName":null,
-        "volume":null,
-        "loop":null,
-        "playCount":null,
-        "fadeOutTimeSec":null,
-        "durationSec":null
+        "durationSec":55,
+        "id":25
     },
     {
         "name":"Retropolis_menu",
@@ -247,9 +235,29 @@
     },
     {
         "name":"Halloween_ingame",
+        "fileName":"music\/brawloween_ingame_02.ogg",
+        "volume":70,
+        "loop":true,
+        "playCount":null,
+        "fadeOutTimeSec":null,
+        "durationSec":56,
+        "id":28
+    },
+    {
+        "name":"Brawlcade_Menu",
+        "fileName":"music\/brawlcade_menu_01.ogg",
+        "volume":60,
+        "loop":true,
+        "playCount":null,
+        "fadeOutTimeSec":null,
+        "durationSec":57,
+        "id":29
+    },
+    {
+        "name":"Brawlcade_Ingame",
         "fileName":[
-            "music\/brawloween_ingame_01.ogg",
-            "music\/brawloween_ingame_02.ogg"
+            "music\/brawlcade_ingame_01.ogg",
+            "music\/brawlcade_ingame_02.ogg"
         ],
         "volume":[
             70,
@@ -262,10 +270,10 @@
         "playCount":null,
         "fadeOutTimeSec":null,
         "durationSec":[
-            52,
-            56
+            57,
+            62
         ],
-        "id":28
+        "id":30
     },
     {
         "name":null,
@@ -284,38 +292,17 @@
         "playCount":null,
         "fadeOutTimeSec":null,
         "durationSec":67,
-        "id":30
+        "id":32
     },
     {
         "name":"Pirate_Brawl_Ingame",
-        "fileName":[
-            "music\/pirate_brawl_ingame_01.ogg",
-            "music\/pirate_brawl_ingame_02.ogg"
-        ],
-        "volume":[
-            70,
-            70
-        ],
-        "loop":[
-            true,
-            true
-        ],
+        "fileName":"music\/pirate_brawl_ingame_01.ogg",
+        "volume":70,
+        "loop":true,
         "playCount":null,
         "fadeOutTimeSec":null,
-        "durationSec":[
-            63,
-            71
-        ],
-        "id":31
-    },
-    {
-        "name":null,
-        "fileName":null,
-        "volume":null,
-        "loop":null,
-        "playCount":null,
-        "fadeOutTimeSec":null,
-        "durationSec":null
+        "durationSec":63,
+        "id":33
     },
     {
         "name":"MenuMusic",
@@ -325,7 +312,7 @@
         "playCount":null,
         "fadeOutTimeSec":null,
         "durationSec":153,
-        "id":33
+        "id":34
     },
     {
         "name":"MechMenuMusic",
@@ -335,7 +322,7 @@
         "playCount":null,
         "fadeOutTimeSec":null,
         "durationSec":78,
-        "id":34
+        "id":35
     },
     {
         "name":"Cnymenu_music",
@@ -345,7 +332,7 @@
         "playCount":null,
         "fadeOutTimeSec":null,
         "durationSec":178,
-        "id":35
+        "id":36
     },
     {
         "name":"Brawl_royale_menu_music",
@@ -355,7 +342,7 @@
         "playCount":null,
         "fadeOutTimeSec":null,
         "durationSec":91,
-        "id":36
+        "id":37
     },
     {
         "name":"Brawl_dawgs_menu",
@@ -365,7 +352,17 @@
         "playCount":null,
         "fadeOutTimeSec":null,
         "durationSec":95,
-        "id":37
+        "id":38
+    },
+    {
+        "name":"10th_Anniversary_Menu",
+        "fileName":"music\/brawl_original_menu_01.ogg",
+        "volume":60,
+        "loop":true,
+        "playCount":null,
+        "fadeOutTimeSec":null,
+        "durationSec":124,
+        "id":39
     },
     {
         "name":"WinJingle",
@@ -375,7 +372,7 @@
         "playCount":1,
         "fadeOutTimeSec":null,
         "durationSec":null,
-        "id":38
+        "id":40
     },
     {
         "name":"LoseJingle",
@@ -385,7 +382,7 @@
         "playCount":1,
         "fadeOutTimeSec":null,
         "durationSec":null,
-        "id":39
+        "id":41
     },
     {
         "name":"DrawJingle",
@@ -395,7 +392,7 @@
         "playCount":1,
         "fadeOutTimeSec":null,
         "durationSec":null,
-        "id":40
+        "id":42
     },
     {
         "name":"Win_loop",
@@ -405,7 +402,7 @@
         "playCount":null,
         "fadeOutTimeSec":null,
         "durationSec":30,
-        "id":41
+        "id":43
     },
     {
         "name":"Draw_loop",
@@ -415,7 +412,7 @@
         "playCount":null,
         "fadeOutTimeSec":null,
         "durationSec":34,
-        "id":42
+        "id":44
     },
     {
         "name":"Lose_loop",
@@ -425,7 +422,7 @@
         "playCount":null,
         "fadeOutTimeSec":null,
         "durationSec":28,
-        "id":43
+        "id":45
     },
     {
         "name":"Brawlbawl_goal",
@@ -435,7 +432,7 @@
         "playCount":1,
         "fadeOutTimeSec":null,
         "durationSec":null,
-        "id":44
+        "id":46
     },
     {
         "name":"Brawlbawl_other_goal",
@@ -445,7 +442,7 @@
         "playCount":1,
         "fadeOutTimeSec":null,
         "durationSec":null,
-        "id":45
+        "id":47
     },
     {
         "name":"30_sec_panic",
@@ -455,7 +452,7 @@
         "playCount":null,
         "fadeOutTimeSec":null,
         "durationSec":30,
-        "id":46
+        "id":48
     },
     {
         "name":"Brawl_xmas_flag_win",
@@ -465,7 +462,7 @@
         "playCount":1,
         "fadeOutTimeSec":null,
         "durationSec":null,
-        "id":47
+        "id":49
     },
     {
         "name":"Brawl_xmas_flag_lose",
@@ -475,6 +472,6 @@
         "playCount":1,
         "fadeOutTimeSec":null,
         "durationSec":null,
-        "id":48
+        "id":50
     }
 ]

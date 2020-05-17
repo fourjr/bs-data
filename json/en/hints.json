@@ -321,7 +321,7 @@
     },
     {
         "name":33,
-        "tID":"Ticketed events don't use up the Token Bar, instead they require tickets to play.",
+        "tID":"Special Events don't reward trophies. Play them to win tokens for Brawl Pass.",
         "minXPLevel":3,
         "maxXPLevel":60,
         "fileName":null,
