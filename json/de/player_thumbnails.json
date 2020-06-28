@@ -9,7 +9,7 @@
         "iconExportName":"player_icon_00",
         "sortOrder":0,
         "id":28,
-        "scId":28000000
+        "scId":280000000
     },
     {
         "name":"base2",
@@ -21,7 +21,7 @@
         "iconExportName":"player_icon_01",
         "sortOrder":1,
         "id":29,
-        "scId":28000001
+        "scId":280000001
     },
     {
         "name":"base3",
@@ -33,7 +33,7 @@
         "iconExportName":"player_icon_02",
         "sortOrder":2,
         "id":30,
-        "scId":28000002
+        "scId":280000002
     },
     {
         "name":"hero1",
@@ -45,7 +45,7 @@
         "iconExportName":"player_icon_shelly",
         "sortOrder":101,
         "id":31,
-        "scId":28000003
+        "scId":280000003
     },
     {
         "name":"hero2",
@@ -57,7 +57,7 @@
         "iconExportName":"player_icon_colt",
         "sortOrder":103,
         "id":32,
-        "scId":28000004
+        "scId":280000004
     },
     {
         "name":"hero3",
@@ -69,7 +69,7 @@
         "iconExportName":"player_icon_brock",
         "sortOrder":106,
         "id":33,
-        "scId":28000005
+        "scId":280000005
     },
     {
         "name":"hero4",
@@ -81,7 +81,7 @@
         "iconExportName":"player_icon_jess",
         "sortOrder":105,
         "id":34,
-        "scId":28000006
+        "scId":280000006
     },
     {
         "name":"hero5",
@@ -93,7 +93,7 @@
         "iconExportName":"player_icon_nita",
         "sortOrder":102,
         "id":35,
-        "scId":28000007
+        "scId":280000007
     },
     {
         "name":"hero6",
@@ -105,7 +105,7 @@
         "iconExportName":"player_icon_mike",
         "sortOrder":107,
         "id":36,
-        "scId":28000008
+        "scId":280000008
     },
     {
         "name":"hero7",
@@ -117,7 +117,7 @@
         "iconExportName":"player_icon_primo",
         "sortOrder":201,
         "id":37,
-        "scId":28000009
+        "scId":280000009
     },
     {
         "name":"hero8",
@@ -129,7 +129,7 @@
         "iconExportName":"player_icon_bull",
         "sortOrder":104,
         "id":38,
-        "scId":28000010
+        "scId":280000010
     },
     {
         "name":"hero9",
@@ -141,7 +141,7 @@
         "iconExportName":"player_icon_rick",
         "sortOrder":301,
         "id":39,
-        "scId":28000011
+        "scId":280000011
     },
     {
         "name":"hero10",
@@ -153,7 +153,7 @@
         "iconExportName":"player_icon_barley",
         "sortOrder":202,
         "id":40,
-        "scId":28000012
+        "scId":280000012
     },
     {
         "name":"hero11",
@@ -165,7 +165,7 @@
         "iconExportName":"player_icon_poco",
         "sortOrder":203,
         "id":41,
-        "scId":28000013
+        "scId":280000013
     },
     {
         "name":"hero12",
@@ -177,7 +177,7 @@
         "iconExportName":"player_icon_mortis",
         "sortOrder":501,
         "id":42,
-        "scId":28000014
+        "scId":280000014
     },
     {
         "name":"hero13",
@@ -189,7 +189,7 @@
         "iconExportName":"player_icon_bo",
         "sortOrder":108,
         "id":43,
-        "scId":28000015
+        "scId":280000015
     },
     {
         "name":"hero14",
@@ -201,7 +201,7 @@
         "iconExportName":"player_icon_spike",
         "sortOrder":601,
         "id":44,
-        "scId":28000016
+        "scId":280000016
     },
     {
         "name":"hero15",
@@ -213,7 +213,7 @@
         "iconExportName":"player_icon_crow",
         "sortOrder":602,
         "id":45,
-        "scId":28000017
+        "scId":280000017
     },
     {
         "name":"hero16",
@@ -225,7 +225,7 @@
         "iconExportName":"player_icon_piper",
         "sortOrder":401,
         "id":46,
-        "scId":28000018
+        "scId":280000018
     },
     {
         "name":"base4",
@@ -237,7 +237,7 @@
         "iconExportName":"player_icon_03",
         "sortOrder":3,
         "id":47,
-        "scId":28000019
+        "scId":280000019
     },
     {
         "name":"base5",
@@ -249,7 +249,7 @@
         "iconExportName":"player_icon_04",
         "sortOrder":4,
         "id":48,
-        "scId":28000020
+        "scId":280000020
     },
     {
         "name":"base6",
@@ -261,7 +261,7 @@
         "iconExportName":"player_icon_05",
         "sortOrder":5,
         "id":49,
-        "scId":28000021
+        "scId":280000021
     },
     {
         "name":"base7",
@@ -273,7 +273,7 @@
         "iconExportName":"player_icon_06",
         "sortOrder":6,
         "id":50,
-        "scId":28000022
+        "scId":280000022
     },
     {
         "name":"base8",
@@ -285,7 +285,7 @@
         "iconExportName":"player_icon_07",
         "sortOrder":7,
         "id":51,
-        "scId":28000023
+        "scId":280000023
     },
     {
         "name":"trophy1",
@@ -297,7 +297,7 @@
         "iconExportName":"player_icon_trophy_00",
         "sortOrder":8,
         "id":52,
-        "scId":28000024
+        "scId":280000024
     },
     {
         "name":"trophy2",
@@ -309,7 +309,7 @@
         "iconExportName":"player_icon_trophy_01",
         "sortOrder":9,
         "id":53,
-        "scId":28000025
+        "scId":280000025
     },
     {
         "name":"trophy3",
@@ -321,7 +321,7 @@
         "iconExportName":"player_icon_trophy_02",
         "sortOrder":10,
         "id":54,
-        "scId":28000026
+        "scId":280000026
     },
     {
         "name":"trophy4",
@@ -333,7 +333,7 @@
         "iconExportName":"player_icon_trophy_03",
         "sortOrder":11,
         "id":55,
-        "scId":28000027
+        "scId":280000027
     },
     {
         "name":"hero17",
@@ -345,7 +345,7 @@
         "iconExportName":"player_icon_mj",
         "sortOrder":402,
         "id":56,
-        "scId":28000028
+        "scId":280000028
     },
     {
         "name":"hero18",
@@ -357,7 +357,7 @@
         "iconExportName":"player_icon_taro",
         "sortOrder":502,
         "id":57,
-        "scId":28000029
+        "scId":280000029
     },
     {
         "name":"trophy5",
@@ -369,7 +369,7 @@
         "iconExportName":"player_icon_elite_00",
         "sortOrder":12,
         "id":58,
-        "scId":28000030
+        "scId":280000030
     },
     {
         "name":"trophy6",
@@ -381,7 +381,7 @@
         "iconExportName":"player_icon_elite_01",
         "sortOrder":13,
         "id":59,
-        "scId":28000031
+        "scId":280000031
     },
     {
         "name":"trophy7",
@@ -393,7 +393,7 @@
         "iconExportName":"player_icon_elite_02",
         "sortOrder":14,
         "id":60,
-        "scId":28000032
+        "scId":280000032
     },
     {
         "name":"trophy8",
@@ -405,7 +405,7 @@
         "iconExportName":"player_icon_elite_03",
         "sortOrder":15,
         "id":61,
-        "scId":28000033
+        "scId":280000033
     },
     {
         "name":"hero19",
@@ -417,7 +417,7 @@
         "iconExportName":"player_icon_barrelbot",
         "sortOrder":302,
         "id":62,
-        "scId":28000034
+        "scId":280000034
     },
     {
         "name":"hero20",
@@ -429,7 +429,7 @@
         "iconExportName":"player_icon_penny",
         "sortOrder":303,
         "id":63,
-        "scId":28000035
+        "scId":280000035
     },
     {
         "name":"hero21",
@@ -441,7 +441,7 @@
         "iconExportName":"player_icon_frank",
         "sortOrder":403,
         "id":64,
-        "scId":28000036
+        "scId":280000036
     },
     {
         "name":"hero22",
@@ -453,7 +453,7 @@
         "iconExportName":"player_icon_leon",
         "sortOrder":603,
         "id":65,
-        "scId":28000037
+        "scId":280000037
     },
     {
         "name":"hero23",
@@ -465,7 +465,7 @@
         "iconExportName":"player_icon_gene",
         "sortOrder":503,
         "id":66,
-        "scId":28000038
+        "scId":280000038
     },
     {
         "name":"hero24",
@@ -477,7 +477,7 @@
         "iconExportName":"player_icon_carl",
         "sortOrder":304,
         "id":67,
-        "scId":28000039
+        "scId":280000039
     },
     {
         "name":"hero25",
@@ -489,7 +489,7 @@
         "iconExportName":"player_icon_rosa",
         "sortOrder":204,
         "id":68,
-        "scId":28000040
+        "scId":280000040
     },
     {
         "name":"hero26",
@@ -501,7 +501,7 @@
         "iconExportName":"player_icon_bibi",
         "sortOrder":404,
         "id":69,
-        "scId":28000041
+        "scId":280000041
     },
     {
         "name":"hero27",
@@ -513,7 +513,7 @@
         "iconExportName":"player_icon_tick",
         "sortOrder":109,
         "id":70,
-        "scId":28000042
+        "scId":280000042
     },
     {
         "name":"hero28",
@@ -525,7 +525,7 @@
         "iconExportName":"player_icon_8bit",
         "sortOrder":110,
         "id":71,
-        "scId":28000043
+        "scId":280000043
     },
     {
         "name":"hero29",
@@ -537,7 +537,7 @@
         "iconExportName":"player_icon_sandy",
         "sortOrder":604,
         "id":72,
-        "scId":28000044
+        "scId":280000044
     },
     {
         "name":"hero30",
@@ -549,7 +549,7 @@
         "iconExportName":"player_icon_emz",
         "sortOrder":111,
         "id":73,
-        "scId":28000045
+        "scId":280000045
     },
     {
         "name":"hero31",
@@ -561,7 +561,7 @@
         "iconExportName":"player_icon_bea",
         "sortOrder":405,
         "id":74,
-        "scId":28000046
+        "scId":280000046
     },
     {
         "name":"hero32",
@@ -573,7 +573,7 @@
         "iconExportName":"player_icon_max",
         "sortOrder":504,
         "id":75,
-        "scId":28000047
+        "scId":280000047
     },
     {
         "name":"hero33",
@@ -585,7 +585,7 @@
         "iconExportName":"player_icon_mrp",
         "sortOrder":505,
         "id":76,
-        "scId":28000048
+        "scId":280000048
     },
     {
         "name":"hero34",
@@ -597,7 +597,7 @@
         "iconExportName":"player_icon_jacky",
         "sortOrder":305,
         "id":77,
-        "scId":28000049
+        "scId":280000049
     },
     {
         "name":"hero35",
@@ -609,7 +609,7 @@
         "iconExportName":"player_icon_sprout",
         "sortOrder":506,
         "id":78,
-        "scId":28000050
+        "scId":280000050
     },
     {
         "name":"hero36",
@@ -621,7 +621,7 @@
         "iconExportName":"player_icon_gale",
         "sortOrder":701,
         "id":79,
-        "scId":28000051
+        "scId":280000051
     },
     {
         "name":"hero37",
@@ -633,6 +633,6 @@
         "iconExportName":"player_icon_nani",
         "sortOrder":406,
         "id":80,
-        "scId":28000052
+        "scId":280000052
     }
 ]

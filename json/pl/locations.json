@@ -15,7 +15,7 @@
         "music":"BattleMusic",
         "communityCredit":null,
         "id":15,
-        "scId":1500000,
+        "scId":15000000,
         "rawTID":"WANTED_1"
     },
     {
@@ -37,7 +37,7 @@
         "music":"Brawlcade_Ingame",
         "communityCredit":null,
         "id":16,
-        "scId":1500001,
+        "scId":15000001,
         "rawTID":"WANTED_3"
     },
     {
@@ -56,7 +56,7 @@
         "music":"BattleMusic",
         "communityCredit":null,
         "id":17,
-        "scId":1500002,
+        "scId":15000002,
         "rawTID":"WANTED_4"
     },
     {
@@ -75,7 +75,7 @@
         "music":"BattleMusic",
         "communityCredit":null,
         "id":18,
-        "scId":1500003,
+        "scId":15000003,
         "rawTID":"WANTED_5"
     },
     {
@@ -94,7 +94,7 @@
         "music":"BattleMusic",
         "communityCredit":null,
         "id":19,
-        "scId":1500004,
+        "scId":15000004,
         "rawTID":"WANTED_6"
     },
     {
@@ -113,7 +113,7 @@
         "music":"BattleMusic",
         "communityCredit":null,
         "id":20,
-        "scId":1500005,
+        "scId":15000005,
         "rawTID":"WANTED_7"
     },
     {
@@ -132,7 +132,7 @@
         "music":"BattleMusic",
         "communityCredit":null,
         "id":21,
-        "scId":1500006,
+        "scId":15000006,
         "rawTID":"WANTED_2"
     },
     {
@@ -151,7 +151,7 @@
         "music":"BattleMusic",
         "communityCredit":null,
         "id":22,
-        "scId":1500007,
+        "scId":15000007,
         "rawTID":"GOLDRUSH_1"
     },
     {
@@ -170,7 +170,7 @@
         "music":"Brawlcade_Ingame",
         "communityCredit":null,
         "id":23,
-        "scId":1500008,
+        "scId":15000008,
         "rawTID":"GOLDRUSH_2"
     },
     {
@@ -189,7 +189,7 @@
         "music":"Halloween_ingame",
         "communityCredit":null,
         "id":24,
-        "scId":1500009,
+        "scId":15000009,
         "rawTID":"WANTED_4"
     },
     {
@@ -208,7 +208,7 @@
         "music":"Brawlcade_Ingame",
         "communityCredit":null,
         "id":25,
-        "scId":1500010,
+        "scId":15000010,
         "rawTID":"GOLDRUSH_4"
     },
     {
@@ -227,7 +227,7 @@
         "music":"BattleMusic",
         "communityCredit":null,
         "id":26,
-        "scId":1500011,
+        "scId":15000011,
         "rawTID":"GOLDRUSH_5"
     },
     {
@@ -246,7 +246,7 @@
         "music":"Retropolis_battle",
         "communityCredit":null,
         "id":27,
-        "scId":1500012,
+        "scId":15000012,
         "rawTID":"GOLDRUSH_6"
     },
     {
@@ -265,7 +265,7 @@
         "music":"BattleMusic",
         "communityCredit":null,
         "id":28,
-        "scId":1500013,
+        "scId":15000013,
         "rawTID":"BATTLE_ROYALE_1"
     },
     {
@@ -284,7 +284,7 @@
         "music":"BattleMusic",
         "communityCredit":"OwenReds",
         "id":29,
-        "scId":1500014,
+        "scId":15000014,
         "rawTID":"BATTLE_ROYALE_2"
     },
     {
@@ -303,7 +303,7 @@
         "music":"BattleMusic",
         "communityCredit":null,
         "id":30,
-        "scId":1500015,
+        "scId":15000015,
         "rawTID":"BATTLE_ROYALE_3"
     },
     {
@@ -322,7 +322,7 @@
         "music":"Halloween_ingame",
         "communityCredit":null,
         "id":31,
-        "scId":1500016,
+        "scId":15000016,
         "rawTID":"BATTLE_ROYALE_4"
     },
     {
@@ -341,7 +341,7 @@
         "music":"Halloween_ingame",
         "communityCredit":null,
         "id":32,
-        "scId":1500017,
+        "scId":15000017,
         "rawTID":"BANKHEIST_1"
     },
     {
@@ -360,7 +360,7 @@
         "music":"BattleMusic",
         "communityCredit":null,
         "id":33,
-        "scId":1500018,
+        "scId":15000018,
         "rawTID":"BANKHEIST_2"
     },
     {
@@ -379,7 +379,7 @@
         "music":"BattleMusic",
         "communityCredit":null,
         "id":34,
-        "scId":1500019,
+        "scId":15000019,
         "rawTID":"BANKHEIST_3"
     },
     {
@@ -398,7 +398,7 @@
         "music":"BattleMusic",
         "communityCredit":null,
         "id":35,
-        "scId":1500020
+        "scId":15000020
     },
     {
         "name":"BossFight1",
@@ -416,7 +416,7 @@
         "music":"BattleMusic",
         "communityCredit":null,
         "id":36,
-        "scId":1500021,
+        "scId":15000021,
         "rawTID":"BOSS_4"
     },
     {
@@ -435,7 +435,7 @@
         "music":"BattleMusic",
         "communityCredit":null,
         "id":37,
-        "scId":1500022,
+        "scId":15000022,
         "rawTID":"WANTED_8"
     },
     {
@@ -454,7 +454,7 @@
         "music":"BattleMusic",
         "communityCredit":null,
         "id":38,
-        "scId":1500023,
+        "scId":15000023,
         "rawTID":"BANKHEIST_4"
     },
     {
@@ -473,7 +473,7 @@
         "music":"BattleMusic",
         "communityCredit":null,
         "id":39,
-        "scId":1500024,
+        "scId":15000024,
         "rawTID":"BALL_1"
     },
     {
@@ -492,7 +492,7 @@
         "music":"BattleMusic",
         "communityCredit":null,
         "id":40,
-        "scId":1500025,
+        "scId":15000025,
         "rawTID":"BALL_2"
     },
     {
@@ -511,7 +511,7 @@
         "music":"BattleMusic",
         "communityCredit":null,
         "id":41,
-        "scId":1500026,
+        "scId":15000026,
         "rawTID":"BALL_3"
     },
     {
@@ -530,7 +530,7 @@
         "music":"BattleMusic",
         "communityCredit":null,
         "id":42,
-        "scId":1500027,
+        "scId":15000027,
         "rawTID":"COOP_1"
     },
     {
@@ -549,7 +549,7 @@
         "music":"BattleMusic",
         "communityCredit":null,
         "id":43,
-        "scId":1500028,
+        "scId":15000028,
         "rawTID":"BATTLE_ROYALE_7"
     },
     {
@@ -568,7 +568,7 @@
         "music":"BattleMusic",
         "communityCredit":null,
         "id":44,
-        "scId":1500029,
+        "scId":15000029,
         "rawTID":"COOP_2"
     },
     {
@@ -587,7 +587,7 @@
         "music":"BattleMusic",
         "communityCredit":null,
         "id":45,
-        "scId":1500030,
+        "scId":15000030,
         "rawTID":"BOSS_3"
     },
     {
@@ -606,7 +606,7 @@
         "music":"BattleMusic",
         "communityCredit":null,
         "id":46,
-        "scId":1500031,
+        "scId":15000031,
         "rawTID":"GOLDRUSH_8"
     },
     {
@@ -625,7 +625,7 @@
         "music":"BattleMusic",
         "communityCredit":"Mordeus",
         "id":47,
-        "scId":1500032,
+        "scId":15000032,
         "rawTID":"BATTLE_ROYALE_5"
     },
     {
@@ -644,7 +644,7 @@
         "music":"BattleMusic",
         "communityCredit":null,
         "id":48,
-        "scId":1500033,
+        "scId":15000033,
         "rawTID":"BATTLE_ROYALE_6"
     },
     {
@@ -663,7 +663,7 @@
         "music":"BattleMusic",
         "communityCredit":null,
         "id":49,
-        "scId":1500034,
+        "scId":15000034,
         "rawTID":"BATTLE_ROYALE_1"
     },
     {
@@ -682,7 +682,7 @@
         "music":"BattleMusic",
         "communityCredit":"OwenReds",
         "id":50,
-        "scId":1500035,
+        "scId":15000035,
         "rawTID":"BATTLE_ROYALE_2"
     },
     {
@@ -701,7 +701,7 @@
         "music":"BattleMusic",
         "communityCredit":null,
         "id":51,
-        "scId":1500036,
+        "scId":15000036,
         "rawTID":"BATTLE_ROYALE_3"
     },
     {
@@ -720,7 +720,7 @@
         "music":"Halloween_ingame",
         "communityCredit":null,
         "id":52,
-        "scId":1500037,
+        "scId":15000037,
         "rawTID":"BATTLE_ROYALE_4"
     },
     {
@@ -739,7 +739,7 @@
         "music":"BattleMusic",
         "communityCredit":"Mordeus",
         "id":53,
-        "scId":1500038,
+        "scId":15000038,
         "rawTID":"BATTLE_ROYALE_5"
     },
     {
@@ -758,7 +758,7 @@
         "music":"BattleMusic",
         "communityCredit":null,
         "id":54,
-        "scId":1500039,
+        "scId":15000039,
         "rawTID":"COOP_6"
     },
     {
@@ -777,7 +777,7 @@
         "music":"Brawzaar_ingame_muzak",
         "communityCredit":"DarkKnight",
         "id":55,
-        "scId":1500040,
+        "scId":15000040,
         "rawTID":"GOLDRUSH_7"
     },
     {
@@ -796,7 +796,7 @@
         "music":"BattleMusic",
         "communityCredit":"Lewinham",
         "id":56,
-        "scId":1500041,
+        "scId":15000041,
         "rawTID":"GOLDRUSH_10"
     },
     {
@@ -815,7 +815,7 @@
         "music":"BattleMusic",
         "communityCredit":"Rushalisk",
         "id":57,
-        "scId":1500042,
+        "scId":15000042,
         "rawTID":"BANKHEIST_5"
     },
     {
@@ -834,7 +834,7 @@
         "music":"BattleMusic",
         "communityCredit":null,
         "id":58,
-        "scId":1500043,
+        "scId":15000043,
         "rawTID":"BATTLE_ROYALE_7"
     },
     {
@@ -853,7 +853,7 @@
         "music":"BattleMusic",
         "communityCredit":null,
         "id":59,
-        "scId":1500044,
+        "scId":15000044,
         "rawTID":"BATTLE_ROYALE_6"
     },
     {
@@ -872,7 +872,7 @@
         "music":"BattleMusic",
         "communityCredit":"Rushalisk",
         "id":60,
-        "scId":1500045,
+        "scId":15000045,
         "rawTID":"BATTLE_ROYALE_8"
     },
     {
@@ -891,7 +891,7 @@
         "music":"BattleMusic",
         "communityCredit":"Rushalisk",
         "id":61,
-        "scId":1500046,
+        "scId":15000046,
         "rawTID":"BATTLE_ROYALE_8"
     },
     {
@@ -910,7 +910,7 @@
         "music":"BattleMusic",
         "communityCredit":"Mordeus",
         "id":62,
-        "scId":1500047,
+        "scId":15000047,
         "rawTID":"BANKHEIST_6"
     },
     {
@@ -929,7 +929,7 @@
         "music":"BattleMusic",
         "communityCredit":"FatBubblyDragon",
         "id":63,
-        "scId":1500048,
+        "scId":15000048,
         "rawTID":"GOLDRUSH_11"
     },
     {
@@ -948,7 +948,7 @@
         "music":"BattleMusic",
         "communityCredit":"Schmedricks",
         "id":64,
-        "scId":1500049,
+        "scId":15000049,
         "rawTID":"BANKHEIST_7"
     },
     {
@@ -967,7 +967,7 @@
         "music":"BattleMusic",
         "communityCredit":"Lex",
         "id":65,
-        "scId":1500050,
+        "scId":15000050,
         "rawTID":"BALL_4"
     },
     {
@@ -986,7 +986,7 @@
         "music":"Footbrawl_ingame_muzak",
         "communityCredit":"Mordeus",
         "id":66,
-        "scId":1500051,
+        "scId":15000051,
         "rawTID":"BALL_6"
     },
     {
@@ -1005,7 +1005,7 @@
         "music":"BattleMusic",
         "communityCredit":"Lewinham",
         "id":67,
-        "scId":1500052,
+        "scId":15000052,
         "rawTID":"BALL_7"
     },
     {
@@ -1024,7 +1024,7 @@
         "music":"BattleMusic",
         "communityCredit":"AlexEsteAdevarat",
         "id":68,
-        "scId":1500053,
+        "scId":15000053,
         "rawTID":"BANKHEIST_18"
     },
     {
@@ -1043,7 +1043,7 @@
         "music":"BattleMusic",
         "communityCredit":"thelucas2000",
         "id":69,
-        "scId":1500054,
+        "scId":15000054,
         "rawTID":"WANTED_9"
     },
     {
@@ -1062,7 +1062,7 @@
         "music":"BattleMusic",
         "communityCredit":"Tony_A9",
         "id":70,
-        "scId":1500055,
+        "scId":15000055,
         "rawTID":"BATTLE_ROYALE_12"
     },
     {
@@ -1081,7 +1081,7 @@
         "music":"BattleMusic",
         "communityCredit":"Tony_A9",
         "id":71,
-        "scId":1500056,
+        "scId":15000056,
         "rawTID":"BATTLE_ROYALE_12"
     },
     {
@@ -1100,7 +1100,7 @@
         "music":"BattleMusic",
         "communityCredit":null,
         "id":72,
-        "scId":1500057,
+        "scId":15000057,
         "rawTID":"RAID_2"
     },
     {
@@ -1119,7 +1119,7 @@
         "music":"Snow_brawl",
         "communityCredit":null,
         "id":73,
-        "scId":1500058,
+        "scId":15000058,
         "rawTID":"GOLDRUSH_XMAS_1"
     },
     {
@@ -1138,7 +1138,7 @@
         "music":"Snow_brawl",
         "communityCredit":null,
         "id":74,
-        "scId":1500059,
+        "scId":15000059,
         "rawTID":"GOLDRUSH_XMAS_2"
     },
     {
@@ -1157,7 +1157,7 @@
         "music":"Snow_brawl",
         "communityCredit":null,
         "id":75,
-        "scId":1500060,
+        "scId":15000060,
         "rawTID":"GOLDRUSH_XMAS_3"
     },
     {
@@ -1176,7 +1176,7 @@
         "music":"Snow_brawl",
         "communityCredit":null,
         "id":76,
-        "scId":1500061,
+        "scId":15000061,
         "rawTID":"GOLDRUSH_XMAS_4"
     },
     {
@@ -1195,7 +1195,7 @@
         "music":"Snow_brawl",
         "communityCredit":null,
         "id":77,
-        "scId":1500062,
+        "scId":15000062,
         "rawTID":"GOLDRUSH_XMAS_5"
     },
     {
@@ -1214,7 +1214,7 @@
         "music":"Snow_brawl",
         "communityCredit":null,
         "id":78,
-        "scId":1500063,
+        "scId":15000063,
         "rawTID":"GOLDRUSH_XMAS_6"
     },
     {
@@ -1233,7 +1233,7 @@
         "music":"Snow_brawl",
         "communityCredit":null,
         "id":79,
-        "scId":1500064,
+        "scId":15000064,
         "rawTID":"GOLDRUSH_XMAS_7"
     },
     {
@@ -1252,7 +1252,7 @@
         "music":"BattleMusic",
         "communityCredit":null,
         "id":80,
-        "scId":1500065,
+        "scId":15000065,
         "rawTID":"BOSS_6"
     },
     {
@@ -1271,7 +1271,7 @@
         "music":"BattleMusic",
         "communityCredit":null,
         "id":81,
-        "scId":1500066,
+        "scId":15000066,
         "rawTID":"BOSS_5"
     },
     {
@@ -1290,7 +1290,7 @@
         "music":"BattleMusic",
         "communityCredit":null,
         "id":82,
-        "scId":1500067,
+        "scId":15000067,
         "rawTID":"RAID_3"
     },
     {
@@ -1309,7 +1309,7 @@
         "music":"BattleMusic",
         "communityCredit":null,
         "id":83,
-        "scId":1500068,
+        "scId":15000068,
         "rawTID":"COOP_3"
     },
     {
@@ -1328,7 +1328,7 @@
         "music":"BattleMusic",
         "communityCredit":null,
         "id":84,
-        "scId":1500069,
+        "scId":15000069,
         "rawTID":"BANKHEIST_9"
     },
     {
@@ -1347,7 +1347,7 @@
         "music":"Retropolis_battle",
         "communityCredit":null,
         "id":85,
-        "scId":1500070,
+        "scId":15000070,
         "rawTID":"BANKHEIST_10"
     },
     {
@@ -1366,7 +1366,7 @@
         "music":"BattleMusic",
         "communityCredit":"AeroNautikks",
         "id":86,
-        "scId":1500071,
+        "scId":15000071,
         "rawTID":"BANKHEIST_11"
     },
     {
@@ -1385,7 +1385,7 @@
         "music":"Retropolis_battle",
         "communityCredit":"Zagibulenka",
         "id":87,
-        "scId":1500072,
+        "scId":15000072,
         "rawTID":"BANKHEIST_12"
     },
     {
@@ -1404,7 +1404,7 @@
         "music":"BattleMusic",
         "communityCredit":null,
         "id":88,
-        "scId":1500073,
+        "scId":15000073,
         "rawTID":"BANKHEIST_13"
     },
     {
@@ -1426,7 +1426,7 @@
         "music":"Cny_levels",
         "communityCredit":null,
         "id":89,
-        "scId":1500074,
+        "scId":15000074,
         "rawTID":"BANKHEIST_9"
     },
     {
@@ -1464,7 +1464,7 @@
         "music":"Cny_levels",
         "communityCredit":null,
         "id":91,
-        "scId":1500075,
+        "scId":15000075,
         "rawTID":"BANKHEIST_10"
     },
     {
@@ -1502,7 +1502,7 @@
         "music":"Cny_levels",
         "communityCredit":"AeroNautikks",
         "id":93,
-        "scId":1500076,
+        "scId":15000076,
         "rawTID":"BANKHEIST_11"
     },
     {
@@ -1540,7 +1540,7 @@
         "music":"Cny_levels",
         "communityCredit":"Zagibulenka",
         "id":95,
-        "scId":1500077,
+        "scId":15000077,
         "rawTID":"BANKHEIST_12"
     },
     {
@@ -1578,7 +1578,7 @@
         "music":"Cny_levels",
         "communityCredit":null,
         "id":97,
-        "scId":1500078,
+        "scId":15000078,
         "rawTID":"BANKHEIST_13"
     },
     {
@@ -1613,7 +1613,7 @@
         "music":"BattleMusic",
         "communityCredit":null,
         "id":99,
-        "scId":1500079,
+        "scId":15000079,
         "rawTID":"WANTED_9"
     },
     {
@@ -1632,7 +1632,7 @@
         "music":"BattleMusic",
         "communityCredit":null,
         "id":100,
-        "scId":1500080,
+        "scId":15000080,
         "rawTID":"WANTED_11"
     },
     {
@@ -1651,7 +1651,7 @@
         "music":"BattleMusic",
         "communityCredit":null,
         "id":101,
-        "scId":1500081,
+        "scId":15000081,
         "rawTID":"WANTED_12"
     },
     {
@@ -1670,7 +1670,7 @@
         "music":"Retropolis_battle",
         "communityCredit":"OwenReds",
         "id":102,
-        "scId":1500082,
+        "scId":15000082,
         "rawTID":"WANTED_13"
     },
     {
@@ -1689,7 +1689,7 @@
         "music":"Retropolis_battle",
         "communityCredit":null,
         "id":103,
-        "scId":1500083,
+        "scId":15000083,
         "rawTID":"WANTED_14"
     },
     {
@@ -1711,7 +1711,7 @@
         "music":"Cny_levels",
         "communityCredit":null,
         "id":104,
-        "scId":1500084,
+        "scId":15000084,
         "rawTID":"WANTED_9"
     },
     {
@@ -1749,7 +1749,7 @@
         "music":"Cny_levels",
         "communityCredit":null,
         "id":106,
-        "scId":1500085,
+        "scId":15000085,
         "rawTID":"WANTED_11"
     },
     {
@@ -1787,7 +1787,7 @@
         "music":"Cny_levels",
         "communityCredit":null,
         "id":108,
-        "scId":1500086,
+        "scId":15000086,
         "rawTID":"WANTED_12"
     },
     {
@@ -1825,7 +1825,7 @@
         "music":"Cny_levels",
         "communityCredit":"OwenReds",
         "id":110,
-        "scId":1500087,
+        "scId":15000087,
         "rawTID":"WANTED_13"
     },
     {
@@ -1863,7 +1863,7 @@
         "music":"Cny_levels",
         "communityCredit":null,
         "id":112,
-        "scId":1500088,
+        "scId":15000088,
         "rawTID":"WANTED_14"
     },
     {
@@ -1901,7 +1901,7 @@
         "music":"Cny_levels",
         "communityCredit":null,
         "id":114,
-        "scId":1500089,
+        "scId":15000089,
         "rawTID":"GOLDRUSH_4"
     },
     {
@@ -1939,7 +1939,7 @@
         "music":"Cny_levels",
         "communityCredit":null,
         "id":116,
-        "scId":1500090,
+        "scId":15000090,
         "rawTID":"GOLDRUSH_5"
     },
     {
@@ -1977,7 +1977,7 @@
         "music":"Cny_levels",
         "communityCredit":null,
         "id":118,
-        "scId":1500091,
+        "scId":15000091,
         "rawTID":"GOLDRUSH_6"
     },
     {
@@ -2012,7 +2012,7 @@
         "music":"BattleMusic",
         "communityCredit":null,
         "id":120,
-        "scId":1500092,
+        "scId":15000092,
         "rawTID":"WANTED_10"
     },
     {
@@ -2031,7 +2031,7 @@
         "music":"BattleMusic",
         "communityCredit":"Binnyboy",
         "id":121,
-        "scId":1500093,
+        "scId":15000093,
         "rawTID":"BATTLE_ROYALE_10"
     },
     {
@@ -2050,7 +2050,7 @@
         "music":"BattleMusic",
         "communityCredit":"Binnyboy",
         "id":122,
-        "scId":1500094,
+        "scId":15000094,
         "rawTID":"BATTLE_ROYALE_10"
     },
     {
@@ -2069,7 +2069,7 @@
         "music":"BattleMusic",
         "communityCredit":null,
         "id":123,
-        "scId":1500095,
+        "scId":15000095,
         "rawTID":"BATTLE_ROYALE_D2"
     },
     {
@@ -2088,7 +2088,7 @@
         "music":"BattleMusic",
         "communityCredit":null,
         "id":124,
-        "scId":1500096,
+        "scId":15000096,
         "rawTID":"BATTLE_ROYALE_D2"
     },
     {
@@ -2107,7 +2107,7 @@
         "music":"BattleMusic",
         "communityCredit":null,
         "id":125,
-        "scId":1500097,
+        "scId":15000097,
         "rawTID":"ROBO_WARS_6"
     },
     {
@@ -2126,7 +2126,7 @@
         "music":"BattleMusic",
         "communityCredit":null,
         "id":126,
-        "scId":1500098,
+        "scId":15000098,
         "rawTID":"ROBO_WARS_8"
     },
     {
@@ -2145,7 +2145,7 @@
         "music":"BattleMusic",
         "communityCredit":null,
         "id":127,
-        "scId":1500099,
+        "scId":15000099,
         "rawTID":"ROBO_WARS_7"
     },
     {
@@ -2164,7 +2164,7 @@
         "music":"BattleMusic",
         "communityCredit":"DuccioCh",
         "id":128,
-        "scId":1500100,
+        "scId":15000100,
         "rawTID":"BANKHEIST_14"
     },
     {
@@ -2183,7 +2183,7 @@
         "music":"BattleMusic",
         "communityCredit":"Maxymus",
         "id":129,
-        "scId":1500101,
+        "scId":15000101,
         "rawTID":"BATTLE_ROYALE_17"
     },
     {
@@ -2202,7 +2202,7 @@
         "music":"BattleMusic",
         "communityCredit":"Maxymus",
         "id":130,
-        "scId":1500102,
+        "scId":15000102,
         "rawTID":"BATTLE_ROYALE_17"
     },
     {
@@ -2221,7 +2221,7 @@
         "music":"BattleMusic",
         "communityCredit":"Mordeus",
         "id":131,
-        "scId":1500103,
+        "scId":15000103,
         "rawTID":"BATTLE_ROYALE_13"
     },
     {
@@ -2240,7 +2240,7 @@
         "music":"BattleMusic",
         "communityCredit":"Mordeus",
         "id":132,
-        "scId":1500104,
+        "scId":15000104,
         "rawTID":"BATTLE_ROYALE_13"
     },
     {
@@ -2259,7 +2259,7 @@
         "music":"BattleMusic",
         "communityCredit":"Meme-grabbee",
         "id":133,
-        "scId":1500105,
+        "scId":15000105,
         "rawTID":"BATTLE_ROYALE_19"
     },
     {
@@ -2278,7 +2278,7 @@
         "music":"BattleMusic",
         "communityCredit":"Meme-grabbee",
         "id":134,
-        "scId":1500106,
+        "scId":15000106,
         "rawTID":"BATTLE_ROYALE_19"
     },
     {
@@ -2297,7 +2297,7 @@
         "music":"BattleMusic",
         "communityCredit":"OwenReds",
         "id":135,
-        "scId":1500107,
+        "scId":15000107,
         "rawTID":"BATTLE_ROYALE_23"
     },
     {
@@ -2316,7 +2316,7 @@
         "music":"BattleMusic",
         "communityCredit":"OwenReds",
         "id":136,
-        "scId":1500108,
+        "scId":15000108,
         "rawTID":"BATTLE_ROYALE_23"
     },
     {
@@ -2335,7 +2335,7 @@
         "music":"BattleMusic",
         "communityCredit":"Pentagonal Cubes",
         "id":137,
-        "scId":1500109,
+        "scId":15000109,
         "rawTID":"BATTLE_ROYALE_21"
     },
     {
@@ -2354,7 +2354,7 @@
         "music":"BattleMusic",
         "communityCredit":"Pentagonal Cubes",
         "id":138,
-        "scId":1500110,
+        "scId":15000110,
         "rawTID":"BATTLE_ROYALE_21"
     },
     {
@@ -2373,7 +2373,7 @@
         "music":"BattleMusic",
         "communityCredit":"ash",
         "id":139,
-        "scId":1500111,
+        "scId":15000111,
         "rawTID":"GOLDRUSH_12"
     },
     {
@@ -2392,7 +2392,7 @@
         "music":"Retropolis_battle",
         "communityCredit":"Electra Drake",
         "id":140,
-        "scId":1500112,
+        "scId":15000112,
         "rawTID":"GOLDRUSH_13"
     },
     {
@@ -2411,7 +2411,7 @@
         "music":"Retropolis_battle",
         "communityCredit":"Lewinham",
         "id":141,
-        "scId":1500113,
+        "scId":15000113,
         "rawTID":"GOLDRUSH_23"
     },
     {
@@ -2430,7 +2430,7 @@
         "music":"Retropolis_battle",
         "communityCredit":"Mordeus",
         "id":142,
-        "scId":1500114,
+        "scId":15000114,
         "rawTID":"GOLDRUSH_17"
     },
     {
@@ -2449,7 +2449,7 @@
         "music":"Halloween_ingame",
         "communityCredit":"benci",
         "id":143,
-        "scId":1500115,
+        "scId":15000115,
         "rawTID":"GOLDRUSH_25"
     },
     {
@@ -2468,7 +2468,7 @@
         "music":"Halloween_ingame",
         "communityCredit":"Lab2point0",
         "id":144,
-        "scId":1500116,
+        "scId":15000116,
         "rawTID":"GOLDRUSH_24"
     },
     {
@@ -2487,7 +2487,7 @@
         "music":"Pirate_Brawl_Ingame",
         "communityCredit":"freezeemilk",
         "id":145,
-        "scId":1500117,
+        "scId":15000117,
         "rawTID":"GOLDRUSH_19"
     },
     {
@@ -2506,7 +2506,7 @@
         "music":"BattleMusic",
         "communityCredit":"Mordeus",
         "id":146,
-        "scId":1500118,
+        "scId":15000118,
         "rawTID":"BALL_15"
     },
     {
@@ -2525,7 +2525,7 @@
         "music":"BattleMusic",
         "communityCredit":"OwenReds",
         "id":147,
-        "scId":1500119,
+        "scId":15000119,
         "rawTID":"BOSS_4"
     },
     {
@@ -2544,7 +2544,7 @@
         "music":"BattleMusic",
         "communityCredit":"OwenReds",
         "id":148,
-        "scId":1500120,
+        "scId":15000120,
         "rawTID":"BOSS_3"
     },
     {
@@ -2563,7 +2563,7 @@
         "music":"BattleMusic",
         "communityCredit":null,
         "id":149,
-        "scId":1500121
+        "scId":15000121
     },
     {
         "name":"Gemgrab19",
@@ -2588,7 +2588,7 @@
         "music":"BattleMusic",
         "communityCredit":null,
         "id":150,
-        "scId":1500122,
+        "scId":15000122,
         "rawTID":"GOLDRUSH_31"
     },
     {
@@ -2687,7 +2687,7 @@
         "music":"BattleMusic",
         "communityCredit":"Mordeus",
         "id":156,
-        "scId":1500123,
+        "scId":15000123,
         "rawTID":"BATTLE_ROYALE_28"
     },
     {
@@ -2706,7 +2706,7 @@
         "music":"BattleMusic",
         "communityCredit":"Mordeus",
         "id":157,
-        "scId":1500124,
+        "scId":15000124,
         "rawTID":"BATTLE_ROYALE_28"
     },
     {
@@ -2725,7 +2725,7 @@
         "music":"BattleMusic",
         "communityCredit":"OwenReds",
         "id":158,
-        "scId":1500125,
+        "scId":15000125,
         "rawTID":"BATTLE_ROYALE_31"
     },
     {
@@ -2744,7 +2744,7 @@
         "music":"BattleMusic",
         "communityCredit":"OwenReds",
         "id":159,
-        "scId":1500126,
+        "scId":15000126,
         "rawTID":"BATTLE_ROYALE_31"
     },
     {
@@ -2763,7 +2763,7 @@
         "music":"BattleMusic",
         "communityCredit":"OwenReds",
         "id":160,
-        "scId":1500127,
+        "scId":15000127,
         "rawTID":"ROBO_WARS_13"
     },
     {
@@ -2782,7 +2782,7 @@
         "music":"BattleMusic",
         "communityCredit":"Binnyboy",
         "id":161,
-        "scId":1500128,
+        "scId":15000128,
         "rawTID":"ROBO_WARS_11"
     },
     {
@@ -2801,7 +2801,7 @@
         "music":"BattleMusic",
         "communityCredit":"Binnyboy",
         "id":162,
-        "scId":1500129,
+        "scId":15000129,
         "rawTID":"ROBO_WARS_10"
     },
     {
@@ -2820,7 +2820,7 @@
         "music":"BattleMusic",
         "communityCredit":"OwenReds",
         "id":163,
-        "scId":1500130,
+        "scId":15000130,
         "rawTID":"ROBO_WARS_4"
     },
     {
@@ -2839,7 +2839,7 @@
         "music":"BattleMusic",
         "communityCredit":"Mordeus",
         "id":164,
-        "scId":1500131,
+        "scId":15000131,
         "rawTID":"ROBO_WARS_12"
     },
     {
@@ -2858,7 +2858,7 @@
         "music":"BattleMusic",
         "communityCredit":"Mordeus",
         "id":165,
-        "scId":1500132,
+        "scId":15000132,
         "rawTID":"BALL_17"
     },
     {
@@ -2877,7 +2877,7 @@
         "music":"BattleMusic",
         "communityCredit":null,
         "id":166,
-        "scId":1500133,
+        "scId":15000133,
         "rawTID":"ROBO_WARS_14"
     },
     {
@@ -2896,7 +2896,7 @@
         "music":"BattleMusic",
         "communityCredit":"ash",
         "id":167,
-        "scId":1500134,
+        "scId":15000134,
         "rawTID":"BALL_21"
     },
     {
@@ -2915,7 +2915,7 @@
         "music":"BattleMusic",
         "communityCredit":"Mordeus",
         "id":168,
-        "scId":1500135,
+        "scId":15000135,
         "rawTID":"BATTLE_ROYALE_16"
     },
     {
@@ -2934,7 +2934,7 @@
         "music":"BattleMusic",
         "communityCredit":"Mordeus",
         "id":169,
-        "scId":1500136,
+        "scId":15000136,
         "rawTID":"BATTLE_ROYALE_16"
     },
     {
@@ -2953,7 +2953,7 @@
         "music":"Retropolis_battle",
         "communityCredit":"Lex",
         "id":170,
-        "scId":1500137,
+        "scId":15000137,
         "rawTID":"BANKHEIST_14B"
     },
     {
@@ -2972,7 +2972,7 @@
         "music":"Retropolis_battle",
         "communityCredit":"OwenReds",
         "id":171,
-        "scId":1500138,
+        "scId":15000138,
         "rawTID":"BANKHEIST_15"
     },
     {
@@ -2991,7 +2991,7 @@
         "music":"Retropolis_battle",
         "communityCredit":null,
         "id":172,
-        "scId":1500139,
+        "scId":15000139,
         "rawTID":"GOLDRUSH_21"
     },
     {
@@ -3010,7 +3010,7 @@
         "music":"Retropolis_battle",
         "communityCredit":"Frep",
         "id":173,
-        "scId":1500140,
+        "scId":15000140,
         "rawTID":"GOLDRUSH_21C"
     },
     {
@@ -3029,7 +3029,7 @@
         "music":"BattleMusic",
         "communityCredit":"Mr. Lee",
         "id":174,
-        "scId":1500141,
+        "scId":15000141,
         "rawTID":"ROBO_WARS_2"
     },
     {
@@ -3048,7 +3048,7 @@
         "music":"BattleMusic",
         "communityCredit":"G.W.B.S.",
         "id":175,
-        "scId":1500142,
+        "scId":15000142,
         "rawTID":"ROBO_WARS_3"
     },
     {
@@ -3067,7 +3067,7 @@
         "music":"BattleMusic",
         "communityCredit":"FeFaLah",
         "id":176,
-        "scId":1500143,
+        "scId":15000143,
         "rawTID":"BALL_22"
     },
     {
@@ -3086,7 +3086,7 @@
         "music":"BattleMusic",
         "communityCredit":"Chief Pekka",
         "id":177,
-        "scId":1500144,
+        "scId":15000144,
         "rawTID":"BALL_23"
     },
     {
@@ -3105,7 +3105,7 @@
         "music":"Retropolis_battle",
         "communityCredit":"Thomas P.",
         "id":178,
-        "scId":1500145,
+        "scId":15000145,
         "rawTID":"BANKHEIST_16"
     },
     {
@@ -3124,7 +3124,7 @@
         "music":"Retropolis_battle",
         "communityCredit":"GO away",
         "id":179,
-        "scId":1500146,
+        "scId":15000146,
         "rawTID":"BANKHEIST_17"
     },
     {
@@ -3143,7 +3143,7 @@
         "music":"Retropolis_battle",
         "communityCredit":"Milan R.",
         "id":180,
-        "scId":1500147,
+        "scId":15000147,
         "rawTID":"GOLDRUSH_22"
     },
     {
@@ -3162,7 +3162,7 @@
         "music":"Retropolis_battle",
         "communityCredit":"OwenReds",
         "id":181,
-        "scId":1500148,
+        "scId":15000148,
         "rawTID":"GOLDRUSH_33"
     },
     {
@@ -3181,7 +3181,7 @@
         "music":"Retropolis_battle",
         "communityCredit":"Justin W.",
         "id":182,
-        "scId":1500149,
+        "scId":15000149,
         "rawTID":"WANTED_16"
     },
     {
@@ -3200,7 +3200,7 @@
         "music":"Retropolis_battle",
         "communityCredit":"Ossama H.",
         "id":183,
-        "scId":1500150,
+        "scId":15000150,
         "rawTID":"WANTED_17"
     },
     {
@@ -3219,7 +3219,7 @@
         "music":"Retropolis_battle",
         "communityCredit":"Mordeus",
         "id":184,
-        "scId":1500151,
+        "scId":15000151,
         "rawTID":"BANKHEIST_18B"
     },
     {
@@ -3238,7 +3238,7 @@
         "music":"BattleMusic",
         "communityCredit":"feimao",
         "id":185,
-        "scId":1500152,
+        "scId":15000152,
         "rawTID":"BATTLE_ROYALE_22A"
     },
     {
@@ -3257,7 +3257,7 @@
         "music":"BattleMusic",
         "communityCredit":"feimao",
         "id":186,
-        "scId":1500153,
+        "scId":15000153,
         "rawTID":"BATTLE_ROYALE_22A"
     },
     {
@@ -3276,7 +3276,7 @@
         "music":"BattleMusic",
         "communityCredit":"Cloudy",
         "id":187,
-        "scId":1500154,
+        "scId":15000154,
         "rawTID":"BATTLE_ROYALE_23A"
     },
     {
@@ -3295,7 +3295,7 @@
         "music":"BattleMusic",
         "communityCredit":"Cloudy",
         "id":188,
-        "scId":1500155,
+        "scId":15000155,
         "rawTID":"BATTLE_ROYALE_23A"
     },
     {
@@ -3314,7 +3314,7 @@
         "music":"BattleMusic",
         "communityCredit":"OwenReds",
         "id":189,
-        "scId":1500156,
+        "scId":15000156,
         "rawTID":"BATTLE_ROYALE_24A"
     },
     {
@@ -3333,7 +3333,7 @@
         "music":"BattleMusic",
         "communityCredit":"OwenReds",
         "id":190,
-        "scId":1500157,
+        "scId":15000157,
         "rawTID":"BATTLE_ROYALE_24A"
     },
     {
@@ -3352,7 +3352,7 @@
         "music":"Retropolis_battle",
         "communityCredit":"Milan Ryba",
         "id":191,
-        "scId":1500158,
+        "scId":15000158,
         "rawTID":"GOLDRUSH_24A"
     },
     {
@@ -3371,7 +3371,7 @@
         "music":"Retropolis_battle",
         "communityCredit":"ToxinLab",
         "id":192,
-        "scId":1500159,
+        "scId":15000159,
         "rawTID":"WANTED_17A"
     },
     {
@@ -3390,7 +3390,7 @@
         "music":"BattleMusic",
         "communityCredit":"OwenReds",
         "id":193,
-        "scId":1500160,
+        "scId":15000160,
         "rawTID":"BALL_14A"
     },
     {
@@ -3409,7 +3409,7 @@
         "music":"BattleMusic",
         "communityCredit":"Silver Beast",
         "id":194,
-        "scId":1500161,
+        "scId":15000161,
         "rawTID":"BALL_15A"
     },
     {
@@ -3428,7 +3428,7 @@
         "music":"BattleMusic",
         "communityCredit":"Binnyboy",
         "id":195,
-        "scId":1500162,
+        "scId":15000162,
         "rawTID":"BALL_16A"
     },
     {
@@ -3447,7 +3447,7 @@
         "music":"BattleMusic",
         "communityCredit":"Ellisimo",
         "id":196,
-        "scId":1500163,
+        "scId":15000163,
         "rawTID":"BALL_17A"
     },
     {
@@ -3466,7 +3466,7 @@
         "music":"BattleMusic",
         "communityCredit":"Frep",
         "id":197,
-        "scId":1500164,
+        "scId":15000164,
         "rawTID":"BALL_18A"
     },
     {
@@ -3485,7 +3485,7 @@
         "music":"BattleMusic",
         "communityCredit":"Mordeus",
         "id":198,
-        "scId":1500165,
+        "scId":15000165,
         "rawTID":"BATTLE_ROYALE_30A"
     },
     {
@@ -3504,7 +3504,7 @@
         "music":"BattleMusic",
         "communityCredit":"Mordeus",
         "id":199,
-        "scId":1500166,
+        "scId":15000166,
         "rawTID":"BATTLE_ROYALE_30A"
     },
     {
@@ -3523,7 +3523,7 @@
         "music":"BattleMusic",
         "communityCredit":null,
         "id":200,
-        "scId":1500167,
+        "scId":15000167,
         "rawTID":"BOSS_RACE_1"
     },
     {
@@ -3542,7 +3542,7 @@
         "music":"BattleMusic",
         "communityCredit":"Mordeus",
         "id":201,
-        "scId":1500168,
+        "scId":15000168,
         "rawTID":"BOSS_RACE_2"
     },
     {
@@ -3561,7 +3561,7 @@
         "music":"BattleMusic",
         "communityCredit":null,
         "id":202,
-        "scId":1500169,
+        "scId":15000169,
         "rawTID":"BOSS_RACE_3"
     },
     {
@@ -3580,7 +3580,7 @@
         "music":"BattleMusic",
         "communityCredit":null,
         "id":203,
-        "scId":1500170,
+        "scId":15000170,
         "rawTID":"BOSS_RACE_4"
     },
     {
@@ -3599,7 +3599,7 @@
         "music":"BattleMusic",
         "communityCredit":null,
         "id":204,
-        "scId":1500171,
+        "scId":15000171,
         "rawTID":"BOSS_RACE_5"
     },
     {
@@ -3618,7 +3618,7 @@
         "music":"BattleMusic",
         "communityCredit":null,
         "id":205,
-        "scId":1500172,
+        "scId":15000172,
         "rawTID":"BOSS_RACE_6"
     },
     {
@@ -3637,7 +3637,7 @@
         "music":"BattleMusic",
         "communityCredit":null,
         "id":206,
-        "scId":1500173,
+        "scId":15000173,
         "rawTID":"BOSS_RACE_7"
     },
     {
@@ -3656,7 +3656,7 @@
         "music":"BattleMusic",
         "communityCredit":"_Shqdowz_",
         "id":207,
-        "scId":1500174,
+        "scId":15000174,
         "rawTID":"LONESTAR_02"
     },
     {
@@ -3675,7 +3675,7 @@
         "music":"BattleMusic",
         "communityCredit":"Cindy",
         "id":208,
-        "scId":1500175,
+        "scId":15000175,
         "rawTID":"LONESTAR_03"
     },
     {
@@ -3694,7 +3694,7 @@
         "music":"BattleMusic",
         "communityCredit":"iEnjoy",
         "id":209,
-        "scId":1500176,
+        "scId":15000176,
         "rawTID":"LONESTAR_04"
     },
     {
@@ -3713,7 +3713,7 @@
         "music":"BattleMusic",
         "communityCredit":"DustyBud",
         "id":210,
-        "scId":1500177,
+        "scId":15000177,
         "rawTID":"LONESTAR_05"
     },
     {
@@ -3732,7 +3732,7 @@
         "music":"BattleMusic",
         "communityCredit":"Frep",
         "id":211,
-        "scId":1500178,
+        "scId":15000178,
         "rawTID":"LONESTAR_06"
     },
     {
@@ -3751,7 +3751,7 @@
         "music":"BattleMusic",
         "communityCredit":"ToxinLab",
         "id":212,
-        "scId":1500179,
+        "scId":15000179,
         "rawTID":"LONESTAR_07"
     },
     {
@@ -3770,7 +3770,7 @@
         "music":"BattleMusic",
         "communityCredit":"OwenReds",
         "id":213,
-        "scId":1500180,
+        "scId":15000180,
         "rawTID":"LONESTAR_08"
     },
     {
@@ -3792,7 +3792,7 @@
         "music":"Halloween_ingame",
         "communityCredit":"-iLast",
         "id":214,
-        "scId":1500181,
+        "scId":15000181,
         "rawTID":"BOSS_RACE_8"
     },
     {
@@ -3830,7 +3830,7 @@
         "music":"Halloween_ingame",
         "communityCredit":"Binnyboy",
         "id":216,
-        "scId":1500182,
+        "scId":15000182,
         "rawTID":"BOSS_RACE_9"
     },
     {
@@ -3868,7 +3868,7 @@
         "music":"Halloween_ingame",
         "communityCredit":"OwenReds",
         "id":218,
-        "scId":1500183,
+        "scId":15000183,
         "rawTID":"BOSS_RACE_10"
     },
     {
@@ -3906,7 +3906,7 @@
         "music":"Halloween_ingame",
         "communityCredit":"Mordeus",
         "id":220,
-        "scId":1500184,
+        "scId":15000184,
         "rawTID":"BOSS_RACE_11"
     },
     {
@@ -3944,7 +3944,7 @@
         "music":"Halloween_ingame",
         "communityCredit":"Chief Pekka",
         "id":222,
-        "scId":1500185,
+        "scId":15000185,
         "rawTID":"BATTLE_ROYALE_18"
     },
     {
@@ -3982,7 +3982,7 @@
         "music":"Halloween_ingame",
         "communityCredit":"_Shqdowz_",
         "id":224,
-        "scId":1500186,
+        "scId":15000186,
         "rawTID":"BOSS_RACE_13"
     },
     {
@@ -4020,7 +4020,7 @@
         "music":"Halloween_ingame",
         "communityCredit":"Cloudy",
         "id":226,
-        "scId":1500187,
+        "scId":15000187,
         "rawTID":"BOSS_RACE_14"
     },
     {
@@ -4055,7 +4055,7 @@
         "music":"Halloween_ingame",
         "communityCredit":null,
         "id":228,
-        "scId":1500188,
+        "scId":15000188,
         "rawTID":"BATTLE_ROYALE_1"
     },
     {
@@ -4074,7 +4074,7 @@
         "music":"Halloween_ingame",
         "communityCredit":null,
         "id":229,
-        "scId":1500189,
+        "scId":15000189,
         "rawTID":"BATTLE_ROYALE_1"
     },
     {
@@ -4093,7 +4093,7 @@
         "music":"Halloween_ingame",
         "communityCredit":"Tony_A9",
         "id":230,
-        "scId":1500190,
+        "scId":15000190,
         "rawTID":"BATTLE_ROYALE_12"
     },
     {
@@ -4112,7 +4112,7 @@
         "music":"Halloween_ingame",
         "communityCredit":"Tony_A9",
         "id":231,
-        "scId":1500191,
+        "scId":15000191,
         "rawTID":"BATTLE_ROYALE_12"
     },
     {
@@ -4131,7 +4131,7 @@
         "music":"Halloween_ingame",
         "communityCredit":"Mordeus",
         "id":232,
-        "scId":1500192,
+        "scId":15000192,
         "rawTID":"BATTLE_ROYALE_5"
     },
     {
@@ -4150,7 +4150,7 @@
         "music":"Halloween_ingame",
         "communityCredit":"Mordeus",
         "id":233,
-        "scId":1500193,
+        "scId":15000193,
         "rawTID":"BATTLE_ROYALE_5"
     },
     {
@@ -4169,7 +4169,7 @@
         "music":"Halloween_ingame",
         "communityCredit":"Mordeus",
         "id":234,
-        "scId":1500194,
+        "scId":15000194,
         "rawTID":"BATTLE_ROYALE_13"
     },
     {
@@ -4188,7 +4188,7 @@
         "music":"Halloween_ingame",
         "communityCredit":"Mordeus",
         "id":235,
-        "scId":1500195,
+        "scId":15000195,
         "rawTID":"BATTLE_ROYALE_13"
     },
     {
@@ -4207,7 +4207,7 @@
         "music":"Halloween_ingame",
         "communityCredit":"ash",
         "id":236,
-        "scId":1500196,
+        "scId":15000196,
         "rawTID":"LONESTAR_01"
     },
     {
@@ -4226,7 +4226,7 @@
         "music":"Halloween_ingame",
         "communityCredit":"ash",
         "id":237,
-        "scId":1500197,
+        "scId":15000197,
         "rawTID":"LONESTAR_01"
     },
     {
@@ -4245,7 +4245,7 @@
         "music":"Halloween_ingame",
         "communityCredit":"Maxymus",
         "id":238,
-        "scId":1500198,
+        "scId":15000198,
         "rawTID":"BATTLE_ROYALE_17"
     },
     {
@@ -4264,7 +4264,7 @@
         "music":"Halloween_ingame",
         "communityCredit":"Maxymus",
         "id":239,
-        "scId":1500199,
+        "scId":15000199,
         "rawTID":"BATTLE_ROYALE_17"
     },
     {
@@ -4283,7 +4283,7 @@
         "music":"Halloween_ingame",
         "communityCredit":"Pentagonal Cubes",
         "id":240,
-        "scId":1500200,
+        "scId":15000200,
         "rawTID":"BATTLE_ROYALE_21"
     },
     {
@@ -4302,7 +4302,7 @@
         "music":"Halloween_ingame",
         "communityCredit":"Pentagonal Cubes",
         "id":241,
-        "scId":1500201,
+        "scId":15000201,
         "rawTID":"BATTLE_ROYALE_21"
     },
     {
@@ -4324,7 +4324,7 @@
         "music":"Pirate_Brawl_Ingame",
         "communityCredit":null,
         "id":242,
-        "scId":1500202,
+        "scId":15000202,
         "rawTID":"CTF_2"
     },
     {
@@ -4362,7 +4362,7 @@
         "music":"Pirate_Brawl_Ingame",
         "communityCredit":"Binnyboy",
         "id":244,
-        "scId":1500203,
+        "scId":15000203,
         "rawTID":"CTF_3"
     },
     {
@@ -4400,7 +4400,7 @@
         "music":"Pirate_Brawl_Ingame",
         "communityCredit":"Binnyboy",
         "id":246,
-        "scId":1500204,
+        "scId":15000204,
         "rawTID":"CTF_4"
     },
     {
@@ -4438,7 +4438,7 @@
         "music":"Pirate_Brawl_Ingame",
         "communityCredit":"OwenReds",
         "id":248,
-        "scId":1500205,
+        "scId":15000205,
         "rawTID":"CTF_5"
     },
     {
@@ -4476,7 +4476,7 @@
         "music":"Pirate_Brawl_Ingame",
         "communityCredit":"ToxinLab",
         "id":250,
-        "scId":1500206,
+        "scId":15000206,
         "rawTID":"CTF_6"
     },
     {
@@ -4514,7 +4514,7 @@
         "music":"Pirate_Brawl_Ingame",
         "communityCredit":"DustyBud",
         "id":252,
-        "scId":1500207,
+        "scId":15000207,
         "rawTID":"CTF_7"
     },
     {
@@ -4552,7 +4552,7 @@
         "music":"Pirate_Brawl_Ingame",
         "communityCredit":"Cloudy",
         "id":254,
-        "scId":1500208,
+        "scId":15000208,
         "rawTID":"CTF_8"
     },
     {
@@ -4587,7 +4587,7 @@
         "music":"Pirate_Brawl_Ingame",
         "communityCredit":"Cloudy",
         "id":256,
-        "scId":1500209,
+        "scId":15000209,
         "rawTID":"GOLDRUSH_35"
     },
     {
@@ -4606,7 +4606,7 @@
         "music":"Pirate_Brawl_Ingame",
         "communityCredit":"Cindy",
         "id":257,
-        "scId":1500210,
+        "scId":15000210,
         "rawTID":"GOLDRUSH_37"
     },
     {
@@ -4625,7 +4625,7 @@
         "music":"Pirate_Brawl_Ingame",
         "communityCredit":"ToxinLab",
         "id":258,
-        "scId":1500211,
+        "scId":15000211,
         "rawTID":"GOLDRUSH_38"
     },
     {
@@ -4644,7 +4644,7 @@
         "music":"Brawzaar_ingame_muzak",
         "communityCredit":"DustyBud",
         "id":259,
-        "scId":1500212,
+        "scId":15000212,
         "rawTID":"GOLDRUSH_43"
     },
     {
@@ -4663,7 +4663,7 @@
         "music":"Pirate_Brawl_Ingame",
         "communityCredit":"OwenReds",
         "id":260,
-        "scId":1500213,
+        "scId":15000213,
         "rawTID":"GOLDRUSH_44"
     },
     {
@@ -4682,7 +4682,7 @@
         "music":"Pirate_Brawl_Ingame",
         "communityCredit":"Chief Pekka",
         "id":261,
-        "scId":1500214,
+        "scId":15000214,
         "rawTID":"GOLDRUSH_45"
     },
     {
@@ -4701,7 +4701,7 @@
         "music":"Pirate_Brawl_Ingame",
         "communityCredit":"Mystical33",
         "id":262,
-        "scId":1500215,
+        "scId":15000215,
         "rawTID":"GOLDRUSH_36"
     },
     {
@@ -4720,7 +4720,7 @@
         "music":"Pirate_Brawl_Ingame",
         "communityCredit":"Chief Pekka",
         "id":263,
-        "scId":1500216,
+        "scId":15000216,
         "rawTID":"BANKHEIST_23"
     },
     {
@@ -4739,7 +4739,7 @@
         "music":"Pirate_Brawl_Ingame",
         "communityCredit":"Mystical33",
         "id":264,
-        "scId":1500217,
+        "scId":15000217,
         "rawTID":"BANKHEIST_20"
     },
     {
@@ -4758,7 +4758,7 @@
         "music":"Pirate_Brawl_Ingame",
         "communityCredit":"Biono",
         "id":265,
-        "scId":1500218,
+        "scId":15000218,
         "rawTID":"WANTED_23"
     },
     {
@@ -4777,7 +4777,7 @@
         "music":"Pirate_Brawl_Ingame",
         "communityCredit":"TCGLouis",
         "id":266,
-        "scId":1500219,
+        "scId":15000219,
         "rawTID":"WANTED_20"
     },
     {
@@ -4796,7 +4796,7 @@
         "music":"BattleMusic",
         "communityCredit":"Frep",
         "id":267,
-        "scId":1500220,
+        "scId":15000220,
         "rawTID":"BATTLE_ROYALE_41"
     },
     {
@@ -4815,7 +4815,7 @@
         "music":"BattleMusic",
         "communityCredit":"Frep",
         "id":268,
-        "scId":1500221,
+        "scId":15000221,
         "rawTID":"BATTLE_ROYALE_41"
     },
     {
@@ -4834,7 +4834,7 @@
         "music":"BattleMusic",
         "communityCredit":"The Red Brawler",
         "id":269,
-        "scId":1500222,
+        "scId":15000222,
         "rawTID":"BATTLE_ROYALE_35"
     },
     {
@@ -4853,7 +4853,7 @@
         "music":"BattleMusic",
         "communityCredit":"The Red Brawler",
         "id":270,
-        "scId":1500223,
+        "scId":15000223,
         "rawTID":"BATTLE_ROYALE_35"
     },
     {
@@ -4872,7 +4872,7 @@
         "music":"BattleMusic",
         "communityCredit":"Gavyn1114",
         "id":271,
-        "scId":1500224,
+        "scId":15000224,
         "rawTID":"BATTLE_ROYALE_40"
     },
     {
@@ -4891,7 +4891,7 @@
         "music":"BattleMusic",
         "communityCredit":"Gavyn1114",
         "id":272,
-        "scId":1500225,
+        "scId":15000225,
         "rawTID":"BATTLE_ROYALE_40"
     },
     {
@@ -4910,7 +4910,7 @@
         "music":"BattleMusic",
         "communityCredit":"OwenReds",
         "id":273,
-        "scId":1500226,
+        "scId":15000226,
         "rawTID":"BATTLE_ROYALE_43"
     },
     {
@@ -4929,7 +4929,7 @@
         "music":"BattleMusic",
         "communityCredit":"OwenReds",
         "id":274,
-        "scId":1500227,
+        "scId":15000227,
         "rawTID":"BATTLE_ROYALE_43"
     },
     {
@@ -4948,7 +4948,7 @@
         "music":"BattleMusic",
         "communityCredit":"Cloudy",
         "id":275,
-        "scId":1500228,
+        "scId":15000228,
         "rawTID":"BATTLE_ROYALE_34"
     },
     {
@@ -4967,7 +4967,7 @@
         "music":"BattleMusic",
         "communityCredit":"Cloudy",
         "id":276,
-        "scId":1500229,
+        "scId":15000229,
         "rawTID":"BATTLE_ROYALE_34"
     },
     {
@@ -4986,7 +4986,7 @@
         "music":"BattleMusic",
         "communityCredit":"Binnyboy",
         "id":277,
-        "scId":1500230,
+        "scId":15000230,
         "rawTID":"BATTLE_ROYALE_37"
     },
     {
@@ -5005,7 +5005,7 @@
         "music":"BattleMusic",
         "communityCredit":"Binnyboy",
         "id":278,
-        "scId":1500231,
+        "scId":15000231,
         "rawTID":"BATTLE_ROYALE_37"
     },
     {
@@ -5024,7 +5024,7 @@
         "music":"BattleMusic",
         "communityCredit":"Mystical33",
         "id":279,
-        "scId":1500232,
+        "scId":15000232,
         "rawTID":"BATTLE_ROYALE_38"
     },
     {
@@ -5043,7 +5043,7 @@
         "music":"BattleMusic",
         "communityCredit":"Mystical33",
         "id":280,
-        "scId":1500233,
+        "scId":15000233,
         "rawTID":"BATTLE_ROYALE_38"
     },
     {
@@ -5062,7 +5062,7 @@
         "music":"BattleMusic",
         "communityCredit":"Mordeus",
         "id":281,
-        "scId":1500234,
+        "scId":15000234,
         "rawTID":"GOLDRUSH_46"
     },
     {
@@ -5081,7 +5081,7 @@
         "music":"BattleMusic",
         "communityCredit":"Mordeus",
         "id":282,
-        "scId":1500235,
+        "scId":15000235,
         "rawTID":"GOLDRUSH_46"
     },
     {
@@ -5100,7 +5100,7 @@
         "music":"BattleMusic",
         "communityCredit":null,
         "id":283,
-        "scId":1500236,
+        "scId":15000236,
         "rawTID":"BALL_8"
     },
     {
@@ -5119,7 +5119,7 @@
         "music":"BattleMusic",
         "communityCredit":null,
         "id":284,
-        "scId":1500237,
+        "scId":15000237,
         "rawTID":"BALL_9"
     },
     {
@@ -5138,7 +5138,7 @@
         "music":"BattleMusic",
         "communityCredit":null,
         "id":285,
-        "scId":1500238,
+        "scId":15000238,
         "rawTID":"BALL_10"
     },
     {
@@ -5157,7 +5157,7 @@
         "music":"BattleMusic",
         "communityCredit":null,
         "id":286,
-        "scId":1500239,
+        "scId":15000239,
         "rawTID":"BALL_11"
     },
     {
@@ -5176,7 +5176,7 @@
         "music":"BattleMusic",
         "communityCredit":null,
         "id":287,
-        "scId":1500240,
+        "scId":15000240,
         "rawTID":"BALL_12"
     },
     {
@@ -5195,7 +5195,7 @@
         "music":"BattleMusic",
         "communityCredit":null,
         "id":288,
-        "scId":1500241,
+        "scId":15000241,
         "rawTID":"BALL_13"
     },
     {
@@ -5214,7 +5214,7 @@
         "music":"BattleMusic",
         "communityCredit":null,
         "id":289,
-        "scId":1500242,
+        "scId":15000242,
         "rawTID":"BALL_16"
     },
     {
@@ -5233,7 +5233,7 @@
         "music":"Halloween_ingame",
         "communityCredit":null,
         "id":290,
-        "scId":1500243,
+        "scId":15000243,
         "rawTID":"BATTLE_ROYALE_6"
     },
     {
@@ -5252,7 +5252,7 @@
         "music":"Halloween_ingame",
         "communityCredit":null,
         "id":291,
-        "scId":1500244,
+        "scId":15000244,
         "rawTID":"BATTLE_ROYALE_6"
     },
     {
@@ -5271,7 +5271,7 @@
         "music":"Brawlcade_Ingame",
         "communityCredit":null,
         "id":292,
-        "scId":1500245,
+        "scId":15000245,
         "rawTID":"KING_OF_HILL_9"
     },
     {
@@ -5290,7 +5290,7 @@
         "music":"Brawlcade_Ingame",
         "communityCredit":null,
         "id":293,
-        "scId":1500246,
+        "scId":15000246,
         "rawTID":"KING_OF_HILL_11"
     },
     {
@@ -5309,7 +5309,7 @@
         "music":"Brawlcade_Ingame",
         "communityCredit":"Mordeus",
         "id":294,
-        "scId":1500247,
+        "scId":15000247,
         "rawTID":"KING_OF_HILL_3"
     },
     {
@@ -5328,7 +5328,7 @@
         "music":"Brawlcade_Ingame",
         "communityCredit":"Mordeus",
         "id":295,
-        "scId":1500248,
+        "scId":15000248,
         "rawTID":"KING_OF_HILL_4"
     },
     {
@@ -5347,7 +5347,7 @@
         "music":"Brawlcade_Ingame",
         "communityCredit":"Mordeus",
         "id":296,
-        "scId":1500249,
+        "scId":15000249,
         "rawTID":"KING_OF_HILL_5"
     },
     {
@@ -5366,7 +5366,7 @@
         "music":"Brawlcade_Ingame",
         "communityCredit":"Mordeus",
         "id":297,
-        "scId":1500250,
+        "scId":15000250,
         "rawTID":"KING_OF_HILL_6"
     },
     {
@@ -5385,7 +5385,7 @@
         "music":"Brawlcade_Ingame",
         "communityCredit":"Mordeus",
         "id":298,
-        "scId":1500251,
+        "scId":15000251,
         "rawTID":"KING_OF_HILL_7"
     },
     {
@@ -5404,7 +5404,7 @@
         "music":"Footbrawl_ingame_muzak",
         "communityCredit":"Hypahn",
         "id":299,
-        "scId":1500252,
+        "scId":15000252,
         "rawTID":"BALL_30"
     },
     {
@@ -5423,7 +5423,7 @@
         "music":"Footbrawl_ingame_muzak",
         "communityCredit":"DustyBud",
         "id":300,
-        "scId":1500253,
+        "scId":15000253,
         "rawTID":"BALL_31"
     },
     {
@@ -5442,7 +5442,7 @@
         "music":"Footbrawl_ingame_muzak",
         "communityCredit":"S3nNy \u30c4",
         "id":301,
-        "scId":1500254,
+        "scId":15000254,
         "rawTID":"BALL_32"
     },
     {
@@ -5461,7 +5461,7 @@
         "music":"Footbrawl_ingame_muzak",
         "communityCredit":"brawl123456789",
         "id":302,
-        "scId":1500255,
+        "scId":15000255,
         "rawTID":"BALL_33"
     },
     {
@@ -5480,7 +5480,7 @@
         "music":"Footbrawl_ingame_muzak",
         "communityCredit":"Cloudy",
         "id":303,
-        "scId":1500256,
+        "scId":15000256,
         "rawTID":"BALL_34"
     },
     {
@@ -5499,7 +5499,7 @@
         "music":"BattleMusic",
         "communityCredit":"Mordeus",
         "id":304,
-        "scId":1500257,
+        "scId":15000257,
         "rawTID":"BATTLE_ROYALE_44"
     },
     {
@@ -5518,7 +5518,7 @@
         "music":"BattleMusic",
         "communityCredit":"Mordeus",
         "id":305,
-        "scId":1500258,
+        "scId":15000258,
         "rawTID":"BATTLE_ROYALE_44"
     },
     {
@@ -5537,7 +5537,7 @@
         "music":"Footbrawl_ingame_muzak",
         "communityCredit":"Mordeus",
         "id":306,
-        "scId":1500259,
+        "scId":15000259,
         "rawTID":"BALL_6"
     },
     {
@@ -5556,7 +5556,7 @@
         "music":"Footbrawl_ingame_muzak",
         "communityCredit":"Mordeus",
         "id":307,
-        "scId":1500260,
+        "scId":15000260,
         "rawTID":"BALL_15"
     },
     {
@@ -5575,7 +5575,7 @@
         "music":"Footbrawl_ingame_muzak",
         "communityCredit":"Hypahn",
         "id":308,
-        "scId":1500261,
+        "scId":15000261,
         "rawTID":"BALL_30"
     },
     {
@@ -5594,7 +5594,7 @@
         "music":"BattleMusic",
         "communityCredit":"ChichoRD",
         "id":309,
-        "scId":1500262,
+        "scId":15000262,
         "rawTID":"ROBO_WARS_15"
     },
     {
@@ -5613,7 +5613,7 @@
         "music":"BattleMusic",
         "communityCredit":"Joop",
         "id":310,
-        "scId":1500263,
+        "scId":15000263,
         "rawTID":"ROBO_WARS_16"
     },
     {
@@ -5632,7 +5632,7 @@
         "music":"BattleMusic",
         "communityCredit":"Olive",
         "id":311,
-        "scId":1500264,
+        "scId":15000264,
         "rawTID":"ROBO_WARS_17"
     },
     {
@@ -5651,7 +5651,7 @@
         "music":"Brawzaar_ingame_muzak",
         "communityCredit":"DustyBud",
         "id":312,
-        "scId":1500265,
+        "scId":15000265,
         "rawTID":"WANTED_27"
     },
     {
@@ -5670,7 +5670,7 @@
         "music":"Brawzaar_ingame_muzak",
         "communityCredit":"tentien",
         "id":313,
-        "scId":1500266,
+        "scId":15000266,
         "rawTID":"WANTED_28"
     },
     {
@@ -5689,7 +5689,7 @@
         "music":"Brawzaar_ingame_muzak",
         "communityCredit":"Chief Pekka",
         "id":314,
-        "scId":1500267,
+        "scId":15000267,
         "rawTID":"BANKHEIST_27"
     },
     {
@@ -5708,7 +5708,7 @@
         "music":"Brawzaar_ingame_muzak",
         "communityCredit":"ChichoRD",
         "id":315,
-        "scId":1500268,
+        "scId":15000268,
         "rawTID":"BANKHEIST_28"
     }
 ]
