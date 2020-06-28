@@ -8,7 +8,8 @@
         "requiredSeasonPoints":null,
         "requiredHero":null,
         "sortOrder":0,
-        "scId":430000000
+        "scId":43000000,
+        "apiId":430000000
     },
     {
         "name":1,
@@ -19,7 +20,8 @@
         "requiredSeasonPoints":null,
         "requiredHero":null,
         "sortOrder":2,
-        "scId":430000001
+        "scId":43000001,
+        "apiId":430000001
     },
     {
         "name":2,
@@ -30,7 +32,8 @@
         "requiredSeasonPoints":null,
         "requiredHero":null,
         "sortOrder":7,
-        "scId":430000002
+        "scId":43000002,
+        "apiId":430000002
     },
     {
         "name":3,
@@ -41,7 +44,8 @@
         "requiredSeasonPoints":null,
         "requiredHero":null,
         "sortOrder":6,
-        "scId":430000003
+        "scId":43000003,
+        "apiId":430000003
     },
     {
         "name":4,
@@ -52,7 +56,8 @@
         "requiredSeasonPoints":null,
         "requiredHero":null,
         "sortOrder":3,
-        "scId":430000004
+        "scId":43000004,
+        "apiId":430000004
     },
     {
         "name":5,
@@ -63,7 +68,8 @@
         "requiredSeasonPoints":null,
         "requiredHero":null,
         "sortOrder":4,
-        "scId":430000005
+        "scId":43000005,
+        "apiId":430000005
     },
     {
         "name":6,
@@ -74,7 +80,8 @@
         "requiredSeasonPoints":null,
         "requiredHero":null,
         "sortOrder":5,
-        "scId":430000006
+        "scId":43000006,
+        "apiId":430000006
     },
     {
         "name":7,
@@ -85,7 +92,8 @@
         "requiredSeasonPoints":null,
         "requiredHero":null,
         "sortOrder":10,
-        "scId":430000007
+        "scId":43000007,
+        "apiId":430000007
     },
     {
         "name":8,
@@ -96,7 +104,8 @@
         "requiredSeasonPoints":null,
         "requiredHero":null,
         "sortOrder":1,
-        "scId":430000008
+        "scId":43000008,
+        "apiId":430000008
     },
     {
         "name":9,
@@ -107,7 +116,8 @@
         "requiredSeasonPoints":null,
         "requiredHero":null,
         "sortOrder":9,
-        "scId":430000009
+        "scId":43000009,
+        "apiId":430000009
     },
     {
         "name":10,
@@ -118,7 +128,8 @@
         "requiredSeasonPoints":null,
         "requiredHero":null,
         "sortOrder":11,
-        "scId":430000010
+        "scId":43000010,
+        "apiId":430000010
     },
     {
         "name":11,
@@ -129,6 +140,7 @@
         "requiredSeasonPoints":null,
         "requiredHero":null,
         "sortOrder":8,
-        "scId":430000011
+        "scId":43000011,
+        "apiId":430000011
     }
 ]

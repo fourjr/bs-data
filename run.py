@@ -144,6 +144,7 @@ if __name__ == '__main__':
                     i['id'] = config['id'][fn] + n
                 if fn in config['scId']:
                     i['scId'] = config['scId'][fn] + sc_id_index
+                    i['apiId'] = config['apiId'][fn] + sc_id_index
                     sc_id_index += 1
 
                 for j in i_keys:

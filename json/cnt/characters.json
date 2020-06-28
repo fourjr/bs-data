@@ -107,7 +107,8 @@
         "defenseRating":3,
         "utilityRating":2,
         "id":16,
-        "scId":16000000,
+        "scId":1600000,
+        "apiId":16000000,
         "rawTID":"SHOTGUN_GIRL"
     },
     {
@@ -218,7 +219,8 @@
         "defenseRating":2,
         "utilityRating":2,
         "id":17,
-        "scId":16000001,
+        "scId":1600001,
+        "apiId":16000001,
         "rawTID":"GUNSLINGER"
     },
     {
@@ -329,7 +331,8 @@
         "defenseRating":4,
         "utilityRating":2,
         "id":18,
-        "scId":16000002,
+        "scId":1600002,
+        "apiId":16000002,
         "rawTID":"BULL_DUDE"
     },
     {
@@ -440,7 +443,8 @@
         "defenseRating":2,
         "utilityRating":2,
         "id":19,
-        "scId":16000003,
+        "scId":1600003,
+        "apiId":16000003,
         "rawTID":"ROCKET_GIRL"
     },
     {
@@ -551,7 +555,8 @@
         "defenseRating":2,
         "utilityRating":2,
         "id":20,
-        "scId":16000004,
+        "scId":1600004,
+        "apiId":16000004,
         "rawTID":"TRICKSHOT_DUDE"
     },
     {
@@ -662,7 +667,8 @@
         "defenseRating":2,
         "utilityRating":3,
         "id":21,
-        "scId":16000005,
+        "scId":1600005,
+        "apiId":16000005,
         "rawTID":"CACTUS"
     },
     {
@@ -773,7 +779,8 @@
         "defenseRating":2,
         "utilityRating":2,
         "id":22,
-        "scId":16000006,
+        "scId":1600006,
+        "apiId":16000006,
         "rawTID":"BARKEEP"
     },
     {
@@ -884,7 +891,8 @@
         "defenseRating":2,
         "utilityRating":4,
         "id":23,
-        "scId":16000007,
+        "scId":1600007,
+        "apiId":16000007,
         "rawTID":"MECHANIC"
     },
     {
@@ -995,7 +1003,8 @@
         "defenseRating":4,
         "utilityRating":2,
         "id":24,
-        "scId":16000008,
+        "scId":1600008,
+        "apiId":16000008,
         "rawTID":"SHAMAN"
     },
     {
@@ -1106,7 +1115,8 @@
         "defenseRating":2,
         "utilityRating":2,
         "id":25,
-        "scId":16000009,
+        "scId":1600009,
+        "apiId":16000009,
         "rawTID":"TNT_DUDE"
     },
     {
@@ -1217,7 +1227,8 @@
         "defenseRating":5,
         "utilityRating":2,
         "id":26,
-        "scId":16000010,
+        "scId":1600010,
+        "apiId":16000010,
         "rawTID":"LUCHADOR"
     },
     {
@@ -1328,7 +1339,8 @@
         "defenseRating":3,
         "utilityRating":4,
         "id":27,
-        "scId":16000011,
+        "scId":1600011,
+        "apiId":16000011,
         "rawTID":"UNDERTAKER"
     },
     {
@@ -1439,7 +1451,8 @@
         "defenseRating":1,
         "utilityRating":3,
         "id":28,
-        "scId":16000012,
+        "scId":1600012,
+        "apiId":16000012,
         "rawTID":"CROW"
     },
     {
@@ -1550,7 +1563,8 @@
         "defenseRating":3,
         "utilityRating":4,
         "id":29,
-        "scId":16000013,
+        "scId":1600013,
+        "apiId":16000013,
         "rawTID":"DEAD_MARIACHI"
     },
     {
@@ -1661,7 +1675,8 @@
         "defenseRating":2,
         "utilityRating":4,
         "id":30,
-        "scId":16000014,
+        "scId":1600014,
+        "apiId":16000014,
         "rawTID":"BOW_DUDE"
     },
     {
@@ -1772,7 +1787,8 @@
         "defenseRating":1,
         "utilityRating":3,
         "id":31,
-        "scId":16000015,
+        "scId":1600015,
+        "apiId":16000015,
         "rawTID":"SNIPER"
     },
     {
@@ -1883,7 +1899,8 @@
         "defenseRating":4,
         "utilityRating":3,
         "id":32,
-        "scId":16000016,
+        "scId":1600016,
+        "apiId":16000016,
         "rawTID":"MINIGUN_DUDE"
     },
     {
@@ -1994,7 +2011,8 @@
         "defenseRating":2,
         "utilityRating":5,
         "id":33,
-        "scId":16000017,
+        "scId":1600017,
+        "apiId":16000017,
         "rawTID":"BLACK_HOLE"
     },
     {
@@ -2105,7 +2123,8 @@
         "defenseRating":4,
         "utilityRating":2,
         "id":34,
-        "scId":16000018,
+        "scId":1600018,
+        "apiId":16000018,
         "rawTID":"BARREL_BOT"
     },
     {
@@ -2216,7 +2235,8 @@
         "defenseRating":2,
         "utilityRating":4,
         "id":35,
-        "scId":16000019,
+        "scId":1600019,
+        "apiId":16000019,
         "rawTID":"ARTILLERY_DUDE"
     },
     {
@@ -2327,7 +2347,8 @@
         "defenseRating":5,
         "utilityRating":2,
         "id":36,
-        "scId":16000020,
+        "scId":1600020,
+        "apiId":16000020,
         "rawTID":"HAMMER_DUDE"
     },
     {
@@ -2438,7 +2459,8 @@
         "defenseRating":2,
         "utilityRating":5,
         "id":37,
-        "scId":16000021,
+        "scId":1600021,
+        "apiId":16000021,
         "rawTID":"HOOK"
     },
     {
@@ -2549,7 +2571,8 @@
         "defenseRating":1,
         "utilityRating":3,
         "id":38,
-        "scId":16000022,
+        "scId":1600022,
+        "apiId":16000022,
         "rawTID":"CLUSTER_BOMB_DUDE"
     },
     {
@@ -2660,7 +2683,8 @@
         "defenseRating":2,
         "utilityRating":3,
         "id":39,
-        "scId":16000023,
+        "scId":1600023,
+        "apiId":16000023,
         "rawTID":"NINJA"
     },
     {
@@ -2771,7 +2795,8 @@
         "defenseRating":5,
         "utilityRating":1,
         "id":40,
-        "scId":16000024,
+        "scId":1600024,
+        "apiId":16000024,
         "rawTID":"ROSA"
     },
     {
@@ -2882,7 +2907,8 @@
         "defenseRating":3,
         "utilityRating":3,
         "id":41,
-        "scId":16000025,
+        "scId":1600025,
+        "apiId":16000025,
         "rawTID":"WHIRLWIND"
     },
     {
@@ -2993,7 +3019,8 @@
         "defenseRating":3,
         "utilityRating":3,
         "id":42,
-        "scId":16000026,
+        "scId":1600026,
+        "apiId":16000026,
         "rawTID":"BASEBALL"
     },
     {
@@ -3104,7 +3131,8 @@
         "defenseRating":1,
         "utilityRating":3,
         "id":43,
-        "scId":16000027,
+        "scId":1600027,
+        "apiId":16000027,
         "rawTID":"ARCADE"
     },
     {
@@ -3215,7 +3243,8 @@
         "defenseRating":2,
         "utilityRating":5,
         "id":44,
-        "scId":16000028,
+        "scId":1600028,
+        "apiId":16000028,
         "rawTID":"SANDSTORM"
     },
     {
@@ -3326,7 +3355,8 @@
         "defenseRating":2,
         "utilityRating":2,
         "id":45,
-        "scId":16000029,
+        "scId":1600029,
+        "apiId":16000029,
         "rawTID":"BEE_SNIPER"
     },
     {
@@ -3437,7 +3467,8 @@
         "defenseRating":2,
         "utilityRating":3,
         "id":46,
-        "scId":16000030,
+        "scId":1600030,
+        "apiId":16000030,
         "rawTID":"MUMMY"
     },
     {
@@ -3548,7 +3579,8 @@
         "defenseRating":2,
         "utilityRating":4,
         "id":47,
-        "scId":16000031,
+        "scId":1600031,
+        "apiId":16000031,
         "rawTID":"SPAWNER_DUDE"
     },
     {
@@ -3659,7 +3691,8 @@
         "defenseRating":2,
         "utilityRating":5,
         "id":48,
-        "scId":16000032,
+        "scId":1600032,
+        "apiId":16000032,
         "rawTID":"SPEEDY"
     },
     {
@@ -3770,7 +3803,8 @@
         "defenseRating":null,
         "utilityRating":null,
         "id":49,
-        "scId":16000033,
+        "scId":1600033,
+        "apiId":16000033,
         "rawTID":"HOMER"
     },
     {
@@ -3881,7 +3915,8 @@
         "defenseRating":5,
         "utilityRating":2,
         "id":50,
-        "scId":16000034,
+        "scId":1600034,
+        "apiId":16000034,
         "rawTID":"DRILLER"
     },
     {
@@ -3992,7 +4027,8 @@
         "defenseRating":2,
         "utilityRating":5,
         "id":51,
-        "scId":16000035,
+        "scId":1600035,
+        "apiId":16000035,
         "rawTID":"BLOWER"
     },
     {
@@ -4103,7 +4139,8 @@
         "defenseRating":1,
         "utilityRating":3,
         "id":52,
-        "scId":16000036,
+        "scId":1600036,
+        "apiId":16000036,
         "rawTID":"CONTROLLER"
     },
     {
@@ -4214,7 +4251,8 @@
         "defenseRating":2,
         "utilityRating":4,
         "id":53,
-        "scId":16000037,
+        "scId":1600037,
+        "apiId":16000037,
         "rawTID":"WALLY"
     },
     {
@@ -4325,7 +4363,8 @@
         "defenseRating":null,
         "utilityRating":null,
         "id":54,
-        "scId":16000038
+        "scId":1600038,
+        "apiId":16000038
     },
     {
         "name":"TutorialDummy2",
@@ -4435,7 +4474,8 @@
         "defenseRating":null,
         "utilityRating":null,
         "id":55,
-        "scId":16000039
+        "scId":1600039,
+        "apiId":16000039
     },
     {
         "name":"MechanicTurret",
@@ -4545,7 +4585,8 @@
         "defenseRating":null,
         "utilityRating":null,
         "id":56,
-        "scId":16000040
+        "scId":1600040,
+        "apiId":16000040
     },
     {
         "name":"HealingStation",
@@ -4655,7 +4696,8 @@
         "defenseRating":null,
         "utilityRating":null,
         "id":57,
-        "scId":16000041
+        "scId":1600041,
+        "apiId":16000041
     },
     {
         "name":"Safe",
@@ -4765,7 +4807,8 @@
         "defenseRating":null,
         "utilityRating":null,
         "id":58,
-        "scId":16000042
+        "scId":1600042,
+        "apiId":16000042
     },
     {
         "name":"ExplodingBarrel",
@@ -4875,7 +4918,8 @@
         "defenseRating":null,
         "utilityRating":null,
         "id":59,
-        "scId":16000043
+        "scId":1600043,
+        "apiId":16000043
     },
     {
         "name":"PoisonBarrel",
@@ -4985,7 +5029,8 @@
         "defenseRating":null,
         "utilityRating":null,
         "id":60,
-        "scId":16000044
+        "scId":1600044,
+        "apiId":16000044
     },
     {
         "name":"ShamanPet",
@@ -5095,7 +5140,8 @@
         "defenseRating":null,
         "utilityRating":null,
         "id":61,
-        "scId":16000045
+        "scId":1600045,
+        "apiId":16000045
     },
     {
         "name":"BoneThrowerPet",
@@ -5205,7 +5251,8 @@
         "defenseRating":null,
         "utilityRating":null,
         "id":62,
-        "scId":16000046
+        "scId":1600046,
+        "apiId":16000046
     },
     {
         "name":"LaserBall",
@@ -5315,7 +5362,8 @@
         "defenseRating":null,
         "utilityRating":null,
         "id":63,
-        "scId":16000047
+        "scId":1600047,
+        "apiId":16000047
     },
     {
         "name":"LootBox",
@@ -5425,7 +5473,8 @@
         "defenseRating":null,
         "utilityRating":null,
         "id":64,
-        "scId":16000048
+        "scId":1600048,
+        "apiId":16000048
     },
     {
         "name":"TutorialDummy3",
@@ -5535,7 +5584,8 @@
         "defenseRating":null,
         "utilityRating":null,
         "id":65,
-        "scId":16000049
+        "scId":1600049,
+        "apiId":16000049
     },
     {
         "name":"ArtilleryDudeTurret",
@@ -5645,7 +5695,8 @@
         "defenseRating":null,
         "utilityRating":null,
         "id":66,
-        "scId":16000050
+        "scId":1600050,
+        "apiId":16000050
     },
     {
         "name":"CoopMeleeEnemy1",
@@ -5755,7 +5806,8 @@
         "defenseRating":null,
         "utilityRating":null,
         "id":67,
-        "scId":16000051
+        "scId":1600051,
+        "apiId":16000051
     },
     {
         "name":"CoopMeleeEnemy2",
@@ -5865,7 +5917,8 @@
         "defenseRating":null,
         "utilityRating":null,
         "id":68,
-        "scId":16000052
+        "scId":1600052,
+        "apiId":16000052
     },
     {
         "name":"CoopMeleeEnemy3",
@@ -5975,7 +6028,8 @@
         "defenseRating":null,
         "utilityRating":null,
         "id":69,
-        "scId":16000053
+        "scId":1600053,
+        "apiId":16000053
     },
     {
         "name":"CoopMeleeEnemy4",
@@ -6085,7 +6139,8 @@
         "defenseRating":null,
         "utilityRating":null,
         "id":70,
-        "scId":16000054
+        "scId":1600054,
+        "apiId":16000054
     },
     {
         "name":"CoopFastMeleeEnemy1",
@@ -6195,7 +6250,8 @@
         "defenseRating":null,
         "utilityRating":null,
         "id":71,
-        "scId":16000055
+        "scId":1600055,
+        "apiId":16000055
     },
     {
         "name":"CoopFastMeleeEnemy2",
@@ -6305,7 +6361,8 @@
         "defenseRating":null,
         "utilityRating":null,
         "id":72,
-        "scId":16000056
+        "scId":1600056,
+        "apiId":16000056
     },
     {
         "name":"CoopFastMeleeEnemy3",
@@ -6415,7 +6472,8 @@
         "defenseRating":null,
         "utilityRating":null,
         "id":73,
-        "scId":16000057
+        "scId":1600057,
+        "apiId":16000057
     },
     {
         "name":"CoopFastMeleeEnemy4",
@@ -6525,7 +6583,8 @@
         "defenseRating":null,
         "utilityRating":null,
         "id":74,
-        "scId":16000058
+        "scId":1600058,
+        "apiId":16000058
     },
     {
         "name":"CoopRangedEnemy1",
@@ -6635,7 +6694,8 @@
         "defenseRating":null,
         "utilityRating":null,
         "id":75,
-        "scId":16000059
+        "scId":1600059,
+        "apiId":16000059
     },
     {
         "name":"CoopRangedEnemy2",
@@ -6745,7 +6805,8 @@
         "defenseRating":null,
         "utilityRating":null,
         "id":76,
-        "scId":16000060
+        "scId":1600060,
+        "apiId":16000060
     },
     {
         "name":"CoopRangedEnemy3",
@@ -6855,7 +6916,8 @@
         "defenseRating":null,
         "utilityRating":null,
         "id":77,
-        "scId":16000061
+        "scId":1600061,
+        "apiId":16000061
     },
     {
         "name":"CoopRangedEnemy4",
@@ -6965,7 +7027,8 @@
         "defenseRating":null,
         "utilityRating":null,
         "id":78,
-        "scId":16000062
+        "scId":1600062,
+        "apiId":16000062
     },
     {
         "name":"TntPet",
@@ -7075,7 +7138,8 @@
         "defenseRating":null,
         "utilityRating":null,
         "id":79,
-        "scId":16000063
+        "scId":1600063,
+        "apiId":16000063
     },
     {
         "name":"BlackHolePet",
@@ -7185,7 +7249,8 @@
         "defenseRating":null,
         "utilityRating":null,
         "id":80,
-        "scId":16000064
+        "scId":1600064,
+        "apiId":16000064
     },
     {
         "name":"CoopBoss1",
@@ -7295,7 +7360,8 @@
         "defenseRating":null,
         "utilityRating":null,
         "id":81,
-        "scId":16000065
+        "scId":1600065,
+        "apiId":16000065
     },
     {
         "name":"CoopBoss2",
@@ -7405,7 +7471,8 @@
         "defenseRating":null,
         "utilityRating":null,
         "id":82,
-        "scId":16000066
+        "scId":1600066,
+        "apiId":16000066
     },
     {
         "name":"CoopBoss3",
@@ -7515,7 +7582,8 @@
         "defenseRating":null,
         "utilityRating":null,
         "id":83,
-        "scId":16000067
+        "scId":1600067,
+        "apiId":16000067
     },
     {
         "name":"TutorialExplodingBarrel",
@@ -7625,7 +7693,8 @@
         "defenseRating":null,
         "utilityRating":null,
         "id":84,
-        "scId":16000068
+        "scId":1600068,
+        "apiId":16000068
     },
     {
         "name":"EventModifierBoss",
@@ -7735,7 +7804,8 @@
         "defenseRating":null,
         "utilityRating":null,
         "id":85,
-        "scId":16000069
+        "scId":1600069,
+        "apiId":16000069
     },
     {
         "name":"RaidBoss",
@@ -7845,7 +7915,8 @@
         "defenseRating":null,
         "utilityRating":null,
         "id":86,
-        "scId":16000070
+        "scId":1600070,
+        "apiId":16000070
     },
     {
         "name":"RaidBossMeleeEnemy1",
@@ -7955,7 +8026,8 @@
         "defenseRating":null,
         "utilityRating":null,
         "id":87,
-        "scId":16000071
+        "scId":1600071,
+        "apiId":16000071
     },
     {
         "name":"RaidBossMeleeEnemy2",
@@ -8065,7 +8137,8 @@
         "defenseRating":null,
         "utilityRating":null,
         "id":88,
-        "scId":16000072
+        "scId":1600072,
+        "apiId":16000072
     },
     {
         "name":"RaidBossMeleeEnemy3",
@@ -8175,7 +8248,8 @@
         "defenseRating":null,
         "utilityRating":null,
         "id":89,
-        "scId":16000073
+        "scId":1600073,
+        "apiId":16000073
     },
     {
         "name":"RaidBossMeleeEnemy4",
@@ -8285,7 +8359,8 @@
         "defenseRating":null,
         "utilityRating":null,
         "id":90,
-        "scId":16000074
+        "scId":1600074,
+        "apiId":16000074
     },
     {
         "name":"RaidBossFastMeleeEnemy1",
@@ -8395,7 +8470,8 @@
         "defenseRating":null,
         "utilityRating":null,
         "id":91,
-        "scId":16000075
+        "scId":1600075,
+        "apiId":16000075
     },
     {
         "name":"RaidBossFastMeleeEnemy2",
@@ -8505,7 +8581,8 @@
         "defenseRating":null,
         "utilityRating":null,
         "id":92,
-        "scId":16000076
+        "scId":1600076,
+        "apiId":16000076
     },
     {
         "name":"RaidBossFastMeleeEnemy3",
@@ -8615,7 +8692,8 @@
         "defenseRating":null,
         "utilityRating":null,
         "id":93,
-        "scId":16000077
+        "scId":1600077,
+        "apiId":16000077
     },
     {
         "name":"RaidBossFastMeleeEnemy4",
@@ -8725,7 +8803,8 @@
         "defenseRating":null,
         "utilityRating":null,
         "id":94,
-        "scId":16000078
+        "scId":1600078,
+        "apiId":16000078
     },
     {
         "name":"RaidBossRangedEnemy1",
@@ -8835,7 +8914,8 @@
         "defenseRating":null,
         "utilityRating":null,
         "id":95,
-        "scId":16000079
+        "scId":1600079,
+        "apiId":16000079
     },
     {
         "name":"RaidBossRangedEnemy2",
@@ -8945,7 +9025,8 @@
         "defenseRating":null,
         "utilityRating":null,
         "id":96,
-        "scId":16000080
+        "scId":1600080,
+        "apiId":16000080
     },
     {
         "name":"RaidBossRangedEnemy3",
@@ -9055,7 +9136,8 @@
         "defenseRating":null,
         "utilityRating":null,
         "id":97,
-        "scId":16000081
+        "scId":1600081,
+        "apiId":16000081
     },
     {
         "name":"RaidBossRangedEnemy4",
@@ -9165,7 +9247,8 @@
         "defenseRating":null,
         "utilityRating":null,
         "id":98,
-        "scId":16000082
+        "scId":1600082,
+        "apiId":16000082
     },
     {
         "name":"RoboWarsBase",
@@ -9275,7 +9358,8 @@
         "defenseRating":null,
         "utilityRating":null,
         "id":99,
-        "scId":16000083
+        "scId":1600083,
+        "apiId":16000083
     },
     {
         "name":"RoboWarsBox",
@@ -9385,7 +9469,8 @@
         "defenseRating":null,
         "utilityRating":null,
         "id":100,
-        "scId":16000084
+        "scId":1600084,
+        "apiId":16000084
     },
     {
         "name":"RoboWarsRobo",
@@ -9495,7 +9580,8 @@
         "defenseRating":null,
         "utilityRating":null,
         "id":101,
-        "scId":16000085
+        "scId":1600085,
+        "apiId":16000085
     },
     {
         "name":"TrainingDummySmall",
@@ -9605,7 +9691,8 @@
         "defenseRating":null,
         "utilityRating":null,
         "id":102,
-        "scId":16000086
+        "scId":1600086,
+        "apiId":16000086
     },
     {
         "name":"TrainingDummyMedium",
@@ -9715,7 +9802,8 @@
         "defenseRating":null,
         "utilityRating":null,
         "id":103,
-        "scId":16000087
+        "scId":1600087,
+        "apiId":16000087
     },
     {
         "name":"TrainingDummyBig",
@@ -9825,7 +9913,8 @@
         "defenseRating":null,
         "utilityRating":null,
         "id":104,
-        "scId":16000088
+        "scId":1600088,
+        "apiId":16000088
     },
     {
         "name":"TrainingDummyShooting",
@@ -9935,7 +10024,8 @@
         "defenseRating":null,
         "utilityRating":null,
         "id":105,
-        "scId":16000089
+        "scId":1600089,
+        "apiId":16000089
     },
     {
         "name":"Train0",
@@ -10045,7 +10135,8 @@
         "defenseRating":null,
         "utilityRating":null,
         "id":106,
-        "scId":16000090
+        "scId":1600090,
+        "apiId":16000090
     },
     {
         "name":"Train1",
@@ -10155,7 +10246,8 @@
         "defenseRating":null,
         "utilityRating":null,
         "id":107,
-        "scId":16000091
+        "scId":1600091,
+        "apiId":16000091
     },
     {
         "name":"Train2",
@@ -10265,7 +10357,8 @@
         "defenseRating":null,
         "utilityRating":null,
         "id":108,
-        "scId":16000092
+        "scId":1600092,
+        "apiId":16000092
     },
     {
         "name":"Train3",
@@ -10375,7 +10468,8 @@
         "defenseRating":null,
         "utilityRating":null,
         "id":109,
-        "scId":16000093
+        "scId":1600093,
+        "apiId":16000093
     },
     {
         "name":"Train4",
@@ -10485,7 +10579,8 @@
         "defenseRating":null,
         "utilityRating":null,
         "id":110,
-        "scId":16000094
+        "scId":1600094,
+        "apiId":16000094
     },
     {
         "name":"ClusterBombPet",
@@ -10595,7 +10690,8 @@
         "defenseRating":null,
         "utilityRating":null,
         "id":111,
-        "scId":16000095
+        "scId":1600095,
+        "apiId":16000095
     },
     {
         "name":"BlackHolePet2",
@@ -10705,7 +10801,8 @@
         "defenseRating":null,
         "utilityRating":null,
         "id":112,
-        "scId":16000096
+        "scId":1600096,
+        "apiId":16000096
     },
     {
         "name":"MechanicTurretWalking",
@@ -10815,7 +10912,8 @@
         "defenseRating":null,
         "utilityRating":null,
         "id":113,
-        "scId":16000097
+        "scId":1600097,
+        "apiId":16000097
     },
     {
         "name":"DamageBooster",
@@ -10925,7 +11023,8 @@
         "defenseRating":null,
         "utilityRating":null,
         "id":114,
-        "scId":16000098
+        "scId":1600098,
+        "apiId":16000098
     },
     {
         "name":"BeePet",
@@ -11035,7 +11134,8 @@
         "defenseRating":null,
         "utilityRating":null,
         "id":115,
-        "scId":16000099
+        "scId":1600099,
+        "apiId":16000099
     },
     {
         "name":"BossRaceBoss",
@@ -11145,7 +11245,8 @@
         "defenseRating":null,
         "utilityRating":null,
         "id":116,
-        "scId":16000100
+        "scId":1600100,
+        "apiId":16000100
     },
     {
         "name":"SpawnerDudeTurret",
@@ -11255,7 +11356,8 @@
         "defenseRating":null,
         "utilityRating":null,
         "id":117,
-        "scId":16000101
+        "scId":1600101,
+        "apiId":16000101
     },
     {
         "name":"SpawnerPet",
@@ -11365,7 +11467,8 @@
         "defenseRating":null,
         "utilityRating":null,
         "id":118,
-        "scId":16000102
+        "scId":1600102,
+        "apiId":16000102
     },
     {
         "name":"ReloadBooster",
@@ -11475,7 +11578,8 @@
         "defenseRating":null,
         "utilityRating":null,
         "id":119,
-        "scId":16000103
+        "scId":1600103,
+        "apiId":16000103
     },
     {
         "name":"CaptureFlag",
@@ -11585,7 +11689,8 @@
         "defenseRating":null,
         "utilityRating":null,
         "id":120,
-        "scId":16000104
+        "scId":1600104,
+        "apiId":16000104
     },
     {
         "name":"Bee",
@@ -11695,7 +11800,8 @@
         "defenseRating":null,
         "utilityRating":null,
         "id":121,
-        "scId":16000105
+        "scId":1600105,
+        "apiId":16000105
     },
     {
         "name":"NinjaFake",
@@ -11805,7 +11911,8 @@
         "defenseRating":2,
         "utilityRating":3,
         "id":122,
-        "scId":16000106
+        "scId":1600106,
+        "apiId":16000106
     },
     {
         "name":"BeeSniperSlowPot",
@@ -11915,7 +12022,8 @@
         "defenseRating":null,
         "utilityRating":null,
         "id":123,
-        "scId":16000107
+        "scId":1600107,
+        "apiId":16000107
     },
     {
         "name":"BowDudeTotem",
@@ -12025,7 +12133,8 @@
         "defenseRating":null,
         "utilityRating":null,
         "id":124,
-        "scId":16000108
+        "scId":1600108,
+        "apiId":16000108
     },
     {
         "name":"ControllerAddon",
@@ -12135,6 +12244,7 @@
         "defenseRating":null,
         "utilityRating":null,
         "id":125,
-        "scId":16000109
+        "scId":1600109,
+        "apiId":16000109
     }
 ]
