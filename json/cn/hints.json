@@ -7,6 +7,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_0"
     },
     {
@@ -17,6 +18,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_1"
     },
     {
@@ -27,6 +29,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_2"
     },
     {
@@ -37,26 +40,29 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_3"
     },
     {
         "name":5,
-        "tID":"\u8981\u53d6\u6d88\u7784\u51c6\uff0c\u60a8\u53ea\u9700\u5c06\u6447\u6746\u62d6\u56de\u4e2d\u95f4\u4f4d\u7f6e\u3002",
+        "tID":"\u8981\u53d6\u6d88\u7784\u51c6\uff0c\u53ea\u9700\u5c06\u6447\u6746\u62d6\u56de\u4e2d\u95f4\u4f4d\u7f6e\u3002",
         "minXPLevel":1,
         "maxXPLevel":40,
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_4"
     },
     {
         "name":6,
-        "tID":"\u7cfb\u7edf\u4f1a\u6839\u636e\u60a8\u6240\u9009\u82f1\u96c4\u7684\u5956\u676f\u6570\u4e3a\u60a8\u5339\u914d\u5bf9\u624b\uff0c\u56e0\u6b64\u89e3\u9501\u65b0\u82f1\u96c4\u4e4b\u540e\u662f\u6536\u96c6\u5956\u676f\u7684\u597d\u65f6\u673a\u3002",
+        "tID":"\u7cfb\u7edf\u4f1a\u6839\u636e\u60a8\u6240\u9009\u82f1\u96c4\u7684\u5956\u676f\u6570\u4e3a\u60a8\u5339\u914d\u5bf9\u624b\uff0c\u4f7f\u7528\u65b0\u89e3\u9501\u7684\u82f1\u96c4\u4f1a\u66f4\u5bb9\u6613\u51b2\u676f\u3002",
         "minXPLevel":3,
         "maxXPLevel":999,
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_5"
     },
     {
@@ -67,6 +73,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_6"
     },
     {
@@ -77,16 +84,18 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_7"
     },
     {
         "name":9,
-        "tID":"\u5df4\u5229\u7684\u8d85\u7ea7\u6280\u80fd\u653b\u51fb\u8ddd\u79bb\u8d8a\u8fd1\uff0c\u5a01\u529b\u8d8a\u5927\uff0c\u56e0\u4e3a\u8fd1\u8ddd\u79bb\u65f6\u9152\u74f6\u4f1a\u96c6\u4e2d\u843d\u5728\u4e00\u4e2a\u5f88\u5c0f\u7684\u8303\u56f4\u5185\u3002",
+        "tID":"\u5df4\u5229\u7684\u8d85\u7ea7\u6280\u80fd\u653b\u51fb\u8ddd\u79bb\u8d8a\u8fd1\uff0c\u5a01\u529b\u8d8a\u5927\uff0c\u56e0\u4e3a\u8fd1\u8ddd\u79bb\u65f6\u74f6\u5b50\u4f1a\u96c6\u4e2d\u843d\u5728\u4e00\u4e2a\u5f88\u5c0f\u7684\u8303\u56f4\u5185\u3002",
         "minXPLevel":999,
         "maxXPLevel":999,
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_8"
     },
     {
@@ -97,6 +106,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_9"
     },
     {
@@ -107,6 +117,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_10"
     },
     {
@@ -117,6 +128,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_11"
     },
     {
@@ -127,6 +139,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_12"
     },
     {
@@ -137,16 +150,18 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_13"
     },
     {
         "name":15,
-        "tID":"\u5feb\u901f\u5c04\u51fb\u7528\u6765\u653b\u51fb\u8fd1\u8ddd\u79bb\u76ee\u6807\u6548\u679c\u663e\u8457\u3002",
+        "tID":"\u5feb\u901f\u5c04\u51fb\u975e\u5e38\u9002\u5408\u7528\u6765\u653b\u51fb\u8fd1\u8ddd\u79bb\u7684\u76ee\u6807\u3002",
         "minXPLevel":3,
         "maxXPLevel":60,
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_14"
     },
     {
@@ -157,6 +172,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_15"
     },
     {
@@ -167,6 +183,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_16"
     },
     {
@@ -177,6 +194,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_17"
     },
     {
@@ -187,16 +205,18 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_18"
     },
     {
         "name":20,
-        "tID":"\u5feb\u901f\u5c04\u51fb\u9002\u5408\u653b\u51fb\u6b63\u9762\u671d\u4f60\u9760\u8fd1\u6216\u6b63\u5728\u76f4\u7ebf\u8eb2\u5f00\u4f60\u7684\u654c\u4eba\u3002",
+        "tID":"\u5feb\u901f\u5c04\u51fb\u9002\u5408\u653b\u51fb\u671d\u4f60\u76f4\u7ebf\u9760\u8fd1\u6216\u8fdc\u79bb\u7684\u654c\u4eba\u3002",
         "minXPLevel":3,
         "maxXPLevel":60,
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_19"
     },
     {
@@ -207,16 +227,18 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_20"
     },
     {
         "name":22,
-        "tID":"\u8eb2\u5728\u8349\u4e1b\u91cc\u4e0d\u4f1a\u88ab\u654c\u4eba\u53d1\u73b0\u3002",
+        "tID":"\u8eb2\u8fdb\u8349\u4e1b\uff0c\u907f\u514d\u88ab\u654c\u4eba\u53d1\u73b0\u3002",
         "minXPLevel":1,
         "maxXPLevel":40,
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_21"
     },
     {
@@ -227,6 +249,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_22"
     },
     {
@@ -237,6 +260,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_23"
     },
     {
@@ -247,6 +271,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_24"
     },
     {
@@ -257,6 +282,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_25"
     },
     {
@@ -267,6 +293,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_26"
     },
     {
@@ -277,6 +304,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_27"
     },
     {
@@ -287,6 +315,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_28"
     },
     {
@@ -297,6 +326,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_29"
     },
     {
@@ -307,6 +337,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_30"
     },
     {
@@ -317,6 +348,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_31"
     },
     {
@@ -327,6 +359,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_32"
     },
     {
@@ -337,6 +370,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_33"
     },
     {
@@ -347,6 +381,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_34"
     },
     {
@@ -357,6 +392,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_35"
     },
     {
@@ -367,6 +403,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_36"
     },
     {
@@ -377,6 +414,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_37"
     },
     {
@@ -387,6 +425,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_38"
     },
     {
@@ -397,6 +436,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_39"
     },
     {
@@ -407,6 +447,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":true,
         "rawTID":"HINT_40"
     },
     {
@@ -417,6 +458,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_41"
     },
     {
@@ -427,6 +469,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_42"
     },
     {
@@ -437,6 +480,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_43"
     },
     {
@@ -447,6 +491,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_44"
     }
 ]

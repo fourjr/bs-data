@@ -287,7 +287,7 @@
     {
         "name":"SeasonEnd",
         "priority":2000,
-        "notificationText":"Kausi on p\u00e4\u00e4ttynyt! Kausipalkinnot odottavat sinua!",
+        "notificationText":"Pokaaliliiga on p\u00e4\u00e4ttynyt! Lunasta palkintosi!",
         "isRegularEventRefresh":null,
         "dontCompare":null,
         "autoAdd":null,
@@ -418,14 +418,26 @@
     },
     {
         "name":"QuestBatch",
-        "priority":50000,
+        "priority":750,
         "notificationText":"Uusia teht\u00e4vi\u00e4 saatavilla!",
         "isRegularEventRefresh":null,
         "dontCompare":null,
         "autoAdd":null,
         "timeOffsetMins":null,
         "maxRandomTimeOffsetMins":30,
-        "checkRangeMins":null,
+        "checkRangeMins":60,
         "rawNotificationText":"NOTIFICATION_QUEST_REFRESH"
+    },
+    {
+        "name":"TownCrusherStart",
+        "priority":1000,
+        "notificationText":"POMO-OTTELU on palannut! Kuinka pitk\u00e4lle p\u00e4\u00e4set?",
+        "isRegularEventRefresh":null,
+        "dontCompare":null,
+        "autoAdd":null,
+        "timeOffsetMins":60,
+        "maxRandomTimeOffsetMins":60,
+        "checkRangeMins":0,
+        "rawNotificationText":"NOTIFICATION_TOWN_CRUSHER"
     }
 ]

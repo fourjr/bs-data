@@ -657,7 +657,7 @@
         "animationMovieClip2":null,
         "speechBubbleCharacterSWF":"sc\/ui.sc",
         "speechBubbleCharacterMovieClip":"tutorial_character_top",
-        "speechBubbleTIDs":"\u73b0\u5728\u4f7f\u7528\u8d85\u7ea7\u6280\u80fd\u653b\u51fb\u5899\u540e\u8fb9\u7684\u9996\u9886\uff01<cff9900>\u62d6\u52a8\u9ec4\u8272\u6447\u6746<\/c>\u6765\u7784\u51c6\uff0c\u677e\u5f00\u5373\u53ef\u53d1\u5c04\u8d85\u7ea7\u6280\u80fd\uff01",
+        "speechBubbleTIDs":"\u73b0\u5728\u4f7f\u7528\u8d85\u7ea7\u6280\u80fd\u653b\u51fb\u5899\u540e\u8fb9\u7684\u9996\u9886\uff01<cff9900>\u62d6\u52a8\u9ec4\u8272\u6447\u6746<\/c>\u7784\u51c6\uff0c\u677e\u5f00\u5373\u53ef\u53d1\u5c04\u8d85\u7ea7\u6280\u80fd\uff01",
         "startSound":"Tut_speech",
         "spawnCharacter":null,
         "spawnLocationX":null,

@@ -137,7 +137,7 @@
     {
         "name":"RaidBossStart",
         "priority":1000,
-        "notificationText":"\u5718\u968a\u9996\u9818\u6230\u5df2\u958b\u653e\uff0c\u770b\u770b\u4f60\u80fd\u95d6\u5230\u54ea\u4e00\u95dc\uff1f",
+        "notificationText":"\u5718\u968a\u9996\u9818\u6230\u518d\u5ea6\u5c55\u958b\uff01\u4f60\u80fd\u95d6\u5230\u54ea\u4e00\u95dc\uff1f",
         "isRegularEventRefresh":null,
         "dontCompare":null,
         "autoAdd":null,
@@ -287,7 +287,7 @@
     {
         "name":"SeasonEnd",
         "priority":2000,
-        "notificationText":"\u8cfd\u5b63\u5df2\u7d50\u675f\uff01\u8acb\u9818\u53d6\u8cfd\u5b63\u734e\u52f5\u3002",
+        "notificationText":"\u69ae\u8000\u806f\u8cfd\u5df2\u7d50\u675f\uff01\u8acb\u9818\u53d6\u806f\u8cfd\u734e\u52f5\u3002",
         "isRegularEventRefresh":null,
         "dontCompare":null,
         "autoAdd":null,
@@ -418,14 +418,26 @@
     },
     {
         "name":"QuestBatch",
-        "priority":50000,
+        "priority":750,
         "notificationText":"\u6709\u65b0\u4efb\u52d9\u53ef\u4ee5\u63a5\u56c9\uff01",
         "isRegularEventRefresh":null,
         "dontCompare":null,
         "autoAdd":null,
         "timeOffsetMins":null,
         "maxRandomTimeOffsetMins":30,
-        "checkRangeMins":null,
+        "checkRangeMins":60,
         "rawNotificationText":"NOTIFICATION_QUEST_REFRESH"
+    },
+    {
+        "name":"TownCrusherStart",
+        "priority":1000,
+        "notificationText":"\u5718\u968a\u9996\u9818\u6230\u518d\u5ea6\u5c55\u958b\uff01\u4f60\u80fd\u95d6\u5230\u54ea\u4e00\u95dc\uff1f",
+        "isRegularEventRefresh":null,
+        "dontCompare":null,
+        "autoAdd":null,
+        "timeOffsetMins":60,
+        "maxRandomTimeOffsetMins":60,
+        "checkRangeMins":0,
+        "rawNotificationText":"NOTIFICATION_TOWN_CRUSHER"
     }
 ]

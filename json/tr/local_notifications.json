@@ -41,7 +41,7 @@
     {
         "name":"PSGReminder",
         "priority":10000,
-        "notificationText":"PSG CUP sona ermek \u00fczere. Kazanmak i\u00e7in hala vaktin var!",
+        "notificationText":"PSG CUP sona ermek \u00fczere. Kazanmak i\u00e7in hala zaman\u0131n var!",
         "isRegularEventRefresh":null,
         "dontCompare":null,
         "autoAdd":null,
@@ -65,7 +65,7 @@
     {
         "name":"AttackDefendStart",
         "priority":5,
-        "notificationText":"SOYGUN ba\u015flad\u0131! Yeni \u00f6d\u00fcller kazanma vakti!",
+        "notificationText":"SOYGUN ba\u015flad\u0131! Yeni \u00f6d\u00fcller kazanma zaman\u0131!",
         "isRegularEventRefresh":true,
         "dontCompare":null,
         "autoAdd":null,
@@ -77,7 +77,7 @@
     {
         "name":"BountyStart",
         "priority":5,
-        "notificationText":"\u00d6D\u00dcL AVI ba\u015flad\u0131! Yeni \u00f6d\u00fcller kazanma vakti!",
+        "notificationText":"\u00d6D\u00dcL AVI ba\u015flad\u0131! Yeni \u00f6d\u00fcller kazanma zaman\u0131!",
         "isRegularEventRefresh":true,
         "dontCompare":null,
         "autoAdd":null,
@@ -89,7 +89,7 @@
     {
         "name":"LaserBallStart",
         "priority":2,
-        "notificationText":"Yeni SAVA\u015e TOPU haritas\u0131 a\u00e7\u0131ld\u0131! Yeni \u00f6d\u00fcller kazanma vakti!",
+        "notificationText":"Yeni SAVA\u015e TOPU haritas\u0131 a\u00e7\u0131ld\u0131! Yeni \u00f6d\u00fcller kazanma zaman\u0131!",
         "isRegularEventRefresh":true,
         "dontCompare":null,
         "autoAdd":null,
@@ -149,7 +149,7 @@
     {
         "name":"RoboWarsStart",
         "priority":1000,
-        "notificationText":"KU\u015eATMA ba\u015flad\u0131! Yeni \u00f6d\u00fcller kazanma vakti!",
+        "notificationText":"KU\u015eATMA ba\u015flad\u0131! Yeni \u00f6d\u00fcller kazanma zaman\u0131!",
         "isRegularEventRefresh":null,
         "dontCompare":null,
         "autoAdd":null,
@@ -161,7 +161,7 @@
     {
         "name":"TakedownStart",
         "priority":3,
-        "notificationText":"Yeni ALA\u015eA\u011eI haritas\u0131 a\u00e7\u0131ld\u0131! Yeni \u00f6d\u00fcller kazanma vakti!",
+        "notificationText":"Yeni ALA\u015eA\u011eI haritas\u0131 a\u00e7\u0131ld\u0131! Yeni \u00f6d\u00fcller kazanma zaman\u0131!",
         "isRegularEventRefresh":true,
         "dontCompare":null,
         "autoAdd":null,
@@ -173,7 +173,7 @@
     {
         "name":"LoneStarStart",
         "priority":3,
-        "notificationText":"Yeni YALNIZ YILDIZ haritas\u0131 a\u00e7\u0131ld\u0131! Yeni \u00f6d\u00fcller kazanma vakti!",
+        "notificationText":"Yeni YALNIZ YILDIZ haritas\u0131 a\u00e7\u0131ld\u0131! Yeni \u00f6d\u00fcller kazanma zaman\u0131!",
         "isRegularEventRefresh":true,
         "dontCompare":null,
         "autoAdd":null,
@@ -185,7 +185,7 @@
     {
         "name":"CTFStart",
         "priority":3,
-        "notificationText":"Yeni HED\u0130YE TALANI haritas\u0131 a\u00e7\u0131ld\u0131! Yeni \u00f6d\u00fcller kazanma vakti!",
+        "notificationText":"Yeni HED\u0130YE TALANI haritas\u0131 a\u00e7\u0131ld\u0131! Yeni \u00f6d\u00fcller kazanma zaman\u0131!",
         "isRegularEventRefresh":true,
         "dontCompare":null,
         "autoAdd":null,
@@ -197,7 +197,7 @@
     {
         "name":"KOHStart",
         "priority":5,
-        "notificationText":"Yeni SICAK B\u00d6LGE haritas\u0131 a\u00e7\u0131ld\u0131! Yeni \u00f6d\u00fcller kazanma vakti!",
+        "notificationText":"Yeni SICAK B\u00d6LGE haritas\u0131 a\u00e7\u0131ld\u0131! Yeni \u00f6d\u00fcller kazanma zaman\u0131!",
         "isRegularEventRefresh":true,
         "dontCompare":null,
         "autoAdd":null,
@@ -287,7 +287,7 @@
     {
         "name":"SeasonEnd",
         "priority":2000,
-        "notificationText":"Sezon bitti! Sezon \u00f6d\u00fclleri seni bekliyor.",
+        "notificationText":"Kupa Ligi bitti! Sezon \u00f6d\u00fclleri seni bekliyor.",
         "isRegularEventRefresh":null,
         "dontCompare":null,
         "autoAdd":null,
@@ -418,14 +418,26 @@
     },
     {
         "name":"QuestBatch",
-        "priority":50000,
+        "priority":750,
         "notificationText":"Yeni g\u00f6revler geldi!",
         "isRegularEventRefresh":null,
         "dontCompare":null,
         "autoAdd":null,
         "timeOffsetMins":null,
         "maxRandomTimeOffsetMins":30,
-        "checkRangeMins":null,
+        "checkRangeMins":60,
         "rawNotificationText":"NOTIFICATION_QUEST_REFRESH"
+    },
+    {
+        "name":"TownCrusherStart",
+        "priority":1000,
+        "notificationText":"BOSS SAVA\u015eI geri d\u00f6nd\u00fc! Ne kadar ilerleyebilirsin?",
+        "isRegularEventRefresh":null,
+        "dontCompare":null,
+        "autoAdd":null,
+        "timeOffsetMins":60,
+        "maxRandomTimeOffsetMins":60,
+        "checkRangeMins":0,
+        "rawNotificationText":"NOTIFICATION_TOWN_CRUSHER"
     }
 ]

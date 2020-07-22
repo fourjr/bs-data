@@ -257,13 +257,31 @@
         "id":30
     },
     {
-        "name":"BOSS_HEALTH_INCREASE",
-        "numberValue":75000,
+        "name":"BOSS_PET_DAMAGE_PERCENT_INCREASE",
+        "numberValue":20,
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
         "numberArray":null,
         "id":31
+    },
+    {
+        "name":"BOSS_HEALTH_INCREASE_FIXED",
+        "numberValue":40000,
+        "booleanValue":null,
+        "textValue":null,
+        "stringArray":null,
+        "numberArray":null,
+        "id":32
+    },
+    {
+        "name":"BOSS_HEALTH_INCREASE_PERCENT",
+        "numberValue":800,
+        "booleanValue":null,
+        "textValue":null,
+        "stringArray":null,
+        "numberArray":null,
+        "id":33
     },
     {
         "name":"BOSS_SPEED_INCREASE",
@@ -272,7 +290,7 @@
         "textValue":null,
         "stringArray":null,
         "numberArray":null,
-        "id":32
+        "id":34
     },
     {
         "name":"BOSS_RELOAD_TIME_DIV",
@@ -281,16 +299,16 @@
         "textValue":null,
         "stringArray":null,
         "numberArray":null,
-        "id":33
+        "id":35
     },
     {
-        "name":"BOSS_PET_HEALTH_BONUS_DIV",
-        "numberValue":40,
+        "name":"BOSS_PET_HEALTH_INCREASE_PERCENT",
+        "numberValue":20,
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
         "numberArray":null,
-        "id":34
+        "id":36
     },
     {
         "name":"BOSS_ULTI_CHARGE_MUL",
@@ -299,7 +317,7 @@
         "textValue":null,
         "stringArray":null,
         "numberArray":null,
-        "id":35
+        "id":37
     },
     {
         "name":"BOSS_ULTI_CHARGE_DIV",
@@ -308,16 +326,16 @@
         "textValue":null,
         "stringArray":null,
         "numberArray":null,
-        "id":36
+        "id":38
     },
     {
         "name":"BOSS_HEAL_MUL",
-        "numberValue":25,
+        "numberValue":10,
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
         "numberArray":null,
-        "id":37
+        "id":39
     },
     {
         "name":"BOSS_HEAL_DIV",
@@ -326,7 +344,7 @@
         "textValue":null,
         "stringArray":null,
         "numberArray":null,
-        "id":38
+        "id":40
     },
     {
         "name":"COOP_ULTI_CHARGE_MUL",
@@ -335,7 +353,7 @@
         "textValue":null,
         "stringArray":null,
         "numberArray":null,
-        "id":39
+        "id":41
     },
     {
         "name":"COOP_ULTI_CHARGE_DIV",
@@ -344,7 +362,7 @@
         "textValue":null,
         "stringArray":null,
         "numberArray":null,
-        "id":40
+        "id":42
     },
     {
         "name":"MAX_CORPSES_PER_TEAM",
@@ -353,7 +371,7 @@
         "textValue":null,
         "stringArray":null,
         "numberArray":null,
-        "id":41
+        "id":43
     },
     {
         "name":"USE_MASK",
@@ -362,7 +380,7 @@
         "textValue":null,
         "stringArray":null,
         "numberArray":null,
-        "id":42
+        "id":44
     },
     {
         "name":"DISPLAY_JOYSTICK_AREA",
@@ -371,7 +389,7 @@
         "textValue":null,
         "stringArray":null,
         "numberArray":null,
-        "id":43
+        "id":45
     },
     {
         "name":"VISIBILITY_X",
@@ -380,7 +398,7 @@
         "textValue":null,
         "stringArray":null,
         "numberArray":null,
-        "id":44
+        "id":46
     },
     {
         "name":"VISIBILITY_UP",
@@ -389,7 +407,7 @@
         "textValue":null,
         "stringArray":null,
         "numberArray":null,
-        "id":45
+        "id":47
     },
     {
         "name":"VISIBILITY_DOWN",
@@ -398,7 +416,7 @@
         "textValue":null,
         "stringArray":null,
         "numberArray":null,
-        "id":46
+        "id":48
     },
     {
         "name":"VISIBILITY_HORIZONTAL_MARGIN",
@@ -407,7 +425,7 @@
         "textValue":null,
         "stringArray":null,
         "numberArray":null,
-        "id":47
+        "id":49
     },
     {
         "name":"VISIBILITY_VERTICAL_MARGIN_1",
@@ -416,7 +434,7 @@
         "textValue":null,
         "stringArray":null,
         "numberArray":null,
-        "id":48
+        "id":50
     },
     {
         "name":"VISIBILITY_VERTICAL_MARGIN_2",
@@ -425,7 +443,7 @@
         "textValue":null,
         "stringArray":null,
         "numberArray":null,
-        "id":49
+        "id":51
     },
     {
         "name":"STARTING_HERO_LVL_UP_MATERIAL",
@@ -434,7 +452,7 @@
         "textValue":null,
         "stringArray":null,
         "numberArray":null,
-        "id":50
+        "id":52
     },
     {
         "name":"TRANSFORM_FREE_BOX_TO_AD_BOX",
@@ -443,7 +461,7 @@
         "textValue":null,
         "stringArray":null,
         "numberArray":null,
-        "id":51
+        "id":53
     },
     {
         "name":"VAMPIRES_HEAL_MUL",
@@ -452,7 +470,7 @@
         "textValue":null,
         "stringArray":null,
         "numberArray":null,
-        "id":52
+        "id":54
     },
     {
         "name":"VAMPIRES_HEAL_DIV",
@@ -461,7 +479,7 @@
         "textValue":null,
         "stringArray":null,
         "numberArray":null,
-        "id":53
+        "id":55
     },
     {
         "name":"EMOTE_COOLDOWN_TICKS",
@@ -470,7 +488,7 @@
         "textValue":null,
         "stringArray":null,
         "numberArray":null,
-        "id":54
+        "id":56
     },
     {
         "name":"EMOTE_COOLDOWN_TICKS_MATCH_END",
@@ -479,15 +497,42 @@
         "textValue":null,
         "stringArray":null,
         "numberArray":null,
-        "id":55
+        "id":57
     },
     {
         "name":"CHINA_BOX_LIMIT",
-        "numberValue":45,
+        "numberValue":25,
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
         "numberArray":null,
-        "id":56
+        "id":58
+    },
+    {
+        "name":"OFFLINE_RAID_DIFFICULTY",
+        "numberValue":1,
+        "booleanValue":null,
+        "textValue":null,
+        "stringArray":null,
+        "numberArray":null,
+        "id":59
+    },
+    {
+        "name":"DEVICE_LINK_CODE_LENGTH",
+        "numberValue":12,
+        "booleanValue":null,
+        "textValue":null,
+        "stringArray":null,
+        "numberArray":null,
+        "id":60
+    },
+    {
+        "name":"DEVICE_LINK_CODE_VALID_SECONDS",
+        "numberValue":120,
+        "booleanValue":null,
+        "textValue":null,
+        "stringArray":null,
+        "numberArray":null,
+        "id":61
     }
 ]

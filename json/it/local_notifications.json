@@ -287,7 +287,7 @@
     {
         "name":"SeasonEnd",
         "priority":2000,
-        "notificationText":"La stagione \u00e8 finita e ci sono dei premi che ti aspettano!",
+        "notificationText":"La lega dei trofei \u00e8 finita e ci sono dei premi che ti aspettano!",
         "isRegularEventRefresh":null,
         "dontCompare":null,
         "autoAdd":null,
@@ -418,14 +418,26 @@
     },
     {
         "name":"QuestBatch",
-        "priority":50000,
+        "priority":750,
         "notificationText":"Ci sono nuove missioni disponibili!",
         "isRegularEventRefresh":null,
         "dontCompare":null,
         "autoAdd":null,
         "timeOffsetMins":null,
         "maxRandomTimeOffsetMins":30,
-        "checkRangeMins":null,
+        "checkRangeMins":60,
         "rawNotificationText":"NOTIFICATION_QUEST_REFRESH"
+    },
+    {
+        "name":"TownCrusherStart",
+        "priority":1000,
+        "notificationText":"\u00c8 tornata la modalit\u00e0 RAID. A quale difficolt\u00e0 riuscirai ad arrivare stavolta?",
+        "isRegularEventRefresh":null,
+        "dontCompare":null,
+        "autoAdd":null,
+        "timeOffsetMins":60,
+        "maxRandomTimeOffsetMins":60,
+        "checkRangeMins":0,
+        "rawNotificationText":"NOTIFICATION_TOWN_CRUSHER"
     }
 ]

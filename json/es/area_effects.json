@@ -9,6 +9,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"brock_def_explosion_blue",
         "loopingEffect":null,
@@ -35,6 +36,7 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
+        "chainAreaEffect":null,
         "id":17
     },
     {
@@ -47,6 +49,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"brock_def_ultiExp_blue",
         "loopingEffect":null,
@@ -73,6 +76,7 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
+        "chainAreaEffect":null,
         "id":18
     },
     {
@@ -85,6 +89,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"brock_002_explosion_blue",
         "loopingEffect":null,
@@ -111,6 +116,7 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
+        "chainAreaEffect":null,
         "id":19
     },
     {
@@ -123,6 +129,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"brock_def_ultiExp_blue",
         "loopingEffect":null,
@@ -149,6 +156,7 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
+        "chainAreaEffect":null,
         "id":20
     },
     {
@@ -161,6 +169,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"brock_004_explosion_blue",
         "loopingEffect":null,
@@ -187,6 +196,7 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
+        "chainAreaEffect":null,
         "id":21
     },
     {
@@ -199,6 +209,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"brock_004_ultiExp_blue",
         "loopingEffect":null,
@@ -225,6 +236,7 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
+        "chainAreaEffect":null,
         "id":22
     },
     {
@@ -237,6 +249,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"explosion_rocket_rose",
         "loopingEffect":null,
@@ -263,6 +276,7 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
+        "chainAreaEffect":null,
         "id":23
     },
     {
@@ -275,6 +289,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"explosion_rocket_rose_ulti",
         "loopingEffect":null,
@@ -301,6 +316,7 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
+        "chainAreaEffect":null,
         "id":24
     },
     {
@@ -313,6 +329,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"spike_def_atk1_explosion",
         "loopingEffect":null,
@@ -339,6 +356,7 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
+        "chainAreaEffect":null,
         "id":25
     },
     {
@@ -351,6 +369,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":null,
         "loopingEffect":null,
@@ -377,6 +396,7 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
+        "chainAreaEffect":null,
         "id":26
     },
     {
@@ -389,6 +409,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"spike_def_ulti_explosion",
         "loopingEffect":null,
@@ -415,6 +436,7 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
+        "chainAreaEffect":null,
         "id":27
     },
     {
@@ -427,6 +449,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"spike_002_atk1_explosion",
         "loopingEffect":null,
@@ -453,6 +476,7 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
+        "chainAreaEffect":null,
         "id":28
     },
     {
@@ -465,6 +489,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":null,
         "loopingEffect":null,
@@ -491,6 +516,7 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
+        "chainAreaEffect":null,
         "id":29
     },
     {
@@ -503,6 +529,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"spike_002_ulti_explosion",
         "loopingEffect":null,
@@ -529,6 +556,7 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
+        "chainAreaEffect":null,
         "id":30
     },
     {
@@ -541,6 +569,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"spike_003_atk1_explosion",
         "loopingEffect":null,
@@ -567,6 +596,7 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
+        "chainAreaEffect":null,
         "id":31
     },
     {
@@ -579,6 +609,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":null,
         "loopingEffect":null,
@@ -605,6 +636,7 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
+        "chainAreaEffect":null,
         "id":32
     },
     {
@@ -617,6 +649,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"spike_003_ulti_explosion",
         "loopingEffect":null,
@@ -643,6 +676,7 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
+        "chainAreaEffect":null,
         "id":33
     },
     {
@@ -655,6 +689,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"barley_def_atk",
         "loopingEffect":null,
@@ -681,6 +716,7 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
+        "chainAreaEffect":null,
         "id":34
     },
     {
@@ -693,6 +729,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"barley_def_ulti",
         "loopingEffect":null,
@@ -719,6 +756,7 @@
         "sameAreaEffectCanNotDamageMs":1000,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
+        "chainAreaEffect":null,
         "id":35
     },
     {
@@ -731,6 +769,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"barley_002_atk",
         "loopingEffect":null,
@@ -757,6 +796,7 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
+        "chainAreaEffect":null,
         "id":36
     },
     {
@@ -769,6 +809,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"barley_002_ulti",
         "loopingEffect":null,
@@ -795,6 +836,7 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
+        "chainAreaEffect":null,
         "id":37
     },
     {
@@ -807,6 +849,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"barley_004_atk",
         "loopingEffect":null,
@@ -833,6 +876,7 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
+        "chainAreaEffect":null,
         "id":38
     },
     {
@@ -845,6 +889,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"barley_004_ulti",
         "loopingEffect":null,
@@ -871,6 +916,7 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
+        "chainAreaEffect":null,
         "id":39
     },
     {
@@ -883,6 +929,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"barley_005_atk",
         "loopingEffect":null,
@@ -909,6 +956,7 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
+        "chainAreaEffect":null,
         "id":40
     },
     {
@@ -921,6 +969,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"barley_005_ulti",
         "loopingEffect":null,
@@ -947,6 +996,7 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
+        "chainAreaEffect":null,
         "id":41
     },
     {
@@ -959,6 +1009,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"bo_def_ulti1_explosion",
         "loopingEffect":null,
@@ -985,6 +1036,7 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
+        "chainAreaEffect":null,
         "id":42
     },
     {
@@ -997,6 +1049,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"bo_def_ulti2_explosion",
         "loopingEffect":null,
@@ -1023,6 +1076,7 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
+        "chainAreaEffect":null,
         "id":43
     },
     {
@@ -1035,6 +1089,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"bo_003_atk_explosion",
         "loopingEffect":null,
@@ -1061,6 +1116,7 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
+        "chainAreaEffect":null,
         "id":44
     },
     {
@@ -1073,6 +1129,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"bo_003_ulti1_explosion",
         "loopingEffect":null,
@@ -1099,6 +1156,7 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
+        "chainAreaEffect":null,
         "id":45
     },
     {
@@ -1111,6 +1169,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"explosion_barkeep",
         "loopingEffect":null,
@@ -1137,6 +1196,7 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
+        "chainAreaEffect":null,
         "id":46
     },
     {
@@ -1149,6 +1209,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"explosion_barkeep_wizard",
         "loopingEffect":null,
@@ -1175,6 +1236,7 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
+        "chainAreaEffect":null,
         "id":47
     },
     {
@@ -1187,6 +1249,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"explosion_barkeep_ulti",
         "loopingEffect":null,
@@ -1213,6 +1276,7 @@
         "sameAreaEffectCanNotDamageMs":1000,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
+        "chainAreaEffect":null,
         "id":48
     },
     {
@@ -1225,6 +1289,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"explosion_ulti_barkeep_wizard",
         "loopingEffect":null,
@@ -1251,6 +1316,7 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
+        "chainAreaEffect":null,
         "id":49
     },
     {
@@ -1263,6 +1329,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"explosion_600",
         "loopingEffect":null,
@@ -1289,6 +1356,7 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
+        "chainAreaEffect":null,
         "id":50
     },
     {
@@ -1301,6 +1369,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"explosion_800",
         "loopingEffect":null,
@@ -1327,6 +1396,7 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
+        "chainAreaEffect":null,
         "id":51
     },
     {
@@ -1339,6 +1409,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"explosion_tnt_dude",
         "loopingEffect":null,
@@ -1365,6 +1436,7 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
+        "chainAreaEffect":null,
         "id":52
     },
     {
@@ -1377,6 +1449,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"explosion_tnt_dude_ulti",
         "loopingEffect":null,
@@ -1403,6 +1476,7 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
+        "chainAreaEffect":null,
         "id":53
     },
     {
@@ -1415,6 +1489,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"dynamike_005_ulti_explosion",
         "loopingEffect":null,
@@ -1441,6 +1516,7 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
+        "chainAreaEffect":null,
         "id":54
     },
     {
@@ -1453,6 +1529,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"explosion_bow_dude",
         "loopingEffect":null,
@@ -1479,6 +1556,7 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
+        "chainAreaEffect":null,
         "id":55
     },
     {
@@ -1491,6 +1569,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":null,
         "loopingEffect":null,
@@ -1517,6 +1596,7 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
+        "chainAreaEffect":null,
         "id":56
     },
     {
@@ -1529,6 +1609,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"pam_def_ulti_area_active",
         "loopingEffect":"pam_def_ulti_area_loop",
@@ -1555,6 +1636,7 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
+        "chainAreaEffect":null,
         "id":57
     },
     {
@@ -1567,6 +1649,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":null,
         "loopingEffect":null,
@@ -1593,6 +1676,7 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
+        "chainAreaEffect":null,
         "id":58
     },
     {
@@ -1605,6 +1689,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"explosion_600",
         "loopingEffect":null,
@@ -1631,6 +1716,7 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
+        "chainAreaEffect":null,
         "id":59
     },
     {
@@ -1643,6 +1729,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"explosion_600",
         "loopingEffect":null,
@@ -1669,6 +1756,7 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
+        "chainAreaEffect":null,
         "id":60
     },
     {
@@ -1681,6 +1769,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"blackhole_ulti_damage",
         "loopingEffect":null,
@@ -1707,6 +1796,7 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
+        "chainAreaEffect":null,
         "id":61
     },
     {
@@ -1719,6 +1809,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"blackhole_ulti_suck",
         "loopingEffect":null,
@@ -1745,6 +1836,7 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
+        "chainAreaEffect":null,
         "id":62
     },
     {
@@ -1757,6 +1849,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"penny_def_turret_explosion",
         "loopingEffect":null,
@@ -1783,6 +1876,7 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
+        "chainAreaEffect":null,
         "id":63
     },
     {
@@ -1795,6 +1889,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"explosion_artillery_dude_turret",
         "loopingEffect":null,
@@ -1821,6 +1916,7 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
+        "chainAreaEffect":null,
         "id":64
     },
     {
@@ -1833,6 +1929,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":null,
         "loopingEffect":"pam_def_starPower",
@@ -1859,6 +1956,7 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
+        "chainAreaEffect":null,
         "id":65
     },
     {
@@ -1871,6 +1969,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"brock_def_starPower",
         "loopingEffect":null,
@@ -1897,6 +1996,7 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
+        "chainAreaEffect":null,
         "id":66
     },
     {
@@ -1909,6 +2009,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"powerup_indicator",
         "loopingEffect":null,
@@ -1935,6 +2036,7 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
+        "chainAreaEffect":null,
         "id":67
     },
     {
@@ -1947,6 +2049,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"boss_warning",
         "loopingEffect":null,
@@ -1973,6 +2076,7 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
+        "chainAreaEffect":null,
         "id":68
     },
     {
@@ -1985,6 +2089,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"meteor_area_explosion",
         "loopingEffect":null,
@@ -2011,6 +2116,7 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
+        "chainAreaEffect":null,
         "id":69
     },
     {
@@ -2023,6 +2129,7 @@
         "neutralExportName":null,
         "layer":"Above",
         "exportNameTop":"meteor_ball_animation",
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"meteor_warning",
         "loopingEffect":null,
@@ -2049,6 +2156,7 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
+        "chainAreaEffect":null,
         "id":70
     },
     {
@@ -2061,6 +2169,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"tick_def_atk1_explode",
         "loopingEffect":null,
@@ -2087,6 +2196,7 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
+        "chainAreaEffect":null,
         "id":71
     },
     {
@@ -2099,6 +2209,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"brock_def_ultiExp_blue",
         "loopingEffect":null,
@@ -2125,7 +2236,88 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
+        "chainAreaEffect":null,
         "id":72
+    },
+    {
+        "name":"Tick002Explosion",
+        "parentAreaEffectForSkin":"ClusterBombExplosion",
+        "fileName":"sc\/effects.sc",
+        "ownExportName":null,
+        "blueExportName":null,
+        "redExportName":null,
+        "neutralExportName":null,
+        "layer":"GroundHigh",
+        "exportNameTop":null,
+        "exportNameTopRed":null,
+        "exportNameObject":null,
+        "effect":"tick_def_atk1_explode",
+        "loopingEffect":null,
+        "allowEffectInterrupt":null,
+        "serverControlsFrame":null,
+        "scale":100,
+        "timeMs":700,
+        "radius":800,
+        "damage":null,
+        "customValue":3,
+        "type":"BulletExplosion",
+        "isPersonal":null,
+        "bulletExplosionBullet":null,
+        "bulletExplosionBulletDistance":6,
+        "bulletExplosionItem":"Tick002Mine",
+        "destroysEnvironment":null,
+        "pushbackStrength":null,
+        "pushbackStrengthSelf":null,
+        "pushbackDeadzone":null,
+        "canStopGrapple":null,
+        "freezeStrength":null,
+        "freezeTicks":null,
+        "shouldShowEvenIfOutsideScreen":null,
+        "sameAreaEffectCanNotDamageMs":null,
+        "dontShowToEnemy":null,
+        "requireLineOfSight":null,
+        "chainAreaEffect":null,
+        "id":73
+    },
+    {
+        "name":"Tick002Explosion2",
+        "parentAreaEffectForSkin":"ClusterBombExplosion2",
+        "fileName":"sc\/effects.sc",
+        "ownExportName":null,
+        "blueExportName":null,
+        "redExportName":null,
+        "neutralExportName":null,
+        "layer":"GroundHigh",
+        "exportNameTop":null,
+        "exportNameTopRed":null,
+        "exportNameObject":null,
+        "effect":"brock_def_ultiExp_blue",
+        "loopingEffect":null,
+        "allowEffectInterrupt":null,
+        "serverControlsFrame":null,
+        "scale":100,
+        "timeMs":700,
+        "radius":468,
+        "damage":99,
+        "customValue":null,
+        "type":"Damage",
+        "isPersonal":null,
+        "bulletExplosionBullet":null,
+        "bulletExplosionBulletDistance":null,
+        "bulletExplosionItem":null,
+        "destroysEnvironment":null,
+        "pushbackStrength":null,
+        "pushbackStrengthSelf":null,
+        "pushbackDeadzone":null,
+        "canStopGrapple":null,
+        "freezeStrength":null,
+        "freezeTicks":null,
+        "shouldShowEvenIfOutsideScreen":null,
+        "sameAreaEffectCanNotDamageMs":null,
+        "dontShowToEnemy":null,
+        "requireLineOfSight":null,
+        "chainAreaEffect":null,
+        "id":74
     },
     {
         "name":"Sandstorm",
@@ -2137,6 +2329,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"sandy_def_ulti_loop",
         "loopingEffect":null,
@@ -2163,7 +2356,8 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
-        "id":73
+        "chainAreaEffect":null,
+        "id":75
     },
     {
         "name":"EventHealing",
@@ -2175,6 +2369,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":null,
         "loopingEffect":"mushroom_heal",
@@ -2201,7 +2396,8 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
-        "id":74
+        "chainAreaEffect":null,
+        "id":76
     },
     {
         "name":"HealingSpawn",
@@ -2213,6 +2409,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"healing_spawn",
         "loopingEffect":null,
@@ -2239,7 +2436,8 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
-        "id":75
+        "chainAreaEffect":null,
+        "id":77
     },
     {
         "name":"RaidBossExplosion",
@@ -2251,6 +2449,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"raidboss_rocket_explosion",
         "loopingEffect":null,
@@ -2277,7 +2476,8 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
-        "id":76
+        "chainAreaEffect":null,
+        "id":78
     },
     {
         "name":"RaidBossExplosionSpawn",
@@ -2289,6 +2489,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"raidboss_rocket_warning",
         "loopingEffect":null,
@@ -2315,7 +2516,8 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
-        "id":77
+        "chainAreaEffect":null,
+        "id":79
     },
     {
         "name":"RaidBossRocketBurn",
@@ -2327,6 +2529,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"burning_ground_raid_boss",
         "loopingEffect":null,
@@ -2353,7 +2556,8 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
-        "id":78
+        "chainAreaEffect":null,
+        "id":80
     },
     {
         "name":"HeroSpawn",
@@ -2365,6 +2569,7 @@
         "neutralExportName":null,
         "layer":"Above",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"hero_spawn",
         "loopingEffect":null,
@@ -2391,7 +2596,8 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
-        "id":79
+        "chainAreaEffect":null,
+        "id":81
     },
     {
         "name":"AutoHeal",
@@ -2403,6 +2609,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":null,
         "loopingEffect":"heal_area_fx",
@@ -2429,7 +2636,8 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":true,
         "requireLineOfSight":null,
-        "id":80
+        "chainAreaEffect":null,
+        "id":82
     },
     {
         "name":"RoboWarsBoxSpawn",
@@ -2441,6 +2649,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":null,
         "loopingEffect":null,
@@ -2467,7 +2676,8 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
-        "id":81
+        "chainAreaEffect":null,
+        "id":83
     },
     {
         "name":"RoboWarsBaseExplosion",
@@ -2479,6 +2689,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"brock_def_explosion_blue",
         "loopingEffect":null,
@@ -2505,7 +2716,8 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
-        "id":82
+        "chainAreaEffect":null,
+        "id":84
     },
     {
         "name":"RoboWarsBaseAreaIndicator",
@@ -2517,6 +2729,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":null,
         "loopingEffect":null,
@@ -2543,7 +2756,8 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
-        "id":83
+        "chainAreaEffect":null,
+        "id":85
     },
     {
         "name":"ClusterBombPetExplosion",
@@ -2555,6 +2769,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"bo_def_ulti2_explosion",
         "loopingEffect":null,
@@ -2581,7 +2796,8 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
-        "id":84
+        "chainAreaEffect":null,
+        "id":86
     },
     {
         "name":"BurnUlti",
@@ -2593,6 +2809,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"barley_002_ulti",
         "loopingEffect":null,
@@ -2619,7 +2836,8 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
-        "id":85
+        "chainAreaEffect":null,
+        "id":87
     },
     {
         "name":"SpikeExplosionLowHealth",
@@ -2631,6 +2849,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":null,
         "loopingEffect":null,
@@ -2657,7 +2876,8 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
-        "id":86
+        "chainAreaEffect":null,
+        "id":88
     },
     {
         "name":"DamageBoost",
@@ -2669,6 +2889,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"arcade_def_ulti_area_active",
         "loopingEffect":"arcade_def_ulti_area_loop",
@@ -2695,7 +2916,8 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
-        "id":87
+        "chainAreaEffect":null,
+        "id":89
     },
     {
         "name":"DamageBoost_larger",
@@ -2707,6 +2929,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"arcade_def_ulti_areaBig_active",
         "loopingEffect":"arcade_def_ulti_areaBig_loop",
@@ -2733,7 +2956,8 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
-        "id":88
+        "chainAreaEffect":null,
+        "id":90
     },
     {
         "name":"BurnMainAttackWater",
@@ -2745,6 +2969,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"brock_004_starPower",
         "loopingEffect":null,
@@ -2771,7 +2996,8 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
-        "id":89
+        "chainAreaEffect":null,
+        "id":91
     },
     {
         "name":"MummyUltiArea",
@@ -2783,6 +3009,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"emz_def_ulti",
         "loopingEffect":null,
@@ -2809,82 +3036,7 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
-        "id":90
-    },
-    {
-        "name":"BossRaceBossRocketExplosion",
-        "parentAreaEffectForSkin":null,
-        "fileName":"sc\/effects.sc",
-        "ownExportName":"range450_blue",
-        "blueExportName":"range450_blue",
-        "redExportName":"range450_red",
-        "neutralExportName":null,
-        "layer":"GroundHigh",
-        "exportNameTop":null,
-        "exportNameObject":null,
-        "effect":"bossrace_rocket_explosion",
-        "loopingEffect":null,
-        "allowEffectInterrupt":null,
-        "serverControlsFrame":null,
-        "scale":185,
-        "timeMs":700,
-        "radius":1000,
-        "damage":2000,
-        "customValue":null,
-        "type":"Damage",
-        "isPersonal":null,
-        "bulletExplosionBullet":null,
-        "bulletExplosionBulletDistance":null,
-        "bulletExplosionItem":null,
-        "destroysEnvironment":true,
-        "pushbackStrength":150,
-        "pushbackStrengthSelf":250,
-        "pushbackDeadzone":null,
-        "canStopGrapple":null,
-        "freezeStrength":null,
-        "freezeTicks":null,
-        "shouldShowEvenIfOutsideScreen":null,
-        "sameAreaEffectCanNotDamageMs":null,
-        "dontShowToEnemy":null,
-        "requireLineOfSight":null,
-        "id":91
-    },
-    {
-        "name":"BossRaceBossRocketBurn",
-        "parentAreaEffectForSkin":null,
-        "fileName":"sc\/effects.sc",
-        "ownExportName":"brock_ground_fire_red",
-        "blueExportName":"brock_ground_fire_red",
-        "redExportName":"brock_ground_fire_red",
-        "neutralExportName":null,
-        "layer":"GroundHigh",
-        "exportNameTop":null,
-        "exportNameObject":null,
-        "effect":"burning_ground_raid_boss",
-        "loopingEffect":null,
-        "allowEffectInterrupt":null,
-        "serverControlsFrame":null,
-        "scale":100,
-        "timeMs":6900,
-        "radius":1000,
-        "damage":null,
-        "customValue":null,
-        "type":"Dot",
-        "isPersonal":null,
-        "bulletExplosionBullet":null,
-        "bulletExplosionBulletDistance":null,
-        "bulletExplosionItem":null,
-        "destroysEnvironment":null,
-        "pushbackStrength":null,
-        "pushbackStrengthSelf":null,
-        "pushbackDeadzone":null,
-        "canStopGrapple":null,
-        "freezeStrength":null,
-        "freezeTicks":null,
-        "shouldShowEvenIfOutsideScreen":true,
-        "sameAreaEffectCanNotDamageMs":null,
-        "dontShowToEnemy":null,
-        "requireLineOfSight":null,
+        "chainAreaEffect":null,
         "id":92
     },
     {
@@ -2897,6 +3049,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"max_def_ulti_active",
         "loopingEffect":null,
@@ -2923,45 +3076,8 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
+        "chainAreaEffect":null,
         "id":93
-    },
-    {
-        "name":"ReloadBoostPersonal",
-        "parentAreaEffectForSkin":null,
-        "fileName":"sc\/effects_brawler.sc",
-        "ownExportName":"fireball_ground",
-        "blueExportName":"fireball_ground",
-        "redExportName":"fireball_ground_red",
-        "neutralExportName":null,
-        "layer":"GroundHigh",
-        "exportNameTop":null,
-        "exportNameObject":null,
-        "effect":null,
-        "loopingEffect":null,
-        "allowEffectInterrupt":null,
-        "serverControlsFrame":null,
-        "scale":90,
-        "timeMs":600000,
-        "radius":900,
-        "damage":null,
-        "customValue":100,
-        "type":"ReloadBoostPersonal",
-        "isPersonal":true,
-        "bulletExplosionBullet":null,
-        "bulletExplosionBulletDistance":null,
-        "bulletExplosionItem":null,
-        "destroysEnvironment":null,
-        "pushbackStrength":null,
-        "pushbackStrengthSelf":null,
-        "pushbackDeadzone":null,
-        "canStopGrapple":null,
-        "freezeStrength":null,
-        "freezeTicks":null,
-        "shouldShowEvenIfOutsideScreen":null,
-        "sameAreaEffectCanNotDamageMs":null,
-        "dontShowToEnemy":null,
-        "requireLineOfSight":null,
-        "id":94
     },
     {
         "name":"CTFHomeBase",
@@ -2973,6 +3089,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":null,
         "loopingEffect":"mode_gift_aura",
@@ -2999,7 +3116,8 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
-        "id":95
+        "chainAreaEffect":null,
+        "id":94
     },
     {
         "name":"DrillerUltiArea",
@@ -3011,6 +3129,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"driller_def_ulti",
         "loopingEffect":null,
@@ -3037,7 +3156,8 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
-        "id":96
+        "chainAreaEffect":null,
+        "id":95
     },
     {
         "name":"DrillerDamageArea",
@@ -3049,6 +3169,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"driller_def_attack",
         "loopingEffect":null,
@@ -3075,6 +3196,47 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
+        "chainAreaEffect":null,
+        "id":96
+    },
+    {
+        "name":"Driller_002_atk",
+        "parentAreaEffectForSkin":"DrillerDamageArea",
+        "fileName":"sc\/effects.sc",
+        "ownExportName":null,
+        "blueExportName":null,
+        "redExportName":null,
+        "neutralExportName":null,
+        "layer":"GroundHigh",
+        "exportNameTop":null,
+        "exportNameTopRed":null,
+        "exportNameObject":null,
+        "effect":"driller_002_atk",
+        "loopingEffect":null,
+        "allowEffectInterrupt":null,
+        "serverControlsFrame":null,
+        "scale":100,
+        "timeMs":300,
+        "radius":1000,
+        "damage":1200,
+        "customValue":null,
+        "type":"Damage",
+        "isPersonal":null,
+        "bulletExplosionBullet":null,
+        "bulletExplosionBulletDistance":null,
+        "bulletExplosionItem":null,
+        "destroysEnvironment":null,
+        "pushbackStrength":null,
+        "pushbackStrengthSelf":null,
+        "pushbackDeadzone":null,
+        "canStopGrapple":null,
+        "freezeStrength":null,
+        "freezeTicks":null,
+        "shouldShowEvenIfOutsideScreen":null,
+        "sameAreaEffectCanNotDamageMs":null,
+        "dontShowToEnemy":null,
+        "requireLineOfSight":null,
+        "chainAreaEffect":null,
         "id":97
     },
     {
@@ -3087,6 +3249,7 @@
         "neutralExportName":"area_mode_koh",
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":null,
         "loopingEffect":null,
@@ -3113,6 +3276,7 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
+        "chainAreaEffect":null,
         "id":98
     },
     {
@@ -3125,6 +3289,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"mode_koh_capturing",
         "loopingEffect":null,
@@ -3151,6 +3316,7 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
+        "chainAreaEffect":null,
         "id":99
     },
     {
@@ -3163,6 +3329,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":null,
         "loopingEffect":null,
@@ -3189,7 +3356,48 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
+        "chainAreaEffect":null,
         "id":100
+    },
+    {
+        "name":"KingOfHillAreaComplete",
+        "parentAreaEffectForSkin":null,
+        "fileName":"sc\/effects_brawler.sc",
+        "ownExportName":null,
+        "blueExportName":null,
+        "redExportName":null,
+        "neutralExportName":null,
+        "layer":"GroundHigh",
+        "exportNameTop":null,
+        "exportNameTopRed":null,
+        "exportNameObject":null,
+        "effect":"mode_koh_captured",
+        "loopingEffect":"mode_koh_complete",
+        "allowEffectInterrupt":null,
+        "serverControlsFrame":null,
+        "scale":100,
+        "timeMs":600000,
+        "radius":1000,
+        "damage":null,
+        "customValue":null,
+        "type":"Effect",
+        "isPersonal":null,
+        "bulletExplosionBullet":null,
+        "bulletExplosionBulletDistance":null,
+        "bulletExplosionItem":null,
+        "destroysEnvironment":null,
+        "pushbackStrength":null,
+        "pushbackStrengthSelf":null,
+        "pushbackDeadzone":null,
+        "canStopGrapple":null,
+        "freezeStrength":null,
+        "freezeTicks":null,
+        "shouldShowEvenIfOutsideScreen":true,
+        "sameAreaEffectCanNotDamageMs":null,
+        "dontShowToEnemy":null,
+        "requireLineOfSight":null,
+        "chainAreaEffect":null,
+        "id":101
     },
     {
         "name":"Arcade002Ulti",
@@ -3201,6 +3409,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"arcade_def_ulti_area_active",
         "loopingEffect":"arcade_002_ulti_area_loop",
@@ -3227,7 +3436,8 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
-        "id":101
+        "chainAreaEffect":null,
+        "id":102
     },
     {
         "name":"Arcade002Ulti_larger",
@@ -3239,6 +3449,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"arcade_def_ulti_areaBig_active",
         "loopingEffect":"arcade_002_ulti_areaBig_loop",
@@ -3265,7 +3476,8 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
-        "id":102
+        "chainAreaEffect":null,
+        "id":103
     },
     {
         "name":"DrillerUltiShield",
@@ -3277,6 +3489,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":null,
         "loopingEffect":null,
@@ -3303,7 +3516,8 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
-        "id":103
+        "chainAreaEffect":null,
+        "id":104
     },
     {
         "name":"WallyUltiArea",
@@ -3315,6 +3529,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"sprout_def_ulti_explosion",
         "loopingEffect":null,
@@ -3341,7 +3556,8 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
-        "id":104
+        "chainAreaEffect":null,
+        "id":105
     },
     {
         "name":"WallyExplosion",
@@ -3353,6 +3569,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"sprout_def_atk2_explosion",
         "loopingEffect":null,
@@ -3379,7 +3596,8 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
-        "id":105
+        "chainAreaEffect":null,
+        "id":106
     },
     {
         "name":"BushGrowArea",
@@ -3391,6 +3609,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"gadget_rosa_growbush",
         "loopingEffect":null,
@@ -3417,7 +3636,8 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
-        "id":106
+        "chainAreaEffect":null,
+        "id":107
     },
     {
         "name":"RocketJumpExplosion",
@@ -3429,6 +3649,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"explosion_tnt_dude_ulti",
         "loopingEffect":null,
@@ -3455,7 +3676,8 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
-        "id":107
+        "chainAreaEffect":null,
+        "id":108
     },
     {
         "name":"TrickshotDudeAccessoryExplosion",
@@ -3467,6 +3689,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":null,
         "loopingEffect":null,
@@ -3493,7 +3716,8 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
-        "id":108
+        "chainAreaEffect":null,
+        "id":109
     },
     {
         "name":"CactusAccessoryExplosion",
@@ -3505,6 +3729,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":null,
         "loopingEffect":null,
@@ -3531,7 +3756,8 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
-        "id":109
+        "chainAreaEffect":null,
+        "id":110
     },
     {
         "name":"ArtilleryDudeAccessoryExplosion",
@@ -3543,6 +3769,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"explosion_tnt_dude_ulti",
         "loopingEffect":null,
@@ -3569,7 +3796,8 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
-        "id":110
+        "chainAreaEffect":null,
+        "id":111
     },
     {
         "name":"ShamanBearSlam",
@@ -3581,6 +3809,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"gadget_nita_petslam",
         "loopingEffect":null,
@@ -3607,7 +3836,8 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
-        "id":111
+        "chainAreaEffect":null,
+        "id":112
     },
     {
         "name":"BarkeepSlowPuddle",
@@ -3619,6 +3849,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"gadget_barley_slow",
         "loopingEffect":null,
@@ -3645,7 +3876,8 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
-        "id":112
+        "chainAreaEffect":null,
+        "id":113
     },
     {
         "name":"MechanicSlowArea",
@@ -3657,6 +3889,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"gadget_jessie_spark",
         "loopingEffect":null,
@@ -3683,7 +3916,8 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
-        "id":113
+        "chainAreaEffect":null,
+        "id":114
     },
     {
         "name":"HookDudePushback",
@@ -3695,6 +3929,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"gadget_gene_push",
         "loopingEffect":null,
@@ -3721,7 +3956,8 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
-        "id":114
+        "chainAreaEffect":null,
+        "id":115
     },
     {
         "name":"ClusterBombDashMine",
@@ -3733,6 +3969,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"tick_def_atk1_explode",
         "loopingEffect":null,
@@ -3759,7 +3996,8 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
-        "id":115
+        "chainAreaEffect":null,
+        "id":116
     },
     {
         "name":"MinigunDudeTowerBurstHeal",
@@ -3771,6 +4009,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"gadget_pam_healburst",
         "loopingEffect":null,
@@ -3797,7 +4036,8 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
-        "id":116
+        "chainAreaEffect":null,
+        "id":117
     },
     {
         "name":"WhirlwindTrail",
@@ -3809,6 +4049,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"gadget_carl_hottrail",
         "loopingEffect":null,
@@ -3835,7 +4076,8 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
-        "id":117
+        "chainAreaEffect":null,
+        "id":118
     },
     {
         "name":"MummyAccessoryPushback",
@@ -3847,14 +4089,15 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"gadget_emz_push",
         "loopingEffect":null,
         "allowEffectInterrupt":null,
         "serverControlsFrame":null,
-        "scale":235,
+        "scale":100,
         "timeMs":700,
-        "radius":1200,
+        "radius":800,
         "damage":500,
         "customValue":null,
         "type":"Damage",
@@ -3863,7 +4106,7 @@
         "bulletExplosionBulletDistance":null,
         "bulletExplosionItem":null,
         "destroysEnvironment":null,
-        "pushbackStrength":150,
+        "pushbackStrength":100,
         "pushbackStrengthSelf":null,
         "pushbackDeadzone":null,
         "canStopGrapple":null,
@@ -3873,7 +4116,8 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
-        "id":118
+        "chainAreaEffect":null,
+        "id":119
     },
     {
         "name":"PocoRegenArea",
@@ -3885,6 +4129,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"gadget_poco_heal",
         "loopingEffect":null,
@@ -3911,7 +4156,8 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
-        "id":119
+        "chainAreaEffect":null,
+        "id":120
     },
     {
         "name":"UndertakerSwingDamage",
@@ -3923,6 +4169,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"gadget_mortis_shovel",
         "loopingEffect":null,
@@ -3949,7 +4196,8 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":true,
-        "id":120
+        "chainAreaEffect":null,
+        "id":121
     },
     {
         "name":"BeeSniperSlowArea",
@@ -3961,6 +4209,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":null,
         "loopingEffect":"gadget_bea_honeypot",
@@ -3987,7 +4236,8 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
-        "id":121
+        "chainAreaEffect":null,
+        "id":122
     },
     {
         "name":"BowDudeSuperChargeArea",
@@ -3999,6 +4249,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":null,
         "loopingEffect":"gadget_bo_totem",
@@ -4025,7 +4276,8 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
-        "id":122
+        "chainAreaEffect":null,
+        "id":123
     },
     {
         "name":"DrillerReflectArea",
@@ -4037,6 +4289,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"driller_def_sp1",
         "loopingEffect":null,
@@ -4063,7 +4316,8 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
-        "id":123
+        "chainAreaEffect":null,
+        "id":124
     },
     {
         "name":"WallyExplosionBig",
@@ -4075,6 +4329,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"sprout_def_sp1_explosion",
         "loopingEffect":null,
@@ -4101,7 +4356,8 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
-        "id":124
+        "chainAreaEffect":null,
+        "id":125
     },
     {
         "name":"ArcadeTeleport",
@@ -4113,6 +4369,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"gadget_arcade_teleport",
         "loopingEffect":null,
@@ -4139,7 +4396,8 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
-        "id":125
+        "chainAreaEffect":null,
+        "id":126
     },
     {
         "name":"ControllerUltiExplosion",
@@ -4151,6 +4409,7 @@
         "neutralExportName":null,
         "layer":"GroundHigh",
         "exportNameTop":null,
+        "exportNameTopRed":null,
         "exportNameObject":null,
         "effect":"explosion_tnt_dude_ulti",
         "loopingEffect":null,
@@ -4177,6 +4436,247 @@
         "sameAreaEffectCanNotDamageMs":null,
         "dontShowToEnemy":null,
         "requireLineOfSight":null,
-        "id":126
+        "chainAreaEffect":null,
+        "id":127
+    },
+    {
+        "name":"BossTownCrushAoEArea",
+        "parentAreaEffectForSkin":null,
+        "fileName":"sc\/effects_brawler.sc",
+        "ownExportName":null,
+        "blueExportName":null,
+        "redExportName":null,
+        "neutralExportName":null,
+        "layer":"GroundHigh",
+        "exportNameTop":null,
+        "exportNameTopRed":null,
+        "exportNameObject":null,
+        "effect":"boss_tc_attack_area",
+        "loopingEffect":null,
+        "allowEffectInterrupt":null,
+        "serverControlsFrame":null,
+        "scale":100,
+        "timeMs":500,
+        "radius":1000,
+        "damage":1200,
+        "customValue":40,
+        "type":"Stun",
+        "isPersonal":null,
+        "bulletExplosionBullet":null,
+        "bulletExplosionBulletDistance":null,
+        "bulletExplosionItem":null,
+        "destroysEnvironment":null,
+        "pushbackStrength":null,
+        "pushbackStrengthSelf":null,
+        "pushbackDeadzone":null,
+        "canStopGrapple":null,
+        "freezeStrength":null,
+        "freezeTicks":null,
+        "shouldShowEvenIfOutsideScreen":null,
+        "sameAreaEffectCanNotDamageMs":null,
+        "dontShowToEnemy":null,
+        "requireLineOfSight":null,
+        "chainAreaEffect":null,
+        "id":128
+    },
+    {
+        "name":"BossRaceBossRocketExplosion",
+        "parentAreaEffectForSkin":null,
+        "fileName":"sc\/effects.sc",
+        "ownExportName":"range450_blue",
+        "blueExportName":"range450_blue",
+        "redExportName":"range450_red",
+        "neutralExportName":null,
+        "layer":"GroundHigh",
+        "exportNameTop":null,
+        "exportNameTopRed":null,
+        "exportNameObject":null,
+        "effect":"raidboss_rocket_explosion",
+        "loopingEffect":null,
+        "allowEffectInterrupt":null,
+        "serverControlsFrame":null,
+        "scale":185,
+        "timeMs":700,
+        "radius":1000,
+        "damage":2000,
+        "customValue":null,
+        "type":"Damage",
+        "isPersonal":null,
+        "bulletExplosionBullet":null,
+        "bulletExplosionBulletDistance":null,
+        "bulletExplosionItem":null,
+        "destroysEnvironment":true,
+        "pushbackStrength":150,
+        "pushbackStrengthSelf":250,
+        "pushbackDeadzone":null,
+        "canStopGrapple":null,
+        "freezeStrength":null,
+        "freezeTicks":null,
+        "shouldShowEvenIfOutsideScreen":null,
+        "sameAreaEffectCanNotDamageMs":null,
+        "dontShowToEnemy":null,
+        "requireLineOfSight":null,
+        "chainAreaEffect":null,
+        "id":129
+    },
+    {
+        "name":"BossRaceBossRocketBurn",
+        "parentAreaEffectForSkin":null,
+        "fileName":"sc\/effects.sc",
+        "ownExportName":"brock_ground_fire_red",
+        "blueExportName":"brock_ground_fire_red",
+        "redExportName":"brock_ground_fire_red",
+        "neutralExportName":null,
+        "layer":"GroundHigh",
+        "exportNameTop":null,
+        "exportNameTopRed":null,
+        "exportNameObject":null,
+        "effect":"burning_ground_raid_boss",
+        "loopingEffect":null,
+        "allowEffectInterrupt":null,
+        "serverControlsFrame":null,
+        "scale":100,
+        "timeMs":6900,
+        "radius":1000,
+        "damage":null,
+        "customValue":null,
+        "type":"Dot",
+        "isPersonal":null,
+        "bulletExplosionBullet":null,
+        "bulletExplosionBulletDistance":null,
+        "bulletExplosionItem":null,
+        "destroysEnvironment":null,
+        "pushbackStrength":null,
+        "pushbackStrengthSelf":null,
+        "pushbackDeadzone":null,
+        "canStopGrapple":null,
+        "freezeStrength":null,
+        "freezeTicks":null,
+        "shouldShowEvenIfOutsideScreen":true,
+        "sameAreaEffectCanNotDamageMs":null,
+        "dontShowToEnemy":null,
+        "requireLineOfSight":null,
+        "chainAreaEffect":null,
+        "id":130
+    },
+    {
+        "name":"LuchadorMeteorSpawn",
+        "parentAreaEffectForSkin":null,
+        "fileName":"sc\/effects_brawler.sc",
+        "ownExportName":"gadget_primo_meteor_target",
+        "blueExportName":"gadget_primo_meteor_target",
+        "redExportName":"gadget_primo_meteor_target_red",
+        "neutralExportName":null,
+        "layer":"GroundHigh",
+        "exportNameTop":"gadget_primo_meteor",
+        "exportNameTopRed":"gadget_primo_meteor_red",
+        "exportNameObject":null,
+        "effect":"meteor_warning",
+        "loopingEffect":null,
+        "allowEffectInterrupt":null,
+        "serverControlsFrame":null,
+        "scale":95,
+        "timeMs":2500,
+        "radius":800,
+        "damage":null,
+        "customValue":null,
+        "type":"Effect",
+        "isPersonal":null,
+        "bulletExplosionBullet":null,
+        "bulletExplosionBulletDistance":null,
+        "bulletExplosionItem":null,
+        "destroysEnvironment":null,
+        "pushbackStrength":null,
+        "pushbackStrengthSelf":null,
+        "pushbackDeadzone":null,
+        "canStopGrapple":null,
+        "freezeStrength":null,
+        "freezeTicks":null,
+        "shouldShowEvenIfOutsideScreen":true,
+        "sameAreaEffectCanNotDamageMs":null,
+        "dontShowToEnemy":null,
+        "requireLineOfSight":null,
+        "chainAreaEffect":"LuchadorMeteorExplosion",
+        "id":131
+    },
+    {
+        "name":"LuchadorMeteorExplosion",
+        "parentAreaEffectForSkin":null,
+        "fileName":"sc\/effects.sc",
+        "ownExportName":null,
+        "blueExportName":null,
+        "redExportName":null,
+        "neutralExportName":null,
+        "layer":"GroundHigh",
+        "exportNameTop":null,
+        "exportNameTopRed":null,
+        "exportNameObject":null,
+        "effect":"gadget_primo_meteor",
+        "loopingEffect":null,
+        "allowEffectInterrupt":null,
+        "serverControlsFrame":null,
+        "scale":168,
+        "timeMs":700,
+        "radius":900,
+        "damage":2000,
+        "customValue":null,
+        "type":"Damage",
+        "isPersonal":null,
+        "bulletExplosionBullet":null,
+        "bulletExplosionBulletDistance":null,
+        "bulletExplosionItem":null,
+        "destroysEnvironment":true,
+        "pushbackStrength":150,
+        "pushbackStrengthSelf":250,
+        "pushbackDeadzone":null,
+        "canStopGrapple":null,
+        "freezeStrength":null,
+        "freezeTicks":null,
+        "shouldShowEvenIfOutsideScreen":null,
+        "sameAreaEffectCanNotDamageMs":null,
+        "dontShowToEnemy":null,
+        "requireLineOfSight":null,
+        "chainAreaEffect":null,
+        "id":132
+    },
+    {
+        "name":"BarkeepHealingArea",
+        "parentAreaEffectForSkin":null,
+        "fileName":"sc\/effects.sc",
+        "ownExportName":null,
+        "blueExportName":null,
+        "redExportName":null,
+        "neutralExportName":null,
+        "layer":"GroundHigh",
+        "exportNameTop":null,
+        "exportNameTopRed":null,
+        "exportNameObject":null,
+        "effect":"gadget_barley_heal",
+        "loopingEffect":null,
+        "allowEffectInterrupt":null,
+        "serverControlsFrame":null,
+        "scale":160,
+        "timeMs":4500,
+        "radius":800,
+        "damage":null,
+        "customValue":null,
+        "type":"Hot",
+        "isPersonal":null,
+        "bulletExplosionBullet":null,
+        "bulletExplosionBulletDistance":null,
+        "bulletExplosionItem":null,
+        "destroysEnvironment":null,
+        "pushbackStrength":null,
+        "pushbackStrengthSelf":null,
+        "pushbackDeadzone":null,
+        "canStopGrapple":null,
+        "freezeStrength":350,
+        "freezeTicks":21,
+        "shouldShowEvenIfOutsideScreen":null,
+        "sameAreaEffectCanNotDamageMs":1000,
+        "dontShowToEnemy":null,
+        "requireLineOfSight":null,
+        "chainAreaEffect":null,
+        "id":133
     }
 ]

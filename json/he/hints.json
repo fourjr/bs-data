@@ -7,6 +7,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_0"
     },
     {
@@ -17,6 +18,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_1"
     },
     {
@@ -27,6 +29,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_2"
     },
     {
@@ -37,6 +40,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_3"
     },
     {
@@ -47,16 +51,18 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_4"
     },
     {
         "name":6,
-        "tID":"\u05d4\u05ea\u05d0\u05de\u05d5\u05ea \u05e9\u05d7\u05e7\u05df \u05de\u05d1\u05d5\u05e1\u05e1\u05d5\u05ea \u05e2\u05dc \u05d4\u05d2\u05d1\u05d9\u05e2\u05d9\u05dd \u05e9\u05dc \u05d4\u05d1\u05e8\u05d0\u05d5\u05dc\u05e8 \u05e9\u05de\u05e9\u05d7\u05e7\u05d9\u05dd \u05d0\u05d9\u05ea\u05d5, \u05d5\u05db\u05da \u05e7\u05dc \u05d9\u05d5\u05ea\u05e8 \u05dc\u05d4\u05e8\u05d5\u05d5\u05d9\u05d7 \u05d2\u05d1\u05d9\u05e2\u05d9\u05dd \u05e2\u05dd \u05d1\u05e8\u05d0\u05d5\u05dc\u05e8 \u05e9\u05e4\u05ea\u05d7\u05ea \u05dc\u05d0\u05d7\u05e8\u05d5\u05e0\u05d4.",
+        "tID":"\u05d4\u05ea\u05d0\u05de\u05d5\u05ea \u05e9\u05d7\u05e7\u05df \u05de\u05d1\u05d5\u05e1\u05e1\u05d5\u05ea \u05e2\u05dc \u05d4\u05d2\u05d1\u05d9\u05e2\u05d9\u05dd \u05e9\u05dc \u05d4\u05d1\u05e8\u05d0\u05d5\u05dc\u05e8 \u05e9\u05de\u05e9\u05d7\u05e7\u05d9\u05dd \u05d0\u05d9\u05ea\u05d5 \u05d5\u05db\u05da \u05e7\u05dc \u05d9\u05d5\u05ea\u05e8 \u05dc\u05d4\u05e8\u05d5\u05d5\u05d9\u05d7 \u05d2\u05d1\u05d9\u05e2\u05d9\u05dd \u05e2\u05dd \u05d1\u05e8\u05d0\u05d5\u05dc\u05e8 \u05e9\u05e4\u05ea\u05d7\u05ea \u05dc\u05d0\u05d7\u05e8\u05d5\u05e0\u05d4.",
         "minXPLevel":3,
         "maxXPLevel":999,
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_5"
     },
     {
@@ -67,6 +73,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_6"
     },
     {
@@ -77,6 +84,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_7"
     },
     {
@@ -87,6 +95,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_8"
     },
     {
@@ -97,6 +106,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_9"
     },
     {
@@ -107,6 +117,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_10"
     },
     {
@@ -117,6 +128,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_11"
     },
     {
@@ -127,6 +139,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_12"
     },
     {
@@ -137,6 +150,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_13"
     },
     {
@@ -147,6 +161,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_14"
     },
     {
@@ -157,6 +172,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_15"
     },
     {
@@ -167,6 +183,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_16"
     },
     {
@@ -177,6 +194,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_17"
     },
     {
@@ -187,6 +205,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_18"
     },
     {
@@ -197,6 +216,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_19"
     },
     {
@@ -207,6 +227,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_20"
     },
     {
@@ -217,6 +238,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_21"
     },
     {
@@ -227,6 +249,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_22"
     },
     {
@@ -237,6 +260,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_23"
     },
     {
@@ -247,6 +271,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_24"
     },
     {
@@ -257,6 +282,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_25"
     },
     {
@@ -267,6 +293,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_26"
     },
     {
@@ -277,6 +304,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_27"
     },
     {
@@ -287,6 +315,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_28"
     },
     {
@@ -297,6 +326,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_29"
     },
     {
@@ -307,26 +337,29 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_30"
     },
     {
         "name":32,
-        "tID":"\u05e4\u05e8\u05e0\u05e7 \u05e2\u05d5\u05e6\u05e8 \u05db\u05d3\u05d9 \u05dc\u05d1\u05e6\u05e2 \u05d0\u05ea \u05d4\u05de\u05ea\u05e7\u05e4\u05d4 \u05d5\u05d0\u05ea \u05ea\u05db\u05d5\u05e0\u05ea \u05d4\u05e1\u05d5\u05e4\u05e8 \u05e9\u05dc\u05d5, \u05d5\u05db\u05da \u05de\u05d0\u05e4\u05e9\u05e8 \u05dc\u05d9\u05e8\u05d9\u05d1\u05d9\u05dd \u05dc\u05e6\u05d0\u05ea \u05de\u05d4\u05d8\u05d5\u05d5\u05d7 \u05e9\u05dc\u05d5.",
+        "tID":"\u05e4\u05e8\u05e0\u05e7 \u05e2\u05d5\u05e6\u05e8 \u05db\u05d3\u05d9 \u05dc\u05d1\u05e6\u05e2 \u05d0\u05ea \u05d4\u05de\u05ea\u05e7\u05e4\u05d4 \u05d5\u05d0\u05ea \u05ea\u05db\u05d5\u05e0\u05ea \u05d4\u05e1\u05d5\u05e4\u05e8 \u05e9\u05dc\u05d5 \u05d5\u05db\u05da \u05de\u05d0\u05e4\u05e9\u05e8 \u05dc\u05d9\u05e8\u05d9\u05d1\u05d9\u05dd \u05dc\u05e6\u05d0\u05ea \u05de\u05d4\u05d8\u05d5\u05d5\u05d7 \u05e9\u05dc\u05d5.",
         "minXPLevel":20,
         "maxXPLevel":999,
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_31"
     },
     {
         "name":33,
-        "tID":"\u05d0\u05d9\u05e8\u05d5\u05e2\u05d9\u05dd \u05de\u05d9\u05d5\u05d7\u05d3\u05d9\u05dd \u05dc\u05d0 \u05de\u05e2\u05e0\u05d9\u05e7\u05d9\u05dd \u05d2\u05d1\u05d9\u05e2\u05d9\u05dd. \u05e9\u05d7\u05e7 \u05d1\u05d4\u05dd \u05db\u05d3\u05d9 \u05dc\u05d6\u05db\u05d5\u05ea \u05d1\u05d8\u05d5\u05e7\u05e0\u05d9\u05dd \u05e2\u05d1\u05d5\u05e8 Brawl Pass.",
+        "tID":"\u05d0\u05d9\u05e8\u05d5\u05e2\u05d9\u05dd \u05de\u05d9\u05d5\u05d7\u05d3\u05d9\u05dd \u05dc\u05d0 \u05de\u05e2\u05e0\u05d9\u05e7\u05d9\u05dd \u05d2\u05d1\u05d9\u05e2\u05d9\u05dd. \u05e9\u05d7\u05e7\u05d5 \u05d1\u05d4\u05dd \u05db\u05d3\u05d9 \u05dc\u05d6\u05db\u05d5\u05ea \u05d1\u05d8\u05d5\u05e7\u05e0\u05d9\u05dd \u05e2\u05d1\u05d5\u05e8 Brawl Pass.",
         "minXPLevel":3,
         "maxXPLevel":60,
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_32"
     },
     {
@@ -337,6 +370,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_33"
     },
     {
@@ -347,6 +381,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_34"
     },
     {
@@ -357,6 +392,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_35"
     },
     {
@@ -367,6 +403,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_36"
     },
     {
@@ -377,6 +414,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_37"
     },
     {
@@ -387,6 +425,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_38"
     },
     {
@@ -397,6 +436,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_39"
     },
     {
@@ -407,6 +447,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":true,
         "rawTID":"HINT_40"
     },
     {
@@ -417,6 +458,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_41"
     },
     {
@@ -427,16 +469,18 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_42"
     },
     {
         "name":44,
-        "tID":"\u05db\u05e9\u05d4\u05de\u05db\u05d5\u05e9 \u05e9\u05dc \u05e7\u05d0\u05e8\u05dc \u05e4\u05d5\u05d2\u05e2 \u05d1\u05de\u05db\u05e9\u05d5\u05dc, \u05d4\u05d5\u05d0 \u05e0\u05d9\u05ea\u05d6 \u05de\u05de\u05e0\u05d5 \u05d5\u05d7\u05d5\u05d6\u05e8, \u05d5\u05db\u05da \u05e7\u05d0\u05e8\u05dc \u05d9\u05db\u05d5\u05dc \u05dc\u05d6\u05e8\u05d5\u05e7 \u05d0\u05d5\u05ea\u05d5 \u05e9\u05d5\u05d1 \u05de\u05d4\u05e8 \u05d9\u05d5\u05ea\u05e8.",
+        "tID":"\u05db\u05e9\u05d4\u05de\u05db\u05d5\u05e9 \u05e9\u05dc \u05e7\u05d0\u05e8\u05dc \u05e4\u05d5\u05d2\u05e2 \u05d1\u05de\u05db\u05e9\u05d5\u05dc, \u05d4\u05d5\u05d0 \u05e0\u05d9\u05ea\u05d6 \u05de\u05de\u05e0\u05d5 \u05d5\u05d7\u05d5\u05d6\u05e8 \u05d5\u05db\u05da \u05e7\u05d0\u05e8\u05dc \u05d9\u05db\u05d5\u05dc \u05dc\u05d6\u05e8\u05d5\u05e7 \u05d0\u05d5\u05ea\u05d5 \u05e9\u05d5\u05d1 \u05de\u05d4\u05e8 \u05d9\u05d5\u05ea\u05e8.",
         "minXPLevel":20,
         "maxXPLevel":999,
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_43"
     },
     {
@@ -447,6 +491,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_44"
     }
 ]

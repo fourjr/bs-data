@@ -1,6 +1,6 @@
 "Name","FileName","ExportName","ParticleFileName","ParticleExportName","ParticleStyle","ParticleVariations","ThemeMusic","UseInLevelSelection"
 "string","string","string","string","string","string","int","string","boolean"
-"Default","sc/background_basic.sc","bgr","sc/ui.sc",,,,"MenuMusic","true"
+"Default","sc/background_basic.sc","bgr","sc/ui.sc",,,,"Monsterbrawl_menu_muzak","true"
 "Winter","sc/background_basic.sc","bgr","sc/ui.sc","particle_snow_","Snow",2,"Snow_brawl","true"
 "LNY","sc/background_lny.sc","bgr_cny",,,,,"Cnymenu_music","true"
 "CR","sc/background_basic.sc","bgr_royale",,,,,"Brawl_royale_menu_music","true"
@@ -14,3 +14,4 @@
 "PSG","sc/background_psg.sc","bgr_psg","sc/ui.sc",,,,"Footbrawl_menu_muzak","true"
 "SC10","sc/background_s_anniversary.sc","bgr_s_anniversary",,,,,"10th_Anniversary_Menu","true"
 "Bazaar","sc/background_t_bazaar.sc","bgr_t_bazaar",,,,,"Brawzaar_menu_muzak","true"
+"Monsters","sc/background_scity.sc","bgr_scity",,,,,"Monsterbrawl_menu_muzak","true"

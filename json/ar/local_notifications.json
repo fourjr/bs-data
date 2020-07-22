@@ -197,7 +197,7 @@
     {
         "name":"KOHStart",
         "priority":5,
-        "notificationText":"\u062e\u0631\u064a\u0637\u0629 \u062c\u062f\u064a\u062f\u0629 \u0645\u0641\u062a\u0648\u062d\u0629 \u0627\u0644\u0622\u0646 \u0641\u064a \u0648\u0636\u0639 \u0627\u0644\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0633\u0627\u062e\u0646\u0629. \u062d\u0627\u0646 \u0648\u0642\u062a \u0631\u0628\u062d \u0645\u0643\u0627\u0641\u0622\u062a \u062c\u062f\u064a\u062f\u0629!",
+        "notificationText":"\u0647\u0646\u0627\u0643 \u062e\u0631\u064a\u0637\u0629 \u062c\u062f\u064a\u062f\u0629 \u0627\u0644\u0622\u0646 \u0641\u064a \u0648\u0636\u0639 \u0627\u0644\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0633\u0627\u062e\u0646\u0629. \u062d\u0627\u0646 \u0648\u0642\u062a \u0631\u0628\u062d \u0645\u0643\u0627\u0641\u0622\u062a \u062c\u062f\u064a\u062f\u0629!",
         "isRegularEventRefresh":true,
         "dontCompare":null,
         "autoAdd":null,
@@ -287,7 +287,7 @@
     {
         "name":"SeasonEnd",
         "priority":2000,
-        "notificationText":"\u0627\u0646\u062a\u0647\u0649 \u0627\u0644\u0645\u0648\u0633\u0645! \u0645\u0643\u0627\u0641\u0622\u062a \u0627\u0644\u0645\u0648\u0633\u0645 \u0628\u0627\u0646\u062a\u0638\u0627\u0631\u0643.",
+        "notificationText":"\u0627\u0646\u062a\u0647\u0649 \u062f\u0648\u0631\u064a \u0627\u0644\u0643\u0624\u0648\u0633. \u0627\u0644\u0645\u0643\u0627\u0641\u0622\u062a \u0628\u0627\u0646\u062a\u0638\u0627\u0631\u0643!",
         "isRegularEventRefresh":null,
         "dontCompare":null,
         "autoAdd":null,
@@ -418,14 +418,26 @@
     },
     {
         "name":"QuestBatch",
-        "priority":50000,
+        "priority":750,
         "notificationText":"\u0644\u062f\u064a\u0643 \u0645\u0647\u0627\u0645 \u062c\u062f\u064a\u062f\u0629!",
         "isRegularEventRefresh":null,
         "dontCompare":null,
         "autoAdd":null,
         "timeOffsetMins":null,
         "maxRandomTimeOffsetMins":30,
-        "checkRangeMins":null,
+        "checkRangeMins":60,
         "rawNotificationText":"NOTIFICATION_QUEST_REFRESH"
+    },
+    {
+        "name":"TownCrusherStart",
+        "priority":1000,
+        "notificationText":"\u0639\u0627\u062f \u0648\u0636\u0639 \u0642\u062a\u0627\u0644 \u0627\u0644\u0632\u0639\u0645\u0627\u0621. \u0647\u0644 \u0623\u0646\u062a \u0628\u062d\u062c\u0645 \u0627\u0644\u062a\u062d\u062f\u064a\u061f",
+        "isRegularEventRefresh":null,
+        "dontCompare":null,
+        "autoAdd":null,
+        "timeOffsetMins":60,
+        "maxRandomTimeOffsetMins":60,
+        "checkRangeMins":0,
+        "rawNotificationText":"NOTIFICATION_TOWN_CRUSHER"
     }
 ]

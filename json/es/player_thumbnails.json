@@ -687,5 +687,18 @@
         "id":80,
         "scId":28000052,
         "apiId":280000052
+    },
+    {
+        "name":"hero38",
+        "requiredExpLevel":0,
+        "requiredTotalTrophies":0,
+        "requiredSeasonPoints":null,
+        "requiredHero":"PowerLeveler",
+        "iconSWF":"sc\/ui.sc",
+        "iconExportName":"player_icon_surge",
+        "sortOrder":702,
+        "id":81,
+        "scId":28000053,
+        "apiId":280000053
     }
 ]

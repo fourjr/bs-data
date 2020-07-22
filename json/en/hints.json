@@ -7,6 +7,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_0"
     },
     {
@@ -17,6 +18,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_1"
     },
     {
@@ -27,6 +29,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_2"
     },
     {
@@ -37,6 +40,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_3"
     },
     {
@@ -47,6 +51,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_4"
     },
     {
@@ -57,6 +62,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_5"
     },
     {
@@ -67,6 +73,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_6"
     },
     {
@@ -77,6 +84,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_7"
     },
     {
@@ -87,6 +95,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_8"
     },
     {
@@ -97,6 +106,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_9"
     },
     {
@@ -107,6 +117,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_10"
     },
     {
@@ -117,6 +128,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_11"
     },
     {
@@ -127,6 +139,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_12"
     },
     {
@@ -137,6 +150,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_13"
     },
     {
@@ -147,6 +161,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_14"
     },
     {
@@ -157,6 +172,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_15"
     },
     {
@@ -167,6 +183,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_16"
     },
     {
@@ -177,6 +194,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_17"
     },
     {
@@ -187,6 +205,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_18"
     },
     {
@@ -197,6 +216,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_19"
     },
     {
@@ -207,6 +227,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_20"
     },
     {
@@ -217,6 +238,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_21"
     },
     {
@@ -227,6 +249,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_22"
     },
     {
@@ -237,6 +260,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_23"
     },
     {
@@ -247,6 +271,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_24"
     },
     {
@@ -257,6 +282,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_25"
     },
     {
@@ -267,6 +293,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_26"
     },
     {
@@ -277,6 +304,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_27"
     },
     {
@@ -287,6 +315,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_28"
     },
     {
@@ -297,6 +326,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_29"
     },
     {
@@ -307,6 +337,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_30"
     },
     {
@@ -317,6 +348,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_31"
     },
     {
@@ -327,6 +359,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_32"
     },
     {
@@ -337,6 +370,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_33"
     },
     {
@@ -347,6 +381,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_34"
     },
     {
@@ -357,6 +392,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_35"
     },
     {
@@ -367,6 +403,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_36"
     },
     {
@@ -377,6 +414,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_37"
     },
     {
@@ -387,6 +425,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_38"
     },
     {
@@ -397,6 +436,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_39"
     },
     {
@@ -407,6 +447,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":true,
         "rawTID":"HINT_40"
     },
     {
@@ -417,6 +458,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_41"
     },
     {
@@ -427,6 +469,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_42"
     },
     {
@@ -437,6 +480,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_43"
     },
     {
@@ -447,6 +491,7 @@
         "fileName":null,
         "exportName":null,
         "character":null,
+        "referringSCID":null,
         "rawTID":"HINT_44"
     }
 ]

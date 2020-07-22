@@ -22,10 +22,7 @@
             "HD1900",
             "HD1901"
         ],
-        "altStringArray":[
-            "Gem Grab",
-            "Heist"
-        ],
+        "altStringArray":null,
         "id":10
     },
     {
@@ -158,7 +155,6 @@
             "TR",
             "NO",
             "RU",
-            "0xffff4343",
             "GM1917"
         ],
         "altStringArray":null,
@@ -3326,10 +3322,20 @@
             "accounts.google.com",
             "video.qq.com",
             "v.qq.com",
-            "qualtrics.com"
+            "qualtrics.com",
+            "bilibili.com"
         ],
         "altStringArray":null,
         "id":338
+    },
+    {
+        "name":null,
+        "numberValue":null,
+        "booleanValue":null,
+        "textValue":null,
+        "numberArray":null,
+        "stringArray":null,
+        "altStringArray":null
     },
     {
         "name":null,
@@ -3375,7 +3381,7 @@
         "numberArray":null,
         "stringArray":null,
         "altStringArray":null,
-        "id":343
+        "id":344
     },
     {
         "name":"ENABLE_CHAT_REPORTING",
@@ -3385,7 +3391,7 @@
         "numberArray":null,
         "stringArray":null,
         "altStringArray":null,
-        "id":344
+        "id":345
     },
     {
         "name":"ENABLE_BAD_TEXT_CHECK",
@@ -3395,7 +3401,7 @@
         "numberArray":null,
         "stringArray":null,
         "altStringArray":null,
-        "id":345
+        "id":346
     },
     {
         "name":"CLAN_INVITE_TOKEN_ENABLED",
@@ -3405,7 +3411,7 @@
         "numberArray":null,
         "stringArray":null,
         "altStringArray":null,
-        "id":346
+        "id":347
     },
     {
         "name":"CLAN_INVITE_TOKEN_EXPIRE_TIME_SECONDS",
@@ -3415,7 +3421,7 @@
         "numberArray":null,
         "stringArray":null,
         "altStringArray":null,
-        "id":347
+        "id":348
     },
     {
         "name":"FRIEND_INVITE_TOKEN_ENABLED",
@@ -3425,7 +3431,7 @@
         "numberArray":null,
         "stringArray":null,
         "altStringArray":null,
-        "id":348
+        "id":349
     },
     {
         "name":"FRIEND_INVITE_TOKEN_EXPIRE_TIME_SECONDS",
@@ -3435,7 +3441,7 @@
         "numberArray":null,
         "stringArray":null,
         "altStringArray":null,
-        "id":349
+        "id":350
     },
     {
         "name":"TEAM_INVITE_DEEPLINK_ENABLED",
@@ -3445,17 +3451,17 @@
         "numberArray":null,
         "stringArray":null,
         "altStringArray":null,
-        "id":350
+        "id":351
     },
     {
         "name":"CN_STARTUP_WARNING",
         "numberValue":null,
         "booleanValue":null,
-        "textValue":"\u62b5\u5236\u4e0d\u826f\u6e38\u620f\uff0c\u62d2\u7edd\u76d7\u7248\u6e38\u620f\u3002\u6ce8\u610f\u81ea\u6211\u4fdd\u62a4\uff0c\u8c28\u9632\u53d7\u9a97\u4e0a\u5f53\u3002\u9002\u5ea6\u6e38\u620f\u76ca\u8111\uff0c\u6c89\u8ff7\u6e38\u620f\u4f24\u8eab\u3002\u5408\u7406\u5b89\u6392\u65f6\u95f4\uff0c\u4eab\u53d7\u5065\u5eb7\u751f\u6d3b\u3002",
+        "textValue":"\u672c\u7f51\u7edc\u6e38\u620f\u9002\u5408\u5e74\u6ee113\u5468\u5c81\u4ee5\u4e0a\u7684\u7528\u6237\u4f7f\u7528\uff1b\u4e3a\u4e86\u4f60\u7684\u5065\u5eb7\uff0c\u8bf7\u5408\u7406\u63a7\u5236\u6e38\u620f\u65f6\u95f4\u3002\u6caa\u7f51\u6587\u30102018\u30118544-517\u53f7 \u65b0\u51fa\u7f51\u8bc1\uff08\u6caa\uff09\u5b5733\u53f7 \u8457\u4f5c\u6743\u4eba\uff1a\u8d85\u7ea7\u7ec6\u80de\u6709\u9650\u516c\u53f8\uff08SUPERCELL OY\uff09\u51fa\u7248\u5355\u4f4d\uff1a\\n\u4e0a\u6d77\u6e38\u65cf\u4fe1\u606f\u6280\u672f\u6709\u9650\u516c\u53f8 \u56fd\u65b0\u51fa\u5ba1\u30102020\u3011552\u53f7 \u51fa\u7248\u7269\u53f7\uff1aISBN 978-7-498-07472-0\\n\u62b5\u5236\u4e0d\u826f\u6e38\u620f\uff0c\u62d2\u7edd\u76d7\u7248\u6e38\u620f\u3002\u6ce8\u610f\u81ea\u6211\u4fdd\u62a4\uff0c\u8c28\u9632\u53d7\u9a97\u4e0a\u5f53\u3002\\n\u9002\u5ea6\u6e38\u620f\u76ca\u8111\uff0c\u6c89\u8ff7\u6e38\u620f\u4f24\u8eab\u3002\u5408\u7406\u5b89\u6392\u65f6\u95f4\uff0c\u4eab\u53d7\u5065\u5eb7\u751f\u6d3b\u3002",
         "numberArray":null,
         "stringArray":null,
         "altStringArray":null,
-        "id":351
+        "id":352
     },
     {
         "name":"CHINA_REGULATIONS_ENABLED",
@@ -3465,7 +3471,7 @@
         "numberArray":null,
         "stringArray":null,
         "altStringArray":null,
-        "id":352
+        "id":353
     },
     {
         "name":"RARE_CHANCE",
@@ -3475,7 +3481,7 @@
         "numberArray":null,
         "stringArray":null,
         "altStringArray":null,
-        "id":353
+        "id":354
     },
     {
         "name":"SUPER_RARE_CHANCE",
@@ -3485,7 +3491,7 @@
         "numberArray":null,
         "stringArray":null,
         "altStringArray":null,
-        "id":354
+        "id":355
     },
     {
         "name":"EPIC_CHANCE",
@@ -3495,7 +3501,7 @@
         "numberArray":null,
         "stringArray":null,
         "altStringArray":null,
-        "id":355
+        "id":356
     },
     {
         "name":"MYTHIC_CHANCE",
@@ -3505,7 +3511,7 @@
         "numberArray":null,
         "stringArray":null,
         "altStringArray":null,
-        "id":356
+        "id":357
     },
     {
         "name":"LEGENDARY_CHANCE",
@@ -3515,7 +3521,7 @@
         "numberArray":null,
         "stringArray":null,
         "altStringArray":null,
-        "id":357
+        "id":358
     },
     {
         "name":"STAR_POWER_CHANCE",
@@ -3525,7 +3531,7 @@
         "numberArray":null,
         "stringArray":null,
         "altStringArray":null,
-        "id":358
+        "id":359
     },
     {
         "name":"ACCESSORY_CHANCE",
@@ -3535,7 +3541,7 @@
         "numberArray":null,
         "stringArray":null,
         "altStringArray":null,
-        "id":359
+        "id":360
     },
     {
         "name":"PP_CHANCE",
@@ -3545,7 +3551,7 @@
         "numberArray":null,
         "stringArray":null,
         "altStringArray":null,
-        "id":360
+        "id":361
     },
     {
         "name":"SPECTATE_ENABLED",
@@ -3555,7 +3561,7 @@
         "numberArray":null,
         "stringArray":null,
         "altStringArray":null,
-        "id":361
+        "id":362
     },
     {
         "name":"KAKAO_ENABLED",
@@ -3565,7 +3571,7 @@
         "numberArray":null,
         "stringArray":null,
         "altStringArray":null,
-        "id":362
+        "id":363
     },
     {
         "name":"LINE_ENABLED",
@@ -3575,7 +3581,7 @@
         "numberArray":null,
         "stringArray":null,
         "altStringArray":null,
-        "id":363
+        "id":364
     },
     {
         "name":"SELFHELP_ENABLED",
@@ -3585,7 +3591,7 @@
         "numberArray":null,
         "stringArray":null,
         "altStringArray":null,
-        "id":364
+        "id":365
     },
     {
         "name":"RETRY_LOGIN_DURING_MAINTENANCE",
@@ -3595,7 +3601,7 @@
         "numberArray":null,
         "stringArray":null,
         "altStringArray":null,
-        "id":365
+        "id":366
     },
     {
         "name":"NEW_HERO_CHANCE",
@@ -3605,7 +3611,7 @@
         "numberArray":null,
         "stringArray":null,
         "altStringArray":null,
-        "id":366
+        "id":367
     },
     {
         "name":"ONLINE_MENU_WAIT_BEFORE_UPDATE_SECS",
@@ -3615,7 +3621,7 @@
         "numberArray":null,
         "stringArray":null,
         "altStringArray":null,
-        "id":367
+        "id":368
     },
     {
         "name":"ONLINE_MENU_AUTO_CLOSE_TIME_SECS",
@@ -3625,7 +3631,7 @@
         "numberArray":null,
         "stringArray":null,
         "altStringArray":null,
-        "id":368
+        "id":369
     },
     {
         "name":"ONLINE_MENU_NEW_ITEM_THROTTLE_SECS",
@@ -3635,7 +3641,7 @@
         "numberArray":null,
         "stringArray":null,
         "altStringArray":null,
-        "id":369
+        "id":370
     },
     {
         "name":"AUTO_OPEN_TEAM_LOOT_BAR",
@@ -3645,179 +3651,7 @@
         "numberArray":null,
         "stringArray":null,
         "altStringArray":null,
-        "id":370
-    },
-    {
-        "name":"GAME_MODE_VARIATION_COLORS",
-        "numberValue":null,
-        "booleanValue":null,
-        "textValue":null,
-        "numberArray":[
-            0,
-            2,
-            3,
-            6,
-            5,
-            7,
-            8,
-            9,
-            10,
-            11,
-            14,
-            15,
-            16,
-            17
-        ],
-        "stringArray":[
-            "0xffd852ff",
-            "0xffd852ff",
-            "0xff24d6ff",
-            "0xff91e136",
-            "0xff9ab1fd",
-            "0xffff6847",
-            "0xffff6847",
-            "0xff91e136",
-            "0xffff6847",
-            "0xffff6847",
-            "0xff3891ff",
-            "0xffe24e5a",
-            "0xff27be47",
-            "0xffff4343"
-        ],
-        "altStringArray":[
-            "Gem Grab",
-            "Heist",
-            "Bounty",
-            "Solo SD",
-            "Brawl Ball",
-            "Boss Fight",
-            "Robo Bumble",
-            "Duo SD",
-            "Raid Boss",
-            "Robo Wars",
-            "Takedown",
-            "Lone Star",
-            "CTF",
-            "Hot Zone"
-        ],
         "id":371
-    },
-    {
-        "name":null,
-        "numberValue":null,
-        "booleanValue":null,
-        "textValue":null,
-        "numberArray":null,
-        "stringArray":null,
-        "altStringArray":null
-    },
-    {
-        "name":null,
-        "numberValue":null,
-        "booleanValue":null,
-        "textValue":null,
-        "numberArray":null,
-        "stringArray":null,
-        "altStringArray":null
-    },
-    {
-        "name":null,
-        "numberValue":null,
-        "booleanValue":null,
-        "textValue":null,
-        "numberArray":null,
-        "stringArray":null,
-        "altStringArray":null
-    },
-    {
-        "name":null,
-        "numberValue":null,
-        "booleanValue":null,
-        "textValue":null,
-        "numberArray":null,
-        "stringArray":null,
-        "altStringArray":null
-    },
-    {
-        "name":null,
-        "numberValue":null,
-        "booleanValue":null,
-        "textValue":null,
-        "numberArray":null,
-        "stringArray":null,
-        "altStringArray":null
-    },
-    {
-        "name":null,
-        "numberValue":null,
-        "booleanValue":null,
-        "textValue":null,
-        "numberArray":null,
-        "stringArray":null,
-        "altStringArray":null
-    },
-    {
-        "name":null,
-        "numberValue":null,
-        "booleanValue":null,
-        "textValue":null,
-        "numberArray":null,
-        "stringArray":null,
-        "altStringArray":null
-    },
-    {
-        "name":null,
-        "numberValue":null,
-        "booleanValue":null,
-        "textValue":null,
-        "numberArray":null,
-        "stringArray":null,
-        "altStringArray":null
-    },
-    {
-        "name":null,
-        "numberValue":null,
-        "booleanValue":null,
-        "textValue":null,
-        "numberArray":null,
-        "stringArray":null,
-        "altStringArray":null
-    },
-    {
-        "name":null,
-        "numberValue":null,
-        "booleanValue":null,
-        "textValue":null,
-        "numberArray":null,
-        "stringArray":null,
-        "altStringArray":null
-    },
-    {
-        "name":null,
-        "numberValue":null,
-        "booleanValue":null,
-        "textValue":null,
-        "numberArray":null,
-        "stringArray":null,
-        "altStringArray":null
-    },
-    {
-        "name":null,
-        "numberValue":null,
-        "booleanValue":null,
-        "textValue":null,
-        "numberArray":null,
-        "stringArray":null,
-        "altStringArray":null
-    },
-    {
-        "name":null,
-        "numberValue":null,
-        "booleanValue":null,
-        "textValue":null,
-        "numberArray":null,
-        "stringArray":null,
-        "altStringArray":null
     },
     {
         "name":"DEFAULT_FONT_COLORS",
@@ -3838,7 +3672,7 @@
             "0xfffe6a71"
         ],
         "altStringArray":null,
-        "id":385
+        "id":372
     },
     {
         "name":null,
@@ -3929,7 +3763,7 @@
         "numberArray":null,
         "stringArray":null,
         "altStringArray":null,
-        "id":395
+        "id":382
     },
     {
         "name":"BATTLE_FRAME_RATE",
@@ -4017,7 +3851,7 @@
             "IN2019"
         ],
         "altStringArray":null,
-        "id":396
+        "id":383
     },
     {
         "name":null,
@@ -4366,7 +4200,7 @@
         ],
         "stringArray":null,
         "altStringArray":null,
-        "id":434
+        "id":421
     },
     {
         "name":null,
@@ -4418,7 +4252,7 @@
         ],
         "stringArray":null,
         "altStringArray":null,
-        "id":439
+        "id":426
     },
     {
         "name":null,
@@ -4469,7 +4303,7 @@
         ],
         "stringArray":null,
         "altStringArray":null,
-        "id":444
+        "id":431
     },
     {
         "name":null,
@@ -4506,7 +4340,7 @@
         "numberArray":null,
         "stringArray":null,
         "altStringArray":null,
-        "id":448
+        "id":435
     },
     {
         "name":"RATING_DIALOG_XP_LEVELS",
@@ -4522,7 +4356,7 @@
         ],
         "stringArray":null,
         "altStringArray":null,
-        "id":449
+        "id":436
     },
     {
         "name":null,
@@ -4568,7 +4402,7 @@
         "numberArray":null,
         "stringArray":null,
         "altStringArray":null,
-        "id":454
+        "id":441
     },
     {
         "name":"BATTLE_EMOTE_VISIBLE_TIME_SECS",
@@ -4578,6 +4412,66 @@
         "numberArray":null,
         "stringArray":null,
         "altStringArray":null,
-        "id":455
+        "id":442
+    },
+    {
+        "name":"QQ_TARGET_URL",
+        "numberValue":null,
+        "booleanValue":null,
+        "textValue":"https:\/\/speed.gamecenter.qq.com\/pushgame\/v1\/detail?appid=1106576735&_wv=2164260896&_wwv=448&autodownload=1&autolaunch=1&autosubscribe=1&ADTAG=gameobj.<tag>",
+        "numberArray":null,
+        "stringArray":null,
+        "altStringArray":null,
+        "id":443
+    },
+    {
+        "name":"QQ_TARGET_URL_ANDROID",
+        "numberValue":null,
+        "booleanValue":null,
+        "textValue":"https:\/\/speed.gamecenter.qq.com\/pushgame\/v1\/detail?appid=1106576735&_wv=2164260896&_wwv=448&autodownload=1&autolaunch=1&autosubscribe=1&ADTAG=gameobj.<tag>",
+        "numberArray":null,
+        "stringArray":null,
+        "altStringArray":null,
+        "id":444
+    },
+    {
+        "name":"QQ_IMAGE_URL",
+        "numberValue":null,
+        "booleanValue":null,
+        "textValue":"http:\/\/imgcache.gtimg.cn\/ACT\/svip_act\/act_img\/public\/202006\/m1591079527_108x108_gaitubao_100x100.png",
+        "numberArray":null,
+        "stringArray":null,
+        "altStringArray":null,
+        "id":445
+    },
+    {
+        "name":"WECHAT_MEDIA_TAG",
+        "numberValue":null,
+        "booleanValue":null,
+        "textValue":"MSG_INVITE",
+        "numberArray":null,
+        "stringArray":null,
+        "altStringArray":null,
+        "id":446
+    },
+    {
+        "name":"WECHAT_IMAGE_PATH",
+        "numberValue":null,
+        "booleanValue":null,
+        "textValue":"image\/brawl_icon.png",
+        "numberArray":null,
+        "stringArray":null,
+        "altStringArray":null,
+        "id":447
+    },
+    {
+        "name":"YOOZOO_OPID_TO_OPSID",
+        "numberValue":null,
+        "booleanValue":null,
+        "textValue":null,
+        "numberArray":null,
+        "stringArray":2402,
+        "altStringArray":2208,
+        "id":448
     }
 ]

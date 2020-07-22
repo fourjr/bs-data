@@ -197,7 +197,7 @@
     {
         "name":"KOHStart",
         "priority":5,
-        "notificationText":"Dost\u0119pna jest gra w GOR\u0104C\u0104 STREF\u0118! Czas zdoby\u0107 nowe nagrody!",
+        "notificationText":"Dost\u0119pna jest nowa gra w GOR\u0104CE STREFY! Czas zdoby\u0107 nowe nagrody!",
         "isRegularEventRefresh":true,
         "dontCompare":null,
         "autoAdd":null,
@@ -287,7 +287,7 @@
     {
         "name":"SeasonEnd",
         "priority":2000,
-        "notificationText":"Koniec sezonu! Odbierz nagrody za sezon.",
+        "notificationText":"Koniec Ligi puchar\u00f3w. Odbierz nagrody!",
         "isRegularEventRefresh":null,
         "dontCompare":null,
         "autoAdd":null,
@@ -418,14 +418,26 @@
     },
     {
         "name":"QuestBatch",
-        "priority":50000,
+        "priority":750,
         "notificationText":"Masz dost\u0119pne nowe misje!",
         "isRegularEventRefresh":null,
         "dontCompare":null,
         "autoAdd":null,
         "timeOffsetMins":null,
         "maxRandomTimeOffsetMins":30,
-        "checkRangeMins":null,
+        "checkRangeMins":60,
         "rawNotificationText":"NOTIFICATION_QUEST_REFRESH"
+    },
+    {
+        "name":"TownCrusherStart",
+        "priority":1000,
+        "notificationText":"WALKA Z BOSSEM powraca! Jak daleko zajdziesz?",
+        "isRegularEventRefresh":null,
+        "dontCompare":null,
+        "autoAdd":null,
+        "timeOffsetMins":60,
+        "maxRandomTimeOffsetMins":60,
+        "checkRangeMins":0,
+        "rawNotificationText":"NOTIFICATION_TOWN_CRUSHER"
     }
 ]

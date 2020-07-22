@@ -7,7 +7,7 @@
         "particleExportName":null,
         "particleStyle":null,
         "particleVariations":null,
-        "themeMusic":"MenuMusic",
+        "themeMusic":"Monsterbrawl_menu_muzak",
         "useInLevelSelection":true
     },
     {
@@ -151,6 +151,17 @@
         "particleStyle":null,
         "particleVariations":null,
         "themeMusic":"Brawzaar_menu_muzak",
+        "useInLevelSelection":true
+    },
+    {
+        "name":"Monsters",
+        "fileName":"sc\/background_scity.sc",
+        "exportName":"bgr_scity",
+        "particleFileName":null,
+        "particleExportName":null,
+        "particleStyle":null,
+        "particleVariations":null,
+        "themeMusic":"Monsterbrawl_menu_muzak",
         "useInLevelSelection":true
     }
 ]

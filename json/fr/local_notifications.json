@@ -197,7 +197,7 @@
     {
         "name":"KOHStart",
         "priority":5,
-        "notificationText":"Nouvelle carte pour Zone r\u00e9serv\u00e9e. Vous pouvez gagner des r\u00e9compenses\u00a0!",
+        "notificationText":"Nouvelle carte pour zone r\u00e9serv\u00e9e. Vous pouvez gagner des r\u00e9compenses\u00a0!",
         "isRegularEventRefresh":true,
         "dontCompare":null,
         "autoAdd":null,
@@ -287,7 +287,7 @@
     {
         "name":"SeasonEnd",
         "priority":2000,
-        "notificationText":"La saison est termin\u00e9e. R\u00e9cup\u00e9rez vos r\u00e9compenses\u00a0!",
+        "notificationText":"La ligue de troph\u00e9es est termin\u00e9e. R\u00e9cup\u00e9rez vos r\u00e9compenses\u00a0!",
         "isRegularEventRefresh":null,
         "dontCompare":null,
         "autoAdd":null,
@@ -347,7 +347,7 @@
     {
         "name":"PPRefresh",
         "priority":500,
-        "notificationText":"Il y a <PARAM> carte disponible pour le marathon star.",
+        "notificationText":"Carte <PARAM> disponible pour le marathon star.",
         "isRegularEventRefresh":null,
         "dontCompare":null,
         "autoAdd":null,
@@ -418,14 +418,26 @@
     },
     {
         "name":"QuestBatch",
-        "priority":50000,
+        "priority":750,
         "notificationText":"De nouvelles qu\u00eates sont disponibles\u00a0!",
         "isRegularEventRefresh":null,
         "dontCompare":null,
         "autoAdd":null,
         "timeOffsetMins":null,
         "maxRandomTimeOffsetMins":30,
-        "checkRangeMins":null,
+        "checkRangeMins":60,
         "rawNotificationText":"NOTIFICATION_QUEST_REFRESH"
+    },
+    {
+        "name":"TownCrusherStart",
+        "priority":1000,
+        "notificationText":"C'est le retour de Combat de boss. Combien de temps tiendrez-vous\u00a0?",
+        "isRegularEventRefresh":null,
+        "dontCompare":null,
+        "autoAdd":null,
+        "timeOffsetMins":60,
+        "maxRandomTimeOffsetMins":60,
+        "checkRangeMins":0,
+        "rawNotificationText":"NOTIFICATION_TOWN_CRUSHER"
     }
 ]

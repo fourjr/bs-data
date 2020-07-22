@@ -546,6 +546,27 @@
         "id":43
     },
     {
+        "name":"Tick002Mine",
+        "parentItemForSkin":"ClusterMine",
+        "fileName":"sc\/effects_brawler.sc",
+        "exportName":"tick_002_atk2",
+        "exportNameEnemy":"tick_002_atk2_red",
+        "shadowExportName":"shadow_normal_circle",
+        "groundGlowExportName":null,
+        "loopingEffect":null,
+        "value":800,
+        "value2":2000,
+        "triggerRangeSubTiles":200,
+        "triggerAreaEffect":"ClusterBombExplosion2",
+        "canBePickedUp":true,
+        "spawnEffect":null,
+        "activateEffect":null,
+        "sCW":null,
+        "sCWEnemy":null,
+        "layer":"Above",
+        "id":44
+    },
+    {
         "name":"MineMecha",
         "parentItemForSkin":"Mine",
         "fileName":"sc\/effects_brawler.sc",
@@ -564,7 +585,7 @@
         "sCW":null,
         "sCWEnemy":null,
         "layer":"Above",
-        "id":44
+        "id":45
     },
     {
         "name":"ValentineBomb",
@@ -585,7 +606,7 @@
         "sCW":null,
         "sCWEnemy":null,
         "layer":"Above",
-        "id":45
+        "id":46
     },
     {
         "name":"MineHorus",
@@ -606,7 +627,7 @@
         "sCW":null,
         "sCWEnemy":null,
         "layer":"Above",
-        "id":46
+        "id":47
     },
     {
         "name":"ScorePole",
@@ -627,7 +648,7 @@
         "sCW":"sc3d\/flagpole.scw",
         "sCWEnemy":"sc3d\/flagpole.scw",
         "layer":"Above",
-        "id":47
+        "id":48
     },
     {
         "name":"ScoreFlag",
@@ -648,7 +669,7 @@
         "sCW":"sc3d\/flag_blue.scw",
         "sCWEnemy":"sc3d\/flag_red.scw",
         "layer":"Above",
-        "id":48
+        "id":49
     },
     {
         "name":"ScoreFlagHoisted",
@@ -669,6 +690,27 @@
         "sCW":"sc3d\/flag_blue_hoisted.scw",
         "sCWEnemy":"sc3d\/flag_red_hoisted.scw",
         "layer":"Above",
-        "id":49
+        "id":50
+    },
+    {
+        "name":"GroundFiller",
+        "parentItemForSkin":null,
+        "fileName":null,
+        "exportName":null,
+        "exportNameEnemy":null,
+        "shadowExportName":null,
+        "groundGlowExportName":null,
+        "loopingEffect":null,
+        "value":null,
+        "value2":null,
+        "triggerRangeSubTiles":3,
+        "triggerAreaEffect":null,
+        "canBePickedUp":true,
+        "spawnEffect":null,
+        "activateEffect":"car_explo",
+        "sCW":"sc3d\/minicity_parked_cars.scw",
+        "sCWEnemy":"sc3d\/minicity_parked_cars.scw",
+        "layer":"GroundLow",
+        "id":51
     }
 ]

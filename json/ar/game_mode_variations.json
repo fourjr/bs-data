@@ -17,6 +17,7 @@
         "introDescText2":null,
         "startNotification":"CoinRushStart",
         "endNotification":null,
+        "color":"0xffd852ff",
         "rawTID":"GAME_MODE_0",
         "rawIntroText":"GAME_MODE_0",
         "rawIntroDescText":"COIN_RUSH_INTRO_TEXT"
@@ -38,7 +39,8 @@
         "introDescText":null,
         "introDescText2":null,
         "startNotification":null,
-        "endNotification":null
+        "endNotification":null,
+        "color":null
     },
     {
         "name":"Heist",
@@ -58,6 +60,7 @@
         "introDescText2":"\u0627\u0641\u062a\u062d \u062e\u0632\u064a\u0646\u0629 \u0627\u0644\u0639\u062f\u0648 \u0628\u0637\u0644\u0642\u0627\u062a\u0643",
         "startNotification":"AttackDefendStart",
         "endNotification":null,
+        "color":"0xffd852ff",
         "rawTID":"GAME_MODE_2",
         "rawIntroText":"GAME_MODE_2",
         "rawIntroDescText":"ATTACK_DEFEND_INTRO_TEXT_ATTACK",
@@ -81,6 +84,7 @@
         "introDescText2":null,
         "startNotification":"BountyStart",
         "endNotification":null,
+        "color":"0xff24d6ff",
         "rawTID":"GAME_MODE_3",
         "rawIntroText":"GAME_MODE_3",
         "rawIntroDescText":"BOUNTY_HUNTER_INTRO_TEXT"
@@ -102,7 +106,8 @@
         "introDescText":null,
         "introDescText2":null,
         "startNotification":null,
-        "endNotification":null
+        "endNotification":null,
+        "color":null
     },
     {
         "name":"BrawlBall",
@@ -122,6 +127,7 @@
         "introDescText2":null,
         "startNotification":"LaserBallStart",
         "endNotification":null,
+        "color":"0xff9ab1fd",
         "rawTID":"GAME_MODE_5",
         "rawScoreText":"GOAL",
         "rawScoreTextEnd":"GOAL_MATCH_OVER",
@@ -146,6 +152,7 @@
         "introDescText2":null,
         "startNotification":"BRStart",
         "endNotification":null,
+        "color":"0xff91e136",
         "rawTID":"GAME_MODE_6",
         "rawIntroText":"GAME_MODE_6",
         "rawIntroDescText":"BATTLE_ROYALE_INTRO_TEXT"
@@ -168,6 +175,7 @@
         "introDescText2":"\u0623\u0646\u062a \u0627\u0644\u0632\u0639\u064a\u0645!",
         "startNotification":"BossStart",
         "endNotification":null,
+        "color":"0xffff6847",
         "rawTID":"GAME_MODE_7",
         "rawIntroText":"GAME_MODE_7",
         "rawIntroDescText":"BOSS_INTRO_TEXT_ATTACK",
@@ -191,6 +199,7 @@
         "introDescText2":null,
         "startNotification":"CoopStart",
         "endNotification":null,
+        "color":"0xffff6847",
         "rawTID":"GAME_MODE_8",
         "rawIntroText":"GAME_MODE_8",
         "rawIntroDescText":"COOP_INTRO_TEXT"
@@ -213,6 +222,7 @@
         "introDescText2":null,
         "startNotification":null,
         "endNotification":null,
+        "color":"0xff91e136",
         "rawTID":"GAME_MODE_9",
         "rawIntroText":"GAME_MODE_9",
         "rawIntroDescText":"BATTLE_ROYALE_TEAM_INTRO_TEXT"
@@ -235,6 +245,7 @@
         "introDescText2":null,
         "startNotification":"RaidBossStart",
         "endNotification":null,
+        "color":"0xffff6847",
         "rawTID":"GAME_MODE_10",
         "rawIntroText":"GAME_MODE_10",
         "rawIntroDescText":"RAID_BOSS_INTRO_TEXT"
@@ -257,6 +268,7 @@
         "introDescText2":null,
         "startNotification":"RoboWarsStart",
         "endNotification":null,
+        "color":"0xffff6847",
         "rawTID":"GAME_MODE_11",
         "rawIntroText":"GAME_MODE_11",
         "rawIntroDescText":"ROBO_WARS_INTRO_TEXT"
@@ -278,7 +290,8 @@
         "introDescText":null,
         "introDescText2":null,
         "startNotification":null,
-        "endNotification":null
+        "endNotification":null,
+        "color":null
     },
     {
         "name":"Training",
@@ -297,7 +310,8 @@
         "introDescText":null,
         "introDescText2":null,
         "startNotification":null,
-        "endNotification":null
+        "endNotification":null,
+        "color":null
     },
     {
         "name":"Takedown",
@@ -317,6 +331,7 @@
         "introDescText2":null,
         "startNotification":"TakedownStart",
         "endNotification":null,
+        "color":"0xff3891ff",
         "rawTID":"GAME_MODE_14",
         "rawIntroText":"GAME_MODE_14",
         "rawIntroDescText":"BOSS_RACE_INTRO_TEXT"
@@ -339,6 +354,7 @@
         "introDescText2":null,
         "startNotification":"LoneStarStart",
         "endNotification":null,
+        "color":"0xffe24e5a",
         "rawTID":"GAME_MODE_15",
         "rawIntroText":"GAME_MODE_15",
         "rawIntroDescText":"BOUNTY_HUNTER_INTRO_TEXT"
@@ -361,6 +377,7 @@
         "introDescText2":null,
         "startNotification":"CTFStart",
         "endNotification":null,
+        "color":"0xff27be47",
         "rawTID":"GAME_MODE_16",
         "rawScoreText":"CTF_GOAL",
         "rawScoreTextEnd":"CTF_GOAL_MATCH_OVER",
@@ -377,18 +394,42 @@
         "gameModeIconName":"event_icon_king_of_hill",
         "scoreSfx":null,
         "opponentScoreSfx":null,
-        "scoreText":"\u0631\u0641\u0639 <name> \u0631\u0627\u064a\u0629!",
-        "scoreTextEnd":"\u0631\u0641\u0639 <name> \u0631\u0627\u064a\u0629!\\n\u0627\u0646\u062a\u0647\u062a \u0627\u0644\u0645\u0648\u0627\u062c\u0647\u0629",
-        "friendlyMenuOrder":12,
+        "scoreText":"TID_FLAG_RAISE",
+        "scoreTextEnd":"TID_FLAG_RAISE_GAME_OVER",
+        "friendlyMenuOrder":13,
         "introText":"\u0627\u0644\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0633\u0627\u062e\u0646\u0629",
-        "introDescText":"\u0633\u064a\u0637\u0631 \u0639\u0644\u0649 \u0627\u0644\u0645\u0646\u0627\u0637\u0642!",
+        "introDescText":"\u0627\u0633\u062a\u062d\u0648\u0630 \u0639\u0644\u0649 \u0643\u0644 \u0627\u0644\u0645\u0646\u0627\u0637\u0642 \u0627\u0644\u0633\u0627\u062e\u0646\u0629!",
         "introDescText2":null,
         "startNotification":"KOHStart",
         "endNotification":null,
+        "color":"0xffff4343",
         "rawTID":"GAME_MODE_17",
         "rawScoreText":"FLAG_RAISE",
         "rawScoreTextEnd":"FLAG_RAISE_GAME_OVER",
         "rawIntroText":"GAME_MODE_17",
         "rawIntroDescText":"KING_OF_HILL_INTRO_TEXT"
+    },
+    {
+        "name":"BossFight_TownCrush",
+        "variation":18,
+        "disabled":null,
+        "tID":"\u062b\u0648\u0631\u0627\u0646 \u0627\u0644\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0639\u0638\u0645\u0649",
+        "chatSuggestionItemName":"chat_letsplay_rampage",
+        "gameModeRoomIconName":"event_gameroom_rampage",
+        "gameModeIconName":"event_icon_rampage",
+        "scoreSfx":null,
+        "opponentScoreSfx":null,
+        "scoreText":null,
+        "scoreTextEnd":null,
+        "friendlyMenuOrder":14,
+        "introText":"\u062b\u0648\u0631\u0627\u0646 \u0627\u0644\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0639\u0638\u0645\u0649",
+        "introDescText":"\u0627\u0647\u0632\u0645\u0648\u0627 \u0627\u0644\u0632\u0639\u064a\u0645",
+        "introDescText2":null,
+        "startNotification":"TownCrusherStart",
+        "endNotification":null,
+        "color":"0xffff6847",
+        "rawTID":"GAME_MODE_18",
+        "rawIntroText":"GAME_MODE_18",
+        "rawIntroDescText":"RAID_BOSS_INTRO_TEXT"
     }
 ]

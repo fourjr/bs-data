@@ -197,7 +197,7 @@
     {
         "name":"KOHStart",
         "priority":5,
-        "notificationText":"Peta ZON PANAS tersedia! Masa untuk memenangi ganjaran baharu!",
+        "notificationText":"Peta ZON PANAS baharu tersedia! Masa untuk memenangi ganjaran baharu!",
         "isRegularEventRefresh":true,
         "dontCompare":null,
         "autoAdd":null,
@@ -287,7 +287,7 @@
     {
         "name":"SeasonEnd",
         "priority":2000,
-        "notificationText":"Musim telah tamat! Ganjaran musim sedang menanti anda.",
+        "notificationText":"Liga Trofi telah tamat. Ganjaran sedang menanti anda!",
         "isRegularEventRefresh":null,
         "dontCompare":null,
         "autoAdd":null,
@@ -418,14 +418,26 @@
     },
     {
         "name":"QuestBatch",
-        "priority":50000,
+        "priority":750,
         "notificationText":"Anda mempunyai misi baharu!",
         "isRegularEventRefresh":null,
         "dontCompare":null,
         "autoAdd":null,
         "timeOffsetMins":null,
         "maxRandomTimeOffsetMins":30,
-        "checkRangeMins":null,
+        "checkRangeMins":60,
         "rawNotificationText":"NOTIFICATION_QUEST_REFRESH"
+    },
+    {
+        "name":"TownCrusherStart",
+        "priority":1000,
+        "notificationText":"PERTEMPURAN BOS kembali! Sejauh mana anda boleh capai?",
+        "isRegularEventRefresh":null,
+        "dontCompare":null,
+        "autoAdd":null,
+        "timeOffsetMins":60,
+        "maxRandomTimeOffsetMins":60,
+        "checkRangeMins":0,
+        "rawNotificationText":"NOTIFICATION_TOWN_CRUSHER"
     }
 ]

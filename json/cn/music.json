@@ -98,6 +98,57 @@
         "id":17
     },
     {
+        "name":"Monsterbrawl_menu_muzak",
+        "fileName":"music\/bm_menu_01.ogg",
+        "volume":60,
+        "loop":true,
+        "playCount":null,
+        "fadeOutTimeSec":null,
+        "durationSec":68,
+        "id":18
+    },
+    {
+        "name":"Monsterbrawl_ingame_muzak",
+        "fileName":[
+            "music\/bm_ingame_01.ogg",
+            "music\/big_brawl_battle_02.ogg"
+        ],
+        "volume":[
+            70,
+            70
+        ],
+        "loop":[
+            true,
+            true
+        ],
+        "playCount":null,
+        "fadeOutTimeSec":null,
+        "durationSec":[
+            70,
+            53
+        ],
+        "id":19
+    },
+    {
+        "name":null,
+        "fileName":null,
+        "volume":null,
+        "loop":null,
+        "playCount":null,
+        "fadeOutTimeSec":null,
+        "durationSec":null
+    },
+    {
+        "name":"Monsterbrawl_boss",
+        "fileName":"music\/brawlzilla_boss_01.ogg",
+        "volume":70,
+        "loop":true,
+        "playCount":null,
+        "fadeOutTimeSec":null,
+        "durationSec":48,
+        "id":21
+    },
+    {
         "name":"Brawzaar_ingame_muzak",
         "fileName":[
             "music\/brawzaar_ingame_01.ogg",
@@ -117,7 +168,7 @@
             59,
             63
         ],
-        "id":18
+        "id":22
     },
     {
         "name":null,
@@ -152,7 +203,7 @@
             65,
             57
         ],
-        "id":20
+        "id":24
     },
     {
         "name":null,
@@ -192,7 +243,7 @@
             64,
             56
         ],
-        "id":23
+        "id":27
     },
     {
         "name":null,
@@ -211,7 +262,7 @@
         "playCount":null,
         "fadeOutTimeSec":null,
         "durationSec":55,
-        "id":25
+        "id":29
     },
     {
         "name":"Retropolis_menu",
@@ -221,7 +272,7 @@
         "playCount":null,
         "fadeOutTimeSec":null,
         "durationSec":66,
-        "id":26
+        "id":30
     },
     {
         "name":"Halloween_menu",
@@ -231,7 +282,7 @@
         "playCount":null,
         "fadeOutTimeSec":null,
         "durationSec":80,
-        "id":27
+        "id":31
     },
     {
         "name":"Halloween_ingame",
@@ -241,7 +292,7 @@
         "playCount":null,
         "fadeOutTimeSec":null,
         "durationSec":56,
-        "id":28
+        "id":32
     },
     {
         "name":"Brawlcade_Menu",
@@ -251,7 +302,7 @@
         "playCount":null,
         "fadeOutTimeSec":null,
         "durationSec":57,
-        "id":29
+        "id":33
     },
     {
         "name":"Brawlcade_Ingame",
@@ -273,7 +324,7 @@
             57,
             62
         ],
-        "id":30
+        "id":34
     },
     {
         "name":null,
@@ -292,7 +343,7 @@
         "playCount":null,
         "fadeOutTimeSec":null,
         "durationSec":67,
-        "id":32
+        "id":36
     },
     {
         "name":"Pirate_Brawl_Ingame",
@@ -302,7 +353,7 @@
         "playCount":null,
         "fadeOutTimeSec":null,
         "durationSec":63,
-        "id":33
+        "id":37
     },
     {
         "name":"MenuMusic",
@@ -312,7 +363,7 @@
         "playCount":null,
         "fadeOutTimeSec":null,
         "durationSec":153,
-        "id":34
+        "id":38
     },
     {
         "name":"MechMenuMusic",
@@ -322,7 +373,7 @@
         "playCount":null,
         "fadeOutTimeSec":null,
         "durationSec":78,
-        "id":35
+        "id":39
     },
     {
         "name":"Cnymenu_music",
@@ -332,7 +383,7 @@
         "playCount":null,
         "fadeOutTimeSec":null,
         "durationSec":178,
-        "id":36
+        "id":40
     },
     {
         "name":"Brawl_royale_menu_music",
@@ -342,7 +393,7 @@
         "playCount":null,
         "fadeOutTimeSec":null,
         "durationSec":91,
-        "id":37
+        "id":41
     },
     {
         "name":"Brawl_dawgs_menu",
@@ -352,7 +403,7 @@
         "playCount":null,
         "fadeOutTimeSec":null,
         "durationSec":95,
-        "id":38
+        "id":42
     },
     {
         "name":"10th_Anniversary_Menu",
@@ -362,7 +413,7 @@
         "playCount":null,
         "fadeOutTimeSec":null,
         "durationSec":124,
-        "id":39
+        "id":43
     },
     {
         "name":"WinJingle",
@@ -372,7 +423,7 @@
         "playCount":1,
         "fadeOutTimeSec":null,
         "durationSec":null,
-        "id":40
+        "id":44
     },
     {
         "name":"LoseJingle",
@@ -382,7 +433,7 @@
         "playCount":1,
         "fadeOutTimeSec":null,
         "durationSec":null,
-        "id":41
+        "id":45
     },
     {
         "name":"DrawJingle",
@@ -392,7 +443,7 @@
         "playCount":1,
         "fadeOutTimeSec":null,
         "durationSec":null,
-        "id":42
+        "id":46
     },
     {
         "name":"Win_loop",
@@ -402,7 +453,7 @@
         "playCount":null,
         "fadeOutTimeSec":null,
         "durationSec":30,
-        "id":43
+        "id":47
     },
     {
         "name":"Draw_loop",
@@ -412,7 +463,7 @@
         "playCount":null,
         "fadeOutTimeSec":null,
         "durationSec":34,
-        "id":44
+        "id":48
     },
     {
         "name":"Lose_loop",
@@ -422,7 +473,7 @@
         "playCount":null,
         "fadeOutTimeSec":null,
         "durationSec":28,
-        "id":45
+        "id":49
     },
     {
         "name":"Brawlbawl_goal",
@@ -432,7 +483,7 @@
         "playCount":1,
         "fadeOutTimeSec":null,
         "durationSec":null,
-        "id":46
+        "id":50
     },
     {
         "name":"Brawlbawl_other_goal",
@@ -442,7 +493,7 @@
         "playCount":1,
         "fadeOutTimeSec":null,
         "durationSec":null,
-        "id":47
+        "id":51
     },
     {
         "name":"30_sec_panic",
@@ -452,7 +503,7 @@
         "playCount":null,
         "fadeOutTimeSec":null,
         "durationSec":30,
-        "id":48
+        "id":52
     },
     {
         "name":"Brawl_xmas_flag_win",
@@ -462,7 +513,7 @@
         "playCount":1,
         "fadeOutTimeSec":null,
         "durationSec":null,
-        "id":49
+        "id":53
     },
     {
         "name":"Brawl_xmas_flag_lose",
@@ -472,6 +523,6 @@
         "playCount":1,
         "fadeOutTimeSec":null,
         "durationSec":null,
-        "id":50
+        "id":54
     }
 ]

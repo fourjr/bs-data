@@ -287,7 +287,7 @@
     {
         "name":"SeasonEnd",
         "priority":2000,
-        "notificationText":"\uc2dc\uc98c\uc774 \uc885\ub8cc\ub418\uc5c8\uc2b5\ub2c8\ub2e4! \uc2dc\uc98c \ubcf4\uc0c1\uc744 \ubc1b\uc73c\uc138\uc694!",
+        "notificationText":"\ud2b8\ub85c\ud53c \ub9ac\uadf8 \uc885\ub8cc! \ubcf4\uc0c1\uc744 \ubc1b\uc73c\uc138\uc694!",
         "isRegularEventRefresh":null,
         "dontCompare":null,
         "autoAdd":null,
@@ -418,14 +418,26 @@
     },
     {
         "name":"QuestBatch",
-        "priority":50000,
+        "priority":750,
         "notificationText":"\uc0c8\ub85c\uc6b4 \ud018\uc2a4\ud2b8\ub97c \uc9c4\ud589\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4!",
         "isRegularEventRefresh":null,
         "dontCompare":null,
         "autoAdd":null,
         "timeOffsetMins":null,
         "maxRandomTimeOffsetMins":30,
-        "checkRangeMins":null,
+        "checkRangeMins":60,
         "rawNotificationText":"NOTIFICATION_QUEST_REFRESH"
+    },
+    {
+        "name":"TownCrusherStart",
+        "priority":1000,
+        "notificationText":"\ubcf4\uc2a4\uc804\uc774 \ub3cc\uc544\uc654\uc2b5\ub2c8\ub2e4! \uc5b4\ub514\uae4c\uc9c0 \uac08 \uc218 \uc788\uc744\uae4c\uc694?",
+        "isRegularEventRefresh":null,
+        "dontCompare":null,
+        "autoAdd":null,
+        "timeOffsetMins":60,
+        "maxRandomTimeOffsetMins":60,
+        "checkRangeMins":0,
+        "rawNotificationText":"NOTIFICATION_TOWN_CRUSHER"
     }
 ]

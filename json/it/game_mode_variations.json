@@ -17,6 +17,7 @@
         "introDescText2":null,
         "startNotification":"CoinRushStart",
         "endNotification":null,
+        "color":"0xffd852ff",
         "rawTID":"GAME_MODE_0",
         "rawIntroText":"GAME_MODE_0",
         "rawIntroDescText":"COIN_RUSH_INTRO_TEXT"
@@ -38,7 +39,8 @@
         "introDescText":null,
         "introDescText2":null,
         "startNotification":null,
-        "endNotification":null
+        "endNotification":null,
+        "color":null
     },
     {
         "name":"Heist",
@@ -58,6 +60,7 @@
         "introDescText2":"Colpisci la cassaforte nemica per aprirla!",
         "startNotification":"AttackDefendStart",
         "endNotification":null,
+        "color":"0xffd852ff",
         "rawTID":"GAME_MODE_2",
         "rawIntroText":"GAME_MODE_2",
         "rawIntroDescText":"ATTACK_DEFEND_INTRO_TEXT_ATTACK",
@@ -81,6 +84,7 @@
         "introDescText2":null,
         "startNotification":"BountyStart",
         "endNotification":null,
+        "color":"0xff24d6ff",
         "rawTID":"GAME_MODE_3",
         "rawIntroText":"GAME_MODE_3",
         "rawIntroDescText":"BOUNTY_HUNTER_INTRO_TEXT"
@@ -102,7 +106,8 @@
         "introDescText":null,
         "introDescText2":null,
         "startNotification":null,
-        "endNotification":null
+        "endNotification":null,
+        "color":null
     },
     {
         "name":"BrawlBall",
@@ -122,6 +127,7 @@
         "introDescText2":null,
         "startNotification":"LaserBallStart",
         "endNotification":null,
+        "color":"0xff9ab1fd",
         "rawTID":"GAME_MODE_5",
         "rawScoreText":"GOAL",
         "rawScoreTextEnd":"GOAL_MATCH_OVER",
@@ -146,6 +152,7 @@
         "introDescText2":null,
         "startNotification":"BRStart",
         "endNotification":null,
+        "color":"0xff91e136",
         "rawTID":"GAME_MODE_6",
         "rawIntroText":"GAME_MODE_6",
         "rawIntroDescText":"BATTLE_ROYALE_INTRO_TEXT"
@@ -168,6 +175,7 @@
         "introDescText2":"Sei il MEGA BRAWLER!",
         "startNotification":"BossStart",
         "endNotification":null,
+        "color":"0xffff6847",
         "rawTID":"GAME_MODE_7",
         "rawIntroText":"GAME_MODE_7",
         "rawIntroDescText":"BOSS_INTRO_TEXT_ATTACK",
@@ -191,6 +199,7 @@
         "introDescText2":null,
         "startNotification":"CoopStart",
         "endNotification":null,
+        "color":"0xffff6847",
         "rawTID":"GAME_MODE_8",
         "rawIntroText":"GAME_MODE_8",
         "rawIntroDescText":"COOP_INTRO_TEXT"
@@ -213,6 +222,7 @@
         "introDescText2":null,
         "startNotification":null,
         "endNotification":null,
+        "color":"0xff91e136",
         "rawTID":"GAME_MODE_9",
         "rawIntroText":"GAME_MODE_9",
         "rawIntroDescText":"BATTLE_ROYALE_TEAM_INTRO_TEXT"
@@ -235,6 +245,7 @@
         "introDescText2":null,
         "startNotification":"RaidBossStart",
         "endNotification":null,
+        "color":"0xffff6847",
         "rawTID":"GAME_MODE_10",
         "rawIntroText":"GAME_MODE_10",
         "rawIntroDescText":"RAID_BOSS_INTRO_TEXT"
@@ -257,6 +268,7 @@
         "introDescText2":null,
         "startNotification":"RoboWarsStart",
         "endNotification":null,
+        "color":"0xffff6847",
         "rawTID":"GAME_MODE_11",
         "rawIntroText":"GAME_MODE_11",
         "rawIntroDescText":"ROBO_WARS_INTRO_TEXT"
@@ -278,7 +290,8 @@
         "introDescText":null,
         "introDescText2":null,
         "startNotification":null,
-        "endNotification":null
+        "endNotification":null,
+        "color":null
     },
     {
         "name":"Training",
@@ -297,7 +310,8 @@
         "introDescText":null,
         "introDescText2":null,
         "startNotification":null,
-        "endNotification":null
+        "endNotification":null,
+        "color":null
     },
     {
         "name":"Takedown",
@@ -317,6 +331,7 @@
         "introDescText2":null,
         "startNotification":"TakedownStart",
         "endNotification":null,
+        "color":"0xff3891ff",
         "rawTID":"GAME_MODE_14",
         "rawIntroText":"GAME_MODE_14",
         "rawIntroDescText":"BOSS_RACE_INTRO_TEXT"
@@ -339,6 +354,7 @@
         "introDescText2":null,
         "startNotification":"LoneStarStart",
         "endNotification":null,
+        "color":"0xffe24e5a",
         "rawTID":"GAME_MODE_15",
         "rawIntroText":"GAME_MODE_15",
         "rawIntroDescText":"BOUNTY_HUNTER_INTRO_TEXT"
@@ -361,6 +377,7 @@
         "introDescText2":null,
         "startNotification":"CTFStart",
         "endNotification":null,
+        "color":"0xff27be47",
         "rawTID":"GAME_MODE_16",
         "rawScoreText":"CTF_GOAL",
         "rawScoreTextEnd":"CTF_GOAL_MATCH_OVER",
@@ -377,18 +394,42 @@
         "gameModeIconName":"event_icon_king_of_hill",
         "scoreSfx":null,
         "opponentScoreSfx":null,
-        "scoreText":"<name> ha issato una bandiera!",
-        "scoreTextEnd":"<name> ha issato una bandiera.\\nLo scontro \u00e8 terminato!",
-        "friendlyMenuOrder":12,
+        "scoreText":"TID_FLAG_RAISE",
+        "scoreTextEnd":"TID_FLAG_RAISE_GAME_OVER",
+        "friendlyMenuOrder":13,
         "introText":"DOMINIO",
-        "introDescText":"Controlla i presidi!",
+        "introDescText":"Conquista tutti i presidi!",
         "introDescText2":null,
         "startNotification":"KOHStart",
         "endNotification":null,
+        "color":"0xffff4343",
         "rawTID":"GAME_MODE_17",
         "rawScoreText":"FLAG_RAISE",
         "rawScoreTextEnd":"FLAG_RAISE_GAME_OVER",
         "rawIntroText":"GAME_MODE_17",
         "rawIntroDescText":"KING_OF_HILL_INTRO_TEXT"
+    },
+    {
+        "name":"BossFight_TownCrush",
+        "variation":18,
+        "disabled":null,
+        "tID":"ASSALTO A SUPER CITY",
+        "chatSuggestionItemName":"chat_letsplay_rampage",
+        "gameModeRoomIconName":"event_gameroom_rampage",
+        "gameModeIconName":"event_icon_rampage",
+        "scoreSfx":null,
+        "opponentScoreSfx":null,
+        "scoreText":null,
+        "scoreTextEnd":null,
+        "friendlyMenuOrder":14,
+        "introText":"ASSALTO A SUPER CITY",
+        "introDescText":"Sconfiggi il boss.",
+        "introDescText2":null,
+        "startNotification":"TownCrusherStart",
+        "endNotification":null,
+        "color":"0xffff6847",
+        "rawTID":"GAME_MODE_18",
+        "rawIntroText":"GAME_MODE_18",
+        "rawIntroDescText":"RAID_BOSS_INTRO_TEXT"
     }
 ]

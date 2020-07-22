@@ -334,6 +334,7 @@
 ,,,,,"video.qq.com",
 ,,,,,"v.qq.com",
 ,,,,,"qualtrics.com",
+,,,,,"bilibili.com",
 "JOYSTICK_AREA_WIDTH",350,,,,,
 "ENABLE_CHAT_REPORTING",,"TRUE",,,,
 "ENABLE_BAD_TEXT_CHECK",,"TRUE",,,,
@@ -342,7 +343,7 @@
 "FRIEND_INVITE_TOKEN_ENABLED",,"TRUE",,,,
 "FRIEND_INVITE_TOKEN_EXPIRE_TIME_SECONDS",600,,,,,
 "TEAM_INVITE_DEEPLINK_ENABLED",,"TRUE",,,,
-"CN_STARTUP_WARNING",,,"抵制不良游戏，拒绝盗版游戏。注意自我保护，谨防受骗上当。适度游戏益脑，沉迷游戏伤身。合理安排时间，享受健康生活。",,,
+"CN_STARTUP_WARNING",,,"本网络游戏适合年满13周岁以上的用户使用；为了你的健康，请合理控制游戏时间。沪网文【2018】8544-517号 新出网证（沪）字33号 著作权人：超级细胞有限公司（SUPERCELL OY）出版单位：\n上海游族信息技术有限公司 国新出审【2020】552号 出版物号：ISBN 978-7-498-07472-0\n抵制不良游戏，拒绝盗版游戏。注意自我保护，谨防受骗上当。\n适度游戏益脑，沉迷游戏伤身。合理安排时间，享受健康生活。",,,
 "CHINA_REGULATIONS_ENABLED",,"TRUE",,,,
 "RARE_CHANCE",559,,,,,
 "SUPER_RARE_CHANCE",252,,,,,
@@ -362,20 +363,6 @@
 "ONLINE_MENU_AUTO_CLOSE_TIME_SECS",-1,,,,,
 "ONLINE_MENU_NEW_ITEM_THROTTLE_SECS",60,,,,,
 "AUTO_OPEN_TEAM_LOOT_BAR",,"TRUE",,,,
-"GAME_MODE_VARIATION_COLORS",,,,0,"0xffd852ff","Gem Grab"
-,,,,2,"0xffd852ff","Heist"
-,,,,3,"0xff24d6ff","Bounty"
-,,,,6,"0xff91e136","Solo SD"
-,,,,5,"0xff9ab1fd","Brawl Ball"
-,,,,7,"0xffff6847","Boss Fight"
-,,,,8,"0xffff6847","Robo Bumble"
-,,,,9,"0xff91e136","Duo SD"
-,,,,10,"0xffff6847","Raid Boss"
-,,,,11,"0xffff6847","Robo Wars"
-,,,,14,"0xff3891ff","Takedown"
-,,,,15,"0xffe24e5a","Lone Star"
-,,,,16,"0xff27be47","CTF"
-,,,,17,"0xffff4343","Hot Zone"
 "DEFAULT_FONT_COLORS",,,,,"0xff4d4848",
 ,,,,,"0xffe1e1e1",
 ,,,,,"0xfffd8067",
@@ -447,3 +434,9 @@
 ,,,,70,,
 "LFG_XP_LIMIT",10,,,,,
 "BATTLE_EMOTE_VISIBLE_TIME_SECS",5,,,,,
+"QQ_TARGET_URL",,,"https://speed.gamecenter.qq.com/pushgame/v1/detail?appid=1106576735&_wv=2164260896&_wwv=448&autodownload=1&autolaunch=1&autosubscribe=1&ADTAG=gameobj.<tag>",,,
+"QQ_TARGET_URL_ANDROID",,,"https://speed.gamecenter.qq.com/pushgame/v1/detail?appid=1106576735&_wv=2164260896&_wwv=448&autodownload=1&autolaunch=1&autosubscribe=1&ADTAG=gameobj.<tag>",,,
+"QQ_IMAGE_URL",,,"http://imgcache.gtimg.cn/ACT/svip_act/act_img/public/202006/m1591079527_108x108_gaitubao_100x100.png",,,
+"WECHAT_MEDIA_TAG",,,"MSG_INVITE",,,
+"WECHAT_IMAGE_PATH",,,"image/brawl_icon.png",,,
+"YOOZOO_OPID_TO_OPSID",,,,,2402,2208
